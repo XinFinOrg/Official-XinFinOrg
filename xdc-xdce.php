@@ -32,6 +32,11 @@ So, if you are skeptical about the authenticity and the hassles of a regular int
     <div id="network" >
      
       <div class="row">
+         <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+         <div class="coinmarketcap-currency-widget wbox" data-currencyid="2634" data-base="USD" data-secondary="BTC"><div style="border:2px solid #E4E6EB;border-radius: 10px;font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;min-width:285px;">    <div>        <div style="float:right;width:67%;border: 0px solid #000;text-align:left;padding:5px 0px;line-height:25px;">            <span style="font-size: 18px;"><a href="http://coinmarketcap.com/currencies/xinfin-network/?utm_medium=widget&amp;utm_campaign=cmcwidget&amp;utm_source=&amp;utm_content=xinfin-network" target="_blank" style="text-decoration: none; color: rgb(66, 139, 202);">XinFin Network (XDCE)</a></span> <br>            <span style="font-size: 16px;">0.006217 USD <span style="color:#d14836">(-1.17%)</span></span>            <br><span style="font-size: 12px; color:gray">0.00000082 BTC </span>        </div>        <div style="text-align:center;padding:5px 0px;width:33%;"><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/2634.png"></div>    </div><div style="border-top: 1px solid #E4E6EB;clear:both;">                    <div style="text-align:center;float:left;width:33%;font-size:12px;padding:12px 0;border-right:1px solid #E4E6EB;line-height:1.25em;">                        RANK                        <br><br>                        <span style="font-size: 17px; ">329</span>                    </div>                    <div style="text-align:center;float:left;width:33%;font-size:12px;padding:12px 0 16px 0;border-right:1px solid #E4E6EB;line-height:1.25em;">                        MARKET CAP                        <br><br>                        <span style="font-size: 14px; ">$22.76 M <span style="font-size:9px">USD</span></span>                    </div>                    <div style="text-align:center;float:left;width:33%;font-size:12px;padding:12px 0 16px 0;line-height:1.25em;">                        VOLUME (24H)                        <br><br>                        <span style="font-size: 14px; ">$513.10 K <span style="font-size:9px">USD</span></span>                    </div></div>    <div style="border-top: 1px solid #E4E6EB;text-align:center;clear:both;font-size:10px;font-style:italic;padding:5px 0;">        <a href="http://coinmarketcap.com?utm_medium=widget&amp;utm_campaign=cmcwidget&amp;utm_source=&amp;utm_content=xinfin-network" target="_blank" style="text-decoration: none; color: rgb(66, 139, 202);">Powered by CoinMarketCap</a>    </div></div></div>
+      </div>
+      <div class="row">
       	<div class="col-md-5"> <h3>XDC</h3></div>
       	<div class="col-md-2">&nbsp;</div>
       	<div class="col-md-5"> <h3>XDCE</h3></div>
@@ -50,10 +55,12 @@ The XDC token can be currently procured from the AlphaEx exchange.</p>
           &nbsp;
         </div>
          <div class="col-md-5 col-sm-4 col-xs-12">
+
           <p>- XinFin has launched an Ethereum token, XDCE, that can be traded with XDC utility token on a 1:1 ratio. This allows token holder the flexibility to hold tokens in either form for utility. <br/><br/>
 - The ERC-20 token can be swapped for the XDC token at a ratio of 1:1. This swap can be made on the AlphaEx exchange. <br/><br/>
 - Compatible with all decentralised exchanges<br/><br/>
 - Presence in liquidity markets and supporting XDC liquidity.
+</div>
 </p>
         </div>
       </div>

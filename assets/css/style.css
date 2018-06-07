@@ -280,7 +280,6 @@ padding: 10px 0 20px 0 !important;/*padding: 5% 0;*/
        font-size: 18px;
     letter-spacing: 0.5px;
     /* font-weight: 100; */
- 
 }
 
 #banner .bannertext1 {
@@ -1250,7 +1249,7 @@ hr {
   display: block;
   position: relative;
   background: #112b3c;
-  min-height:700px;
+  min-height:500px;
 }
 
 #contactbanner .bannertext {

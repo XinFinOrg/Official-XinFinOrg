@@ -357,7 +357,6 @@ Paper Overview (V1)
 
 
   <script src='https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js'></script>
-
-    <script src="assets/js/index.js"></script>
+  <script src="assets/js/index.js"></script>
 
 <?php include('inc/footer.php') ?>
