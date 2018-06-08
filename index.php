@@ -165,7 +165,6 @@ include('inc/header.php') ?>
         </p>
         <!--</div>-->
       </div>
-
       <div class="col-md-3 col-sm-6 col-xs-6">
         <!--<div class="wow zoomIn" data-wow-duration="0.5s" data-wow-delay="0.5s">-->
         <p>
@@ -173,8 +172,10 @@ include('inc/header.php') ?>
         </p>
         <!--</div>-->
       </div>
+    </div>
 
-      <div class="ccol-md-3 col-sm-6 col-xs-6">
+    <div class="row">
+      <div class="col-md-6 col-sm-6 col-xs-6">
         <!--<div class="wow zoomIn" data-wow-duration="0.5s" data-wow-delay="0.5s">-->
         <p>
           <img src="assets/images/home/nanyang-logo.jpg" alt="Ramco" class="img-responsive logoc">
@@ -182,15 +183,13 @@ include('inc/header.php') ?>
         <!--</div>-->
       </div>
 
-      <div class="col-md-3 col-sm-6 col-xs-6">
+      <div class="col-md-6 col-sm-6 col-xs-6">
         <!--<div class="wow zoomIn" data-wow-duration="0.5s" data-wow-delay="0.5s">-->
         <p>
           <img src="assets/images/home/assocham-logo.jpeg" alt="Enterprise" class="img-responsive logoc">
         </p>
         <!--</div>-->
       </div>
-
-
     </div>
 
     <div class="clear"></div>
@@ -247,11 +246,6 @@ include('inc/header.php') ?>
     </div>
 
 
-
-
-
-    <div class="clear"></div>
-
   </div>
 
 </section>
@@ -287,7 +281,7 @@ include('inc/header.php') ?>
     width: auto;
     vertical-align: middle;
     display: inline-block;
-    max-width: 140px;
+    max-width: 150px;
     opacity: 1.0;
     -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
@@ -303,13 +297,23 @@ include('inc/header.php') ?>
 
 
 <script>
-
-
   //console.log(target);
   var activeUrl = localStorage.getItem("currentUrl");
   $('.nav.navbar-nav li:nth-child(1)').addClass('active');
 </script>
-<script type="text/javascript">(function (d, w) { var x = d.getElementsByTagName('SCRIPT')[0]; var f = function () { var s = d.createElement('SCRIPT'); s.type = 'text/javascript'; s.async = true; s.src = "//np.lexity.com/embed/YW/f8f630081a97faea10edb0f2f37919e2?id=f6743723d99f"; x.parentNode.insertBefore(s, x); }; w.attachEvent ? w.attachEvent('onload', f) : w.addEventListener('load', f, false); }(document, window));</script>
+<script type="text/javascript">
+  (function (d, w) {
+    var x = d.getElementsByTagName('SCRIPT')[0];
+    var f = function () {
+      var s = d.createElement('SCRIPT');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = "//np.lexity.com/embed/YW/f8f630081a97faea10edb0f2f37919e2?id=f6743723d99f";
+      x.parentNode.insertBefore(s, x);
+    };
+    w.attachEvent ? w.attachEvent('onload', f) : w.addEventListener('load', f, false);
+  }(document, window));
+</script>
 
 <?php include('inc/footer.php') ?>
 <!-- Modal -->
