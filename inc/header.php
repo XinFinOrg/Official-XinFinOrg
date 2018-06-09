@@ -231,7 +231,7 @@
                 <a href="https://ewallet.xinfin.org/" target="_blank">Wallet</a>
               </li>
               <li class="nav-item">
-                <a href="about.php" target="_blank">About us</a>
+                <a href="about.php">About us</a>
               </li>
 
               <li>
