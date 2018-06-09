@@ -1,6 +1,6 @@
 <?php 
 $title = "Blockchain Technology Company | World's First Hybrid Blockchain";
-$desc = "Xinfin, tehe blockchain technology company developed the world’s first hybrid blockchain. Come build dApps, learn more about XinFin and the XDC hybrid blockchain";
+$desc = "Xinfin, the blockchain technology company developed the world’s first hybrid blockchain. Come build dApps, learn more about XinFin and the XDC hybrid blockchain";
 
 include('inc/header.php') ?>
 
