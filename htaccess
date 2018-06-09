@@ -13,7 +13,7 @@ RewriteRule .* https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 # Compress Files
 <FilesMatch ".(js|css|html|php|xml)$">
 SetOutputFilter DEFLATE
-</FilesMatch>
+</FilesMatch>s
 
 # Turn off ETags
 Header unset ETag

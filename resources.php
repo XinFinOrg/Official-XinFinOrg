@@ -46,8 +46,8 @@ include('inc/header.php') ?>
       <p>These whitepapers are published with a view of educating the eager minds about the nitty-gritty of this wonderful multipurpose platform. The papers also narrate the cases of how this platform can benefit the businesses and financial organization alike, in the venture of improving the scenario of cross-border fund transfer.</p>
 
       <div class="white-button">
-        <a href="https://www.xinfin.org/wp-content/uploads/2017/10/The%20XDC%20Protocol%20-%20Tech%20Whitepaper%20by%20Xinfin%20Organization%20V1.0.pdf" target="_blank" style="margin-right: 25px;">The XDC Protocol</a>
-        <a href="https://www.xinfin.org/wp-content/uploads/2017/21/XinFin%20Business%20White%20Paper.pdf" target="_blank" style="margin-left: 25px;">Business White Paper</a>
+        <a href="docs/whitepaper-tech.pdf" target="_blank" style="margin-right: 25px;">The XDC Protocol</a>
+        <a href="docs/whitepaper-business.pdf" target="_blank" style="margin-left: 25px;">Business White Paper</a>
       </div>
     </div>
 
