@@ -15,8 +15,7 @@ include('inc/header.php') ?>
         <div class="col-md-8">
           <div style="display:block; position: relative">
             <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-              <h1 style="text-align: left;  ">The World's First
-                <br/>Hybrid Blockchain</h1>
+              <h1 style="text-align: left;  ">Hybrid Blockchain Technology<br/>For Global Trade<br/> and Finance</h1>
               <p style="text-align: left; text-transform: none; ">
                 <!-- Use the XDC token on the public state that is identical in functionality to public blockchains. Or set up private networks to run enterprise use cases. -->Combining the power of Public and Private blockchains.</p>
               <a href="#" data-toggle="modal" data-target="#myModal">
@@ -175,18 +174,26 @@ include('inc/header.php') ?>
     </div>
 
     <div class="row">
-      <div class="col-md-6 col-sm-6 col-xs-6">
+      <div class="col-md-4 col-sm-6 col-xs-6">
         <!--<div class="wow zoomIn" data-wow-duration="0.5s" data-wow-delay="0.5s">-->
         <p>
-          <img src="assets/images/home/nanyang-logo.jpg" alt="Ramco" class="img-responsive logoc">
+          <img src="assets/images/home/indsoft-logo.png" alt="indsoft" class="img-responsive logoc">
         </p>
         <!--</div>-->
       </div>
 
-      <div class="col-md-6 col-sm-6 col-xs-6">
+      <div class="col-md-4 col-sm-6 col-xs-6">
         <!--<div class="wow zoomIn" data-wow-duration="0.5s" data-wow-delay="0.5s">-->
         <p>
           <img src="assets/images/home/assocham-logo.jpeg" alt="Enterprise" class="img-responsive logoc">
+        </p>
+        <!--</div>-->
+      </div>
+
+      <div class="col-md-4 col-sm-6 col-xs-6">
+        <!--<div class="wow zoomIn" data-wow-duration="0.5s" data-wow-delay="0.5s">-->
+        <p>
+          <img src="assets/images/home/nanyang-logo.jpg" alt="Ramco" class="img-responsive logoc">
         </p>
         <!--</div>-->
       </div>
@@ -281,7 +288,7 @@ include('inc/header.php') ?>
     width: auto;
     vertical-align: middle;
     display: inline-block;
-    max-width: 150px;
+    max-width: 140px;
     opacity: 1.0;
     -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
