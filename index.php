@@ -146,7 +146,7 @@ include('inc/header.php') ?>
       <div class="col-md-3 col-sm-6 col-xs-6">
         <!--<div class="wow zoomIn" data-wow-duration="0.5s" data-wow-delay="0.5s">-->
         <p>
-          <img src="https://glints.sg/asset/images/glints-tp.jpg" alt="Temasek" class="img-responsive logoc">
+          <img src="assets/images/home/temasek-logo.jpg" alt="Temasek" class="img-responsive logoc">
         </p>
         <!--</div>-->
       </div>
