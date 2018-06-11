@@ -598,11 +598,11 @@ However, by means of creating a secured blockchain transaction platform, XinFin 
 </div>
 </div>
 </div>
-<div class="office-location-point melborne"  data-location="Melborne" >
+<div class="office-location-point melboren"  data-location="Melborne" >
 <div class="location-infos clearfix">
 <p><a class="location-img"><img class="alignnone" src="assets/images/office-31.jpg" alt="" width="130" height="130" /></a></p>
 <div class="location-infos-content">
-<h4>Melborne</h4>
+<h4>Melbourne</h4>
 <h5>www.xinfin.org</h5>
 <h5>email: info@xinfin.org</h5>
 </div>
