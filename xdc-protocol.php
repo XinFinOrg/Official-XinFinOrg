@@ -279,7 +279,7 @@ include('inc/header.php') ?>
 
 <script>
   var activeUrl = localStorage.getItem("currentUrl");
-  $('.nav.navbar-nav li:nth-child(3)').addClass('active');
+  $('.nav.navbar-nav li:nth-child(2)').addClass('active');
 </script>
 
 

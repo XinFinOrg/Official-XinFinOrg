@@ -286,6 +286,22 @@ include('inc/header.php') ?>
                   </div>
                 </div>
               </div>
+              <div class="item ">
+                <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
+                  <img src="assets/images/joseph.jpg" alt="" class="img-responsive" width="100%">
+                  <div class="overlay2">
+                    <div class="text2">
+                      <h4>Joseph M. Appalsamy
+                        <a href="https://www.linkedin.com/in/joseph-appalsamy-1918065b" target="_blank">
+                          <i class="fa fa-linkedin" aria-hidden="true"></i>
+                        </a>
+                      </h4>
+                      <p class="cto">Head of Business Development</p>
+                      <p class="text-content">Joseph is the Head of Business Development and responsible for strategic accounts in global trade and finance, collaboration on commercial projects leveraging XinFin's XDC protocol and working with global institutions adopting and migrating to enterprise blockchain. Prior to joining XinFin, Joseph served as the MD for Perennis Capital Inc. He was the director of social ventures for DreamFund Holdings and was co-founder of ECCMOX Inc., a sustainability consultancy to global engineering firms and Government Services Canada.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
                   <img src="assets/images/emerson-samfilippo.jpg" alt="" class="img-responsive" width="100%">
@@ -936,7 +952,10 @@ include('inc/header.php') ?>
 </script>
 
 
-
+<script>
+  var activeUrl = localStorage.getItem("currentUrl");
+  $('.nav.navbar-nav li:nth-child(6)').addClass('active');
+</script>
 
 
 <?php include('inc/footer.php') ?>

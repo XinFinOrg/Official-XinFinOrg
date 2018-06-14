@@ -273,7 +273,7 @@ include('inc/header.php') ?>
 
 <script>
     var activeUrl = localStorage.getItem("currentUrl");
-    $('.nav.navbar-nav li:nth-child(5)').addClass('active');
+    $('.nav.navbar-nav li:nth-child(4)').addClass('active');
 </script>
 
 <?php include('inc/footer.php') ?>
