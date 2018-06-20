@@ -1,6 +1,6 @@
 <?php 
-$title = "Blockchain Technology Company | World's First Hybrid Blockchain";
-$desc = "Xinfin, the blockchain technology company developed the world’s first hybrid blockchain. Come build dApps, learn more about XinFin and the XDC hybrid blockchain";
+$title = "Enterprise ready hybrid blockchain for global trade and finance";
+$desc = "XinFin is a global open source Hybrid Blockchain protocol/platform with independent community contributors comprising of long term backers, network utility and tech developers that help build various enterprise use cases.";
 
 include('inc/header.php') ?>
 
@@ -15,7 +15,7 @@ include('inc/header.php') ?>
         <div class="col-md-8">
           <div style="display:block; position: relative">
             <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-              <h1 style="text-align: left;  ">Hybrid Blockchain Technology<br/>For Global Trade<br/> and Finance</h1>
+              <h1 style="text-align: left;  ">Enterprise Ready Hybrid Blockchain For Global<br/> Trade and Finance</h1>
               <p style="text-align: left; text-transform: none; ">
                 <!-- Use the XDC token on the public state that is identical in functionality to public blockchains. Or set up private networks to run enterprise use cases. -->Combining the power of Public and Private blockchains.</p>
               <a href="#" data-toggle="modal" data-target="#myModal">
