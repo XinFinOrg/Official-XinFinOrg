@@ -257,6 +257,12 @@ include('inc/header.php') ?>
                             </div>
                         </li>
                         <li>
+                            <h3>● How is XDC backed?</h3>
+                            <div>
+                                <p>If you read through writings of economists or Central bankers, most of the times you will see reference of money supply or currency to productivity of businesses and nation in general. While XDC is a digital asset, we do not aim to be a crypto-currency.Xinfin.orgis working with Governments and institutions worldwide to increase productivity and addressing issues in global trade and supply chain finance today to bridge the $5 trillion infrastructure financing deficit. We greatly believe that Xinfin.org will be able to convince the Governments and institutions of the power of blockchain and getting some form of recognition for XDC in the future.</p>
+                            </div>
+                        </li>
+                        <li>
                             <h3>● What is the token standard?</h3>
                             <div>
                                 <p>The XDC token is built upon the ERC20 token standard. This design decision was taken to ensure a fundamental compatibility with the multitude of emerging Ethereum Dapps. With a view at future interoperability with the Ethereum Blockchain, the choice of using the ERC20 standard was straightforward. This compatibility extends to smart contracts written for the Ethereum Blockchain. We have developed our own standard XDC01 that will ensure users on the XDC Blockchain do not accidentally send their tokens to an incompatible ERC20 based Blockchain. The XDC01 standard is built on top of the ERC20 standard to ensure future compatibility when interoperability allows for such kinds of transfers.This does not mean that we participate in the ERC20 public Ethereum ecosystem. Our implementation uses the ERC20 standard in our forked hybrid blockchain platform that does not connect to the public Ethereum network.</p>
