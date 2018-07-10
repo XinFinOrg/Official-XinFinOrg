@@ -1,0 +1,129 @@
+
+RewriteCond %{HTTPS} off
+# First rewrite to HTTPS:
+# Don't put www. here. If it is already there it will be included, if not
+# the subsequent rule will catch it.
+RewriteRule .* https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+# Now, rewrite any request to the wrong domain to use www.
+# [NC] is a case-insensitive match
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteRule .* https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+
+# Compress Files
+<FilesMatch ".(js|css|html|php|xml)$">
+SetOutputFilter DEFLATE
+</FilesMatch>s
+
+# Turn off ETags
+Header unset ETag
+FileETag None
+
+# TN - START EXPIRES CACHING #
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType text/css "access 1 month"
+ExpiresByType text/html "access 1 month"
+ExpiresByType image/gif "access 1 year"
+ExpiresByType image/png "access 1 year"
+ExpiresByType image/jpg "access 1 year"
+ExpiresByType image/jpeg "access 1 year"
+ExpiresByType image/x-icon "access 1 year"
+ExpiresByType application/pdf "access 1 month"
+ExpiresByType application/javascript "access 1 month"
+ExpiresByType text/x-javascript "access 1 month"
+ExpiresByType application/x-shockwave-flash "access 1 month"
+ExpiresDefault "access 1 month"
+</IfModule>
+# TN - END EXPIRES CACHING #
+
+# TN - BEGIN Cache-Control Headers
+<ifModule mod_headers.c>
+<filesMatch "\.(ico|jpe?g|png|gif|swf)$">
+Header set Cache-Control "public"
+</filesMatch>
+<filesMatch "\.(css)$">
+Header set Cache-Control "public"
+</filesMatch>
+<filesMatch "\.(js)$">
+Header set Cache-Control "private"
+</filesMatch>
+<filesMatch "\.(x?html?|php)$">
+Header set Cache-Control "private, must-revalidate"
+</filesMatch>
+</ifModule>
+# TN - END Cache-Control Headers
+
+
+# Cache Files 90 Days
+<filesMatch ".(html|css|js|swf|pdf|xml|mp3|gif|jpg|png)$">
+ExpiresActive On
+ExpiresDefault "access plus 90 days"
+Header append Cache-Control "public"
+</filesMatch>
+
+# Leverage browser caching code
+<IfModule mod_expires.c>
+# Enable expirations
+ExpiresActive On 
+# Default directive
+ExpiresDefault "access plus 1 day"
+# My favicon
+ExpiresByType image/x-icon "access plus 1 day"
+# Images
+ExpiresByType image/gif "access plus 1 day"
+ExpiresByType image/png "access plus 1 day"
+ExpiresByType image/jpg "access plus 1 day"
+ExpiresByType image/jpeg "access plus 1 day"
+# CSS
+ExpiresByType text/css "access plus 1 week"
+# Javascript
+ExpiresByType application/javascript "access plus 1 month"
+</IfModule>
+
+<IfModule mod_deflate.c>
+  # Compress HTML, CSS, JavaScript, Text, XML and fonts
+  AddOutputFilterByType DEFLATE application/javascript
+  AddOutputFilterByType DEFLATE application/rss+xml
+  AddOutputFilterByType DEFLATE application/vnd.ms-fontobject
+  AddOutputFilterByType DEFLATE application/x-font
+  AddOutputFilterByType DEFLATE application/x-font-opentype
+  AddOutputFilterByType DEFLATE application/x-font-otf
+  AddOutputFilterByType DEFLATE application/x-font-truetype
+  AddOutputFilterByType DEFLATE application/x-font-ttf
+  AddOutputFilterByType DEFLATE application/x-javascript
+  AddOutputFilterByType DEFLATE application/xhtml+xml
+  AddOutputFilterByType DEFLATE application/xml
+  AddOutputFilterByType DEFLATE font/opentype
+  AddOutputFilterByType DEFLATE font/otf
+  AddOutputFilterByType DEFLATE font/ttf
+  AddOutputFilterByType DEFLATE image/svg+xml
+  AddOutputFilterByType DEFLATE image/x-icon
+  AddOutputFilterByType DEFLATE text/css
+  AddOutputFilterByType DEFLATE text/html
+  AddOutputFilterByType DEFLATE text/javascript
+  AddOutputFilterByType DEFLATE text/plain
+  AddOutputFilterByType DEFLATE text/xml
+
+  # Remove browser bugs (only needed for really old browsers)
+  BrowserMatch ^Mozilla/4 gzip-only-text/html
+  BrowserMatch ^Mozilla/4\.0[678] no-gzip
+  BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
+  Header append Vary User-Agent
+</IfModule>
+
+# Begin Ultimate SEO V2.2d 
+Options +FollowSymLinks
+RewriteEngine On 
+
+  # RewriteBase instructions 
+  # Change RewriteBase dependent on how your shop is accessed as below. 
+  # http://www.mysite.com = RewriteBase / 
+  # http://www.mysite.com/catalog/ = RewriteBase /catalog/  
+  # http://www.mysite.com/catalog/shop/ = RewriteBase /catalog/shop/ 
+
+  # Change the following line using the instructions above  
+  
+RewriteBase /
+
+

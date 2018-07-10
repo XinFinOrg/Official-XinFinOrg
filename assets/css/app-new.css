@@ -1,0 +1,220 @@
+*, *:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.map-offices {
+    background-position: center bottom;
+    background-repeat: no-repeat
+}
+.map-offices {
+    text-align: center
+}
+
+.map-offices h3 {
+    color: #fff!important;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 40px
+}
+
+.map-offices .offices-locations {
+    position: relative;
+    margin: 0 auto;
+    /*width: 730px*/
+}
+
+@media only screen and (max-width:768px) {
+    .map-offices .offices-locations {
+        width: 100%
+    }
+}
+
+.map-offices .offices-locations .office-location-point {
+    min-height: 7px;
+    min-width: 7px;
+    padding-bottom: 20px;
+    position: absolute;
+    z-index: 1;
+    /*cursor: pointer;*/
+}
+
+.map-offices .offices-locations .office-location-point:hover {
+    z-index: 2
+}
+
+.map-offices .offices-locations .office-location-point::before {
+    background: #112b3c;
+    border-radius: 50%;
+    bottom: 0;
+    content: "";
+    cursor: pointer;
+    display: block;
+    height: 10px;
+    left: 0;
+    margin-top: 0;
+    position: absolute;
+    width: 10px;
+    z-index: 0
+}
+
+.map-offices .offices-locations .office-location-point:hover::before,
+.map-offices .offices-locations .office-location-point.selected::before {
+    box-shadow: 0 0 0 3px #01649f57;
+    transform: scale(1.5)
+}
+
+.map-offices .offices-locations .location-infos {
+    color: #333;
+    font-size: 12px;
+    font-weight: 600;
+    left: -3999px;
+    min-width: 310px;
+    opacity: 0;
+    padding-bottom: 30px;
+    position: absolute;
+    top: -140px;
+    transition: opacity .3s ease-in 0s, visibility .3s ease-in 0s;
+    visibility: hidden
+}
+
+.map-offices .offices-locations .location-infos p {
+    float: right;
+    margin: 0;
+    max-width: 152px
+}
+
+.map-offices .offices-locations .location-infos p img {
+    margin: 0;
+    border-radius: 0 5px 5px 0
+}
+
+.map-offices .offices-locations .office-location-point:hover .location-infos,
+.map-offices .offices-locations .office-location-point.selected .location-infos {
+    left: -118px;
+    opacity: 1;
+    visibility: visible;
+    /*cursor: pointer;*/
+}
+
+.map-offices .offices-locations .location-infos::before {
+    border-left: 12px solid transparent;
+    border-top: 12px solid #01649f;
+    bottom: 19px;
+    content: "";
+    left: 110px;
+    position: absolute
+}
+
+.map-offices .offices-locations .location-infos-content {
+    background: #01649f none repeat scroll 0 0;
+    border-radius: 5px 0 0 5px;
+    height: 130px;
+    overflow: hidden;
+    padding: 20px 25px 0;
+    position: relative;
+    text-align: left
+}
+
+.map-offices .offices-locations .location-infos-content h4 {
+    color: #fff;
+    font-size: 13px;
+    font-weight: 700;
+    margin-bottom: 7px;
+    text-transform: uppercase;
+    margin-top: 0
+}
+
+.map-offices .offices-locations .location-infos-content h5 {
+    color: #fff;
+    font-size: 13px;
+    font-weight: 400;
+    margin-bottom: 2px
+}
+
+.map-offices .offices-locations .location-infos-content p {
+    font-size: 12px
+}
+
+.map-offices .offices-locations .location-infos-content p:last-child {
+    margin-bottom: 0
+}
+
+.map-offices .offices-locations .location-infos>a {
+    float: left
+}
+
+.map-offices .offices-locations .location-infos>a img {
+    border-radius: 2px 0 0 2px;
+    margin: 0
+}
+
+.map-offices .offices-locations .location-img::after {
+    color: #fff;
+    content: "ÃŽÂµÃƒÂ¿Ã¢â€¢â€˜";
+    font-family: icomoon;
+    left: 0;
+    opacity: 0;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    z-index: 2
+}
+
+.map-offices .offices-locations .location-infos>a {
+    float: left
+}
+
+.map-offices .offices-locations .location-img {
+    overflow: hidden;
+    position: relative
+}
+
+.map-offices .offices-locations .location-img img {
+    margin: 0!important
+}
+
+.map-offices .offices-locations>img {
+    opacity: .2
+}
+
+.map-offices .offices-list {
+    margin-top: 50px;
+    margin-bottom: 50px
+}
+
+.map-offices .offices-list .location-name {
+    border: 1px solid transparent;
+    border-radius: 3px;
+    color: #333;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 30px;
+    margin-bottom: 5px;
+    padding: 0 15px;
+    text-decoration: none
+}
+
+.map-offices .offices-list .location-name.selected,
+.map-offices .offices-list .location-name:hover {
+    border-bottom-color: #c78a2e
+}
+
+.map-offices ul li {
+    display: inline-block;
+    list-style-type: none;
+    width: 130px
+}
+
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+img {
+    /*max-width: 100%;*/
+    height: auto;
+}
