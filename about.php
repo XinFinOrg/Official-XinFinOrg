@@ -620,19 +620,6 @@ include('inc/header.php') ?>
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12">
                   <div class="grey">
-                    <h4>Allison Villemaire</h4>
-                    <h6>Content writer</h6>
-                    <p>As a graduate in fine arts and history, Allison has experience as a teacher in Canada. Her strong fervor
-                      for writing and creativity makes her an ideal choice as a content writer for XinFin. She is well equipped
-                      with words and knows how to deliver the correct content, keeping in mind the audience.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="grey">
                     <h4>Himanshu Pandey</h4>
                     <h6>Blockchain Engineer Architect</h6>
                     <p>Himanshu’s research oriented approach towards Blockchain application reflects on his aptitude for knowledge
