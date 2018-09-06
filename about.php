@@ -80,40 +80,37 @@ include('inc/header.php') ?>
             <hr>
           </div>
         </div>
+        
 
-        <div class="row" style="margin: 0px; ">
-          <div class="col-md-6" id="wrapper">
-            <img src="assets/images/team1.jpg" alt="" class="img-responsive team1">
-            <div class="overlay">
-              <div class="text">
-                <h4>Roger Ver</h4>
-                <p class="ceo">CEO - Bitcoin.com</p>
-                <p class="text-content">Take a look at any Who’s Who in Bitcoin list and you’ll find Roger Ver near the top of that list. Dubbed
-                  ‘Bitcoin Jesus’, Ver is a pioneer for Bitcoin adoption around the world. In 2011, Ver’s company, MemoryDealers.com,
-                  became the first mainstream company to accept Bitcoin as a payment option. He is considered to be the first
-                  Bitcoin angel investor, Ver is a proponent of libertarianism and voluntaryism, believing in an everyone's
-                  right to freedom of choice in Global Trade and Finance. These beliefs are in harmony with XinFin's mission,
-                  which is to open up to the Global Trade and Finance for USD 27 Trillion market, offering everyone the potential
-                  for a swift & wealthier individual lifestyle.</p>
+        <!-- Advisors start -->
+        <!--<div class="row" style="margin: 0px; ">
+          <div class="col-md-6">-->
+            <div class="row" style="margin: 0px;">
+              <div class="col-md-4 padd-lr-0" id="wrapper1">
+                <img src="assets/images/team1.jpg" alt="" class="img-responsive team2">
+                <div class="overlay1">
+                  <div class="text1">
+                    <h4>Roger Ver</h4>
+                    <p class="coo" style="text-align: left">CEO - Bitcoin.com</p>
+                    <p class="text-content">Take a look at any Who's Who in Bitcoin list and you'll find Roger Ver near the top of that list. Dubbed 'Bitcoin Jesus', Ver is a pioneer for Bitcoin adoption around the world. In 2011, Ver's company, MemoryDealers.com, became the first mainstream company to accept Bitcoin as a payment option.</p>
+                  </div>
+                </div>
               </div>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="row" style="padding-bottom: 0px;">
-              <div class="col-md-6 team2col" id="wrapper1">
-                <img src="assets/images/team2x.png" alt="" class="img-responsive team2">
+              
+              <div class="col-md-4 padd-lr-0" id="wrapper1">
+                <img src="assets/images/team2x.jpg" alt="" class="img-responsive team2">
                 <div class="overlay1">
                   <div class="text1">
                     <h4>Mate Tokay</h4>
                     <p class="coo">COO - Bitcoin.com</p>
-                    <p class="text-content">Mate Tokay is without question one of Bitcoin’s & Bitcoin Cash most active and vocal proponents. In 2012,
+                    <p class="text-content">Mate Tokay is without question one of Bitcoin's & Bitcoin Cash most active and vocal proponents. In 2012,
                       he graduated from the International Business School in Budapest. After college, he helped launch Superior14
                       a food supplement company.</p>
                   </div>
                 </div>
               </div>
-
-              <div class="col-md-6" style="padding-left: 0;padding-right: 0;" id="wrapper1">
+              
+              <div class="col-md-4 padd-lr-0" id="wrapper1">
                 <img src="assets/images/team3.jpg" alt="" class="img-responsive team2">
                 <div class="overlay1">
                   <div class="text1">
@@ -125,10 +122,8 @@ include('inc/header.php') ?>
                   </div>
                 </div>
               </div>
-            </div>
-
-            <div class="row">
-              <div class="col-md-6 team2col" id="wrapper1">
+              
+              <div class="col-md-4 padd-lr-0" id="wrapper1">
                 <img src="assets/images/team5.jpg" alt="" class="img-responsive team2">
                 <div class="overlay1">
                   <div class="text1">
@@ -140,7 +135,7 @@ include('inc/header.php') ?>
                 </div>
               </div>
 
-              <div class="col-md-6" style="padding-left: 0; padding-right: 0;" id="wrapper1">
+              <div class="col-md-4 padd-lr-0" id="wrapper1">
                 <img src="assets/images/team2.jpg" alt="" class="img-responsive team2">
                 <div class="overlay1">
                   <div class="text1">
@@ -151,10 +146,22 @@ include('inc/header.php') ?>
                   </div>
                 </div>
               </div>
+              
+              <div class="col-md-4 padd-lr-0" id="wrapper1">
+                <img src="assets/images/team7.jpg" alt="" class="img-responsive team2">
+                <div class="overlay1">
+                  <div class="text1">
+                    <h4>Simon Bowles</h4>
+                    <p class="coo">Blockchain Advisor and Consultant</p>
+                    <p class="text-content">Simon has almost 20 years experience across capital markets, fintech and Blockchain. He served as CEO of a leading European digital wallet and he has held other C-level positions within fintech in Malta. </p>
+                  </div>
+                </div>
+              </div>
             </div>
-          </div>
-
-        </div>
+          <!--</div>-->
+        <!-- Advisors end -->
+        
+        
         <div class="row">
           <div class="col-md-4">
             <hr>
@@ -190,26 +197,7 @@ include('inc/header.php') ?>
                   </div>
                 </div>
               </div>
-
-              <div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/ritesh-kakkad.jpg" alt="" class="img-responsive" width="100%">
-                  <div class="overlay2">
-                    <div class="text2">
-                      <h4>Ritesh Kakkad
-                        <a href="https://www.linkedin.com/in/ritesh-kakkad-b65a0a2/" target="_blank">
-                          <i class="fa fa-linkedin" aria-hidden="true"></i>
-                        </a>
-                      </h4>
-                      <p class="cto">Co-Founder, Blockchain Strategist</p>
-                      <p class="text-content">As a serial entrepreneur working on the ideation and development of a Cloud hosting and a web infrastructure
-                        company, Ritesh’s work has been recognized by the likes of Microsoft and BBC. Over past 20 years,
-                        Ritesh has accumulated extensive experience in the fields of Cloud Hosting, Cloud Setup and Internet-Infrastructure.
-                        Ritesh is now leveraging his experience at XinFin in the areas of Blockchain and protocol setup.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
+                            
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
                   <img src="assets/images/atul-khekade.jpg" alt="" class="img-responsive" width="100%">
@@ -229,7 +217,47 @@ include('inc/header.php') ?>
                     </div>
                   </div>
                 </div>
-              </div>
+              </div>     
+              
+              <div class="item">
+                <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
+                  <img src="assets/images/chris-neill.jpg" alt="" class="img-responsive" width="100%">
+                  <div class="overlay2">
+                    <div class="text2">
+                      <h4>Chris Neill
+                        <a href="https://www.linkedin.com/in/neillchristopher" target="_blank">
+                          <i class="fa fa-linkedin" aria-hidden="true"></i>
+                        </a>
+                      </h4>
+                      <p class="cto">Ecosystem Development and Community Management</p>
+                      <p class="text-content">As both a multi-faceted investor and professional Financial Analyst, Chris holds certification in Financial
+                        Modeling and Valuation Analysis. Based in America, we are proud to introduce him as our Head of Investor
+                        Relations.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>   
+              
+              <div class="item">
+                <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
+                  <img src="assets/images/ritesh-kakkad.jpg" alt="" class="img-responsive" width="100%">
+                  <div class="overlay2">
+                    <div class="text2">
+                      <h4>Ritesh Kakkad
+                        <a href="https://www.linkedin.com/in/ritesh-kakkad-b65a0a2/" target="_blank">
+                          <i class="fa fa-linkedin" aria-hidden="true"></i>
+                        </a>
+                      </h4>
+                      <p class="cto">Co-Founder, Blockchain Strategist</p>
+                      <p class="text-content">As a serial entrepreneur working on the ideation and development of a Cloud hosting and a web infrastructure
+                        company, Ritesh's work has been recognized by the likes of Microsoft and BBC. Over past 20 years,
+                        Ritesh has accumulated extensive experience in the fields of Cloud Hosting, Cloud Setup and Internet-Infrastructure.
+                        Ritesh is now leveraging his experience at XinFin in the areas of Blockchain and protocol setup.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>      
+              
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
                   <img src="assets/images/peter-yeo.jpg" alt="" class="img-responsive" width="100%">
@@ -250,78 +278,7 @@ include('inc/header.php') ?>
                   </div>
                 </div>
               </div>
-              <div class="item ">
-                <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/karan-bharadwaj.jpg" alt="" class="img-responsive" width="100%">
-                  <div class="overlay2">
-                    <div class="text2">
-                      <h4>Karan Bharadwaj
-                        <a href="https://www.linkedin.com/in/karanbharadwaj/" target="_blank">
-                          <i class="fa fa-linkedin" aria-hidden="true"></i>
-                        </a>
-                      </h4>
-                      <p class="cto">Co-Founder, CTO</p>
-                      <p class="text-content">Founder of a Blockchain consultancy called linkDapps, Karan has worked with some prestigious clients
-                        like Fidelity and Bravura Solutions, in the recent past. Backed by his research-based knowledge of
-                        Blockchain technology, Karan developed linkDapps on IBM’s Fabric from the Hyperledger project. His
-                        grasp in the fields of Blockchain architecture stems from his rich experience of working on several
-                        blockchain platforms like Bitcoin, Ethereum, IBM’s Fabri, Intel’s Sawtooth, and JP Morgan’s Quorum.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="item ">
-                <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/meenu-sarin.jpg" alt="" class="img-responsive" width="100%">
-                  <div class="overlay2">
-                    <div class="text2">
-                      <h4>Meenu Sarin
-                        <a href="http://sg.linkedin.com/in/meenusarin/" target="_blank">
-                          <i class="fa fa-linkedin" aria-hidden="true"></i>
-                        </a>
-                      </h4>
-                      <p class="cto">Asian Markets - Ecosystem Development</p>
-                      <p class="text-content">Meenu has an extensive experience of working across a multitude of deep tech domains and is now moving to Blockchain. At Singapore government's premier research agency, A*STAR, she helped provide pointers for potential research areas via deep technology market intelligence gained by leveraging ecosystem research and deriving insights. She is on the Executive Board of Singapore Semiconductor Industry Association. Meenu is now leveraging her experience and network towards evangelizing XinFin's pivotal blockchain technology.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="item ">
-                <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/joseph.jpg" alt="" class="img-responsive" width="100%">
-                  <div class="overlay2">
-                    <div class="text2">
-                      <h4>Joseph M. Appalsamy
-                        <a href="https://www.linkedin.com/in/joseph-appalsamy-1918065b" target="_blank">
-                          <i class="fa fa-linkedin" aria-hidden="true"></i>
-                        </a>
-                      </h4>
-                      <p class="cto">Head of Business Development</p>
-                      <p class="text-content">Joseph is the Head of Business Development and responsible for strategic accounts in global trade and finance, collaboration on commercial projects leveraging XinFin's XDC protocol and working with global institutions adopting and migrating to enterprise blockchain. Prior to joining XinFin, Joseph served as the MD for Perennis Capital Inc. He was the director of social ventures for DreamFund Holdings and was co-founder of ECCMOX Inc., a sustainability consultancy to global engineering firms and Government Services Canada.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/emerson-samfilippo.jpg" alt="" class="img-responsive" width="100%">
-                  <div class="overlay2">
-                    <div class="text2">
-                      <h4>Emerson Samfilippo
-                        <a href="https://www.linkedin.com/in/emerson-samfilippo-2b1862104/" target="_blank">
-                          <i class="fa fa-linkedin" aria-hidden="true"></i>
-                        </a>
-                      </h4>
-                      <p class="cto">Early Supporter</p>
-                      <p class="text-content">Based in America, Emerson has been working professionally in the field of finance throughout his collegiate
-                        career via internships and student government positions. Recognizing the potential blockchain has
-                        to disrupt his chosen field, Emerson took notice of XinFin organization during its pre-ICO phase
-                        and became an early backer. Joining and supporting the online Telegram community near its beginning,
-                        Emerson is now a proud Community Manager for XinFin’s chat room.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
+              
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
                   <img src="assets/images/sameer-dharap.jpg" alt="" class="img-responsive" width="100%">
@@ -343,46 +300,134 @@ include('inc/header.php') ?>
                   </div>
                 </div>
               </div>
-
-              <div class="item">
+              
+              <!--<div class="item ">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/chris-neill.jpg" alt="" class="img-responsive" width="100%">
+                  <img src="assets/images/karan-bharadwaj.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
                     <div class="text2">
-                      <h4>Chris Neill
-                        <a href="https://www.linkedin.com/in/neillchristopher" target="_blank">
+                      <h4>Karan Bharadwaj
+                        <a href="https://www.linkedin.com/in/karanbharadwaj/" target="_blank">
                           <i class="fa fa-linkedin" aria-hidden="true"></i>
                         </a>
                       </h4>
-                      <p class="cto">Ecosystem Development and Community Management</p>
-                      <p class="text-content">As both a multi-faceted investor and professional Financial Analyst, Chris holds certification in Financial
-                        Modeling and Valuation Analysis. Based in America, we are proud to introduce him as our Head of Investor
-                        Relations.</p>
+                      <p class="cto">Co-Founder, CTO</p>
+                      <p class="text-content">Founder of a Blockchain consultancy called linkDapps, Karan has worked with some prestigious clients
+                        like Fidelity and Bravura Solutions, in the recent past. Backed by his research-based knowledge of
+                        Blockchain technology, Karan developed linkDapps on IBM’s Fabric from the Hyperledger project. His
+                        grasp in the fields of Blockchain architecture stems from his rich experience of working on several
+                        blockchain platforms like Bitcoin, Ethereum, IBM’s Fabri, Intel’s Sawtooth, and JP Morgan’s Quorum.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>-->
+              
+              <div class="item">
+                <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
+                  <img src="assets/images/emerson-samfilippo.jpg" alt="" class="img-responsive" width="100%">
+                  <div class="overlay2">
+                    <div class="text2">
+                      <h4>Emerson Samfilippo
+                        <a href="https://www.linkedin.com/in/emerson-samfilippo-2b1862104/" target="_blank">
+                          <i class="fa fa-linkedin" aria-hidden="true"></i>
+                        </a>
+                      </h4>
+                      <p class="cto">Early Supporter</p>
+                      <p class="text-content">Based in America, Emerson has been working professionally in the field of finance throughout his collegiate
+                        career via internships and student government positions. Recognizing the potential blockchain has
+                        to disrupt his chosen field, Emerson took notice of XinFin organization during its pre-ICO phase
+                        and became an early backer. Joining and supporting the online Telegram community near its beginning,
+                        Emerson is now a proud Community Manager for XinFin's chat room.</p>
                     </div>
                   </div>
                 </div>
               </div>
-              <div class="item">
+              
+              <div class="item ">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/kartikeya-bhargava.jpg" alt="" class="img-responsive" width="100%">
+                  <img src="assets/images/joseph.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
                     <div class="text2">
-                      <h4>Kartikeya Bhargava
-                        <a href="https://www.linkedin.com/in/kartikeyabhargava95/" target="_blank">
+                      <h4>Joseph M. Appalsamy
+                        <a href="https://www.linkedin.com/in/joseph-appalsamy-1918065b" target="_blank">
                           <i class="fa fa-linkedin" aria-hidden="true"></i>
                         </a>
                       </h4>
-                      <p class="cto">Blockchain Engineer</p>
-                      <p class="text-content">Having worked on numerous blockchain platforms including Bitcoin, Ethereum, JP Morgan’s Quorum, Hyperledger
-                        Fabric and Corda, Kartikeya has a profound understanding of blockchain technology. He was previously
-                        associated with the technology giant Robert Bosch, working on the research and development of blockchain,
-                        AI and IoT based solutions for supply-chain and logistics. At XinFin, he is leading the research
-                        and development of the XinFin hybrid blockchain platform.</p>
+                      <p class="cto">Head of Business Development</p>
+                      <p class="text-content">Joseph is the Head of Business Development and responsible for strategic accounts in global trade and finance, collaboration on commercial projects leveraging XinFin's XDC protocol and working with global institutions adopting and migrating to enterprise blockchain. Prior to joining XinFin, Joseph served as the MD for Perennis Capital Inc. He was the director of social ventures for DreamFund Holdings and was co-founder of ECCMOX Inc., a sustainability consultancy to global engineering firms and Government Services Canada.</p>
                     </div>
                   </div>
                 </div>
               </div>
-
+              
+              <div class="item ">
+                <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
+                  <img src="assets/images/meenu-sarin.jpg" alt="" class="img-responsive" width="100%">
+                  <div class="overlay2">
+                    <div class="text2">
+                      <h4>Meenu Sarin
+                        <a href="http://sg.linkedin.com/in/meenusarin/" target="_blank">
+                          <i class="fa fa-linkedin" aria-hidden="true"></i>
+                        </a>
+                      </h4>
+                      <p class="cto">Asian Markets - Ecosystem Development</p>
+                      <p class="text-content">Meenu has an extensive experience of working across a multitude of deep tech domains and is now moving to Blockchain. At Singapore government's premier research agency, A*STAR, she helped provide pointers for potential research areas via deep technology market intelligence gained by leveraging ecosystem research and deriving insights. She is on the Executive Board of Singapore Semiconductor Industry Association. Meenu is now leveraging her experience and network towards evangelizing XinFin's pivotal blockchain technology.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+              <div class="item">
+                <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
+                  <img src="assets/images/tadashi-yoshida.jpg" alt="" class="img-responsive" width="100%">
+                  <div class="overlay2">
+                    <div class="text2">
+                      <h4>Tadashi Yoshida
+                        <a href="https://www.linkedin.com/in/tadashi-yoshida-9936365/" target="_blank">
+                          <i class="fa fa-linkedin" aria-hidden="true"></i>
+                        </a>
+                      </h4>
+                      <p class="cto">Ecosystem Development, Japan</p>
+                      <p class="text-content">A specialist in developing and managing startup support programs including accelerator and incubation program, Tadashi initiated and operated the Japan's first govt. managed accelerator program at SME support Japan. Having extended support to several new startups development in Japan, he has gained extensive experience in providing consultation and ideation of business ideas across the globe. Associated with International Associations and Universities, he will be leveraging his experence to bring out the word about XinFin Blockchain Techhnology.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+			  
+              <div class="item">
+                <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
+                  <img src="assets/images/confidence-nyirenda.jpg" alt="" class="img-responsive" width="100%">
+                  <div class="overlay2">
+                    <div class="text2">
+                      <h4>Confidence Nyirenda
+                        <a href="https://www.linkedin.com/in/confidencenyirenda/" target="_blank">
+                          <i class="fa fa-linkedin" aria-hidden="true"></i>
+                        </a>
+                      </h4>
+                      <p class="cto">Ecosystem Development, Africa</p>
+                      <p class="text-content">A cryptocurrency enthusiast, Confidence has been educating people & spreading the adoption of Blockchain technology across African Continent. A software & blockchain developer with Aftica's biggest exchanges called Golix & Bitpaya, he is also a Community Manager at HouseAfrica. A member of The Internet Society & the Bitcoin Community, he is also a blogger on Steemit. His experience with cryptocurrencies including Bitcoin, Dash, Smartcash & Steemit will help him create awareness about XinFin XDC & its use cases across local African community.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+              <div class="item">
+                <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
+                  <img src="assets/images/alan-lai.jpg" alt="" class="img-responsive" width="100%">
+                  <div class="overlay2">
+                    <div class="text2">
+                      <h4>Alan Lai
+                        <a href="https://www.linkedin.com/in/confidencenyirenda/" target="_blank">
+                          <i class="fa fa-linkedin" aria-hidden="true"></i>
+                        </a>
+                      </h4>
+                      <p class="cto">Blockchain Engineer, UC Berkeley, California</p>
+                      <p class="text-content">With more than one year of experience in blockchain technology, Alan Lai currently serves as Blockchain Developer at UC Berkeley, one of the world's top research universities. Alan who seeks to change the world with technology will be using his technological skills and knowledge to build blockchain applications on XDC protocol. His prowess with smart contracts and Solidity will bring immense value to XinFin Organization.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
 
             </div>
             <a class="left carousel-control" href="#myCarousel" data-slide="prev">
@@ -865,10 +910,6 @@ include('inc/header.php') ?>
       </div>
 
     </div>
-
-
-
-
 
     <div class="clear"></div>
 
