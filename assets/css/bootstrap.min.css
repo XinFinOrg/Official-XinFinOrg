@@ -6941,11 +6941,12 @@ button.list-group-item-danger.active:hover {
 }
 
 .embed-responsive {
-    position: relative;
-    display: block;
-    height: 0;
-    padding: 0;
-    overflow: hidden
+	position: relative;
+	display: block;
+	height: 0;
+	padding: 0;
+	overflow: hidden;
+	border: 1px solid #E8E8E8;
 }
 
 .embed-responsive .embed-responsive-item,
@@ -6959,7 +6960,7 @@ button.list-group-item-danger.active:hover {
     left: 0;
     width: 100%;
     height: 100%;
-    border: 0
+    border: 0;
 }
 
 .embed-responsive-16by9 {

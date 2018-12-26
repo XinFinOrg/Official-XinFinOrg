@@ -1,0 +1,259 @@
+@font-face {
+    font-family: latothin;
+    src: url('../fonts/LatoLatin-Thin.woff');
+}
+
+@font-face {
+    font-family: fontawesome;
+    src: url('../fonts/FontAwesome.ttf');
+}
+
+@font-face {
+    font-family: sourcecode;
+    src: url('../fonts/open-sans-v15-latin-regular.woff');
+}
+
+@font-face {
+    font-family: latolight;
+    src: url('../fonts/LatoLatin-Light.woff');
+}
+
+@font-face {
+    font-family: latoregular;
+    src: url('../fonts/LatoLatin-Regular.woff');
+}
+*
+{
+	margin:0;
+	padding:0;
+}
+
+body
+{
+	margin:0;
+	padding:0;
+	overflow-x: hidden;
+	font-family:latothin;
+	color:#001e46;
+	line-height: 24px;
+  font-size:14px;
+  background: url(../images/xdc-protocol-banner-image2.png) #153144;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    
+  
+}
+.navbar-inverse{
+	padding: 25px;
+	background-color:#112b3c;
+    border-radius: 0;
+    border: 0;
+}
+.navbar-inverse .navbar-nav>li>a{
+	color: #fff;
+    font-size: 16px;
+    font-family: latoregular;
+}
+.navbar-nav{
+	margin-left: 15%;
+}
+.navbar-brand{
+	padding: 0;
+	margin-top: -3px;
+	margin-left: 0;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus,
+ .navbar-inverse .navbar-nav>.active>a:hover {
+   background: #214b67;
+    border-bottom: 5px solid #c4882e;
+
+}
+
+
+/*  E-Wallet - Home */
+
+#ewallet{
+	margin-top: 100px;
+}
+#ewallet h3{
+    color: #ff9800a1;
+    font-family: latoregular;
+    font-size: 32px;
+    text-align: center;
+}
+#ewallet p{
+    color: #ff9800a1;
+    font-family: latoregular;
+    font-size: 23px;
+    text-align: center;	
+}
+.home-form{
+	width: 45%;
+	margin: 35px auto;
+	display: block;
+    border: 1px solid #112b3c;
+    padding: 0 50px;
+    background: #112b3c;
+    border-radius: 5px;
+}
+form h4{
+	color: #fff;
+	font-family: latoregular;
+    margin: 30px 0;
+    text-align: center;
+}
+form .form-control{
+    color: #fff;
+    background: #fff;
+    border: 1px solid #333;
+    padding: 22px;
+    margin-bottom: 25px;
+    border-radius: 5px;
+    font-family: latoregular;
+}
+textarea::-webkit-input-placeholder, input::-webkit-input-placeholder {
+color: #757575 !important;
+}
+ 
+textarea:-moz-placeholder, input:-moz-placeholder {
+color: #757575 !important;  
+}
+ 
+textarea::-moz-placeholder, input::-moz-placeholder {
+color: #757575 !important;  
+}
+ 
+textarea:-ms-input-placeholder, input:-ms-input-placeholder {  
+color: #757575 !important;  
+}
+form span{
+    display: block;
+    text-align: left;
+    color: #aaa;
+    background: #50597b;
+    border: 1px solid #333;
+    padding: 10px;
+    margin-bottom: 25px;
+    border-radius: 5px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none; 
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    font-family: latoregular;
+}
+#home-btn{
+    background: #e64c65;
+    border: 0;
+    color: #fff;
+    font-family: latoregular;
+    padding: 12px 50px;
+    font-size: 18px;
+    border-radius: 5px;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 25px;
+}
+#home-btn:hover, #home-btn:focus{
+	background-color: #d4465d;
+	outline: 0;
+}
+p.signup{
+    color: #9099B7 !important;
+    margin-bottom: 50px;
+    font-size: 16px !important;
+    line-height: 18px;
+}
+
+
+/*  Footer  */
+
+.ewallet-footer{
+	color: #585f7a;
+}
+.ewallet-footer p{
+	color: #585f7a !important;
+	font-size: 14px !important;
+}
+.ewallet-footer p > a{
+	color: #585f7a;
+	text-decoration: none;
+	margin: 0 10px;
+}
+.ewallet-footer p > a:hover, .ewallet-footer p > a:focus{
+	color: #ff9800a1;
+}
+.footer-copyrights{
+	background-color: #112b3c;
+}
+.footer-copyrights p{
+	color: #585f7a !important;
+	font-size: 14px !important;
+	padding: 20px 0;
+	margin-bottom: 0;
+}
+
+
+/*  E-Wallet - Sign In  */
+
+.signin-form span{
+	padding: 8px;
+}
+.signin-form .form-control{
+    border: 1px solid #0000009e;
+    padding: 20px 0 20px 45px;
+}
+p.sign-in{
+    color: #fff !important;
+    font-size: 16px !important;
+    margin-bottom: 20px;
+}
+p.sign-in > a{
+	color: #11a8ab;
+	text-decoration: none;
+}
+#ewallet h4{
+	text-align: center;
+    margin: 30px 0;
+}
+#ewallet h4 > a{
+    text-decoration: none;
+	font-family: latoregular;
+	font-size: 18px;
+	color: #11a8ab;
+	-webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+#ewallet h4 > a:hover{
+    color: #fff;
+    border-bottom: 1px solid #fff;
+}
+
+
+/*  E-Wallet - Contact Us  */
+
+.contactus-form span{
+	margin-bottom: 12px;
+}
+.contactus-form form{
+    margin: 12% 0;
+}
+.contactus-form .form-control{
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+
+@media only screen and (max-width: 768px)
+{.navbar-nav {
+    margin-left: 15%;
+    margin-top: -50px;
+    float: right;
+}
+
+.home-form {
+    width: 100%;
+    }}
