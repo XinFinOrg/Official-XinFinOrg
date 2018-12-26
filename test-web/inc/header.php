@@ -228,7 +228,7 @@
                 <a href="xdc-protocol.php">XDC Network</a>
               </li>
               <li class="nav-item">
-                <a href="xdc-protocol.php">XDC/XDCE Utility Products</a>
+                <a href="xdc-protocol.php">XDC Utility</a>
               </li>
               <li class="nav-item">
                 <a href="developers.php">Developer Portal</a>
