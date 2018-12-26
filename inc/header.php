@@ -225,21 +225,17 @@
               </li>
               <!--<li class="nav-item"><a href="works.php">How it works</a></li> -->
               <li class="nav-item">
-                <a href="xdc-protocol.php">XDC Protocol</a>
+                <a href="xdc-protocol.php">XDC Network</a>
               </li>
               <li class="nav-item">
-                <a href="developers.php">Developers</a>
+                <a href="xdc-protocol.php">XDC/XDCE Utility Products</a>
               </li>
               <li class="nav-item">
-                <a href="solutions.php">Solutions</a>
-              </li>
+                <a href="developers.php">Developer Portal</a>
+              </li>              
               <li class="nav-item">
-                <a href="https://ewallet.xinfin.org/" target="_blank">Wallet</a>
+                <a href="resources.php">Resource</a>
               </li>
-              <li class="nav-item">
-                <a href="about.php">About us</a>
-              </li>
-
               <li>
                 <div class="m-dropdown">
                   <div class="e-button open">
@@ -253,19 +249,16 @@
                   </div>
                   <ul class="e-list">
                     <li>
-                      <a href="xdc-xdce.php">
-                        <!-- <icon class="fa fa-square" style="font-size:5px; margin-top: -3px;
-    vertical-align: middle;"></icon> -->XDC/XDCE</a>
+                    	<a href="about.php">About us</a>
                     </li>
                     <li>
-                      <a href="resources.php">
-                        <!-- <icon class="fa fa-square" style="font-size:5px; margin-top: -3px;
-    vertical-align: middle;"></icon> -->RESOURCES</a>
+                    	<a href="xdc-xdce.php">XDC/XDCE</a>
                     </li>
                     <li>
-                      <a href="contactus.php">
-                        <!-- <icon class="fa fa-square" style="font-size:5px; margin-top: -3px;
-    vertical-align: middle;"></icon> -->CONTACT US</a>
+                    	<a href="documentation.php">Documentation</a>
+                    </li>
+                    <li>
+                    	<a href="contactus.php">CONTACT US</a>
                     </li>
                   </ul>
                 </div>

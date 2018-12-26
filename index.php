@@ -38,15 +38,39 @@ include('inc/header.php') ?>
 
       <!--  <div id="scroll"><a href="#banner2" class="smooth-scroll" ><span class="arrow-bounce">↓</span></a></div> -->
 
-
-
+    </div>
     </div>
 </section>
 
+
+
+
+<section id="banner12">
+  <div class="container">
+    <div class="bannertext">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+            <h1 style="text-align:left;">What is XinFin?</h1>
+          </div>
+          <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+            <p>XinFin is a decentralized Blockchain platform that runs smart contracts and provides cross chain interoperability. XinFin Network is fully compatible with Ethereum Virtual Machine (EVM).</p>
+            <p>For Setting up XinFin Blockchain Node,</p>
+            <p>&bull; Windows users <a href="#">click here</a><br />
+            &bull; MAC users <a href="#">click here</a><br />
+            &bull; Linux users <a href="#">click here</a></p>
+            <p></p>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="embed-responsive embed-responsive-16by9 embed-div">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jLaqms1IHWE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
-
-
-
 
 <section id="banner2">
   <div class="container">
@@ -59,7 +83,7 @@ include('inc/header.php') ?>
           </div>
           <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
             <p class="largepara">
-              <!-- XinFin is a blockchain technology company. -->We have designed and developed the world’s first
+              <!-- XinFin is a blockchain technology company. -->We have designed and developed the world's first
               <br/> hybrid blockchain.</p>
             <!-- Use the XDC utility token on the public state or set up private networks to run enterprise use cases -->
           </div>
