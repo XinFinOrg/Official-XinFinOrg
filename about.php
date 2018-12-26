@@ -229,10 +229,8 @@ include('inc/header.php') ?>
                           <i class="fa fa-linkedin" aria-hidden="true"></i>
                         </a>
                       </h4>
-                      <p class="cto">Ecosystem Development and Community Management</p>
-                      <p class="text-content">As both a multi-faceted investor and professional Financial Analyst, Chris holds certification in Financial
-                        Modeling and Valuation Analysis. Based in America, we are proud to introduce him as our Head of Investor
-                        Relations.</p>
+                      <p class="cto">Head of American Development</p>
+                      <p class="text-content">Chris Neill is the Head of American Development. Chris has a background in investing, business management and team development. Chris is also the Founder of Black Tier Solutions for blockchain consultancy.</p>
                     </div>
                   </div>
                 </div>

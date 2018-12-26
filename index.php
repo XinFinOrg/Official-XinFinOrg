@@ -142,14 +142,14 @@ include('inc/header.php') ?>
     <br/>
     <br/>
     <div class="row">
-      <div class="col-md-3 col-sm-6 col-xs-6">
+      <div class="col-md-4 col-sm-6 col-xs-6">
         <!--<div class="wow zoomIn" data-wow-duration="0.5s" data-wow-delay="0.5s">-->
         <p>
           <img src="assets/images/home/temasek-logo.jpg" alt="Temasek" class="img-responsive logoc">
         </p>
         <!--</div>-->
       </div>
-      <div class="col-md-3 col-sm-6 col-xs-6">
+      <div class="col-md-4 col-sm-6 col-xs-6">
         <!--<div class="wow zoomIn" data-wow-duration="0.5s" data-wow-delay="0.5s">-->
         <p>
           <img src="assets/images/home/enterprise-logo.png" alt="Enterprise" class="img-responsive logoc">
@@ -157,20 +157,18 @@ include('inc/header.php') ?>
         <!--</div>-->
       </div>
 
-      <div class="col-md-3 col-sm-6 col-xs-6">
+      <div class="col-md-4 col-sm-6 col-xs-6">
         <!--<div class="wow zoomIn" data-wow-duration="0.5s" data-wow-delay="0.5s">-->
         <p>
           <img src="assets/images/home/ramco-logo.png" alt="Ramco" class="img-responsive logoc">
         </p>
         <!--</div>-->
       </div>
-      <div class="col-md-3 col-sm-6 col-xs-6">
-        <!--<div class="wow zoomIn" data-wow-duration="0.5s" data-wow-delay="0.5s">-->
+      <!--<div class="col-md-3 col-sm-6 col-xs-6">
         <p>
           <img src="assets/images/home/omfif-logo.png" alt="Temasek" class="img-responsive logoc">
         </p>
-        <!--</div>-->
-      </div>
+      </div>-->
     </div>
 
     <div class="row">
@@ -257,7 +255,7 @@ include('inc/header.php') ?>
 
 </section>
 
-<section id="about1" style="    border-top: 1px solid #cdcdcd; ">
+<section id="about1" style="border-top: 1px solid #cdcdcd;">
   <div class="container">
     <div class="row">
       <div class="col-md-offset-2 col-md-8 col-md-offset-2">
