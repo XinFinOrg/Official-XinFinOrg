@@ -152,46 +152,68 @@ include('inc/header.php') ?>
 
 
 <section id="about1">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-offset-2 col-md-8 col-md-offset-2">
-        <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-          <h1>Partnerships and Alliances</h1>
-        </div>
-        <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-          <p>Technology partners to global businesses and growing our network rapidly.</p>
-        </div>
-      </div>
-    </div>
-    <div class="row" style="margin-top:30px;">
-      <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
-          <a href="https://blog.circle.com/2018/12/19/usdc-ecosystem-spotlight-idcm-crypto-exchange-along-with-alpha-wallet-changenow-loopring-salt-platform-and-xinfin-the-latest-companies-to-support-usdc/" target="_blank"><img src="assets/images/home/partners/circle-logo.png" alt="Circle" class="img-responsive logoc"></a>
-      </div>
-      <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.6s">
-          <img src="assets/images/home/partners/temasek-logo.png" alt="Temasek" class="img-responsive logoc">
-      </div>
-      <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.7s">
-          <img src="assets/images/home/partners/enterprise-logo.png" alt="Enterprise" class="img-responsive logoc">
-      </div>
-      <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.8s">
-          <img src="assets/images/home/partners/ramco-logo.png" alt="Ramco" class="img-responsive logoc">
-      </div>
-      <div class="col-md-3 col-sm-4 col-xs-6 col-md-offset-1 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.9s">
-          <img src="assets/images/home/partners/indsoft-logo.png" alt="indsoft" class="img-responsive logoc">
-      </div>
-      <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1s">
-          <img src="assets/images/home/partners/assocham-logo.png" alt="Enterprise" class="img-responsive logoc">
-      </div>
-      <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.1s">
-          <img src="assets/images/home/partners/nanyang-logo.png" alt="Ramco" class="img-responsive logoc">
-      </div>
-      
-    </div>
+<div class="container">
+<div class="row">
+<div class="col-md-offset-2 col-md-8 col-md-offset-2">
+<div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+<h1>Partnerships and Alliances</h1>
+</div>
+<div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+<p>Technology partners to global businesses and growing our network rapidly.</p>
+</div>
+</div>
+</div>
+<br />
+<br />
+<div class="row">
+<div class="col-md-4 col-sm-6 col-xs-6">
 
-    <div class="clear"></div>
+<p>
+<img src="assets/images/home/temasek-logo.jpg" alt="Temasek" class="img-responsive logoc">
+</p>
 
-  </div>
+</div>
+<div class="col-md-4 col-sm-6 col-xs-6">
 
+<p>
+<img src="assets/images/home/enterprise-logo.png" alt="Enterprise" class="img-responsive logoc">
+</p>
+
+</div>
+<div class="col-md-4 col-sm-6 col-xs-6">
+
+<p>
+<img src="assets/images/home/ramco-logo.png" alt="Ramco" class="img-responsive logoc">
+</p>
+
+</div>
+
+</div>
+<div class="row">
+<div class="col-md-4 col-sm-6 col-xs-6">
+
+<p>
+<img src="assets/images/home/indsoft-logo.png" alt="indsoft" class="img-responsive logoc">
+</p>
+
+</div>
+<div class="col-md-4 col-sm-6 col-xs-6">
+
+<p>
+<img src="assets/images/home/assocham-logo.jpg" alt="Enterprise" class="img-responsive logoc">
+</p>
+
+</div>
+<div class="col-md-4 col-sm-6 col-xs-6">
+
+<p>
+<img src="assets/images/home/nanyang-logo.jpg" alt="Ramco" class="img-responsive logoc">
+</p>
+
+</div>
+</div>
+<div class="clear"></div>
+</div>
 </section>
 
 

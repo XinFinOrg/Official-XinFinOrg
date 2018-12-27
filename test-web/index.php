@@ -163,62 +163,29 @@ include('inc/header.php') ?>
         </div>
       </div>
     </div>
-    <br/>
-    <br/>
-    <div class="row">
-      <div class="col-md-4 col-sm-6 col-xs-6">
-        <!--<div class="wow zoomIn" data-wow-duration="0.5s" data-wow-delay="0.5s">-->
-        <p>
-          <img src="assets/images/home/temasek-logo.jpg" alt="Temasek" class="img-responsive logoc">
-        </p>
-        <!--</div>-->
+    <div class="row" style="margin-top:30px;">
+      <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
+          <a href="https://blog.circle.com/2018/12/19/usdc-ecosystem-spotlight-idcm-crypto-exchange-along-with-alpha-wallet-changenow-loopring-salt-platform-and-xinfin-the-latest-companies-to-support-usdc/" target="_blank"><img src="assets/images/home/partners/circle-logo.png" alt="Circle" class="img-responsive logoc"></a>
       </div>
-      <div class="col-md-4 col-sm-6 col-xs-6">
-        <!--<div class="wow zoomIn" data-wow-duration="0.5s" data-wow-delay="0.5s">-->
-        <p>
-          <img src="assets/images/home/enterprise-logo.png" alt="Enterprise" class="img-responsive logoc">
-        </p>
-        <!--</div>-->
+      <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.6s">
+          <img src="assets/images/home/partners/temasek-logo.png" alt="Temasek" class="img-responsive logoc">
       </div>
-
-      <div class="col-md-4 col-sm-6 col-xs-6">
-        <!--<div class="wow zoomIn" data-wow-duration="0.5s" data-wow-delay="0.5s">-->
-        <p>
-          <img src="assets/images/home/ramco-logo.png" alt="Ramco" class="img-responsive logoc">
-        </p>
-        <!--</div>-->
+      <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.7s">
+          <img src="assets/images/home/partners/enterprise-logo.png" alt="Enterprise" class="img-responsive logoc">
       </div>
-      <!--<div class="col-md-3 col-sm-6 col-xs-6">
-        <p>
-          <img src="assets/images/home/omfif-logo.png" alt="Temasek" class="img-responsive logoc">
-        </p>
-      </div>-->
-    </div>
-
-    <div class="row">
-      <div class="col-md-4 col-sm-6 col-xs-6">
-        <!--<div class="wow zoomIn" data-wow-duration="0.5s" data-wow-delay="0.5s">-->
-        <p>
-          <img src="assets/images/home/indsoft-logo.png" alt="indsoft" class="img-responsive logoc">
-        </p>
-        <!--</div>-->
+      <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.8s">
+          <img src="assets/images/home/partners/ramco-logo.png" alt="Ramco" class="img-responsive logoc">
       </div>
-
-      <div class="col-md-4 col-sm-6 col-xs-6">
-        <!--<div class="wow zoomIn" data-wow-duration="0.5s" data-wow-delay="0.5s">-->
-        <p>
-          <img src="assets/images/home/assocham-logo.jpg" alt="Enterprise" class="img-responsive logoc">
-        </p>
-        <!--</div>-->
+      <div class="col-md-3 col-sm-4 col-xs-6 col-md-offset-1 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.9s">
+          <img src="assets/images/home/partners/indsoft-logo.png" alt="indsoft" class="img-responsive logoc">
       </div>
-
-      <div class="col-md-4 col-sm-6 col-xs-6">
-        <!--<div class="wow zoomIn" data-wow-duration="0.5s" data-wow-delay="0.5s">-->
-        <p>
-          <img src="assets/images/home/nanyang-logo.jpg" alt="Ramco" class="img-responsive logoc">
-        </p>
-        <!--</div>-->
+      <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1s">
+          <img src="assets/images/home/partners/assocham-logo.png" alt="Enterprise" class="img-responsive logoc">
       </div>
+      <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.1s">
+          <img src="assets/images/home/partners/nanyang-logo.png" alt="Ramco" class="img-responsive logoc">
+      </div>
+      
     </div>
 
     <div class="clear"></div>
@@ -234,41 +201,55 @@ include('inc/header.php') ?>
       <h1>Featured in</h1>
     </div>
     <br/>
-    <div class="wow fadeInDown" data-wow-duration="1s" data-wow-delay="1s">
+    <div>
       <div class="row">
-        <div class="col-md-3 col-sm-6 col-xs-6">
-          <img src="assets/images/home/bbc-logo.png" alt="BBC News" class="img-responsive">
+        <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
+          <a href="https://www.techradar.com/news/have-you-heard-of-the-xinfin-hybrid-blockchain-heres-why-you-should-get-involved" target="_blank"><img src="assets/images/home/media/techradar-logo.png" alt="TechRadar" class="img-responsive"></a>
         </div>
-
-        <div class="col-md-2 col-sm-6 col-xs-6">
-          <img src="assets/images/home/returns-logo.png" alt="Returns" class="img-responsive" width="100%">
+        <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.6s">
+          <a href="" target="_blank"><img src="assets/images/home/media/yahoofinance-logo.png" alt="Yahoo Finance" class="img-responsive"></a>
         </div>
-
-        <div class="col-md-2 col-sm-6 col-xs-6">
-          <img src="assets/images/home/business-logo.png" alt="Business First" class="img-responsive" width="100%">
+        <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.7s">
+          <a href="https://globalcoinreport.com/xinfin-xdce-cryptocurrency-surges/" target="_blank"><img src="assets/images/home/media/globalcoin-logo.png" alt="GlobalCoinReport" class="img-responsive"></a>
         </div>
-        <div class="col-md-2 col-sm-6 col-xs-6">
-          <img src="assets/images/home/yahoo-logo.png" alt="Yahoo" class="img-responsive" width="100%">
+        <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.8s">
+          <a href="https://e27.co/tradefinex-aims-minimise-global-infra-deficit-blockcjain-powered-p2p-marketplace-20171219/" target="_blank"><img src="assets/images/home/media/e27-logo.png" alt="e27" class="img-responsive"></a>
         </div>
-        <div class="col-md-3 col-sm-6 col-xs-6">
-          <img src="assets/images/home/chronicle-logo.png" alt="Chronicle" class="img-responsive">
+        <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.9s">
+          <a href="https://www.livebitcoinnews.com/xinfin-unveils-xdc-hybrid-blockchain-protocol-opens-utility-token-sale/" target="_blank"><img src="assets/images/home/media/livebitcoinnews-logo.png" alt="LivebitcoinNews" class="img-responsive"></a>
         </div>
-        <div class="col-md-3 col-sm-6 col-xs-6">
-          <img src="assets/images/home/BW-logo.png" alt="BW Disrupt" class="img-responsive">
+        <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1s">
+          <a href="https://m.nasdaq.com/article/xinfinorg-launches-first-of-its-kind-blockchain-based-multisig-wallet-on-xdc-hybrid-blockchain-for-various-enterprise-use-cases-20180629-00749" target="_blank"><img src="assets/images/home/media/nasdaq-logo.png" alt="Nasdaq" class="img-responsive"></a>
         </div>
-
-        <div class="col-md-2 col-sm-6 col-xs-6">
-          <img src="assets/images/home/e27-logo.png" alt="e27" class="img-responsive" width="100%">
+        <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.1s">
+          <a href="https://cointelegraph.com/press-releases/bitcoins-roger-ver-and-mate-tokay-join-xinfinio-advisory-board" target="_blank"><img src="assets/images/home/media/cointelegraph-logo.png" alt="CoinTelegraph" class="img-responsive"></a>
         </div>
-
-        <div class="col-md-2 col-sm-6 col-xs-6">
-          <img src="assets/images/home/news-logo.png" alt="News BTC" class="img-responsive" width="100%">
+        <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.2s">
+          <a href="https://icobench.com/thebench-post/21-how-can-stock-exchange-industry-benefit-from-using-blockchain-technology" target="_blank"><img src="assets/images/home/media/icobench-logo.png" alt="ICOBench" class="img-responsive"></a>
         </div>
-        <div class="col-md-2 col-sm-6 col-xs-6">
-          <img src="assets/images/home/market-logo.png" alt="Market Watch" class="img-responsive" width="100%">
+        <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.3s">
+          <a href="https://bitcoinist.com/xinfin-ties-up-with-koinok-com-gets-its-utility-token-xdce-listed-on-one-of-indias-top-exchange/" target="_blank"><img src="assets/images/home/media/bitcoinist-logo.png" alt="Bitcoinist" class="img-responsive"></a>
         </div>
-        <div class="col-md-3 col-sm-6 col-xs-6">
-          <img src="assets/images/home/enterprise-times-logo.png" alt="Enterprise Times" class="img-responsive">
+        <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.4s">
+          <a href="https://news.bitcoin.com/pr-former-head-of-strategy-operations-consulting-at-kpmg-joins-xinfin-platform/" target="_blank"><img src="assets/images/home/media/bitcoincom-logo.png" alt="Bitcoin.com" class="img-responsive"></a>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.5s">
+          <a href="https://ambcrypto.com/xinfin-launches-hybrid-blockchain-based-token-xdc/" target="_blank"><img src="assets/images/home/media/ambcrypto-logo.png" alt="AMBCrypto" class="img-responsive"></a>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.6s">
+          <a href="https://www.bbc.com/marathi/india-42566173?ocid=wsmarathi.chat-apps.in-app-msg.whatsapp.trial.link1_.auin/" target="_blank"><img src="assets/images/home/media/bbcnews-logo.png" alt="BBC News" class="img-responsive"></a>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.7s">
+          <a href="https://in.reuters.com/article/brief-indias-ramco-systems-xinfin-to-dev/brief-indias-ramco-systems-xinfin-to-develop-hybrid-blockchain-solution-for-enterprises-idINFWN1Q31FM" target="_blank"><img src="assets/images/home/media/reuters-logo.png" alt="Reuters" class="img-responsive"></a>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.8s">
+          <a href="https://www.newsbtc.com/2018/06/28/xinfin-opens-its-blockchain-engineering-and-business-development-lab-at-university-of-california/" target="_blank"><img src="assets/images/home/media/newsbtc-logo.png" alt="NewsBTC" class="img-responsive"></a>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.9s">
+          <a href="https://cryptorecorder.com/2018/08/17/xinfin-network-xdce-makes-a-major-leap-in-the-u-s-is-china-next/" target="_blank"><img src="assets/images/home/media/cryptorecorder-logo.png" alt="Cryptorecorder" class="img-responsive"></a>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="2s">
+          <a href="https://www.entrepreneur.com/article/317193" target="_blank"><img src="assets/images/home/media/entrepreneurindia-logo.png" alt="Entrepreneur" class="img-responsive"></a>
         </div>
       </div>
 
@@ -310,17 +291,17 @@ include('inc/header.php') ?>
     width: auto;
     vertical-align: middle;
     display: inline-block;
-    max-width: 140px;
     opacity: 1.0;
     -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out;
     position: relative;
-    top: 50%;
+    /*max-width: 140px;
+	top: 50%;
     -ms-transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
-    margin-top: 65px;
+    margin-top: 65px;*/
   }
 </style>
 

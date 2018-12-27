@@ -141,7 +141,8 @@
 
     .navbar>.container .navbar-brand,
     .navbar>.container-fluid .navbar-brand {
-      margin-left: 150px;
+      /*margin-left: 150px;*/
+	  margin-left: 125px;
       margin-right: 50px;
     }
   </style>
@@ -228,7 +229,7 @@
                 <a href="xdc-protocol.php">XDC Network</a>
               </li>
               <li class="nav-item">
-                <a href="xdc-protocol.php">XDC/XDCE Utility Products</a>
+                <a href="xdc-protocol.php">XDC/XDCE Utility</a>
               </li>
               <li class="nav-item">
                 <a href="developers.php">Developer Portal</a>
