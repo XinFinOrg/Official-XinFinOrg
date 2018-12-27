@@ -230,7 +230,6 @@
               </li>
               <li class="nav-item">
                 <a href="xdc-protocol.php">XDC/XDCE Utility</a>
-                <a href="xdc-protocol.php">XDC Utility</a>
               </li>
               <li class="nav-item">
                 <a href="developers.php">Developer Portal</a>
