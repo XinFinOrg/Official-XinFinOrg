@@ -64,7 +64,7 @@ include('inc/header.php') ?>
         </div>
         <div class="col-md-6">
           <div class="embed-responsive embed-responsive-16by9 embed-div">
-          <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=K-tHZkV6zAs&t=11s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/K-tHZkV6zAs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           </div>
         </div>
       </div>

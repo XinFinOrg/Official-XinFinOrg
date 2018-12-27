@@ -237,7 +237,7 @@
               <li class="nav-item">
                 <a href="resources.php">Resource</a>
               </li>
-              <li>
+              <!--<li>
                 <div class="m-dropdown">
                   <div class="e-button open">
                     <img src="assets/images/toggle-button.png" alt="Toggle" class="img-responsive">
@@ -263,7 +263,7 @@
                     </li>
                   </ul>
                 </div>
-              </li>
+              </li>-->
 
 
             </ul>
