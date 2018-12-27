@@ -5,7 +5,7 @@ $desc = "XinFin use the XDC token on the public state that is identical in funct
 include('inc/header.php') ?>
 <link rel="stylesheet" href="css/style.css">
 <section id="resources-banner" > 
-<!--   <div id="particle-canvas" ></div> -->
+<!-- <div id="particle-canvas"></div> -->
   <div class="container">
     <div class="row">
       <div class="col-md-6 col-sm-6 col-xs-12 bannertext">
@@ -656,5 +656,10 @@ Paper Overview (V1)
         
       });
     </script>
+
+<script>
+    var activeUrl = localStorage.getItem("currentUrl");
+    $('.nav.navbar-nav li:nth-child(5)').addClass('active');
+</script>
 
 <?php include('inc/footer.php') ?>

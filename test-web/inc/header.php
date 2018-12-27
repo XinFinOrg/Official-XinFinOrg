@@ -141,9 +141,10 @@
 
     .navbar>.container .navbar-brand,
     .navbar>.container-fluid .navbar-brand {
-      /*margin-left: 150px;*/
-	  margin-left: 125px;
-      margin-right: 50px;
+      /*margin-left: 150px;
+      margin-right: 50px;*/
+	  margin-left: 170px;
+      margin-right: 100px;
     }
   </style>
 
@@ -197,9 +198,7 @@
   <!-- <div class='progress' id="progress_div">
     <div class='bar' id='bar1'></div>
     <div class='percent' id='percent1'></div>
-  </div>
-  
- 
+  </div> 
  
   <input type="hidden" id="progress_width" value="0"> -->
 
@@ -229,7 +228,7 @@
                 <a href="xdc-protocol.php">XDC Network</a>
               </li>
               <li class="nav-item">
-                <a href="xdc-protocol.php">XDC/XDCE Utility</a>
+                <a href="xdc-utility.php">XDC Utility</a>
               </li>
               <li class="nav-item">
                 <a href="developers.php">Developer Portal</a>
@@ -237,6 +236,7 @@
               <li class="nav-item">
                 <a href="resources.php">Resource</a>
               </li>
+              
               <!--<li>
                 <div class="m-dropdown">
                   <div class="e-button open">
