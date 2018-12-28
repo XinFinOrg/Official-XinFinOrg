@@ -822,7 +822,7 @@ hr {
 /*  XDC Utility  */
 #xdc-utility-banner{background: url('../images/xdc-protocol-banner-image2.png') #112b3c;background-repeat: no-repeat;background-position: bottom right;display: block;position: relative;min-height:700px;}
 #xdc-utility-banner .bannertext{display: block;position: relative;z-index: 99;margin-top: 20%;text-align: left;color: #fff;font-size: 19px;letter-spacing: 0.5px;}
-#xdc-utility-banner h1 {text-align: center;}
+#xdc-utility-banner h1 {text-align: left;}
 #xdc-utility-banner .bannertext p {text-align: left;font-size: 18px;font-weight: 400;font-family: latothin;}
 .btxt-img{display: block;position: relative;z-index: 99;margin-top: 15%;}
 
@@ -831,7 +831,7 @@ hr {
 
 .usecase-box {display: block;position: relative;margin-bottom: 55px;padding:15px;background-color:#FFFFFF;}
 .usecase-box .image-container {display: -ms-flexbox;display: flex;text-align: center;-ms-flex-align: center;align-items: center;font: 0/0 a;border: 1px solid transparent;}
-.usecase-box .image-container img {margin: auto;max-width: 100%;max-height: 100%;-o-object-fit: contain;object-fit: contain;}
+.usecase-box .image-container img {margin: auto;width: 100%;max-height: 100%;-o-object-fit: contain;object-fit: contain;}
 .usecase-box h3{font-size:22px;}
 .usecase-box .githublink {font-size: 16px;font-weight: 500;margin: 8px 0px;color: #3490E6;}
 .usecase-box .githublink i {font-size: 16px;color: #a5b2bf;}

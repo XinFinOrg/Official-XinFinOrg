@@ -19,7 +19,7 @@ include('inc/header.php') ?>
 <section id="xdc-utility">
   <div class="container">
   	<div class="row">
-    <div class="col-md-4 col-sm-6 col-xs-6">
+    <div class="col-md-4 col-sm-6 col-xs-12">
         <div class="usecase-box">
             <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/mycontract-logo.jpg" alt="mycontract.co">
@@ -35,7 +35,7 @@ include('inc/header.php') ?>
         </div>
     </div>
     
-    <div class="col-md-4 col-sm-6 col-xs-6">
+    <div class="col-md-4 col-sm-6 col-xs-12">
         <div class="usecase-box">
             <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/tradefinex-logo.jpg" alt="tradefinex.org">
@@ -51,7 +51,7 @@ include('inc/header.php') ?>
         </div>
     </div>
     
-    <div class="col-md-4 col-sm-6 col-xs-6">
+    <div class="col-md-4 col-sm-6 col-xs-12">
         <div class="usecase-box">
             <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/kramaa-logo.jpg" alt="tradefinex.org">
