@@ -829,14 +829,18 @@ hr {
 #xdc-utility-banner #scroll{margin-top: 0;bottom: 3%;z-index: 99;}
 #xdc-utility{padding: 5% 0 ;background: #ececec;}
 
-.usecase-box {display: block;position: relative;margin-bottom: 55px;padding:15px;background-color:#FFFFFF;}
+.usecase-box {display: block;position: relative;padding:15px;background-color:#FFFFFF;height:100%;}
 .usecase-box .image-container {display: -ms-flexbox;display: flex;text-align: center;-ms-flex-align: center;align-items: center;font: 0/0 a;border: 1px solid transparent;}
 .usecase-box .image-container img {margin: auto;width: 100%;max-height: 100%;-o-object-fit: contain;object-fit: contain;}
 .usecase-box h3{font-size:22px;}
-.usecase-box .githublink {font-size: 16px;font-weight: 500;margin: 8px 0px;color: #3490E6;}
+.usecase-box .githublink {font-size: 16px;font-weight: 500;margin: 8px 0px;color: #3490E6;overflow-wrap: break-word;word-wrap: break-word;-ms-word-break: break-all;word-break: break-all;-ms-hyphens: auto;-moz-hyphens: auto;-webkit-hyphens: auto;hyphens: auto;}
 .usecase-box .githublink i {font-size: 16px;color: #a5b2bf;}
 .usecase-box .title {font-size: 20px;font-weight: 500;color: #000;line-height: 27px;margin-bottom: 10px;}
 .usecase-box p{font-size:15px;line-height:20px;}
+
+.mb-5 {margin-bottom: 3rem!important;}
+
+.flex-row {-webkit-box-orient: horizontal!important;-webkit-box-direction: normal!important;-ms-flex-direction: row!important;flex-direction: row!important;}
 /*  XDC Utility  */
 
 
