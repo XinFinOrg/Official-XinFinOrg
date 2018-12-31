@@ -52,12 +52,14 @@ include('inc/header.php') ?>
         <div class="col-md-6">
           <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
             <h1 style="text-align:left;">What is XinFin?</h1>
-          </div>
-          <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-            <p>XinFin is a decentralized Blockchain platform that runs smart contracts and provides cross chain interoperability. XinFin Network is fully compatible with Ethereum Virtual Machine (EVM).</p>
-            <p>For Setting up XinFin Blockchain Node <a href="https://github.com/XinFinOrg/XDC01-docker-Nnodes">click here</a></p>
-            </div>
-        </div>
+</div>
+ <div data-wow-duration="0.5s" data-wow-delay="0.5s">
+ <p>XinFin is a decentralized Blockchain platform that runs smart contracts and provides cross chain interoperability. XinFin Network is fully compatible with Ethereum Virtual Machine (EVM).</p>
+ <p>For Setting up XinFin Blockchain Node <a href="https://github.com/XinFinOrg/XDC01-docker-Nnodes">Click Here</a><br/>
+ <p>Create & Deploy Token Without Coding Skill <a href="https://mycontract.co">Click Here</a><br/>
+ </p>
+ </div>
+</div>
         <div class="col-md-6">
           <div class="embed-responsive embed-responsive-16by9 embed-div">
           <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/K-tHZkV6zAs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
