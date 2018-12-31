@@ -55,12 +55,8 @@ include('inc/header.php') ?>
           </div>
           <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
             <p>XinFin is a decentralized Blockchain platform that runs smart contracts and provides cross chain interoperability. XinFin Network is fully compatible with Ethereum Virtual Machine (EVM).</p>
-            <p>For Setting up XinFin Blockchain Node,</p>
-            <p>&bull; Windows users <a href="#">click here</a><br />
-            &bull; MAC users <a href="#">click here</a><br />
-            &bull; Linux users <a href="#">click here</a></p>
-            <p></p>
-          </div>
+            <p>For Setting up XinFin Blockchain Node <a href="https://github.com/XinFinOrg/XDC01-docker-Nnodes">click here</a></p>
+            </div>
         </div>
         <div class="col-md-6">
           <div class="embed-responsive embed-responsive-16by9 embed-div">
