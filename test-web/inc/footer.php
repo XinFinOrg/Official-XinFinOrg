@@ -43,6 +43,7 @@
                         <a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><i class="fa fa-youtube"></i></a>
                         <a href="https://t.me/xinfintalk" target="_blank"><i class="fa fa-paper-plane"></i></a>
                         <a href="https://www.reddit.com/r/xinfin/" target="_blank"><i class="fa fa-meetup"></i></a>
+			<a href="https://www.meetup.com/members/270624533/" target="_blank"><i class="fa fa-meetup"></i></a>
                     </span>
                 </p>
             </div>
