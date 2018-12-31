@@ -28,7 +28,7 @@
                 <a href="privacy.php">Privacy Policy</a><br/>
 		<a href="https://status.xinfin.org/">Network Status</a><br/>
 		<a href="contactus.php">Want to write about XinFin? Press inquiries</a><br/>			
-		<a href="download.php">Download our logo & Other assets </a><br/>
+		<a href="download.php">Download our Logo & Other assets </a><br/>
                 <a href="disclaimer.php">Disclaimer</a></p>
 			</div>
 			
