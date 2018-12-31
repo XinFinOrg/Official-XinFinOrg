@@ -6,7 +6,7 @@
                 <!-- <a href="index.php"><img src="assets/images/logo.png" width="65"></a><br/><br/> -->
                 <p><span>About XinFin</span><br/>
                 <a href="about.php">About Team</a><br/>
-                <a href="xdc-xdce.php">XDC/XDCE</a><br/>	
+                <a href="https://xinfin.io">XDC/XDCE Exchange List & Wallet Support</a><br/>	
 		<a href="https://status.xinfin.org/">See XinFin Network Data & Status</a><br/>
 		<a href="https://xinfin.org/test-web/xdc-protocol.php#masternodes">Stake XDC and Setup MasterNode</a><br/>
 		<a href="contactus.php">Want to write about XinFin? Press Inquiry</a><br/>	
