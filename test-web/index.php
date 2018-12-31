@@ -54,7 +54,7 @@ ddd
             <h1 style="text-align:left;">What is XinFin?</h1>
 </div>
  <div data-wow-duration="0.5s" data-wow-delay="0.5s">
- <p>XinFin (eXchange inFinite) is a decentralized Blockchain platform that runs smart contracts and provides cross chain interoperability. XinFin Network is fully compatible with Ethereum Virtual Machine (EVM).</p>
+ <p>XinFin (eXchange inFinite) is a decentralized Blockchain platform that runs smart contracts and provides cross chain interoperability Which Combining the power of Public and Private blockchains. XinFin Network is fully compatible with Ethereum Virtual Machine (EVM).</p>
  <p>For Setting up XinFin Blockchain Node <a href="https://github.com/XinFinOrg/XDC01-docker-Nnodes">Click Here</a><br/>
  <p>Create & Deploy Token Without Coding Skill <a href="https://mycontract.co">Click Here</a><br/>
  </p>
