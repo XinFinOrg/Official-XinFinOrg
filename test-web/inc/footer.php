@@ -9,7 +9,7 @@
                 <a href="xdc-xdce.php">XDC/XDCE</a><br/>	
 		<a href="https://status.xinfin.org/">See XinFin Network Data & Status</a><br/>
 		<a href="https://xinfin.org/test-web/xdc-protocol.php#masternodes">Stake XDC and Setup MasterNode</a><br/>
-		<a href="contactus.php">Want to write about XinFin? Press inquiries</a><br/>	
+		<a href="contactus.php">Want to write about XinFin? Press Inquiry</a><br/>	
                 <a href="https://github.com/XinFinOrg/Open-Hackathon" target="_blank">Contribute Code with Online Hackathon</a></p>
 			</div>
 			
