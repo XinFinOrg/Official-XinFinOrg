@@ -45,6 +45,7 @@
                         <a href="https://t.me/xinfintalk" target="_blank"><i class="fa fa-paper-plane"></i></a>
                         <a href="https://www.reddit.com/r/xinfin/" target="_blank"><i class="fa fa-meetup"></i></a>
 			<a href="https://www.meetup.com/members/270624533/" target="_blank"><i class="fa fa-meetup"></i></a>
+			<a href="https://medium.com/xinfin" target="_blank"><i class="fa fa-meetup"></i></a>
                     </span>
                 </p>
             </div>
