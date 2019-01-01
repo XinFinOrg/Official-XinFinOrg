@@ -46,16 +46,19 @@ include('inc/header.php') ?>
       <p>These whitepapers are published with a view of educating the eager minds about the nitty-gritty of this wonderful multipurpose platform. The papers also narrate the cases of how this platform can benefit the businesses and financial organization alike, in the venture of improving the scenario of cross-border fund transfer.</p>
 
       <div class="white-button">
-        <a href="docs/whitepaper-tech.pdf" target="_blank" style="margin-right: 25px;">The XDC Protocol</a>
-        <a href="docs/whitepaper-business.pdf" target="_blank" style="margin-left: 25px;">Business White Paper</a> 
-	<a href="xdc-protocol.php" target="_blank" style="margin-left: 25px;">Xinfin Consensus</a>
-	<a href="xdc-protocol.php" target="_blank" style="margin-left: 25px;">Xinfin Consensus</a>
-        <a href="https://github.com/XinFinOrg/XDC01-docker-Nnodes="_blank" style="margin-left: 25px;">Setup XinFin Node</a>
-	<a href="docs/whitepaper-business.pdf" target="_blank" style="margin-left: 25px;">XinFin testnet</a>
-	<a href="" target="_blank" style="margin-left: 25px;">Xinfin Network Status (Live)</a>
-        <a href="http://xinfin.info/" target="_blank" style="margin-left: 25px;">XDC Blockchain Explorers</a>
-	<a href="https://etherscan.io/token/0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2?a=" target="_blank" style="margin-left: 25px;">XDCe Explorers (ERC20)</a>      
-	<a href="https://XinFin.io" target="_blank" style="margin-left: 25px;">Wallet Support</a>
+ <p><div>
+<a href="docs/whitepaper-tech.pdf" target="_blank">Technical White Papper</a></p>
+<a href="docs/whitepaper-business.pdf" target="_blank">Business White Paper</a></p>
+<a href="xdc-protocol.php" target="_blank">Xinfin Consensus</a></div></p>
+<a href="https://github.com/XinFinOrg/XDC01-docker-Nnodes="_blank">Setup XinFin Node</a></p>
+<a href="http://status.xinfin.org" target="_blank">XinFin Network (testnet)</a></p>
+<a href="" target="_blank">Xinfin Network Status (Live)</a></p>
+<a href="http://xinfin.info/" target="_blank">XDC Blockchain Explorers</a></p>
+<a href="https://etherscan.io/token/0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2?a=" target="_blank">XDCe Explorers (ERC20)</a></p>
+<a href="http://xinfin.net/" target="_blank">Community Forum</a></p>
+<a href="https://XinFin.io/" target="_blank">Wallet Support</a></p>
+ </div>
+ </div>
 	
 	
       </div>
