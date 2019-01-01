@@ -53,9 +53,10 @@ include('inc/header.php') ?>
 <a href="https://github.com/XinFinOrg/XDC01-docker-Nnodes="_blank">Setup XinFin Node</a></p>
 <a href="http://status.xinfin.org" target="_blank">XinFin Network Status (testnet)</a></p>
 <a href="" target="_blank">Xinfin Network Status (Live)</a></p>
-<a href="http://xinfin.info/" target="_blank">XDC Blockchain Explorers</a></p>
-<a href="https://etherscan.io/token/0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2?a=" target="_blank">XDCe Explorers (ERC20)</a></p>
+<a href="http://xinfin.info/" target="_blank">XDC Explorer</a></p>
+<a href="https://etherscan.io/token/0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2?a=" target="_blank">XDCe Explorer (ERC20)</a></p>
 <a href="http://xinfin.net/" target="_blank">Community Forum</a></p>
+<a href="bounty.php" target="_blank">Community Bounty Program</a></p>					    
 <a href="https://XinFin.io/" target="_blank">Wallet Support</a></p>
  </div>
  </div>
