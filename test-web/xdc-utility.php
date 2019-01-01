@@ -27,7 +27,8 @@ include('inc/header.php') ?>
             <h3>MyContract</h3>
             <div class="githublink"><a href="https://github.com/XinFinOrg/ico-automation-dashboard"><i class="fa fa-github"></i> https://github.com/XinFinOrg/ico-automation-dashboard</a></div>
             <div class="githublink"><a href="https://www.mycontract.co"><i class="fa fa-external-link"></i> https://www.mycontract.co</a></div>
-            <p>MyContract.co is a WebApp that allows users to create smart contracts for issuing tokens to crowdsale or for asset tokenization without a need for any programming expertise, just in a few clicks.</p>
+            <p>MyContract.co is a digital asset creation & management Dashboard for any kind of assets like community coins, Bonds, real estate and infrastructure assets.
+(Asset Tokenization Market) without a need for any programming expertise.</p>
             <div class="githublink"><a href="API Link">API Link will come here</a></div>
             <div class="githublink"><a href="https://www.youtube.com/watch?v=thR-pTpF7Sw&t=3s"><i class="fa fa-youtube"></i> Watch Video</a></div>
             <p class="date">MyContract.co allows you to create your own token in a few minutes by just providing token basic details, such as token name, token symbol, token decimals, total supply, and token sale limit, in an easy to grasp environment. After providing all the details of the token created, and buying the package—payable in XDCE tokens — the users can easily get the code of their brand new token. MyContract will allow businesses of all sizes to deploy their own smart-contracts and tokens across industries, with working use cases in Supply Chain and Decentralized Credit applications.</p>
