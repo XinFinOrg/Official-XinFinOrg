@@ -51,7 +51,7 @@ include('inc/header.php') ?>
 <a href="docs/whitepaper-business.pdf" target="_blank">Business White Paper</a></p>
 <a href="xdc-protocol.php" target="_blank">Xinfin Consensus</a></div></p>
 <a href="https://github.com/XinFinOrg/XDC01-docker-Nnodes="_blank">Setup XinFin Node</a></p>
-<a href="http://status.xinfin.org" target="_blank">XinFin Network (testnet)</a></p>
+<a href="http://status.xinfin.org" target="_blank">XinFin Network Status (testnet)</a></p>
 <a href="" target="_blank">Xinfin Network Status (Live)</a></p>
 <a href="http://xinfin.info/" target="_blank">XDC Blockchain Explorers</a></p>
 <a href="https://etherscan.io/token/0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2?a=" target="_blank">XDCe Explorers (ERC20)</a></p>
