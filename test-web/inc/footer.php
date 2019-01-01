@@ -26,6 +26,7 @@
             <div class="col-md-3 col-sm-12 col-xs-12" >
                 <p><span>Other Links</span><br/>
                 <a href="resources.php">Resource</a><br/>
+		<a href="bounty.php">Community Bounty Program</a><br/>
 		<a href="download.php">Download our Logo</a><br/>
 		<a href="compliance.php">Compliance</a><br/>
                 <a href="privacy.php">Privacy Policy</a><br/>
