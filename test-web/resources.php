@@ -47,7 +47,17 @@ include('inc/header.php') ?>
 
       <div class="white-button">
         <a href="docs/whitepaper-tech.pdf" target="_blank" style="margin-right: 25px;">The XDC Protocol</a>
-        <a href="docs/whitepaper-business.pdf" target="_blank" style="margin-left: 25px;">Business White Paper</a>
+        <a href="docs/whitepaper-business.pdf" target="_blank" style="margin-left: 25px;">Business White Paper</a> 
+	<a href="xdc-protocol.php" target="_blank" style="margin-left: 25px;">Xinfin Consensus</a>
+	<a href="xdc-protocol.php" target="_blank" style="margin-left: 25px;">Xinfin Consensus</a>
+        <a href="https://github.com/XinFinOrg/XDC01-docker-Nnodes="_blank" style="margin-left: 25px;">Setup XinFin Node</a>
+	<a href="docs/whitepaper-business.pdf" target="_blank" style="margin-left: 25px;">XinFin testnet</a>
+	<a href="" target="_blank" style="margin-left: 25px;">Xinfin Network Status (Live)</a>
+        <a href="http://xinfin.info/" target="_blank" style="margin-left: 25px;">XDC Blockchain Explorers</a>
+	<a href="https://etherscan.io/token/0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2?a=" target="_blank" style="margin-left: 25px;">XDCe Explorers (ERC20)</a>      
+	<a href="https://XinFin.io" target="_blank" style="margin-left: 25px;">Wallet Support</a>
+	
+	
       </div>
     </div>
 
