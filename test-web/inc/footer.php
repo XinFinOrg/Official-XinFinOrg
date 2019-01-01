@@ -6,10 +6,10 @@
                 <!-- <a href="index.php"><img src="assets/images/logo.png" width="65"></a><br/><br/> -->
                 <p><span>About XinFin</span><br/>
                 <a href="about.php">About Community Members</a><br/>
-                <a href="https://xinfin.io">XDC/XDCE Exchange List</a><br/>
 		<a href="xdc-utility.php">XDC/XDCe Utility</a><br/>
 		<a href="https://status.xinfin.org/">See XinFin Network Data & Status</a><br/>
-		<a href="xdc-protocol.php#masternodes">Stake XDC and Setup MasterNode</a><br/>
+		<a href="bounty.php">Community Bounty Program</a><br/>
+		<a href="xdc-protocol.php#masternodes">Stake XDC & Setup MasterNode</a><br/>
                 <a href="https://github.com/XinFinOrg/Open-Hackathon" target="_blank">Online Hackathon</a></p>
 			</div>
 			
@@ -26,8 +26,8 @@
             <div class="col-md-3 col-sm-12 col-xs-12" >
                 <p><span>Other Links</span><br/>
                 <a href="resources.php">Resource</a><br/>
-		<a href="bounty.php">Community Bounty Program</a><br/>
 		<a href="download.php">Download our Logo</a><br/>
+		<a href="https://xinfin.io">XDC/XDCE Exchange List</a><br/>
 		<a href="compliance.php">Compliance</a><br/>
                 <a href="privacy.php">Privacy Policy</a><br/>
 		<a href="disclaimer.php">Disclaimer</a></p>
