@@ -8,9 +8,6 @@ include('inc/header.php') ?>
 
   <div class="container"><div class="row"><div class="bannertext">
  
-
-
-
   <div class="tabbable tabs-bottom">
                 <div class="tab-content">
 
@@ -18,18 +15,10 @@ include('inc/header.php') ?>
             <div class="jumbotron">
      
   <div  style="display:block; position: relative" >
-<h1>Developers community</h1>
-              <p>We’ve set up this resource center to allow Xinfin community developers, enthusiasts, and other partners to discuss, code, <br> access documentation, report bugs, get advice, and support to make the XDC ecosystem the blockchain for enterprise.</p>    
-              </div>           
-
-            </div>
-          </div> 
-               
-    				<div class="tab-pane" id="learn">                
-						<div class="jumbotron">
-             <div  style="display:block; position: relative" class="devstyle">
-<!-- <h2>Developers community</h2>
-<p style="font-size: 16px !important;">Why Proof of Stake consensus </p>    --> 
+<h1>Why PoS- Proof of Stake Consensus</h1>
+<p>XinFin is a much evolved <strong>GREEN hybrid blockchain platform</strong>. XinFin blockchain platform removes traditional High Power consumption based mining technology called PoW (Proof of Work).</p>
+<p>The underlying technology of this platform is designed to take responsible care of the environment as well as enable efficient crowdfunding for environmentally friendly projects.</p>
+<p>XinFin&rsquo;s Proof of Stake (PoS) mining Consensus replaces Proof of Work (PoW) Consensus for executing transactions on the Blockchain. It is also important to note that currently, XinFin (XDC) is not publicly mineable.</p><p style="font-size: 16px !important;">Why Proof of Stake consensus </p>    --> 
 </div>
 
 <?php include('inc/footer.php') ?>
