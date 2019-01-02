@@ -133,8 +133,7 @@ ddd
           <div class="wow fadeInDown" data-wow-duration="1s" data-wow-delay="1s">
             <p>Integrate with dApps built on the XDC Hybrid blockchain or come build your own.
               <br/>
-              <br/> TradeFinex aims to reduce global infrastructure deficit by minimizing inefficiencies in global trade and finance
-              using blockchain technology</p>
+              <br/> TradeFinex aims to reduce global infrastructure deficit by minimizing inefficiencies in global trade and finance using blockchain technology.</p>
           </div>
         </div>
         <div class="col-md-6">
@@ -270,7 +269,7 @@ ddd
         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
           <h1>Contact us</h1>
         </div>
-        <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+        <div class="text-center wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
           <p>Come build dApps, learn more about XinFin and the XDC hybrid blockchain, host a masternode,
             <br/>or speak to our team.</p>
           <br/>
