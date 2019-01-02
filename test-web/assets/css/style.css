@@ -838,21 +838,21 @@ hr {
 .usecase-box .title {font-size: 20px;font-weight: 500;color: #000;line-height: 27px;margin-bottom: 10px;}
 .usecase-box p{font-size:15px;line-height:20px;}
 
-.usecase-box button.btn-blue {background: #096db0;color:#fff;border: 2px solid #096db0;box-shadow:none;padding: .60rem 2rem;-webkit-border-radius: 10em;border-radius: 10em;margin: 0 auto;transition: 0.5s linear;margin-bottom:5px;}
-.usecase-box button.btn-blue:hover {cursor: pointer;background: #112b3c;color:#fff;border-color: #112b3c;}
-.usecase-box button.btn-blue .fa{margin-right:10px;}
+button.btn-blue {background: #096db0;color:#fff;border: 2px solid #096db0;box-shadow:none;padding: .60rem 2rem;-webkit-border-radius: 10em;border-radius: 10em;margin: 0 auto;transition: 0.5s linear;margin-bottom:5px;}
+button.btn-blue:hover {cursor: pointer;background: #112b3c;color:#fff;border-color: #112b3c;}
+button.btn-blue .fa{margin-right:5px;}
 
-.usecase-box button.btn-outline{background-color:transparent;background-image:none;color:#096db0;border: 2px solid #096db0;box-shadow:none;padding: .60rem 2rem;-webkit-border-radius: 10em;border-radius: 10em;margin: 0 auto;transition: 0.5s linear;margin-bottom:5px;}
-.usecase-box button.btn-outline:hover{color:#fff;background-color:#096db0;border-color:#096db0;}
-.usecase-box button.btn-outline .fa{margin-right:10px;}
+button.btn-outline{background-color:transparent;background-image:none;color:#096db0;border: 2px solid #096db0;box-shadow:none;padding: .60rem 2rem;-webkit-border-radius: 10em;border-radius: 10em;margin: 0 auto;transition: 0.5s linear;margin-bottom:5px;}
+button.btn-outline:hover{color:#fff;background-color:#096db0;border-color:#096db0;}
+button.btn-outline .fa{margin-right:5px;}
 
-.usecase-box button.btn-default {background: #2bbbad;color:#fff;border: 2px solid #2bbbad;box-shadow:none;padding: .60rem 2rem;-webkit-border-radius: 10em;border-radius: 10em;margin: 0 auto;transition: 0.5s linear;margin-bottom:5px;}
-.usecase-box button.btn-default:hover {cursor: pointer;background: #259f93;color:#fff;border-color: #259f93;}
-.usecase-box button.btn-default .fa{margin-right:10px;}
+button.btn-default {background: #2bbbad;color:#fff;border: 2px solid #2bbbad;box-shadow:none;padding: .60rem 2rem;-webkit-border-radius: 10em;border-radius: 10em;margin: 0 auto;transition: 0.5s linear;margin-bottom:5px;}
+button.btn-default:hover {cursor: pointer;background: #259f93;color:#fff;border-color: #259f93;}
+button.btn-default .fa{margin-right:5px;}
 
-.usecase-box button.btn-outline-default{background-color:transparent;background-image:none;color:#2bbbad;border: 2px solid #2bbbad;box-shadow:none;padding: .60rem 2rem;-webkit-border-radius: 10em;border-radius: 10em;margin: 0 auto;transition: 0.5s linear;margin-bottom:5px;}
-.usecase-box button.btn-outline-default:hover{color:#fff;background-color:#2bbbad;border-color:#2bbbad;}
-.usecase-box button.btn-outline-default .fa{margin-right:10px;}
+button.btn-outline-default{background-color:transparent;background-image:none;color:#2bbbad;border: 2px solid #2bbbad;box-shadow:none;padding: .60rem 2rem;-webkit-border-radius: 10em;border-radius: 10em;margin: 0 auto;transition: 0.5s linear;margin-bottom:5px;}
+button.btn-outline-default:hover{color:#fff;background-color:#2bbbad;border-color:#2bbbad;}
+button.btn-outline-default .fa{margin-right:5px;}
 
 .mb-1 {margin-bottom: 1rem!important;}
 .mb-2 {margin-bottom: 2rem!important;}
@@ -1389,9 +1389,8 @@ margin: 0 auto; display: flex;
 
 
 
-
-
-
+#video-section{padding: 5% 0;display: block;position: relative;background: #e4e4e4;min-height:600px;border-top:1px solid #cdcdcd;}
+#video-section h1 {color: #00244e;font-size: 40px;font-family: latothin;}
 
     #banner2
 {

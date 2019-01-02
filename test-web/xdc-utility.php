@@ -5,7 +5,7 @@ $desc = "Visit this page of XinFin to  discuss, code, access documentation, repo
 include('inc/header.php') ?>
 <link rel='stylesheet' href='assets/css/app-new.css' type='text/css' media='all' />
 
-<section id="banner" style=" background: url('assets/images/xdc-protocol-banner-image2.png') #112b3c;background-repeat: no-repeat;background-position: bottom right;">
+<section id="banner" style=" background: url('assets/images/xdc-protocol-banner-image2.png') #112b3c; background-repeat: no-repeat; background-position: bottom right;">
     <div class="container">
         <div class="row">
             <div class="bannertext">
@@ -16,15 +16,6 @@ include('inc/header.php') ?>
     </div>
 </section>
 
-<!--<section id="xdc-utility-banner"> 
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 bannertext">
-        <h1>XDC Utility</h1>
-        <p>The XDC token is the underlying utility token of the XinFin hybrid blockchain. The XDC token acts as a settlement mechanism for DApps built on the XinFin hybrid blockchain. XinFin has launched an Ethereum token, XDCE, that can be traded with XDC utility token on a 1:1 ratio. This allows token holder the flexibility to hold tokens in either form for utility. The ERC-20 token can be swapped for the XDC token at a ratio of 1:1. This swap can be made on the AlphaEx exchange which is compatible with all decentralised exchanges and has presence in liquidity markets and supports XDC liquidity. So far, MyContract, TradeFinex, Karmaa, Land Registry, iFactor, XinFin Blockchain Academy, TurantPay are use cases built around XDC Utility.</p>
-      </div>
-</div></div></div>
-</section>-->
 
 
 <section id="xdc-utility">
@@ -135,12 +126,12 @@ include('inc/header.php') ?>
             	<a href="http://ifactor.xinfin.org/"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
                 <a href="https://github.com/XinFinOrg/ifactor-poc"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
             </div>
-            <p>Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <p>iFactor is an online invoice factoring platfom where businesses/suppliers can factor their unpaid invoices. iFactor aims to improve security and remove operational inefficiencies in the invoice factoring process by using technology advancements such as blockchain and smart contracts.</p>
             <div class="btn-block mb-1">
             	<a href="ifactor.xinfin.org/docs"><button class="btn-default"><i class="fa fa-gear"></i> API</button></a>
             	<a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g"><button class="btn-outline-default"><i class="fa fa-youtube"></i> Watch Video</button></a>
             </div>
-            <p class="date">Utility for XDC/XDCE brief with Benefit, Industry</p>
+            <p class="date">iFactor enables Supplier, Buyer and Financers to be on the same platform visible to each other. In order to factor invoice, Supplier has to upload invoice details on the platform which need to be verified by Buyer. All approved invoices are visible to financers on the platform. Finacers can send factoring proposal. Supplier can accept proposal of their choice. All Users are provided with inbuilt XDC wallet with ERC20 standards. Discounting logic is prebuilt in the smart contract which calculates interest, prepayment and post payment based on factoring terms.</p>
         </div>
     </div>
     
@@ -184,12 +175,9 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">            
             <h3>List your Application</h3>
-            <div class="btn-block mb-1">
-            	<a href="https://github.com/XinFinOrg/TurantPay"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
-            </div>
             <p>Do you have an application built around XDC Network that you want to get listed? Just click the link, fill the form with required details and see your app listed as soon as possible.</p>
             <div class="btn-block mb-1">
-            	<a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g"><button class="btn-outline-default"><i class="fa fa-youtube"></i> Watch Video</button></a>
+            	<a href="list-application.php"><button class="btn-blue">List your Application</button></a>
             </div>
         </div>
     </div>
