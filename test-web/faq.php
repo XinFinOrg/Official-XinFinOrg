@@ -686,8 +686,7 @@ The XDC ecosystem will provide easily accessible light wallets that will connect
                             <h3>● Why is there almost no GitHub code or regular activity?</h3>
                             <div>
                                 <p>XinFin is ranked 300 in terms of Github commits on crypto projects. It is also interesting to note that this is also nearly the CMC rank of the project currently.</p>
-                              <p>To view XinFin GitHub activity please visit: <br />
-                                <a href="https://www.cryptomiso.com/#XDCE" target="_blank">https://www.cryptomiso.com/#XDCE</a></p>
+                              <p>To view XinFin GitHub activity please visit: <a href="https://www.cryptomiso.com/#XDCE" target="_blank">https://www.cryptomiso.com/#XDCE</a></p>
                                 <p>We do understand the community's interest and concerns on having visibility on the development of private repositories. However, it is important to understand that when XinFin develops a Proofs-of-Concept (PoCs) and Pilots these are for enterprise-clients and all these projects are developed under a Non-Disclosure Agreement (NDA). NDAs are common for all enterprises engaging technology development work, not just blockchain projects. For projects that are developed under an NDA we are required to keep these repositories private and secure.</p>
                                 <p>Over the next 60–90 days we are expecting significant commits to our GitHub public repositories. .This will as a result of the several hackathons that XinFin have sponsored. We invite you to revisit our Github in the next 60–90 days.</p>
                             </div>
@@ -716,6 +715,32 @@ The XDC ecosystem will provide easily accessible light wallets that will connect
                               <p>As stated in point earlier, blockchain is a network product. While the private network deployment can happen in a closed environment, for a successful public blockchain we need to gather a group of participants.</p>
                               <p>XinFin and TradeFinex team have been evolving the product into an open API standard, which can be connected by a network of participants. One of the requirements from enterprise partners was that they required a regulated sandbox environment and full compliance under law of the land to work with XinFin and the digital asset XDC attached to it. This was one of the drivers behind XinFin liaising with regulators for a regulatory sandbox to be able to conduct live transactions.</p>
                               <p>Now that XinFin have been approved to participate in sandbox environment with ADGM RegLab (<a href="https://medium.com/xinfin/xinfin-becomes-the-official-participant-of-abu-dhabi-global-market-sandbox-to-live-test-tradefinex-cf4922f63a51%29" target="_blank">Media Release 11 Sept 2018</a>) and we are awaiting approval from additional regulators, we will be in a position to offer the open standards APIs and connectors that can be connected through a regulated environment to many enterprise clients.</p>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>● ASSOCHAM partnership was announced in March 2018, yet no client announcements have been made since then.</h3>
+                            <div>
+                                <p>The members of ASSOCHAM also expressed the need for a regulated sandbox environment to conduct live transactions with the XinFin Network.</p>
+                              <p>Now that XinFin has approved to participate in sandbox environment with ADGM RegLab , we are initiating a larger network where these associations can officially work with XinFin.</p>
+                              <p>We will see actual production use of TradeFinex APIs from some of the ASSOCHAM members from 2019 onwards.</p>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>● Who is the CEO, the CTO, CIO, COO of XinFin?</h3>
+                            <div>
+                                <p>The c-suite level of management — CEO, CTO, CIO, COO etc, are all functions of centralised business structures.</p>
+                              <p>Since XinFin is moving towards a more open standard we remove titles and positions such as CEO, CTO, CIO, COO. In future most of the contribution will be driven and done by our community and in a decentralized way.</p>
+                              <p>In almost all decentralised system there are no such posts called CEO, CTO, CIO, COO, etc.</p>
+                              <p>However, The regional and regulated companies connecting to XinFin open standards will still be centralised ones and may have titles such as CEO, CTO, CIO.</p>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>● Is TurantPay currently in use by any of our partners? If not, what is it dependent upon? When is the development expected to finish?</h3>
+                            <div>
+                                <p>TurantPay is dependent upon XDC liquidity against Fiat currency markets.</p>
+                              <p>As you are aware, XDCE was recently listed on Indodax which gives an XDCE-IDR pair.</p>
+                              <p>There is also a XDCE-USDC pair added from alphaex.net. USDC is a regulated stablecoin initiated by Circle and Coinbase.</p>
+                              <p>Development of such two-way pairings and liquidity amongst them is required for TurantPay to go in production. Once, there are enough pairings, then app developers can build their own cross-border remittance and payment apps on top of XDC using the TurantPay APIs.</p>
                             </div>
                         </li>
                     </ul>
