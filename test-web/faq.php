@@ -631,6 +631,53 @@ The XDC ecosystem will provide easily accessible light wallets that will connect
                     <!-- Nested Zozo Accordion End-->
                 </div>
             </li>
+            
+            
+            
+            
+            
+            <li>
+                <h3>Recent Developments</h3>
+                <div>
+                    <!-- Nested Zozo Accordion Start-->
+                    <ul id="demo-accordion8">
+                        <li>
+                            <h3>● Where can I find latest developments?</h3>
+                            <div>
+                                <p>Latest developments can be found on http://www.xinfin.org/media-room/ and on all our social media channels.</p>
+                                <ul style="list-style-type:disc;">
+                                  <li>Twitter: <a href="https://twitter.com/XinfinF" target="_blank">https://twitter.com/XinfinF</a></li>
+                                    <li>LinkedIn: <a href="https://www.linkedin.com/in/xinfin/" target="_blank">https://www.linkedin.com/in/xinfin/</a></li>
+                                    <li>Forum: <a href="http://xinfin.net/index.php" target="_blank">http://xinfin.net/index.php</a></li>
+                                    <li>YouTube: <a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g?view_as=subscriber" target="_blank">https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g?view_as=subscriber</a></li>
+                                    <li>Telegram: <a href="t.me/xinfintalk">t.me/xinfintalk</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>● Are you attending global conferences?</h3>
+                            <div>
+                                <p>Yes. We were invited to speak by Central Bank of India's research arm at their event. Our team is also speaker at Blockchain Technology summit, India chapter. We are actively evaluating various upcoming events. Our preference is to attend all leading events with a speaker slot.</p>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>● How can I contribute to the XinFin ecosystem?</h3>
+                            <div>
+                                <p>XinFin.org has opened up its platform for participation for the best programming minds of the world. It believes that a hybrid blockchain protocol like XDC holds a greater chance to going into full production of real world institutions. The XinFin developer community will be integral in the maturation of the XDC protocol. This kind of development will be very beneficial in the long term for production implementations of blockchain technology in regulated financial industries. There are bounties for developers that are able to contribute in meaningful ways that include allocation of XDCs, the native fuel of XDC protocol. We hope to attract the best developer talent, on a project, that we believe, is going to be revolutionary in the mainstreaming of blockchain technology.</p>
+                                <p><b>Resources for Developer Community to work with XDC Protocol:</b></p>
+                                <ul style="list-style-type:disc;">
+                                  <li>Community Page: <a href="http://www.xinfin.org/community" target="_blank">http://www.xinfin.org/community</a></li>
+                                    <li>Slack Channel for Developers: <a href="https://xinfin-public.slack.com/" target="_blank">https://xinfin-public.slack.com/</a></li>
+                                    <li>Gitterchat Channel for Developers: <a href="https://gitter.im/xinfin-public" target="_blank">https://gitter.im/xinfin-public</a></li>
+                                    <li>Github: <a href="https://github.com/XinFinorg" target="_blank">https://github.com/XinFinorg</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    <!-- Nested Zozo Accordion End-->
+                </div>
+            </li>
+            
         </ul>
 
        

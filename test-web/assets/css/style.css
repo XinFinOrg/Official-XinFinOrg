@@ -871,6 +871,8 @@ button.btn-outline-default .fa{margin-right:5px;}
 
 .posTable{color: #002752;font-size: 16px;letter-spacing: 0.5px;}
 
+.link-break-out {text-align:left;overflow-wrap: break-word;word-wrap: break-word;-ms-word-break: break-all;word-break: break-all;word-break: break-word;-ms-hyphens: auto;-moz-hyphens: auto;-webkit-hyphens: auto;hyphens: auto;}
+
 /*  POS  */
 
 
