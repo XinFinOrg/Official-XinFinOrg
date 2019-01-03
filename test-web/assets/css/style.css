@@ -300,8 +300,9 @@ padding: 10px 0 20px 0 !important;/*padding: 5% 0;*/
    text-align: left;
    font-size: 36px;
    padding-left: 65px;
-
 }
+
+.bannertext h2 {color: #ffffff;text-align: left;font-size: 30px;padding-left: 65px;font-weight:600;}
 
 .bannertext p
 {
@@ -2796,7 +2797,7 @@ display: inline-table;
 {
   padding-left:0;
   padding-top:30px;
-    text-align: center !important;
+  text-align: center !important;
 }
 .bannertext p
 {
