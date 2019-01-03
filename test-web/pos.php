@@ -1,5 +1,5 @@
 <?php
-$title = "Why Proof-of-Stake Is Better Than Proof-of-Work";
+$title = "Why Proof-of-Stake (PoS) Is Better Than Proof-of-Work (PoW)";
 $desc = "Either you have decided to enter the world of Blockchain technology, or you are just interested in knowing the mining process of blockchains, this article will help you out in both cases.";
 
 include('inc/header.php') ?>
