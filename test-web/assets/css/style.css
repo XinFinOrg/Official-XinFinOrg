@@ -861,6 +861,12 @@ button.btn-outline-default .fa{margin-right:5px;}
 .mb-4 {margin-bottom: 4rem!important;}
 .mb-5 {margin-bottom: 5rem!important;}
 
+.pb-1 {padding-bottom: 1rem!important;}
+.pb-2 {padding-bottom: 2rem!important;}
+.pb-3 {padding-bottom: 3rem!important;}
+.pb-4 {padding-bottom: 4rem!important;}
+.pb-5 {padding-bottom: 5rem!important;}
+
 .flex-row {-webkit-box-orient: horizontal!important;-webkit-box-direction: normal!important;-ms-flex-direction: row!important;flex-direction: row!important;}
 /*  XDC Utility  */
 
@@ -872,8 +878,13 @@ button.btn-outline-default .fa{margin-right:5px;}
 .posTable{color: #002752;font-size: 16px;letter-spacing: 0.5px;}
 
 .link-break-out {text-align:left;overflow-wrap: break-word;word-wrap: break-word;-ms-word-break: break-all;word-break: break-all;word-break: break-word;-ms-hyphens: auto;-moz-hyphens: auto;-webkit-hyphens: auto;hyphens: auto;}
-
 /*  POS  */
+
+/*  Download Assets  */
+.download-banner{}
+.download-banner h1{text-align:center;padding-left: 0px;}
+.download-banner p{text-align:center;padding-left: 0px;}
+/*  Download Assets  */
 
 
 
