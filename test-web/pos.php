@@ -90,7 +90,7 @@ include('inc/header.php') ?>
                         </div>
 
                         <p>It is important to note that the users must have enough staking amount to place a bet on the block. The more bets a user places, the higher are their chances of being chosen and getting rewarded.</p>
-                        <p>Now that you know that PoS is far better than PoW,are you ready to invest in Blockchain technology with PoS mechanism? If so, we advise you to opt for <span class="text-primary">Hybrid Blockchain Technology</span> – a game-changing technology consisting of both public and private state of network. It offers robust security and authentic transactions.</p>
+                        <p>Now that you know that PoS is far better than PoW, are you ready to invest in Blockchain technology with PoS mechanism? If so, we advise you to opt for <a href="https://xinfin.org">Hybrid Blockchain Technology</a> – a game-changing technology consisting of both public and private state of network. It offers robust security and authentic transactions.</p>
                     </div>
                 </div>
             </div>
