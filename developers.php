@@ -42,9 +42,9 @@ include('inc/header.php') ?>
         <div class="col-md-6">
          <ul>
          <li style="text-align: left">Whitepaper</li>
-         <li style="text-align: left"><a href="https://www.youtube.com/watch?v=CQvZwTSsytg&feature=youtu.be" target="_blank">Introduction to Hybrid Blockchains </a></li>
+         <!--<li style="text-align: left"><a href="https://www.youtube.com/watch?v=CQvZwTSsytg&feature=youtu.be" target="_blank">Introduction to Hybrid Blockchains </a></li>
          <li style="text-align: left"><a href="https://www.youtube.com/watch?v=qu1sEzbThbg&feature=youtu.be" target="_blank">XDC Consensus</a></li>
-         <li style="text-align: left"><a href="https://www.youtube.com/watch?v=Wn-p8cMu37I&feature=youtu.be" target="_blank">The Hybrid blockchain Network</a></li>
+         <li style="text-align: left"><a href="https://www.youtube.com/watch?v=Wn-p8cMu37I&feature=youtu.be" target="_blank">The Hybrid blockchain Network</a></li>-->
          </ul> 
          </div>
 
@@ -52,8 +52,8 @@ include('inc/header.php') ?>
          <ul>
          
          <li style="text-align: left">Introduction to XDC Smart Contracts</li>
-         <li style="text-align: left"><a href="https://www.youtube.com/watch?v=83xdE19uoL8&feature=youtu.be" target="_blank">What are Masternodes</a></li>
-         <li style="text-align: left"><a href="https://www.youtube.com/watch?v=VWCkzg9TY7k&feature=youtu.be" target="_blank">Getting Involved.</a></li>
+         <!--<li style="text-align: left"><a href="https://www.youtube.com/watch?v=83xdE19uoL8&feature=youtu.be" target="_blank">What are Masternodes</a></li>
+         <li style="text-align: left"><a href="https://www.youtube.com/watch?v=VWCkzg9TY7k&feature=youtu.be" target="_blank">Getting Involved.</a></li>-->
          </ul> 
          </div></div></div>
       
