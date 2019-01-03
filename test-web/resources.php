@@ -48,14 +48,14 @@ include('inc/header.php') ?>
 	<div class="btn-block">
         <a href="docs/whitepaper-tech.pdf" target="_blank"><button class="btn-blue mb-1">Technical White Papper</button></a>
 		<a href="docs/whitepaper-business.pdf" target="_blank"><button class="btn-outline mb-1">Business White Paper</button></a>
-        <a href="xdc-protocol.php" target="_blank"><button class="btn-blue mb-1">Xinfin Consensus</button></a>
+        <a href="xdc-protocol.php"><button class="btn-blue mb-1">Xinfin Consensus</button></a>
         <a href="https://github.com/XinFinOrg/XDC01-docker-Nnodes" target="_blank"><button class="btn-outline mb-1">Setup XinFin Node</button></a>
         <a href="http://status.xinfin.org" target="_blank"><button class="btn-blue mb-1">XinFin Network Status (testnet)</button></a>
         <a href="https://status.xinfin.org/" target="_blank"><button class="btn-outline mb-1">Xinfin Network Status (Live)</button></a>
         <a href="http://xinfin.info/" target="_blank"><button class="btn-blue mb-1">XDC Explorer</button></a>
         <a href="https://etherscan.io/token/0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2?a=" target="_blank"><button class="btn-outline mb-1">XDCe Explorer (ERC20)</button></a>
         <a href="http://xinfin.net/" target="_blank"><button class="btn-blue mb-1">Community Forum</button></a>
-        <a href="bounty.php" target="_blank"><button class="btn-outline mb-1">Community Bounty Program</button></a>			    
+        <a href="bounty.php"><button class="btn-outline mb-1">Community Bounty Program</button></a>			    
         <a href="https://XinFin.io/" target="_blank"><button class="btn-blue mb-1">Wallet Support</button></a>
 	</div>
             
