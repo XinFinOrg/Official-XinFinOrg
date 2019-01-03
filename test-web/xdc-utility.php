@@ -1,6 +1,6 @@
 <?php 
 $title = "XDC Utility | Blockchain Technology Company - XinFin";
-$desc = "Visit this page of XinFin to  discuss, code, access documentation, report bugs, get advice and support to make the XDC ecosystem the blockchain for enterprise. ";
+$desc = "Visit this page of XinFin to discuss, code, access documentation, report bugs, get advice and support to make the XDC ecosystem the blockchain for enterprise. ";
 
 include('inc/header.php') ?>
 <link rel='stylesheet' href='assets/css/app-new.css' type='text/css' media='all' />
@@ -174,7 +174,9 @@ include('inc/header.php') ?>
     
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">            
-            <h3>List your Application</h3>
+            <div class="image-container mb-2">
+            	<img class="img-responsive" src="assets/images/utility/your-application-logo.jpg" alt="tradefinex.org">
+            </div>
             <p>Do you have an application built around XDC Network that you want to get listed? Just click the link, fill the form with required details and see your app listed as soon as possible.</p>
             <div class="btn-block mb-1">
             	<a href="list-application.php"><button class="btn-blue">List your Application</button></a>

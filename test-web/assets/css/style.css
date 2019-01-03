@@ -863,6 +863,15 @@ button.btn-outline-default .fa{margin-right:5px;}
 .flex-row {-webkit-box-orient: horizontal!important;-webkit-box-direction: normal!important;-ms-flex-direction: row!important;flex-direction: row!important;}
 /*  XDC Utility  */
 
+/*  POS  */
+.orderList{font-size:16px;color:#002752;}
+.orderList ol{margin-left:35px;}
+.orderList ol li{margin-bottom:10px;}
+
+.posTable{color: #002752;font-size: 16px;letter-spacing: 0.5px;}
+
+/*  POS  */
+
 
 
 
