@@ -11,7 +11,7 @@ include('inc/header.php') ?>
                 <h1>Bounty Program</h1>
               	<p class="mb-2">XinFin launching a Bounty Program for Community ! Participate in the Bounty Program now. Valid only upto <strong>28th Feb, 2016</strong></p>
                 <p class="mb-2">Get rewarded for contributing code, research, translations and more. Whatever your expertise there is likely work you can help with. Below are a few we need help with now. Sign up to stay up do date with new projects and tasks, announcements, updates and more.</p>
-                <p>Click <a href="http://localhost/Official-XinFinOrg/test-web/resources.php" style="color:#FFFFFF;font-weight:bold;">HERE</a> to learn more about our mission, how the process works, what makes a successful application, different categories of funding, and more.</p>
+                <p><a href="http://localhost/Official-XinFinOrg/test-web/resources.php" style="color:#FFFFFF;font-weight:bold;"> Click Here</a> to learn more about our mission, how the process works, what makes a successful application, different categories of funding, and more.</p>
             </div>
         </div>
     </div>

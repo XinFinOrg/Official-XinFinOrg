@@ -129,7 +129,7 @@ include('inc/header.php') ?>
             </div>
             <p>iFactor is an online invoice factoring platfom where businesses/suppliers can factor their unpaid invoices. iFactor aims to improve security and remove operational inefficiencies in the invoice factoring process by using technology advancements such as blockchain and smart contracts.</p>
             <div class="btn-block mb-1">
-            	<a href="ifactor.xinfin.org/docs" target="_blank"><button class="btn-fill-default"><i class="fa fa-gear"></i> API</button></a>
+            	<a href="http://ifactor.xinfin.org/docs" target="_blank"><button class="btn-fill-default"><i class="fa fa-gear"></i> API</button></a>
             	<a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><button class="btn-outline-default"><i class="fa fa-youtube"></i> Watch Video</button></a>
             </div>
             <p class="date">iFactor enables Supplier, Buyer and Financers to be on the same platform visible to each other. In order to factor invoice, Supplier has to upload invoice details on the platform which need to be verified by Buyer. All approved invoices are visible to financers on the platform. Finacers can send factoring proposal. Supplier can accept proposal of their choice. All Users are provided with inbuilt XDC wallet with ERC20 standards. Discounting logic is prebuilt in the smart contract which calculates interest, prepayment and post payment based on factoring terms.</p>
@@ -148,7 +148,7 @@ include('inc/header.php') ?>
             </div>
             <p>XinFin Blockchain Academy is all about creating awareness about XinFin platform. The Blockchain Academy will be providing online blockchain training to engineers and professionals. These engineers and professionals can avail basic and advanced courses from XinFin Academy and start development around our platform.</p>
             <div class="btn-block mb-1">
-            	<a href="#"><button class="btn-fill-default"><i class="fa fa-gear"></i> API</button></a>
+            	<!--<a href="#"><button class="btn-fill-default"><i class="fa fa-gear"></i> API</button></a>-->
             	<a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><button class="btn-outline-default"><i class="fa fa-youtube"></i> Watch Video</button></a>
             </div>
             <p class="date">The Academy intends to make engineers' path easier by providing them all the knowledge about XinFin's XDC01 Protocol, XinFin Hybrid Blockchain Technology, XinFin Use Cases and all the tech that went behind building those use cases under one umbrella. XinFin Academy will also be providing Verified Certifications to developers around Blockchain Technology, Ethereum and XDC01 Protocol.</p>
