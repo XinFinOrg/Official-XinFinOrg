@@ -28,7 +28,7 @@ include('inc/header.php') ?>
 	<div class="container">
 		 <ul class="nav nav-tabs ">
             <li class="active"><a data-toggle="tab" href="#whitepaper">White Papers</a></li>
-            <li><a data-toggle="tab" href="#videos">Videos</a></li>
+            <!--<li><a data-toggle="tab" href="#videos">Videos</a></li>-->
             <li><a data-toggle="tab" href="#mediaroom">Media Room</a></li>
             <li><a data-toggle="tab" href="#roadmap">Roadmap</a></li>
   		</ul>
@@ -76,15 +76,8 @@ include('inc/header.php') ?>
  
  
 
-    <div id="videos" class="tab-pane fade">
+    <!--<div id="videos" class="tab-pane fade">
       <h3>VIDEOS</h3>
-   <!--    <div class="row">
-      	<div class="col-md-4"><hr style="margin-top:35px"></div>
-        <div class="col-md-4"><img src="assets/images/Resources/video-icon.png" class="img-responsive" align="center" style="text-align: center; margin:0 auto; background-color: #002752;
-        padding: 19.5px 10.5px;" alt=""></div>
-        <div class="col-md-4"><hr style="margin-top:35px"></div>
-      </div> -->
-
       <div class="row">
       	<div class="col-md-4 col-sm-6 col-xs-12">
             <iframe width="100%" height="250" src="https://www.youtube.com/embed/K-tHZkV6zAs?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
@@ -107,8 +100,7 @@ include('inc/header.php') ?>
           </div>
         </div>
       </div>
-
-    </div>
+    </div>-->
 
 
     <div id="mediaroom" class="tab-pane fade">
