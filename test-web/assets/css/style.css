@@ -509,6 +509,9 @@ hr {
     right: 0;
     opacity: 0;
     transition: .5s ease;
+	
+	margin-right: 15px;
+    margin-left: 15px;
 }
 #wrapper1:hover .overlay1 {
   opacity: 1;
