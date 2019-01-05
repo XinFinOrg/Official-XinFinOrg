@@ -891,6 +891,29 @@ button.btn-outline-default .fa{margin-right:5px;}
 
 
 
+/*  Bounty  */
+.bounty h1 {font-family: latoregular;color: #002752;font-size: 25px;font-weight:600;text-align: left;margin-top:0px;padding-bottom: 15px;}
+.bounty ul{font-size:16px;color:#002752;margin-left:20px;}
+.bounty ul li{margin-left:17px;}
+.bounty ul li{margin-bottom:10px;}
+
+.bounty .orderList{font-size:16px;color:#002752;}
+.bounty .orderList ol{margin-left:35px;}
+.bounty .orderList ol li{margin-bottom:10px;}
+
+.bounty .orderList ol ul li{list-style-type: disc;}
+
+.bounty .orderList ol p {margin-left:-20px;}
+.bounty .sub-header {color:#096db0!important;padding-bottom: 10px;margin-top: 50px;text-align: left;border-bottom: 1px solid #b9b9b9;font-size: 25px;}
+.bounty .sub-header.text-center {text-align:center;}
+.references-box{background:#f0f0f0;padding:30px;margin-top:30px;}
+.bounty .references-box .sub-header{margin-top:0px;}
+.bounty a{color:#002752;text-decoration:underline;}
+.bounty a:hover{color:#096db0;}
+/*  Bounty  */
+
+
+
 
 
 
