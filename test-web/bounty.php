@@ -1,5 +1,7 @@
 <?php 
-$desc = "XinFin Bounty Program, Airdrop for community contributor";
+$title = "XinFin Bounty Program, Airdrop for community contributor";
+$desc = "XinFin is launching a Bounty Program for Community! We Invite our Community and all bug bounty hunters to build DPoS Consensus !";
+
 include('inc/header.php') ?>
 
 <section id="contactbanner"> 
