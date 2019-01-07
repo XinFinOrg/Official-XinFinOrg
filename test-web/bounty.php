@@ -143,7 +143,7 @@ In the contract, there will be a <span class="text-bg-grey">reportBenign</span> 
                         
                         <p class="sub-header">Parameters</p>
                         <p class="mb-1">Suggested parameter values from requirements:</p>
-                        <p class="mb-1"><span class="text-bg-grey">MIN_STAKE</span> : 1,000,000 XDC</p>
+                        <p class="mb-1"><span class="text-bg-grey">MIN_STAKE</span> : 10000000 XDC</p>
                         <p class="mb-1"><span class="text-bg-grey">VALIDATOR_REWARD</span> : 0.01370%</p>
                         <p class="mb-1"><span class="text-bg-grey">REWARDS_TRANSFER</span> : Every next block of epoch</p>
                         <p class="mb-1"><span class="text-bg-grey">VALIDATOR_SET_SIZE</span> : 18-21</p>
