@@ -24,7 +24,7 @@ include('inc/header.php') ?>
         <div class="tab-content">
             <div id="network" class="tab-pane fade in active">
                 <div class="row" style="margin-top:0%;padding-bottom:0px;">
-<div class="col-md-12 col-sm-12 col-xs-12">
+				<div class="col-md-12 col-sm-12 col-xs-12">
                         <h1>Before You Begin</h1>
                         <p>This guide will demonstrate how to set up a single masternode for the very first time. You will need the following before starting:</p>                        
                         <Div class="orderList">

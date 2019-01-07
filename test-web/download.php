@@ -12,7 +12,7 @@ include('inc/header.php') ?>
 		<p>If you are looking for the XinFin brand assets you are in the right place. The XinFin logo usage outlined below. If you'd prefer to save some time just download the .zip file below.<br/><br/><br/></p>
       
 		<div>
-			<a  href="http://unbounce-wpengine.netdna-ssl.com/wp-content/themes/unbounce2/images/brand-assets/unbounce-brand-assets.zip" target="_self"><button class="btn-outline-default">DOWNLOAD ALL ASSETS</button></a>
+			<a  href="assets/images/brand-assets/xinfin-brand-assets.zip" target="_self"><button class="btn-outline-default">DOWNLOAD ALL ASSETS</button></a>
 		</div><br/>
         <p>XinFin, XDC and XDCe Logos in PNG & EPS formats</p>
         <br/><br/><br/><br/>
@@ -25,14 +25,37 @@ include('inc/header.php') ?>
 
 
 
-<section id="protocol">
+<section id="protocol" class="downloads">
 	<div class="container">
         <div class="tab-content">
             <div id="network" class="tab-pane fade in active">
                 <div class="row" style="margin-top:0%;padding-bottom:0px;">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <h3 class="pb-2">Logo Guidelines</h3>                        
-                        <p class="text-center">The logo should never be placed vertically, outlined or modified in shape or form. Thank you for not embellishing.</p>
+                        <p class="text-center mb-5">The logo should never be placed vertically, outlined or modified in shape or form.<br />Thank you for not embellishing.</p>
+                        
+                        <div class="row">
+                        	<div class="col-md-6 mb-2">
+                            	<div class="brand-assets-logo-border">
+                           	    	<img src="assets/images/brand-assets/xinfin-primary-logo-light-background.png" class="img-responsive"/>
+                                </div>
+                                <h1>Primary Logotype</h1>
+                                <p>Use this whenever possible on a white background.</p>
+                                <div class="btn-block">
+        							<a href="docs/whitepaper-tech.pdf" target="_blank"><button class="btn-blue mb-1">EPS</button></a>
+									<a href="docs/whitepaper-business.pdf" target="_blank"><button class="btn-outline mb-1">PNG</button></a>
+	    						</div>
+                            </div>
+                            
+                            <div class="col-md-6 mb-2">
+                            	<div class="brand-assets-logo">
+                           	    	<img src="assets/images/brand-assets/xinfin-primary-logo-dark-background.png" class="img-responsive"/>
+                                </div>
+                                <h1>Primary Logotype</h1>
+                                <p>Use this whenever possible on a dark background.</p>
+                            </div>
+                        </div>
+                        
                     </div>
                 </div>
             </div>
