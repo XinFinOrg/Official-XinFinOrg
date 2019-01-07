@@ -48,10 +48,10 @@ include('inc/header.php') ?>
 	<div class="btn-block">
         <a href="docs/whitepaper-tech.pdf" target="_blank"><button class="btn-blue mb-1">Technical White Papper</button></a>
 		<a href="docs/whitepaper-business.pdf" target="_blank"><button class="btn-outline mb-1">Business White Paper</button></a>
-        <a href="xdc-protocol.php"><button class="btn-blue mb-1">Xinfin Consensus</button></a>
+        <a href="xdc-protocol.php"><button class="btn-blue mb-1">XinFin Consensus</button></a>
         <a href="https://github.com/XinFinOrg/XDC01-docker-Nnodes" target="_blank"><button class="btn-outline mb-1">Setup XinFin Node</button></a>
         <a href="http://status.xinfin.org" target="_blank"><button class="btn-blue mb-1">XinFin Network Status (testnet)</button></a>
-        <a href="https://status.xinfin.org/" target="_blank"><button class="btn-outline mb-1">Xinfin Network Status (Live)</button></a>
+        <a href="https://status.xinfin.org/" target="_blank"><button class="btn-outline mb-1">XinFin Network Status (Live)</button></a>
         <a href="http://xinfin.info/" target="_blank"><button class="btn-blue mb-1">XDC Explorer</button></a>
         <a href="https://etherscan.io/token/0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2?a=" target="_blank"><button class="btn-outline mb-1">XDCe Explorer (ERC20)</button></a>
         <a href="http://xinfin.net/" target="_blank"><button class="btn-blue mb-1">Community Forum</button></a>
@@ -104,7 +104,7 @@ include('inc/header.php') ?>
 
 
     <div id="mediaroom" class="tab-pane fade">
-           <h3>MEDIA ROOM</h3>
+         <h3>MEDIA ROOM</h3>
      <!--  <div class="row">
       	<div class="col-md-4"><hr style="margin-top:35px"></div>
         <div class="col-md-4"><img src="assets/images/Resources/media-icon.png" class="img-responsive" align="center" style="text-align: center; margin:0 auto; background-color: #002752;
@@ -293,7 +293,7 @@ include('inc/header.php') ?>
 	                    <div class="col-md-3 col-sm-6 col-xs-6 mediaroom-height">
 	                   <a href="https://ambcrypto.com/xinfin-launches-hybrid-blockchain-based-token-xdc/" target="_blank"><img class="img-responsive" src="assets/images/Resources/AMB-Crypto.jpg" alt="ABM Crypto" width="100%" /></a>
 	                    <h3>ABM Crypto</h3>
-	                    <p>Xinfin launches its hybrid blockchain based token, XDC...</p>
+	                    <p>XinFin launches its hybrid blockchain based token, XDC...</p>
 	                    <p class="date">February 06, 2018</p>
 	                    </div>
 	                  </div>
