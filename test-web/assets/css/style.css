@@ -904,7 +904,7 @@ button.btn-outline-default .fa{margin-right:5px;}
 .bounty .orderList ol ul li{list-style-type: disc;}
 
 .bounty .orderList ol p {margin-left:-20px;}
-.bounty .sub-header {color:#096db0!important;padding-bottom: 10px;margin-top: 50px;text-align: left;border-bottom: 1px solid #b9b9b9;font-size: 25px;}
+.bounty .sub-header {color:#096db0!important;padding-bottom: 10px;margin-top: 50px;text-align: left;border-bottom: 1px solid #b9b9b9;font-size: 28px;line-height:32px;}
 .bounty .sub-header.text-center {text-align:center;}
 .references-box{background:#f0f0f0;padding:30px;margin-top:30px;}
 .bounty .references-box .sub-header{margin-top:0px;}
@@ -924,12 +924,18 @@ button.btn-outline-default .fa{margin-right:5px;}
 .setup-masternode .orderList ol{margin-left:35px;}
 .setup-masternode .orderList ol li{margin-bottom:10px;}
 
-.setup-masternode .sub-header {color:#096db0!important;padding-bottom: 10px;margin-top: 50px;text-align: left;border-bottom: 1px solid #b9b9b9;font-size: 25px;}
+.setup-masternode .header {color:#096db0!important;padding-bottom: 10px;margin-top: 50px;text-align: left;border-bottom: 1px solid #b9b9b9;font-size:28px;line-height:32px;}
 
-.setup-masternode .configurationsBox{}
+.setup-masternode .sub-header {font-weight:bold;color:#096db0!important;margin-bottom:0px!important;padding-bottom:10px;margin-top:30px;text-align: left;font-size:20px;line-height:24px;}
+
+.setup-masternode .configurationsBox{background:#f6f6f6;padding:20px;height:100%;}
 .setup-masternode .configurationsBox img{}
-.setup-masternode .configurationsBox h1{font-size:24px;text-align:center;text-transform:none;margin-top:20px;margin-bottom:0px;}
-.setup-masternode .configurationsBox p{text-align:center;}
+.setup-masternode .configurationsBox .icon-single{max-width:100px;display:block;margin:auto;}
+.setup-masternode .configurationsBox h1{font-size:20px;text-align:center;text-transform:none;margin-top:30px;margin-bottom:0px;}
+.setup-masternode .configurationsBox p{text-align:center;margin-bottom:0px!important;}
+
+.setup-masternode .text-bg-grey{background-color:#f2f2f2;padding:5px;font-size:14px;}
+.setup-masternode .underline{text-decoration:underline;}
 /*  STAKE XDC & SETUP MASTERNODE  */
 
 
