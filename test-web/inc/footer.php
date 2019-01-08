@@ -6,10 +6,10 @@
                 <!-- <a href="index.php"><img src="assets/images/logo.png" width="65"></a><br/><br/> -->
                 <p><span>About XinFin</span><br/>
                 <a href="about.php">About Community Members</a><br/>
-		<a href="xdc-utility.php">XDC/XDCe Utility</a><br/>
-		<a href="https://status.xinfin.org/">See XinFin Network Data & Status</a><br/>
-		<a href="bounty.php">Community Bounty Program</a><br/>
-		<a href="xdc-protocol.php#masternodes">Stake XDC & Setup MasterNode</a><br/>
+                <a href="xdc-utility.php">XDC/XDCe Utility</a><br/>
+                <a href="https://status.xinfin.org/">See XinFin Network Data & Status</a><br/>
+                <a href="bounty.php">Community Bounty Program</a><br/>
+                <a href="setup-masternode.php">Stake XDC & Setup MasterNode</a><br/>
                 <a href="https://github.com/XinFinOrg/Open-Hackathon" target="_blank">Online Hackathon</a></p>
 			</div>
 			
@@ -17,20 +17,20 @@
                 <p><span>More..</span><br/>
                 <a href="faq.php">Read our FAQ</a><br/>
                 <a href="developers.php">Developers Portal</a><br/>
-		<a href="https://github.com/XinFinorg">Browse our Source Code on GitHub</a><br/>
-		<a href="POS.php">Why Proof of Stake Consensus?</a><br/>
-		<a href="contactus.php">Press Inquiry</a><br/>	
+                <a href="https://github.com/XinFinorg">Browse our Source Code on GitHub</a><br/>
+                <a href="POS.php">Why Proof of Stake Consensus?</a><br/>
+                <a href="contactus.php">Press Inquiry</a><br/>	
             	<a href="contactus.php">Contact XinFin</a></p>
 			</div>
 			
             <div class="col-md-3 col-sm-12 col-xs-12" >
                 <p><span>Other Links</span><br/>
                 <a href="resources.php">Resource</a><br/>
-		<a href="download.php">Download our Logo</a><br/>
-		<a href="https://xinfin.io">XDC/XDCE Exchange List</a><br/>
-		<a href="compliance.php">Compliance</a><br/>
+                <a href="download.php">Download our Logo</a><br/>
+                <a href="https://xinfin.io">XDC/XDCE Exchange List</a><br/>
+                <a href="compliance.php">Compliance</a><br/>
                 <a href="privacy.php">Privacy Policy</a><br/>
-		<a href="disclaimer.php">Disclaimer</a></p>
+				<a href="disclaimer.php">Disclaimer</a></p>
 			</div>
 			
             <div class="col-md-3 col-sm-12 col-xs-12" >
@@ -44,28 +44,27 @@
                         <a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><i class="fa fa-youtube"></i></a>
                         <a href="https://t.me/xinfintalk" target="_blank"><i class="fa fa-paper-plane"></i></a>
                         <a href="https://www.reddit.com/r/xinfin/" target="_blank"><i class="fa fa-reddit"></i></a>
-			<a href="https://www.meetup.com/members/270624533/" target="_blank"><i class="fa fa-meetup"></i></a>
-			<a href="https://medium.com/xinfin" target="_blank"><i class="fa fa-medium"></i></a>
+						<a href="https://www.meetup.com/members/270624533/" target="_blank"><i class="fa fa-meetup"></i></a>
+						<a href="https://medium.com/xinfin" target="_blank"><i class="fa fa-medium"></i></a>
                     </span>
                 </p>
             </div>
-</div>
-
+		</div>
 	</div>
 
 	<!-- <div class="container">
-	<div class="row">
-			<div class="col-md-12" ><p style="padding-top: 20px">2018@coreiot.com | All rights Reserved</p></div>
-			
-</div>
+        <div class="row">
+            <div class="col-md-12" ><p style="padding-top: 20px">2018@xinfin.org | All rights Reserved</p></div>			
+        </div>
 	</div> -->
 </footer>
 
 
- <script src="assets/js/wow.min.js"></script>
-  <script>
-              new WOW().init();
-              </script>
+<script src="assets/js/wow.min.js"></script>
+<script>
+	new WOW().init();
+</script>
+
 <script>
  
  $(document).ready(function() {
@@ -83,8 +82,7 @@
   });
 });
 </script>
-</div>
  	
-	</body>
+</body>
 
 </html>

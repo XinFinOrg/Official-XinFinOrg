@@ -1,6 +1,6 @@
 <?php 
 $title = "Master node setup guide";
-$desc = " How to setup XDC masternode";
+$desc = "How to setup XDC masternode";
 
 include('inc/header.php') ?>
 

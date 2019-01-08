@@ -889,10 +889,10 @@ button.btn-outline-default .fa{margin-right:5px;}
 .download-banner h1{text-align:center;padding-left: 0px;}
 .download-banner p{text-align:center;padding-left: 0px;}
 
-.downloads .brand-assets-logo-border{border:1px solid #d7d7d7;padding:40px 100px;text-align:center;}
+.downloads .brand-assets-logo-border{border:1px solid #d7d7d7;padding:40px;text-align:center;}
 .downloads .brand-assets-logo-border img{max-width:100px;display:block;margin:auto;}
 
-.downloads .brand-assets-logo{background:#112b3c;padding:40px 100px;text-align:center;}
+.downloads .brand-assets-logo{background:#112b3c;padding:40px;text-align:center;}
 .downloads .brand-assets-logo img{max-width:100px;display:block;margin:auto;}
 
 .downloads h1{color:#002752;font-size:24px;text-align:left;text-transform:none;margin-top:15px;margin-bottom:0px;padding-bottom:10px;}
@@ -954,6 +954,9 @@ button.btn-outline-default .fa{margin-right:5px;}
 
 
 /*  Resources  */
+
+.resources .header {color:#096db0!important;padding-bottom: 10px;margin-top: 50px;text-align: left;border-bottom: 1px solid #b9b9b9;font-size:28px;line-height:32px;}
+
 #resources-banner{
   display: block;
   position: relative;
@@ -970,6 +973,15 @@ button.btn-outline-default .fa{margin-right:5px;}
   font-size: 19px;
   letter-spacing: 0.5px;
 }
+#resources-banner #scroll{
+  margin-top: 0;
+      bottom: 3%;
+  z-index: 99;
+}
+#resources{
+  padding: 5% 0 ;
+  background: #ececec;
+}
 .btxt-img{
   display: block;
   position: relative;
@@ -977,15 +989,6 @@ button.btn-outline-default .fa{margin-right:5px;}
   margin-top: 15%;
 }
 
-#resources-banner #scroll{
-  margin-top: 0;
-      bottom: 3%;
-  z-index: 99;
-}
-#resorces{
-  padding: 5% 0 ;
-  background: #ececec;
-}
 .white-button{
   text-align: center;
   display: block;
