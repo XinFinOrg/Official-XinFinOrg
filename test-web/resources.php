@@ -39,9 +39,7 @@ include('inc/header.php') ?>
       	<div class="col-md-4"><img src="assets/images/icon.png" class="img-responsive" align="center" style="text-align: center; margin:0 auto;" alt=""></div>
       	<div class="col-md-4"><hr style="margin-top:35px"></div>
       </div> -->
-      <p>Learn about the different blockchain based applications and usage in the real world scenarios. Obtain a greater understanding of the development side technical part; along with the business side application part of the blockchain based platforms.</p>
-
-      <p>These whitepapers are published with a view of educating the eager minds about the nitty-gritty of this wonderful multipurpose platform. The papers also narrate the cases of how this platform can benefit the businesses and financial organization alike, in the venture of improving the scenario of cross-border fund transfer.</p>
+      <p>Learn about XinFin's Hybrid Blockchain Technology, UseCases/dApps and Solutions  all at one place. Read our Technical/Business WhitePapers, explore our Test and Live Networks, Engage on our Community Forum, Participate in our Community Bounty Program and know how XDC Blockchain is creating an environment of standardized relationships for business.</p>
       
       <p class="header mb-2">Technical White Paper</p>
       <p>The Technical Whitepaper describes XDC Blockchain powered by XDC protocol that attempts to solve the problem of secluded ecosystems with highly secure and robust interoperability. The XDC blockchain aims to bring together the significant advantages of public blockchains and the necessary restrictions of permissioned blockchains to create an ecosystem that is enterprise ready.</p>
