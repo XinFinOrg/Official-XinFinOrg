@@ -1725,32 +1725,32 @@ margin: 0 auto; display: flex;
     font-size: 16px;
     font-family: latoregular;
     letter-spacing: 0.8px;
-
 }
+label span{color:#096db0;font-size:12px;line-height:10px;}
 
 
 .submitbtn
 {
-  background-color: #002752;
+  background-color: #096db0;
   border: none;
-  border-radius: 0;
+  -webkit-border-radius: 10em;
+    border-radius: 10em;
   color:#fff;
   text-transform: uppercase;
   padding:5px 40px;
       margin: 0 auto;
     text-align: center;
     display: block;
-    font-size: 20px;
+    font-size: 20px;	
+  padding-top:10px;
 }
 
 .submitbtn:hover
 {
-  background-color: #002752;
+  background-color: #112b3c;
   border: none;
-  border-radius: 0;
   color:#fff;
   text-transform: uppercase;
-  padding:5px 40px;
 }
 
 .contactpara

@@ -132,7 +132,7 @@ include('inc/header.php') ?>
                          <p class="mb-1"><strong>1 b. What is Validator node?</strong></p>
                          <p>In XinFin, 'Validator Node'' are full nodes that incentivize node operators to perform the core consensus functions of running a DPoS based blockchain. Only Validator Node gets incentive to validate the transaction.</p>
                          <p class="mb-1"><strong>How to become a Validator Node?</strong></p>
-                         <p>Under Xinfin DPoS, Highest XDC Stakeholder 21 Node Act as Validator node rest node act as Backup node and Private node.</p>
+                         <p>Under XinFin DPoS, Highest XDC Stakeholder 21 Node Act as Validator node rest node act as Backup node and Private node.</p>
                          <p class="mb-1"><strong>If no transaction fees on network then how validator gets incentive?</strong></p>
                          <p>Network generate additional coin to provide incentive to validator node. Nos depends on network load and numbers of transaction process within the network.</p>
                          <p class="mb-1"><strong>How to get XDC ?</strong></p>
@@ -177,13 +177,13 @@ include('inc/header.php') ?>
                          
        	    			 <p class="mb-1"><strong>Troubleshooting</strong></p>
                          <p>If you are having problems with Setup, the first step is to collect more information to accurately characterize the problem. From there, it can be easier to figure out a root cause and a fix.</p>
-                         <p class="link-break-out">Please drop message with all possible detail and screen shot at  Community Support forum: <a href="http://Xinfin.Net" target="_blank">http://Xinfin.Net</a></p>
+                         <p class="link-break-out">Please drop message with all possible detail and screen shot at  Community Support forum: <a href="http://xinfin.Net" target="_blank">http://xinfin.Net</a></p>
                          <p class="link-break-out">Telegram Community: <a href="https://t.me/XinFinDevelopers" target="_blank">https://t.me/XinFinDevelopers</a></p>
                          <p class="link-break-out">Slack Community: <a href="https://xinfin-public.slack.com/messages/CELR2M831/" target="_blank">https://xinfin-public.slack.com/messages/CELR2M831/</a></p>
                          
                          <p class="sub-header mb-3">METHOD 2: Delegate masternode se up to third party service provider</p>
                          <p>Set up your Masternode using one of these 3rd party Masternode service providers.</p>
-       	    			 <p class="underline">DISCLAIMER: This list is provided for informational purposes only. Services listed here have not been evaluated or endorsed by Xinfin and no guarantees are made as to the accuracy of this information. Please exercise discretion when using third-party services.</p>
+       	    			 <p class="underline">DISCLAIMER: This list is provided for informational purposes only. Services listed here have not been evaluated or endorsed by XinFin and no guarantees are made as to the accuracy of this information. Please exercise discretion when using third-party services.</p>
                          
                          <p class="header mb-3">List of service provider to Setup masternode</p>
 <div class="orderList mb-3">
@@ -207,9 +207,9 @@ include('inc/header.php') ?>
                			 <p>Community Forum update link: <a href="http://xinfin.net/">http://xinfin.net</a></p>
                          
             			 <p class="header mb-3">Where to operate? Mainnet vs Testnet:</p>
-                         <p>In Xinfin, there are two networks where you can run XDC protocol: the mainnet and the testnet.</p>
+                         <p>In XinFin, there are two networks where you can run XDC protocol: the mainnet and the testnet.</p>
                  		 <p>The mainnet is used to transact real XDC. The XDC's value is tied to real fiat currency via cryptocurrency exchanges.</p>
-                         <p>As developers, you do not want to run application tests with real money. That is what the testnet is for. We call the testnet <a href="http://testnet.xinfin.org/" target="_blank">XinfinTestNet</a>.</p>
+                         <p>As developers, you do not want to run application tests with real money. That is what the testnet is for. We call the testnet <a href="http://testnet.xinfin.org/" target="_blank">XinFinTestNet</a>.</p>
 
                                                   
                   </div>
