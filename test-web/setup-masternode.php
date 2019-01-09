@@ -42,7 +42,7 @@ include('inc/header.php') ?>
                         
                         <p class="header mb-3">This guide will cater to the following system configurations:</p>
                         <div class="flex-row">
-                        	<div class="col-md-6 mb-2">
+                        	<div class="col-md-6 col-sm-6 col-xs-12 mb-2">
                             	<div class="configurationsBox">
                            	    <img src="assets/images/masternode/os-icon.png" class="img-responsive"/>
                                 <h1>Operating System</h1>
@@ -50,7 +50,7 @@ include('inc/header.php') ?>
                                 </div>
                             </div>
                             
-                            <div class="col-md-6 mb-2">
+                            <div class="col-md-6 col-sm-6 col-xs-12 mb-2">
                             	<div class="configurationsBox">
                            	    <img src="assets/images/masternode/development-icon.png" class="img-responsive"/>
                                 <h1>Development</h1>
@@ -58,7 +58,7 @@ include('inc/header.php') ?>
                                 </div>
                             </div>
                             
-                            <div class="col-md-4 mb-2">
+                            <div class="col-md-4 col-sm-4 col-xs-12 mb-2">
                             	<div class="configurationsBox">
                            	    <img src="assets/images/masternode/cpu-icon.png" class="img-responsive icon-single"/>
                                 <h1>CPU</h1>
@@ -66,7 +66,7 @@ include('inc/header.php') ?>
                                 </div>
                             </div>
                             
-                            <div class="col-md-4 mb-2">
+                            <div class="col-md-4 col-sm-4 col-xs-12 mb-2">
                             	<div class="configurationsBox">
                            	    <img src="assets/images/masternode/ssd-icon.png" class="img-responsive icon-single"/>
                                 <h1>Disk</h1>
@@ -74,7 +74,7 @@ include('inc/header.php') ?>
                                 </div>
                             </div>
                             
-                            <div class="col-md-4 mb-2">
+                            <div class="col-md-4 col-sm-4 col-xs-12 mb-2">
                             	<div class="configurationsBox">
                            	    <img src="assets/images/masternode/ram-icon.png" class="img-responsive icon-single"/>
                                 <h1>RAM</h1>
