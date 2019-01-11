@@ -735,7 +735,8 @@ hr {
 {
   text-transform: uppercase;
   font-size: 11px;
-      letter-spacing: 1.5px;
+  letter-spacing: 1.5px;
+  text-align:left;
 }
 
 .footer p span {
@@ -858,6 +859,13 @@ button.btn-outline-default{background-color:transparent;background-image:none;co
 button.btn-outline-default:hover{color:#fff;background-color:#2bbbad;border-color:#2bbbad;}
 button.btn-outline-default .fa{margin-right:5px;}
 
+.mt-0 {margin-top: 0rem!important;}
+.mt-1 {margin-top: 1rem!important;}
+.mt-2 {margin-top: 2rem!important;}
+.mt-3 {margin-top: 3rem!important;}
+.mt-4 {margin-top: 4rem!important;}
+.mt-5 {margin-top: 5rem!important;}
+
 .mb-1 {margin-bottom: 1rem!important;}
 .mb-2 {margin-bottom: 2rem!important;}
 .mb-3 {margin-bottom: 3rem!important;}
@@ -949,7 +957,25 @@ button.btn-outline-default .fa{margin-right:5px;}
 /*  STAKE XDC & SETUP MASTERNODE  */
 
 
+/* Exchange listing */
+.exchange-listing .header {color:#096db0!important;padding-bottom: 10px;margin-top: 50px;text-align: left;border-bottom: 1px solid #b9b9b9;font-size:28px;line-height:32px;}
+.exchange-listing .sub-header-border {font-weight:bold;color:#096db0!important;margin-bottom:0px!important;padding-bottom:5px;margin-top:30px;text-align:left;font-size:20px;line-height:26px;}
+.exchange-listing .sub-header-border {border-bottom:double;border-color:#b9b9b9;font-size:20px;line-height:26px;}
+.exchange-listing .logo-box img{margin-top:20px!important;margin-bottom:15px!important;display:block;margin:auto;}
+.exchange-listing .logo-box p{font-size:14px;text-align:center;}
 
+.exchange-listing .exchange-box {margin-right:auto;margin-left:auto;width:16.3%;display:inline-block;padding:10px;}
+.exchange-listing .exchange-box img {width:100%;max-width:200px;}
+@media (min-width: 768px) and (max-width: 991px) {.exchange-listing .exchange-box {width: 32.5%;}}
+@media (max-width: 767px){.exchange-listing .exchange-box {width: 32.6%;}}
+@media (max-width: 481px){.exchange-listing .exchange-box {width: 49%;}
+.xinfin-network-logo{width:inherit!important;padding:5px 10px;}
+.xinfin-network-content{width:auto!important;float:none!important;padding:5px 10px!important;}
+}
+
+.xinfin-network-logo{float:left;text-align:right;padding:16px 25px;width:44%;}
+.xinfin-network-content{float:left;width:54%;border: 0px solid #000;text-align:left;padding:10px 25px;line-height:25px;}
+/* Exchange listing */
 
 
 
@@ -2631,10 +2657,20 @@ box-shadow: 0 0 5px #0095ff;
   top: -30px;
   transform: translateY(-100%);
    background: none !important;
-   margin-top: 55%;    z-index: 10;
+   /*margin-top: 55%;*/
+   margin-top: 75%;
+   z-index: 10;
 }
 
 .timeline ol li:nth-child(12) div {
+  top: calc(100% + 17px) !important;/*
+  transform: translateY(-100%);*/
+   background: none !important;
+   padding-left:70px;
+   margin-top: -28%;    z-index: 10;width: 168px !important;
+}
+
+.timeline ol li:nth-child(22) div {
   top: calc(100% + 17px) !important;/*
   transform: translateY(-100%);*/
    background: none !important;
@@ -2655,6 +2691,10 @@ display: inline-table;
  cursor: pointer;
 }
 .timeline ol li:nth-child(12) div:hover {
+ box-shadow: none !important;
+ cursor: pointer;
+}
+.timeline ol li:nth-child(22) div:hover {
  box-shadow: none !important;
  cursor: pointer;
 }
@@ -2681,6 +2721,11 @@ display: inline-table;
 }
 
 .timeline ol li:nth-child(12) div::before {
+  border:none !important;
+  display: none !important;
+}
+
+.timeline ol li:nth-child(22) div::before {
   border:none !important;
   display: none !important;
 }
@@ -2724,6 +2769,11 @@ display: inline-table;
 }
 
 .timeline ol li:nth-child(12)
+{
+  width:250px;
+}
+
+.timeline ol li:nth-child(22)
 {
   width:250px;
 }

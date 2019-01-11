@@ -2,7 +2,7 @@
 <footer class="footer">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-3 col-sm-12 col-xs-12" style="text-align: left">
+			<div class="col-md-3 col-sm-6 col-xs-12" style="text-align: left">
                 <!-- <a href="index.php"><img src="assets/images/logo.png" width="65"></a><br/><br/> -->
                 <p><span>About XinFin</span><br/>
                 <a href="about.php">About Community Members</a><br/>
@@ -13,7 +13,7 @@
                 <a href="https://github.com/XinFinOrg/Open-Hackathon" target="_blank">Online Hackathon</a></p>
 			</div>
 			
-            <div class="col-md-3 col-sm-12 col-xs-12">
+            <div class="col-md-3 col-sm-6 col-xs-12">
                 <p><span>More..</span><br/>
                 <a href="faq.php">Read our FAQ</a><br/>
                 <a href="developers.php">Developers Portal</a><br/>
@@ -23,7 +23,7 @@
             	<a href="contactus.php">Contact XinFin</a></p>
 			</div>
 			
-            <div class="col-md-3 col-sm-12 col-xs-12" >
+            <div class="col-md-3 col-sm-6 col-xs-12" >
                 <p><span>Other Links</span><br/>
                 <a href="resources.php">Resource</a><br/>
                 <a href="download.php">Download our Logo</a><br/>
@@ -33,7 +33,7 @@
 				<a href="disclaimer.php">Disclaimer</a></p>
 			</div>
 			
-            <div class="col-md-3 col-sm-12 col-xs-12" >
+            <div class="col-md-3 col-sm-6 col-xs-12" >
                 <p><span >Follow us</span><br/>
                     <span class="socialicons">
                         <a href="https://twitter.com/XinFin_Official" target="_blank"><i class="fa fa-twitter"></i></a>
