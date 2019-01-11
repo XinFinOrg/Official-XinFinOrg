@@ -44,108 +44,269 @@ include('inc/header.php') ?>
 
 
 
-ddd
-<section id="banner12">
-  <div class="container">
-    <div class="bannertext">
-      <div class="row">
-        <div class="col-md-6">
-          <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-            <h1 style="text-align:left;">What is XinFin?</h1>
-</div>
- <div data-wow-duration="0.5s" data-wow-delay="0.5s">
- <p>XinFin (eXchange inFinite) is a decentralized Blockchain platform that runs smart contracts and provides cross chain interoperability Which Combining the power of Public and Private blockchains. XinFin Network is fully compatible with Ethereum Virtual Machine (EVM).</p>
- <p>For Setting up XinFin Blockchain Node <a href="https://github.com/XinFinOrg/XDC01-docker-Nnodes">Click Here</a><br/>
- <p>Create & Deploy Token Without Coding Skill <a href="https://mycontract.co">Click Here</a><br/>
- </p>
- </div>
-</div>
-        <div class="col-md-6">
-          <div class="embed-responsive embed-responsive-16by9 embed-div">
-          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/K-tHZkV6zAs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+
+<section id="whats-xinfin" class="bg-light-grey">
+	<div class="container">
+		<div class="bannertext">
+			<div class="flex-row align-items-center">
+				<div class="col-md-6">
+					<div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+						<h1 style="text-align:left;">What is XinFin?</h1>
+					</div>
+					<div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+						<p>eXchange inFinite (XinFin) is a hybrid Blockchain and cross-ledger liquidity exchange platform specially designed for enterprise and financial institutions adoption.</p>
+                        <p>XinFin is designed primarily for cross border trade and finance and asset tokenization.</p>
+                        <p>XinFin Network is a multi-layered Hybrid Blockchain network.</p>
+                        <p>It consists of a public blockchain that runs on DPOS consensus fully compatible with ethereum developer ecosystem.</p>
+                        <ul>
+                        	<li>Hybrid Relay Bridge that connects</li>
+                            <li>Private Consortium blockchains</li>
+                            <li>Banking and Legacy Systems (ISO standards)</li>
+                            <li>Bitcoin Network</li>
+                            <li>Ethereum Network</li>
+                            <li>XRP Network</li>
+                        </ul>
+                        <p>XinFin connects trillions of dollars worth liquidity markets through interoperable messaging standards for centralised+decentralised liquidity pools to make any kind of assets and trade finance instruments more liquid.</p>
+					</div>
+				</div>
+                <div class="col-md-6">
+					<div class="embed-responsive embed-responsive-16by9 embed-div">
+						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/K-tHZkV6zAs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					</div>
+                </div>
+			</div>
+		</div>
+	</div>
 </section>
 
-<section id="banner2">
-  <div class="container">
-    <div class="bannertext">
-      <div class="row">
-        <div class="col-md-5">
-          <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-            <h1 style="text-align: left; ">The XDC Hybrid
-              <br/>Blockchain</h1>
-          </div>
-          <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-            <p class="largepara">
-              <!-- XinFin is a blockchain technology company. -->We have designed and developed the world's first
-              <br/> hybrid blockchain.</p>
-            <!-- Use the XDC utility token on the public state or set up private networks to run enterprise use cases -->
-          </div>
-        </div>
-        <div class="col-md-7">
-          <!--<div class="wow zoomIn" data-wow-duration="0.5s" data-wow-delay="0.5s">-->
-          <img src="assets/images/home/dia-01.png" class="img-responsive" width="100%" alt="XDC Hybrid Blockchain">
-          <!--</div>-->
-        </div>
-      </div>
-      <!--   <div id="scroll"><a href="#banner3" class="smooth-scroll" ><span class="arrow-bounce">↓</span></a></div> -->
-    </div>
-  </div>
+
+
+<section id="hybrid-state" class="home-page-sections small-padd bg-grey">
+	<div class="container">
+		<div class="bannertext">
+            <div class="flex-row align-items-center">
+				<div class="col-md-6">
+					<div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+						<h1 style="text-align:left;">Hybrid State</h1>
+					</div>
+					<div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+						<p>Private Chain being able to relay itself with limited exposure to data and financial transactions on XinFin Public chain using Relay Bridges and Creation of smart contract on XinFin Public network.</p>
+                        <ul>
+                        	<li>Private data stays in regulatory compliant infrastructure</li>
+                            <li>Only limited public data is relayed on Public chain smart -contract</li>
+                            <li>Private transactions remain fully secure while limited exposure public chain transactions can take place on XinFin public network</li>
+                            <li>Institutions can take their own decision on how much exposure they want in public chain for data or transactions</li>
+                        </ul>
+                        <p><strong>Interoperability through Hybrid State</strong></p>
+                        <p>Public chains can be represented on XinFin Network with relay bridges and contracts to:</p>
+                        <ul>
+                        	<li>Source external liquidity</li>
+                            <li>Interoperate with any DAPP on the external chain</li>
+                            <li>Asset exchange</li>
+                        </ul>
+					</div>
+				</div>
+                <div class="col-md-6">
+					<img src="assets/images/home/dia-01.png" class="img-responsive" width="100%" alt="Hybrid State">
+                </div>
+			</div>
+		</div>
+	</div>
 </section>
 
-<section id="banner3">
-  <div class="container">
-    <div class="bannertext">
-      <div class="row">
-        <div class="col-md-5">
-          <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-            <h1 style="text-align: left; ">Public Blockchain
-              <br/>Limitations</h1>
-          </div>
-          <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-            <p style="text-align: justify; text-transform: none;">
-              <!-- Our technology aims to reduce global infrastructure deficit by minimizing inefficiencies in global trade and finance using blockchain technology. -->Public blockchains hold immense promise but are compromised by a whole host of factors. </p>
-          </div>
-        </div>
-        <div class="col-md-7">
-          <!--<div class="wow zoomIn" data-wow-duration="0.5s" data-wow-delay="0.5s">-->
-          <img src="assets/images/home/dia-02.png" class="img-responsive" width="100%" alt="Public Blockchain">
-          <!--</div>-->
-        </div>
-      </div>
-      <!-- <div id="scroll"><a href="#banner4" class="smooth-scroll" ><span class="arrow-bounce">↓</span></a></div> -->
-    </div>
-  </div>
+
+
+<section id="xdc-xdce-utility" class="home-page-sections small-padd bg-light-grey">
+	<div class="container">
+		<div class="bannertext">
+            <div class="flex-row align-items-center">
+				<div class="col-md-6">
+					<div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+						<h1 style="text-align:left;">XDC/XDCe Utility</h1>
+					</div>
+					<div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+						<p>The XDC token is the underlying utility token of the XinFin hybrid blockchain. The XDC token acts as a settlement mechanism for DApps built on the XinFin hybrid blockchain. XinFin has launched an Ethereum token, XDCE, that can be traded with XDC utility token on a 1:1 ratio. This allows token holder the flexibility to hold tokens in either form for utility. The ERC-20 token can be swapped for the XDC token at a ratio of 1:1. This swap can be made on the AlphaEx exchange which is compatible with all decentralised exchanges and has presence in liquidity markets and supports XDC liquidity. So far, MyContract, TradeFinex, Kramaa, Land Registry, iFactor, XinFin Blockchain Academy, TurantPay are use cases built around XDC Utility.</p>
+					</div>
+				</div>
+                <div class="col-md-6">
+					<img src="assets/images/home/dia-03-ani.gif" class="img-responsive" width="100%" alt="XDC/XDCe Utility">
+                </div>
+			</div>
+		</div>
+	</div>
 </section>
 
-<section id="banner4">
-  <div class="container">
-    <div class="bannertext">
-      <div class="row">
-        <div class="col-md-6">
-          <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-            <h1 style="text-align: left; ">Solutions</h1>
-          </div>
-          <div class="wow fadeInDown" data-wow-duration="1s" data-wow-delay="1s">
-            <p>Integrate with dApps built on the XDC Hybrid blockchain or come build your own.
-              <br/>
-              <br/> TradeFinex aims to reduce global infrastructure deficit by minimizing inefficiencies in global trade and finance using blockchain technology.</p>
-          </div>
-        </div>
-        <div class="col-md-6">
-          <!--<div class="wow zoomIn" data-wow-duration="0.5s" data-wow-delay="0.5s">-->
-          <img src="assets/images/home/dia-03-ani.gif" class="img-responsive" alt="Blockchain">
-          <!--</div>-->
-        </div>
-      </div>
-      <!--   <div id="scroll"><a href="#about1" class="smooth-scroll" ><span class="arrow-bounce">↓</span></a></div> -->
-    </div>
-  </div>
+
+
+<section id="standardised-dapps" class="home-page-sections small-padd bg-grey">
+	<div class="container">
+		<div class="bannertext">
+            <div class="flex-row align-items-center">
+				<div class="col-md-6">
+					<div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+						<h1 style="text-align:left;">Standardised dApps</h1>
+					</div>
+					<div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+						<p>dApps standardisation gives the benefits of a hybrid. Traditionally centralised applications can now be standardised and converted into distributed and decentralised applications.</p>
+                        <p>This gives developers even more flexibility without redoing the work of developing from scratch thereby realising greater commercial success.</p>
+					</div>
+				</div>
+                <div class="col-md-6">
+					<img src="assets/images/home/standardised-dapps.gif" class="img-responsive" width="100%" alt="Standardised dApps">
+                </div>
+			</div>
+		</div>
+	</div>
 </section>
+
+
+
+<section id="iso-compatible-messaging" class="home-page-sections small-padd bg-light-grey">
+	<div class="container">
+		<div class="bannertext">
+            <div class="flex-row align-items-center">
+				<div class="col-md-6">
+					<div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+						<h1 style="text-align:left;">ISO20022 Compatible Messaging</h1>
+					</div>
+					<div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+						<p>All traditional and legacy systems messaging standard to be wrapped on ISO20022 compatible messaging standard for the private and hybrid state. This ensures easy and quick integration with legacy systems.</p>
+                        <p>Hashing function ensures immutable functionality enabled for ISO20022 based systems.</p>
+					</div>
+				</div>
+                <div class="col-md-6">
+					<img src="assets/images/home/iso20022-compatible-messaging.gif" class="img-responsive" width="100%" alt="ISO20022 Compatible Messaging">
+                </div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+<section id="api-based-access" class="home-page-sections small-padd bg-grey">
+	<div class="container">
+		<div class="bannertext">
+            <div class="flex-row align-items-center">
+				<div class="col-md-6">
+					<div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+						<h1 style="text-align:left;">Customer-centric and Use Case Driven - API Based Access</h1>
+					</div>
+					<div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+						<p>Ensures that real customers do not have to worry about technicality and complexity of the underlying technology. Real customers just need API access.</p>
+					</div>
+				</div>
+                <div class="col-md-6">
+					<img src="assets/images/home/api-based-access.png" class="img-responsive" width="100%" alt="Customer-centric and Use Case Driven - API Based Access">
+                </div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+<section id="xinfin-blockchain-ecosystem-glance" class="home-page-sections small-padd bg-dark-blue">
+	<div class="container">
+		<div class="bannertext">
+            <div class="flex-row align-items-center">
+				<div class="col-md-6">
+					<div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+						<h1 style="text-align:left;color:#FFFFFF;">The XinFin Blockchain Ecosystem At A Glance</h1>
+					</div>
+					<div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+						<p style="color:#FFFFFF;">Content ?</p>
+					</div>
+				</div>
+                <div class="col-md-6">
+                    <img src="assets/images/home/HOW-IT-WORKS-ANIMATION.gif" class="img-responsive" width="100%" alt="The XinFin Blockchain Ecosystem At A Glance">
+                </div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+
+<section id="xinFin-network" class="home-page-sections small-padd bg-light-grey">
+	<div class="container">
+		<div class="bannertext">
+            <div class="flex-row align-items-center">
+				<div class="col-md-6">
+					<div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+						<h1 style="text-align:left;">XinFin Network</h1>
+					</div>
+					<div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+						<p>Content ?</p>
+					</div>
+				</div>
+                <div class="col-md-6">
+					<img src="assets/images/home/NETWORK-ANIMATION.gif" class="img-responsive" width="100%" alt="XinFin Network">
+                </div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+
+<section id="xinfin-public-dpos-consensus" class="home-page-sections small-padd bg-grey">
+	<div class="container">
+		<div class="bannertext">
+            <div class="flex-row align-items-center">
+				<div class="col-md-6">
+					<div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+						<h1 style="text-align:left;">XinFin Public DPOS Consensus</h1>
+					</div>
+					<div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+						<p><strong>XDC Staking:</strong> Does not need high energy consumption but XDC Staking</p>
+                        <p><strong>Practical Byzantine Fault tolerant:</strong> achieves the same output as Bitcoin and provides distributed/decentralised trust network</p>
+                        <p><strong>KYC/AML Profiling enforcement on Nodes:</strong> This drives enterprise adoption</p>
+                        <p><strong>High TPS transactions:</strong> Public chain TPS up to 2000 and unlimited TPS with parallel private chains</p>
+                        <p><strong>Block rewards:</strong> incentivises masternodes with block rewards. This ensures entities running their applications on XinFin Network as well as validators ensuring the stable public network get rewarded.</p>
+                        <p><strong>Upcoming Sharding:</strong> Will make it really easy to manage chain data for the nodes</p>
+                        <p><strong>Light nodes/Regulatory nodes:</strong> Do not participate in Consensus but provide visibility</p>
+                        <p><strong>Specifications:</strong> 10 Million XDC staked - Max 5000 validators registration at any time</p>
+					</div>
+				</div>
+                <div class="col-md-6">
+                    <img src="assets/images/home/xinfin-public-dpos-consensus.gif" class="img-responsive" width="100%" alt="XinFin Public DPOS Consensus">
+                </div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+
+<section id="setting-up-masterNodes" class="home-page-sections small-padd bg-light-grey">
+	<div class="container">
+		<div class="bannertext">
+            <div class="flex-row align-items-center">
+				<div class="col-md-6">
+					<div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+						<h1 style="text-align:left;">Setting up MasterNodes</h1>
+					</div>
+					<div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+						<p>XinFin's token XDC supplants proof-of-work consensus algorithm (popularly linked with mining) with proof-of-stake consensus algorithm, fundamentally using the concept of "validators".</p>
+                        <p>Validators are special nodes used in the DPoS consensus algorithm which validate each transaction occurring on the blockchain network. The result of this validation is to finally append the transaction on the blockchain. A transaction may be accepted by the validator or rejected.</p>
+                        <p>It is necessary to set up a masternode to operate on XDC protocol is because masternodes make the decentralised blockchain network self-sustainable. Deploying masternode is conducive to trusted, scalable decentralised network infrastructure. Such an environment facilitates greater stability and reliability on the network.</p>
+					</div>
+				</div>
+                <div class="col-md-6">
+					<img src="assets/images/home/setting-up-masterNodes.gif" class="img-responsive" width="100%" alt="XinFin Network">
+                </div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+
 
 
 <section id="about1">
