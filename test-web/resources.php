@@ -95,7 +95,7 @@ include('inc/header.php') ?>
       <a href="developers.php"><button class="btn-outline mb-1">Developer Portal</button></a>
       
       <p class="header mb-2">Exchange Listing Resource</p>
-      <p>XDC / XDCe Exchanges and wallet partners</p>
+      <p>Details require to list Xinfin-XDCe with exchange</p>
       <a href="exchange-listing-resource.php"><button class="btn-blue mb-1">Exchange Listing Resource</button></a>
  	</div>
     
