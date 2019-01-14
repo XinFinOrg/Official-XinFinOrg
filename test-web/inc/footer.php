@@ -8,7 +8,7 @@
                 <a href="about.php">About Community</a><br/>
                 <a href="xdc-utility.php">XDC/XDCe Utility</a><br/>
                 <a href="https://status.xinfin.org/">XinFin Network Status</a><br/>
-                <a href="bounty.php">Community Bounty Program</a><br/>
+                <a href="bounty.php">Bounty Program</a><br/>
                 <a href="setup-masternode.php">Setup MasterNode</a><br/>
                 <a href="https://github.com/XinFinOrg/Open-Hackathon" target="_blank">Online Hackathon</a></p>
 			</div>
