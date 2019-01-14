@@ -18,7 +18,7 @@
                 <a href="faq.php">Read our FAQ</a><br/>
                 <a href="developers.php">Developers Portal</a><br/>
                 <a href="https://github.com/XinFinorg">Source Code on GitHub</a><br/>
-                <a href="POS.php">XinFin Consensus?</a><br/>
+                <a href="POS.php">XinFin Consensus</a><br/>
                 <a href="contactus.php">Press Inquiry</a><br/>	
             	<a href="contactus.php">Contact XinFin</a></p>
 			</div>
