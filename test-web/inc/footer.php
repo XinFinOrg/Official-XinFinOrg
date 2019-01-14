@@ -4,7 +4,9 @@
 		<div class="row">
 			<div class="col-md-3 col-sm-6 col-xs-12" style="text-align: left">
                 <!-- <a href="index.php"><img src="assets/images/logo.png" width="65"></a><br/><br/> -->
-                <p><span>About XinFin</span><br/>
+                <h1>About XinFin</h1>
+                <!--<p><span>About XinFin</span><br/>-->
+                <p>
                 <a href="about.php">About Community</a><br/>
                 <a href="xdc-utility.php">XDC/XDCe Utility</a><br/>
                 <a href="https://status.xinfin.org/">XinFin Network Status</a><br/>
@@ -14,17 +16,21 @@
 			</div>
 			
             <div class="col-md-3 col-sm-6 col-xs-12">
-                <p><span>More..</span><br/>
+                <h1>More..</h1>
+                <!--<p><span>More..</span><br/>-->
+                <p>
                 <a href="faq.php">Read our FAQ</a><br/>
                 <a href="developers.php">Developers Portal</a><br/>
                 <a href="https://github.com/XinFinorg">Source Code on GitHub</a><br/>
-                <a href="POS.php">XinFin Consensus?</a><br/>
+                <a href="xinfin-consensus.php">XinFin Public DPOS Consensus</a><br/>
                 <a href="contactus.php">Press Inquiry</a><br/>	
             	<a href="contactus.php">Contact XinFin</a></p>
 			</div>
 			
             <div class="col-md-3 col-sm-6 col-xs-12" >
-                <p><span>Other Links</span><br/>
+                <h1>Other Links</h1>
+                <!--<p><span>Other Links</span><br/>-->
+                <p>
                 <a href="resources.php">Resource</a><br/>
                 <a href="download.php">Download our Logo</a><br/>
                 <a href="https://xinfin.io">XDC/XDCE Exchange List</a><br/>
@@ -34,7 +40,8 @@
 			</div>
 			
             <div class="col-md-3 col-sm-6 col-xs-12" >
-                <p><span >Follow us</span><br/>
+                <h1>Follow us</h1>
+                <p><!--<span>Follow us</span><br/>-->
                     <span class="socialicons">
                         <a href="https://twitter.com/XinFin_Official" target="_blank"><i class="fa fa-twitter"></i></a>
                         <a href="https://www.facebook.com/XinFinHybridBlockchain/" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -82,6 +89,8 @@
   });
 });
 </script>
+ 	
+</div>
  	
 </body>
 

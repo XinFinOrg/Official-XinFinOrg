@@ -99,10 +99,6 @@ include('inc/header.php') ?>
 		<div class="bannertext">
             <div class="flex-row align-items-center">
 				<div class="col-md-6">
-					<img src="assets/images/home/dia-03-ani.gif" class="img-responsive" width="100%" alt="XDC/XDCe Utility">
-                </div>
-                
-                <div class="col-md-6">
 					<div class="content-box">
                         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
                             <!--<h1 class="text-transform-none" style="text-align:left;">XDC/XDCe Utility</h1>-->
@@ -116,6 +112,10 @@ include('inc/header.php') ?>
                             <a href="xdc-utility.php"><button class="btn-blue">Learn More</button></a>
                         </div>
 					</div>
+                </div>
+                
+                <div class="col-md-6">
+					<img src="assets/images/home/dia-03-ani.gif" class="img-responsive" width="100%" alt="XDC/XDCe Utility">
                 </div>
 			</div>
 		</div>
@@ -158,9 +158,6 @@ include('inc/header.php') ?>
 		<div class="bannertext">
             <div class="flex-row align-items-center">
 				<div class="col-md-6">
-					<img src="assets/images/home/iso20022-compatible-messaging.gif" class="img-responsive" width="100%" alt="ISO20022 Compatible Messaging">
-                </div>
-                <div class="col-md-6">
 					<div class="content-box">
                         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
                             <!--<h1 class="text-transform-none" style="text-align:left;">ISO20022 Compatible Messaging</h1>-->
@@ -169,11 +166,14 @@ include('inc/header.php') ?>
                         <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
                             <p>Higher interoperability with legacy systems and other blockchain platforms makes XinFin Protocol the language of core banking systems, ERP systems, SWIFT systems etc.</p>
                         </div>
-                        <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                        <div class="btn-block mb-1">
                             <a href="resources.php"><button class="btn-blue">Read More</button></a>
                         </div>
 					</div>
-                </div>                
+                </div>
+                <div class="col-md-6">
+					<img src="assets/images/home/iso20022-compatible-messaging.gif" class="img-responsive" width="100%" alt="ISO20022 Compatible Messaging">
+                </div>
 			</div>
 		</div>
 	</div>
@@ -215,9 +215,6 @@ include('inc/header.php') ?>
 		<div class="bannertext">
             <div class="flex-row align-items-center">
 				<div class="col-md-6">
-                    <img src="assets/images/home/HOW-IT-WORKS-ANIMATION.gif" class="img-responsive" width="100%" alt="The XinFin Blockchain Ecosystem At A Glance">
-                </div>
-                <div class="col-md-6">
 					<div class="content-box">
                         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
                             <h1 class="text-transform-none" style="text-align:left;color:#FFFFFF;">The XinFin Blockchain Ecosystem At A Glance</h1>
@@ -231,7 +228,10 @@ include('inc/header.php') ?>
                             <a href="developers.php" target="_blank"><button class="btn-fill-default">For Developers</button></a>
                         </div>
 					</div>
-                </div>                
+                </div>
+                <div class="col-md-6">
+                    <img src="assets/images/home/HOW-IT-WORKS-ANIMATION.gif" class="img-responsive" width="100%" alt="The XinFin Blockchain Ecosystem At A Glance">
+                </div>
 			</div>
 		</div>
 	</div>
@@ -255,7 +255,7 @@ include('inc/header.php') ?>
                             <p>XinFin Public Network runs on DPOS consensus fully compatible with Ethereum developer ecosystem.</p>
                             <p>XinFin Private Network is an enhanced EVM mainly for enterprise use cases for consortium chains.</p>
                         </div>
-                        <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                        <div class="btn-block mb-1">
                             <a href="https://status.xinfin.org/"><button class="btn-blue">Explore XinFin TestNet</button></a>
                         </div>
 					</div>
@@ -276,9 +276,6 @@ include('inc/header.php') ?>
 		<div class="bannertext">
             <div class="flex-row align-items-center">
 				<div class="col-md-6">
-                    <img src="assets/images/home/xinfin-public-dpos-consensus.gif" class="img-responsive" width="100%" alt="XinFin Public DPOS Consensus">
-                </div>
-                <div class="col-md-6">
 					<div class="content-box">
                         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
                             <!--<h1 class="text-transform-none" style="text-align:left;">XinFin Public DPOS Consensus</h1>-->
@@ -291,7 +288,10 @@ include('inc/header.php') ?>
                             <a href="xinfin-consensus.php"><button class="btn-blue">Start Using</button></a>
                         </div>
 					</div>
-                </div>                
+                </div>
+                <div class="col-md-6">
+                    <img src="assets/images/home/xinfin-public-dpos-consensus.gif" class="img-responsive" width="100%" alt="XinFin Public DPOS Consensus">
+                </div>
 			</div>
 		</div>
 	</div>
@@ -312,7 +312,7 @@ include('inc/header.php') ?>
 					<div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
 						<p>Deploying masternodes on XDC Protocol makes XinFin Blockchain network more trusted, more self-sustainable and more scalable. </p>
 					</div>
-                    <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                    <div class="btn-block mb-1">
             			<a href="setup-masternode.php"><button class="btn-blue">Setup Masternode</button></a>
             		</div>
                     </div>

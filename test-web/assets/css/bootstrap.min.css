@@ -1683,6 +1683,10 @@ mark {
     text-transform: capitalize
 }
 
+.text-transform-none {
+    text-transform: none!important;
+}
+
 .text-muted {
     color: #777
 }
