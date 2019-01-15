@@ -84,7 +84,7 @@ include('inc/header.php') ?>
             <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/kramaa-logo.jpg" alt="kramaa.com">
             </div>
-            <h3>Kramaa</h3>
+            <h3>Kramaa <span>Testnet</span></h3>
             <div class="btn-block mb-1">
             	<a href="http://www.kramaa.com" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
                 <a href="https://github.com/XinFinOrg/Kramaa" target="_blank"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
@@ -103,7 +103,7 @@ include('inc/header.php') ?>
             <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/land-registry-logo.jpg" alt="tradefinex.org">
             </div>
-            <h3>Land Registry</h3>
+            <h3>Land Registry <span>Testnet PoC</span></h3>
             <div class="btn-block mb-1">
             	<a href="http://land-registry.xinfin.org/" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
                 <a href="https://github.com/XinFinOrg/land-registry-mhgov" target="_blank"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
@@ -122,7 +122,7 @@ include('inc/header.php') ?>
             <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/iFactor-logo.jpg" alt="tradefinex.org">
             </div>
-            <h3>iFactor</h3>
+            <h3>iFactor <span>Testnet PoC</span></h3>
             <div class="btn-block mb-1">
             	<a href="http://infactor.io/" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
                 <a href="https://github.com/XinFinOrg/ifactor-poc" target="_blank"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
@@ -141,7 +141,7 @@ include('inc/header.php') ?>
             <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/xinfin-blockchain-academy-logo.jpg" alt="tradefinex.org">
             </div>
-            <h3>XinFin Blockchain Academy</h3>
+            <h3>XinFin Blockchain Academy <span>Testnet</span></h3>
             <div class="btn-block mb-1">
             	<a href="https://xinfinorg.github.io/Blockchain_Tutorial-website/index.html" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
                 <a href="https://github.com/XinFinOrg/Blockchain_Tutorial-website" target="_blank"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
@@ -161,7 +161,7 @@ include('inc/header.php') ?>
             <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/turantPay-logo.jpg" alt="tradefinex.org">
             </div>
-            <h3>TurantPay</h3>
+            <h3>TurantPay <span>Testnet</span></h3>
             <div class="btn-block mb-1">
             	<a href="https://github.com/XinFinOrg/TurantPay" target="_blank"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
             </div>
