@@ -2974,8 +2974,8 @@ display: inline-table;
 {
   .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
     border-color: #101010;
-    /*background: #112b3c;
-    width: 110%;*/
+    background: #112b3c;
+    width: 110%;
     margin-top: 25px;
 }
 .navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
@@ -2989,6 +2989,9 @@ display: inline-table;
   padding-top:30px;
   text-align: center !important;
 }
+#homebanner .bannertext h1{font-size: 22px;line-height:28px;}
+#homebanner .bannertext h4{font-size: 16px;line-height:20px;}
+#homebanner .bannertext {margin-top: 30%;}
 
 .bannertext{text-align:center !important;}
 
