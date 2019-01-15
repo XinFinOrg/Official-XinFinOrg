@@ -304,6 +304,8 @@ padding: 10px 0 20px 0 !important;/*padding: 5% 0;*/
 
 .bannertext h2 {color: #ffffff;text-align: left;font-size: 30px;padding-left: 65px;font-weight:600;}
 
+.bannertext h4 {color: #ffffff;font-size: 22px;padding-left: 65px;font-weight:400;text-align:center;}
+
 .bannertext p
 {
    text-align: justify;
@@ -2389,8 +2391,8 @@ color:#1bc3ed!important;
 #homebanner
 {
  background: url('../images/home-banner.png') #112b3c;
-     background-repeat: no-repeat;
-/*    background-position: bottom right;*/
+ background-repeat: no-repeat;
+/*background-position: bottom right;*/
 }
 
 
@@ -2441,15 +2443,17 @@ display:none;
 {
   display: block;
   position: relative;
-  min-height: 500px;
-      background-size: cover;
+  /*min-height: 500px;*/
+  min-height: 600px;
+  background-size: cover;
 }
 
 #homebanner .bannertext {
     display: block;
     position: relative;
     z-index: 99;
-    margin-top: 12%;
+    /*margin-top: 12%;*/
+	margin-top: 15%;
     text-align: center;
     color:#fff;
        font-size: 18px;
@@ -3986,7 +3990,7 @@ margin-left:20px;
 
 
 
-.video-popup-button{line-height: 45px;height: 45px;text-align: left;/*margin-right: auto;margin-left: auto;*/margin-top: 50px;width: 255px;cursor: pointer;}
+.video-popup-button{line-height: 45px;height: 45px;text-align: left;/*margin-right: auto;margin-left: auto;*/margin-top: 50px;width: 255px;cursor: pointer;margin-left: auto;margin-right: auto;}
 .button8{color: rgba(255,255,255,1);-webkit-transition: all 0.5s;-moz-transition: all 0.5s;-o-transition: all 0.5s;transition: all 0.5s;color: #112b3c;background-color: #00f7d2;position: relative;}
 .button8 a{	font-family: latothin;font-weight:600;font-size: 14px;color: #112b3c;text-decoration: none;display: block;}
 .button8 span{z-index: 2;display: block;position: absolute;width: 100%;height: 100%;padding: 15px;line-height: 18px;}
