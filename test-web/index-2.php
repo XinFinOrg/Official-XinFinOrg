@@ -155,7 +155,7 @@ include('inc/header.php') ?>
                         </div>
 					</div>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.5s">
 					<img src="assets/images/home/iso20022-compatible-messaging.gif" class="img-responsive" width="100%" alt="ISO20022 Compatible Messaging">
                 </div>
 			</div>
@@ -169,7 +169,7 @@ include('inc/header.php') ?>
 	<div class="container">
 		<div class="bannertext">
             <div class="flex-row align-items-center">
-				<div class="col-md-6">
+				<div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.5s">
 					<img src="assets/images/home/api-based-access.png" class="img-responsive" width="100%" alt="Customer-centric and Use Case Driven - API Based Access">
                 </div>
                 <div class="col-md-6">
@@ -273,7 +273,7 @@ include('inc/header.php') ?>
                         </div>
 					</div>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.5s">
                     <img src="assets/images/home/xinfin-public-dpos-consensus.gif" class="img-responsive" width="100%" alt="XinFin Public DPOS Consensus">
                 </div>
 			</div>
