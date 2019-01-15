@@ -57,7 +57,7 @@ include('inc/header.php') ?>
                     <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
 						<a href="#" data-toggle="modal" data-target="#myModal"><button class="btn-blue">Watch Video</button></a>
             		</div>
-                    <div>
+                    <div class="content-box">
                     <p style="text-align:center;">For Setting up XinFin Blockchain Node <a href="https://github.com/XinFinOrg/XDC01-docker-Nnodes" target="_blank">Click Here</a></p>
                     <p style="text-align:center;">Create & Deploy Token Without Coding Skill <a href="https://mycontract.co/" target="_blank">Click Here</a></p>
                     <p style="text-align:center;"><a href="developers.php">Developer Resource</a></p>
