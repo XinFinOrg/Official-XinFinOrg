@@ -189,7 +189,7 @@ include('inc/header.php') ?>
             <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/airnetz-logo.jpg" alt="tradefinex.org">
             </div>
-            <h3>Airnetz <span>Testnet</span></h3>
+            <h3>Airnetz <span>Livenet Pilot</span></h3>
             <div class="btn-block mb-1">
             	<a href="http://airnetzcharter.com" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
             </div>
