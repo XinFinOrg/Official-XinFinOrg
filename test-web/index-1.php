@@ -52,12 +52,16 @@ include('inc/header.php') ?>
 						<h1 class="text-transform-none" style="text-align:left;">What is XinFin?</h1>
 					</div>-->
 					<div class="mb-3 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-						<h3 class="welcome-heading">eXchange inFinite (XinFin) is a hybrid Blockchain and cross-ledger liquidity exchange platform designed exclusively for enterprise and financial institutions adoption.</h3>
+						<h3 class="welcome-heading">eXchange inFinite (XinFin) is a hybrid/decentralized Blockchain platform that runs smart contracts and Provides cross chain interoperability Which Combining the power of Public and Private blockchains. XinFin Network is fully compatible with Ethereum Virtual Machine (EVM).</h3>
 					</div>
                     <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-						<a href="developers.php" target="_blank"><button class="btn-blue">Get Started</button></a>
-						<a href="resources.php" target="_blank"><button class="btn-outline">Learn More</button></a>
+						<a href="#" data-toggle="modal" data-target="#myModal"><button class="btn-blue">Watch Video</button></a>
             		</div>
+                    <div>
+                    <p style="text-align:center;">For Setting up XinFin Blockchain Node <a href="https://github.com/XinFinOrg/XDC01-docker-Nnodes" target="_blank">Click Here</a></p>
+                    <p style="text-align:center;">Create & Deploy Token Without Coding Skill <a href="https://mycontract.co/" target="_blank">Click Here</a></p>
+                    <p style="text-align:center;"><a href="developers.php">Developer Resource</a></p>
+                    </div>
 				</div>
 			</div>
 		</div>
@@ -66,14 +70,13 @@ include('inc/header.php') ?>
 
 
 
-<section id="hybrid-state" class="home-page-sections small-padd bg-grey" style="border-top: 1px solid #b1b1b1;">
+<!--<section id="hybrid-state" class="home-page-sections small-padd bg-grey" style="border-top: 1px solid #b1b1b1;">
 	<div class="container">
 		<div class="bannertext">
             <div class="flex-row align-items-center">
 				<div class="col-md-6">
 					<div class="content-box">
                         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <!--<h1 class="text-transform-none" style="text-align:left;">Hybrid State</h1>-->
                             <h3>Hybrid, Interoperable & Liquid Network</h3>
                         </div>
                         <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
@@ -101,7 +104,6 @@ include('inc/header.php') ?>
 				<div class="col-md-6">
 					<div class="content-box">
                         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <!--<h1 class="text-transform-none" style="text-align:left;">XDC/XDCe Utility</h1>-->
                             <h3>Our platforms are ready. Take a Demo & Start Using</h3>
                         </div>
                         <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
@@ -131,7 +133,6 @@ include('inc/header.php') ?>
 				<div class="col-md-6">
 					<div class="content-box">
                         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <!--<h1 class="text-transform-none" style="text-align:left;">Standardised dApps</h1>-->
                             <h3>Don't Develop from Scratch, We have Standardized Dapps for you</h3>
                         </div>
                         <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
@@ -149,11 +150,11 @@ include('inc/header.php') ?>
 			</div>
 		</div>
 	</div>
-</section>
+</section>-->
 
 
 
-<section id="iso-compatible-messaging" class="home-page-sections small-padd bg-light-grey" style="border-top: 1px solid #b1b1b1;">
+<section id="iso-compatible-messaging" class="home-page-sections small-padd bg-grey" style="border-top: 1px solid #b1b1b1;">
 	<div class="container">
 		<div class="bannertext">
             <div class="flex-row align-items-center">
@@ -161,13 +162,14 @@ include('inc/header.php') ?>
 					<div class="content-box">
                         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
                             <!--<h1 class="text-transform-none" style="text-align:left;">ISO20022 Compatible Messaging</h1>-->
-                            <h3>ISO20022 Compatible Messaging for Private and Hybrid State</h3>
+                            <h3>XinFin Powerd ISO20022 Compatible Messaging Open Protocol for Global Trade and Finance</h3>
                         </div>
                         <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <p>Higher interoperability with legacy systems and other blockchain platforms makes XinFin Protocol the language of core banking systems, ERP systems, SWIFT systems etc.</p>
+                            <p>Enhancing the global efficiency for secure and transparent commerce by Customer-centric and Use Case Driven - <a href="https://xinfinorg.github.io/TradeFinex_API/" target="_blank">API Based Access</a></p>
+                            <p>Higher interoperability with legacy systems and other blockchain platforms makes XinFin Protocol the language of core banking systems, ERP systems, SWIFT systems.</p>
                         </div>
                         <div class="btn-block mb-1">
-                            <a href="resources.php"><button class="btn-blue">Read More</button></a>
+                            <a href="https://www.tradefinex.org/" target="_blank"><button class="btn-blue">Explore More</button></a>
                         </div>
 					</div>
                 </div>
@@ -181,28 +183,29 @@ include('inc/header.php') ?>
 
 
 
-<section id="api-based-access" class="home-page-sections small-padd bg-grey" style="border-top: 1px solid #b1b1b1;">
+<section id="api-based-access" class="home-page-sections small-padd bg-light-grey" style="border-top: 1px solid #b1b1b1;">
 	<div class="container">
 		<div class="bannertext">
             <div class="flex-row align-items-center">
 				<div class="col-md-6">
+					<img src="assets/images/home/api-based-access.png" class="img-responsive" width="100%" alt="Customer-centric and Use Case Driven - API Based Access">
+                </div>
+                <div class="col-md-6">
 					<div class="content-box">
                         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <!--<h1 class="text-transform-none" style="text-align:left;">Customer-centric and Use Case Driven - API Based Access</h1>-->
-                            <h3>Customer-centric and Use Case Driven - API Based Access</h3>
+                            <h3>XDC/XDCe Utility available here. Our platforms are ready. Stake XDC/XDCe & Start Using</h3>
                         </div>
                         <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <p>XinFin is a free, open source hybrid blockchain protocol that provides enterprises with a platform to build, deploy and run high-operating Dapps.</p>
+                            <p>Explore Live Apps/Dapps, Demo versions, APIs and GitHubs all at one place. <a href="http://xinfin.org/test-web/xdc-utility.php">Click here</a></p>
+                        
+                        	<p>Have got your own application on XinFin Platform?</p>
                         </div>
                         <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <a href="xdc-utility.php"><button class="btn-blue">Explore APIs</button></a>
-                            <a href="xdc-utility.php"><button class="btn-outline">Bug Bounty Program</button></a>
+                            <a href="https://xinfin.org/test-web/list-application.php"><button class="btn-blue">List it!</button></a>
                         </div>
 					</div>
                 </div>
-                <div class="col-md-6">
-					<img src="assets/images/home/api-based-access.png" class="img-responsive" width="100%" alt="Customer-centric and Use Case Driven - API Based Access">
-                </div>
+                
 			</div>
 		</div>
 	</div>
@@ -210,7 +213,7 @@ include('inc/header.php') ?>
 
 
 
-<section id="xinfin-blockchain-ecosystem-glance" class="home-page-sections small-padd bg-dark-blue">
+<!--<section id="xinfin-blockchain-ecosystem-glance" class="home-page-sections small-padd bg-dark-blue">
 	<div class="container">
 		<div class="bannertext">
             <div class="flex-row align-items-center">
@@ -248,7 +251,6 @@ include('inc/header.php') ?>
 				<div class="col-md-6">
 					<div class="content-box">
                         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <!--<h1 class="text-transform-none" style="text-align:left;">XinFin Network</h1>-->
                             <h3 class="text-transform-none">A Multi-layered Hybrid Blockchain Network</h3>
                         </div>
                         <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
@@ -266,7 +268,7 @@ include('inc/header.php') ?>
 			</div>
 		</div>
 	</div>
-</section>
+</section>-->
 
 
 
@@ -278,14 +280,14 @@ include('inc/header.php') ?>
 				<div class="col-md-6">
 					<div class="content-box">
                         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <!--<h1 class="text-transform-none" style="text-align:left;">XinFin Public DPOS Consensus</h1>-->
-                            <h3>The Fastest, The Most Efficient, The Most Decentralized and The Most Flexible Consensus is Here!</h3>
+                            <h3>The Fastest, The Efficient, The Decentralized and The Flexible Consensus is Here!</h3>
                         </div>
                         <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <p>DPOS leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way.</p>
+                            <p>DPOS leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way. <a href="xinfin-consensus.php">Click here.</a></p>
+                            <p>Deploying KYC compliant masternodes on XDC Protocol makes XinFin Blockchain network more trusted for enterprise and financial institutions adoption.</p>
                         </div>
                         <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <a href="xinfin-consensus.php"><button class="btn-blue">Start Using</button></a>
+                            <a href="setup-masternode.php"><button class="btn-blue">Setup Masternodes</button></a>
                         </div>
 					</div>
                 </div>
@@ -300,15 +302,12 @@ include('inc/header.php') ?>
 
 
 
-<section id="setting-up-masterNodes" class="home-page-sections small-padd bg-light-grey" style="border-top: 1px solid #b1b1b1;">
+<!--<section id="setting-up-masterNodes" class="home-page-sections small-padd bg-light-grey" style="border-top: 1px solid #b1b1b1;">
 	<div class="container">
 		<div class="bannertext">
             <div class="flex-row align-items-center">
 				<div class="col-md-6">
 					<div class="content-box">
-                    <!--<div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-						<h1 class="text-transform-none" style="text-align:left;">Setting up MasterNodes</h1>
-					</div>-->
 					<div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
 						<p>Deploying masternodes on XDC Protocol makes XinFin Blockchain network more trusted, more self-sustainable and more scalable. </p>
 					</div>
@@ -323,7 +322,7 @@ include('inc/header.php') ?>
 			</div>
 		</div>
 	</div>
-</section>
+</section>-->
 
 
 
