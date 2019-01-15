@@ -191,7 +191,7 @@ include('inc/header.php') ?>
             </div>
             <h3>Airnetz <span>Testnet</span></h3>
             <div class="btn-block mb-1">
-            	<a href="http://www.airnetz.com/" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            	<a href="http://airnetzcharter.com" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
             </div>
             <p class="mb-3">XinFin has exclusive tie-up with Airnetz flight chartering group in India that provides medical air ambulance services. XDC blockchain wallet token based payments can be used to facilitate instant payments for emergency medical services.</p>
             <p class="date">In event of medical emergency, user can request for air ambulance using Airnetz.com platform. User arranges money and transfers to local agent at pickup and the local agent then procures (if needed) and makes XDC transfer to Airnetz. Airnetz gets paid instantly and arranges for the medical transfer. Upon flight completion, both the local agent and Airnetz are incentivized for providing life-critical medical services.</p>
