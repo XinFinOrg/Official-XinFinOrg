@@ -1,5 +1,5 @@
 <?php 
-$title = "XDC Utility | Blockchain Technology Company - XinFin";
+$title = "XDC/XDCe Utility - XinFin hybrid blockchain network";
 $desc = "Visit this page of XinFin to discuss, code, access documentation, report bugs, get advice and support to make the XDC ecosystem the blockchain for enterprise. ";
 
 include('inc/header.php') ?>
