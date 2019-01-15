@@ -26,7 +26,7 @@ include('inc/header.php') ?>
             <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/mycontract-logo.jpg" alt="mycontract.co">
             </div>
-            <h3>MyContract</h3>
+            <h3>MyContract <span>Livenet</span></h3>
             <div class="btn-block mb-1">
             	<a href="https://www.mycontract.co" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
                 <a href="https://github.com/XinFinOrg/ico-automation-dashboard" target="_blank"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
@@ -46,7 +46,7 @@ include('inc/header.php') ?>
             <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/tradefinex-logo.jpg" alt="tradefinex.org">
             </div>
-            <h3>TradeFinex</h3>
+            <h3>TradeFinex <span>Livenet Pilot(Beta)</span></h3>
             <div class="btn-block mb-1">
             	<a href="https://www.tradefinex.org" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
                 <a href="https://github.com/XinFinOrg/tradefinexlive" target="_blank"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
@@ -65,7 +65,7 @@ include('inc/header.php') ?>
             <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/alphaex-logo.jpg" alt="alphaex.net">
             </div>
-            <h3>AlphaEx</h3>
+            <h3>AlphaEx <span>Livenet</span></h3>
             <div class="btn-block mb-1">
             	<a href="https://alphaex.net/" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
                 <a href="https://github.com/XinFinOrg/AlphaEx_v3" target="_blank"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
@@ -170,6 +170,31 @@ include('inc/header.php') ?>
             	<a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><button class="btn-outline-default"><i class="fa fa-youtube"></i> Watch Video</button></a>
             </div>
             <p class="date">There are higher fees, locked deposits and a complete lack of visibility which damages trusts between clients and payment service providers. TurantPay is a great solution which has much lower processing fees and maintains complete visibility throughout the life cycle of the payment. Elimination of batch processing helps payment service providers and institutions enjoy much faster processing and instant settlements making clients happy with their services.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/dcb-bank-logo.jpg" alt="tradefinex.org">
+            </div>
+            <h3 class="mb-2">DCB Bank Ltd. <span>Livenet</span></h3>
+            <p class="mb-3">DCB Bank Ltd., a private sector scheduled commercial bank selected XinFin as their blockchain partner to streamline Insurance systems using Blockchain.</p>
+            <p class="date">DCB Bank which was looking to deploy a blockchain solution selected XinFin to implement a secure technology solution to streamline their insurance process. And, since participants are operating stake driven nodes on XinFin hybrid blockchain, they have shared access to data from the very point the customer enters the cycle of policy issuance.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/airnetz-logo.jpg" alt="tradefinex.org">
+            </div>
+            <h3>Airnetz <span>Testnet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="http://www.airnetz.com/" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            </div>
+            <p class="mb-3">XinFin has exclusive tie-up with Airnetz flight chartering group in India that provides medical air ambulance services. XDC blockchain wallet token based payments can be used to facilitate instant payments for emergency medical services.</p>
+            <p class="date">In event of medical emergency, user can request for air ambulance using Airnetz.com platform. User arranges money and transfers to local agent at pickup and the local agent then procures (if needed) and makes XDC transfer to Airnetz. Airnetz gets paid instantly and arranges for the medical transfer. Upon flight completion, both the local agent and Airnetz are incentivized for providing life-critical medical services.</p>
         </div>
     </div>
     
