@@ -193,7 +193,7 @@ include('inc/header.php') ?>
             <div class="btn-block mb-1">
             	<a href="http://airnetzcharter.com" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
             </div>
-            <p class="mb-3">From Q2 of 2019, the global distribution engine for General aviation powered by Airnetzcharter.com will enable XDC Payment relay bridges and rate stability throught its instant swap with USDC. AirnetzCharter.com GDS System host over 5,000 Aircraft and 25,000 airport worldwide. The intergration and hosting with XDC Protocl will help Airnetzcharter.com and its user facilitate life saving instant medical evacuation and air ambulance on short notice without having to worry about dealyed finacial settlement.</p>
+            <p class="mb-3">From Q2 of 2019, the global distribution engine for General aviation powered by Airnetzcharter.com will enable XDC Payment relay bridges and rate stability throught its instant swap with USDC. AirnetzCharter.com GDS System host over 5,000 Aircraft and 25,000 airport worldwide. The intergration and hosting with XDC Protocl will help Airnetzcharter.com and its user facilitate life saving instant medical evacuation and air ambulance on short notice without having to worry about delayed financial settlement.</p>
             <p class="date"></p>
         </div>
     </div>
