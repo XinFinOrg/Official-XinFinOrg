@@ -16,7 +16,7 @@ include('inc/header.php') ?>
           <div style="display:block;position:relative">
             <div>
               <h1 style="text-align:left;" class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">Enterprise Ready Hybrid Blockchain For Global<br/>Trade and Finance</h1>
-              <p style="text-align: left;text-transform:none;" class="wow fadeInDown" data-wow-duration="0.7s" data-wow-delay="0.7s">Combining the power of Public and Private blockchains.</p>
+              <p style="text-align: left;text-transform:none;" class="wow fadeInDown" data-wow-duration="0.7s" data-wow-delay="0.7s">Combining the power of Public and Private blockchains with Smart Contract Support.</p>
               <!--<div class="banner-btn-play">
               <a href="#" data-toggle="modal" data-target="#myModal">
                 <div class="play icon-btn modal-btn" data-type="video" data-key="welcome_video">
@@ -55,8 +55,8 @@ include('inc/header.php') ?>
 						<h3 class="welcome-heading">eXchange inFinite (XinFin) is a hybrid Blockchain and cross-ledger liquidity exchange platform designed exclusively for enterprise and financial institutions adoption.</h3>
 					</div>
                     <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
-						<a href="developers.php" target="_blank"><button class="btn-blue">Get Started</button></a>
-						<a href="resources.php" target="_blank"><button class="btn-outline">Learn More</button></a>
+						<a href="developers.php" target="_blank"><button class="btn-blue">Developer Resource</button></a>
+						<a href="https://github.com/XinFinOrg/XDC01-docker-Nnodes" target="_blank"><button class="btn-outline">Setup XinFin Blockchain Node</button></a>
             		</div>
 				</div>
 			</div>
