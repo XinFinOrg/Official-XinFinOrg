@@ -338,10 +338,10 @@ include('inc/header.php') ?>
     <div class="row">
       <div class="col-md-offset-2 col-md-8 col-md-offset-2">
         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-          <h1>Partnerships and Alliances</h1>
+          <h1>Partnerships, Associations,Recognition & Alliances</h1>
         </div>
         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
-          <p>Technology partners to global businesses and growing our network rapidly.</p>
+          <p>Technology partners to global businesses and growing XinFin network rapidly.</p>
         </div>
       </div>
     </div>
