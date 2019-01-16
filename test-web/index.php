@@ -167,10 +167,10 @@ include('inc/header.php') ?>
 					<div class="content-box">
                         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
                             <!--<h1 class="text-transform-none" style="text-align:left;">XDC/XDCe Utility</h1>-->
-                            <h3>Our platforms are Ready. Take a Demo & Start Using</h3>
+                            <h3>XDC/XDCe Utility available here. Stake XDC/XDCe & Start Using</h3>
                         </div>
                         <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
-                            <p>Explore Demo versions, APIs and GitHubs all at one place.</p>
+                            <p>Explore Apps, Demo versions, APIs and GitHubs all at one place.</p>
                             <p>Have got your own application? List it!</p>
                         </div>
                         <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
