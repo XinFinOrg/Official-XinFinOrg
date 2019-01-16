@@ -223,7 +223,7 @@ include('inc/header.php') ?>
                             <h1 class="text-transform-none" style="text-align:left;color:#FFFFFF;">The XinFin Blockchain Ecosystem At A Glance</h1>
                         </div>
                         <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <p style="color:#FFFFFF;" class="mb-2">Host a Private Network, Explore XinFin Protocol or Trade XDC with our Wallet Play With XinFin.</p>                        
+                            <p style="color:#FFFFFF;" class="mb-2">Host a Private Network, Runs Smart Contracts, Explore Wallet, Leverage cross chain interoperability.</p>                        
                         </div>
                         <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
                             <a href="https://github.com/XinFinorg" target="_blank"><button class="btn-fill-default">Explore GitHub</button></a>
