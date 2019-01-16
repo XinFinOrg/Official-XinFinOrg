@@ -52,7 +52,7 @@ include('inc/header.php') ?>
 						<h1 class="text-transform-none" style="text-align:left;">What is XinFin?</h1>
 					</div>-->
 					<div class="mb-3 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-						<h3 class="welcome-heading">eXchange inFinite (XinFin) is a decentralized Blockchain platform that runs smart contracts and Provides cross chain interoperability.XinFin Network is fully compatible with Ethereum Virtual Machine (EVM).</h3>
+						<h3 class="welcome-heading">eXchange inFinite (XinFin) is a decentralized Blockchain platform that runs smart contracts and Provides cross chain interoperability. Public Network is fully compatible with Ethereum Virtual Machine (EVM).</h3>
 					</div>
                     <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
 						<a href="developers.php" target="_blank"><button class="btn-blue">Developer Resource</button></a>
