@@ -14,11 +14,10 @@ include('inc/header.php') ?>
         <div class="col-md-8">
           <div class="banner-content-box">
           <div style="display:block;position:relative">
-            <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-              <h1 style="text-align:left;">Enterprise Ready Hybrid Blockchain For Global<br/>Trade and Finance</h1>
-              <p style="text-align: left;text-transform:none;">
-                Combining the power of Public and Private blockchains.</p>
-             <!--<div class="banner-btn-play">
+            <div>
+              <h1 style="text-align:left;" class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">Enterprise Ready Hybrid Blockchain For Global<br/>Trade and Finance</h1>
+              <p style="text-align: left;text-transform:none;" class="wow fadeInDown" data-wow-duration="0.7s" data-wow-delay="0.7s">Combining the power of Public and Private blockchains.</p>
+              <!--<div class="banner-btn-play">
               <a href="#" data-toggle="modal" data-target="#myModal">
                 <div class="play icon-btn modal-btn" data-type="video" data-key="welcome_video">
                   <span class="gold-bar"></span>
@@ -30,7 +29,7 @@ include('inc/header.php') ?>
                 </div>
               </a>
               </div>-->
-              <div class="video-popup-button button8"><a href="#" data-toggle="modal" data-target="#myModal"><span>How XinFin Network Works <img src="assets/images/play-icon.png" width="32"></span></a></div>
+              <div class="video-popup-button button8 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s"><a href="#" data-toggle="modal" data-target="#myModal"><span>How XinFin Network Works <img src="assets/images/play-icon.png" width="32"></span></a></div>
             </div>
           </div>
         </div>
@@ -40,6 +39,7 @@ include('inc/header.php') ?>
     </div>
     </div>
 </section>
+
 
 
 
@@ -54,215 +54,11 @@ include('inc/header.php') ?>
 					<div class="mb-3 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
 						<h3 class="welcome-heading">eXchange inFinite (XinFin) is a hybrid Blockchain and cross-ledger liquidity exchange platform designed exclusively for enterprise and financial institutions adoption.</h3>
 					</div>
-                    <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                    <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
 						<a href="developers.php" target="_blank"><button class="btn-blue">Get Started</button></a>
 						<a href="resources.php" target="_blank"><button class="btn-outline">Learn More</button></a>
             		</div>
 				</div>
-			</div>
-		</div>
-	</div>
-</section>
-
-
-
-<section id="hybrid-state" class="home-page-sections small-padd bg-grey" style="border-top: 1px solid #b1b1b1;">
-	<div class="container">
-		<div class="bannertext">
-            <div class="flex-row align-items-center">
-				<div class="col-md-6">
-					<div class="content-box">
-                        <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <!--<h1 class="text-transform-none" style="text-align:left;">Hybrid State</h1>-->
-                            <h3>Hybrid, Interoperable & Liquid Network</h3>
-                        </div>
-                        <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <p>Delegated Proof of Consensus (DPoS), Hybrid Relay Bridges, Instant Block Finality and Interoperable ISO20022 messaging standard make XinFin's Hybrid Architecture enterprise friendly.</p>
-                        </div>
-                        <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <a href="docs/whitepaper-tech.pdf"><button class="btn-blue">Learn More</button></a>
-                        </div>
-					</div>
-                </div>
-                <div class="col-md-6">
-					<img src="assets/images/home/dia-01.png" class="img-responsive" width="100%" alt="Hybrid State">
-                </div>
-			</div>
-		</div>
-	</div>
-</section>
-
-
-
-<section id="xdc-xdce-utility" class="home-page-sections small-padd bg-light-grey" style="border-top: 1px solid #b1b1b1;">
-	<div class="container">
-		<div class="bannertext">
-            <div class="flex-row align-items-center">
-				<div class="col-md-6">
-					<img src="assets/images/home/dia-03-ani.gif" class="img-responsive" width="100%" alt="XDC/XDCe Utility">
-                </div>
-                
-                <div class="col-md-6">
-					<div class="content-box">
-                        <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <!--<h1 class="text-transform-none" style="text-align:left;">XDC/XDCe Utility</h1>-->
-                            <h3>XDC/XDCe Utility available here. Stake XDC/XDCe and Start Using</h3>
-                        </div>
-                        <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <p>Explore Demo versions, APIs and GitHubs all at one place.</p>
-                            <p>Have got your own application? List it!</p>
-                        </div>
-                        <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <a href="xdc-utility.php"><button class="btn-blue">Explore More</button></a>
-                        </div>
-					</div>
-                </div>
-			</div>
-		</div>
-	</div>
-</section>
-
-
-
-<section id="standardised-dapps" class="home-page-sections small-padd bg-grey" style="border-top: 1px solid #b1b1b1;">
-	<div class="container">
-		<div class="bannertext">
-            <div class="flex-row align-items-center">
-				<div class="col-md-6">
-					<div class="content-box">
-                        <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <!--<h1 class="text-transform-none" style="text-align:left;">Standardised dApps</h1>-->
-                            <h3>Don't Develop from Scratch, We have Standardized Dapps for you</h3>
-                        </div>
-                        <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <p>Get started without any delay with developer-friendly tools and guides.</p>
-                        </div>
-                        <div class="btn-block mb-1">
-                            <a href="developers.php"><button class="btn-blue">Build With XinFin</button></a>
-                            <a href="https://github.com/XinFinOrg/Open-Hackathon" target="_blank"><button class="btn-outline">Online Hackathon</button></a>
-                        </div>
-					</div>
-                </div>
-                <div class="col-md-6">
-					<img src="assets/images/home/standardised-dapps.gif" class="img-responsive" width="100%" alt="Standardised dApps">
-                </div>
-			</div>
-		</div>
-	</div>
-</section>
-
-
-
-<section id="iso-compatible-messaging" class="home-page-sections small-padd bg-light-grey" style="border-top: 1px solid #b1b1b1;">
-	<div class="container">
-		<div class="bannertext">
-            <div class="flex-row align-items-center">
-				<div class="col-md-6">
-					<img src="assets/images/home/iso20022-compatible-messaging.gif" class="img-responsive" width="100%" alt="ISO20022 Compatible Messaging">
-                </div>
-                <div class="col-md-6">
-					<div class="content-box">
-                        <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <!--<h1 class="text-transform-none" style="text-align:left;">ISO20022 Compatible Messaging</h1>-->
-                            <h3>ISO20022 Compatible Messaging for Private and Hybrid State</h3>
-                        </div>
-                        <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <p>Higher interoperability with legacy systems and other blockchain platforms makes XinFin Protocol the language of core banking systems, ERP systems, SWIFT systems etc.</p>
-                        </div>
-                        <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <a href="resources.php"><button class="btn-blue">Read More</button></a>
-                        </div>
-					</div>
-                </div>                
-			</div>
-		</div>
-	</div>
-</section>
-
-
-
-<section id="api-based-access" class="home-page-sections small-padd bg-grey" style="border-top: 1px solid #b1b1b1;">
-	<div class="container">
-		<div class="bannertext">
-            <div class="flex-row align-items-center">
-				<div class="col-md-6">
-					<div class="content-box">
-                        <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <!--<h1 class="text-transform-none" style="text-align:left;">Customer-centric and Use Case Driven - API Based Access</h1>-->
-                            <h3>Customer-centric and Use Case Driven - API Based Access</h3>
-                        </div>
-                        <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <p>XinFin is a free, open source hybrid blockchain protocol that provides enterprises with a platform to build, deploy and run high-operating Dapps.</p>
-                        </div>
-                        <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <a href="xdc-utility.php"><button class="btn-blue">Explore APIs</button></a>
-                            <a href="xdc-utility.php"><button class="btn-outline">Bug Bounty Program</button></a>
-                        </div>
-					</div>
-                </div>
-                <div class="col-md-6">
-					<img src="assets/images/home/api-based-access.png" class="img-responsive" width="100%" alt="Customer-centric and Use Case Driven - API Based Access">
-                </div>
-			</div>
-		</div>
-	</div>
-</section>
-
-
-
-<section id="xinfin-blockchain-ecosystem-glance" class="home-page-sections small-padd bg-dark-blue">
-	<div class="container">
-		<div class="bannertext">
-            <div class="flex-row align-items-center">
-				<div class="col-md-6">
-                    <img src="assets/images/home/HOW-IT-WORKS-ANIMATION.gif" class="img-responsive" width="100%" alt="The XinFin Blockchain Ecosystem At A Glance">
-                </div>
-                <div class="col-md-6">
-					<div class="content-box">
-                        <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <h1 class="text-transform-none" style="text-align:left;color:#FFFFFF;">The XinFin Blockchain Ecosystem At A Glance</h1>
-                        </div>
-                        <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <p style="color:#FFFFFF;" class="mb-2">Host a Private Network, Runs Smart Contracts, Explore Wallet, Leverage cross chain interoperability.</p>                        
-                        </div>
-                        <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <a href="https://github.com/XinFinorg" target="_blank"><button class="btn-fill-default">Explore GitHub</button></a>
-                            <a href="resources.php" target="_blank"><button class="btn-outline-default">Learn More</button></a>
-                            <a href="developers.php" target="_blank"><button class="btn-fill-default">For Developers</button></a>
-                        </div>
-					</div>
-                </div>                
-			</div>
-		</div>
-	</div>
-</section>
-
-
-
-
-
-<section id="xinFin-network" class="home-page-sections small-padd bg-light-grey">
-	<div class="container">
-		<div class="bannertext">
-            <div class="flex-row align-items-center">
-				<div class="col-md-6">
-					<div class="content-box">
-                        <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <!--<h1 class="text-transform-none" style="text-align:left;">XinFin Network</h1>-->
-                            <h3 class="text-transform-none">A Multi-layered Hybrid Blockchain Network</h3>
-                        </div>
-                        <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <p>XinFin Public Network runs on DPOS consensus fully compatible with Ethereum developer ecosystem.</p>
-                            <p>XinFin Private Network is an enhanced EVM mainly for enterprise use cases for consortium chains.</p>
-                        </div>
-                        <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <a href="https://status.xinfin.org/"><button class="btn-blue">Explore XinFin TestNet</button></a>
-                        </div>
-					</div>
-                </div>
-                <div class="col-md-6">
-					<img src="assets/images/home/NETWORK-ANIMATION.gif" class="img-responsive" width="100%" alt="XinFin Network">
-                </div>
 			</div>
 		</div>
 	</div>
@@ -276,19 +72,48 @@ include('inc/header.php') ?>
 		<div class="bannertext">
             <div class="flex-row align-items-center">
 				<div class="col-md-6">
+					<div class="content-box">
+                        <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                            <!--<h1 class="text-transform-none" style="text-align:left;">XinFin Public DPOS Consensus</h1>-->
+                            <h3>The Fastest, The Efficient, The Decentralized and The Flexible Consensus is Here!</h3>
+                        </div>
+                        <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                            <p>Delegated Proof of Stake (DPoS) leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way.</p>
+                        </div>
+                        <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
+                            <a href="xinfin-consensus.php"><button class="btn-blue">Explore More</button></a>
+                        </div>
+					</div>
+                </div>
+                <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.5s">
                     <img src="assets/images/home/xinfin-public-dpos-consensus.gif" class="img-responsive" width="100%" alt="XinFin Public DPOS Consensus">
+                </div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+
+<section id="iso-compatible-messaging" class="home-page-sections small-padd bg-light-grey" style="border-top: 1px solid #b1b1b1;">
+	<div class="container">
+		<div class="bannertext">
+            <div class="flex-row align-items-center">
+				<div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.5s">
+					<img src="assets/images/home/iso20022-compatible-messaging.gif" class="img-responsive" width="100%" alt="ISO20022 Compatible Messaging">
                 </div>
                 <div class="col-md-6">
 					<div class="content-box">
                         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <!--<h1 class="text-transform-none" style="text-align:left;">XinFin Public DPOS Consensus</h1>-->
-                            <h3>The Fastest, The Most Efficient, The Most Decentralized and The Most Flexible Consensus is Here!</h3>
+                            <!--<h1 class="text-transform-none" style="text-align:left;">ISO20022 Compatible Messaging</h1>-->
+                            <h3>ISO20022 Compatible Messaging for Private and Hybrid State</h3>
                         </div>
-                        <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <p>Delegated Proof of Stake (DPoS) leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way.</p>
+                        <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                            <p>Higher interoperability with legacy systems and other blockchain platforms makes XinFin Protocol the language of core banking systems, ERP systems, SWIFT systems etc.</p>
                         </div>
-                        <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <a href="xinfin-consensus.php"><button class="btn-blue">Explore More</button></a>
+                        <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
+                            <a href="resources.php"><button class="btn-blue">Read More</button></a>
                         </div>
 					</div>
                 </div>                
@@ -300,7 +125,128 @@ include('inc/header.php') ?>
 
 
 
-<section id="setting-up-masterNodes" class="home-page-sections small-padd bg-light-grey" style="border-top: 1px solid #b1b1b1;">
+<section id="xinfin-blockchain-ecosystem-glance" class="home-page-sections small-padd bg-dark-blue">
+	<div class="container">
+		<div class="bannertext">
+            <div class="flex-row align-items-center">
+				<div class="col-md-6">
+					<div class="content-box">
+                        <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                            <h1 class="text-transform-none" style="text-align:left;color:#FFFFFF;">The XinFin Blockchain Ecosystem At A Glance</h1>
+                        </div>
+                        <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                            <p style="color:#FFFFFF;" class="mb-2">Host a Private Network, Runs Smart Contracts, Explore Wallet, Leverage cross chain interoperability.</p>                        
+                        </div>
+                        <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
+                            <a href="https://github.com/XinFinorg" target="_blank"><button class="btn-fill-default">Explore GitHub</button></a>
+                            <a href="resources.php" target="_blank"><button class="btn-outline-default">Learn More</button></a>
+                            <a href="developers.php" target="_blank"><button class="btn-fill-default">For Developers</button></a>
+                        </div>
+					</div>
+                </div>
+                <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                    <img src="assets/images/home/HOW-IT-WORKS-ANIMATION.gif" class="img-responsive" width="100%" alt="The XinFin Blockchain Ecosystem At A Glance">
+                </div>               
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+
+<section id="xdc-xdce-utility" class="home-page-sections small-padd bg-light-grey" style="border-top: 1px solid #b1b1b1;">
+	<div class="container">
+		<div class="bannertext">
+            <div class="flex-row align-items-center">
+				<div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+					<img src="assets/images/home/dia-03-ani.gif" class="img-responsive" width="100%" alt="XDC/XDCe Utility">
+                </div>
+                
+                <div class="col-md-6">
+					<div class="content-box">
+                        <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                            <!--<h1 class="text-transform-none" style="text-align:left;">XDC/XDCe Utility</h1>-->
+                            <h3>Our platforms are Ready. Take a Demo & Start Using</h3>
+                        </div>
+                        <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                            <p>Explore Demo versions, APIs and GitHubs all at one place.</p>
+                            <p>Have got your own application? List it!</p>
+                        </div>
+                        <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
+                            <a href="xdc-utility.php"><button class="btn-blue">Explore More</button></a>
+                        </div>
+					</div>
+                </div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+
+<section id="standardised-dapps" class="home-page-sections small-padd bg-grey" style="border-top: 1px solid #b1b1b1;">
+	<div class="container">
+		<div class="bannertext">
+            <div class="flex-row align-items-center">
+				<div class="col-md-6">
+					<div class="content-box">
+                        <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                            <!--<h1 class="text-transform-none" style="text-align:left;">Standardised dApps</h1>-->
+                            <h3>Don't Develop from Scratch, We have Standardized Dapps for you</h3>
+                        </div>
+                        <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                            <p>Get started without any delay with developer-friendly tools and guides.</p>
+                        </div>
+                        <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
+                            <a href="developers.php"><button class="btn-blue">Build With XinFin</button></a>
+                            <a href="https://github.com/XinFinOrg/Open-Hackathon" target="_blank"><button class="btn-outline">Online Hackathon</button></a>
+                        </div>
+					</div>
+                </div>
+                <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.5s">
+					<img src="assets/images/home/standardised-dapps.gif" class="img-responsive" width="100%" alt="Standardised dApps">
+                </div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+
+<section id="api-based-access" class="home-page-sections small-padd bg-light-grey" style="border-top: 1px solid #b1b1b1;">
+	<div class="container">
+		<div class="bannertext">
+            <div class="flex-row align-items-center">
+				<div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.5s">
+					<img src="assets/images/home/api-based-access.png" class="img-responsive" width="100%" alt="Customer-centric and Use Case Driven - API Based Access">
+                </div>
+                <div class="col-md-6">
+					<div class="content-box">
+                        <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                            <!--<h1 class="text-transform-none" style="text-align:left;">Customer-centric and Use Case Driven - API Based Access</h1>-->
+                            <h3>Customer-centric and Use Case Driven - API Based Access</h3>
+                        </div>
+                        <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                            <p>XinFin is a free, open source hybrid blockchain protocol that provides enterprises with a platform to build, deploy and run high-operating Dapps.</p>
+                        </div>
+                        <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
+                            <a href="xdc-utility.php"><button class="btn-blue">Explore APIs</button></a>
+                            <a href="bounty.php"><button class="btn-outline">Bug Bounty Program</button></a>
+                        </div>
+					</div>
+                </div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+
+<section id="setting-up-masterNodes" class="home-page-sections small-padd bg-grey" style="border-top: 1px solid #b1b1b1;">
 	<div class="container">
 		<div class="bannertext">
             <div class="flex-row align-items-center">
@@ -310,16 +256,14 @@ include('inc/header.php') ?>
 						<h1 class="text-transform-none" style="text-align:left;">Setting up MasterNodes</h1>
 					</div>-->
 					<div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-						<p>
-
-Deploying KYC compliant masternodes on XDC Protocol makes XinFin Blockchain network more trusted for enterprise and financial institutions adoption.</p>
+						<p>Deploying KYC compliant masternodes on XDC Protocol makes XinFin Blockchain network more trusted for enterprise and financial institutions adoption.</p>
 					</div>
-                    <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                    <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
             			<a href="setup-masternode.php"><button class="btn-blue">Setup Masternode</button></a>
             		</div>
                     </div>
 				</div>
-                <div class="col-md-6">
+                <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.5s">
 					<img src="assets/images/home/setting-up-masterNodes.gif" class="img-responsive" width="100%" alt="XinFin Network">
                 </div>
 			</div>
@@ -328,6 +272,63 @@ Deploying KYC compliant masternodes on XDC Protocol makes XinFin Blockchain netw
 </section>
 
 
+
+
+<section id="hybrid-state" class="home-page-sections small-padd bg-light-grey" style="border-top: 1px solid #b1b1b1;">
+	<div class="container">
+		<div class="bannertext">
+            <div class="flex-row align-items-center">
+				<div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.5s">
+					<img src="assets/images/home/dia-01.png" class="img-responsive" width="100%" alt="Hybrid State">
+                </div>
+                <div class="col-md-6">
+					<div class="content-box">
+                        <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                            <!--<h1 class="text-transform-none" style="text-align:left;">Hybrid State</h1>-->
+                            <h3>Hybrid, Interoperable & Liquid Network</h3>
+                        </div>
+                        <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                            <p>Delegated Proof of Consensus (DPoS), Hybrid Relay Bridges, Instant Block Finality and Interoperable ISO20022 messaging standard make XinFin's Hybrid Architecture enterprise friendly.</p>
+                        </div>
+                        <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
+                            <a href="docs/whitepaper-tech.pdf"><button class="btn-blue">Learn More</button></a>
+                        </div>
+					</div>
+                </div>                
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+
+<section id="xinFin-network" class="home-page-sections small-padd bg-grey">
+	<div class="container">
+		<div class="bannertext">
+            <div class="flex-row align-items-center">
+				<div class="col-md-6">
+					<div class="content-box">
+                        <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                            <!--<h1 class="text-transform-none" style="text-align:left;">XinFin Network</h1>-->
+                            <h3 class="text-transform-none">A Multi-layered Hybrid Blockchain Network</h3>
+                        </div>
+                        <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                            <p>XinFin Public Network runs on DPOS consensus fully compatible with Ethereum developer ecosystem.</p>
+                            <p>XinFin Private Network is an enhanced EVM mainly for enterprise use cases for consortium chains.</p>
+                        </div>
+                        <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
+                            <a href="https://status.xinfin.org/"><button class="btn-blue">Explore XinFin TestNet</button></a>
+                        </div>
+					</div>
+                </div>
+                <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.5s">
+					<img src="assets/images/home/NETWORK-ANIMATION.gif" class="img-responsive" width="100%" alt="XinFin Network">
+                </div>
+			</div>
+		</div>
+	</div>
+</section>
 
 
 
@@ -339,7 +340,7 @@ Deploying KYC compliant masternodes on XDC Protocol makes XinFin Blockchain netw
         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
           <h1>Partnerships and Alliances</h1>
         </div>
-        <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+        <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
           <p>Technology partners to global businesses and growing our network rapidly.</p>
         </div>
       </div>
@@ -373,6 +374,8 @@ Deploying KYC compliant masternodes on XDC Protocol makes XinFin Blockchain netw
     <div class="clear"></div>
   </div>
 </section>
+
+
 
 
 <section id="about2">
@@ -437,10 +440,10 @@ Deploying KYC compliant masternodes on XDC Protocol makes XinFin Blockchain netw
           <a href="https://www.adgm.com/mediacentre/press-releases/abu-dhabi-global-market-admits-3rd-reglab-cohort-with-more-uae-fintech-firms/" target="_blank"><img src="assets/images/home/media/adgm-logo.png" alt="ADGM" class="img-responsive"></a>
         </div>        
       </div>
-
     </div>
   </div>
 </section>
+
 
 
 
@@ -450,43 +453,43 @@ Deploying KYC compliant masternodes on XDC Protocol makes XinFin Blockchain netw
 			<h1>Videos</h1>
 		</div>
 	<div class="row">  
-        <div class="col-md-3 col-sm-4 mb-3">
+        <div class="col-md-3 col-sm-4 mb-3 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.5s">
             <div class="embed-responsive embed-responsive-16by9 embed-div">
                 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/K-tHZkV6zAs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
         </div>
         
-        <div class="col-md-3 col-sm-4 mb-3">
+        <div class="col-md-3 col-sm-4 mb-3 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
             <div class="embed-responsive embed-responsive-16by9 embed-div">
                 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jLaqms1IHWE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
         </div>
         
-        <div class="col-md-3 col-sm-4 mb-3">
+        <div class="col-md-3 col-sm-4 mb-3 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.9s">
             <div class="embed-responsive embed-responsive-16by9 embed-div">
                 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_jVH_x5wT1M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
         </div>
         
-        <div class="col-md-3 col-sm-4 mb-3">
+        <div class="col-md-3 col-sm-4 mb-3 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.1s">
             <div class="embed-responsive embed-responsive-16by9 embed-div">
                 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/J6F4iYzF1ew" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
         </div>
         
-        <div class="col-md-3 col-sm-4 mb-3">
+        <div class="col-md-3 col-sm-4 mb-3 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.3s">
             <div class="embed-responsive embed-responsive-16by9 embed-div">
                 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/bYIJETgOY_g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
         </div>
         
-        <div class="col-md-3 col-sm-4 mb-3">
+        <div class="col-md-3 col-sm-4 mb-3 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.5s">
             <div class="embed-responsive embed-responsive-16by9 embed-div">
                 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/thR-pTpF7Sw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
         </div>
         
-        <div class="col-md-3 col-sm-4 mb-3">
+        <div class="col-md-3 col-sm-4 mb-3 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.7s">
             <div class="embed-responsive embed-responsive-16by9 embed-div">
                 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/mjrhTnZ16f8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
@@ -497,6 +500,7 @@ Deploying KYC compliant masternodes on XDC Protocol makes XinFin Blockchain netw
 
 
 
+
 <section id="about1" style="border-top: 1px solid #b1b1b1;">
   <div class="container">
     <div class="row">
@@ -504,10 +508,12 @@ Deploying KYC compliant masternodes on XDC Protocol makes XinFin Blockchain netw
         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
           <h1>Contact us</h1>
         </div>
-        <div class="text-center wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+        <div class="text-center wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
           <p>Come build dApps, learn more about XinFin and the XDC hybrid blockchain, host a masternode,
             <br/>or speak to our team.</p>
           <br/>
+        </div>
+        <div class="text-center wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
           <a href="contactus.php">
             <button class="clickbutton">CONTACT NOW</button>
           </a>
@@ -515,12 +521,12 @@ Deploying KYC compliant masternodes on XDC Protocol makes XinFin Blockchain netw
       </div>
     </div>
     <br/>
-
     <div class="clear"></div>
-
   </div>
-
 </section>
+
+
+
 
 <style>
   .logoc {

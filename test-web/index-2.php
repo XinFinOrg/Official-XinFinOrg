@@ -16,7 +16,7 @@ include('inc/header.php') ?>
             <div class="text-center wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
               <h1 style="padding-left:0px;text-align:center;text-transform:none;">eXchange inFinite (XinFin) is a hybrid/decentralized Blockchain platform that runs smart contracts and Provides cross chain interoperability.</h1>
               <h4 style="padding-left:0px;">XinFin Network is fully compatible with Ethereum Virtual Machine (EVM).</h4>
-              <div class="video-popup-button button8"><a href="#" data-toggle="modal" data-target="#myModal"><span>How XinFin Network Works <img src="assets/images/play-icon.png" width="32"></span></a></div>
+              <div class="video-popup-button-center button8"><a href="#" data-toggle="modal" data-target="#myModal"><span>How XinFin Network Works <img src="assets/images/play-icon.png" width="32"></span></a></div>
             </div>
           </div>
         </div>
