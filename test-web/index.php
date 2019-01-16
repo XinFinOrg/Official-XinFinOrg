@@ -81,7 +81,7 @@ include('inc/header.php') ?>
                             <p>Delegated Proof of Stake (DPoS) leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way.</p>
                         </div>
                         <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
-                            <a href="xinfin-consensus.php"><button class="btn-blue">Explore More</button></a>
+                            <a href="xinfin-consensus.php"><button class="btn-blue">XinFin Public DPOS Consensus</button></a>
                         </div>
 					</div>
                 </div>
