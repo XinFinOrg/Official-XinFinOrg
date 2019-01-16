@@ -285,10 +285,10 @@ include('inc/header.php') ?>
                             <h3>The Fastest, The Most Efficient, The Most Decentralized and The Most Flexible Consensus is Here!</h3>
                         </div>
                         <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <p>DPOS leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way.</p>
+                            <p>Delegated Proof of Stake (DPoS) leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way.</p>
                         </div>
                         <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <a href="xinfin-consensus.php"><button class="btn-blue">Start Using</button></a>
+                            <a href="xinfin-consensus.php"><button class="btn-blue">Explore More</button></a>
                         </div>
 					</div>
                 </div>                
