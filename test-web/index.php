@@ -341,7 +341,7 @@ include('inc/header.php') ?>
           <h1>Partnerships, Associations,Recognition & Alliances</h1>
         </div>
         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
-          <p>Technology partners to global businesses and growing XinFin network rapidly.</p>
+          <p>Be a part of growing XinFin Network.</p>
         </div>
       </div>
     </div>
