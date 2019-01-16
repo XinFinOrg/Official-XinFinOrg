@@ -310,7 +310,9 @@ include('inc/header.php') ?>
 						<h1 class="text-transform-none" style="text-align:left;">Setting up MasterNodes</h1>
 					</div>-->
 					<div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-						<p>Deploying masternodes on XDC Protocol makes XinFin Blockchain network more trusted, more self-sustainable and more scalable. </p>
+						<p>
+
+Deploying KYC compliant masternodes on XDC Protocol makes XinFin Blockchain network more trusted for enterprise and financial institutions adoption.</p>
 					</div>
                     <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
             			<a href="setup-masternode.php"><button class="btn-blue">Setup Masternode</button></a>
