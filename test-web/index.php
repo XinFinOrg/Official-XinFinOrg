@@ -43,23 +43,28 @@ include('inc/header.php') ?>
 
 
 
-<section id="whats-xinfin" class="bg-light-grey">
+<section id="hybrid-state" class="home-page-sections small-padd bg-light-grey" style="border-top: 1px solid #b1b1b1;">
 	<div class="container">
 		<div class="bannertext">
-			<div class="row">
-				<div class="col-md-10 col-md-offset-1">
-					<!--<div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-						<h1 class="text-transform-none" style="text-align:left;">What is XinFin?</h1>
-					</div>-->
-					<div class="mb-3 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-						<h3 class="welcome-heading">eXchange inFinite (XinFin) is Decentralized, Hybrid, Interoperable & Liquid Network.
-Delegated Proof of Stake Consensus (DPoS), Hybrid Relay Bridges, Instant Block Finality and Interoperable ISO20022 messaging standard make XinFin's Hybrid Architecture Developer friendly.</h3>
+            <div class="flex-row align-items-center">
+                <div class="col-md-6">
+					<div class="content-box">
+                        <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                            <!--<h1 class="text-transform-none" style="text-align:left;">Hybrid State</h1>-->
+                            <h3>Decentralized, Hybrid, Interoperable & Liquid Network.</h3>
+                        </div>
+                        <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                            <p>eXchange inFinite (XinFin) is Delegated Proof of Stake Consensus (DPoS), Hybrid Relay Bridges, Instant Block Finality and Interoperable ISO20022 messaging standard make XinFin's Hybrid Architecture Developer friendly.</p>
+                        </div>
+                        <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
+                            <a href="developers.php"><button class="btn-blue">Developer Resource</button></a>
+                        </div>
 					</div>
-                    <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
-						<a href="developers.php" target="_blank"><button class="btn-blue">Developer Resource</button></a>
-						<a href="https://github.com/XinFinOrg/XDC01-docker-Nnodes" target="_blank"><button class="btn-outline">Setup XinFin Blockchain Node</button></a>
-            		</div>
-				</div>
+                </div>
+                
+                <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+					<img src="assets/images/home/dia-01.png" class="img-responsive" width="100%" alt="Hybrid State">
+                </div>             
 			</div>
 		</div>
 	</div>
@@ -72,7 +77,10 @@ Delegated Proof of Stake Consensus (DPoS), Hybrid Relay Bridges, Instant Block F
 	<div class="container">
 		<div class="bannertext">
             <div class="flex-row align-items-center">
-				<div class="col-md-6">
+				<div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                    <img src="assets/images/home/xinfin-public-dpos-consensus.gif" class="img-responsive" width="100%" alt="XinFin Public DPOS Consensus">
+                </div>
+                <div class="col-md-6">
 					<div class="content-box">
                         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
                             <!--<h1 class="text-transform-none" style="text-align:left;">XinFin Public DPOS Consensus</h1>-->
@@ -85,10 +93,7 @@ Delegated Proof of Stake Consensus (DPoS), Hybrid Relay Bridges, Instant Block F
                             <a href="xinfin-consensus.php"><button class="btn-blue">XinFin Public DPOS Consensus</button></a>
                         </div>
 					</div>
-                </div>
-                <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                    <img src="assets/images/home/xinfin-public-dpos-consensus.gif" class="img-responsive" width="100%" alt="XinFin Public DPOS Consensus">
-                </div>
+                </div>                
 			</div>
 		</div>
 	</div>
@@ -100,10 +105,7 @@ Delegated Proof of Stake Consensus (DPoS), Hybrid Relay Bridges, Instant Block F
 <section id="iso-compatible-messaging" class="home-page-sections small-padd bg-light-grey" style="border-top: 1px solid #b1b1b1;">
 	<div class="container">
 		<div class="bannertext">
-            <div class="flex-row align-items-center">
-				<div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.5s">
-					<img src="assets/images/home/iso20022-compatible-messaging.gif" class="img-responsive" width="100%" alt="ISO20022 Compatible Messaging">
-                </div>
+            <div class="flex-row align-items-center">				
                 <div class="col-md-6">
 					<div class="content-box">
                         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
@@ -117,6 +119,10 @@ Delegated Proof of Stake Consensus (DPoS), Hybrid Relay Bridges, Instant Block F
                             <a href="resources.php"><button class="btn-blue">Read More</button></a>
                         </div>
 					</div>
+                </div>
+                
+                <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+					<img src="assets/images/home/iso20022-compatible-messaging.gif" class="img-responsive" width="100%" alt="ISO20022 Compatible Messaging">
                 </div>                
 			</div>
 		</div>
@@ -130,7 +136,11 @@ Delegated Proof of Stake Consensus (DPoS), Hybrid Relay Bridges, Instant Block F
 	<div class="container">
 		<div class="bannertext">
             <div class="flex-row align-items-center">
-				<div class="col-md-6">
+				<div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                    <img src="assets/images/home/HOW-IT-WORKS-ANIMATION.gif" class="img-responsive" width="100%" alt="The XinFin Blockchain Ecosystem At A Glance">
+                </div> 
+                
+                <div class="col-md-6">
 					<div class="content-box">
                         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
                             <h1 class="text-transform-none" style="text-align:left;color:#FFFFFF;">The XinFin Blockchain Ecosystem At A Glance</h1>
@@ -144,10 +154,7 @@ Delegated Proof of Stake Consensus (DPoS), Hybrid Relay Bridges, Instant Block F
                             <a href="developers.php" target="_blank"><button class="btn-fill-default">For Developers</button></a>
                         </div>
 					</div>
-                </div>
-                <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                    <img src="assets/images/home/HOW-IT-WORKS-ANIMATION.gif" class="img-responsive" width="100%" alt="The XinFin Blockchain Ecosystem At A Glance">
-                </div>               
+                </div>                              
 			</div>
 		</div>
 	</div>
@@ -159,11 +166,7 @@ Delegated Proof of Stake Consensus (DPoS), Hybrid Relay Bridges, Instant Block F
 <section id="xdc-xdce-utility" class="home-page-sections small-padd bg-light-grey" style="border-top: 1px solid #b1b1b1;">
 	<div class="container">
 		<div class="bannertext">
-            <div class="flex-row align-items-center">
-				<div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
-					<img src="assets/images/home/dia-03-ani.gif" class="img-responsive" width="100%" alt="XDC/XDCe Utility">
-                </div>
-                
+            <div class="flex-row align-items-center">                
                 <div class="col-md-6">
 					<div class="content-box">
                         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
@@ -179,6 +182,10 @@ Delegated Proof of Stake Consensus (DPoS), Hybrid Relay Bridges, Instant Block F
                         </div>
 					</div>
                 </div>
+                
+                <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+					<img src="assets/images/home/dia-03-ani.gif" class="img-responsive" width="100%" alt="XDC/XDCe Utility">
+                </div>
 			</div>
 		</div>
 	</div>
@@ -191,7 +198,11 @@ Delegated Proof of Stake Consensus (DPoS), Hybrid Relay Bridges, Instant Block F
 	<div class="container">
 		<div class="bannertext">
             <div class="flex-row align-items-center">
-				<div class="col-md-6">
+				<div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+					<img src="assets/images/home/standardised-dapps.gif" class="img-responsive" width="100%" alt="Standardised dApps">
+                </div>
+                
+                <div class="col-md-6">
 					<div class="content-box">
                         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
                             <!--<h1 class="text-transform-none" style="text-align:left;">Standardised dApps</h1>-->
@@ -205,10 +216,7 @@ Delegated Proof of Stake Consensus (DPoS), Hybrid Relay Bridges, Instant Block F
                             <a href="https://github.com/XinFinOrg/Open-Hackathon" target="_blank"><button class="btn-outline">Online Hackathon</button></a>
                         </div>
 					</div>
-                </div>
-                <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.5s">
-					<img src="assets/images/home/standardised-dapps.gif" class="img-responsive" width="100%" alt="Standardised dApps">
-                </div>
+                </div>                
 			</div>
 		</div>
 	</div>
@@ -220,10 +228,7 @@ Delegated Proof of Stake Consensus (DPoS), Hybrid Relay Bridges, Instant Block F
 <section id="api-based-access" class="home-page-sections small-padd bg-light-grey" style="border-top: 1px solid #b1b1b1;">
 	<div class="container">
 		<div class="bannertext">
-            <div class="flex-row align-items-center">
-				<div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.5s">
-					<img src="assets/images/home/api-based-access.png" class="img-responsive" width="100%" alt="Customer-centric and Use Case Driven - API Based Access">
-                </div>
+            <div class="flex-row align-items-center">				
                 <div class="col-md-6">
 					<div class="content-box">
                         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
@@ -240,6 +245,10 @@ Delegated Proof of Stake Consensus (DPoS), Hybrid Relay Bridges, Instant Block F
                         </div>
 					</div>
                 </div>
+                
+                <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+					<img src="assets/images/home/api-based-access.png" class="img-responsive" width="100%" alt="Customer-centric and Use Case Driven - API Based Access">
+                </div>
 			</div>
 		</div>
 	</div>
@@ -252,7 +261,11 @@ Delegated Proof of Stake Consensus (DPoS), Hybrid Relay Bridges, Instant Block F
 	<div class="container">
 		<div class="bannertext">
             <div class="flex-row align-items-center">
-				<div class="col-md-6">
+				<div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+					<img src="assets/images/home/setting-up-masterNodes.gif" class="img-responsive" width="100%" alt="XinFin Network">
+                </div>
+                
+                <div class="col-md-6">
 					<div class="content-box">
                     <!--<div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
 						<h1 class="text-transform-none" style="text-align:left;">Setting up MasterNodes</h1>
@@ -264,69 +277,7 @@ Delegated Proof of Stake Consensus (DPoS), Hybrid Relay Bridges, Instant Block F
             			<a href="setup-masternode.php"><button class="btn-blue">Setup Masternode</button></a>
             		</div>
                     </div>
-				</div>
-                <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.5s">
-					<img src="assets/images/home/setting-up-masterNodes.gif" class="img-responsive" width="100%" alt="XinFin Network">
-                </div>
-			</div>
-		</div>
-	</div>
-</section>
-
-
-
-
-<section id="hybrid-state" class="home-page-sections small-padd bg-light-grey" style="border-top: 1px solid #b1b1b1;">
-	<div class="container">
-		<div class="bannertext">
-            <div class="flex-row align-items-center">
-				<div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.5s">
-					<img src="assets/images/home/dia-01.png" class="img-responsive" width="100%" alt="Hybrid State">
-                </div>
-                <div class="col-md-6">
-					<div class="content-box">
-                        <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <!--<h1 class="text-transform-none" style="text-align:left;">Hybrid State</h1>-->
-                            <h3>Decentralized, Hybrid, Interoperable & Liquid Network.</h3>
-                        </div>
-                        <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
-                            <p>eXchange inFinite (XinFin) is Delegated Proof of Stake Consensus (DPoS), Hybrid Relay Bridges, Instant Block Finality and Interoperable ISO20022 messaging standard make XinFin's Hybrid Architecture Developer friendly.</p>
-                        </div>
-                        <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
-                            <a href="developers.php"><button class="btn-blue">Developer Resource</button></a>
-                        </div>
-					</div>
-                </div>                
-			</div>
-		</div>
-	</div>
-</section>
-
-
-
-
-<section id="xinFin-network" class="home-page-sections small-padd bg-grey">
-	<div class="container">
-		<div class="bannertext">
-            <div class="flex-row align-items-center">
-				<div class="col-md-6">
-					<div class="content-box">
-                        <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <!--<h1 class="text-transform-none" style="text-align:left;">XinFin Network</h1>-->
-                            <h3 class="text-transform-none">A Multi-layered Hybrid Blockchain Network</h3>
-                        </div>
-                        <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
-                            <p>XinFin Public Network runs on DPOS consensus fully compatible with Ethereum developer ecosystem.</p>
-                            <p>XinFin Private Network is an enhanced EVM mainly for enterprise use cases for consortium chains.</p>
-                        </div>
-                        <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
-                            <a href="https://status.xinfin.org/"><button class="btn-blue">Explore XinFin TestNet</button></a>
-                        </div>
-					</div>
-                </div>
-                <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.5s">
-					<img src="assets/images/home/NETWORK-ANIMATION.gif" class="img-responsive" width="100%" alt="XinFin Network">
-                </div>
+				</div>                
 			</div>
 		</div>
 	</div>

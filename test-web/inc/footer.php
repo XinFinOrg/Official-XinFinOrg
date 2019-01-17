@@ -9,35 +9,36 @@
                 <p>
                 <a href="about.php">About Community</a><br/>
                 <a href="xinfin-consensus.php">Public DPOS Consensus</a><br/>
-		<a href="resources.php">Resource Guide</a><br/>
+				<a href="resources.php">Resource Guide</a><br/>
                 <a href="https://status.xinfin.org/">XinFin Network Status</a><br/>
                 <a href="developers.php">Developers Portal</a><br/>
-                <a href="https://github.com/XinFinOrg/Open-Hackathon" target="_blank">Online Hackathon</a></p>
+                <a href="https://github.com/XinFinOrg/Open-Hackathon" target="_blank">Online Hackathon</a>
+                </p>
 			</div>
 			
             <div class="col-md-3 col-sm-6 col-xs-12">
                 <h1>More..</h1>
                 <!--<p><span>More..</span><br/>-->
                 <p>
-		<a href="setup-masternode.php">Setup MasterNode</a><br/>
+				<a href="setup-masternode.php">Setup MasterNode</a><br/>
                 <a href="faq.php">Read our FAQ</a><br/>
                 <a href="xdc-utility.php">XDC/XDCe Utility</a><br/>
                 <a href="bounty.php">Community Bounty Program</a><br/>    
-		<a href="https://github.com/XinFinorg">Source Code on GitHub</a><br/>
-              
-            				</div>		
+				<a href="https://github.com/XinFinorg">Source Code on GitHub</a><br/>
+                <a href="https://xinfin.io">XDC/XDCE Exchange List</a>
+                </p>
+             </div>		
             <div class="col-md-3 col-sm-6 col-xs-12" >
                 <h1>Other Links</h1>
                 <!--<p><span>Other Links</span><br/>-->
                 <p>
-
-                <a href="download.php">Download our Logo</a><br/>
-                <a href="https://xinfin.io">XDC/XDCE Exchange List</a><br/>
+                <a href="download.php">Download our Logo</a><br/>                
                 <a href="compliance.php">Compliance</a><br/>
                 <a href="privacy.php">Privacy Policy</a><br/>
-		<a href="disclaimer.php">Disclaimer</a></p>
-		<a href="contactus.php">Press Inquiry</a><br/>	
-		<a href="contactus.php">Contact XinFin</a></p>
+				<a href="disclaimer.php">Disclaimer</a><br/>
+				<a href="contactus.php">Press Inquiry</a><br/>	
+				<a href="contactus.php">Contact XinFin</a>
+                </p>
 			</div>
 			
             <div class="col-md-3 col-sm-6 col-xs-12" >
