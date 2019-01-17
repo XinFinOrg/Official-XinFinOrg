@@ -226,11 +226,12 @@ include('inc/header.php') ?>
                 <div class="col-md-6">
 					<div class="content-box">
                         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                            <!--<h1 class="text-transform-none" style="text-align:left;">Customer-centric and Use Case Driven - API Based Access</h1>-->
-                            <h3>Customer-centric and Use Case Driven - API Based Access</h3>
+                            <!--<h1 class="text-transform-none" style="text-align:left;">Easy, Customer-centric and Use Case Driven - API Based Access</h1>-->
+                            <h3>Easy, Customer-centric and Use Case Driven - API Based Access</h3>
                         </div>
                         <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
-                            <p>XinFin is a free, open source hybrid blockchain protocol that provides enterprises with a platform to build, deploy and run high-operating Dapps.</p>
+                            <p>Open and 'plug-and-play' based API tools - the language of core banking systems, ERP systems, SWIFT systems that provides enterprises with a platform to build, deploy and run high-operating Dapps on Block Chain Network. 
+</p>
                         </div>
                         <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
                             <a href="xdc-utility.php"><button class="btn-blue">Explore APIs</button></a>
