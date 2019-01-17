@@ -287,13 +287,13 @@ Delegated Proof of Stake Consensus (DPoS), Hybrid Relay Bridges, Instant Block F
 					<div class="content-box">
                         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
                             <!--<h1 class="text-transform-none" style="text-align:left;">Hybrid State</h1>-->
-                            <h3>Hybrid, Interoperable & Liquid Network</h3>
+                            <h3>Decentralized, Hybrid, Interoperable & Liquid Network.</h3>
                         </div>
                         <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
-                            <p>Delegated Proof of Consensus (DPoS), Hybrid Relay Bridges, Instant Block Finality and Interoperable ISO20022 messaging standard make XinFin's Hybrid Architecture enterprise friendly.</p>
+                            <p>eXchange inFinite (XinFin) is Delegated Proof of Stake Consensus (DPoS), Hybrid Relay Bridges, Instant Block Finality and Interoperable ISO20022 messaging standard make XinFin's Hybrid Architecture Developer friendly.</p>
                         </div>
                         <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
-                            <a href="docs/whitepaper-tech.pdf"><button class="btn-blue">Learn More</button></a>
+                            <a href="developers.php"><button class="btn-blue">Developer Resource</button></a>
                         </div>
 					</div>
                 </div>                
