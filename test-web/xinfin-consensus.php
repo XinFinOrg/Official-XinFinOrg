@@ -8,7 +8,7 @@ include('inc/header.php') ?>
   <div class="container">
     <div class="row">
       <div class="bannertext">
-        <h2 class="mb-2">XinFin Public DPOS Consensus</h2>
+        <h1 class="mb-2">XinFin Public DPOS Consensus</h1>
         <p class="mb-2">Delegated Proof of Stake (also known as DPoS) is a consensus algorithm used to sustain digital democracy throughout the XinFin Hybrid blockchain network.</p>
         <p>XinFin's Delegated Proof of Stake is a decentralised way of validating transactions occurring on the XinFin Hybrid blockchain and appending those to the truth ledger. Unlike alternative consensus algorithms, XinFin's Delegated Proof of Stake makes use of real-time voting to elect a pool of validators (or delegates). These validators bear responsibilities to preserve the sanctity of the XinFin Hybrid blockchain network.</p>
       </div>

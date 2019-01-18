@@ -75,7 +75,7 @@ include('inc/header.php') ?>
       <a href="bounty.php"><button class="btn-outline mb-1">Community Bounty Program</button></a>
       
       <p class="header mb-2">Wallet Support</p>
-      <p>Wallet Support Section gives you a quick overview of what all exchanges XDCE is live-trading and what all wallet partners support XDCE. Any wallet support needed, you can reach out to us at <a href="mailto:support@xinfin.io">support@xinfin.io</a></p>
+      <p>Wallet Support Section gives you a quick overview of what all exchanges XDCE is live-trading on and what all wallet partners support XDCE. Any wallet support needed, you can reach out to us at <a href="mailto:support@xinfin.io">support@xinfin.io</a></p>
       <a href="https://XinFin.io/" target="_blank"><button class="btn-blue mb-1">Wallet Support</button></a>
       
       <p class="header mb-2">Media Room</p>
@@ -87,15 +87,15 @@ include('inc/header.php') ?>
       <a href="media-room.php"><button class="btn-outline mb-1">Media Room</button></a>
       
       <p class="header mb-2">Roadmap</p>
-      <p>The journey so far, milestones completed and the roadmap for the year 2019.</p>
+      <p>The journey so far, milestones achieved and the roadmap for the year 2019.</p>
       <a href="roadmap.php"><button class="btn-blue mb-1">Roadmap</button></a>
       
       <p class="header mb-2">Developer Portal</p>
-      <p>Develop an understanding of the fundamentals of XDC, get API reference, install and run XDC Blockchain, or view some frequently asked questions, it is a one stop for all developer related guides and references. Come and be a part of our dev community.</p>
+      <p>Develop an understanding of the fundamentals of XDC, get API reference, install and run XDC Blockchain, or view some frequently asked questions, it is one stop for all developer related guides and references. Come and be a part of our dev community.</p>
       <a href="developers.php"><button class="btn-outline mb-1">Developer Portal</button></a>
       
       <p class="header mb-2">Exchange Listing Resource</p>
-      <p>Details require to list Xinfin-XDCe with exchange</p>
+      <p>This section provides you with details required to list XinFin-XDCe with exchanges.</p>
       <a href="exchange-listing-resource.php"><button class="btn-blue mb-1">Exchange Listing Resource</button></a>
  	</div>
     

@@ -89,7 +89,7 @@ include('inc/header.php') ?>
             	<a href="http://www.kramaa.com" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
                 <a href="https://github.com/XinFinOrg/Kramaa" target="_blank"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
             </div>
-            <p>Kramaa is a Singapore based technology company converging latest technologies in blockchain, IoT, and analytics. The Company has created a blockchain based application ("The platform") for IoT identities linked to physical assets on Xinfin's proven hybrid blockchain architecture.</p>
+            <p>Kramaa is a Singapore based technology company converging latest technologies in blockchain, IoT, and analytics. The Company has created a blockchain based application ("The platform") for IoT identities linked to physical assets on XinFin's proven hybrid blockchain architecture.</p>
             <div class="btn-block mb-1">
             	<a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><button class="btn-outline-default"><i class="fa fa-youtube"></i> Watch Video</button></a>
             </div>
@@ -165,7 +165,7 @@ include('inc/header.php') ?>
             <div class="btn-block mb-1">
             	<a href="https://github.com/XinFinOrg/TurantPay" target="_blank"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
             </div>
-            <p>TurantPay is a remittance solution powered by XDC Protocol & Blockchain Technology.  TurantPay uses Xinfin's XDC protocol, which is an improved version of the SWIFT protocol used today amongst banks globally to execute bank transfers. TurantPay processes payments between financial institutions and payment service providers.</p>
+            <p>TurantPay is a remittance solution powered by XDC Protocol & Blockchain Technology.  TurantPay uses XinFin's XDC protocol, which is an improved version of the SWIFT protocol used today amongst banks globally to execute bank transfers. TurantPay processes payments between financial institutions and payment service providers.</p>
             <div class="btn-block mb-1">
             	<a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><button class="btn-outline-default"><i class="fa fa-youtube"></i> Watch Video</button></a>
             </div>

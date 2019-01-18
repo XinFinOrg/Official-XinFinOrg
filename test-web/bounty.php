@@ -26,7 +26,7 @@ include('inc/header.php') ?>
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <h1>Bounty: 10Million XDC</h1>
                         <p><strong>Self KYC compliant Delegated Proof of Stake (DPOS) Consensus on XDC Blockchain</strong></p>
-                        <p>Delegated Proof of Stake (DPOS) is the fastest, most efficient, most decentralized, and most flexible consensus model available. DPOS leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way. <strong>Self KYC</strong> feature added more enterpise usecases and regulator friendliness to the Public network.</p>
+                        <p>Delegated Proof of Stake (DPOS) is the fastest, efficient, decentralized, and flexible consensus model available. DPOS leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way. <strong>Self KYC</strong> feature adds more enterpise usecases and regulator friendliness to the Public network.</p>
                         <p><strong>This document describes the specification for a XinFin DPoS (Delegated Proof of Stake) network.</strong></p>
                         <p><strong>XinFin Spec</strong></p>                        
                         <ul>
@@ -66,7 +66,7 @@ include('inc/header.php') ?>
                         	<p>Users can stake their coins by sending them to the <span class="text-bg-grey">deposit</span> function on the staking contract.</p>
                             <ul>
                             	<li> The staked amount must be larger than an amount <span class="text-bg-grey">MIN_STAKE</span></li>
-                            	<li>T he user will have to wait for 2 epochs (epoch N+2) before being able to vote for a delegate.</li>
+                            	<li> The user will have to wait for 2 epochs (epoch N+2) before being able to vote for a delegate.</li>
                             </ul>
                             <li> <strong>Delegating</strong></li>
                             <ul>

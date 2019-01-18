@@ -90,7 +90,7 @@ include('inc/header.php') ?>
                         <p><strong>To set up a masternode, make sure your XDC protocol running node is publicly identified and has gone through the compliance process. Every Node Holder need to upload KYC document and this detail will be visible to the public network.</strong></p>
                         
                         <p class="sub-header mb-3">Why set up a masternode at all?</p>
-                        <p>It is necessary to set up a masternode to operate on XDC protocol is because masternodes make the decentralised blockchain network self-sustainable. Deploying masternode is conducive to trusted, scalable decentralised network infrastructure. Such an environment facilitates greater stability and reliability on the network.</p>
+                        <p>It is necessary to set up a masternode to operate on XDC protocol because masternodes make the decentralised blockchain network self-sustainable. Deploying masternode is conducive to trusted, scalable decentralised network infrastructure. Such an environment facilitates greater stability and reliability on the network.</p>
                         
                         <p class="sub-header mb-3">Functions of masternode</p>
                         <p>In DPoS blockchain environment, masternode concept is cardinal to the functioning. A masternode validates each (or segment of transaction depending upon UNL) transaction and is also responsible for writing the transaction onto the truth ledger: the blockchain. As a consequence, this makes decentralised governance of the network possible.</p>
@@ -98,7 +98,7 @@ include('inc/header.php') ?>
                         <p class="sub-header mb-3">Master node</p>
                         <ul>
                         	<li><strong>Masternodes</strong> are full-nodes that create, verify and validate new blocks in XinFin's platform.</li>
-                            <li><strong>mXDC</strong>:- Let's assume mXDC <strong>{mainNet-XDC}</strong> will be native crypto on XinFin dPOS network. mXDC will rewarded to MN Owners.</li>
+                            <li><strong>mXDC</strong>:- Let's assume mXDC <strong>{mainNet-XDC}</strong> will be native crypto on XinFin dPOS network. mXDC will be rewarded to MN Owners.</li>
                             <li><strong>Epoch</strong>:- We can use epoch instead of hard date to distribute incentive/rewards to masternode owners (1 epoch could be number of block, for example <strong>{1 Epoch =  888 Blocks}</strong></li>
                             <li><strong>Masternode Candidate:</strong> Any account can deposit X mXDC using the official on-chain governance d-app to complete KYC complaint to become a Masternode Candidate. <strong>X'nos</strong> mXDC deposit can earn staking rewards. A Candidate can resign, but the mXDC tokens will be locked for the next 30 days ( Let's assume we have new block in each 2 sec 1,296,000 blocks) after the resignation. </li>
                             <li><strong>Becoming a Masternode:</strong> A Candidate becomes a Masternode when he/she belongs to top 50 most voted Candidates in each epoch. A Masternode can resign, but the tokens  will be locked for the next 30 days after the resignation.</li>
@@ -119,7 +119,7 @@ include('inc/header.php') ?>
 <ul class="mb-2">
                          	<li>Reputation building within the network community.</li>
                             <li>Trust Factor enhances for your node particularly since network relies on your node.</li>
-                            <li>More Incentive gain with as your node pushes more transactions on network.</li>
+                            <li>More Incentive gain as your node pushes more transactions on network.</li>
                             <li>Private blockchain is capable of running its own use case.</li>
                          </ul>
        	    			 <p class="mb-1"><strong>Important:</strong> Max number of Master node allowed in the network is 5000.</p>
@@ -133,17 +133,17 @@ include('inc/header.php') ?>
                          <p>In XinFin, 'Validator Node'' are full nodes that incentivize node operators to perform the core consensus functions of running a DPoS based blockchain. Only Validator Node gets incentive to validate the transaction.</p>
                          <p class="mb-1"><strong>How to become a Validator Node?</strong></p>
                          <p>Under XinFin DPoS, Highest XDC Stakeholder 21 Node Act as Validator node rest node act as Backup node and Private node.</p>
-                         <p class="mb-1"><strong>If no transaction fees on network then how validator gets incentive?</strong></p>
+                         <p class="mb-1"><strong>If there is no transaction fees on network then how validator gets incentive?</strong></p>
                          <p>Network generate additional coin to provide incentive to validator node. Nos depends on network load and numbers of transaction process within the network.</p>
                          <p class="mb-1"><strong>How to get XDC ?</strong></p>
-                         <p>XDC listed with more then 20 Liquidity Exchanges, full list of exchange available at xinfin.io to Purchase XDC from open market to stake under masternode.</p>
+                         <p>XDC is listed with more then 20 Liquidity Exchanges. The full list of exchanges is available at <a href="https://xinfin.io" target="_blank">xinfin.io</a> so that you can purchase XDC from open market to stake under masternode.</p>
                          
                          <p class="header mb-3">Hands on guide: How to Setup Masternode</p>
        	    			 <p class="mb-1">There are two methods to choose from to set up the masternode:</p>
                          <div class="orderList">
           				 <ol>
                          	<li>DIY masternode environment set up</li>
-                            <li>Delegate masternode se up to third party service provider</li>
+                            <li>Delegate masternode set up to third party service provider</li>
                          </ol>
                          </div>
                          
