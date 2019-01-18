@@ -1,5 +1,5 @@
 <?php
-$title = "Thank You For Contacting Us | XinFin Blockchain Technology Company";
+$title = "Thank You| XinFin Blockchain Network";
 $desc = "Let your business cross the horizon by using XinFin’s fast and secure XDC tokens. Contact us Now.";
 
 include('inc/header.php') 
@@ -38,8 +38,8 @@ h1 {
 				<div class="text-center">
 					<div class="check">
 						<h1>Thank you!</h1>
-						<p class="text-center">Your query is received and we will contact you soon.</p>
-						<p class="back text-center"><a href="<?= base_url()?>"class="text-info"><i class="fa fa-arrow-left fa-lg" aria-hidden="true"></i>&nbsp;&nbsp;Back To Home</a></p>
+						<p class="text-center">Your query is received and we will contact you soon.In case of no communication please submit same form after 7 working days.</p>
+						<p class="back text-center"><a href="<utility.php>"class="text-info"><i class="fa fa-arrow-left fa-lg" aria-hidden="true"></i>&nbsp;&nbsp;Back to Utility page</a></p>
 					</div>
 				</div>
 			</div>
