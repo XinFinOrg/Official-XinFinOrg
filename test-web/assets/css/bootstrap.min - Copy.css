@@ -5533,7 +5533,7 @@ fieldset[disabled] .navbar-default .btn-link:hover {
 }
 
 .navbar-inverse {
-    /*background-color: #222;*/
+    background-color: #222;
     border-color: #080808
 }
 

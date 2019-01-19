@@ -82,11 +82,22 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/dcb-bank-logo.jpg" alt="tradefinex.org">
+            </div>
+            <h3 class="mb-2">DCB Bank Ltd. <span>Livenet</span></h3>
+            <p class="mb-3">DCB Bank Ltd., a private sector scheduled commercial bank selected XinFin as their blockchain partner to streamline Insurance systems using Blockchain.</p>
+            <p class="date">DCB Bank which was looking to deploy a blockchain solution selected XinFin to implement a secure technology solution to streamline their insurance process. And, since participants are operating stake driven nodes on XinFin hybrid blockchain, they have shared access to data from the very point the customer enters the cycle of policy issuance.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/kramaa-logo.jpg" alt="kramaa.com">
             </div>
-            <h3>Kramaa <span>Testnet</span></h3>
+            <h3>Kramaa <span>Livenet</span></h3>
             <div class="btn-block mb-1">
-            	<a href="http://www.kramaa.com" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            	<a href="https://www.kramaa.com" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
                 <a href="https://github.com/XinFinOrg/Kramaa" target="_blank"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
             </div>
             <p>Kramaa is a Singapore based technology company converging latest technologies in blockchain, IoT, and analytics. The Company has created a blockchain based application ("The platform") for IoT identities linked to physical assets on XinFin's proven hybrid blockchain architecture.</p>
@@ -101,47 +112,9 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/land-registry-logo.jpg" alt="tradefinex.org">
-            </div>
-            <h3>Land Registry <span>Testnet PoC</span></h3>
-            <div class="btn-block mb-1">
-            	<a href="http://land-registry.xinfin.org/" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
-                <a href="https://github.com/XinFinOrg/land-registry-mhgov" target="_blank"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
-            </div>
-            <p>XinFin has conceptualized end-to-end land registry record management solution using Blockchain. XinFin's objective is to access, verify and transfer ownership pertaining to the land records in real-time to reduce inefficiency in the current manual process.</p>
-            <div class="btn-block mb-1">
-            	<a href="http://land-registry.xinfin.org/docs/" target="_blank"><button class="btn-fill-default"><i class="fa fa-gear"></i> API</button></a>
-            	<a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><button class="btn-outline-default"><i class="fa fa-youtube"></i> Watch Video</button></a>
-            </div>
-            <p class="date">XinFin is currently working with regulatory financial institutions and government on developing land record solution. Blockchain based smart contract integration helps in fraud prevention and digital online database makes access, verification and transfer of title ownership effortless. With easy-to-use smart phone/web-app based workflow, XinFin is building seamless ecosystem of participants, banks and authorities for land registry record management.</p>
-        </div>
-    </div>
-    
-    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
-        <div class="usecase-box">
-            <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/iFactor-logo.jpg" alt="tradefinex.org">
-            </div>
-            <h3>iFactor <span>Testnet PoC</span></h3>
-            <div class="btn-block mb-1">
-            	<a href="http://infactor.io/" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
-                <a href="https://github.com/XinFinOrg/ifactor-poc" target="_blank"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
-            </div>
-            <p>iFactor is an online invoice factoring platfom where businesses/suppliers can factor their unpaid invoices. iFactor aims to improve security and remove operational inefficiencies in the invoice factoring process by using technology advancements such as blockchain and smart contracts.</p>
-            <div class="btn-block mb-1">
-            	<a href="http://ifactor.xinfin.org/docs" target="_blank"><button class="btn-fill-default"><i class="fa fa-gear"></i> API</button></a>
-            	<a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><button class="btn-outline-default"><i class="fa fa-youtube"></i> Watch Video</button></a>
-            </div>
-            <p class="date">iFactor enables Supplier, Buyer and Financers to be on the same platform visible to each other. In order to factor invoice, Supplier has to upload invoice details on the platform which need to be verified by Buyer. All approved invoices are visible to financers on the platform. Finacers can send factoring proposal. Supplier can accept proposal of their choice. All Users are provided with inbuilt XDC wallet with ERC20 standards. Discounting logic is prebuilt in the smart contract which calculates interest, prepayment and post payment based on factoring terms.</p>
-        </div>
-    </div>
-    
-    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
-        <div class="usecase-box">
-            <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/xinfin-blockchain-academy-logo.jpg" alt="tradefinex.org">
             </div>
-            <h3>XinFin Blockchain Academy <span>Testnet</span></h3>
+            <h3>XinFin Blockchain Academy <span>Livenet</span></h3>
             <div class="btn-block mb-1">
             	<a href="https://xinfinorg.github.io/Blockchain_Tutorial-website/index.html" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
                 <a href="https://github.com/XinFinOrg/Blockchain_Tutorial-website" target="_blank"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
@@ -173,14 +146,42 @@ include('inc/header.php') ?>
         </div>
     </div>
     
+    
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/dcb-bank-logo.jpg" alt="tradefinex.org">
+            	<img class="img-responsive" src="assets/images/utility/land-registry-logo.jpg" alt="tradefinex.org">
             </div>
-            <h3 class="mb-2">DCB Bank Ltd. <span>Livenet</span></h3>
-            <p class="mb-3">DCB Bank Ltd., a private sector scheduled commercial bank selected XinFin as their blockchain partner to streamline Insurance systems using Blockchain.</p>
-            <p class="date">DCB Bank which was looking to deploy a blockchain solution selected XinFin to implement a secure technology solution to streamline their insurance process. And, since participants are operating stake driven nodes on XinFin hybrid blockchain, they have shared access to data from the very point the customer enters the cycle of policy issuance.</p>
+            <h3>Land Registry <span>Testnet PoC</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="http://land-registry.xinfin.org/" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
+                <a href="https://github.com/XinFinOrg/land-registry-mhgov" target="_blank"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
+            </div>
+            <p>XinFin has conceptualized end-to-end land registry record management solution using Blockchain. XinFin's objective is to access, verify and transfer ownership pertaining to the land records in real-time to reduce inefficiency in the current manual process.</p>
+            <div class="btn-block mb-1">
+            	<a href="http://land-registry.xinfin.org/docs/" target="_blank"><button class="btn-fill-default"><i class="fa fa-gear"></i> API</button></a>
+            	<a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><button class="btn-outline-default"><i class="fa fa-youtube"></i> Watch Video</button></a>
+            </div>
+            <p class="date">XinFin is currently working with regulatory financial institutions and government on developing land record solution. Blockchain based smart contract integration helps in fraud prevention and digital online database makes access, verification and transfer of title ownership effortless. With easy-to-use smart phone/web-app based workflow, XinFin is building seamless ecosystem of participants, banks and authorities for land registry record management.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/iFactor-logo.jpg" alt="tradefinex.org">
+            </div>
+            <h3>InFactor <span>Testnet PoC</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="http://infactor.io/" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
+                <a href="https://github.com/XinFinOrg/ifactor-poc" target="_blank"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
+            </div>
+            <p>InFactor is an online invoice factoring platfom where businesses/suppliers can factor their unpaid invoices. InFactor aims to improve security and remove operational inefficiencies in the invoice factoring process by using technology advancements such as blockchain and smart contracts.</p>
+            <div class="btn-block mb-1">
+            	<a href="http://ifactor.xinfin.org/docs" target="_blank"><button class="btn-fill-default"><i class="fa fa-gear"></i> API</button></a>
+            	<a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><button class="btn-outline-default"><i class="fa fa-youtube"></i> Watch Video</button></a>
+            </div>
+            <p class="date">InFactor enables Supplier, Buyer and Financers to be on the same platform visible to each other. In order to factor invoice, Supplier has to upload invoice details on the platform which need to be verified by Buyer. All approved invoices are visible to financers on the platform. Finacers can send factoring proposal. Supplier can accept proposal of their choice. All Users are provided with inbuilt XDC wallet with ERC20 standards. Discounting logic is prebuilt in the smart contract which calculates interest, prepayment and post payment based on factoring terms.</p>
         </div>
     </div>
     

@@ -84,7 +84,7 @@ include('inc/header.php') ?>
 					<div class="content-box">
                         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
                             <!--<h1 class="text-transform-none" style="text-align:left;">XinFin Public DPOS Consensus</h1>-->
-                            <h3>The Fastest, The Efficient, The Decentralized and The Flexible Consensus is Here!</h3>
+                            <h3>The Fastest, Efficient, Decentralized and Energy Efficient Consensus is Here!</h3>
                         </div>
                         <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
                             <p>Delegated Proof of Stake (DPoS) leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way.</p>
@@ -150,8 +150,8 @@ include('inc/header.php') ?>
                         </div>
                         <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
                             <a href="https://github.com/XinFinorg" target="_blank"><button class="btn-fill-default">Explore GitHub</button></a>
-                            <a href="resources.php" target="_blank"><button class="btn-outline-default">Learn More</button></a>
-                            <a href="developers.php" target="_blank"><button class="btn-fill-default">For Developers</button></a>
+                            <a href="https://mycontract.co" target="_blank"><button class="btn-outline-default">Create Smart Contract</button></a>
+                            <a href="https://xinfin.network" target="_blank"><button class="btn-fill-default">Network Status</button></a>
                         </div>
 					</div>
                 </div>                              
@@ -179,6 +179,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
                             <a href="xdc-utility.php"><button class="btn-blue">Explore More</button></a>
+                            <a href="#"><button class="btn-outline">Download XinFin Wallet</button></a>
                         </div>
 					</div>
                 </div>
@@ -241,7 +242,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
                             <a href="xdc-utility.php"><button class="btn-blue">Explore APIs</button></a>
-                            <a href="bounty.php"><button class="btn-outline">Bug Bounty Program</button></a>
+                            <a href="bounty.php"><button class="btn-outline">Bounty Program</button></a>
                         </div>
 					</div>
                 </div>
@@ -267,14 +268,14 @@ include('inc/header.php') ?>
                 
                 <div class="col-md-6">
 					<div class="content-box">
-                    <!--<div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-						<h1 class="text-transform-none" style="text-align:left;">Setting up MasterNodes</h1>
-					</div>-->
+                    <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+						<h3>Stake XDC and Setup Masternodes</h3>
+					</div>
 					<div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
 						<p>Deploying KYC compliant masternodes on XDC Protocol makes XinFin Blockchain network more trusted for enterprise and financial institutions adoption.</p>
 					</div>
                     <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
-            			<a href="setup-masternode.php"><button class="btn-blue">Setup Masternode</button></a>
+            			<a href="setup-masternode.php"><button class="btn-blue">Explore Masternode</button></a>
             		</div>
                     </div>
 				</div>                
