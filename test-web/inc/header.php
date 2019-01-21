@@ -181,8 +181,8 @@
         <div class="container">
           <div class="navbar-header">
             <a class="navbar-brand" href="index.php">
-              <img src="assets/images/logo-white.svg" class="logo-white img-responsive" width="60">
-              <img src="assets/images/logo-sticky.svg" class="logo-sticky img-responsive " width="60">
+              <img src="assets/images/logo-white.png" class="logo-white img-responsive" width="60">
+              <img src="assets/images/logo-dark.png" class="logo-sticky img-responsive " width="60">
             </a>
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbarNavDropdown" aria-expanded="false"
               aria-controls="#navbarNavDropdown">
