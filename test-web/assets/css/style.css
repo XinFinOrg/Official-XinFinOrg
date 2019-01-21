@@ -3182,8 +3182,10 @@ width:115%;
    margin-left: 35px;
 }
 .navbar-inverse .navbar-toggle, .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
-    background-color: #112b3c;
-    border: 1px solid #fff;
+    /*background-color: #112b3c;
+    border: 1px solid #fff;*/
+	background: none;
+	border:none;
 }
   .white-button a {
     margin:0 !important;
@@ -4030,4 +4032,6 @@ margin-left:20px;
 .navbar-header .navbar-brand .logo-sticky{display:none}
 .sticky .navbar-header .navbar-brand .logo-sticky{display:inline}
 .sticky .navbar-header .navbar-brand .logo-white{display:none!important;}
+.sticky.navbar-inverse .navbar-toggle .icon-bar{background-color: #096db0;}
+.navbar-inverse .navbar-toggle{background-color:none!important;}
 /**/

@@ -301,24 +301,29 @@ include('inc/header.php') ?>
     </div>
     <div class="row" style="margin-top:30px;">
       <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
+          <a href="https://www.adgm.com/mediacentre/press-releases/abu-dhabi-global-market-admits-3rd-reglab-cohort-with-more-uae-fintech-firms/" target="_blank"><img src="assets/images/home/partners/adgm-logo.png" alt="ADGM" class="img-responsive logoc"></a>
+      </div>
+        
+       <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.6s">
           <a href="https://blog.circle.com/2018/12/19/usdc-ecosystem-spotlight-idcm-crypto-exchange-along-with-alpha-wallet-changenow-loopring-salt-platform-and-xinfin-the-latest-companies-to-support-usdc/" target="_blank"><img src="assets/images/home/partners/circle-logo.png" alt="Circle" class="img-responsive logoc"></a>
       </div>
-      <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.6s">
+      
+      <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.7s">
           <a href="https://www.tp.edu.sg/about-tp/media-centre/press-releases/tp-infotech-day-2018" target="_blank"><img src="assets/images/home/partners/temasek-logo.png" alt="Temasek" class="img-responsive logoc"></a>
       </div>
-      <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.7s">
+      <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.8s">
           <a href="https://www.prweb.com/releases/2018/01/prweb15141717.htm" target="_blank"><img src="assets/images/home/partners/enterprise-logo.png" alt="Enterprise" class="img-responsive logoc"></a>
       </div>
-      <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.8s">
+      <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.9s">
           <a href="https://www.ramco.com/newsroom/press/releases/feb-18/ramco-partners-with-xinfin-to-provide-blockchain-solutions/" target="_blank"><img src="assets/images/home/partners/ramco-logo.png" alt="Ramco" class="img-responsive logoc"></a>
       </div>
-      <div class="col-md-3 col-sm-4 col-xs-6 col-md-offset-1 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.9s">
+      <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.9s">
           <a href="#" target="_blank"><img src="assets/images/home/partners/indsoft-logo.png" alt="indsoft" class="img-responsive logoc"></a>
       </div>
-      <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1s">
+      <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.1s">
           <a href="http://www.asianage.com/technology/in-other-news/170118/xinfin-unveils-blockchain-powered-tradefinex-platform-with-indias-assocham.html" target="_blank"><img src="assets/images/home/partners/assocham-logo.png" alt="Assocham" class="img-responsive logoc"></a>
       </div>
-      <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.1s">
+      <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.2s">
           <a href="https://medium.com/xinfin/karan-bharadwaj-cto-xinfin-speaks-at-blockchain-and-businesses-event-organized-by-nanyang-29f780daf989
 " target="_blank"><img src="assets/images/home/partners/nanyang-logo.png" alt="Nanyang" class="img-responsive logoc"></a>
       </div>
@@ -391,8 +396,8 @@ include('inc/header.php') ?>
           <a href="https://www.ccn.com/xinfin-ico-enters-second-week-announces-institutional-partnerships/?ref=coinwisdom.org" target="_blank"><img src="assets/images/home/media/ccn-logo.png" alt="CCN" class="img-responsive"></a>
         </div>
         <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="2.2s">
-          <a href="https://www.adgm.com/mediacentre/press-releases/abu-dhabi-global-market-admits-3rd-reglab-cohort-with-more-uae-fintech-firms/" target="_blank"><img src="assets/images/home/media/adgm-logo.png" alt="ADGM" class="img-responsive"></a>
-        </div>        
+          <a href="https://www.prnewswire.com/news-releases/xinfin-kick-starts-blockchain-engineering-and-business-development-lab-at-university-of-california-berkeley-usa-685819171.html" target="_blank"><img src="assets/images/home/media/prncision-logo.png" alt="PR Newswire" class="img-responsive"></a>
+        </div>
       </div>
     </div>
   </div>

@@ -191,6 +191,7 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
+      
           </div>
           <div class="collapse navbar-collapse" id="navbarNavDropdown" style="float:left">
             <ul class="main-menu cf nav navbar-nav navbar-right">
@@ -199,7 +200,7 @@
               </li>
               <!--<li class="nav-item"><a href="works.php">How it works</a></li> -->
               <li class="nav-item">
-                <a href="xdc-protocol.php">XDC Network</a>
+                <a href="https://xinfin.network/" target="_blank">XDC Network</a>
               </li>
               <li class="nav-item">
                 <a href="xdc-utility.php">XDC/XDCE Utility</a>
