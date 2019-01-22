@@ -6,7 +6,7 @@
 			<p><span>About Us</span><br/>
 			<a href="about.php">About Team</a><br/>
 			<a href="xdc-xdce.php">XDC/XDCE</a><br/>
-			<a href="ewallet.php" target="_blank">EWallet</a></p>
+			<a href="https://www.xdcwallet.com" target="_blank">EWallet</a></p>
 			</div>
 			<div class="col-md-3 col-sm-12 col-xs-12">
 			<p><span>Support</span><br/>
