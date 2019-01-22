@@ -50,13 +50,13 @@ include('inc/header.php') ?>
       <p>This section acquaints developers with how to create and customize your XDC01 Blockchain private chain within minutes by installing Docker Nodes.</p>
       <a href="https://github.com/XinFinOrg/XDC01-docker-Nnodes" target="_blank"><button class="btn-outline mb-1">Setup XinFin Node</button></a>
       
-      <p class="header mb-2">XinFin Network Status (testnet)</p>
+      <p class="header mb-2">XinFin Network Status (Testnet)</p>
       <p>XinFin TestNet helps you understand how many nodes are hosted on XinFin Network, and provides a piece of detailed information such as their up-time, number of active nodes, gas price, gas limit etc. in a visualised manner.</p>
-      <a href="http://status.xinfin.org" target="_blank"><button class="btn-blue mb-1">XinFin Network Status (testnet)</button></a>
+      <a href="https://xinfin.network/" target="_blank"><button class="btn-blue mb-1">XinFin Network Status (testnet)</button></a>
       
       <p class="header mb-2">XinFin Network Status (Live)</p>
       <p>XinFin LiveNet helps you understand how many nodes are hosted on XinFin Network, and provides a piece of detailed information such as their up-time, number of active nodes, gas price, gas limit etc. in a visualised manner.</p>
-      <a href="https://status.xinfin.org/" target="_blank"><button class="btn-outline mb-1">XinFin Network Status (Live)</button></a>
+      <a href="https://xinfin.network/" target="_blank"><button class="btn-outline mb-1">XinFin Network Status (Live)</button></a>
       
       <p class="header mb-2">XDC Explorer</p>
       <p>XDC Explorer powered by XinFin is an explorer for XDC tokens and brings you a synopsis of the recent XDC transactions that took place recently.</p>
