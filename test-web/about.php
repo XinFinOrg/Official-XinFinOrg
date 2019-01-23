@@ -5,9 +5,7 @@ $desc = "We as an organization are on a mission to improve the overall deficit i
 include('inc/header.php') ?>
 
 <link rel='stylesheet' href='assets/css/app-new.css' type='text/css' media='all' />
-<section id="banner" style=" background: url('assets/images/xdc-protocol-banner-image2.png') #112b3c;
-     background-repeat: no-repeat;
-    background-position: bottom right;">
+<section id="banner" style=" background: url('assets/images/xdc-protocol-banner-image2.png') #112b3c;background-repeat: no-repeat;background-position: bottom right;">
   <!--  <div id="particle-canvas" ></div> -->
   <div class="container">
     <div class="row">
@@ -884,7 +882,7 @@ include('inc/header.php') ?>
           </div>
         </div>
 
-      </div>-->
+      </div>
 
     </div>
 

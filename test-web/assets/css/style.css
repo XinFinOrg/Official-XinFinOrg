@@ -1,4 +1,4 @@
-@font-face {
+﻿@font-face {
     font-family: latothin;
     src: url('../fonts/LatoLatin-Thin.woff');
 }
@@ -99,7 +99,7 @@ h4
 }
 .sticky {
 	background-color:#FFFFFF!important;
-	box-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
+	box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);
 	/*padding: 10px 0 20px 0 !important;padding: 5% 0;*/
 }
 .navbar-inverse .navbar-nav>li>a {

@@ -188,11 +188,12 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/airnetz-logo.jpg" alt="tradefinex.org">
+            	<img class="img-responsive" src="assets/images/utility/airnetz-logo.jpg" alt="airnetzcharter.com">
             </div>
             <h3>Airnetz <span>Livenet Pilot</span></h3>
             <div class="btn-block mb-1">
             	<a href="http://airnetzcharter.com" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
+                <a href="https://github.com/airnetzcharter/GlobalDistSystem" target="_blank"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
             </div>
             <p class="mb-3">From Q2 of 2019, the global distribution engine for General aviation powered by Airnetzcharter.com will enable XDC Payment relay bridges and rate stability throught its instant swap with USDC. AirnetzCharter.com GDS System hosts over 5,000 Aircraft and 25,000 airport worldwide. The intergration and hosting with XDC Protocol will help Airnetzcharter.com and its user facilitate life saving instant medical evacuation and air ambulance on short notice without having to worry about delayed financial settlement.</p>
             <p class="date"></p>
