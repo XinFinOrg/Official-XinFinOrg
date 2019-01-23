@@ -1,4 +1,7 @@
-﻿@font-face {
+﻿@charset "utf-8";
+/* CSS Document */
+
+@font-face {
     font-family: latothin;
     src: url('../fonts/LatoLatin-Thin.woff');
 }
@@ -415,6 +418,7 @@ font-family: sourcecode;
      border-top: 1px solid #002550;
  }
 
+
  #team span
 
  {
@@ -654,6 +658,7 @@ hr {
   left: -0.5%;
 }
 .multi-item-carousel1 .carousel-control.right{
+
   right: -0.5%;
 }
 
