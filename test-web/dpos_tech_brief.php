@@ -9,7 +9,7 @@ include('inc/header.php') ?>
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12 bannertext">
                 <h1>XinFin DPoS Consensus</h1>
-                <p>XinFin is launching DPoS-Consensus! We Invite Technical Community to Contribute towards the Enhancement of <strong>DPoS Consensus !</strong><br/><br/><br/><br/></p> 
+                <p>XinFin is launching DPoS-Consensus! We Invite Technical Community to Contribute towards the Enhancement of <strong>DPoS Consensus</strong><br/><br/><br/><br/></p> 
             </div>    
         </div>
     </div>
@@ -22,7 +22,7 @@ include('inc/header.php') ?>
             <div id="network" class="tab-pane fade in active">
                 <div class="row" style="margin-top:0%;padding-bottom:0px;">
                     <div class="col-md-12 col-sm-12 col-xs-12">
-                        <h1>Bounty: 10Million XDC</h1>
+                        <h1>XinFin Delegated Proof of Stake (DPOS) Consensus</h1>
                         <p><strong>Self KYC compliant Delegated Proof of Stake (DPOS) Consensus on XDC Blockchain</strong></p>
                         <p>Delegated Proof of Stake (DPOS) is the fastest, efficient, decentralized, and flexible consensus model available. DPOS leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way. <strong>Self KYC</strong> feature adds more enterpise usecases and regulator friendliness to the Public network.</p>
                         <p><strong>This document describes the specification for a XinFin DPoS (Delegated Proof of Stake) network.</strong></p>
@@ -93,7 +93,7 @@ include('inc/header.php') ?>
                         </ul>
                         
                         <p><strong>KYC:</strong></p>
-                        <p>We would like to add Know your customer (KYC) identification as its falls under the responsibility of financial institution and/or regulated company. Validator needs to upload self KYC document and this document will be visible on open public network.</p>
+                        <p>Masternode Holder need to Add Know your customer (KYC) identification as its falls under the responsibility of financial institution and/or regulated company. Validator needs to upload self KYC document and this document will be visible on open public network.</p>
                         
                         <p class="sub-header">Choosing Validators</p>
                         <p>The problem is : how to choose L Validators for a certain epoch N?</p>
