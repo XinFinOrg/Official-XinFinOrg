@@ -1,5 +1,5 @@
 <?php 
-$title = "Exchange Listing Resource | Blockchain Technology Company - XinFin";
+$title = "Exchange Listing Resource | Blockchain Technology - XinFin";
 $desc = "Companies and individuals who are looking for real-time cross border financial transactions can use XinFin's Blockchain platform backed integrated wallet solutions.";
 
 include('inc/header.php') ?>
@@ -10,10 +10,7 @@ include('inc/header.php') ?>
         <div class="row">
             <div class="bannertext">
                 <h1>Exchange Listing Resource</h1>
-                <p class="mb-2">Companies and individuals who are looking for real-time cross border financial transactions can use XinFin's Blockchain platform backed integrated wallet solutions. Supported by an advanced XDC01 protocol, this wallet solution will help you and your business to conduct cross-border financial transactions in a secured environment.</p>
-                <p class="mb-2">Fed up with the muddle of transferring funds via the regular fund transferring system? Thinking of how to bypass the hurdles? XinFin brings a proper and reliable solution.</p>
-                <p>So, if you are skeptical about the authenticity and the hassles of a regular international fund transfer then get a XDC token and make your life much easier. Let your business cross the horizon by using XinFin's fast and secure XDC tokens.</p>
-            </div>
+                </div>
         </div>
     </div>
 </section>
