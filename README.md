@@ -1,2 +1,2 @@
 # website-v2.0
-The re-hauled XinFin Organisation website.
+XinFin.org Updated Website. Feel free to Contribute to the Network and Content. 
