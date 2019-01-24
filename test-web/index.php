@@ -1,5 +1,5 @@
 <?php 
-$title = "Enterprise Ready Hybrid Blockchain provides cross chain interoperability";
+$title = "Enterprise Ready Hybrid Blockchain";
 $desc = "XinFin is a global open source Hybrid Blockchain protocol/platform with independent community contributors comprising of long term backers, network utility and tech developers that help build various enterprise use cases.";
 
 include('inc/header.php') ?>
