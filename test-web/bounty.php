@@ -45,7 +45,7 @@ include('inc/header.php') ?>
 <p style="padding-left: 30px;">Task 1: DPoS Consensus Development</p>
 <p style="padding-left: 30px;">Too much energy consumption makes PoW consensus non practical and not suitable for real world system. We need to find out other innovative consensus where transaction and network remains de-centralised but without much energy consumption. Restriction numbers of node make its more centralized while large number of nodes makes the system very slow. Many industry experts are trying out different consensus like DPoS. We need to find out innovative solution to replace PoW Consensus with other Consensus which gives more efficiency, speed and less energy consumption.</p>
 <p style="padding-left: 30px;">Bounty : 10Million XDC</p>
-<p style="padding-left: 30px;">More detail at: <a href="https://XinFin.org/bounty.php">https://XinFin.org/bounty.php</a>&nbsp;</p>
+<p style="padding-left: 30px;">More detail at: <a href="https://XinFin.org/techbounty.php">https://XinFin.org/techbounty.php</a>&nbsp;</p>
 <p><strong>Bounty Claim Form:</strong> <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill">https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill</a></p>
 <p>&nbsp;</p>
 <p><strong>Task 2: XDCE Token Staking Function.</strong></p>
