@@ -57,7 +57,7 @@ include('inc/header.php') ?>
                             <p>eXchange inFinite (XinFin) is Delegated Proof of Stake Consensus (DPoS), Hybrid Relay Bridges, Instant Block Finality and Interoperable ISO20022 messaging standard make XinFin's Hybrid Architecture Developer friendly.</p>
                         </div>
                         <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
-                            <a href="developers.php"><button class="btn-blue">Developer Resource</button></a>
+                            <a href="developers"><button class="btn-blue">Developer Resource</button></a>
                         </div>
 					</div>
                 </div>
@@ -179,7 +179,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
                             <a href="xdc-utility.php"><button class="btn-blue">Explore More</button></a>
-                            <a href="#"><button class="btn-outline">Download XinFin Wallet</button></a>
+                            <a href="#">https://XinFin.network/<button class="btn-outline">Download XinFin Wallet</button></a>
                         </div>
 					</div>
                 </div>
@@ -213,7 +213,7 @@ include('inc/header.php') ?>
                             <p>Get started without any delay with developer-friendly tools and guides.</p>
                         </div>
                         <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
-                            <a href="developers.php"><button class="btn-blue">Build With XinFin</button></a>
+                            <a href="developers"><button class="btn-blue">Build With XinFin</button></a>
                             <a href="https://github.com/XinFinOrg/Open-Hackathon" target="_blank"><button class="btn-outline">Online Hackathon</button></a>
                         </div>
 					</div>
