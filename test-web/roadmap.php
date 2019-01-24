@@ -189,12 +189,12 @@ include('inc/header.php') ?>
         </li>
         <li>
 			<div>
-				<time>Q1</time> Rollout of 3 Online courses (with online certification) from XinFin Blockchain Academy
+				<time>Q1</time> Rollout 3 Online courses (with online certification) from XinFin Blockchain Academy
 			</div>
         </li>
         <li>
 			<div>
-				<time>Q2</time> TradeFinex 1st regulator and institution round table meeting happens at ADGM
+				<time>Q2</time> TradeFinex 1st regulator and institution round table meeting schedule at ADGM
 			</div>
         </li>
         <li>
