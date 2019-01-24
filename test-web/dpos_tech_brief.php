@@ -9,7 +9,7 @@ include('inc/header.php') ?>
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12 bannertext">
                 <h1>XinFin DPoS Consensus</h1>
-                <p>XinFin is launching DPoS-Consensus! We Invite Technical Community to Contribute towards the Enhancement of <strong>DPoS Consensus</strong><br/><br/><br/><br/></p> 
+                <p>XinFin DPoS-Consensus! We Invite Technical Community to Contribute towards the Enhancement of <strong>DPoS Consensus</strong><br/><br/><br/><br/></p> 
             </div>    
         </div>
     </div>
@@ -159,10 +159,11 @@ In the contract, there will be a <span class="text-bg-grey">reportBenign</span> 
                         <div class="references-box">
                         <p class="sub-header">Consensus Related References</p>
                         <ul>
-                        	<li><a href="https://github.com/tomochain/tomochain/blob/master/consensus/posv/posv.go" target="_blank">TomoChain</a> (DPoS Code base in Golang)</li>
+                        	<li><a href="https://wiki.parity.io/Aura" target="_blank">Parity Tech Aura - Authority Round </a></li>
+				<li><a href="https://github.com/tomochain/tomochain/blob/master/consensus/posv/posv.go" target="_blank">TomoChain</a> (DPoS Code base in Golang)</li>
                             <li><a href="https://github.com/EOSIO" target="_blank">EOS</a></li>
-							<li><a href="https://github.com/tronprotocol/java-tron" target="_blank">TRON</a></li>
-							<li><a href="https://github.com/ethereum/go-ethereum/tree/master/consensus/ethash" target="_blank">Ethereum's Proof of Work ( ethash )</a></li>
+				<li><a href="https://github.com/tronprotocol/java-tron" target="_blank">TRON</a></li>
+				<li><a href="https://github.com/ethereum/go-ethereum/tree/master/consensus/ethash" target="_blank">Ethereum's Proof of Work ( ethash )</a></li>
                             <li><a href="https://github.com/ethereum/go-ethereum/tree/master/consensus/clique" target="_blank">Ethereum's Proof of Authority ( clique )</a></li>
                             <li><a href="https://github.com/ethereum/casper" target="_blank">Ethereum's Proof of Stake ( casper )</a></li>
                             <li><a href="https://github.com/tomochain/tomochain" target="_blank">Proof of Stake-Velocity ( POSV )</a></li>
