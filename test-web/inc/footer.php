@@ -21,7 +21,7 @@
                 <!--<p><span>More..</span><br/>-->
                 <p>
 				<a href="setup-masternode.php">Setup MasterNode</a><br/>
-                <a href="faq.php">Read our FAQ</a><br/>
+                <a href="faq.php">Read FAQ</a><br/>
                 <a href="xdc-utility.php">XDC/XDCe Utility</a><br/>
                 <a href="bounty.php">Community Bounty Program</a><br/>    
 				<a href="https://github.com/XinFinorg">Source Code on GitHub</a><br/>
@@ -32,7 +32,7 @@
                 <h1>Other Links</h1>
                 <!--<p><span>Other Links</span><br/>-->
                 <p>
-                <a href="download.php">Download our Logo</a><br/>                
+                <a href="download.php">Download Logo</a><br/>                
                 <a href="compliance.php">Compliance</a><br/>
                 <a href="privacy.php">Privacy Policy</a><br/>
 				<a href="disclaimer.php">Disclaimer</a><br/>
