@@ -206,7 +206,7 @@
                 <a href="xdc-utility.php">XDC/XDCE Utility</a>
               </li>
               <li class="nav-item">
-                <a href="developers">Developer Portal</a>
+                <a href="https://docs.xinfin.org/">Developer Portal</a>
               </li>              
               <li class="nav-item">
                 <a href="resources.php">Resource</a>
