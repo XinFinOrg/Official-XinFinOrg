@@ -8,8 +8,11 @@ Combining the power of Public & Private blockchains with Interoperable Smart Con
 # Development Process 
 
 Developer Resource, Tools, Documentation, Helpfile Link : https://github.com/XinFinOrg/Developer-Resource/ 
+
 Technical White paper: https://www.xinfin.org/docs/whitepaper-tech.pdf 
+
 Business White paper: https://www.xinfin.org/docs/whitepaper-business.pdf
+
 
 # Contribution
 
