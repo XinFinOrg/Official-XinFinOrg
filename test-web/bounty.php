@@ -10,7 +10,7 @@ include('inc/header.php') ?>
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12 bannertext">
                 <h1>Bounty Program for Developer</h1>
-                <p>XinFin is launching a Bounty Program for Community! We Invite our Community and all bug bounty hunters to build <strong>DPoS Consensus !</strong><br/><br/><br/><br/></p> 
+                <p>XinFin is launching a Bounty Program for Community! Contribute and Claim XDC. <br/></p> 
             </div>    
         </div>
     </div>
