@@ -92,7 +92,7 @@ include('inc/header.php') ?>
       
       <p class="header mb-2">Developer Portal</p>
       <p>Develop an understanding of the fundamentals of XDC, get API reference, install and run XDC Blockchain, or view some frequently asked questions, it is one stop for all developer related guides and references. Come and be a part of our dev community.</p>
-      <a href="developers.php"><button class="btn-outline mb-1">Developer Portal</button></a>
+      <a href="https://docs.xinfin.org/"><button class="btn-outline mb-1">Developer Portal</button></a>
       
       <p class="header mb-2">Exchange Listing Resource</p>
       <p>This section provides you with details required to list XinFin-XDCe with exchanges.</p>
