@@ -30,8 +30,8 @@ include('inc/header.php') ?>
                         
                         <p class="mt-3">Know more about <a href="https://www.iso20022.org" target="_blank">ISO20022 Standard</a>: Disjoint systems and data can now interact using the XDC Protocol and enable themselves with smart-contracts for any kind of business logic thereby eliminating any manual intervention or intermediary driven communication between any two parties.</p>
                         
-                        <p>[[Diagram that shows how the messaging between any two systems can be captured, converted to ISO20022 messaging standard with a transaction hash of Private Network and Public network added to Supplementary Data Field in ISO20022 Message]]To enable cross-platform interaction between your enterprise with any external system with limited data and transaction transparency, you can choose from the following tools.</p>
                         
+                    
                         <p>To enable cross-platform interaction between your enterprise with any external system with limited data and transaction transparency, you can choose from the following tools.</p>                      
                         
                         <div class="references-box">
