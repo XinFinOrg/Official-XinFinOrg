@@ -44,7 +44,7 @@ include('inc/header.php') ?>
       
       <p class="header mb-2">XinFin Consensus</p>
       <p>This section talks about XinFin Public DPoS Consensus that leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way. The Self KYC feature added in XinFin DPoS makes it more enterprise and regulator friendly.</p>
-      <a href="xdc-protocol.php"><button class="btn-blue mb-1">XinFin Consensus</button></a>
+      <a href="xinfin-consensus.php"><button class="btn-blue mb-1">XinFin Consensus</button></a>
       
       <p class="header mb-2">Setup XinFin Node</p>
       <p>This section acquaints developers with how to create and customize your XDC01 Blockchain private chain within minutes by installing Docker Nodes.</p>
