@@ -1,5 +1,5 @@
 # website-v2.0
-http://XinFin.org 
+https://XinFin.org 
 
 # What is XinFin?
 Enterprise Ready Hybrid Blockchain For Global Trade and Finance
@@ -7,7 +7,7 @@ Combining the power of Public & Private blockchains with Interoperable Smart Con
 
 # Development Process 
 
-Click here for Developer Resource : https://github.com/XinFinOrg/Developer-Resource/ 
+Developer Resource, Tools, Documentation, Helpfile Link : https://github.com/XinFinOrg/Developer-Resource/ 
 
 # Contribution
 
