@@ -16,7 +16,7 @@ include('inc/header.php') ?>
           <div style="display:block;position:relative">
             <div>
               <h1 style="text-align:left;" class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">Enterprise Ready Hybrid Blockchain For Global<br/>Trade and Finance</h1>
-              <p style="text-align: left;text-transform:none;" class="wow fadeInDown" data-wow-duration="0.7s" data-wow-delay="0.7s">Combining the power of Public & Private blockchains with Interoperable Smart Contract.</p>
+              <p style="text-align: left;text-transform:none;" class="wow fadeInDown" data-wow-duration="0.7s" data-wow-delay="0.7s">Combining the power of Public & Private blockchains with Interoperable Smart Contracts</p>
               <!--<div class="banner-btn-play">
               <a href="#" data-toggle="modal" data-target="#myModal">
                 <div class="play icon-btn modal-btn" data-type="video" data-key="welcome_video">
