@@ -174,8 +174,9 @@ include('inc/header.php') ?>
                             <h3>XDC/XDCe Utility available here. Stake XDC/XDCe & Start Using</h3>
                         </div>
                         <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                            <p>XinFin Digital Contract (XDC) is the Digital Asset Powering XinFin Network</p>
                             <p>Explore Apps, Demo versions, APIs and GitHubs all at one place.</p>
-                            <p>Have got your own application? List it!</p>
+			    <p>Have got your own application? List it!</p>
                         </div>
                         <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
                             <a href="xdc-utility.php"><button class="btn-blue">Explore More</button></a>
