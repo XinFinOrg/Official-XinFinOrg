@@ -15,7 +15,7 @@ include('inc/header.php') ?>
         <div class="col-md-8">
           <div style="display:block; position: relative">
             <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-              <h1 style="text-align: left;">Interoperability through Hybrid State<br/>with relay bridges and contracts to external liquidity, Interoperate with any DAPP on the external chain & Asset Exchange</h1>
+              <h1 style="text-align: left;">Enterprise Ready Hybrid Blockchain For Global<br />Trade and Finance</h1>
               <p style="text-align: left; text-transform: none; ">
                 <!-- Use the XDC token on the public state that is identical in functionality to public blockchains. Or set up private networks to run enterprise use cases. -->Combining the power of Public and Private blockchains.</p>
               <a href="#" data-toggle="modal" data-target="#myModal">
@@ -54,13 +54,11 @@ include('inc/header.php') ?>
       <div class="row">
         <div class="col-md-5">
           <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-            <h1 style="text-align: left; ">The XDC Hybrid
-              <br/>Blockchain</h1>
+            <h1 style="text-align: left;">Enterprise Ready Hybrid Blockchain For Global<br/> Trade and Finance</h1>
           </div>
           <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
             <p class="largepara">
-              <!-- XinFin is a blockchain technology company. -->We have designed and developed the world’s first
-              <br/> hybrid blockchain.</p>
+              <!-- XinFin is a blockchain technology company. -->Combining the power of Public and Private blockchains.</p>
             <!-- Use the XDC utility token on the public state or set up private networks to run enterprise use cases -->
           </div>
         </div>
