@@ -179,7 +179,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
                             <a href="xdc-utility.php"><button class="btn-blue">Explore More</button></a>
-                            <a href="#">https://XinFin.network/<button class="btn-outline">Download XinFin Wallet</button></a>
+                            <a href="#"><button class="btn-outline">Download XinFin Wallet</button></a>
                         </div>
 					</div>
                 </div>
