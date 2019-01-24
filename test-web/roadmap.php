@@ -1,5 +1,5 @@
 <?php 
-$title = "Roadmap | XinFin";
+$title = "Roadmap 2019 | XinFin";
 $desc = "XinFin use the XDC token on the public state that is identical in functionality to public blockchains. Or set up private networks to run enterprise use cases.";
 
 include('inc/header.php') ?>
@@ -154,17 +154,17 @@ include('inc/header.php') ?>
         </li>
         <li>
 			<div>
-				<time>Q1</time> Rollout of DPoS TestNet 
+				<time>Q1</time> Rollout of DPoS Network (TestNet) 
 			</div>
         </li>
         <li>
 			<div>
-				<time>Q1</time> Rollout of Decentralised Wallet TestNet
+				<time>Q1</time> Rollout of Standardize Dapps Wallet (TestNet)
 			</div>
         </li>
         <li>
 			<div>
-				<time>Q1</time> Rollout of Decentralised Mobile Wallet TestNet
+				<time>Q1</time> Rollout of Standardize Dapps Mobile Wallet (TestNet)
 			</div>
         </li>
         <li>
@@ -204,12 +204,12 @@ include('inc/header.php') ?>
         </li>
         <li>
 			<div>
-				<time>Q2</time> Rollout of Decentralised Web Wallet MainNet
+				<time>Q2</time> Rollout of Standardize Dapps Web Wallet MainNet
 			</div>
         </li>
         <li>
 			<div>
-				<time>Q2</time> Rollout of Decentralised Mobile Wallet MainNet
+				<time>Q2</time> Rollout of Standardize Dapps-Mobile Wallet (MainNet)
 			</div>
         </li>
         <li>
