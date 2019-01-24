@@ -205,11 +205,13 @@ include('inc/header.php') ?>
                          
                          <p class="mb-1">Masternode Tools</p>
                			 <p>Community Forum update link: <a href="http://xinfin.net/">http://xinfin.net</a></p>
+                     		<p>Telegram Development Community: <a href="https://t.me/XinFinDevelopers">https://t.me/XinFinDevelopers</a></p>
+                      <p>Slack Public Channel:: <a href="https://xinfin-public.slack.com/messages/CELR2M831/">https://xinfin-public.slack.com/messages/CELR2M831/</a></p>
                          
             			 <p class="header mb-3">Where to operate? Mainnet vs Testnet:</p>
                          <p>In XinFin, there are two networks where you can run XDC protocol: the mainnet and the testnet.</p>
                  		 <p>The mainnet is used to transact real XDC. The XDC's value is tied to real fiat currency via cryptocurrency exchanges.</p>
-                         <p>As developers, you do not want to run application tests with real money. That is what the testnet is for. We call the testnet <a href="http://testnet.xinfin.org/" target="_blank">XinFinTestNet</a>.</p>
+                         <p>As developers, you do not want to run application tests with real money. That is what the testnet is for. We call the testnet <a href="https://xinfin.network/" target="_blank">XinFinTestNet</a>.</p>
 
                                                   
                   </div>
