@@ -116,7 +116,7 @@ include('inc/header.php') ?>
                             <p>Higher interoperability with legacy systems and other blockchain platforms makes XinFin Protocol the language of core banking systems, ERP systems, SWIFT systems etc.</p>
                         </div>
                         <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
-                            <a href="resources.php"><button class="btn-blue">Read More</button></a>
+                            <a href="ISO20022.php"><button class="btn-blue">Read More</button></a>
                         </div>
 					</div>
                 </div>
