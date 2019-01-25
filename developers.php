@@ -20,7 +20,7 @@ include('inc/header.php') ?>
      
   <div  style="display:block; position: relative" >
 <h1>Developers community</h1>
-              <p>We’ve set up this resource center to allow Xinfin community developers, enthusiasts, and other partners to discuss, code, <br> access documentation, report bugs, get advice, and support to make the XDC ecosystem the blockchain for enterprise.</p>    
+              <p>We’ve set up this resource center to allow XinFin Community Developers, Enthusiasts and other Partners to discuss Code, <br> Access, Documentation, Report Bugs, Receive Advice and Support to make the XDC ecosystem the blockchain of choice for enterprise.</p>    
               </div>           
 
             </div>
@@ -251,7 +251,7 @@ include('inc/header.php') ?>
 
 <script>
     var activeUrl = localStorage.getItem("currentUrl");
-    $('.nav.navbar-nav li:nth-child(3)').addClass('active');
+    $('.nav.navbar-nav li:nth-child(4)').addClass('active');
 </script>
 
 <?php include('inc/footer.php') ?>

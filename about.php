@@ -5,9 +5,7 @@ $desc = "We as an organization are on a mission to improve the overall deficit i
 include('inc/header.php') ?>
 
 <link rel='stylesheet' href='assets/css/app-new.css' type='text/css' media='all' />
-<section id="banner" style=" background: url('assets/images/xdc-protocol-banner-image2.png') #112b3c;
-     background-repeat: no-repeat;
-    background-position: bottom right;">
+<section id="banner" style=" background: url('assets/images/xdc-protocol-banner-image2.png') #112b3c;background-repeat: no-repeat;background-position: bottom right;">
   <!--  <div id="particle-canvas" ></div> -->
   <div class="container">
     <div class="row">
@@ -43,9 +41,9 @@ include('inc/header.php') ?>
       <li>
         <a data-toggle="tab" href="#team">About the Team</a>
       </li>
-      <li>
+      <!--<li>
         <a data-toggle="tab" href="#offices">Offices</a>
-      </li>
+      </li>-->
     </ul>
 
     <div class="tab-content">
@@ -86,8 +84,8 @@ include('inc/header.php') ?>
         <!--<div class="row" style="margin: 0px; ">
           <div class="col-md-6">-->
             <div class="row" style="margin: 0px;">
-              <div class="col-md-4 padd-lr-0" id="wrapper1">
-                <img src="assets/images/team1.jpg" alt="" class="img-responsive team2">
+              <div class="col-md-4 padd-lr-0 mb-1" id="wrapper1">
+                <img src="assets/images/team/advisors/roger-ver.jpg" alt="" class="img-responsive team2">
                 <div class="overlay1">
                   <div class="text1">
                     <h4>Roger Ver</h4>
@@ -97,8 +95,8 @@ include('inc/header.php') ?>
                 </div>
               </div>
               
-              <div class="col-md-4 padd-lr-0" id="wrapper1">
-                <img src="assets/images/team2x.jpg" alt="" class="img-responsive team2">
+              <div class="col-md-4 padd-lr-0 mb-1" id="wrapper1">
+                <img src="assets/images/team/advisors/mate-tokay.jpg" alt="" class="img-responsive team2">
                 <div class="overlay1">
                   <div class="text1">
                     <h4>Mate Tokay</h4>
@@ -110,8 +108,8 @@ include('inc/header.php') ?>
                 </div>
               </div>
               
-              <div class="col-md-4 padd-lr-0" id="wrapper1">
-                <img src="assets/images/team3.jpg" alt="" class="img-responsive team2">
+              <div class="col-md-4 padd-lr-0 mb-1" id="wrapper1">
+                <img src="assets/images/team/advisors/jason-butcher.jpg" alt="" class="img-responsive team2">
                 <div class="overlay1">
                   <div class="text1">
                     <h4>Jason Butcher</h4>
@@ -123,8 +121,8 @@ include('inc/header.php') ?>
                 </div>
               </div>
               
-              <div class="col-md-4 padd-lr-0" id="wrapper1">
-                <img src="assets/images/team5.jpg" alt="" class="img-responsive team2">
+              <div class="col-md-4 padd-lr-0 mb-1" id="wrapper1">
+                <img src="assets/images/team/advisors/david-freuden.jpg" alt="" class="img-responsive team2">
                 <div class="overlay1">
                   <div class="text1">
                     <h4>David Freuden</h4>
@@ -135,8 +133,8 @@ include('inc/header.php') ?>
                 </div>
               </div>
 
-              <div class="col-md-4 padd-lr-0" id="wrapper1">
-                <img src="assets/images/team2.jpg" alt="" class="img-responsive team2">
+              <div class="col-md-4 padd-lr-0 mb-1" id="wrapper1">
+                <img src="assets/images/team/advisors/sydney-ifergan.jpg" alt="" class="img-responsive team2">
                 <div class="overlay1">
                   <div class="text1">
                     <h4>Sydney Ifergan</h4>
@@ -147,8 +145,8 @@ include('inc/header.php') ?>
                 </div>
               </div>
               
-              <div class="col-md-4 padd-lr-0" id="wrapper1">
-                <img src="assets/images/team7.jpg" alt="" class="img-responsive team2">
+              <div class="col-md-4 padd-lr-0 mb-1" id="wrapper1">
+                <img src="assets/images/team/advisors/simon-bowles.jpg" alt="" class="img-responsive team2">
                 <div class="overlay1">
                   <div class="text1">
                     <h4>Simon Bowles</h4>
@@ -179,7 +177,7 @@ include('inc/header.php') ?>
             <div class="carousel-inner">
               <div class="item active">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/ankit-patel.jpg" alt="" class="img-responsive" width="100%">
+                  <img src="assets/images/team/core-team/ankit-patel.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
                     <div class="text2">
                       <h4>Ankit Patel
@@ -200,7 +198,7 @@ include('inc/header.php') ?>
                             
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/atul-khekade.jpg" alt="" class="img-responsive" width="100%">
+                  <img src="assets/images/team/core-team/atul-khekade.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
                     <div class="text2">
                       <h4>Atul Khekade
@@ -209,11 +207,7 @@ include('inc/header.php') ?>
                         </a>
                       </h4>
                       <p class="cto">Early Investor & Ecosystem Development</p>
-                      <p class="text-content">With over 14 years of experience in the technology field, Atul has played a crucial role in conceptualizing
-                        and demonstrating the first permissioned Blockchain system for the consortium of Top Asian banks.
-                        He has also co-founded Multi-Million Dollar Revenue company dedicated to the business of Airline
-                        Chartering. He is dedicated towards developing alliances and investor management, and aims to bridge
-                        the $5 trillion Government infrastructure gap, using XinFin’s blockchain applications.</p>
+                      <p class="text-content">With over 14 years of experience in the technology field, Atul has played a crucial role in conceptualizing and demonstrating the first permissioned Blockchain system for the consortium of Top Asian banks. He has also co-founded Multi-Million Dollar Revenue company dedicated to the business of Airline Chartering. He is dedicated towards developing alliances and investor management, and aims to bridge the $5 trillion Government infrastructure gap, using XinFin's Blockchain applications.</p>
                     </div>
                   </div>
                 </div>
@@ -221,7 +215,7 @@ include('inc/header.php') ?>
               
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/chris-neill.jpg" alt="" class="img-responsive" width="100%">
+                  <img src="assets/images/team/core-team/chris-neill.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
                     <div class="text2">
                       <h4>Chris Neill
@@ -238,7 +232,7 @@ include('inc/header.php') ?>
               
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/ritesh-kakkad.jpg" alt="" class="img-responsive" width="100%">
+                  <img src="assets/images/team/core-team/ritesh-kakkad.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
                     <div class="text2">
                       <h4>Ritesh Kakkad
@@ -258,7 +252,7 @@ include('inc/header.php') ?>
               
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/peter-yeo.jpg" alt="" class="img-responsive" width="100%">
+                  <img src="assets/images/team/core-team/peter-yeo.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
                     <div class="text2">
                       <h4>Peter Yeo
@@ -267,11 +261,7 @@ include('inc/header.php') ?>
                         </a>
                       </h4>
                       <p class="cto">Co-Founder, Blockchain Architecture</p>
-                      <p class="text-content">The mastermind behind the ideation and launch of Cloudmining.sg, back in the year 2014, Peter eventually
-                        converted it into the largest cryptomining firm in the entire South Eastern market. Mining over a
-                        1mil litecoin tokens (net present value $50mil in 2017), the company cemented its presence in the
-                        global cryptomining industry. At XinFin, Peter forms the core of the Blockchain advisory group pertaining
-                        to Blockchain Architecture. He aims to make XinFin-Blockchain a world class Blockhain platform.</p>
+                      <p class="text-content">The mastermind behind the ideation and launch of Cloudmining.sg, back in the year 2014, Peter eventually converted it into the largest cryptomining firm in the entire South Eastern market. Mining over a 1mil litecoin tokens (net present value $50mil in 2017), the company cemented its presence in the global cryptomining industry. At XinFin, Peter forms the core of the Blockchain advisory group pertaining to Blockchain Architecture. He aims to make XinFin-Blockchain a world class Blockhain platform.</p>
                     </div>
                   </div>
                 </div>
@@ -279,7 +269,7 @@ include('inc/header.php') ?>
               
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/sameer-dharap.jpg" alt="" class="img-responsive" width="100%">
+                  <img src="assets/images/team/core-team/sameer-dharap.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
                     <div class="text2">
                       <h4>Sameer Dharap
@@ -289,11 +279,7 @@ include('inc/header.php') ?>
                       </h4>
                       <p class="cto">Vice President, Blockchain Application</p>
                       <p class="text-content">
-                        With over 13 years of experience in Management Consulting & Deal Advisory with KPMG & PwC, Sameer has led consulting engagements
-                        in the area of Strategy, Supply Chain, Operations Improvement and Deal Advisory for fortune 500 clients,
-                        PE players and the government establishments. Having worked across over 20+ industries, His eye for
-                        details, project management skills and ability to comprehend the strategic goals will help XinFin
-                        to form a strong foundation for its application oriented based business model.</p>
+                        With over 13 years of experience in Management Consulting & Deal Advisory with KPMG & PwC, Sameer has led consulting engagements in the area of Strategy, Supply Chain, Operations Improvement and Deal Advisory for fortune 500 clients, PE players and the government establishments. Having worked across over 20+ industries, His eye for details, project management skills and ability to comprehend the strategic goals will help XinFin to form a strong foundation for its application oriented based business model.</p>
                     </div>
                   </div>
                 </div>
@@ -322,7 +308,7 @@ include('inc/header.php') ?>
               
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/emerson-samfilippo.jpg" alt="" class="img-responsive" width="100%">
+                  <img src="assets/images/team/core-team/emerson-samfilippo.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
                     <div class="text2">
                       <h4>Emerson Samfilippo
@@ -331,11 +317,7 @@ include('inc/header.php') ?>
                         </a>
                       </h4>
                       <p class="cto">Early Supporter</p>
-                      <p class="text-content">Based in America, Emerson has been working professionally in the field of finance throughout his collegiate
-                        career via internships and student government positions. Recognizing the potential blockchain has
-                        to disrupt his chosen field, Emerson took notice of XinFin organization during its pre-ICO phase
-                        and became an early backer. Joining and supporting the online Telegram community near its beginning,
-                        Emerson is now a proud Community Manager for XinFin's chat room.</p>
+                      <p class="text-content">Based in America, Emerson has been working professionally in the field of finance throughout his collegiate career via internships and student government positions. Recognizing the potential Blockchain has to disrupt his chosen field, Emerson took notice of XinFin organization during its pre-ICO phase and became an early backer. Joining and supporting the online Telegram community near its beginning, Emerson is now a proud Community Manager for XinFin's chat room.</p>
                     </div>
                   </div>
                 </div>
@@ -343,7 +325,7 @@ include('inc/header.php') ?>
               
               <div class="item ">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/joseph.jpg" alt="" class="img-responsive" width="100%">
+                  <img src="assets/images/team/core-team/joseph.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
                     <div class="text2">
                       <h4>Joseph M. Appalsamy
@@ -352,7 +334,7 @@ include('inc/header.php') ?>
                         </a>
                       </h4>
                       <p class="cto">Head of Business Development</p>
-                      <p class="text-content">Joseph is the Head of Business Development and responsible for strategic accounts in global trade and finance, collaboration on commercial projects leveraging XinFin's XDC protocol and working with global institutions adopting and migrating to enterprise blockchain. Prior to joining XinFin, Joseph served as the MD for Perennis Capital Inc. He was the director of social ventures for DreamFund Holdings and was co-founder of ECCMOX Inc., a sustainability consultancy to global engineering firms and Government Services Canada.</p>
+                      <p class="text-content">Joseph is the Head of Business Development and responsible for strategic accounts in global trade and finance, collaboration on commercial projects leveraging XinFin's XDC protocol and working with global institutions adopting and migrating to enterprise Blockchain. Prior to joining XinFin, Joseph served as the MD for Perennis Capital Inc. He was the director of social ventures for DreamFund Holdings and was co-founder of ECCMOX Inc., a sustainability consultancy to global engineering firms and Government Services Canada.</p>
                     </div>
                   </div>
                 </div>
@@ -360,7 +342,7 @@ include('inc/header.php') ?>
               
               <div class="item ">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/meenu-sarin.jpg" alt="" class="img-responsive" width="100%">
+                  <img src="assets/images/team/core-team/meenu-sarin.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
                     <div class="text2">
                       <h4>Meenu Sarin
@@ -377,7 +359,7 @@ include('inc/header.php') ?>
               
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/tadashi-yoshida.jpg" alt="" class="img-responsive" width="100%">
+                  <img src="assets/images/team/core-team/tadashi-yoshida.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
                     <div class="text2">
                       <h4>Tadashi Yoshida
@@ -394,7 +376,7 @@ include('inc/header.php') ?>
 			  
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/confidence-nyirenda.jpg" alt="" class="img-responsive" width="100%">
+                  <img src="assets/images/team/core-team/confidence-nyirenda.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
                     <div class="text2">
                       <h4>Confidence Nyirenda
@@ -411,7 +393,7 @@ include('inc/header.php') ?>
               
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/alan-lai.jpg" alt="" class="img-responsive" width="100%">
+                  <img src="assets/images/team/core-team/alan-lai.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
                     <div class="text2">
                       <h4>Alan Lai
@@ -801,13 +783,8 @@ include('inc/header.php') ?>
         </div>
       </div>
 
-      <div id="offices" class="tab-pane fade">
+      <!--<div id="offices" class="tab-pane fade">
         <h3>OFFICES</h3>
-        <!--  <div class="row">
-      	<div class="col-md-4"><hr style="margin-top:35px"></div>
-      	<div class="col-md-4"><img src="assets/images/offices-icon.jpg" class="img-responsive" align="center" style="text-align: center; margin:0 auto;" alt=""></div>
-      	<div class="col-md-4"><hr style="margin-top:35px"></div>
-      </div> -->
         <div class="row">
           <div class="zentech_team">
             <div class="col-md-12 col-xs-12 col-sm-12">

@@ -1,5 +1,5 @@
 <?php
-$title = "Contact Us | XinFin Blockchain Technology Company";
+$title = "Contact Us | XinFin Hybrid Blockchain";
 $desc = "Let your business cross the horizon by using XinFin’s fast and secure XDC tokens. Contact us Now.";
 
 include('inc/header.php') 
@@ -81,7 +81,7 @@ include('inc/header.php')
                             <a href="https://www.linkedin.com/company/xinfin/" target="_blank"><i class="fa fa-linkedin"></i></a>
                             <a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><i class="fa fa-youtube"></i></a>
                             <a href="https://twitter.com/xinfinf" target="_blank"><i class="fa fa-twitter"></i></a>
-                            <a href="https://www.facebook.com/XinFinFintech/" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <a href="https://www.facebook.com/XinFinHybridBlockchain/" target="_blank"><i class="fa fa-facebook"></i></a>
                             <a href="https://github.com/XinFinorg" target="_blank"><i class="fa fa-github"></i></a>
                             <a href="https://www.reddit.com/r/xinfin/" target="_blank"><i class="fa fa-reddit"></i></a>
                             <a href="https://xinfin-public.slack.com/" target="_blank"><i class="fa fa-slack"></i></a>

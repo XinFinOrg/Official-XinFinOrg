@@ -631,6 +631,123 @@ The XDC ecosystem will provide easily accessible light wallets that will connect
                     <!-- Nested Zozo Accordion End-->
                 </div>
             </li>
+            
+            
+            
+            
+            
+            <li>
+                <h3>AMA</h3>
+                <div>
+                    <!-- Nested Zozo Accordion Start-->
+                    <ul id="demo-accordion8">
+                        <li>
+                            <h3>● Will there be regular AMA (Ask Me Anything) with co-founder(s)?</h3>
+                            <div>
+                                <p>We love our community. Absolutely Yes. There will be a regular AMA at-least once a month.</p>
+                                <p>The XinFin community are invited to send in their questions to the community managers and every two weeks they this community questions page will be updated by XinFin cofounders, Atul Khekade and Ritesh Kakkad.</p>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>● When will the Roadmap be updated for 2019?</h3>
+                            <div>
+                                <p>The Roadmap for 2019 will be updated before the end of January 2019.</p>
+                                <p>We will provide updates on both the XinFin websites as well as in the XinFin Publication hosted at <a href="https://medium.com/xinfin" target="_blank">www.medium.com/xinfin.</a></p>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>● Does XinFin have any signed active clients using XinFin?</h3>
+                            <div>
+                                <p>Yes, we do. There are 5 signed clients actively the XinFin network.</p>
+                                <p>Please note that it is the client, not XinFin, that makes announcements relating to these partnerships.</p>
+                                <p>XinFin's clients operate in a highly regulated and compliance environment and as such we are required to operate under a Non-Disclosure Agreement (NDA). The terms of an NDA is that it is the client, not XinFin, who control when a public announcement will be made. This can take between several weeks and in some cases months after a client has signed to make an announcement. This is to ensure they do not breach any regulatory or compliance issues regarding announcements.</p>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>● When will XinFin announce masternodes, staking requirements, rewards and tokenomics around this?</h3>
+                            <div>
+                                <p>The masternodes, staking requirements, rewards and tokenomics are scheduled to be released on the testnet version first before the end of January 2019.</p>
+                                <p>The testnet will then go for audit and testing for 3–4 months and then it will be switched to an upgraded mainnet.</p>
+                                <p>The masternodes, staking requirements, rewards and tokenomics have been redesigned and this is what impacted our release date. The redesign is a direct result of client feedback. Through multiple pilots and customer input, it was made very clear that miner-driven economic incentive chains would not be adopted at a commercial level.</p>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>● How many staff members do XinFin now have?</h3>
+                            <div>
+                                <p>Firstly, it is important to note that XinFin as an open source hybrid blockchain platform is not operated as a traditional company. In fact, XinFin is made up of six (6) partner companies in 6 geographies who together are the initial founding members of the XinFin Hybrid Blockchain. These 6 companies are now taking the XinFin to a larger ecosystem.</p>
+                                <p>The total headcount of all the dedicated XinFin contributors is nearly 100 strong and growing.</p>
+                                <p>The partner companies are located in Singapore, Malaysia, Indonesia, India and Japan with recent expansion to UAE, USA and Europe.</p>
+                                <p>Malaysia and Singapore-based entities work on the Private Network, its deployment and promotion to a targeted client base.</p>
+                                <p>UAE Team is working on getting production systems ready for TradeFinex sandbox.</p>
+                                <p>The India-based entity primarily works on technology development for XDC protocol, Network development and deployment and service providing and customization for enterprise clients PoCs and pilots.</p>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>● Why is there almost no GitHub code or regular activity?</h3>
+                            <div>
+                                <p>XinFin is ranked 300 in terms of Github commits on crypto projects. It is also interesting to note that this is also nearly the CMC rank of the project currently.</p>
+                              <p>To view XinFin GitHub activity please visit: <a href="https://www.cryptomiso.com/#XDCE" target="_blank">https://www.cryptomiso.com/#XDCE</a></p>
+                                <p>We do understand the community's interest and concerns on having visibility on the development of private repositories. However, it is important to understand that when XinFin develops a Proofs-of-Concept (PoCs) and Pilots these are for enterprise-clients and all these projects are developed under a Non-Disclosure Agreement (NDA). NDAs are common for all enterprises engaging technology development work, not just blockchain projects. For projects that are developed under an NDA we are required to keep these repositories private and secure.</p>
+                                <p>Over the next 60–90 days we are expecting significant commits to our GitHub public repositories. .This will as a result of the several hackathons that XinFin have sponsored. We invite you to revisit our Github in the next 60–90 days.</p>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>● Is OMFIF still a XinFin partner?</h3>
+                            <div>
+                                <p>XinFin is the official global technology partner for OMFIF and GPI launch. This was announced on May 22 2018, and we continue to be their technology partners.</p>
+                              <p><a href="https://www.prnewswire.com/news-releases/blockchain-platform-xinfinio-partners-with-omfif-for-global-public-investors-2018-launch-683312381.html" target="_blank">https://www.prnewswire.com/news-releases/blockchain-platform-xinfinio-partners-with-omfif-for-global-public-investors-2018-launch-683312381.html</a></p>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>● Does TradeFinex have any signed active clients using TradeFinex?</h3>
+                            <div>
+                                <p>TradeFinex has been in Beta since the start of this year. We have clients who have been trialling theTradeFinex functionality in a Proof-of-Concept (PoC) environment from earlier this year. From PoC we have moved to a sandbox environment with live testing up to USD100,000 per transaction with one of our clients.</p>
+                              <p>In mid-September, XinFin became an official participant of Abu Dhabi Global Market (ADGM) Sandbox to live-test TradeFinex Platform. This enabled TradeFinex to operate PoC and Pilots with government and regulatory oversight. Here is the link to ADGM announcement <a href="https://medium.com/xinfin/xinfin-becomes-the-official-participant-of-abu-dhabi-global-market-sandbox-to-live-test-tradefinex-cf4922f63a51" target="_blank">here</a>.</p>
+                              <p>It is important to note that TradeFinex is a network product, which means to run it in full production, it needs several participants to use it at one time.</p>
+                              <p>Our team is currently working on the Sandbox consortium with several participants to do just this. You will see a lot of progress on this front in 2019 with both partnerships and transactions on TradeFinex by May 2019.</p>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>● RAMCO was announced as a partner since March 2018, yet no client announcements have been made.</h3>
+                            <div>
+                                <p>Ramco makes cloud ERP systems that are used by several Fortune 500 companies, especially the ones in the logistics domain. Ramco was a strategic partnership for XinFin to understand the current landscape of enterprise environment. Every data point from supply chain to invoices, purchase, inventory first gets recorded in an ERP system of enterprise, small and large. From there, this data needs to sync with the external world through external trust network, payment systems etc.</p>
+                              <p>Ramco management and technology team have been very supportive in getting us the initial Proof-of-Concept (PoC) with Air France KLM (AFKLM) lab. They have detailed this in their media release hosted on their website <a href="https://www.ramco.com/newsroom/press/releases/feb-18/ramco-partners-with-xinfin-to-provide-blockchain-solutions/" target="_blank">https://www.ramco.com/newsroom/press/releases/feb-18/ramco-partners-with-xinfin-to-provide-blockchain-solutions/</a> and in their Annual report. <a href="https://www.ramco.com/investor-relations/ramco_annual_report_2017-18.pdf" target="_blank">https://www.ramco.com/investor-relations/ramco_annual_report_2017-18.pdf</a> (Pages 12 & Page 73)</p>
+                              <p>As stated in point earlier, blockchain is a network product. While the private network deployment can happen in a closed environment, for a successful public blockchain we need to gather a group of participants.</p>
+                              <p>XinFin and TradeFinex team have been evolving the product into an open API standard, which can be connected by a network of participants. One of the requirements from enterprise partners was that they required a regulated sandbox environment and full compliance under law of the land to work with XinFin and the digital asset XDC attached to it. This was one of the drivers behind XinFin liaising with regulators for a regulatory sandbox to be able to conduct live transactions.</p>
+                              <p>Now that XinFin have been approved to participate in sandbox environment with ADGM RegLab (<a href="https://medium.com/xinfin/xinfin-becomes-the-official-participant-of-abu-dhabi-global-market-sandbox-to-live-test-tradefinex-cf4922f63a51%29" target="_blank">Media Release 11 Sept 2018</a>) and we are awaiting approval from additional regulators, we will be in a position to offer the open standards APIs and connectors that can be connected through a regulated environment to many enterprise clients.</p>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>● ASSOCHAM partnership was announced in March 2018, yet no client announcements have been made since then.</h3>
+                            <div>
+                                <p>The members of ASSOCHAM also expressed the need for a regulated sandbox environment to conduct live transactions with the XinFin Network.</p>
+                              <p>Now that XinFin has approved to participate in sandbox environment with ADGM RegLab , we are initiating a larger network where these associations can officially work with XinFin.</p>
+                              <p>We will see actual production use of TradeFinex APIs from some of the ASSOCHAM members from 2019 onwards.</p>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>● Who is the CEO, the CTO, CIO, COO of XinFin?</h3>
+                            <div>
+                                <p>The c-suite level of management — CEO, CTO, CIO, COO etc, are all functions of centralised business structures.</p>
+                              <p>Since XinFin is moving towards a more open standard we remove titles and positions such as CEO, CTO, CIO, COO. In future most of the contribution will be driven and done by our community and in a decentralized way.</p>
+                              <p>In almost all decentralised system there are no such posts called CEO, CTO, CIO, COO, etc.</p>
+                              <p>However, The regional and regulated companies connecting to XinFin open standards will still be centralised ones and may have titles such as CEO, CTO, CIO.</p>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>● Is TurantPay currently in use by any of our partners? If not, what is it dependent upon? When is the development expected to finish?</h3>
+                            <div>
+                                <p>TurantPay is dependent upon XDC liquidity against Fiat currency markets.</p>
+                              <p>As you are aware, XDCE was recently listed on Indodax which gives an XDCE-IDR pair.</p>
+                              <p>There is also a XDCE-USDC pair added from alphaex.net. USDC is a regulated stablecoin initiated by Circle and Coinbase.</p>
+                              <p>Development of such two-way pairings and liquidity amongst them is required for TurantPay to go in production. Once, there are enough pairings, then app developers can build their own cross-border remittance and payment apps on top of XDC using the TurantPay APIs.</p>
+                            </div>
+                        </li>
+                    </ul>
+                    <!-- Nested Zozo Accordion End-->
+                </div>
+            </li>
+            
         </ul>
 
        

@@ -43,33 +43,25 @@
       transition: opacity 0.2s ease-out;
       opacity: 0;
     }
-
     #back-to-top:hover {
       background: #e9ebec;
     }
-
     #back-to-top.show {
       opacity: 1;
     }
-
     nav ul {
       list-style: none;
       padding: 0;
       margin: 0;
     }
-
     nav ul li {
       display: block;
       position: relative;
-
     }
-
     /* This hides the dropdowns */
-
     nav li ul {
       display: none;
     }
-
     nav ul li a {
       display: block;
       padding: 0.4em 1em;
@@ -77,14 +69,11 @@
       white-space: nowrap;
       color: #fff;
     }
-
     nav ul li a:hover {
       text-decoration: none;
       background-color: #fff0;
     }
-
     /* Display the dropdown */
-
     nav li:hover>ul {
       display: block;
       position: absolute;
@@ -94,33 +83,25 @@
       margin-top: -20px;
       margin-left: 15px;
     }
-
     nav li:hover li {
       float: none;
     }
-
     nav li:hover a {
       background: #04192787;
     }
-
     nav li:hover li a:hover {
       background: #04192787;
       color: #42ffef;
     }
-
     .main-navigation li ul li {
       border-top: 0;
     }
-
     /* Displays second level dropdowns to the right of the first level dropdown */
-
     nav ul ul ul {
       left: 100%;
       top: 0;
     }
-
     /* Simple clearfix */
-
     nav ul:before,
     nav ul:after {
       content: " ";
@@ -128,21 +109,17 @@
       display: table;
       /* 2 */
     }
-
     nav ul:after {
       clear: both;
     }
-
     @media (max-width: 1024px) {
       nav li:hover>ul {
         position: relative;
       }
     }
-
     .navbar>.container .navbar-brand,
     .navbar>.container-fluid .navbar-brand {
-      /*margin-left: 150px;*/
-	  margin-left: 125px;
+      margin-left: 150px;
       margin-right: 50px;
     }
   </style>
@@ -151,7 +128,6 @@
  
   <script src="assets/js/bootstrap.min.js"></script>
   <script type="text/javascript">
-
     $(window).on("scroll", function () {
       var top_offset = $(window).scrollTop();
       if (top_offset >= 100) {
@@ -163,7 +139,6 @@
     });
   </script>
   <!--  <script type="text/javascript">
-
   $(document).ready(function() {
     $("#header a[href*=#]").click(function(event){     
         //event.preventDefault();
@@ -179,7 +154,6 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'UA-112909645-1');
 </script>
 <body>
@@ -197,9 +171,7 @@
   <!-- <div class='progress' id="progress_div">
     <div class='bar' id='bar1'></div>
     <div class='percent' id='percent1'></div>
-  </div>
-  
- 
+  </div> 
  
   <input type="hidden" id="progress_width" value="0"> -->
 
@@ -209,7 +181,8 @@
         <div class="container">
           <div class="navbar-header">
             <a class="navbar-brand" href="index.php">
-              <img src="assets/images/logo.png" class="img-responsive" width="60">
+              <img src="assets/images/logo-white.png" class="logo-white img-responsive" width="60">
+              <img src="assets/images/logo-dark.png" class="logo-sticky img-responsive " width="60">
             </a>
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbarNavDropdown" aria-expanded="false"
               aria-controls="#navbarNavDropdown">
@@ -218,6 +191,7 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
+      
           </div>
           <div class="collapse navbar-collapse" id="navbarNavDropdown" style="float:left">
             <ul class="main-menu cf nav navbar-nav navbar-right">
@@ -226,18 +200,19 @@
               </li>
               <!--<li class="nav-item"><a href="works.php">How it works</a></li> -->
               <li class="nav-item">
-                <a href="xdc-protocol.php">XDC Network</a>
+                <a href="https://xinfin.network/" target="_blank">XDC Network</a>
               </li>
               <li class="nav-item">
-                <a href="xdc-protocol.php">XDC/XDCE Utility Products</a>
+                <a href="xdc-utility.php">XDC/XDCE Utility</a>
               </li>
               <li class="nav-item">
-                <a href="developers.php">Developer Portal</a>
+                <a href="https://docs.xinfin.org/">Developer Portal</a>
               </li>              
               <li class="nav-item">
                 <a href="resources.php">Resource</a>
               </li>
-              <li>
+              
+              <!--<li>
                 <div class="m-dropdown">
                   <div class="e-button open">
                     <img src="assets/images/toggle-button.png" alt="Toggle" class="img-responsive">
@@ -263,7 +238,7 @@
                     </li>
                   </ul>
                 </div>
-              </li>
+              </li>-->
 
 
             </ul>
@@ -292,6 +267,7 @@
           $('html,body').animate({
             scrollTop: 0
           }, 700);
+
         });
       }
     </script>
@@ -299,7 +275,6 @@
     <script>$(".e-list").slideUp(function () {
         $(".e-button").removeClass("open");
       });
-
       $(".e-button").on("click", function () {
         if ($(this).hasClass("open")) {
           $(".e-list").slideUp(function () {
@@ -315,12 +290,10 @@
 
     <!-- <script>
 jQuery(document).ready(function($) {  
-
 // site preloader -- also uncomment the div in the header and the css style for #preloader
 $(window).load(function(){
   $('#preloader').fadeOut('slow',function(){$(this).remove();});
 });
-
 });
 </script> -->
 
@@ -337,13 +310,11 @@ document.onreadystatechange = function(e)
     }
   }
 }
-
 function check_element(ele)
 {
   var all = document.getElementsByTagName("*");
   var totalele=all.length;
   var per_inc=100/all.length;
-
   if($(ele).on())
   {
     var prog_width=per_inc+Number(document.getElementById("progress_width").value);
@@ -355,13 +326,11 @@ function check_element(ele)
       }     
     });
   }
-
   else  
   {
     set_ele(ele);
   }
 }
-
 function set_ele(set_element)
 {
   check_element(set_element);
@@ -373,32 +342,26 @@ function set_ele(set_element)
         perfData = window.performance.timing, // The PerformanceTiming interface represents timing-related performance information for the given page.
         EstimatedTime = -(perfData.loadEventEnd - perfData.navigationStart),
         time = parseInt((EstimatedTime / 1000) % 60) * 100;
-
       // Loadbar Animation
       $(".loadbar").animate({
         width: width + "%"
       }, time);
-
       // Loadbar Glow Animation
       $(".glow").animate({
         width: width + "%"
       }, time);
-
       // Percentage Increment Animation
       var PercentageID = $("#precent"),
         start = 0,
         end = 100,
         durataion = time;
       animateValue(PercentageID, start, end, durataion);
-
       function animateValue(id, start, end, duration) {
-
         var range = end - start,
           current = start,
           increment = end > start ? 1 : -1,
           stepTime = Math.abs(Math.floor(duration / range)),
           obj = $(id);
-
         var timer = setInterval(function () {
           current += increment;
           $(obj).text(current + "%");
@@ -408,7 +371,6 @@ function set_ele(set_element)
           }
         }, stepTime);
       }
-
       // Fading Out Loadbar on Finised
       setTimeout(function () {
         $('.preloader-wrap').fadeOut(300);

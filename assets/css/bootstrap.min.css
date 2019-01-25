@@ -1660,7 +1660,7 @@ mark {
 }
 
 .text-center {
-    text-align: center
+    text-align: center!important;
 }
 
 .text-justify {
@@ -1681,6 +1681,10 @@ mark {
 
 .text-capitalize {
     text-transform: capitalize
+}
+
+.text-transform-none {
+    text-transform: none!important;
 }
 
 .text-muted {
@@ -2014,7 +2018,27 @@ pre code {
 
 .row {
     margin-right: -15px;
-    margin-left: -15px
+    margin-left: -15px;
+}
+
+/*.flex-row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}*/
+
+.flex-row{
+	display:-webkit-box;
+	display:-webkit-flex;
+	display:-ms-flexbox;
+	display:flex;
+	-webkit-flex-wrap:wrap;
+	-ms-flex-wrap:wrap;
+	flex-wrap:wrap;
+	margin-right:-15px;
+	margin-left:-15px;
 }
 
 .col-lg-1,
@@ -2883,12 +2907,14 @@ th {
 }
 
 .table-striped>tbody>tr:nth-of-type(odd) {
-    background-color: #f9f9f9
+    background-color: #f1f5fb;
 }
 
 .table-hover>tbody>tr:hover {
-    background-color: #f5f5f5
+    background-color: #f5f5f5;
 }
+
+.table .thead-dark th{color:#002752;background-color:#bfd3f9;border-color:#ddd;}
 
 table col[class*=col-] {
     position: static;
@@ -5507,7 +5533,7 @@ fieldset[disabled] .navbar-default .btn-link:hover {
 }
 
 .navbar-inverse {
-    background-color: #222;
+    /*background-color: #222;*/
     border-color: #080808
 }
 
@@ -6947,6 +6973,7 @@ button.list-group-item-danger.active:hover {
 	padding: 0;
 	overflow: hidden;
 	border: 1px solid #E8E8E8;
+	border-radius:10px;
 }
 
 .embed-responsive .embed-responsive-item,
