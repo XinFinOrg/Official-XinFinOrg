@@ -10,7 +10,7 @@ include('inc/header.php') ?>
     <div class="row">
       <div class="col-md-6 col-sm-6 col-xs-12 bannertext">
         <h1>XinFin Resources and Information</h1>
-        <p>Use the XDC token on the public state that is identical in functionality to public blockchains. Or set up private networks  to run enterprise use cases.</p>
+        <p>Use the XDC token on the public state that is identical in functionality to public blockchains. Or set up private networks  to run enterprise applications.</p>
       </div>
       <div class="col-md-6 col-sm-6 col-xs-12 btxt-img">
         <img src="assets/images/XDC-Protocol/xdc-protocol-banner-image.png" alt="" class="img-responsive">
@@ -32,18 +32,18 @@ include('inc/header.php') ?>
       	<div class="col-md-4"><img src="assets/images/icon.png" class="img-responsive" align="center" style="text-align: center; margin:0 auto;" alt=""></div>
       	<div class="col-md-4"><hr style="margin-top:35px"></div>
       </div> -->
-      <p>Learn about XinFin's Hybrid Blockchain Technology, UseCases/dApps and Solutions  all at one place. Read our Technical/Business WhitePapers, explore our Test and Live Networks, Engage on our Community Forum, Participate in our Community Bounty Program and know how XDC Blockchain is creating an environment of standardized relationships for business.</p>
+      <p>Learn about XinFin's Hybrid Blockchain Technology, Use Cases/dApps and Solutions  all at one place. Read our Technical/Business White Papers, explore our Test and Live Networks, Engage on our Community Forum, Participate in our Community Bounty Program and discover how the XDC Blockchain is creating a standardised environment for business relationships.</p>
       
       <p class="header mb-2">Technical White Paper</p>
-      <p>The Technical Whitepaper describes XDC Blockchain powered by XDC protocol that attempts to solve the problem of secluded ecosystems with highly secure and robust interoperability. The XDC blockchain aims to bring together the significant advantages of public blockchains and the necessary restrictions of permissioned blockchains to create an ecosystem that is enterprise ready.</p>
+      <p>The Technical Whitepaper describes XinFin's Hybrid Blockchain powered by the XDC protocol, which attempts to solve the problem of secluded ecosystems with highly secure and robust interoperability. The XDC blockchain aims to bring together all of the significant advantages of public blockchains and the necessary restrictions of permissioned blockchains to create an ecosystem that is enterprise ready.</p>
       <a href="docs/whitepaper-tech.pdf" target="_blank"><button class="btn-blue mb-1">Technical White Paper</button></a>
       
       <p class="header mb-2">Business White Paper</p>
-      <p>The Business White Paper gives the readers a comprehensive business understanding of XinFin's hybrid blockchain solution that will help address the inefficiencies that exist in the global trade and finance markets today. XDC01 Protocol facilitates Distributed Applications, such as TradeFinex, specially conceptualised marketplace platform that connects global participants of the trade and finance industry and enable them for global contracting, financing, payments and settlements through authorized financial institutions.</p>
+      <p>The Business White Paper gives readers a comprehensive business understanding of XinFin's Hybrid Blockchain solution that will help address the inefficiencies that exist in the global trade and finance markets today. The XDC01 Protocol facilitates Distributed Applications, such as TradeFinex, a specially conceptualised marketplace platform that connects global participants of the trade and finance industry and enables them for global contracting, financing, payments and settlements through authorized financial institutions.</p>
       <a href="docs/whitepaper-business.pdf" target="_blank"><button class="btn-outline mb-1">Business White Paper</button></a>
       
       <p class="header mb-2">XinFin Consensus</p>
-      <p>This section talks about XinFin Public DPoS Consensus that leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way. The Self KYC feature added in XinFin DPoS makes it more enterprise and regulator friendly.</p>
+      <p>This section talks about XinFin's Public DPoS Consensus that leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way. The Self KYC feature added in XinFin DPoS allows for a an enterprise and regulator friendly process.</p>
       <a href="xinfin-consensus.php"><button class="btn-blue mb-1">XinFin Consensus</button></a>
       
       <p class="header mb-2">Setup XinFin Node</p>
@@ -51,35 +51,36 @@ include('inc/header.php') ?>
       <a href="https://github.com/XinFinOrg/XDC01-docker-Nnodes" target="_blank"><button class="btn-outline mb-1">Setup XinFin Node</button></a>
       
       <p class="header mb-2">XinFin Network Status (Testnet)</p>
-      <p>XinFin TestNet helps you understand how many nodes are hosted on XinFin Network, and provides a piece of detailed information such as their up-time, number of active nodes, gas price, gas limit etc. in a visualised manner.</p>
+      <p>XinFin TestNet helps you understand how many nodes are hosted on XinFin Network, and provides detailed information such as their up-time, number of active nodes, gas price, gas limit etc. in a visualised manner.</p>
       <a href="https://xinfin.network/" target="_blank"><button class="btn-blue mb-1">XinFin Network Status (testnet)</button></a>
       
       <p class="header mb-2">XinFin Network Status (Live)</p>
-      <p>XinFin LiveNet helps you understand how many nodes are hosted on XinFin Network, and provides a piece of detailed information such as their up-time, number of active nodes, gas price, gas limit etc. in a visualised manner.</p>
+      <p>XinFin LiveNet helps you understand how many nodes are hosted on XinFin Network, and provides detailed information such as their up-time, number of active nodes, gas price, gas limit etc. in a visualised manner.</p>
       <a href="https://xinfin.network/" target="_blank"><button class="btn-outline mb-1">XinFin Network Status (Live)</button></a>
       
       <p class="header mb-2">XDC Explorer</p>
-      <p>XDC Explorer powered by XinFin is an explorer for XDC tokens and brings you a synopsis of the recent XDC transactions that took place recently.</p>
+      <p>The XDC Explorer is an explorer for XDC tokens and brings you a synopsis of recent XDC transactions.</p>
       <a href="http://xinfin.info/" target="_blank"><button class="btn-blue mb-1">XDC Explorer</button></a>
       
       <p class="header mb-2">XDCe Explorer (ERC20)</p>
-      <p>XDCe Explorer gives you a summary of total supply, price, holders, transfers etc. for XinFin XDCE token. The ERC-20 Token Tracker also allows you to look at recent XinFin XDCE Token transactions.</p>
+      <p>XDCe Explorer gives you a summary of total supply, price, holders and transfers of the XDCE token. The ERC-20 Token Tracker also allows you to look at recent XinFin XDCE Token transactions.</p>
       <a href="https://etherscan.io/token/0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2?a=" target="_blank"><button class="btn-outline mb-1">XDCe Explorer (ERC20)</button></a>
       
       <p class="header mb-2">Community Forum</p>
-      <p>Managed by our active community members, XinFin Community Forum will bring you latest updates, developments and answers to your questions in a proper documented form.</p>
+      <p>Managed by our active community members, the XinFin Community Forum will bring you latest updates, developments and answers to your questions in a proper documented form.</p>
       <a href="http://xinfin.net/" target="_blank"><button class="btn-blue mb-1">Community Forum</button></a>
       
       <p class="header mb-2">Community Bounty Program</p>
-      <p>This section talks about Bounty Program for Community. XinFin invites developers and all bug bounty hunters to build DPoS Consensus!</p>
+      <p>The XinFin Community Bounty Program invites developers and all bug bounty hunters to build DPoS Consensus.</p>
       <a href="bounty.php"><button class="btn-outline mb-1">Community Bounty Program</button></a>
       
       <p class="header mb-2">Wallet Support</p>
-      <p>Wallet Support Section gives you a quick overview of what all exchanges XDCE is live-trading on and what all wallet partners support XDCE. Any wallet support needed, you can reach out to us at <a href="mailto:support@xinfin.io">support@xinfin.io</a></p>
+      <p>Wallet Support gives you a quick overview of which exchanges XDCE is live-trading on and which wallet partners support XDCE.<br>
+      For Wallet Support needed, you can reach out to us at <a href="mailto:support@xinfin.io">support@xinfin.io</a></p>
       <a href="https://XinFin.io/" target="_blank"><button class="btn-blue mb-1">Wallet Support</button></a>
       
       <p class="header mb-2">Media Room</p>
-      <p>This section of the website will update you on the different announcements made by our top management. The section will publish all the Press Releases announcing the recent developments, done by the organization along with the plans for the future innovation.</p>
+      <p>This section of the website will update you on the different announcements made by our upper management. The section will publish all the Press Releases announcing the recent developments done by the organization along with the plans for the future innovation.</p>
 
       <p>Apart from the Press Releases, this section of the site will also tell about the events participated and arranged by XinFin. Any news (digital or otherwise) featuring XinFin.org will be published in this section.</p>
 
@@ -91,7 +92,7 @@ include('inc/header.php') ?>
       <a href="roadmap.php"><button class="btn-blue mb-1">Roadmap</button></a>
       
       <p class="header mb-2">Developer Portal</p>
-      <p>Develop an understanding of the fundamentals of XDC, get API reference, install and run XDC Blockchain, or view some frequently asked questions, it is one stop for all developer related guides and references. Come and be a part of our dev community.</p>
+      <p>Develop an understanding of the fundamentals of XDC, get API reference, install and run on the XDC Blockchain and view FAQ’s.  The Developer Portal  is a one stop shop for all developer related guides and references. We invite developers to join our dev community.</p>
       <a href="https://docs.xinfin.org/"><button class="btn-outline mb-1">Developer Portal</button></a>
       
       <p class="header mb-2">Exchange Listing Resource</p>

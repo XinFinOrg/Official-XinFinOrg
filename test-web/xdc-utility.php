@@ -10,7 +10,8 @@ include('inc/header.php') ?>
         <div class="row">
             <div class="bannertext">
                 <h1>XDC/XDCE Utility</h1>
-                <p>The XDC token is the underlying utility token of the XinFin hybrid blockchain. The XDC token acts as a settlement mechanism for DApps built on the XinFin hybrid blockchain. XinFin has launched an Ethereum token, XDCE, that can be traded with XDC utility token on a 1:1 ratio. This allows token holder the flexibility to hold tokens in either form for utility. The ERC-20 token can be swapped for the XDC token at a ratio of 1:1. This swap can be made on the AlphaEx exchange which is compatible with all decentralised exchanges and has presence in liquidity markets and supports XDC liquidity. So far, MyContract, TradeFinex, Kramaa, Land Registry, iFactor, XinFin Blockchain Academy, TurantPay are use cases built around XDC Utility.</p>
+                <p>The XDC token is the underlying utility token of the XinFin's Hybrid Blockchain. The XDC token acts as a settlement mechanism for DApps built on the XinFin Hybrid Blockchain. XinFin has also launched an Ethereum token called XDCE that can be traded with XDC utility token at a 1:1 ratio. This gives the token holder a flexibility to hold tokens in either form for utility. The ERC-20 token can be swapped for the XDC token at a ratio of 1:1. This swap can be facilitated on the AlphaEx exchange. AlphaEx is compatible with all decentralised exchanges and has a presence in liquidity markets and supports XDC liquidity.</p>
+                <h3>To date, use cases built around XDC utility token are:</h3> <p> MyContract, TradeFinex, Kramaa, Land Registry, iFactor, XinFin Blockchain Academy and TurantPay</p>
             </div>
         </div>
     </div>
@@ -86,7 +87,7 @@ include('inc/header.php') ?>
             </div>
             <h3 class="mb-2">DCB Bank Ltd. <span>Livenet</span></h3>
             <p class="mb-3">DCB Bank Ltd., a private sector scheduled commercial bank selected XinFin as their blockchain partner to streamline Insurance systems using Blockchain.</p>
-            <p class="date">DCB Bank which was looking to deploy a blockchain solution selected XinFin to implement a secure technology solution to streamline their insurance process. And, since participants are operating stake driven nodes on XinFin hybrid blockchain, they have shared access to data from the very point the customer enters the cycle of policy issuance.</p>
+            <p class="date">DCB Bank which was looking to deploy a blockchain solution selected XinFin to implement a secure technology solution to streamline their insurance process. Since participants are operating stake driven nodes on XinFin hybrid blockchain, they have shared access to data from the very point the customer enters the cycle of policy issuance.</p>
         </div>
     </div>
     
@@ -138,7 +139,7 @@ include('inc/header.php') ?>
             <div class="btn-block mb-1">
             	<a href="https://github.com/XinFinOrg/TurantPay" target="_blank"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
             </div>
-            <p>TurantPay is a remittance solution powered by XDC Protocol & Blockchain Technology.  TurantPay uses XinFin's XDC protocol, which is an improved version of the SWIFT protocol used today amongst banks globally to execute bank transfers. TurantPay processes payments between financial institutions and payment service providers.</p>
+            <p>TurantPay is a remittance solution powered by XinFin's XDC Protocol & Blockchain Technology.  TurantPay uses XinFin's XDC protocol, which is an improved version of the SWIFT protocol used today amongst banks globally to execute bank transfers. TurantPay processes payments between financial institutions and payment service providers.</p>
             <div class="btn-block mb-1">
             	<a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><button class="btn-outline-default"><i class="fa fa-youtube"></i> Watch Video</button></a>
             </div>
@@ -195,7 +196,7 @@ include('inc/header.php') ?>
             	<a href="http://airnetzcharter.com" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
                 <a href="https://github.com/airnetzcharter/GlobalDistSystem" target="_blank"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
             </div>
-            <p class="mb-3">From Q2 of 2019, the global distribution engine for General aviation powered by Airnetzcharter.com will enable XDC Payment relay bridges and rate stability throught its instant swap with USDC. AirnetzCharter.com GDS System hosts over 5,000 Aircraft and 25,000 airport worldwide. The intergration and hosting with XDC Protocol will help Airnetzcharter.com and its user facilitate life saving instant medical evacuation and air ambulance on short notice without having to worry about delayed financial settlement.</p>
+            <p class="mb-3">From Q2 of 2019, the global distribution engine for General aviation powered by Airnetzcharter.com will enable XDC Payment relay bridges and rate stability through its instant swap with USDC. AirnetzCharter.com GDS System hosts over 5,000 Aircraft and 25,000 airport worldwide. The integration and hosting with XinFin's XDC Protocol will help Airnetzcharter.com and its customers facilitate life saving instant medical evacuation and air ambulance on short notice without the concern of delayed financial settlement.</p>
             <p class="date"></p>
         </div>
     </div>
@@ -205,7 +206,9 @@ include('inc/header.php') ?>
             <div class="image-container mb-2">
             	<img class="img-responsive" src="assets/images/utility/your-application-logo.jpg" alt="tradefinex.org">
             </div>
-            <p>Do you have an application built around XDC Network that you want to get listed? Just click the link, fill the form with required details and see your app listed as soon as possible.</p>
+            <p>Do you have an application built around the XDC Network that you want to see listed on our webpage?<br>
+            It’s quick and simple.<br>
+            Just click on the link and fill in the form. We will take care of the rest.</p>
             <div class="btn-block mb-1">
             	<a href="list-application.php"><button class="btn-blue">List your Application</button></a>
             </div>
