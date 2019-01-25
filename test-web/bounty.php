@@ -39,14 +39,14 @@ include('inc/header.php') ?>
 <p style="padding-left: 30px;"><span style="font-weight: 400;">4.Media/Blog / Post/ Video &rdquo;XinFin&rdquo;</span></p>
 <p style="padding-left: 30px;"><span style="font-weight: 400;">Bounty : 100K XDC</span></p>
 <p><strong>&nbsp;</strong></p>
-<p><strong>Bounty Claim Form: </strong><a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefil">https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefil</a></p>
+<p><strong>Bounty Claim Form: </strong><a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/">https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/</a></p>
 <p>&nbsp;</p>
 <p><strong>Technical Development Bounty Program : </strong></p>
 <p style="padding-left: 30px;">Task 1: DPoS Consensus Development</p>
 <p style="padding-left: 30px;">Too much energy consumption makes PoW consensus non practical and not suitable for real world system. We need to find out other innovative consensus where transaction and network remains de-centralised but without much energy consumption. Restriction numbers of node make its more centralized while large number of nodes makes the system very slow. Many industry experts are trying out different consensus like DPoS. We need to find out innovative solution to replace PoW Consensus with other Consensus which gives more efficiency, speed and less energy consumption.</p>
 <p style="padding-left: 30px;">Bounty : 10Million XDC</p>
 <p style="padding-left: 30px;">More detail at: <a href="https://XinFin.org/techbounty.php">https://XinFin.org/techbounty.php</a>&nbsp;</p>
-<p><strong>Bounty Claim Form:</strong> <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill">https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill</a></p>
+<p><strong>Bounty Claim Form:</strong> <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/">https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/</a></p>
 <p>&nbsp;</p>
 <p><strong>Task 2: XDCE Token Staking Function.</strong></p>
 <p style="padding-left: 30px;"><span style="font-weight: 400;">A staking mechanism requires users who offer compute power or other resources to the service takers in the ecosystem to put up a portion of their tokens in order to do so. If a user has no tokens to stake, but wants to support the network by providing resources they must purchase them. In exchange for staking their tokens and providing the service a financial reward is received. By forcing providers to take a financial risk you are weeding out bad actors.</span></p>
@@ -58,7 +58,7 @@ include('inc/header.php') ?>
 </ol>
 <p><strong>More detail at: </strong><a href="https://github.com/XinFinOrg/Open-Hackathon"><strong>https://github.com/XinFinOrg/Open-Hackathon</strong></a></p>
 <p><span style="font-weight: 400;">&nbsp;</span></p>
-<p><strong>Bounty Claim Form: </strong><a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefil">https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefil</a></p>
+<p><strong>Bounty Claim Form: </strong><a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/">https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/</a></p>
 <p>&nbsp;</p>
 <h3><strong>Task 3 : Cross Blockchain Interoperability.</strong></h3>
 <p>Various blockchain need to connect to each other to create more efficiency in system. Like Bitcoin, Ripple and IOTA. We need to Create Bridge between various blockchain.</p>
@@ -70,7 +70,7 @@ include('inc/header.php') ?>
 <p><span style="font-weight: 400;">&nbsp;</span></p>
 <p><strong>Bounty: 1Million XDC</strong></p>
 <p><strong>More detail at : : </strong><a href="https://github.com/XinFinOrg/Open-Hackathon"><strong>https://github.com/XinFinOrg/Open-Hackathon</strong></a></p>
-<p><strong>Bounty Claim Form: </strong><a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill"><span style="font-weight: 400;">https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill</span></a></p>
+<p><strong>Bounty Claim Form: </strong><a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/"><span style="font-weight: 400;">https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/</span></a></p>
 <p><span style="font-weight: 400;">&nbsp;</span></p>
 <h3><strong>Product or Platform DEMO/Presentation Bounty: </strong></h3>
 <p style="padding-left: 30px;"><span style="font-weight: 400;">Deliverables : </span></p>
@@ -112,7 +112,7 @@ include('inc/header.php') ?>
 <p style="padding-left: 30px;"><span style="font-weight: 400;">How the country can provide more transparency to global investors by sharing data using IoT APIs of the Kraama platform on XDC Protocol</span></p>
 <p style="padding-left: 30px;"><strong>Bounty : 2M XDCE</strong></p>
 <p><span style="font-weight: 400;">&nbsp;</span></p>
-<p><strong>Bounty Claim Form: </strong><a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill"><span style="font-weight: 400;">https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill</span></a></p>
+<p><strong>Bounty Claim Form: </strong><a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/"><span style="font-weight: 400;">https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill</span></a></p>
 <p><span style="font-weight: 400;">&nbsp;</span></p>
 <p><strong>Standard XDC Payout</strong></p>
 <p style="padding-left: 30px;"><span style="font-weight: 400;">Awareness and Marketing</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">Independent and Neutral Project Review </span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">Bounty: </span><span style="font-weight: 400;"><br /><br /></span></p>
@@ -151,7 +151,7 @@ include('inc/header.php') ?>
 <p style="padding-left: 30px;"><span style="font-weight: 400;">Video Recording about XinFin Product Review : </span></p>
 <p style="padding-left: 30px;"><span style="font-weight: 400;">Bounty : </span></p>
 <p><span style="font-weight: 400;">&nbsp;</span></p>
-<p><strong>Bounty Claim Form: </strong><a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill"><span style="font-weight: 400;">https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill</span></a></p>
+<p><strong>Bounty Claim Form: </strong><a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/"><span style="font-weight: 400;">https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w</span></a></p>
 <p><span style="font-weight: 400;">&nbsp;</span></p>
 <p><strong>Local Meetup with more than 25+ people in Asia and 15+ people in North america or Europe:</strong></p>
 <p style="padding-left: 30px;"><span style="font-weight: 400;">DEV-Community Meetup Grant Application:<br /></span></p>
@@ -166,7 +166,7 @@ include('inc/header.php') ?>
 </ol>
 <p style="padding-left: 30px;"><span style="font-weight: 400;">Please include around above mention Agenda and apply for Grant at &nbsp;<a href="http://xinfin.org/contactus.php">http://xinfin.org/contactus.php</a> </span></p>
 <p><span style="font-weight: 400;">&nbsp;</span></p>
-<p><strong>Bounty Claim Form: </strong><a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill"><span style="font-weight: 400;">https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill</span></a></p>
+<p><strong>Bounty Claim Form: </strong><a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w"><span style="font-weight: 400;">https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w</span></a></p>
 <p><span style="font-weight: 400;">&nbsp;</span></p>
                         
                         <p class="sub-header">Help/Questions?</p>
