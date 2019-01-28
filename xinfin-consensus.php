@@ -1,5 +1,5 @@
 <?php
-$title = "XinFin Public DPOS Consensus";
+$title = "XinFin Public DPOS Consensus: XDPoS";
 $desc = "XinFin's Delegated Proof of Stake is a decentralised way of validating transactions occurring on the XinFin Hybrid blockchain and appending those to the truth ledger.";
 
 include('inc/header.php') ?>
@@ -27,7 +27,7 @@ include('inc/header.php') ?>
 <div id="network" class="tab-pane fade in active">
 <div class="row" style="margin-top: 0%; padding-bottom: 0px;">
 <div class="col-md-12 col-sm-12 col-xs-12"><!--<p class="mb-1"><strong>XinFin Public DPOS Consensus</strong></p>-->
-<p><span style="font-weight: 400;"><strong>Delegated Proof of Stake</strong> (also known as <strong>DPoS</strong>) is a consensus algorithm used to sustain digital democracy throughout the XinFin Hybrid blockchain network. </span></p>
+<p><span style="font-weight: 400;"><strong>Delegated Proof of Stake</strong> (also known as <strong>XDPoS</strong>) is a consensus algorithm used to sustain digital democracy throughout the XinFin Hybrid blockchain network. </span></p>
 <p><span style="font-weight: 400;">XinFin&rsquo;s Delegated Proof of Stake is a decentralized way of validating transactions occurring on the XinFin Hybrid blockchain and appending those to the truth ledger. Unlike alternative consensus algorithms, XinFin&rsquo;s Delegated Proof of Stake makes use of real-time voting to elect a pool of validators (or delegates). </span></p>
 <p><span style="font-weight: 400;">The network validators bear responsibilities to preserve the sanctity of the XinFin Hybrid blockchain network. The more robust is the nexus of the validators, the more secure is the blockchain.</span></p>
 <ul>
