@@ -174,7 +174,7 @@ include('inc/header.php') ?>
                             <h3>XDC/XDCe Utility available is here. Stake XDC/XDCe & Start Using</h3>
                         </div>
                         <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
-                            <p>XinFin Digital Contract (XDC) is the Digital Asset Powering XinFin Network</p>
+                            <p>XinFin Digital Contract (XDC) is the Digital Asset Powering XinFin Network.</p>
                             <p>Explore Apps, Demo versions, APIs and GitHubs all in one place.</p>
 			    <p>Have your own application? List it!</p>
                         </div>
@@ -469,7 +469,7 @@ include('inc/header.php') ?>
           <h1>Contact us</h1>
         </div>
         <div class="text-center wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
-          <p>Come build dApps, learn more about XinFin and the XDC Hybrid Blockchain, host a masternode,
+          <p>Come build dApps , learn more about XinFin and the XDC Hybrid Blockchain, host a masternode,
             <br/>or speak to our team.</p>
           <br/>
         </div>
