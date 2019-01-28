@@ -8,7 +8,7 @@ include('inc/header.php') ?>
 	<div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12 bannertext">
-                <h1>XinFin DPoS Consensus</h1>
+                <h1>XinFin DPoS Consensus: XDPoS</h1>
                 <p>XinFin DPoS-Consensus! We Invite Technical Community to Contribute towards the Enhancement of <strong>DPoS Consensus</strong><br/><br/><br/><br/></p> 
             </div>    
         </div>
@@ -146,7 +146,7 @@ In the contract, there will be a <span class="text-bg-grey">reportBenign</span> 
                         <p class="mb-1"><span class="text-bg-grey">MIN_STAKE</span> : 10000000 XDC</p>
                         <p class="mb-1"><span class="text-bg-grey">VALIDATOR_REWARD</span> : 0.01370% Daily</p>
                         <p class="mb-1"><span class="text-bg-grey">REWARDS_TRANSFER</span> : Every next block of epoch</p>
-                        <p class="mb-1"><span class="text-bg-grey">VALIDATOR_SET_SIZE</span> : 18-21</p>
+                        <p class="mb-1"><span class="text-bg-grey">VALIDATOR_SET_SIZE</span> : 21</p>
                         <p class="mb-1"><span class="text-bg-grey">WITHDRAWAL_PERIOD</span> : Set of Epoch (1 Epoch == 500 Blocks)</p>
                         <p><span class="text-bg-grey">MAX_REGISTERED_VALIDATORS</span> : 5000</p>
                         
