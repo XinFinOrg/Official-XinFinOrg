@@ -96,7 +96,7 @@ include('inc/header.php') ?>
             <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/kramaa-logo.jpg" alt="kramaa.com">
             </div>
-            <h3>Kramaa <span>Livenet</span></h3>
+            <h3>Kramaa <span>Testenet</span></h3>
             <div class="btn-block mb-1">
             	<a href="https://www.kramaa.com" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
                 <a href="https://github.com/XinFinOrg/Kramaa" target="_blank"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
@@ -115,7 +115,7 @@ include('inc/header.php') ?>
             <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/xinfin-blockchain-academy-logo.jpg" alt="tradefinex.org">
             </div>
-            <h3>XinFin Blockchain Academy <span>Livenet</span></h3>
+            <h3>XinFin Blockchain Academy <span>Testnet</span></h3>
             <div class="btn-block mb-1">
             	<a href="https://xinfinorg.github.io/Blockchain_Tutorial-website/index.html" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
                 <a href="https://github.com/XinFinOrg/Blockchain_Tutorial-website" target="_blank"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
