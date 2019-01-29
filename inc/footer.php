@@ -10,7 +10,7 @@
                 <a href="about.php">About Community</a><br/>
                 <a href="xinfin-consensus.php">Public DPOS Consensus</a><br/>
 				<a href="resources.php">Resource Guide</a><br/>
-                <a href="https://xinfin.network/">XinFin Network Status</a><br/>
+                <a href="http://xinfin.network/" target="_blank">XinFin Network Status</a><br/>
                 <a href="https://docs.xinfin.org/">Developer Portal</a><br/>
                 <a href="https://github.com/XinFinOrg/Open-Hackathon" target="_blank">Online Hackathon</a>
                 </p>

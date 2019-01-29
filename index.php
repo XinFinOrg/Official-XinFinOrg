@@ -214,7 +214,7 @@ include('inc/header.php') ?>
                             <p>Get started without any delay with developer-friendly tools and guides.</p>
                         </div>
                         <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
-                            <a href="developers"><button class="btn-blue">Build With XinFin</button></a>
+                            <a href="https://docs.xinfin.org/"><button class="btn-blue">Build With XinFin</button></a>
                             <a href="https://github.com/XinFinOrg/Open-Hackathon" target="_blank"><button class="btn-outline">Online Hackathon</button></a>
                         </div>
 					</div>
@@ -319,7 +319,7 @@ include('inc/header.php') ?>
           <a href="https://www.ramco.com/newsroom/press/releases/feb-18/ramco-partners-with-xinfin-to-provide-blockchain-solutions/" target="_blank"><img src="assets/images/home/partners/ramco-logo.png" alt="Ramco" class="img-responsive logoc"></a>
       </div>
       <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.9s">
-          <a href="#" target="_blank"><img src="assets/images/home/partners/indsoft-logo.png" alt="indsoft" class="img-responsive logoc"></a>
+          <!-- <a href="#" target="_blank"><--><img src="assets/images/home/partners/indsoft-logo.png" alt="indsoft" class="img-responsive logoc"><!--</a><-->
       </div>
       <div class="col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.1s">
           <a href="http://www.asianage.com/technology/in-other-news/170118/xinfin-unveils-blockchain-powered-tradefinex-platform-with-indias-assocham.html" target="_blank"><img src="assets/images/home/partners/assocham-logo.png" alt="Assocham" class="img-responsive logoc"></a>
@@ -355,13 +355,13 @@ include('inc/header.php') ?>
           <a href="https://globalcoinreport.com/xinfin-xdce-cryptocurrency-surges/" target="_blank"><img src="assets/images/home/media/globalcoin-logo.png" alt="GlobalCoinReport" class="img-responsive"></a>
         </div>
         <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.8s">
-          <a href="https://e27.co/tradefinex-aims-minimise-global-infra-deficit-blockcjain-powered-p2p-marketplace-20171219/" target="_blank"><img src="assets/images/home/media/e27-logo.png" alt="e27" class="img-responsive"></a>
+          <a href="https://e27.co/tradefinex-aims-minimise-global-infra-deficit-blockchain-powered-p2p-marketplace-20171219/" target="_blank"><img src="assets/images/home/media/e27-logo.png" alt="e27" class="img-responsive"></a>
         </div>
         <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.9s">
           <a href="https://www.livebitcoinnews.com/xinfin-unveils-xdc-hybrid-blockchain-protocol-opens-utility-token-sale/" target="_blank"><img src="assets/images/home/media/livebitcoinnews-logo.png" alt="LivebitcoinNews" class="img-responsive"></a>
         </div>
         <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1s">
-          <a href="https://m.nasdaq.com/article/xinfinorg-launches-first-of-its-kind-blockchain-based-multisig-wallet-on-xdc-hybrid-blockchain-for-various-enterprise-use-cases-20180629-00749" target="_blank"><img src="assets/images/home/media/nasdaq-logo.png" alt="Nasdaq" class="img-responsive"></a>
+          <a href="http://www.digitaljournal.com/pr/3871242" target="_blank"><img src="assets/images/home/media/Digital-Journal-logo.png" alt="DigitalJournal" class="img-responsive"></a>
         </div>
         <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.1s">
           <a href="https://cointelegraph.com/press-releases/bitcoins-roger-ver-and-mate-tokay-join-xinfinio-advisory-board" target="_blank"><img src="assets/images/home/media/cointelegraph-logo.png" alt="CoinTelegraph" class="img-responsive"></a>
@@ -542,3 +542,13 @@ include('inc/header.php') ?>
     </div>
   </div>
 </div>
+
+
+
+<!--script for close video-->
+<script type="text/javascript">
+$("#myModal").on('hidden.bs.modal', function (e) {
+    $("#myModal iframe").attr("src", $("#myModal iframe").attr("src"));
+});
+</script>
+<!--script for close video-->
