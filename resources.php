@@ -52,11 +52,11 @@ include('inc/header.php') ?>
       
       <p class="header mb-2">XinFin Network Status (Testnet)</p>
       <p>XinFin TestNet helps you understand how many nodes are hosted on XinFin Network, and provides detailed information such as their up-time, number of active nodes, gas price, gas limit etc. in a visualised manner.</p>
-      <a href="https://xinfin.network/" target="_blank"><button class="btn-blue mb-1">XinFin Network Status (testnet)</button></a>
+      <a href="http://xinfin.network/" target="_blank"><button class="btn-blue mb-1">XinFin Network Status (testnet)</button></a>
       
       <p class="header mb-2">XinFin Network Status (Live)</p>
       <p>XinFin LiveNet helps you understand how many nodes are hosted on XinFin Network, and provides detailed information such as their up-time, number of active nodes, gas price, gas limit etc. in a visualised manner.</p>
-      <a href="https://xinfin.network/" target="_blank"><button class="btn-outline mb-1">XinFin Network Status (Live)</button></a>
+      <a href="http://xinfin.network/" target="_blank"><button class="btn-outline mb-1">XinFin Network Status (Live)</button></a>
       
       <p class="header mb-2">XDC Explorer</p>
       <p>The XDC Explorer is an explorer for XDC tokens and brings you a synopsis of recent XDC transactions.</p>

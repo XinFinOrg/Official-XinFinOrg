@@ -200,7 +200,7 @@
               </li>
               <!--<li class="nav-item"><a href="works.php">How it works</a></li> -->
               <li class="nav-item">
-                <a href="https://xinfin.network/" target="_blank">XDC Network</a>
+                <a href="http://xinfin.network/" target="_blank">XDC Network</a>
               </li>
               <li class="nav-item">
                 <a href="xdc-utility.php">XDC/XDCE Utility</a>

@@ -542,3 +542,13 @@ include('inc/header.php') ?>
     </div>
   </div>
 </div>
+
+
+
+<!--script for close video-->
+<script type="text/javascript">
+$("#myModal").on('hidden.bs.modal', function (e) {
+    $("#myModal iframe").attr("src", $("#myModal iframe").attr("src"));
+});
+</script>
+<!--script for close video-->

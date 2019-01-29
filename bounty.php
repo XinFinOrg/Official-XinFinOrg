@@ -44,7 +44,7 @@ include('inc/header.php') ?>
                       
                       <p class="sub-header-small mt-5 mb-3">Task 2: XDCE Token Staking Function</p>
                       <p>A staking mechanism requires users who offer compute power or other resources to the service takers in the ecosystem to put up a portion of their tokens in order to do so. If a user has no tokens to stake, but wants to support the network by providing resources they must purchase them. In exchange for staking their tokens and providing the service a financial reward is received. By forcing providers to take a financial risk you are weeding out bad actors.</p>
-                      <p>Read more detailed requirement <a href="https://github.com/XinFinOrg/Hackathon/blob/master/OpenHackathon/XDCE_Staking_Function.md" target="_blank">here</a></p>
+                      <p class="text-left">Read more detailed requirement <a href="https://github.com/XinFinOrg/Hackathon/blob/master/OpenHackathon/XDCE_Staking_Function.md" target="_blank">here</a></p>
                       <p class="mb-1">DAPPS Related References:</p>
                       <div class="orderList mb-2">
                         <ul>
@@ -57,7 +57,7 @@ include('inc/header.php') ?>
                         
                         <p class="sub-header-small mt-5 mb-3">Task 3: Cross Blockchain Interoperability</p>
                         <p>Various blockchain need to connect to each other to create more efficiency in system. Like Bitcoin, Ripple and IOTA. We need to Create Bridge between various blockchain.</p>
-                        <p class="mb-1">Blockchain Interoperability References:</p>
+                        <p class="mb-1 text-left">Blockchain Interoperability References:</p>
                         <div class="orderList mb-2">
                         <ul>
                         	<li> <a href="https://github.com/paritytech/parity-bridge" target="_blank">Parity-Bridge</a></li>
@@ -70,8 +70,8 @@ include('inc/header.php') ?>
                         
                         <p class="header mb-3">Product or Platform DEMO/Presentation Bounty</p>
                         <p><strong>Deliverables:</strong> </p>
-                        <p><strong>Photos:</strong>  Meeting photos</p>
-                        <p><strong>Videos:</strong>  3-5 minutes</p>
+                        <p><strong>Photos:</strong> Meeting photos</p>
+                        <p><strong>Videos:</strong> 3-5 minutes</p>
                         <p>Names of Officials and need to tag with social media with XinFin</p>
                         
                         <p class="sub-header-small mt-3 mb-3">Tasks:</p>
@@ -79,17 +79,17 @@ include('inc/header.php') ?>
                         <div class="orderList mb-2">
                         <ol>
                         	<li>Meeting with Trade Industry Association of the country to present TradeFinex.org and to benefit SME industry by providing more transparency and structured data about the country's Industry, assets for global financiers</li>
-                            <p class="ml-0"><strong>Bounty : 2M XDCE</strong></p>
+                            <p class="ml-0"><strong>Bounty: 2M XDCE</strong></p>
                         	<li>Meet with Government and Ministry of Finance to present MyContract.co for creation of Digital Bonds on the combination of XinFin Private and Public network through hybrid architecture</li>
-                            <p class="ml-0"><strong>Bounty : 2M XDCE</strong></p>
+                            <p class="ml-0"><strong>Bounty: 2M XDCE</strong></p>
                             <li>Present Alphaex.net liquidity relay bridges on XDC Protocol to bring more liquidity to Trade Finance and Enterprise/Government Bonds to the country</li>
-                            <p class="ml-0"><strong>Bounty : 2M XDCE</strong></p>
+                            <p class="ml-0"><strong>Bounty: 2M XDCE</strong></p>
                             <li>Present TurantPay to start rolling out Remittance and counter-party risk mitigation for global markets dealing with regional corridor by initiating FIAT pair exchange against XDC/XDCE</li>
-                            <p class="ml-0"><strong>Bounty : 2M XDCE</strong></p>
+                            <p class="ml-0"><strong>Bounty: 2M XDCE</strong></p>
                             <li>Present how enterprises and governments can become staked participant in XinFin Network to deploy law of the land compliant private network within regional Jurisdiction as well as becoming part of the XinFin public trust network</li>
-                            <p class="ml-0"><strong>Bounty : 2M XDCE</strong></p>
+                            <p class="ml-0"><strong>Bounty: 2M XDCE</strong></p>
                             <li>IoT Demonstration: How the country can provide more transparency to global investors by sharing data using IoT APIs of the Kraama platform on XDC Protocol</li>
-                            <p class="ml-0"><strong>Bounty : 2M XDCE</strong></p>
+                            <p class="ml-0"><strong>Bounty: 2M XDCE</strong></p>
                         </ol>
                         </div>
                         <p class="link-break-out"><strong>Bounty Claim Form:</strong> <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill" target="_blank">https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill</a></p>
@@ -114,7 +114,7 @@ include('inc/header.php') ?>
                         <p><strong>Bounty:</strong>
                         <p class="mb-1">Exchange Listing Bounties</p>
                         <p><strong>Bounty:</strong> </p>
-                        <p class="link-break-out"><strong>Bounty Claim Form:</strong><a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill" target="_blank">https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill</a></p>
+                        <p class="link-break-out"><strong>Bounty Claim Form:</strong> <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill" target="_blank">https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill</a></p>
                         
                         <p class="sub-header-small mt-5 mb-3">Demo Arrangement:</p>
                         <p class="mb-1">Government Grade/Government Officials</p>
@@ -122,21 +122,21 @@ include('inc/header.php') ?>
                         <p><strong>Bounty:</strong> </p>
                         <p class="mb-1">Above Detail plus 1-3 minutes video</p>
                         <p><strong>Bounty:</strong> </p>
-                        <p class="link-break-out"><strong>Bounty Claim Form:</strong><a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill" target="_blank">https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill</a></p>
+                        <p class="link-break-out"><strong>Bounty Claim Form:</strong> <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill" target="_blank">https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill</a></p>
                         
                         <p class="mb-1">Institutional Grade DEMO about XinFin Platform or Products (TradeFinex, Land Registry, Insurance, TurantPay, InFactor, IoT )</p>
                         <p><strong>Bounty:</strong> </p>
-                        <p class="link-break-out"><strong>Bounty Claim Form:</strong><a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill" target="_blank">https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill</a></p>
+                        <p class="link-break-out"><strong>Bounty Claim Form:</strong> <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill" target="_blank">https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill</a></p>
                         
                         <p class="mb-1">Managing XinFin Dev Slack Channel</p>
                         <p><strong>Bounty:</strong> </p>
                         
                         <p class="mb-1">Video Recording about XinFin Product Review</p>
                         <p><strong>Bounty:</strong> </p>
-                        <p class="link-break-out"><strong>Bounty Claim Form:</strong><a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w" target="_blank">https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w</a></p>
+                        <p class="link-break-out"><strong>Bounty Claim Form:</strong> <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w" target="_blank">https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w</a></p>
                         
                         <p class="sub-header-small mt-4">Local Meetup with more than 25+ people in Asia and 15+ people in North america or Europe</p>
-                        <p class="mt-1"><strong>DEV-Community Meetup Grant Application</strong></p>
+                        <p class="mt-1 text-left"><strong>DEV-Community Meetup Grant Application</strong></p>
                         <p><strong>Deliverables:</strong> </p>
                         
                         <div class="orderList mb-2">
