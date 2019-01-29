@@ -169,7 +169,7 @@ include('inc/header.php') ?>
         </li>
         <li>
 			<div>
-				<time>Q1</time> Rollout of Demo Version for Ifactor
+				<time>Q1</time> Rollout of Demo Version for inFactor
 			</div>
         </li>
         <li>

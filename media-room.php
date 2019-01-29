@@ -160,18 +160,20 @@ include('inc/header.php') ?>
 
 
 	                    <div class="col-md-3 col-sm-6 col-xs-6 mediaroom-height">
-	                    <a href="https://nulltx.com/xinfins-xdc-protocol-to-provide-smart-contracts-for-bitcoin-and-upcoming-national-cryptocurrencies/" target="_blank"><img class="img-responsive" src="assets/images/Resources/nulltx.png" alt="NULLTX" width="100%" /></a>
-	                    <h3>NULLTX.Com</h3>
-	                    <p>XinFin's XDC Protocol to provide smart-contracts...</p>
-	                    <p class="date"> February 28, 2018</p>
-	                    </div>
-
-	                    <div class="col-md-3 col-sm-6 col-xs-6 mediaroom-height">
 	                    <a href="https://usethebitcoin.com/jason-butcher-joins-advisory-board-xinfin-singapore-based-fastest-growing-blockchain-technology-company/" target="_blank"><img class="img-responsive" src="assets/images/Resources/Use-the-bitcoin.jpg" alt="utb" width="100%" /></a>
 	                    <h3>UseTheBitcoin.Com</h3>
 	                    <p>Jason Butcher joins Advisory Board of XinFin...</p>
 	                    <p class="date">February 25, 2018</p>
 	                    </div>
+
+
+                      <div class="col-md-3 col-sm-6 col-xs-6 mediaroom-height">
+	                    <a href="https://techstory.in/blockchain-technology-prevent-billion-dollar-scams-trade-finance-industry/" target="_blank"><img class="img-responsive" src="assets/images/Resources/TechStory.png" alt="NULLTX" width="100%" /></a>
+	                    <h3>TECHSTORY</h3>
+	                    <p>Blockchain resolves issues related to lack of trust...</p>
+	                    <p class="date"> February 22, 2018</p>
+	                    </div>
+
 
 	                    </div>
 	                  </div>
