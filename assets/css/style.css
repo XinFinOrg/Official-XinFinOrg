@@ -3,7 +3,7 @@
 
 @font-face {
     font-family: latothin;
-    src: url('../fonts/LatoLatin-Thin.woff');
+    src: url('../fonts/LatoLatin-Thin.ttf');
 }
 
 @font-face {
@@ -23,7 +23,7 @@
 
 @font-face {
     font-family: latoregular;
-    src: url('../fonts/LatoLatin-Regular.woff');
+    src: url('../fonts/LatoLatin-Regular.ttf');
 }
 
 @font-face {
@@ -1031,7 +1031,7 @@ line-height: 32px;}
 .setup-masternode .configurationsBox h1{font-size:20px;text-align:center;text-transform:none;margin-top:30px;margin-bottom:0px;}
 .setup-masternode .configurationsBox p{text-align:center;margin-bottom:0px!important;}
 
-.setup-masternode .text-bg-grey{background-color:#f2f2f2;padding:5px;font-size:14px;}
+.setup-masternode .text-bg-grey{background-color:#f6f8fa;padding:6px;font-size:14px;display:inline-block;}
 .setup-masternode .underline{text-decoration:underline;}
 /*  STAKE XDC & SETUP MASTERNODE  */
 

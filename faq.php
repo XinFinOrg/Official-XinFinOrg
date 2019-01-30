@@ -229,7 +229,7 @@ include('inc/header.php') ?>
                         <li>
                             <h3>● What is the name of the Token?</h3>
                             <div>
-                                <p>XinFin's token, XDC is built using the XDC01 standard. XDC stands for XinFin Development Contract (XDC). The token will act as underlying payment and settlement for cross border peer to peer trade and settlement activities undertaken on our global marketplace <a href="www.tradefinex.org" target="_blank">www.tradefinex.org</a>.</p>
+                                <p>XinFin's token, XDC is built using the XDC01 standard. XDC stands for XinFin Development Contract (XDC). The token will act as underlying payment and settlement for cross border peer to peer trade and settlement activities undertaken on our global marketplace <a href="https://www.tradefinex.org/" target="_blank">www.tradefinex.org</a>.</p>
                           </div>
                         </li>
                         <li>
@@ -600,7 +600,7 @@ The XDC ecosystem will provide easily accessible light wallets that will connect
                             <div>
                                 <p>Latest developments can be found on http://www.xinfin.org/media-room/ and on all our social media channels.</p>
                                 <ul style="list-style-type:disc;">
-                                  <li>Twitter: <a href="https://twitter.com/XinfinF" target="_blank">https://twitter.com/XinfinF</a></li>
+                                  <li>Twitter: <a href="https://twitter.com/XinFin_Official" target="_blank">https://twitter.com/XinFin_Official</a></li>
                                     <li>LinkedIn: <a href="https://www.linkedin.com/in/xinfin/" target="_blank">https://www.linkedin.com/in/xinfin/</a></li>
                                     <li>Forum: <a href="http://xinfin.net/index.php" target="_blank">http://xinfin.net/index.php</a></li>
                                     <li>YouTube: <a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g?view_as=subscriber" target="_blank">https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g?view_as=subscriber</a></li>

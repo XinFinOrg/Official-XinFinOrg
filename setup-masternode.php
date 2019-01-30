@@ -98,8 +98,8 @@ include('inc/header.php') ?>
                         <p class="sub-header mb-3">Master node</p>
                         <ul>
                         	<li><strong>Masternodes</strong> are full-nodes that create, verify and validate new blocks in XinFin's platform.</li>
-                            <li><strong>mXDC</strong>:- Let's assume mXDC <strong>{mainNet-XDC}</strong> will be native crypto on XinFin dPOS network. mXDC will be rewarded to MN Owners.</li>
-                            <li><strong>Epoch</strong>:- We can use epoch instead of hard date to distribute incentive/rewards to masternode owners (1 epoch could be number of block, for example <strong>{1 Epoch =  888 Blocks}</strong></li>
+                            <li><strong>mXDC</strong>: Let's assume mXDC <strong>{mainNet-XDC}</strong> will be native crypto on XinFin dPOS network. mXDC will be rewarded to MN Owners.</li>
+                            <li><strong>Epoch:</strong> We can use epoch instead of hard date to distribute incentive/rewards to masternode owners (1 epoch could be number of block, for example <strong>{1 Epoch =  888 Blocks}</strong></li>
                             <li><strong>Masternode Candidate:</strong> Any account can deposit X mXDC using the official on-chain governance d-app to complete KYC complaint to become a Masternode Candidate. <strong>X'nos</strong> mXDC deposit can earn staking rewards. A Candidate can resign, but the mXDC tokens will be locked for the next 30 days ( Let's assume we have new block in each 2 sec 1,296,000 blocks) after the resignation. </li>
                             <li><strong>Becoming a Masternode:</strong> A Candidate becomes a Masternode when he/she belongs to top 50 most voted Candidates in each epoch. A Masternode can resign, but the tokens  will be locked for the next 30 days after the resignation.</li>
                             <li><strong>Reward:</strong> The reward a Masternode receives in each epoch is proportional to the number of signatures he/she signs.</li>
@@ -116,79 +116,71 @@ include('inc/header.php') ?>
                          
                         <p class="sub-header mb-3">Incentives to set up your own masternode</p>
            				<p class="mb-1">Several reasons why setting up a masternode is useful are:</p>
-<ul class="mb-2">
+						<ul class="mb-2">
                          	<li>Reputation building within the network community.</li>
                             <li>Trust Factor enhances for your node particularly since network relies on your node.</li>
                             <li>More Incentive gain as your node pushes more transactions on network.</li>
                             <li>Private blockchain is capable of running its own use case.</li>
-                         </ul>
-       	    			 <p class="mb-1"><strong>Important:</strong> Max number of Master node allowed in the network is 5000.</p>
-                         <p class="mb-1"><strong>Special incentives for 21st validator node:</strong> information required Depends on Nos of Block created by validator node (incentive In terms of XDC)</p>
-       	    			 <p class="mb-1"><strong>Reward Cycle:</strong> Every 15 days.</p>
+                        </ul>
+       	    			<p class="mb-1"><strong>Important:</strong> Max number of Master node allowed in the network is 5000.</p>
+                        <p class="mb-1"><strong>Special incentives for 21st validator node:</strong> information required Depends on Nos of Block created by validator node (incentive In terms of XDC)</p>
+       	    			<p class="mb-1"><strong>Reward Cycle:</strong> Every 15 days.</p>
                          
-                         <p class="sub-header mb-3">FAQ</p>
-                         <p class="mb-1"><strong>1. a. What is Masternode Node?</strong></p>
-                         <p>Masternode is simply a cryptocurrency full node or computer wallet that keeps the full copy of the blockchain record in real-time.</p>
-                         <p class="mb-1"><strong>1 b. What is Validator node?</strong></p>
-                         <p>In XinFin, 'Validator Node'' are full nodes that incentivize node operators to perform the core consensus functions of running a DPoS based blockchain. Only Validator Node gets incentive to validate the transaction.</p>
-                         <p class="mb-1"><strong>How to become a Validator Node?</strong></p>
-                         <p>Under XinFin DPoS, Highest XDC Stakeholder 21 Node Act as Validator node rest node act as Backup node and Private node.</p>
-                         <p class="mb-1"><strong>If there is no transaction fees on network then how validator gets incentive?</strong></p>
-                         <p>Network generate additional coin to provide incentive to validator node. Nos depends on network load and numbers of transaction process within the network.</p>
-                         <p class="mb-1"><strong>How to get XDC ?</strong></p>
-                         <p>XDC is listed with more then 20 Liquidity Exchanges. The full list of exchanges is available at <a href="https://xinfin.io" target="_blank">xinfin.io</a> so that you can purchase XDC from open market to stake under masternode.</p>
+                        <p class="sub-header mb-3">FAQ</p>
+                        <p class="mb-1"><strong>1. a. What is Masternode Node?</strong></p>
+                        <p>Masternode is simply a cryptocurrency full node or computer wallet that keeps the full copy of the blockchain record in real-time.</p>
+                        <p class="mb-1"><strong>1 b. What is Validator node?</strong></p>
+                        <p>In XinFin, 'Validator Node'' are full nodes that incentivize node operators to perform the core consensus functions of running a DPoS based blockchain. Only Validator Node gets incentive to validate the transaction.</p>
+                        <p class="mb-1"><strong>How to become a Validator Node?</strong></p>
+                        <p>Under XinFin DPoS, Highest XDC Stakeholder 21 Node Act as Validator node rest node act as Backup node and Private node.</p>
+                        <p class="mb-1"><strong>If there is no transaction fees on network then how validator gets incentive?</strong></p>
+                        <p>Network generate additional coin to provide incentive to validator node. Nos depends on network load and numbers of transaction process within the network.</p>
+                        <p class="mb-1"><strong>How to get XDC ?</strong></p>
+                        <p>XDC is listed with more then 20 Liquidity Exchanges. The full list of exchanges is available at <a href="https://xinfin.io" target="_blank">xinfin.io</a> so that you can purchase XDC from open market to stake under masternode.</p>
                          
-                         <p class="header mb-3">Hands on guide: How to Setup Masternode</p>
-       	    			 <p class="mb-1">There are two methods to choose from to set up the masternode:</p>
-                         <div class="orderList">
-          				 <ol>
-                         	<li>DIY masternode environment set up</li>
-                            <li>Delegate masternode set up to third party service provider</li>
-                         </ol>
-                         </div>
+                        <p class="header mb-3">Hands on guide: How to Setup Masternode</p>
+       	    			<p class="mb-1">There are two methods to choose from to set up the masternode:</p>
+                        <div class="orderList">
+          					<ol>
+                        		<li>DIY masternode environment set up</li>
+                            	<li>Delegate masternode set up to third party service provider</li>
+                        	</ol>
+                        </div>
                          
-                         <p class="sub-header mb-3">METHOD 1: DIY masternode environment set up</p>
-<div class="orderList mb-4">
-                         <ol>
-                         	<li>Create a working folder/directory for this exercise. It will be used to hold binaries and configuration files.</li>
-                            <li>Clone Repository from Github link:<br />
-                            <span class="text-bg-grey link-break-out">$ git clone https://github.com/XinFinorg/</span></li>
-                            <li>Install Docker & Docker Compose<br />
-                            <span class="text-bg-grey link-break-out">$ sudo ./install_docker.sh</span></li>
-                            <li>Pull Image from Docker Hub<br />
-                            <span class="text-bg-grey link-break-out">$ sudo docker pull xinfinorg</span></li>
-                            <li>Setup<br />
-                            <span class="text-bg-grey link-break-out">$ cd static-nodes<br />
-                            $ sudo ./setup.sh</span></li>
-                            <li>Enter the initial number of nodes & public IP address of host machine & then start the nodes using.<br />
-                            <span class="text-bg-grey link-break-out">$ sudo docker-compose -p &#60;PROJECT_NAME_STATIC_NODE&#62; up -d</span></li>
-                            <li>To Stop<br />
-                            <span class="text-bg-grey link-break-out">$ sudo docker-compose -p &#60;PROJECT_NAME_STATIC_NODE&#62; down</span></li>
-                            <li>Accessing the console<br />
-                            <span class="text-bg-grey link-break-out">$ sudo docker exec -it PROJECT_NAME_STATIC_NODES_node_1_1 geth attach /</span></li>
-                            <li>Upgrade<br />
-                            <span class="text-bg-grey link-break-out">$ sudo docker pull xinfinorg/</span></li>
-                            <li>Stop containers running old version<br />
-                            <span class="text-bg-grey link-break-out">$ sudo docker-compose -p &#60;PROJECT_NAME_STATIC/DYNAMIC_NODE&#62; down</span></li>
-                            <li>Run new version<br />
-                            <span class="text-bg-grey link-break-out">sudo docker-compose -p &#60;PROJECT_NAME_STATIC/DYNAMIC_NODE&#62; up -d</span></li>
-                         </ol>
-                         </div>
+                        <p class="sub-header mb-3">METHOD 1: DIY Masternode environment set up</p>
+						<p class="mt-1 mb-1"><strong>Clone repository</strong></p>
+                        <p class="text-left link-break-out"><span class="text-bg-grey">git clone https://github.com/XinFinOrg/XinFin-Node.git</span></p>
+                        <p class="text-left link-break-out">Enter <span class="text-bg-grey">XinFin-Node</span> directory</p>
+                        <p class="text-left link-break-out"><span class="text-bg-grey">cd XinFin-Node</span></p>
                          
-       	    			 <p class="mb-1"><strong>Troubleshooting</strong></p>
-                         <p>If you are having problems with Setup, the first step is to collect more information to accurately characterize the problem. From there, it can be easier to figure out a root cause and a fix.</p>
-                         <p class="link-break-out">Please drop message with all possible detail and screen shot at  Community Support forum: <a href="http://xinfin.Net" target="_blank">http://xinfin.Net</a></p>
-                         <p class="link-break-out">Telegram Community: <a href="https://t.me/XinFinDevelopers" target="_blank">https://t.me/XinFinDevelopers</a></p>
-                         <p class="link-break-out">Slack Community: <a href="https://xinfin-public.slack.com/messages/CELR2M831/" target="_blank">https://xinfin-public.slack.com/messages/CELR2M831/</a></p>
+                        <p class="mt-1 mb-1"><strong>Step 1: Install docker & docker-compose</strong></p>
+                        <p class="text-left link-break-out"><span class="text-bg-grey">sudo ./install_docker.sh</span></p>
                          
-                         <p class="sub-header mb-3">METHOD 2: Delegate masternode se up to third party service provider</p>
-                         <p>Set up your Masternode using one of these 3rd party Masternode service providers.</p>
-       	    			 <p class="underline">DISCLAIMER: This list is provided for informational purposes only. Services listed here have not been evaluated or endorsed by XinFin and no guarantees are made as to the accuracy of this information. Please exercise discretion when using third-party services.</p>
+                        <p class="mt-1 mb-1"><strong>Step 2: Update .env file with details</strong></p>
+                        <p class="text-left link-break-out">Create <span class="text-bg-grey">.env</span> file by using the sample - <span class="text-bg-grey">.env.example</span></p>
+                        <p class="link-break-out">Enter your node name in the INSTANCE_NAME field.</p>
+                        <p class="link-break-out">Enter your email address in CONTACT_DETAILS field.</p>
                          
-                         <p class="header mb-3">List of service provider to Setup masternode</p>
-<div class="orderList mb-3">
-                         	<ol>
-                                <li>IndSoft.net</li>                                
+                        <p class="mt-1 mb-1"><strong>Step 3: Start your Node</strong></p>
+                        <p>Run:</p>
+                        <p class="text-left link-break-out"><span class="text-bg-grey">sudo docker-compose -f docker-services.yml up -d</span></p>
+                        <p class="link-break-out">You should be able to see your node listed on this page: <a href="http://xinfin.network" target="_blank">http://xinfin.network</a> Select Menu "Switch to TestNet" for TestNetwork and Select "Switch to LiveNet" to check LiveNetwork Stats.</p>
+                        <p>Your coinbase address can be found in xdcchain/coinbase.txt file.</p>
+                         
+       	    			<p class="mb-1"><strong>Troubleshooting</strong></p>
+                        <p>If you are having problems with Setup, the first step is to collect more information to accurately characterize the problem. From there, it can be easier to figure out a root cause and a fix.</p>
+                        <p class="link-break-out">Please drop message with all possible detail and screen shot at  Community Support forum: <a href="http://xinfin.Net" target="_blank">http://xinfin.Net</a></p>
+                        <p class="link-break-out">Telegram Community: <a href="https://t.me/XinFinDevelopers" target="_blank">https://t.me/XinFinDevelopers</a></p>
+                        <p class="link-break-out">Slack Community: <a href="https://xinfin-public.slack.com/messages/CELR2M831/" target="_blank">https://xinfin-public.slack.com/messages/CELR2M831/</a></p>
+                         
+                        <p class="sub-header mb-3">METHOD 2: Delegate masternode se up to third party service provider</p>
+                        <p>Set up your Masternode using one of these 3rd party Masternode service providers.</p>
+       	    			<p class="underline">DISCLAIMER: This list is provided for informational purposes only. Services listed here have not been evaluated or endorsed by XinFin and no guarantees are made as to the accuracy of this information. Please exercise discretion when using third-party services.</p>
+                         
+                        <p class="header mb-3">List of service provider to Setup masternode</p>
+						<div class="orderList mb-3">
+                        	<ol>
+                            	<li>IndSoft.net</li>                                
                                 <ul>
                                     <li>IPv6 and tor Supported</li>
                                     <li>Global geographical locations</li>
@@ -198,25 +190,23 @@ include('inc/header.php') ?>
                                     <li>Monthly: 250 USD (pay in XDC, Paypal, debit, or credit card)</li>
                                 </ul>
                             </ol>
-                         </div>
+                        </div>
                          
-                         <p class="mb-1">Are you a Provider?</p>
-               			 <p>If yes, then <a href="contactus.php">Contact us</a> to List your service.</p>
+                        <p class="mb-1"><strong>Are you a Provider?</strong></p>
+               			<p>If yes, then <a href="contactus.php">Contact us</a> to List your service.</p>
                          
-                         <p class="mb-1">Masternode Tools</p>
-               			 <p>Community Forum update link: <a href="http://xinfin.net/">http://xinfin.net</a></p>
-                     		<p>Telegram Development Community: <a href="https://t.me/XinFinDevelopers">https://t.me/XinFinDevelopers</a></p>
-                      <p>Slack Public Channel:: <a href="https://xinfin-public.slack.com/messages/CELR2M831/">https://xinfin-public.slack.com/messages/CELR2M831/</a></p>
+                        <p class="mb-1"><strong>Masternode Tools</strong></p>
+               			<p class="link-break-out">Community Forum update link: <a href="http://xinfin.net/" target="_blank">http://xinfin.net</a></p>
+                        <p class="link-break-out">Telegram Development Community: <a href="https://t.me/XinFinDevelopers" target="_blank">https://t.me/XinFinDevelopers</a></p>
+                      	<p class="link-break-out">Slack Public Channel: <a href="https://xinfin-public.slack.com/messages/CELR2M831/" target="_blank">https://xinfin-public.slack.com/messages/CELR2M831/</a></p>
                          
-            			 <p class="header mb-3">Where to operate? Mainnet vs Testnet:</p>
-                         <p>In XinFin, there are two networks where you can run XDC protocol: the mainnet and the testnet.</p>
-                 		 <p>The mainnet is used to transact real XDC. The XDC's value is tied to real fiat currency via cryptocurrency exchanges.</p>
-                         <p>As developers, you do not want to run application tests with real money. That is what the testnet is for. We call the testnet <a href="https://xinfin.network/" target="_blank">XinFinTestNet</a>.</p>
-
+            			<p class="header mb-3">Where to operate? Mainnet vs Testnet:</p>
+                        <p>In XinFin, there are two networks where you can run XDC protocol: the mainnet and the testnet.</p>
+                 		<p>The mainnet is used to transact real XDC. The XDC's value is tied to real fiat currency via cryptocurrency exchanges.</p>
+                        <p>As developers, you do not want to run application tests with real money. That is what the testnet is for. We call the testnet <a href="http://xinfin.network/" target="_blank">XinFinTestNet</a>.</p>
                                                   
+                  </div>                        
                   </div>
-                        
-                    </div>
                 </div>
             </div>
 			</div>
