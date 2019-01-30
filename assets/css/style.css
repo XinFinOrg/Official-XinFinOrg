@@ -4049,8 +4049,9 @@ margin-left:20px;
 
 
 #playTrigger i.fa.fa-play {font-size: 11px;position: relative;left: 5px;margin-right: 0px;display: inline-block;border-radius: 50%;border: 1px solid #fff;padding: 7px 9px;width: 26px;height: 26px;}
+
 .playTriggerBlock{text-align:left;}
-@media only screen and (max-width:768px){.playTriggerBlock{text-align:center;}}
+@media only screen and (max-width:768px){.playTriggerBlock{text-align:center;}#playTrigger .btn-fill-default{margin-bottom:20px;}}
 
 /*----- Sticky Navbar Inverse -----*/
 .sticky.navbar-inverse .navbar-nav>li>a {color: #666!important;}
