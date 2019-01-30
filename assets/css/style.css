@@ -3,7 +3,7 @@
 
 @font-face {
     font-family: latothin;
-    src: url('../fonts/LatoLatin-Thin.ttf');
+    src: url('../fonts/LatoLatin-Thin.woff');
 }
 
 @font-face {
@@ -23,7 +23,7 @@
 
 @font-face {
     font-family: latoregular;
-    src: url('../fonts/LatoLatin-Regular.ttf');
+    src: url('../fonts/LatoLatin-Regular.woff');
 }
 
 @font-face {
@@ -4047,9 +4047,7 @@ margin-left:20px;
 .button8::before{content: '';position: absolute;top: 0;left: 0;width: 0%;height: 100%;z-index: 1;opacity: 0;background-color: #02ccad;-webkit-transition: all 0.3s;-moz-transition: all 0.3s;-o-transition: all 0.3s;transition: all 0.3s;}
 .button8:hover::before{opacity: 1;width: 100%;}
 
-
 #playTrigger i.fa.fa-play {font-size: 11px;position: relative;left: 5px;margin-right: 0px;display: inline-block;border-radius: 50%;border: 1px solid #fff;padding: 7px 9px;width: 26px;height: 26px;}
-
 .playTriggerBlock{text-align:left;}
 @media only screen and (max-width:768px){.playTriggerBlock{text-align:center;}#playTrigger .btn-fill-default{margin-bottom:20px;}}
 
@@ -4063,5 +4061,3 @@ margin-left:20px;
 .sticky.navbar-inverse .navbar-toggle .icon-bar{background-color: #096db0;}
 .navbar-inverse .navbar-toggle{background-color:none!important;}
 /*----- Sticky Navbar Inverse -----*/
-
-
