@@ -173,7 +173,7 @@ include('inc/header.php') ?>
                         <p class="link-break-out">Telegram Community: <a href="https://t.me/XinFinDevelopers" target="_blank">https://t.me/XinFinDevelopers</a></p>
                         <p class="link-break-out">Slack Community: <a href="https://xinfin-public.slack.com/messages/CELR2M831/" target="_blank">https://xinfin-public.slack.com/messages/CELR2M831/</a></p>
                          
-                        <p class="sub-header mb-3">METHOD 2: Delegate masternode se up to third party service provider</p>
+                        <p class="sub-header mb-3">METHOD 2: Delegate masternode set up to third party service provider</p>
                         <p>Set up your Masternode using one of these 3rd party Masternode service providers.</p>
        	    			<p class="underline">DISCLAIMER: This list is provided for informational purposes only. Services listed here have not been evaluated or endorsed by XinFin and no guarantees are made as to the accuracy of this information. Please exercise discretion when using third-party services.</p>
                          
