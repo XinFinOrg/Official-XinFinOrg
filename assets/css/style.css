@@ -937,7 +937,7 @@ hr {
 .usecase-box p{font-size:15px;line-height:20px;}
 
 button.btn-blue {font-size:16px;background: #096db0;color:#fff;border: 2px solid #096db0;box-shadow:none;padding: .80rem 2rem;-webkit-border-radius: 10em;border-radius: 10em;margin: 0 auto;transition: 0.5s linear;margin-bottom:5px;}
-button.btn-blue:hover {cursor: pointer;background: #112b3c;color:#fff;border-color: #112b3c;}
+button.btn-blue:hover {cursor: pointer;background: #064570;color:#fff;border-color: #064570;}
 button.btn-blue .fa{margin-right:5px;}
 
 button.btn-outline{font-size:16px;background-color:transparent;background-image:none;color:#096db0;border: 2px solid #096db0;box-shadow:none;padding: .80rem 2rem;-webkit-border-radius: 10em;border-radius: 10em;margin: 0 auto;transition: 0.5s linear;margin-bottom:5px;}
@@ -1850,27 +1850,35 @@ label span{color:#096db0;font-size:12px;line-height:10px;}
 
 .submitbtn
 {
-  background-color: #096db0;
-  border: none;
-  -webkit-border-radius: 10em;
+    /*background-color: #096db0;
+    border: none;
+    -webkit-border-radius: 10em;
     border-radius: 10em;
-  color:#fff;
-  text-transform: uppercase;
-  padding:5px 40px;
-      margin: 0 auto;
+    color: #fff;*/
+    text-transform: uppercase;
+    padding: 0px 40px!important;
+    margin: 0 auto!important;
     text-align: center;
     display: block;
-    font-size: 20px;	
-  padding-top:10px;
+    padding-top: 2px!important;
+    line-height: 40px!important;
+	transition: 0.5s linear;
 }
-
-.submitbtn:hover
+/*.submitbtn:hover, .submitbtn:focus
 {
-  background-color: #112b3c;
+  background-color: #064570;
   border: none;
+  outline:0;
   color:#fff;
-  text-transform: uppercase;
 }
+.submitbtn:focus
+{
+  background-color: #096db0;
+  border: none;
+  outline:0;
+  color:#fff;
+}*/
+
 
 .contactpara
 {
@@ -2689,7 +2697,7 @@ width: 94.5%; padding-left:30px;
 .timeline ol {
   font-size: 0;
   width: 100vw;
-  padding: 150px 0;
+  padding: 170px 0;
   transition: all 1s;
 }
 
@@ -2968,7 +2976,15 @@ display: inline-table;
   }
   .timeline ol li:nth-child(12) {
    width: 100%; 
-}
+  }
+  
+  .timeline ol li:nth-child(22) div {
+    margin-top: 0;
+    padding:0;
+  }
+  .timeline ol li:nth-child(22) {
+   width: 100%; 
+  }
 }
 
 

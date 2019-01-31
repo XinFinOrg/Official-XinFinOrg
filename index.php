@@ -177,7 +177,7 @@ include('inc/header.php') ?>
 					<div class="content-box">
                         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
                             <!--<h1 class="text-transform-none" style="text-align:left;">XDC/XDCe Utility</h1>-->
-                            <h3>XDC/XDCe Utility available is here. Stake XDC/XDCe & Start Using</h3>
+                            <h3>XDC/XDCe Utility is available here. Stake XDC/XDCe & Start Using</h3>
                         </div>
                         <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
                             <p>XinFin Digital Contract (XDC) is the Digital Asset Powering XinFin Network.</p>
@@ -186,7 +186,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
                             <a href="xdc-utility.php"><button class="btn-blue">Explore More</button></a>
-                            <a href="https://XinFin.Network"><button class="btn-outline">Download XinFin Wallet</button></a>
+                            <a href="https://www.xdcwallet.com/" target="_blank"><button class="btn-outline">Download XinFin Wallet</button></a>
                         </div>
 					</div>
                 </div>
@@ -214,7 +214,7 @@ include('inc/header.php') ?>
 					<div class="content-box">
                         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
                             <!--<h1 class="text-transform-none" style="text-align:left;">Standardised dApps</h1>-->
-                            <h3>Don't Develop from Scratch, Check here Standardized Dapps for you</h3>
+                            <h3>Don't Develop from Scratch, Standardized Dapps for you Check here</h3>
                         </div>
                         <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
                             <p>Get started without any delay with developer-friendly tools and guides.</p>

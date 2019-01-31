@@ -214,7 +214,7 @@ include('inc/header.php') ?>
         </li>
         <li>
 			<div>
-				<time>Q2</time> Rollout of Live Version for iFactor
+				<time>Q2</time> Rollout of Live Version for InFactor
 			</div>
         </li>
         <li>

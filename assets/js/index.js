@@ -9,7 +9,7 @@
       arrowPrev = document.querySelector(".timeline .arrows .arrow__prev"),
       arrowNext = document.querySelector(".timeline .arrows .arrow__next"),
       firstItem = document.querySelector(".timeline li:first-child"),
-      lastItem = document.querySelector(".timeline li:last-child"),
+	  lastItem = document.querySelector(".timeline li:last-child"),
       xScrolling = 280,
       disabledClass = "disabled";
 

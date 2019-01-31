@@ -43,7 +43,7 @@ include('inc/header.php') ?>
       <a href="docs/whitepaper-business.pdf" target="_blank"><button class="btn-outline mb-1">Business White Paper</button></a>
       
       <p class="header mb-2">XinFin Consensus</p>
-      <p>This section talks about XinFin's Public DPoS Consensus that leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way. The Self KYC feature added in XinFin DPoS allows for a an enterprise and regulator friendly process.</p>
+      <p>This section talks about XinFin's Public DPoS Consensus that leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way. The Self KYC feature added in XinFin DPoS allows for an enterprise and regulator friendly process.</p>
       <a href="xinfin-consensus.php"><button class="btn-blue mb-1">XinFin Consensus</button></a>
       
       <p class="header mb-2">Setup XinFin Node</p>
@@ -51,11 +51,11 @@ include('inc/header.php') ?>
       <a href="https://github.com/XinFinOrg/XDC01-docker-Nnodes" target="_blank"><button class="btn-outline mb-1">Setup XinFin Node</button></a>
       
       <p class="header mb-2">XinFin Network Status (Testnet)</p>
-      <p>XinFin TestNet helps you understand how many nodes are hosted on XinFin Network, and provides detailed information such as their up-time, number of active nodes, gas price, gas limit etc. in a visualised manner.</p>
-      <a href="http://xinfin.network/" target="_blank"><button class="btn-blue mb-1">XinFin Network Status (testnet)</button></a>
+      <p>XinFin Testnet helps you understand how many nodes are hosted on XinFin Network, and provides detailed information such as their up-time, number of active nodes, gas price, gas limit etc. in a visualised manner.</p>
+      <a href="http://xinfin.network/" target="_blank"><button class="btn-blue mb-1">XinFin Network Status (Testnet)</button></a>
       
       <p class="header mb-2">XinFin Network Status (Live)</p>
-      <p>XinFin LiveNet helps you understand how many nodes are hosted on XinFin Network, and provides detailed information such as their up-time, number of active nodes, gas price, gas limit etc. in a visualised manner.</p>
+      <p>XinFin Livenet helps you understand how many nodes are hosted on XinFin Network, and provides detailed information such as their up-time, number of active nodes, gas price, gas limit etc. in a visualised manner.</p>
       <a href="http://xinfin.network/" target="_blank"><button class="btn-outline mb-1">XinFin Network Status (Live)</button></a>
       
       <p class="header mb-2">XDC Explorer</p>
