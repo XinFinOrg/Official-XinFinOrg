@@ -11,7 +11,7 @@ include('inc/header.php') ?>
             <div class="bannertext">
                 <h1>XDC/XDCE Utility</h1>
                 <p>The XDC token is the underlying utility token that powers XinFin's Hybrid Blockchain. The XDC token acts as a settlement mechanism for DApps built on the XinFin Hybrid Blockchain. XinFin has also launched an Ethereum token called XDCE that can be traded with XDC utility token at a 1:1 ratio. This gives the token holder flexibility to hold tokens in either form for utility. The ERC-20 token can be swapped for the XDC token at a ratio of 1:1. This swap can be facilitated on the AlphaEx exchange. AlphaEx is compatible with all decentralised exchanges and has a presence in liquidity markets and supports XDC liquidity.</p>
-                <h3>To date, use cases built around XinFin’s XDC utility token are:</h3> <p> MyContract, TradeFinex, Kramaa, Land Registry, iFactor, XinFin Blockchain Academy and TurantPay</p>
+                <p>To date, use cases built around XinFin’s XDC utility token are: MyContract, TradeFinex, Kramaa, Land Registry, inFactor, XinFin Blockchain Academy and TurantPay.</p>
             </div>
         </div>
     </div>
