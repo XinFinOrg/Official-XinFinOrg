@@ -61,9 +61,9 @@ include('inc/header.php') ?>
                         <div class="orderList">
                         <ol>
                         	<li> <strong>Staking</strong></li>                        
-                        	<p>Users can stake their coins by sending them to the <span class="text-bg-grey">deposit</span> function on the staking contract.</p>
+                        	<p>Users can stake their coins by sending them to the <code>deposit</code> function on the staking contract.</p>
                             <ul>
-                            	<li> The staked amount must be larger than an amount <span class="text-bg-grey">MIN_STAKE</span></li>
+                            	<li> The staked amount must be larger than an amount <code>MIN_STAKE</code></li>
                             	<li> The user will have to wait for 2 epochs (epoch N+2) before being able to vote for a delegate.</li>
                             </ul>
                             <li> <strong>Delegating</strong></li>
@@ -76,19 +76,19 @@ include('inc/header.php') ?>
                             <li> <strong>Withdrawal</strong></li>
                             <p>Nominators should be able to withdraw their stake.</p>
                             <ul>
-                        		<li> First they must call <span class="text-bg-grey">delegate</span> to remove their vote.</li>
-                        		<li> After a specified number of epochs <span class="text-bg-grey">WITHDRAWAL_PERIOD</span> the funds are unlocked and <span class="text-bg-grey">withdraw</span> function on the smart contract can be called with a withdrawal address.</li>
+                        		<li> First they must call <code>delegate</code> to remove their vote.</li>
+                        		<li> After a specified number of epochs <code>WITHDRAWAL_PERIOD</code> the funds are unlocked and <code>withdraw</code> function on the smart contract can be called with a withdrawal address.</li>
                         	</ul>
                         </ol>
                         
                         <p class="sub-header">Validators Registration</p>
                         <p>Any network participant will be able to register as a Validator.</p>
                         <ul class="mb-2">
-                        	<li> A specified value <span class="text-bg-grey">REGISTRATION_VALUE</span> (in the native token) will be sent to a <span class="text-bg-grey">register</span> function on the contract. It will be staked in order to limit the number of participants.</li>
+                        	<li> A specified value <code>REGISTRATION_VALUE</code> (in the native token) will be sent to a <span class="text-bg-grey">register</span> function on the contract. It will be staked in order to limit the number of participants.</li>
                             <li> Validator is required to add KYC document at the time of staking XDC token.</li>
-                            <li> A hard limit to the total number of registered Validators <span class="text-bg-grey">MAX_REGISTERED_VALIDATORS</span> should be specified.</li>
+                            <li> A hard limit to the total number of registered Validators <code>MAX_REGISTERED_VALIDATORS</code> should be specified.</li>
                             <li> Any Validator registering will have to wait for the beginning of epoch N+2 (current epoch being N) to be eligible.</li>
-                            <li> A Validator's total stake must be greater than the <span class="text-bg-grey">MIN_TOTAL_STAKE</span> in order for it to be eligible.</li>
+                            <li> A Validator's total stake must be greater than the <code>MIN_TOTAL_STAKE</code> in order for it to be eligible.</li>
                             <li> The top validators (by a total stake) in a given epoch are chosen as the active Validator Set: those Validators that produce blocks in the next epoch.</li>
                         </ul>
                         
@@ -107,7 +107,7 @@ include('inc/header.php') ?>
                         <p class="sub-header">Rewards</p>
                         <p>Rewards are assigned via the Rewards Contract.</p>
                         <ul>
-                        	<li> Rewards for active Validators are calculated as a percentage of total stake, <span class="text-bg-grey">VALIDATOR_REWARD</span>.</li>
+                        	<li> Rewards for active Validators are calculated as a percentage of total stake, <code>VALIDATOR_REWARD</code>.</li>
                             <li> Nominators would also need to be rewarded to incentivize them to stake. There are a couple of options here:</li>
                             <ul>
                             	<li> The reward contract pays directly out to nominators, minus a fee payed the Validator, which could be specified when registering.</li>
@@ -124,7 +124,7 @@ include('inc/header.php') ?>
                         <ol>
                         	<li> <strong>Off-chain</strong></li>                        
                         	<p>Off-chain detection of misbehaviour is easier to implement and can be used for tricky misbehaviour detections.
-In the contract, there will be a <span class="text-bg-grey">reportBenign</span> method (part of the Validator Set Contract) that only Validators can call, passing a message and a block-number, and a slashing will execute if more than 2/3 of the Validators agree on the misbehaviour.</p>
+In the contract, there will be a <code>reportBenign</code> method (part of the Validator Set Contract) that only Validators can call, passing a message and a block-number, and a slashing will execute if more than 2/3 of the Validators agree on the misbehaviour.</p>
                             <p>These might include but are not limited to:</p>
                             <ol>
                             	<li> Validators consistently propagating blocks late</li>
@@ -132,23 +132,23 @@ In the contract, there will be a <span class="text-bg-grey">reportBenign</span> 
                             </ol>
                             <p>It could slash a portion of the stakes, eg. only 4%</p>
                             <li> <strong>On-chain</strong></li>
-                            <p>A slashing condition that can be verified on-chain is that a Validator signed-off 2 blocks with the same step (equivocation). Anyone could call this <span class="text-bg-grey">reportMalicious</span> method with the right data, being the two signatures of the Validator, and the message signed, which would contain the step of the blocks.</p>
+                            <p>A slashing condition that can be verified on-chain is that a Validator signed-off 2 blocks with the same step (equivocation). Anyone could call this <code>reportMalicious</code> method with the right data, being the two signatures of the Validator, and the message signed, which would contain the step of the blocks.</p>
                             <p>This method would thus include an RLP decoder. We could also detect if a Validator hasn't signed any block for the past 256 blocks on-chain, by challenging the Validator to submit the block he signed along with the signature. However, only the last 256 block hashes are available in the EVM, so it might be limited in this context of around 1,000-blocks epochs.</p>
                             <ol>
                             	<li> <strong>Wrong KYC Detail Enter by Validator Node</strong></li>
-                            	<li>In the contract, there will be a <span class="text-bg-grey">reportMalicious</span> method that only Validators can call, passing a message and a block-number, and a slashing will execute if more than 2/3 of the Validators agree on the <span class="text-bg-grey">reportMalicious</span>. It could slash a portion of the Entire 100% stakes of Validator Node.</li>
+                            	<li>In the contract, there will be a <code>reportMalicious</code> method that only Validators can call, passing a message and a block-number, and a slashing will execute if more than 2/3 of the Validators agree on the <code>reportMalicious</code>. It could slash a portion of the Entire 100% stakes of Validator Node.</li>
                             </ol>
                             <p>There may be other on-chain slashable conditions.</p>
                         </ol>
                         
                         <p class="sub-header">Parameters</p>
-                        <p class="mb-1">Suggested parameter values from requirements:</p>
-                        <p class="mb-1"><span class="text-bg-grey">MIN_STAKE</span> : 10000000 XDC</p>
-                        <p class="mb-1"><span class="text-bg-grey">VALIDATOR_REWARD</span> : 0.01370% Daily</p>
-                        <p class="mb-1"><span class="text-bg-grey">REWARDS_TRANSFER</span> : Every next block of epoch</p>
-                        <p class="mb-1"><span class="text-bg-grey">VALIDATOR_SET_SIZE</span> : 21</p>
-                        <p class="mb-1"><span class="text-bg-grey">WITHDRAWAL_PERIOD</span> : Set of Epoch (1 Epoch == 500 Blocks)</p>
-                        <p><span class="text-bg-grey">MAX_REGISTERED_VALIDATORS</span> : 5000</p>
+                        <p class="text-left mb-1">Suggested parameter values from requirements:</p>
+                        <p class="text-left mb-1"><code>MIN_STAKE</code> : 10000000 XDC</p>
+                        <p class="text-left mb-1"><code>VALIDATOR_REWARD</code> : 0.01370% Daily</p>
+                        <p class="text-left mb-1"><code>REWARDS_TRANSFER</code> : Every next block of epoch</p>
+                        <p class="text-left mb-1"><code>VALIDATOR_SET_SIZE</code> : 21</p>
+                        <p class="text-left mb-1"><code>WITHDRAWAL_PERIOD</code> : Set of Epoch (1 Epoch == 500 Blocks)</p>
+                        <p><code>MAX_REGISTERED_VALIDATORS</code> : 5000</p>
                         
                         <p class="sub-header">Upgradability</p>
                         <p>Contracts should be upgradeable, could be implemented with Proxy contracts.</p>
