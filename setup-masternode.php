@@ -134,7 +134,7 @@ include('inc/header.php') ?>
                                 <p class="mb-1"><strong>1. a. What is Masternode Node?</strong></p>
                                 <p>Masternode is simply a cryptocurrency full node or computer wallet that keeps the full copy of the blockchain record in real-time.</p>
                                 <p class="mb-1"><strong>1 b. What is Validator node?</strong></p>
-                                <p>In XinFin, 'Validator Node'' are full nodes that incentivize node operators to perform the core consensus functions of running a DPoS based blockchain. Only Validator Node gets incentive to validate the transaction.</p>
+                                <p>In XinFin, "Validator Node" are full nodes that incentivize node operators to perform the core consensus functions of running a DPoS based blockchain. Only Validator Node gets incentive to validate the transaction.</p>
                                 <p class="mb-1"><strong>How to become a Validator Node?</strong></p>
                                 <p>Under XinFin DPoS, Highest XDC Stakeholder 21 Node Act as Validator node rest node act as Backup node and Private node.</p>
                                 <p class="mb-1"><strong>If there is no transaction fees on network then how validator gets incentive?</strong></p>
