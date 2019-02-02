@@ -329,7 +329,7 @@ include('inc/header.php') ?>
                         <li>
                             <h3>● Why XinFin & XDC Protocol?</h3>
                             <div>
-                                <p>XinFin (<a href="www.XinFin.org" target="_blank">www.XinFin.org</a>) is a Singapore based Blockchain technology company focused on international trade and finance. XinFin has developed a high scalable, secure, permissioned and commercial grade Blockchain architecture that combines the best features of Bitcoin, Quorum and Ethereum. XinFin's XDC protocol, forked from Ethereum, is a peer to peer contract platform than can be used with existing laws of the land and payment rails or in an approved jurisdiction using underlying XDC tokens.</p>
+                                <p>XinFin (<a href="https://www.xinfin.org" target="_blank">www.XinFin.org</a>) is a Singapore based Blockchain technology company focused on international trade and finance. XinFin has developed a high scalable, secure, permissioned and commercial grade Blockchain architecture that combines the best features of Bitcoin, Quorum and Ethereum. XinFin's XDC protocol, forked from Ethereum, is a peer to peer contract platform than can be used with existing laws of the land and payment rails or in an approved jurisdiction using underlying XDC tokens.</p>
                                 <p>The XDC blockchain is built upon the paradigm of consortium blockchains. The architecture differs from conventional private/permissioned blockchains as well as public blockchains yet built upon the Ethereum codebase. The 'hybrid' nature of the XDC blockchain allows for interoperability with public blockchains like Ethereum and Bitcoin. Transactions that are marked as hybrid on the XDC blockchain can be transmitted to and executed on the Ethereum public blockchain without the need of external wallets or exchanges. The XDC protocol seeks to create a truly decentralized cryptocurrency space through interoperability. The platform maintains sensitive financial data in private state thereby making it enterprise ready for several business use cases.It is this level of interoperability that enables XinFin to run it's own very native XDC01 token as well as its own ERC20 token.</p>
                             </div>
                         </li>
@@ -503,7 +503,7 @@ include('inc/header.php') ?>
                         <li>
                             <h3>● Where can I store XDC?</h3>
                             <div>
-                                <p>XDC purchased can be securely stored in your XDC wallet which can be accessed using your computer, tablet, phone or laptop. You can create your wallet by registering on <a href="www.xinfin.org">www.xinfin.org</a> or by registering in our Android or iOS app.</p>
+                                <p>XDC purchased can be securely stored in your XDC wallet which can be accessed using your computer, tablet, phone or laptop. You can create your wallet by registering on <a href="https://www.xinfin.org"target="_blank">www.xinfin.org</a> or by registering in our Android or iOS app.</p>
                             </div>
                         </li>
                         <li>
@@ -573,7 +573,7 @@ The XDC ecosystem will provide easily accessible light wallets that will connect
                         <li>
                             <h3>● Team Profiles</h3>
                             <div>
-                                <p>XinFin is a growing community, committed to evolve it's blockchain into a solution along with establishing an application layer to enable global trade and financing. We at XinFin ensure that our community consists of members with high integrity and ethical standards. Details of our management team and community members can be found on our website <a href="http://www.xinfin.org/about-the-team/">http://www.xinfin.org/about-the-team/</a></p>
+                                <p>XinFin is a growing community, committed to evolve it's blockchain into a solution along with establishing an application layer to enable global trade and financing. We at XinFin ensure that our community consists of members with high integrity and ethical standards. Details of our management team and community members can be found on our website <a href="about.php"target="_blank">http://www.xinfin.org/about-the-team/</a></p>
                             </div>
                         </li>
                         <li>
@@ -604,7 +604,7 @@ The XDC ecosystem will provide easily accessible light wallets that will connect
                                     <li>LinkedIn: <a href="https://www.linkedin.com/in/xinfin/" target="_blank">https://www.linkedin.com/in/xinfin/</a></li>
                                     <li>Forum: <a href="http://xinfin.net/index.php" target="_blank">http://xinfin.net/index.php</a></li>
                                     <li>YouTube: <a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g?view_as=subscriber" target="_blank">https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g?view_as=subscriber</a></li>
-                                    <li>Telegram: <a href="t.me/xinfintalk">t.me/xinfintalk</a></li>
+                                    <li>Telegram: <a href="https://t.me/xinfintalk" target="_blank">t.me/xinfintalk</a></li>
                                 </ul>
                             </div>
                         </li>
@@ -620,7 +620,7 @@ The XDC ecosystem will provide easily accessible light wallets that will connect
                                 <p>XinFin.org has opened up its platform for participation for the best programming minds of the world. It believes that a hybrid blockchain protocol like XDC holds a greater chance to going into full production of real world institutions. The XinFin developer community will be integral in the maturation of the XDC protocol. This kind of development will be very beneficial in the long term for production implementations of blockchain technology in regulated financial industries. There are bounties for developers that are able to contribute in meaningful ways that include allocation of XDCs, the native fuel of XDC protocol. We hope to attract the best developer talent, on a project, that we believe, is going to be revolutionary in the mainstreaming of blockchain technology.</p>
                                 <p><b>Resources for Developer Community to work with XDC Protocol:</b></p>
                                 <ul style="list-style-type:disc;">
-                                  <li>Community Page: <a href="http://www.xinfin.org/community" target="_blank">http://www.xinfin.org/community</a></li>
+                                  <li>Community Page: <a href="https://docs.xinfin.org/" target="_blank">http://www.xinfin.org/community</a></li>
                                     <li>Slack Channel for Developers: <a href="https://xinfin-public.slack.com/" target="_blank">https://xinfin-public.slack.com/</a></li>
                                     <li>Gitterchat Channel for Developers: <a href="https://gitter.im/xinfin-public" target="_blank">https://gitter.im/xinfin-public</a></li>
                                     <li>Github: <a href="https://github.com/XinFinorg" target="_blank">https://github.com/XinFinorg</a></li>
@@ -714,7 +714,7 @@ The XDC ecosystem will provide easily accessible light wallets that will connect
                               <p>Ramco management and technology team have been very supportive in getting us the initial Proof-of-Concept (PoC) with Air France KLM (AFKLM) lab. They have detailed this in their media release hosted on their website <a href="https://www.ramco.com/newsroom/press/releases/feb-18/ramco-partners-with-xinfin-to-provide-blockchain-solutions/" target="_blank">https://www.ramco.com/newsroom/press/releases/feb-18/ramco-partners-with-xinfin-to-provide-blockchain-solutions/</a> and in their Annual report. <a href="https://www.ramco.com/investor-relations/ramco_annual_report_2017-18.pdf" target="_blank">https://www.ramco.com/investor-relations/ramco_annual_report_2017-18.pdf</a> (Pages 12 & Page 73)</p>
                               <p>As stated in point earlier, blockchain is a network product. While the private network deployment can happen in a closed environment, for a successful public blockchain we need to gather a group of participants.</p>
                               <p>XinFin and TradeFinex team have been evolving the product into an open API standard, which can be connected by a network of participants. One of the requirements from enterprise partners was that they required a regulated sandbox environment and full compliance under law of the land to work with XinFin and the digital asset XDC attached to it. This was one of the drivers behind XinFin liaising with regulators for a regulatory sandbox to be able to conduct live transactions.</p>
-                              <p>Now that XinFin have been approved to participate in sandbox environment with ADGM RegLab (<a href="https://medium.com/xinfin/xinfin-becomes-the-official-participant-of-abu-dhabi-global-market-sandbox-to-live-test-tradefinex-cf4922f63a51%29" target="_blank">Media Release 11 Sept 2018</a>) and we are awaiting approval from additional regulators, we will be in a position to offer the open standards APIs and connectors that can be connected through a regulated environment to many enterprise clients.</p>
+                              <p>Now that XinFin have been approved to participate in sandbox environment with ADGM RegLab (<a href="https://medium.com/xinfin/xinfin-becomes-the-official-participant-of-abu-dhabi-global-market-sandbox-to-live-test-tradefinex-580e41e2a1bc" target="_blank">Media Release 11 Sept 2018</a>) and we are awaiting approval from additional regulators, we will be in a position to offer the open standards APIs and connectors that can be connected through a regulated environment to many enterprise clients.</p>
                             </div>
                         </li>
                         <li>

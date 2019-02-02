@@ -91,7 +91,7 @@ include('inc/header.php')
                                 </div>
                             </div>                            
                             <div class="col-md-12">
-                            	<button type="button" id="contactBtn" class="btn btn-default submitbtn">Submit</button>
+                            	<button type="button" id="contactBtn" class="btn-blue submitbtn">Submit</button>
                             </div>
                             </div>
                         </form>

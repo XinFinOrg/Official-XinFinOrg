@@ -10,7 +10,7 @@ include('inc/header.php') ?>
     <div class="row">
       <div class="col-md-6 col-sm-6 col-xs-12 bannertext">
         <h1>Roadmap</h1>
-        <p>Use the XDC token on the public state that is identical in functionality to public blockchains. Or set up private networks  to run enterprise use cases.</p>
+        <p>Use the XDC token on the public state that is identical in functionality to public blockchains. Or set up private networks to run enterprise use cases.</p>
       </div>
       <div class="col-md-6 col-sm-6 col-xs-12 btxt-img">
         <img src="assets/images/XDC-Protocol/xdc-protocol-banner-image.png" alt="" class="img-responsive">
@@ -169,7 +169,7 @@ include('inc/header.php') ?>
         </li>
         <li>
 			<div>
-				<time>Q1</time> Rollout of Demo Version for inFactor
+				<time>Q1</time> Rollout of Demo Version for InFactor
 			</div>
         </li>
         <li>
@@ -214,7 +214,7 @@ include('inc/header.php') ?>
         </li>
         <li>
 			<div>
-				<time>Q2</time> Rollout of Live Version for iFactor
+				<time>Q2</time> Rollout of Live Version for InFactor
 			</div>
         </li>
         <li>

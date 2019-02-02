@@ -2,13 +2,13 @@
 $title = "Contact Us | XinFin Hybrid Blockchain";
 $desc = "Let your business cross the horizon by using XinFin’s fast and secure XDC tokens. Contact us Now.";
 
-include('inc/header.php') 
-?>
+include('inc/header.php') ?>
 <style>
 .inputTxtError1 {
     border: 1px solid #f00!important;
 }
 </style>
+
 <section id="contactbanner"> 
 <!--   <div id="particle-canvas" ></div> -->
 	<div class="container">
@@ -25,14 +25,15 @@ include('inc/header.php')
     <div class="container">
         <div class="tab-content" style="background: #fff; margin-bottom:10%">
             <div id="network">
-				<div class="row">
+				<div class="row pb-2">
                     <div class="col-md-12">
-                        <h3>GET IN TOUCH IN XINFIN</h3>
+                        <h3>GET IN TOUCH WITH US</h3>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-offset-2 col-md-8 col-md-offset-2">
-                        <h4>Send Us Your Query, We Will Reply You Promptly!</h4>
+                        <h4>We appreciate you taking the time to get in touch.</h4>
+                        <h4>Send us your Query. We will Respond Promptly.</h4>
                         <br/><br/>
                         <form action="#" method="" id="contactForm">
                             <div class="form-group">
@@ -55,7 +56,8 @@ include('inc/header.php')
                             <!-- <div class="checkbox">
 								<label><input type="checkbox" name="remember"> Remember me</label>
 							</div> -->
-                            <button type="button" id="contactBtn" class="btn btn-default submitbtn">Submit</button>
+                            <!--<button type="button" id="contactBtn" class="btn btn-default submitbtn">Submit</button>-->
+                            <button type="button" id="contactBtn" class="btn-blue submitbtn">Submit</button>
                         </form>
                     </div>
                 </div>
@@ -229,4 +231,4 @@ $(document).ready(function(){
 	   }
 	   return true;
    }
-    </script>
+</script>
