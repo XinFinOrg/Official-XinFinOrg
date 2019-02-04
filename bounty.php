@@ -45,7 +45,7 @@ include('inc/header.php') ?>
                       <p class="sub-header-small mt-5 mb-3">Task 2: XDCE Token Staking Function</p>
                       <p>A staking mechanism requires users who offer compute power or other resources to the service takers in the ecosystem to put up a portion of their tokens in order to do so. If a user has no tokens to stake, but wants to support the network by providing resources they must purchase them. In exchange for staking their tokens and providing the service a financial reward is received. By forcing providers to take a financial risk you are weeding out bad actors.</p>
                       <p class="text-left">Read more detailed requirement <a href="https://github.com/XinFinOrg/Hackathon/blob/master/OpenHackathon/XDCE_Staking_Function.md" target="_blank">here</a></p>
-                      <p class="mb-1">DAPPS Related References:</p>
+                      <p class="mb-1">dApps Related References:</p>
                       <div class="orderList mb-2">
                         <ul>
                         	<li> <a href="https://github.com/XinFinOrg/dapp-boilerplate" target="_blank">Boilerplate DAPP</a></li>

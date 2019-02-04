@@ -86,7 +86,7 @@ include('inc/header.php') ?>
               can be part of a number of different private sub-networks.</p>
 
             <p>The ability for a masternode to host or join a number of private sub-networks allows for a versatile blockchain
-              ecosystem that can run a variety of powerful DApps.</p>
+              ecosystem that can run a variety of powerful dApps.</p>
           </div>
         </div>
       </div>
@@ -230,11 +230,11 @@ include('inc/header.php') ?>
               that can buy, sell, or trade XDCs through the wallet application.
               <br/>
               <br/> The XinFin blockchain also has advanced smart contracting capabilities and highly customizable private sub-networks
-              that act as permissioned blockchains. While the XDC token can be integrated with private or public DApps(to
+              that act as permissioned blockchains. While the XDC token can be integrated with private or public dApps(to
               act as a settlement layer), the team here at XinFin believes that interoperability with other blockchains is
               a very real need in an ecosystem rife with monolithic cryptocurrencies and tokens.
               <br/>
-              <br/> Our version of interoperability includes the ability for institutions or individuals to create DApps, smart
+              <br/> Our version of interoperability includes the ability for institutions or individuals to create dApps, smart
               contracts, or custom tokens, while accepting or paying in the cryptocurrency of their choice. What this means
               is that a DApp or smart contract created on the XinFin Hybrid blockchain can make use of highly liquid existing
               cryptocurrencies like Bitcoin(and Bitcoin forks), Ethereum, Ripple, etc.</p>
@@ -245,10 +245,10 @@ include('inc/header.php') ?>
                   There are significant advantages to this relationship between the XDC blockchain and public cryptocurrencies. For Bitcoin,
                   Bitcoin Cash, or Ripple, the absence of a smart contracting layer makes possible usecases very limited.
                   By plugging into the XDC blockchain, holders of these cryptocurrencies can leverage fast, secure, and scalable
-                  smart contracts(and DApps) for their more involved usecases.
+                  smart contracts(and dApps) for their more involved usecases.
                   <br/>
                   <br/> Even for cryptocurrencies like Ethereum that have built in smart contracting capabilities, running the
-                  DApps on the XDC blockchain is a wiser choice. This is because the Ethereum blockchain, like most other
+                  dApps on the XDC blockchain is a wiser choice. This is because the Ethereum blockchain, like most other
                   popular cryptocurrencies, have become victims of their rampant success. Their networks are getting bogged
                   down by more transactions than they can handle and rising costs make high frequency transactions impossible.
                   For example, IoT based applications are impossible to run on the Ethereum public blockchain due to the

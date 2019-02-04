@@ -116,7 +116,7 @@ include('inc/header.php') ?>
         <div class="row">
           <div class="col-md-5 col-sm-4 col-xs-12">
             <p>What is XDC? The XDC token is the underlying utility token of the XinFin hybrid blockchain. The XDC token acts
-              as a settlement mechanism for DApps built on the XinFin hybrid blockchain. Our first DApp, the TradeFinex platform,
+              as a settlement mechanism for dApps built on the XinFin hybrid blockchain. Our first DApp, the TradeFinex platform,
               uses this settlement layer to finance infrastructure projects and other procurements. Efforts are ongoing at
               getting the XDC token listed on larger exchanges.
               <br/>

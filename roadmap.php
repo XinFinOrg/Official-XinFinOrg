@@ -159,12 +159,12 @@ include('inc/header.php') ?>
         </li>
         <li>
 			<div>
-				<time>Q1</time> Rollout of Standardize Dapps Wallet (TestNet)
+				<time>Q1</time> Rollout of Standardize dApps Wallet (TestNet)
 			</div>
         </li>
         <li>
 			<div>
-				<time>Q1</time> Rollout of Standardize Dapps Mobile Wallet (TestNet)
+				<time>Q1</time> Rollout of Standardize dApps Mobile Wallet (TestNet)
 			</div>
         </li>
         <li>
@@ -204,12 +204,12 @@ include('inc/header.php') ?>
         </li>
         <li>
 			<div>
-				<time>Q2</time> Rollout of Standardize Dapps Web Wallet MainNet
+				<time>Q2</time> Rollout of Standardize dApps Web Wallet MainNet
 			</div>
         </li>
         <li>
 			<div>
-				<time>Q2</time> Rollout of Standardize Dapps-Mobile Wallet (MainNet)
+				<time>Q2</time> Rollout of Standardize dApps-Mobile Wallet (MainNet)
 			</div>
         </li>
         <li>
