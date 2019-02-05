@@ -43,7 +43,7 @@ include('inc/header.php') ?>
       <a href="docs/whitepaper-business.pdf" target="_blank"><button class="btn-outline mb-1">Business White Paper</button></a>
       
       <p class="header mb-2">XinFin Consensus</p>
-      <p>This section talks about XinFin's Public DPoS Consensus that leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way. The Self KYC feature added in XinFin DPoS allows for a an enterprise and regulator friendly process.</p>
+      <p>This section talks about XinFin's Public DPoS Consensus that leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way. The Self KYC feature added in XinFin DPoS allows for an enterprise and regulator friendly process.</p>
       <a href="xinfin-consensus.php"><button class="btn-blue mb-1">XinFin Consensus</button></a>
       
       <p class="header mb-2">Setup XinFin Node</p>

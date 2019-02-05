@@ -255,7 +255,7 @@ include('inc/header.php') ?>
                 </div>
                 
                 <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
-					<img src="assets/images/home/api-based-access.png" class="img-responsive" width="100%" alt="Customer-centric and Use Case Driven - API Based Access">
+					<img src="assets/images/home/api-based-access.png" class="img-responsive" width="100%" alt="API's For Customers and Use Case Access">
                 </div>
 			</div>
 		</div>

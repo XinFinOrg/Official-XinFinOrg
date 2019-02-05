@@ -1,6 +1,6 @@
 <?php
 $title = "XinFin Public DPOS Consensus: XDPoS";
-$desc = "XinFin's Delegated Proof of Stake is a decentralised way of validating transactions occurring on the XinFin Hybrid blockchain and appending those to the truth ledger.";
+$desc = "XinFin's Delegated Proof of Stake is a decentralised way of validating transactions occurring on the XinFin Hybrid Blockchain and appending those to the truth ledger.";
 
 include('inc/header.php') ?>
 
@@ -10,7 +10,7 @@ include('inc/header.php') ?>
 		<div class="row">
 			<div class="col-md-12 col-sm-12 col-xs-12 bannertext">
 				<h1>XinFin Public DPOS Consensus</h1>
-                <p><strong>Delegated Proof of Stake</strong> (also known as <strong>XDPoS</strong>) is a consensus algorithm used to sustain digital democracy throughout the XinFin Hybrid blockchain network.</p>
+                <p><strong>Delegated Proof of Stake</strong> (also known as <strong>XDPoS</strong>) is a consensus algorithm used to sustain digital democracy throughout the XinFin Hybrid Blockchain network.</p>
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
 			</div>
@@ -41,8 +41,8 @@ include('inc/header.php') ?>
                             <ul class="mb-2">
                                 <li>XinFin's DPoS proved to be the most truly democratic process due to the fact that even a machine with regular configurations was able to carry itself as a validator node. The prospect of catering to horizontal scaling by the addition of new nodes was well accommodated by the algorithmic design of XinFin's DPoS.</li>
                                 <li>XinFin's DPoS algorithm passed the 'environmentally-friendly' test exceptionally. There is absolutely no requirement for high energy for XDC token staking. This is buttressed by the fact that a typical computer can be used to stake XDC tokens.</li>
-                                <li>XinFin's Public DPoS Consensus algorithm comes equipped with KYC enforcement on the nodes themselves, thus solving substantial problems with traditional Enterprise KYC providers. This will help streamline enterprise adoption. The consensus' Self-KYC feature enables corporate clientele to create and manage their own identity by uploading all necessary details and documentation and allowing participants access to the KYC data. This adds a KYC standard that is friendly to both enterprise participants and regulators.</li>
-                                <li>XinFin's blockchain is agile and alacritous. XinFin's Hybrid Blockchain has recorded transaction speeds up to 2000 TPS on the public chain with unlimited horizontal scaling due to multiple private chains running at the same time. Such numbers create an enhanced user experience, which is currently lacking in the ecosystem.</li>
+                                <li>XinFin's Public DPoS Consensus algorithm comes equipped with KYC enforcement on the nodes themselves, thus solving substantial problems with traditional Enterprise KYC providers. This will help streamline enterprise adoption. The consensus's Self-KYC feature enables corporate clientele to create and manage their own identity by uploading all necessary details and documentation and allowing participants access to the KYC data. This adds a KYC standard that is friendly to both enterprise participants and regulators.</li>
+                                <li>XinFin's Blockchain is agile and alacritous. XinFin's Hybrid Blockchain has recorded transaction speeds up to 2000 TPS on the public chain with unlimited horizontal scaling due to multiple private chains running at the same time. Such numbers create an enhanced user experience, which is currently lacking in the ecosystem.</li>
                                 <li>Upcoming sharding will bring about several changes in the blockchain ecosystem. For instance, the management of chain-data will become much simpler than ever before. The complete overhead of keeping in sync with the entire blockchain history would be divided and as a result, would reduce manifold.</li>
                                 <li>If a peer node does not wish to participate in the consensus yet remain in the network, they can operate as "light-nodes" or "regulatory nodes". These nodes do not hold the entire data strand of the blockchain. XinFin's Hybrid Blockchain architecture allows the provision for light nodes/regulatory nodes to operate seamlessly.</li>
                             </ul>
