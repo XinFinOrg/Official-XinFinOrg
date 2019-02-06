@@ -10,7 +10,7 @@ include('inc/header.php') ?>
     <div class="row">
       <div class="col-md-6 col-sm-6 col-xs-12 bannertext">
         <h1>XinFin Resources and Information</h1>
-        <p>Use the XDC token on the public state that is identical in functionality to public blockchains. Or set up private networks  to run enterprise applications.</p>
+        <p>Use the XDC token on the public state that is identical in functionality to public blockchains. Or set up private networks to run enterprise applications.</p>
       </div>
       <div class="col-md-6 col-sm-6 col-xs-12 btxt-img">
         <img src="assets/images/XDC-Protocol/xdc-protocol-banner-image.png" alt="" class="img-responsive">
@@ -32,7 +32,7 @@ include('inc/header.php') ?>
       	<div class="col-md-4"><img src="assets/images/icon.png" class="img-responsive" align="center" style="text-align: center; margin:0 auto;" alt=""></div>
       	<div class="col-md-4"><hr style="margin-top:35px"></div>
       </div> -->
-      <p>Learn about XinFin's Hybrid Blockchain Technology, Use Cases/dApps and Solutions  all at one place. Read our Technical/Business White Papers, explore our Test and Live Networks, Engage on our Community Forum, Participate in our Community Bounty Program and discover how the XDC Blockchain is creating a standardised environment for business relationships.</p>
+      <p>Learn about XinFin's Hybrid Blockchain Technology, Use Cases/dApps and Solutions all at one place. Read our Technical/Business White Papers, explore our Test and Live Networks, Engage on our Community Forum, Participate in our Community Bounty Program and discover how the XDC Blockchain is creating a standardised environment for business relationships.</p>
       
       <p class="header mb-2">Technical White Paper</p>
       <p>The Technical Whitepaper describes XinFin's Hybrid Blockchain powered by the XDC protocol, which attempts to solve the problem of secluded ecosystems with highly secure and robust interoperability. The XDC blockchain aims to bring together all of the significant advantages of public blockchains and the necessary restrictions of permissioned blockchains to create an ecosystem that is enterprise ready.</p>
@@ -50,12 +50,12 @@ include('inc/header.php') ?>
       <p>This section acquaints developers with how to create and customize your XDC01 Blockchain private chain within minutes by installing Docker Nodes.</p>
       <a href="https://github.com/XinFinOrg/XDC01-docker-Nnodes" target="_blank"><button class="btn-outline mb-1">Setup XinFin Node</button></a>
       
-      <p class="header mb-2">XinFin Network Status (Testnet)</p>
-      <p>XinFin Testnet helps you understand how many nodes are hosted on XinFin Network, and provides detailed information such as their up-time, number of active nodes, gas price, gas limit etc. in a visualised manner.</p>
-      <a href="http://xinfin.network/" target="_blank"><button class="btn-blue mb-1">XinFin Network Status (Testnet)</button></a>
+      <p class="header mb-2">XinFin Network Status (TestNet)</p>
+      <p>XinFin TestNet helps you understand how many nodes are hosted on XinFin Network and provides detailed information such as their up-time, number of active nodes, gas price, gas limit etc. in a visualised manner.</p>
+      <a href="http://xinfin.network/" target="_blank"><button class="btn-blue mb-1">XinFin Network Status (TestNet)</button></a>
       
       <p class="header mb-2">XinFin Network Status (Live)</p>
-      <p>XinFin Livenet helps you understand how many nodes are hosted on XinFin Network, and provides detailed information such as their up-time, number of active nodes, gas price, gas limit etc. in a visualised manner.</p>
+      <p>XinFin LiveNet helps you understand how many nodes are hosted on XinFin Network, and provides detailed information such as their up-time, number of active nodes, gas price, gas limit etc. in a visualised manner.</p>
       <a href="http://xinfin.network/" target="_blank"><button class="btn-outline mb-1">XinFin Network Status (Live)</button></a>
       
       <p class="header mb-2">XDC Explorer</p>
@@ -67,7 +67,7 @@ include('inc/header.php') ?>
       <a href="https://etherscan.io/token/0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2?a=" target="_blank"><button class="btn-outline mb-1">XDCe Explorer (ERC20)</button></a>
       
       <p class="header mb-2">Community Forum</p>
-      <p>Managed by our active community members, the XinFin Community Forum will bring you latest updates, developments and answers to your questions in a proper documented form.</p>
+      <p>Managed by our active community members, the XinFin Community Forum will bring you the latest updates, developments and answers to your questions in a proper documented form.</p>
       <a href="http://xinfin.net/" target="_blank"><button class="btn-blue mb-1">Community Forum</button></a>
       
       <p class="header mb-2">Community Bounty Program</p>
@@ -75,16 +75,14 @@ include('inc/header.php') ?>
       <a href="bounty.php"><button class="btn-outline mb-1">Community Bounty Program</button></a>
       
       <p class="header mb-2">Wallet Support</p>
-      <p>Wallet Support gives you a quick overview of which exchanges XDCE is live-trading on and which wallet partners support XDCE.<br>
-      For Wallet Support needed, you can reach out to us at <a href="mailto:support@xinfin.io">support@xinfin.io</a></p>
+      <p>Wallet Support gives you a quick overview of which exchanges XDCE is live-trading on and which wallet partners support XDCE.</p>
+      <p>For Wallet Support needed, you can reach out to us at <a href="mailto:support@xinfin.io">support@xinfin.io</a></p>
       <a href="https://XinFin.io/" target="_blank"><button class="btn-blue mb-1">Wallet Support</button></a>
       
       <p class="header mb-2">Media Room</p>
-      <p>This section of the website will update you on the different announcements made by our upper management. The section will publish all the Press Releases announcing the recent developments done by the organization along with the plans for the future innovation.</p>
-
-      <p>Apart from the Press Releases, this section of the site will also tell about the events participated and arranged by XinFin. Any news (digital or otherwise) featuring XinFin.org will be published in this section.</p>
-
-      <p>It will also inform you regarding any change in the overall structure of the organization and any change in the current management team.</p>
+      <p>This section is where you can find updates  on the different announcements made by XinFin. The section will publish all Press Releases and  recent developments along with plans for future innovation.</p>
+      <p>Apart from the Press Releases, you can also find out more about events XinFin has both participated and hosted. Any news (digital or otherwise) featuring XinFin will be published in this section.</p>
+      <p>It will also inform you regarding any change in the overall structure of the organization and any changes in the current management team.</p>
       <a href="media-room.php"><button class="btn-outline mb-1">Media Room</button></a>
       
       <p class="header mb-2">Roadmap</p>
@@ -92,11 +90,11 @@ include('inc/header.php') ?>
       <a href="roadmap.php"><button class="btn-blue mb-1">Roadmap</button></a>
       
       <p class="header mb-2">Developer Portal</p>
-      <p>Develop an understanding of the fundamentals of XDC, get API reference, install and run on the XDC Blockchain and view FAQ’s.  The Developer Portal  is a one stop shop for all developer related guides and references. We invite developers to join our dev community.</p>
+      <p>Get acclamated with of the fundamentals of XDC, API reference, install and run your own programs on XinFin's Hybrid Blockchain. You can also view FAQ's. The Developer Portal is a one stop shop for all developer related guides and references. We invite developers to join our dev community.</p>
       <a href="https://docs.xinfin.org/"><button class="btn-outline mb-1">Developer Portal</button></a>
       
       <p class="header mb-2">Exchange Listing Resource</p>
-      <p>This section provides you with details required to list XinFin-XDCe with exchanges.</p>
+      <p>This section provides you with details required to list the XDCE token on exchanges.</p>
       <a href="exchange-listing-resource.php"><button class="btn-blue mb-1">Exchange Listing Resource</button></a>
  	</div>
     

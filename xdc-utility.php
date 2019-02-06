@@ -1,5 +1,5 @@
 <?php 
-$title = "XDC/XDCe Utility - XinFin hybrid blockchain network";
+$title = "XDC/XDCe Utility - XinFin Hybrid Blockchain network";
 $desc = "Visit this page of XinFin to discuss, code, access documentation, report bugs, get advice and support to make the XDC ecosystem the blockchain for enterprise. ";
 
 include('inc/header.php') ?>
@@ -11,7 +11,7 @@ include('inc/header.php') ?>
             <div class="bannertext">
                 <h1>XDC/XDCE Utility</h1>
                 <p>The XDC token is the underlying utility token that powers XinFin's Hybrid Blockchain. The XDC token acts as a settlement mechanism for DApps built on the XinFin Hybrid Blockchain. XinFin has also launched an Ethereum token called XDCE that can be traded with XDC utility token at a 1:1 ratio. This gives the token holder flexibility to hold tokens in either form for utility. The ERC-20 token can be swapped for the XDC token at a ratio of 1:1. This swap can be facilitated on the AlphaEx exchange. AlphaEx is compatible with all decentralised exchanges and has a presence in liquidity markets and supports XDC liquidity.</p>
-                <p>To date, use cases built around XinFin’s XDC utility token are: MyContract, TradeFinex, Kramaa, Land Registry, inFactor, XinFin Blockchain Academy and TurantPay.</p>
+                <p>To date, use cases built around XinFin's XDC utility token are: MyContract, TradeFinex, Kramaa, Land Registry, iFactor, XinFin Blockchain Academy and TurantPay.</p>
             </div>
         </div>
     </div>
@@ -52,7 +52,7 @@ include('inc/header.php') ?>
             	<a href="https://www.tradefinex.org" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
                 <a href="https://github.com/XinFinOrg/tradefinexlive" target="_blank"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
             </div>
-            <p>TradeFinex.org is a p2p trade finance platform to create trade instruments of value between buyers and sellers in Trade Finance market. It is an open protocol for banks, institutions and users and consortium-led governance makes it truly decentralized.</p>
+            <p>TradeFinex.org is a p2p trade finance platform to create trade instruments of value between buyers and sellers in Trade Finance market. It is an open protocol for banks, institutions and users consortium-led governance makes it truly decentralized.</p>
             <div class="btn-block mb-1">
             	<a href="https://xinfinorg.github.io/TradeFinex_API/" target="_blank"><button class="btn-fill-default"><i class="fa fa-gear"></i> API</button></a>
             	<a href="https://www.youtube.com/watch?v=mjrhTnZ16f8&t=9s" target="_blank"><button class="btn-outline-default"><i class="fa fa-youtube"></i> Watch Video</button></a>
@@ -87,7 +87,7 @@ include('inc/header.php') ?>
             </div>
             <h3 class="mb-2">DCB Bank Ltd. <span>Livenet</span></h3>
             <p class="mb-3">DCB Bank Ltd., a private sector scheduled commercial bank selected XinFin as their blockchain partner to streamline Insurance systems using Blockchain.</p>
-            <p class="date">DCB Bank was looking to deploy  blockchain solutions. XinFin was chosen to implement a secure technology solution to help streamline their insurance process. Since participants are operating stake driven nodes on XinFin’s Hybrid Blockchain, they now share access to data from the very point the customer enters the cycle of policy issuance.</p>
+            <p class="date">DCB Bank was looking to deploy  blockchain solutions. XinFin was chosen to implement a secure technology solution to help streamline their insurance process. Since participants are operating stake driven nodes on XinFin's Hybrid Blockchain, they now share access to data from the very point the customer enters the cycle of policy issuance.</p>
         </div>
     </div>
     
@@ -117,10 +117,10 @@ include('inc/header.php') ?>
             </div>
             <h3>XinFin Blockchain Academy <span>Testnet</span></h3>
             <div class="btn-block mb-1">
-            	<a href="https://xinfinorg.github.io/Blockchain_Tutorial-website/index.html" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            	<a href="Https://tinyurl.com/ycdkaccz" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
                 <a href="https://github.com/XinFinOrg/Blockchain_Tutorial-website" target="_blank"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
             </div>
-            <p>XinFin Blockchain Academy exists to create awareness of XinFin’s platforms. The Blockchain Academy provides online blockchain training to engineers and professionals. These engineers and professionals can avail basic and advanced courses from XinFin Academy and start development around our platforms.</p>
+            <p>XinFin Blockchain Academy exists to create awareness of XinFin's platforms. The Blockchain Academy provides online blockchain training to engineers and professionals. These engineers and professionals can avail basic and advanced courses from XinFin Academy and start development around our platforms.</p>
             <div class="btn-block mb-1">
             	<!--<a href="#"><button class="btn-fill-default"><i class="fa fa-gear"></i> API</button></a>-->
             	<a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><button class="btn-outline-default"><i class="fa fa-youtube"></i> Watch Video</button></a>
@@ -170,7 +170,7 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/iFactor-logo.jpg" alt="tradefinex.org">
+            	<img class="img-responsive" src="assets/images/utility/inFactor-logo.jpg" alt="infactor.io">
             </div>
             <h3>InFactor <span>Testnet PoC</span></h3>
             <div class="btn-block mb-1">
@@ -180,7 +180,7 @@ include('inc/header.php') ?>
             <p>InFactor is an online invoice factoring platform where businesses/suppliers can factor their unpaid invoices. InFactor aims to improve security and remove operational inefficiencies in the invoice factoring process by using technology advancements such as blockchain and smart contracts.</p>
             <div class="btn-block mb-1">
             	<a href="http://ifactor.xinfin.org/docs" target="_blank"><button class="btn-fill-default"><i class="fa fa-gear"></i> API</button></a>
-            	<a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><button class="btn-outline-default"><i class="fa fa-youtube"></i> Watch Video</button></a>
+            	<a href="https://www.youtube.com/watch?v=GIp_h7U9aRQ" target="_blank"><button class="btn-outline-default"><i class="fa fa-youtube"></i> Watch Video</button></a>
             </div>
             <p class="date">InFactor places the Supplier, Buyer and Financer on the same platform allowing visibility and real time communication between all parties. In order to factor an invoice, the Supplier will upload their invoice details on the platform which the Buyer must verify. Approved invoices are then visible to all the Financers registered on the platform. Financers can  send factoring proposals to any verified invoice they choose. Suppliers can then choose to accept any proposal submitted by a Financer. All Users are provided with a built-in XDC wallet with ERC20 standards. Discounting logic is prebuilt in the smart contract which automatically calculates interest, prepayment and post payment amounts based on the factoring terms.</p>
         </div>
@@ -206,9 +206,9 @@ include('inc/header.php') ?>
             <div class="image-container mb-2">
             	<img class="img-responsive" src="assets/images/utility/your-application-logo.jpg" alt="tradefinex.org">
             </div>
-            <p>Do you have an application built around the XDC Network that you want to see listed on our webpage?</p><br/>
-            <p>It’s quick and simple.</p><br/>
-            <p>Just click on the link and fill in the form. We will take care of the rest.</p><br/>
+            <p class="mb-2">Do you have an application built around the XDC Network that you want to see listed on our webpage?</p>
+            <p class="mb-2">It's quick and simple.</p>
+            <p class="mb-2">Just click on the link and fill in the form. We will take care of the rest.</p>
             <div class="btn-block mb-1">
             	<a href="list-application.php"><button class="btn-blue">List your Application</button></a>
             </div>

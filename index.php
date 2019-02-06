@@ -182,7 +182,7 @@ include('inc/header.php') ?>
                         <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
                             <p>XinFin Digital Contract (XDC) is the Digital Asset Powering XinFin Network.</p>
                             <p>Explore Apps, Demo versions, APIs and GitHubs all in one place.</p>
-			    <p>Have your own application? List it!</p>
+			    			<p>Have your own application? List it!</p>
                         </div>
                         <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
                             <a href="xdc-utility.php"><button class="btn-blue">Explore More</button></a>
@@ -214,7 +214,7 @@ include('inc/header.php') ?>
 					<div class="content-box">
                         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
                             <!--<h1 class="text-transform-none" style="text-align:left;">Standardised dApps</h1>-->
-                            <h3>Don't Develop from Scratch, Standardized Dapps for you Check here</h3>
+                            <h3>Don't Develop from Scratch, Standardized dApps for you Check here</h3>
                         </div>
                         <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
                             <p>Get started without any delay with developer-friendly tools and guides.</p>
@@ -255,7 +255,7 @@ include('inc/header.php') ?>
                 </div>
                 
                 <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
-					<img src="assets/images/home/api-based-access.png" class="img-responsive" width="100%" alt="Customer-centric and Use Case Driven - API Based Access">
+					<img src="assets/images/home/api-based-access.png" class="img-responsive" width="100%" alt="API's For Customers and Use Case Access">
                 </div>
 			</div>
 		</div>
@@ -483,7 +483,7 @@ include('inc/header.php') ?>
           <h1>Contact us</h1>
         </div>
         <div class="text-center wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
-          <p>Come build dApps , learn more about XinFin and the XDC Hybrid Blockchain, host a masternode,
+          <p>Come build dApps, learn more about XinFin and the XDC Hybrid Blockchain, host a masternode,
             <br/>or speak to our team.</p>
           <br/>
         </div>

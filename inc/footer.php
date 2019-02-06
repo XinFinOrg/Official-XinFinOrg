@@ -8,7 +8,7 @@
                 <!--<p><span>About XinFin</span><br/>-->
                 <p>
                 <a href="about.php">About Community</a><br/>
-                <a href="xinfin-consensus.php">Public DPOS Consensus</a><br/>
+                <a href="xinfin-consensus.php">Public DPoS Consensus</a><br/>
 				<a href="resources.php">Resource Guide</a><br/>
                 <a href="http://xinfin.network/" target="_blank">XinFin Network Status</a><br/>
                 <a href="https://docs.xinfin.org/">Developer Portal</a><br/>
