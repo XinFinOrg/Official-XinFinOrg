@@ -9,7 +9,7 @@ include('inc/header.php') ?>
     <div class="row">
       <div class="col-md-12 col-sm-12 col-xs-12 bannertext">
       <h1>Bounty Program: Use your skills to earn free XDC</h1>
-        <p>XinFin Supporters and Community members are invited to contribute and receive free XDC Coins for technical Code Contribution and non technical skills like Content Creation or Business Development or Networking Skill to contribution contribute around XinFin Platform and XDC Utilities.<br/><br/><br/><br/></p> 
+        <p>XinFin Supporters and Community members are invited to contribute and receive free XDC Coins for technical Code Contribution and non technical skills like Content Creation or Business Development or Networking to contribute around XinFin Platform and XDC Utilities.<br/><br/><br/><br/></p> 
       </div>
 
 </div></div></div>
