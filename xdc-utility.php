@@ -1,5 +1,5 @@
 <?php 
-$title = "XDC/XDCe Utility - XinFin hybrid blockchain network";
+$title = "XDC/XDCe Utility - XinFin Hybrid Blockchain network";
 $desc = "Visit this page of XinFin to discuss, code, access documentation, report bugs, get advice and support to make the XDC ecosystem the blockchain for enterprise. ";
 
 include('inc/header.php') ?>
@@ -170,7 +170,7 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/iFactor-logo.jpg" alt="tradefinex.org">
+            	<img class="img-responsive" src="assets/images/utility/inFactor-logo.jpg" alt="infactor.io">
             </div>
             <h3>InFactor <span>Testnet PoC</span></h3>
             <div class="btn-block mb-1">
@@ -180,7 +180,7 @@ include('inc/header.php') ?>
             <p>InFactor is an online invoice factoring platform where businesses/suppliers can factor their unpaid invoices. InFactor aims to improve security and remove operational inefficiencies in the invoice factoring process by using technology advancements such as blockchain and smart contracts.</p>
             <div class="btn-block mb-1">
             	<a href="http://ifactor.xinfin.org/docs" target="_blank"><button class="btn-fill-default"><i class="fa fa-gear"></i> API</button></a>
-            	<a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><button class="btn-outline-default"><i class="fa fa-youtube"></i> Watch Video</button></a>
+            	<a href="https://www.youtube.com/watch?v=GIp_h7U9aRQ" target="_blank"><button class="btn-outline-default"><i class="fa fa-youtube"></i> Watch Video</button></a>
             </div>
             <p class="date">InFactor places the Supplier, Buyer and Financer on the same platform allowing visibility and real time communication between all parties. In order to factor an invoice, the Supplier will upload their invoice details on the platform which the Buyer must verify. Approved invoices are then visible to all the Financers registered on the platform. Financers can  send factoring proposals to any verified invoice they choose. Suppliers can then choose to accept any proposal submitted by a Financer. All Users are provided with a built-in XDC wallet with ERC20 standards. Discounting logic is prebuilt in the smart contract which automatically calculates interest, prepayment and post payment amounts based on the factoring terms.</p>
         </div>

@@ -862,6 +862,11 @@ hr {
 
 .margin-auto-lr{margin-left:auto;margin-right:auto;}
 
+.font-20{font-size:20px;}
+.font-25{font-size:25px;}
+.font-30{font-size:30px;}
+.font-35{font-size:35px;}
+
 .mt-0 {margin-top: 0rem!important;}
 .mt-1 {margin-top: 1rem!important;}
 .mt-2 {margin-top: 2rem!important;}
@@ -1007,8 +1012,8 @@ line-height: 32px;}
 .bounty .sub-header-small {color: #096db0!important;margin-bottom: 0px!important;padding-bottom: 10px;margin-top:0px;    text-align: left;font-size: 20px;line-height: 24px;}
 .references-box{background:#f0f0f0;padding:30px;margin-top:30px;}
 .bounty .references-box .sub-header{margin-top:0px;}
-.bounty a{color:#002752;text-decoration:underline;}
-.bounty a:hover{color:#096db0;}
+.bounty a{/*color:#002752;*/text-decoration:underline;}
+.bounty a:hover{/*color:#096db0;*/color: #337ab7;text-decoration:none;}
 .bounty .text-bg-grey{background-color:#f2f2f2;padding:5px;font-size:14px;}
 /*  Bounty  */
 
@@ -4085,3 +4090,12 @@ pre code{white-space:inherit;}
 code{padding:3px 5px;font-size:15px;color:#002752;background-color:#f6f8fa;border-radius:3px;}
 
 .pl-c1, .pl-s .pl-v{color:#005cc5;}
+
+.table>tbody>tr>td,
+.table>tbody>tr>th,
+.table>tfoot>tr>td,
+.table>tfoot>tr>th,
+.table>thead>tr>td,
+.table>thead>tr>th {
+    vertical-align: middle;
+}
