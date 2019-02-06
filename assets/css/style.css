@@ -417,6 +417,11 @@ font-family: sourcecode;
  {
      border-top: 1px solid #002550;
  }
+ 
+ hr.light
+ {
+     border-color:#ececec;
+ }
 
 
  #team span
@@ -941,19 +946,19 @@ hr {
 .usecase-box .title {font-size: 20px;font-weight: 500;color: #000;line-height: 27px;margin-bottom: 10px;}
 .usecase-box p{font-size:15px;line-height:20px;}
 
-button.btn-blue {font-size:16px;background: #096db0;color:#fff;border: 2px solid #096db0;box-shadow:none;padding: .80rem 2rem;-webkit-border-radius: 10em;border-radius: 10em;margin: 0 auto;transition: 0.5s linear;margin-bottom:5px;}
+button.btn-blue {font-size:16px;background: #096db0;color:#fff;border: 2px solid #096db0;box-shadow:none;padding: .50rem 1.5rem;-webkit-border-radius: 10em;border-radius: 10em;margin: 0 auto;transition: 0.5s linear;margin-bottom:5px;}
 button.btn-blue:hover {cursor: pointer;background: #064570;color:#fff;border-color: #064570;}
 button.btn-blue .fa{margin-right:5px;}
 
-button.btn-outline{font-size:16px;background-color:transparent;background-image:none;color:#096db0;border: 2px solid #096db0;box-shadow:none;padding: .80rem 2rem;-webkit-border-radius: 10em;border-radius: 10em;margin: 0 auto;transition: 0.5s linear;margin-bottom:5px;}
+button.btn-outline{font-size:16px;background-color:transparent;background-image:none;color:#096db0;border: 2px solid #096db0;box-shadow:none;padding: .50rem 1.5rem;-webkit-border-radius: 10em;border-radius: 10em;margin: 0 auto;transition: 0.5s linear;margin-bottom:5px;}
 button.btn-outline:hover{color:#fff;background-color:#096db0;border-color:#096db0;}
 button.btn-outline .fa{margin-right:5px;}
 
-button.btn-fill-default {font-size:16px;background: #2bbbad;color:#fff;border: 2px solid #2bbbad;box-shadow:none;padding: .80rem 2rem;-webkit-border-radius: 10em;border-radius: 10em;margin: 0 auto;transition: 0.5s linear;margin-bottom:5px;}
+button.btn-fill-default {font-size:16px;background: #2bbbad;color:#fff;border: 2px solid #2bbbad;box-shadow:none;padding: .50rem 1.5rem;-webkit-border-radius: 10em;border-radius: 10em;margin: 0 auto;transition: 0.5s linear;margin-bottom:5px;}
 button.btn-fill-default:hover {cursor: pointer;background:#229186;color:#fff;border-color:#229186;}
 button.btn-fill-default .fa{margin-right:5px;}
 
-button.btn-outline-default{font-size:16px;background-color:transparent;background-image:none;color:#2bbbad;border: 2px solid #2bbbad;box-shadow:none;padding: .80rem 2rem;-webkit-border-radius: 10em;border-radius: 10em;margin: 0 auto;transition: 0.5s linear;margin-bottom:5px;}
+button.btn-outline-default{font-size:16px;background-color:transparent;background-image:none;color:#2bbbad;border: 2px solid #2bbbad;box-shadow:none;padding: .50rem 1.5rem;-webkit-border-radius: 10em;border-radius: 10em;margin: 0 auto;transition: 0.5s linear;margin-bottom:5px;}
 button.btn-outline-default:hover{color:#fff;background-color:#2bbbad;border-color:#2bbbad;}
 button.btn-outline-default .fa{margin-right:5px;}
 /*  XDC Utility  */
@@ -987,6 +992,11 @@ button.btn-outline-default .fa{margin-right:5px;}
 
 .downloads h1{color:#002752;font-size:24px;text-align:left;text-transform:none;margin-top:15px;margin-bottom:0px;padding-bottom:10px;}
 .downloads p{text-align:left;}
+
+.downloads .promotional-assets-border{border:1px solid #d7d7d7;padding:5px;text-align:center;}
+.downloads .promotional-assets-border img{width:100%;display:block;margin:auto;}
+.downloads button.btn-blue{line-height: 22px;padding-top: 6px;!important;}
+.downloads button.btn-outline{line-height: 22px;padding-top: 6px;!important;}
 /*  Download Assets  */
 
 
