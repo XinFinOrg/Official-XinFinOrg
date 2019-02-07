@@ -7,9 +7,9 @@ include('inc/header.php') ?>
  <!--  <div id="particle-canvas" ></div> -->
 	<div class="container">
 		<div class="row">
-		<div class="col-md-12 col-sm-12 col-xs-12 bannertext">
+		<div class="col-md-12 col-sm-12 col-xs-12 bannertext text-center">
 		<h1>Brand Assets</h1>
-		<p>If you are looking for the XinFin brand assets you are in the right place. The XinFin logo usage outlined below. If you'd prefer to save some time just download the .zip file below.<br/><br/><br/></p>
+		<p>If you are looking for the XinFin brand assets you are in the right place. The XinFin logo usage outlined below.<br />If you'd prefer to save some time just download the .zip file below.<br/><br/><br/></p>
       
 		<div>
 			<a  href="assets/images/brand-assets/xinfin-brand-assets.zip" target="_self"><button class="btn-outline-default">DOWNLOAD ALL ASSETS</button></a>
@@ -86,7 +86,7 @@ include('inc/header.php') ?>
                             </div>
                         </div>
                         
-                        <div class="row pb-0">
+                        <div class="row">
                         	<div class="col-md-6 mb-2">
                             	<div class="brand-assets-logo-border">
                            	    	<img src="assets/images/brand-assets/xdce-logo.png" class="img-responsive"/>
@@ -111,6 +111,34 @@ include('inc/header.php') ?>
 	    						</div>
                             </div>
                         </div>
+                        
+                        <hr class="light">
+                        
+                        <h3 class="mt-5 pb-2">Promotional Assets</h3>                        
+                        <p class="text-center mb-5"></p>
+                        <div class="row pb-0">
+                        	<div class="col-md-4 mb-2">
+                            	<div class="promotional-assets-border">
+                           	    	<img src="assets/images/brand-assets/standee.jpg" class="img-responsive"/>
+                                </div>
+                                <h1>Standee <span style="float:right;"><a href="assets/images/brand-assets/standee-900x2000mm.pdf" target="_blank"><button class="btn-blue mb-1">PDF</button></a></span></h1>
+                            </div>
+                            
+                            <div class="col-md-4 mb-2">
+                            	<div class="promotional-assets-border">
+                           	    	<img src="assets/images/brand-assets/flyers.jpg" class="img-responsive"/>
+                                </div>
+                                <h1>Flyers <span style="float:right;"><a href="assets/images/brand-assets/flyers.pdf" target="_blank"><button class="btn-blue mb-1">PDF</button></a></span></h1>
+                            </div>
+                            
+                            <div class="col-md-4 mb-2">
+                            	<div class="promotional-assets-border">
+                           	    	<img src="assets/images/brand-assets/stickers.jpg" class="img-responsive"/>
+                                </div>
+                                <h1>Stickers <span style="float:right;"><a href="assets/images/brand-assets/stickers.pdf" target="_blank"><button class="btn-blue mb-1">PDF</button></a></span></h1>
+                            </div>
+                        </div>
+                        
                         
                     </div>
                 </div>

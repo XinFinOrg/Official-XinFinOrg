@@ -49,7 +49,7 @@ include('inc/header.php') ?>
                         
                         <p class="mt-5 mb-2 font-20 sub-header-small"><strong>Bounty Table (Content Creation): Open till 31st March, 2019</strong></p>
                         <div class="table-responsive posTable mb-1">
-                            <table class="table table-striped table-bordered">
+                            <table class="table table-bordered">
                                 <tbody>
                                     <tr>
                                         <td>Content Creation on Medium/Blog/Post/Video around "XinFin" & sharing same with Social media group.</td>
@@ -85,7 +85,7 @@ include('inc/header.php') ?>
                         
                         <p class="mt-2 mb-2 font-20 sub-header-small"><strong>Bounty Table (Technical Contribution)</strong></p>
                         <div class="table-responsive posTable mb-1">
-                            <table class="table table-striped table-bordered">
+                            <table class="table table-bordered">
                                 <tbody>
                                     <tr>
                                         <td><p><strong>XinFin Cross Blockchain Interoperability with</strong></p>
@@ -124,7 +124,7 @@ include('inc/header.php') ?>
                         
                         <p class="mt-2 mb-2 font-20 sub-header-small"><strong>Bounty Table (Partnership & XinFin Platform/Product Demo)</strong></p>
                         <div class="table-responsive posTable mb-1">
-                            <table class="table table-striped table-bordered">
+                            <table class="table table-bordered">
                                 <tbody>
                                     <tr>
                                         <td class="link-break-out">Demo about <a href="https://xinfin.org/xdc-utility.php">XinFin Utility</a> or <a href="https://xinfin.network/" target="_blank">Platform</a> to the Institution or Government</td>
@@ -165,7 +165,7 @@ include('inc/header.php') ?>
                         
                         <p class="mt-2 mb-2 font-20 sub-header-small"><strong>Bounty Table (Local Meetup): Valid till 31st March, 2019</strong></p>
                         <div class="table-responsive posTable mb-1">
-                            <table class="table table-striped table-bordered">
+                            <table class="table table-bordered">
                                 <tbody>
                                     <tr>
                                         <td>Local Meetup with more than 25+ people in Asia and 15+ people in North america or Europe. Setup <a href="https://www.meetup.com/members/270624533/" target="_blank">Meetup</a></td>
@@ -191,7 +191,7 @@ include('inc/header.php') ?>
                          
                          <p class="mt-2 mb-2 font-20 sub-header-small"><strong>Bounty Table (XDCe / XDC Top Exchange Listing or Liquidity Arrangement or adoption of XDC or XDCe by Merchant / Ecommerce)</strong></p>
                         <div class="table-responsive posTable mb-1">
-                            <table class="table table-striped table-bordered">
+                            <table class="table table-bordered">
                                 <tbody>
                                     <tr>
                                         <td class="link-break-out">Listing of XDC or XDCe with top 10 Exchange as per <a href="https://coinmarketcap.com/rankings/exchanges/" target="_blank">coinmarketcap list</a><br />*Here is the <a href="https://github.com/XinFinOrg/Docs/blob/master/ExchangeList.md" target="_blank">Current XDC and XDCe List of exchange and Pair</a></td>
