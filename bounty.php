@@ -42,7 +42,7 @@ include('inc/header.php') ?>
                         <p class="link-break-out">Help to Setup local XinFin Meetup. (Sample <a href="https://twitter.com/XinFin_Official/status/1024524879326932993" target="_blank">Meetup in Singapore</a>)</p>
                         
                         <p class="sub-header-small mt-3 mb-3">Step 3:</p>
-                        <p class="link-break-out">Fill up and submit <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill" target="_blank">Claim Google Form</a> with Link and Reference to get Free XDC.</p>                      
+                        <p class="link-break-out">Fill up and submit <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/" target="_blank">Claim Google Form</a> with Link and Reference to get Free XDC.</p>                      
                         
                         <p class="sub-header-small mt-3 mb-3">Step 4:</p>
                         <p>Wait for approval (7-10 days) by XinFin committee to get your Free XDC.</p>
@@ -76,7 +76,7 @@ include('inc/header.php') ?>
                             <li> An article/review/post in a blog should contain at least 250+ words.</li>
                             <li> The website must have a real audience. New websites are not accepted.</li>
                             <li> XinFin Committee reserves the right to deny Reward / Bounty.</li>
-                            <li class="link-break-out"> For claiming XDC Bounty, you are required to <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill" target="_blank">Submit through Google form</a> with appropriate reference link and proof of contribution.</li> 
+                            <li class="link-break-out"> For claiming XDC Bounty, you are required to <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w" target="_blank">Submit through Google form</a> with appropriate reference link and proof of contribution.</li> 
                         </ul>
                         </div>
                         
@@ -117,7 +117,7 @@ include('inc/header.php') ?>
                         	<li> Open and valid upto 31st March 2019.</li>
                             <li> Contribution should have strong <strong>Readme</strong> File with all detail.</li>
                             <li> XinFin Committee reserves the right to deny Reward/Bounty.</li>
-                            <li class="link-break-out"> For claiming XDC Bounty, you are required to <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill" target="_blank">Submit through Google form</a> with appropriate reference link and proof of contribution.</li>
+                            <li class="link-break-out"> For claiming XDC Bounty, you are required to <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/" target="_blank">Submit through Google form</a> with appropriate reference link and proof of contribution.</li>
                         </ul>
                         </div>
                         
@@ -159,7 +159,7 @@ include('inc/header.php') ?>
                             <li> Partner and Alliance should upload XinFin Logo to their website. XinFin Logo available <a href="https://xinfin.org/download.php">here</a>.</li>
                             <li> Details need to be shared with Social media and with Medium and <a href="https://www.prlog.org/12751751-vietnam-based-sotatek-partners-with-xinfin-network.html" target="_blank">PRLog</a>.</li>
                             <li> XinFin Committee reserves the right to deny Reward / Bounty.</li>
-                            <li class="link-break-out"> For claiming XDC Bounty, you are required to <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill" target="_blank">Submit through Google form</a> with appropriate reference link and proof of contribution.</li>
+                            <li class="link-break-out"> For claiming XDC Bounty, you are required to <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/" target="_blank">Submit through Google form</a> with appropriate reference link and proof of contribution.</li>
                         </ul>
                         </div>
                         
@@ -184,7 +184,7 @@ include('inc/header.php') ?>
                             <li> All the Local Meetups should be around XinFin Platform and Utilities.</li>
                             <li> XinFin Logo and other material references available <a href="https://xinfin.org/download.php">here</a>.</li>
                             <li> XinFin Committee reserves the right to deny Reward / Bounty.</li>
-                            <li class="link-break-out"> For claiming XDC Bounty, you are required to <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill" target="_blank">Submit through Google form</a> with appropriate reference link and proof of contribution.</li>
+                            <li class="link-break-out"> For claiming XDC Bounty, you are required to <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/" target="_blank">Submit through Google form</a> with appropriate reference link and proof of contribution.</li>
                          </ul>
                          </div>
                          
@@ -228,7 +228,7 @@ include('inc/header.php') ?>
                             <li class="link-break-out"> Please update Github <a href="https://github.com/XinFinOrg/Docs/blob/master/ExchangeList.md" target="_blank">XDC Pair Listing</a> page after Listing.</li>
                             <li> Details need to be shared with Social media and with Medium and <a href="https://www.prlog.org/12751751-vietnam-based-sotatek-partners-with-xinfin-network.html" target="_blank">PRLog</a>.</li>
                             <li> XinFin Committee reserves the right to deny Reward / Bounty.</li>
-                            <li class="link-break-out"> For claiming XDC Bounty, you are required to <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/prefill" target="_blank">Submit through Google form</a> with appropriate reference link and proof of contribution.</li>
+                            <li class="link-break-out"> For claiming XDC Bounty, you are required to <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/" target="_blank">Submit through Google form</a> with appropriate reference link and proof of contribution.</li>
                          </ul>
                          </div>
                          
