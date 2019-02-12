@@ -8,8 +8,8 @@ include('inc/header.php') ?>
   <div class="container">
     <div class="row">
       <div class="col-md-12 col-sm-12 col-xs-12 bannertext">
-      <h1>Bounty Program: Use your skills to earn free XDC</h1>
-        <p>XinFin Supporters and Community members are invited to contribute and receive free XDC Coins for technical Code Contribution and non technical skills like Content Creation or Business Development or Networking to contribute around XinFin Platform and XDC Utilities.<br/><br/><br/><br/></p> 
+      	<h1>Put Your Skills to Use and Win Free XDC with Our Bounty Initiative</h1>
+        <p>We invite everyone in XinFin community including members, supporters, and ardent advocates to provide their assistance to the project and receive free XDC coins for contributing their technical and non-technical skills such as coding, copywriting, video development, networking and more to XinFin platform and XDC Utilities.<br/><br/><br/><br/></p> 
       </div>
 
 </div></div></div>
@@ -24,172 +24,172 @@ include('inc/header.php') ?>
             <div id="network" class="tab-pane fade in active">
                 <div class="row" style="margin-top:0%;padding-bottom:0px;">
                     <div class="col-md-12 col-sm-12 col-xs-12">
-                        <p class="header mt-0 mb-3">Step-by-Step guide to get Free XDC</p>
+                        <p class="header mt-0 mb-3">Get Free XDC in 4 Simple Steps</p>
                         <p class="sub-header-small mb-3">Step 1:</p>
-                        <p class="link-break-out">Join <a href="https://t.me/xinfin" target="_blank">Telegram</a>, <a href="https://twitter.com/XinFin_Official" target="_blank">Twitter</a>, <a href="https://www.linkedin.com/company/xinfin/" target="_blank">Linkedin</a>, <a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank">YouTube</a> and <a href="https://github.com/xinfinorg" target="_blank">GitHub</a></p>
+                        <p class="link-break-out">Sign up for <a href="https://t.me/xinfin" target="_blank">Telegram</a>, <a href="https://twitter.com/XinFin_Official" target="_blank">Twitter</a>, <a href="https://www.linkedin.com/company/xinfin/" target="_blank">Linkedin</a>, <a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank">YouTube</a> and <a href="https://github.com/xinfinorg" target="_blank">GitHub</a></p>
                         
                       <p class="sub-header-small mt-3 mb-3">Step 2:</p>
-                        <p class="link-break-out">Create Original Content as Blog / Steem / Medium / Facebook / Linkedin / Twitter Posts or Youtube Videos on <a href="http://xinfin.network/" target="_blank">XinFin Platform</a> or <a href="https://xinfin.org/xdc-utility.php">XinFin Utilities</a> (Sample: <a href="https://medium.com/xinfin/mycontract-smart-contracts-tokens-issuing-asset-tokenization-and-icos-made-easy-1879d523341" target="_blank">asset-tokenization</a>, <a href="https://medium.com/xinfin/leveraging-blockchain-to-solve-the-prosperity-paradox-c1c1326b6487" target="_blank">tradefinex-usecase</a>, <a href="https://medium.com/xinfin/tradefinex-on-xinfin-hybrid-blockchain-enables-unbanked-population-with-peer-to-peer-cross-trade-e5139ad85cfa" target="_blank">p2p unbanked population</a>, <a href="https://www.youtube.com/watch?v=thR-pTpF7Sw" target="_blank">Create Smart Contract</a>, <a href="https://www.youtube.com/watch?v=GIp_h7U9aRQ" target="_blank">InFactor-demo</a>, <a href="https://www.youtube.com/watch?v=ejWNB5iYoR8&amp;t=33s" target="_blank">Video Interview</a>, <a href="https://www.youtube.com/watch?v=t4zKQhzorkY" target="_blank">Video Interview 2</a>)</p>
+                        <p class="link-break-out">Produce unique and valuable content related to <a href="http://xinfin.network/" target="_blank">XinFin Platform</a> or <a href="https://xinfin.org/xdc-utility.php">XinFin Utilities</a> in the form of YouTube videos or Twitter / LinkedIn / Facebook / Medium / Blog / Steem posts. (Sample: <a href="https://medium.com/xinfin/mycontract-smart-contracts-tokens-issuing-asset-tokenization-and-icos-made-easy-1879d523341" target="_blank">asset-tokenization</a>, <a href="https://medium.com/xinfin/leveraging-blockchain-to-solve-the-prosperity-paradox-c1c1326b6487" target="_blank">tradefinex-usecase</a>, <a href="https://medium.com/xinfin/tradefinex-on-xinfin-hybrid-blockchain-enables-unbanked-population-with-peer-to-peer-cross-trade-e5139ad85cfa" target="_blank">p2p unbanked population</a>, <a href="https://www.youtube.com/watch?v=thR-pTpF7Sw" target="_blank">Create Smart Contract</a>, <a href="https://www.youtube.com/watch?v=GIp_h7U9aRQ" target="_blank">InFactor-demo</a>, <a href="https://www.youtube.com/watch?v=ejWNB5iYoR8&amp;t=33s" target="_blank">Video Interview</a>, <a href="https://www.youtube.com/watch?v=t4zKQhzorkY" target="_blank">Video Interview 2</a>)</p>
                         <p>OR</p>
-                        <p class="link-break-out">Write or help XinFin to get published with offline or online media like Forbes, Techradar, WSJ, Bloomberg, CNBC, Reuters, Cointelegraph, Entrepreneur.com. (Sample: <a href="https://www.techradar.com/news/have-you-heard-of-the-xinfin-hybrid-blockchain-heres-why-you-should-get-involved" target="_blank">Techradar</a>, <a href="https://in.reuters.com/article/brief-indias-ramco-systems-xinfin-to-dev/brief-indias-ramco-systems-xinfin-to-develop-hybrid-blockchain-solution-for-enterprises-idINFWN1Q31FM" target="_new">Reuter</a>, <a href="https://cointelegraph.com/press-releases/bitcoins-roger-ver-and-mate-tokay-join-xinfinio-advisory-board" target="_blank">cointelegraph</a>, <a href="https://www.entrepreneur.com/article/317193" target="_blank">entrepreneur.com</a>, <a href="https://globalcoinreport.com/5-token-launch-platforms-to-consider/" target="_blank">globalcoinreport</a> (XinFin mention))</p>
+                        <p class="link-break-out">Provide written content or assist XinFin in getting published on major digital or traditional media such as Techradar, Bloomberg, Forbes, WSJ, Reuters, CNBS, Entrepreneur.com, Cointelegraph etc. (Sample: <a href="https://www.techradar.com/news/have-you-heard-of-the-xinfin-hybrid-blockchain-heres-why-you-should-get-involved" target="_blank">Techradar</a>, <a href="https://in.reuters.com/article/brief-indias-ramco-systems-xinfin-to-dev/brief-indias-ramco-systems-xinfin-to-develop-hybrid-blockchain-solution-for-enterprises-idINFWN1Q31FM" target="_new">Reuter</a>, <a href="https://cointelegraph.com/press-releases/bitcoins-roger-ver-and-mate-tokay-join-xinfinio-advisory-board" target="_blank">cointelegraph</a>, <a href="https://www.entrepreneur.com/article/317193" target="_blank">entrepreneur.com</a>, <a href="https://globalcoinreport.com/5-token-launch-platforms-to-consider/" target="_blank">globalcoinreport</a> (XinFin mention))</p>
                         <p>OR</p>
-                        <p>Contribute Code to enhance XinFin Platform and <a href="https://xinfin.org/xdc-utility.php">Utilities</a>.</p>
+                        <p>Write code to further the cause of XinFin Platform and XinFin <a href="https://xinfin.org/xdc-utility.php">Utilities</a>.</p>
                         <p>OR</p>
-                        <p>Help XinFin in doing Partnership or Alliance (Sample: <a href="https://sotatek.com/news/vietnam-based-sotatek-partners-with-xinfin-network" target="_blank">Sotatek</a>, <a href="https://www.ramco.com/newsroom/press/releases/feb-18/ramco-partners-with-xinfin-to-provide-blockchain-solutions/" target="_blank">RAMCO</a>)</p>
+                        <p>Help Assist XinFin in forming mutually beneficial alliances and partnerships.XinFin in doing Partnership or Alliance (Sample: <a href="https://sotatek.com/news/vietnam-based-sotatek-partners-with-xinfin-network" target="_blank">Sotatek</a>, <a href="https://www.ramco.com/newsroom/press/releases/feb-18/ramco-partners-with-xinfin-to-provide-blockchain-solutions/" target="_blank">RAMCO</a>)</p>
                         <p>OR</p>
-                        <p class="link-break-out">Demonstrate XinFin Platform and Utilities to the Government and Institution. (Sample Demo to <a href="https://medium.com/xinfin/xinfin-presenting-infactor-io-to-bpifrance-french-public-investment-bank-in-singapore-2f99ce94d5f1" target="_blank">BPIfrance</a>, <a href="https://medium.com/xinfin/xinfin-presents-blockchain-proof-of-concept-for-land-registry-to-maharashtra-government-bb1100382f24" target="_blank">Pilot to Government</a>)</p>
+                        <p class="link-break-out">Effectively demonstrate XinFin Platform and Utilities in front of government departments and corporate institutions. (Sample Demo to <a href="https://medium.com/xinfin/xinfin-presenting-infactor-io-to-bpifrance-french-public-investment-bank-in-singapore-2f99ce94d5f1" target="_blank">BPIfrance</a>, <a href="https://medium.com/xinfin/xinfin-presents-blockchain-proof-of-concept-for-land-registry-to-maharashtra-government-bb1100382f24" target="_blank">Pilot to Government</a>)</p>
                         <p>OR</p>
-                        <p class="link-break-out">Help to Setup local XinFin Meetup. (Sample <a href="https://twitter.com/XinFin_Official/status/1024524879326932993" target="_blank">Meetup in Singapore</a>)</p>
+                        <p class="link-break-out">Play active role in conducting local XinFin meet-up(s). (Sample <a href="https://twitter.com/XinFin_Official/status/1024524879326932993" target="_blank">Meetup in Singapore</a>)</p>
                         
                         <p class="sub-header-small mt-3 mb-3">Step 3:</p>
-                        <p class="link-break-out">Fill up and submit <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/" target="_blank">Claim Google Form</a> with Link and Reference to get Free XDC.</p>                      
+                        <p class="link-break-out">Fill up the <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/" target="_blank">Claim Google Form</a> and submit it with link and reference to receive your free XDC.</p>                      
                         
                         <p class="sub-header-small mt-3 mb-3">Step 4:</p>
-                        <p>Wait for approval (7-10 days) by XinFin committee to get your Free XDC.</p>
+                        <p>Wait up to 10 days as XinFin committee approves your free XDC.</p>
                         
-                        <p class="mt-5 mb-2 font-20 sub-header-small"><strong>Bounty Table (Content Creation): Open till 31st March, 2019</strong></p>
+                        <p class="mt-5 mb-2 font-20 sub-header-small"><strong>Bounty Opportunities for Content Creation – Open till 31st March, 2019</strong></p>
                         <div class="table-responsive posTable mb-1">
                             <table class="table table-bordered">
                                 <tbody>
                                     <tr>
-                                        <td>Content Creation on Medium/Blog/Post/Video around "XinFin" & sharing same with Social media group.</td>
+                                        <td>Create content related to XinFin Platform or Utilities for Medium/YouTube/Blog/Twitter/GitHub/LinkedIn and share it on social media</td>
                                         <td style="width:20%;"><strong>100K XDC</strong></td>
                                     </tr>
                                     <tr>
-                                        <td>Publish article around XinFin with offline or online media like Forbes, Techradar, WSJ, Bloomberg, CNBC, Reuters</td>
-                                        <td style="width:20%;"><strong>4.5Million XDC</strong></td>
+                                        <td>Write and publish a content piece related to XinFin for offline or online media such as Techradar, Bloomberg, CNBC, Forbes, Reuters</td>
+                                        <td style="width:20%;"><strong>4.5 Million XDC</strong></td>
                                     </tr>
                                     <tr>
-                                        <td>XinFin "Mention" with top media like Forbes, Techradar, WSJ, Bloomberg, CNBC, Reuters </td>
-                                        <td style="width:20%;"><strong>1.5Million XDC</strong></td>
+                                        <td>Get XinFin mentioned in leading digital media like Techradar, Bloomberg, CNBC, Forbes, Reuters </td>
+                                        <td style="width:20%;"><strong>1.5 Million XDC</strong></td>
                                     </tr>
                                 </tbody>
                             </table>
                         </div>
                         
-                        <p class="mb-2"><strong>Entry Rule (For Content Creation)</strong></p>
+                        <p class="mb-2"><strong>Terms & Conditions</strong></p>
                         <div class="orderList mb-5">
                         <ul>
-                        	<li> All entries <strong>need to be original</strong>. Trolling and spamming will not be acceptable.</li>
-                        	<li> One person can submit maximum four articles/posts in a month.</li>
-                            <li> Open and valid upto 31st March 2019.</li>
-                            <li> An article/review/post in a blog should contain at least 250+ words.</li>
-                            <li> The website must have a real audience. New websites are not accepted.</li>
-                            <li> XinFin Committee reserves the right to deny Reward / Bounty.</li>
-                            <li class="link-break-out"> For claiming XDC Bounty, you are required to <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w" target="_blank">Submit through Google form</a> with appropriate reference link and proof of contribution.</li> 
+				<li> Every entry must be <strong>unique</strong> and valuable</li>
+                        	<li> Each participant is allowed to submit up to 4 content pieces a month</li>
+                            <li> Offer is valid for entries submitted till March 31, 2019</li>
+                            <li> Content piece must have at least 250 words</li>
+                            <li> Website where content piece is published must have substantial traffic. Submissions for new websites or websites with little to no traffic won't be accepted</li>
+                            <li> XinFin reserves the right to reject any submission</li>
+                            <li class="link-break-out"> To make a valid claim for XDC Bounty, participant must submit <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w" target="_blank"> Google form</a> with relevant reference link and undeniable proof of contribution</li> 
                         </ul>
                         </div>
                         
                         
-                        <p class="header mt-0 mb-3">Other Bounty also available</p>
+                        <p class="header mt-0 mb-3">Other Available Bounties</p>
                         
-                        <p class="mt-2 mb-2 font-20 sub-header-small"><strong>Bounty Table (Technical Contribution)</strong></p>
+                        <p class="mt-2 mb-2 font-20 sub-header-small"><strong>Bounty Opportunities for Technical Contributions – Open till 31st March, 2019</strong></p>
                         <div class="table-responsive posTable mb-1">
                             <table class="table table-bordered">
                                 <tbody>
                                     <tr>
-                                        <td><p><strong>XinFin Cross Blockchain Interoperability with</strong></p>
+                                        <td><p><strong>Write code for XinFin cross blockchain interoperability with</strong></p>
                                   		<div class="orderList mb-2">
                                         <ol>
-                        					<li> Corda Network,</li>
-                                            <li> ISO20022 Data Set APIs, </li>
-                                            <li> ERP Connectors, </li>
-                                            <li> Core Banking Connectors,</li>
-                                            <li> SWIFT System connectors with XinFin Blockchain.</li>
+                        			<li> Corda Network </li>
+                                            <li> ISO20022 Data Set APIs </li>
+                                            <li> ERP Connectors </li>
+                                            <li> Core Banking Connectors </li>
+                                            <li> SWIFT System connectors with XinFin Blockchain </li>
                                         </ol>
                                         </div>
-										<p>For More detail Goto XinFin <a href="https://github.com/XinFinOrg/" target="_blank">Github</a></p>
+										<p>To find out more information, visit <a href="https://github.com/XinFinOrg/" target="_blank">Github.</a></p>
                                         </td>
                                         <td style="width:23%;"><strong>3Million XDC / per interoperability</strong></td>
                                     </tr>
                                     <tr>
-                                        <td>XDCE Token Staking Function: A staking mechanism requires users who offer compute power or other resources to the service takers in the ecosystem to put up a portion of their tokens in order to do so. If a user has no tokens to stake, but wants to support the network by providing resources they must purchase them. In exchange for staking their tokens and providing the service a financial reward is received. By forcing providers to take a financial risk you are weeding out bad actors. Read more detail at: <a href="https://github.com/XinFinOrg/Open-Hackathon/blob/master/OpenHackathon/XDCE_Staking_Function.md" target="_blank">Github</a></td>
-                                        <td style="width:23%;"><strong>1Million XDC</strong></td>
+                                        <td>XDCE Token Staking Function – A staking function mandates a participant offering computing or other resources to ecosystem's service users to put up a fraction of their tokens. If a participant doesn't have tokens to stake but is willing to provide resources to the network, they are required to purchase them. For staking their tokens and providing resources, they will be awarded a financial reward. Mandating resource providers to assume a financial risk in the process eliminates insincere and non-serious users. Read more detail at: <a href="https://github.com/XinFinOrg/Open-Hackathon/blob/master/OpenHackathon/XDCE_Staking_Function.md" target="_blank">Github</a></td>
+                                        <td style="width:23%;"><strong>1 Million XDC</strong></td>
                                     </tr>
                                 </tbody>
                             </table>
                         </div>
                         
-                        <p class="mb-2"><strong>Entry Rule (For Technical Contribution)</strong></p>
+                        <p class="mb-2"><strong>Terms & Conditions</strong></p>
                         <div class="orderList mb-5">
                         <ul>
-                        	<li class="link-break-out"> All contribution <strong>needs to be done under open source environment using <a href="https://github.com/XinFinOrg/Open-Hackathon/tree/master/SubmissionGuide" target="_blank">Github Guideline</a>.</strong> Complete "Copy" "Paste" will not be rewarded.</li>
-                        	<li> Open and valid upto 31st March 2019.</li>
-                            <li> Contribution should have strong <strong>Readme</strong> File with all detail.</li>
-                            <li> XinFin Committee reserves the right to deny Reward/Bounty.</li>
-                            <li class="link-break-out"> For claiming XDC Bounty, you are required to <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/" target="_blank">Submit through Google form</a> with appropriate reference link and proof of contribution.</li>
+                        	<li class="link-break-out"> Every contribution shall be made under open source environment using <a href="https://github.com/XinFinOrg/Open-Hackathon/tree/master/SubmissionGuide" target="_blank">Github Guidelines</a>.</strong>. Copy and paste jobs will not be eligible for a reward.</li>
+                        	<li> Offer is valid for contributions made till March 31, 2019</li>
+                            <li> Every contribution must be accompanied with a detailed <strong>Readme</strong> file</li>
+                            <li> XinFin reserves the right to reject any submission</li>
+                            <li class="link-break-out"> To make a valid claim for XDC Bounty, participant must submit <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/" target="_blank"> Google form</a> with relevant reference link and undeniable proof of contribution</li>
                         </ul>
                         </div>
                         
                         
-                        <p class="mt-2 mb-2 font-20 sub-header-small"><strong>Bounty Table (Partnership & XinFin Platform/Product Demo)</strong></p>
+                        <p class="mt-2 mb-2 font-20 sub-header-small"><strong>Bounty Opportunities for Partnerships and Product Demonstrations – Open till 31st March, 2019</strong></p>
                         <div class="table-responsive posTable mb-1">
                             <table class="table table-bordered">
                                 <tbody>
                                     <tr>
-                                        <td class="link-break-out">Demo about <a href="https://xinfin.org/xdc-utility.php">XinFin Utility</a> or <a href="https://xinfin.network/" target="_blank">Platform</a> to the Institution or Government</td>
-                                        <td style="width:20%;"><strong>2Million XDC</strong></td>
+                                        <td class="link-break-out">Demo related to <a href="https://xinfin.org/xdc-utility.php">XinFin Utility</a> or <a href="https://xinfin.network/" target="_blank">Platform</a> for government or corporate institution</td>
+                                        <td style="width:20%;"><strong>2 Million XDC</strong></td>
                                     </tr>
                                     <tr>
-                                        <td>Tie Ups and MOU with Education Institute for XinFin Blockchain Certification Like: SPIT</td>
-                                        <td style="width:20%;"><strong>2Million XDC</strong></td>
+                                        <td>Affiliations/MOU with Academic Institutions for XinFin Blockchain Certification such as SPIT</td>
+                                        <td style="width:20%;"><strong>2 Million XDC</strong></td>
                                     </tr>
                                     <tr>
                                         <td class="link-break-out">XinFin Institution and Government or Regulation alliance like <a href="https://marketplace.r3.com/directory/xinfin-fintech-pte-ltd-a00119" target="_blank">R3</a>, <a href="https://www.adgm.com/mediacentre/press-releases/abu-dhabi-global-market-admits-3rd-reglab-cohort-with-more-uae-fintech-firms/" target="_blank">ADGM</a>, <a href="https://medium.com/xinfin/xinfin-presents-blockchain-proof-of-concept-for-land-registry-to-maharashtra-government-bb1100382f24" target="_blank">Indian Government</a>, <a href="https://blog.circle.com/2018/12/19/usdc-ecosystem-spotlight-idcm-crypto-exchange-along-with-alpha-wallet-changenow-loopring-salt-platform-and-xinfin-the-latest-companies-to-support-usdc/" target="_blank">Circle</a>.</td>
-                                        <td style="width:20%;"><strong>5Million XDC</strong></td>
+                                        <td style="width:20%;"><strong>5 Million XDC</strong></td>
                                     </tr>
                                     <tr>
-                                        <td class="link-break-out">XinFin Local Country Technical Partner for Utility Creation and implementation Partner. eg: <a href="https://www.ramco.com/newsroom/press/releases/feb-18/ramco-partners-with-xinfin-to-provide-blockchain-solutions/" target="_blank">RAMCO</a>, <a href="https://sotatek.com/news/vietnam-based-sotatek-partners-with-xinfin-network" target="_blank">Sotatek</a></td>
-                                        <td style="width:20%;"><strong>2Million XDC</strong></td>
+                                        <td class="link-break-out">XinFin Local Country Technical Partner for Utility Creation and implementation such as <a href="https://www.ramco.com/newsroom/press/releases/feb-18/ramco-partners-with-xinfin-to-provide-blockchain-solutions/" target="_blank">RAMCO</a>, <a href="https://sotatek.com/news/vietnam-based-sotatek-partners-with-xinfin-network" target="_blank">Sotatek</a></td>
+                                        <td style="width:20%;"><strong>2 Million XDC</strong></td>
                                     </tr>
                                     <tr>
                                         <td>Conduct PoC / Pilot with specific utility of XDC / XDCE with real customers</td>
-                                        <td style="width:20%;"><strong>5Million XDC</strong></td>
+                                        <td style="width:20%;"><strong>5 Million XDC</strong></td>
                                     </tr>
                                 </tbody>
                             </table>
                         </div>
                         
-                        <p class="mb-2"><strong>Entry Rule (For Partnership & XinFin Platform/Product Demo)</strong></p>
+                        <p class="mb-2"><strong>Terms & Conditions</strong></p>
                         <div class="orderList mb-5">
                         <ul>
-                        	<li> All contribution <strong>needs to be submitted with Photos and/or supporting Document.</strong> Partnership with New Company will  not be rewarded.</li>
-                        	<li> Bounty open and valid upto 31st March 2019.</li>
-                            <li class="link-break-out"> All the Partners and Alliances must <a href="https://docs.xinfin.org/docs/raw/masternodes#hands-on-guide-how-to-setup-masternode" target="_blank">Setup XinFin KYC Compliant Masternode</a>.</li>
-                            <li> Partner and Alliance should upload XinFin Logo to their website. XinFin Logo available <a href="https://xinfin.org/download.php">here</a>.</li>
-                            <li> Details need to be shared with Social media and with Medium and <a href="https://www.prlog.org/12751751-vietnam-based-sotatek-partners-with-xinfin-network.html" target="_blank">PRLog</a>.</li>
-                            <li> XinFin Committee reserves the right to deny Reward / Bounty.</li>
-                            <li class="link-break-out"> For claiming XDC Bounty, you are required to <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/" target="_blank">Submit through Google form</a> with appropriate reference link and proof of contribution.</li>
+                        	<li> Every contribution shall accompany photos and/or supporting documentation. Partnerships with startups or new companies won't qualify for a reward</li>
+                        	<li> Offer is valid for contributions made till March 31, 2019</li>
+                            <li class="link-break-out"> Every partner and/or alliance must set up <a href="https://docs.xinfin.org/docs/raw/masternodes#hands-on-guide-how-to-setup-masternode" target="_blank">XinFin KYC Compliant Masternode</a>.</li>
+                            <li> Partners and alliances shall put up XinFin logo on their websites. The logo can be downloaded <a href="https://xinfin.org/download.php">here</a></li>
+                            <li> Details of such partnerships or alliances must be shared on social media, Medium, and <a href="https://www.prlog.org/12751751-vietnam-based-sotatek-partners-with-xinfin-network.html" target="_blank">PRLog</a>.</li>
+                            <li> XinFin reserves the right to reject any submission</li>
+                            <li class="link-break-out"> To make a valid claim for XDC Bounty, participant must submit <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/" target="_blank">Google form</a> with relevant reference link and undeniable proof of contribution</li>
                         </ul>
                         </div>
                         
-                        <p class="mt-2 mb-2 font-20 sub-header-small"><strong>Bounty Table (Local Meetup): Valid till 31st March, 2019</strong></p>
+                        <p class="mt-2 mb-2 font-20 sub-header-small"><strong>Bounty Opportunities for Conducting Local Meetups – Open till 31st March, 2019</strong></p>
                         <div class="table-responsive posTable mb-1">
                             <table class="table table-bordered">
                                 <tbody>
                                     <tr>
-                                        <td>Local Meetup with more than 25+ people in Asia and 15+ people in North america or Europe. Setup <a href="https://www.meetup.com/members/270624533/" target="_blank">Meetup</a></td>
+                                        <td>Conduct a local meetup with at least 25 people in Asia or 15 people in North America or Europe. Set up <a href="https://www.meetup.com/members/270624533/" target="_blank">meetup</a></td>
                                         <td style="width:20%;"><strong>500K XDC</strong></td>
                                     </tr>
                                 </tbody>
                             </table>
                         </div>
                         
-                        <p class="mb-2"><strong>Entry Rule (For Local Meetup)</strong></p>
+                        <p class="mb-2"><strong>Terms & Conditions</strong></p>
                         <div class="orderList mb-5">
                         <ul>
-                        	<li class="link-break-out"> All Meetups should be Setup under <a href="https://www.meetup.com/members/270624533/" target="_blank">XinFin Meetup Group</a>.</li>
-                            <li> Bounty Claim needs to be submitted with Photos and/or supporting Document.</li>
-                            <li> Bounty open and valid upto 31st March 2019.</li>
-                            <li> All the Local Meetups should be around XinFin Platform and Utilities.</li>
-                            <li> XinFin Logo and other material references available <a href="https://xinfin.org/download.php">here</a>.</li>
-                            <li> XinFin Committee reserves the right to deny Reward / Bounty.</li>
-                            <li class="link-break-out"> For claiming XDC Bounty, you are required to <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/" target="_blank">Submit through Google form</a> with appropriate reference link and proof of contribution.</li>
+                        	<li class="link-break-out"> Each and every meetup shall be set up in accordance with <a href="https://www.meetup.com/members/270624533/" target="_blank">XinFin Meetup Group guidelines</a></li>
+                            <li> Bounty claim shall accompany photos and/or supporting documentation</li>
+                            <li> Offer is valid for meetups conducted till March 31, 2019</li>
+                            <li> Only meetups that are related to XinFin Platform and Utilities will have a chance to qualify for a reward</li>
+                            <li> XinFin logo and other material references available <a href="https://xinfin.org/download.php">here</a>.</li>
+                            <li> XinFin reserves the right to reject any submission</li>
+                            <li class="link-break-out"> To make a valid claim for XDC Bounty, participant must submit <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/" target="_blank">Google form</a> with relevant reference link and undeniable proof of contribution</li>
                          </ul>
                          </div>
                          
                          
-                         <p class="mt-2 mb-2 font-20 sub-header-small"><strong>Bounty Table (XDCe / XDC Top Exchange Listing or Liquidity Arrangement or adoption of XDC or XDCe by Merchant / Ecommerce)</strong></p>
+                         <p class="mt-2 mb-2 font-20 sub-header-small"><strong>Bounty Opportunities for XDCe / XDC Top Exchange Listing or Liquidity Arrangement or Adoption of XDC or XDCe by Merchant / Ecommerce – Open till 31st March, 2019</strong></p>
                         <div class="table-responsive posTable mb-1">
                             <table class="table table-bordered">
                                 <tbody>
@@ -210,30 +210,30 @@ include('inc/header.php') ?>
                                         <td style="width:20%;"><strong>5Million XDC</strong></td>
                                     </tr>
                                     <tr>
-                                        <td>XDC and XDCe integration with wallet (i.e: Myfreewallet, bitpay etc.), ecommerce site (amazon, expedia etc.) or with Payment processor. (i.e: coinmarketcap, paypal) site should have more than 10,000 user base.</td>
-                                        <td style="width:20%;"><strong>2Million XDC</strong></td>
+                                        <td>XDC and XDCe integration with wallet such as Myfreewallet and bitpay, ecommerce sites like Amazon or Expedia or with Payment processors such as Coinmarketcap and PayPal). Service must have more than 10,000 active customers.</td>
+                                        <td style="width:20%;"><strong>2 Million XDC</strong></td>
                                     </tr>
                                 </tbody>
                             </table>
                         </div>
                         
-                        <p class="mb-2"><strong>Entry Rule (For XDCe / XDC Exchange Listing or Adoption)</strong></p>
+                        <p class="mb-2"><strong>Terms & Conditions</strong></p>
                         <div class="orderList mb-3">
                         <ul>
-                        	<li> All contribution <strong>needs to be submitted with Integration/Exchange Link and/or supporting Document.</strong> Partnership with New Company or a new exchange or with New website will not be rewarded.</li>
-                            <li> Bounty open and valid upto 31st March 2019.</li>
-                            <li> Exchange Listing Resource available <a href="https://xinfin.org/exchange-listing-resource.php" target="_blank">here</a>.</li>
-                            <li> XinFin Logo available <a href="https://xinfin.org/download.php">here</a>.</li>
-                            <li class="link-break-out"> All the Partners and Alliances must <a href="https://docs.xinfin.org/docs/raw/masternodes#hands-on-guide-how-to-setup-masternode" target="_blank">Setup XinFin KYC Compliant Masternode</a>.</li>
-                            <li class="link-break-out"> Please update Github <a href="https://github.com/XinFinOrg/Docs/blob/master/ExchangeList.md" target="_blank">XDC Pair Listing</a> page after Listing.</li>
-                            <li> Details need to be shared with Social media and with Medium and <a href="https://www.prlog.org/12751751-vietnam-based-sotatek-partners-with-xinfin-network.html" target="_blank">PRLog</a>.</li>
-                            <li> XinFin Committee reserves the right to deny Reward / Bounty.</li>
-                            <li class="link-break-out"> For claiming XDC Bounty, you are required to <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/" target="_blank">Submit through Google form</a> with appropriate reference link and proof of contribution.</li>
+                        	<li> Every contribution shall accompany integration/exchange link and/or supporting documentation. Partnerships with new exchanges or companies won't qualify</li>
+                            <li> Offer is valid for contributions made till March 31, 2019</li>
+                            <li> You can find exchange listing resource available <a href="https://xinfin.org/exchange-listing-resource.php" target="_blank">here</a>.</li>
+                            <li> XinFin logo can be downloaded <a href="https://xinfin.org/download.php">here</a>.</li>
+                            <li class="link-break-out"> Every partner and/or alliance must set up <a href="https://docs.xinfin.org/docs/raw/masternodes#hands-on-guide-how-to-setup-masternode" target="_blank">XinFin KYC Compliant Masternode</a></li>
+                            <li class="link-break-out"> Don't forget to update <a href="https://github.com/XinFinOrg/Docs/blob/master/ExchangeList.md" target="_blank">GitHub XDC Pair Listing</a> page after listing</li>
+                            <li> Details of such partnerships or alliances must be shared on social media, Medium, and <a href="https://www.prlog.org/12751751-vietnam-based-sotatek-partners-with-xinfin-network.html" target="_blank">PRLog</a>.</li>
+                            <li> XinFin reserves the right to reject any submission</li>
+                            <li class="link-break-out"> To make a valid claim for XDC Bounty, participant must submit <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/" target="_blank"> Google form</a> with relevant reference link and undeniable proof of contribution</li>
                          </ul>
                          </div>
                          
                          <p class="sub-header">Have a question?</p>
-                         <p>Please ask here:</p>
+                         <p>Don't hesitate to reach out through following channels:</p>
                          <p class="link-break-out"><strong>Telegram Channel:</strong> <a href="https://t.me/XinFinDevelopers" target="_blank">https://t.me/XinFinDevelopers</a></p>
                          <p class="link-break-out"><strong>Slack Channel:</strong> <a href="https://xinfin-public.slack.com/messages/CELR2M831/" target="_blank">https://xinfin-public.slack.com/messages/CELR2M831/</a></p>
                          <p class="link-break-out"><strong>Forum:</strong> <a href="http://XinFin.net" target="_blank">http://XinFin.net</a></p>
