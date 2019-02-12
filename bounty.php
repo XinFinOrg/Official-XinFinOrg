@@ -70,7 +70,7 @@ include('inc/header.php') ?>
                         <p class="mb-2"><strong>Terms & Conditions</strong></p>
                         <div class="orderList mb-5">
                         <ul>
-				<li> Every entry must be <strong>unique</strong> and valuable</li>
+				<li> Every entry must be <strong>unique</strong> and useful. Avoid philosophy</li>
                         	<li> Each participant is allowed to submit up to 4 content pieces a month</li>
                             <li> Offer is valid for entries submitted till March 31, 2019</li>
                             <li> Content piece must have at least 250 words</li>
