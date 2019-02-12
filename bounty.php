@@ -188,6 +188,25 @@ include('inc/header.php') ?>
                          </ul>
                          </div>
                          
+                        <p class="mt-2 mb-2 font-20 sub-header-small"><strong>Offline Hackathon around XinFin Problem statement (more then 50 Participants)</strong></p>
+                        <h2 class="font-20 mt-1 mb-2">Bounty : 1Milion XDC</h2>                        
+                        
+                        <p class="mb-2"><strong>Terms & Conditions</strong></p>
+                        <div class="orderList mb-5">
+                        <ul>
+                        	<li class="link-break-out"> Each and every Meetup/Hackathon shall be set up in accordance with <a href="https://www.meetup.com/members/270624533/" target="_blank">XinFin Meetup Group guidelines</a></li>
+                            <li> Hackathon should be around <a href="https://github.com/XinFinOrg/Open-Hackathon/tree/master/Standford-University-TreeHacks" target="_blank">XinFin Problem statement</a></li>
+                            <li> We need participant to download/fork XinFin Blockchain and start development around XinFin Platform. <a href="https://github.com/XinFinOrg/Open-Hackathon/" target="_blank">More Detail</a></li>
+                            <li> All the code base need to be open source for the community under <a href="https://github.com/XinFinOrg/Open-Hackathon" target="_blank">XinFin Github</a> Repo</li>
+                            <li> University/Partner should share Join Press with XinFin and put XinFin Logo with their website with social media announcement</li>
+                            <li> Bounty claim shall accompany photos and/or supporting documentation</li>
+                            <li> Offer is valid for Meetups/Hackathon conducted till March 31, 2019</li>
+                            <li> Only Meetups/Hackathon that are related to XinFin Platform and Utilities will have a chance to qualify for a reward</li>
+                            <li> XinFin logo and other material references available <a href="https://xinfin.org/download.php">here</a>.</li>
+                            <li> XinFin reserves the right to reject any submission</li>
+                            <li class="link-break-out"> To make a valid claim for XDC Bounty, participant must submit <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/" target="_blank">Google form</a> with relevant reference link and undeniable proof of contribution</li>
+                         </ul>
+                         </div>
                          
                          <p class="mt-2 mb-2 font-20 sub-header-small"><strong>Bounty Opportunities for XDCe / XDC Top Exchange Listing or Liquidity Arrangement or Adoption of XDC or XDCe by Merchant / Ecommerce – Open till 31st March, 2019</strong></p>
                         <div class="table-responsive posTable mb-1">
