@@ -248,23 +248,6 @@ include('inc/header.php') ?>
                     </div>
                   </div>
                 </div>
-              </div>      
-              
-              <div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/team/core-team/peter-yeo.jpg" alt="" class="img-responsive" width="100%">
-                  <div class="overlay2">
-                    <div class="text2">
-                      <h4>Peter Yeo
-                        <a href="https://www.linkedin.com/in/peteryeo/" target="_blank">
-                          <i class="fa fa-linkedin" aria-hidden="true"></i>
-                        </a>
-                      </h4>
-                      <p class="cto">Co-Founder, Blockchain Architecture</p>
-                      <p class="text-content">The mastermind behind the ideation and launch of Cloudmining.sg, back in the year 2014, Peter eventually converted it into the largest cryptomining firm in the entire South Eastern market. Mining over a 1mil litecoin tokens (net present value $50mil in 2017), the company cemented its presence in the global cryptomining industry. At XinFin, Peter forms the core of the Blockchain advisory group pertaining to Blockchain Architecture. He aims to make XinFin-Blockchain a world class Blockhain platform.</p>
-                    </div>
-                  </div>
-                </div>
               </div>
               
               <div class="item">
@@ -285,27 +268,6 @@ include('inc/header.php') ?>
                 </div>
               </div>
               
-              <!--<div class="item ">
-                <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/karan-bharadwaj.jpg" alt="" class="img-responsive" width="100%">
-                  <div class="overlay2">
-                    <div class="text2">
-                      <h4>Karan Bharadwaj
-                        <a href="https://www.linkedin.com/in/karanbharadwaj/" target="_blank">
-                          <i class="fa fa-linkedin" aria-hidden="true"></i>
-                        </a>
-                      </h4>
-                      <p class="cto">Co-Founder, CTO</p>
-                      <p class="text-content">Founder of a Blockchain consultancy called linkDapps, Karan has worked with some prestigious clients
-                        like Fidelity and Bravura Solutions, in the recent past. Backed by his research-based knowledge of
-                        Blockchain technology, Karan developed linkDapps on IBM’s Fabric from the Hyperledger project. His
-                        grasp in the fields of Blockchain architecture stems from his rich experience of working on several
-                        blockchain platforms like Bitcoin, Ethereum, IBM’s Fabri, Intel’s Sawtooth, and JP Morgan’s Quorum.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>-->
-              
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
                   <img src="assets/images/team/core-team/emerson-samfilippo.jpg" alt="" class="img-responsive" width="100%">
@@ -323,7 +285,7 @@ include('inc/header.php') ?>
                 </div>
               </div>
               
-              <div class="item ">
+              <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
                   <img src="assets/images/team/core-team/joseph.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
@@ -340,7 +302,7 @@ include('inc/header.php') ?>
                 </div>
               </div>
               
-              <div class="item ">
+              <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
                   <img src="assets/images/team/core-team/meenu-sarin.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
