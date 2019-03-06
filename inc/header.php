@@ -211,6 +211,9 @@
               <li class="nav-item">
                 <a href="resources.php">Resource</a>
               </li>
+              <li class="nav-item">
+                <a href="https://howto.xinfin.org/" target="_blank">Get Started</a>
+              </li>
               
               <!--<li>
                 <div class="m-dropdown">
