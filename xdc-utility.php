@@ -117,7 +117,7 @@ include('inc/header.php') ?>
             </div>
             <h3>XinFin Blockchain Academy <span>Testnet</span></h3>
             <div class="btn-block mb-1">
-            	<a href="Https://tinyurl.com/ycdkaccz" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            	<a href="http://blockdegree.org/" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
                 <a href="https://github.com/XinFinOrg/Blockchain_Tutorial-website" target="_blank"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
             </div>
             <p>XinFin Blockchain Academy exists to create awareness of XinFin's platforms. The Blockchain Academy provides online blockchain training to engineers and professionals. These engineers and professionals can avail basic and advanced courses from XinFin Academy and start development around our platforms.</p>
