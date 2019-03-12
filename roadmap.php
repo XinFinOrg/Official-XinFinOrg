@@ -69,7 +69,7 @@ include('inc/header.php') ?>
         </li>
         <li>
 			<div>
-				<time>Q3</time>Release of Business & Technica<br/> White Paper Overview (V1)
+				<time>Q3</time>Release of Business & Technical<br/> White Paper Overview (V1)
 			</div>
         </li>
         <li>
