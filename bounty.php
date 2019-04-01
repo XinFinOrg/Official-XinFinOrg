@@ -47,7 +47,7 @@ include('inc/header.php') ?>
                         <p class="sub-header-small mt-3 mb-3">Step 4:</p>
                         <p>Wait up to 10 days as XinFin committee approves your free XDC.</p>
                         
-                        <p class="mt-5 mb-2 font-20 sub-header-small"><strong>Bounty Opportunities for Content Creation – Open till 31st March, 2019</strong></p>
+                        <p class="mt-5 mb-2 font-20 sub-header-small"><strong>Bounty Opportunities for Content Creation – Open till 15th April, 2019</strong></p>
                         <div class="table-responsive posTable mb-1">
                             <table class="table table-bordered">
                                 <tbody>
@@ -83,7 +83,7 @@ include('inc/header.php') ?>
                         
                         <p class="header mt-0 mb-3">Other Available Bounties</p>
                         
-                        <p class="mt-2 mb-2 font-20 sub-header-small"><strong>Bounty Opportunities for Technical Contributions – Open till 31st March, 2019</strong></p>
+                        <p class="mt-2 mb-2 font-20 sub-header-small"><strong>Bounty Opportunities for Technical Contributions – Open till 15th April, 2019</strong></p>
                         <div class="table-responsive posTable mb-1">
                             <table class="table table-bordered">
                                 <tbody>
@@ -114,7 +114,7 @@ include('inc/header.php') ?>
                         <div class="orderList mb-5">
                         <ul>
                         	<li class="link-break-out"> Every contribution shall be made under open source environment using <a href="https://github.com/XinFinOrg/Open-Hackathon/tree/master/SubmissionGuide" target="_blank">Github Guidelines</a>.</strong>. Copy and paste jobs will not be eligible for a reward.</li>
-                        	<li> Offer is valid for contributions made till March 31, 2019</li>
+                        	<li> Offer is valid for contributions made till April 15, 2019</li>
                             <li> Every contribution must be accompanied with a detailed <strong>Readme</strong> file</li>
                             <li> XinFin reserves the right to reject any submission</li>
                             <li class="link-break-out"> To make a valid claim for XDC Bounty, participant must submit <a href="https://docs.google.com/forms/d/1ojBCexSf2Di2EiRS7hZZGSbcBGMI6GbK7K85VIOqL7w/" target="_blank"> Google form</a> with relevant reference link and undeniable proof of contribution</li>
@@ -122,7 +122,7 @@ include('inc/header.php') ?>
                         </div>
                         
                         
-                        <p class="mt-2 mb-2 font-20 sub-header-small"><strong>Bounty Opportunities for Partnerships and Product Demonstrations – Open till 31st March, 2019</strong></p>
+                        <p class="mt-2 mb-2 font-20 sub-header-small"><strong>Bounty Opportunities for Partnerships and Product Demonstrations – Open till 15th April, 2019</strong></p>
                         <div class="table-responsive posTable mb-1">
                             <table class="table table-bordered">
                                 <tbody>
@@ -163,7 +163,7 @@ include('inc/header.php') ?>
                         </ul>
                         </div>
                         
-                        <p class="mt-2 mb-2 font-20 sub-header-small"><strong>Bounty Opportunities for Conducting Local Meetups – Open till 31st March, 2019</strong></p>
+                        <p class="mt-2 mb-2 font-20 sub-header-small"><strong>Bounty Opportunities for Conducting Local Meetups – Open till 15th April, 2019</strong></p>
                         <div class="table-responsive posTable mb-1">
                             <table class="table table-bordered">
                                 <tbody>
@@ -180,7 +180,7 @@ include('inc/header.php') ?>
                         <ul>
                         	<li class="link-break-out"> Each and every meetup shall be set up in accordance with <a href="https://www.meetup.com/members/270624533/" target="_blank">XinFin Meetup Group guidelines</a></li>
                             <li> Bounty claim shall accompany photos and/or supporting documentation</li>
-                            <li> Offer is valid for meetups conducted till March 31, 2019</li>
+                            <li> Offer is valid for meetups conducted till April 15, 2019</li>
                             <li> Only meetups that are related to XinFin Platform and Utilities will have a chance to qualify for a reward</li>
                             <li> XinFin logo and other material references available <a href="https://xinfin.org/download.php">here</a>.</li>
                             <li> XinFin reserves the right to reject any submission</li>
@@ -208,7 +208,7 @@ include('inc/header.php') ?>
                          </ul>
                          </div>
                          
-                         <p class="mt-2 mb-2 font-20 sub-header-small"><strong>Bounty Opportunities for XDCe / XDC Top Exchange Listing or Liquidity Arrangement or Adoption of XDC or XDCe by Merchant / Ecommerce – Open till 31st March, 2019</strong></p>
+                         <p class="mt-2 mb-2 font-20 sub-header-small"><strong>Bounty Opportunities for XDCe / XDC Top Exchange Listing or Liquidity Arrangement or Adoption of XDC or XDCe by Merchant / Ecommerce – Open till 15th April, 2019</strong></p>
                         <div class="table-responsive posTable mb-1">
                             <table class="table table-bordered">
                                 <tbody>
@@ -240,7 +240,7 @@ include('inc/header.php') ?>
                         <div class="orderList mb-3">
                         <ul>
                         	<li> Every contribution shall accompany integration/exchange link and/or supporting documentation. Partnerships with new exchanges or companies won't qualify</li>
-                            <li> Offer is valid for contributions made till March 31, 2019</li>
+                            <li> Offer is valid for contributions made till April 15, 2019</li>
                             <li> You can find exchange listing resource available <a href="https://xinfin.org/exchange-listing-resource.php" target="_blank">here</a>.</li>
                             <li> XinFin logo can be downloaded <a href="https://xinfin.org/download.php">here</a>.</li>
                             <li class="link-break-out"> Every partner and/or alliance must set up <a href="https://docs.xinfin.org/docs/raw/masternodes#hands-on-guide-how-to-setup-masternode" target="_blank">XinFin KYC Compliant Masternode</a></li>
