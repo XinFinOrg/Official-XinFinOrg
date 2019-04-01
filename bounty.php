@@ -72,7 +72,7 @@ include('inc/header.php') ?>
                         <ul>
 				<li> Every entry must be <strong>unique</strong> and useful. Avoid philosophy</li>
                         	<li> Each participant is allowed to submit up to 4 content pieces a month</li>
-                            <li> Offer is valid for entries submitted till March 31, 2019</li>
+                            <li> Offer is valid for entries submitted till April 15, 2019</li>
                             <li> Content piece must have at least 250 words</li>
                             <li> Website where content piece is published must have substantial traffic. Submissions for new websites or websites with little to no traffic won't be accepted</li>
                             <li> XinFin reserves the right to reject any submission</li>
@@ -154,7 +154,7 @@ include('inc/header.php') ?>
                         <div class="orderList mb-5">
                         <ul>
                         	<li> Every contribution shall accompany photos and/or supporting documentation. Partnerships with startups or new companies won't qualify for a reward</li>
-                        	<li> Offer is valid for contributions made till March 31, 2019</li>
+                        	<li> Offer is valid for contributions made till April 15, 2019</li>
                             <li class="link-break-out"> Every partner and/or alliance must set up <a href="https://docs.xinfin.org/docs/raw/masternodes#hands-on-guide-how-to-setup-masternode" target="_blank">XinFin KYC Compliant Masternode</a>.</li>
                             <li> Partners and alliances shall put up XinFin logo on their websites. The logo can be downloaded <a href="https://xinfin.org/download.php">here</a></li>
                             <li> Details of such partnerships or alliances must be shared on social media, Medium, and <a href="https://www.prlog.org/12751751-vietnam-based-sotatek-partners-with-xinfin-network.html" target="_blank">PRLog</a>.</li>
@@ -200,7 +200,7 @@ include('inc/header.php') ?>
                             <li> All the code base need to be open source for the community under <a href="https://github.com/XinFinOrg/Open-Hackathon" target="_blank">XinFin Github</a> Repo</li>
                             <li> University/Partner should share Join Press with XinFin and put XinFin Logo with their website with social media announcement</li>
                             <li> Bounty claim shall accompany photos and/or supporting documentation</li>
-                            <li> Offer is valid for Meetups/Hackathon conducted till March 31, 2019</li>
+                            <li> Offer is valid for Meetups/Hackathon conducted till April 15, 2019</li>
                             <li> Only Meetups/Hackathon that are related to XinFin Platform and Utilities will have a chance to qualify for a reward</li>
                             <li> XinFin logo and other material references available <a href="https://xinfin.org/download.php">here</a>.</li>
                             <li> XinFin reserves the right to reject any submission</li>
