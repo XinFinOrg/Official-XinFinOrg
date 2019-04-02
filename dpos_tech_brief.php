@@ -146,8 +146,8 @@ In the contract, there will be a <code>reportBenign</code> method (part of the V
                         <p class="text-left mb-1"><code>MIN_STAKE</code> : 10000000 XDC</p>
                         <p class="text-left mb-1"><code>VALIDATOR_REWARD</code> : 0.01370% Daily</p>
                         <p class="text-left mb-1"><code>REWARDS_TRANSFER</code> : Every next block of epoch</p>
-                        <p class="text-left mb-1"><code>VALIDATOR_SET_SIZE</code> : 21</p>
-                        <p class="text-left mb-1"><code>WITHDRAWAL_PERIOD</code> : Set of Epoch (1 Epoch == 500 Blocks)</p>
+                        <p class="text-left mb-1"><code>VALIDATOR_SET_SIZE</code> : 18</p>
+                        <p class="text-left mb-1"><code>WITHDRAWAL_PERIOD</code> : Set of Epoch (1 Epoch == 900 Blocks)</p>
                         <p><code>MAX_REGISTERED_VALIDATORS</code> : 5000</p>
                         
                         <p class="sub-header">Upgradability</p>
