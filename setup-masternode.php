@@ -127,7 +127,7 @@ include('inc/header.php') ?>
                                     <li>Private blockchain is capable of running its own use case.</li>
                                 </ul>
                                 <p class="mb-1"><strong>Important:</strong> Max number of Master node allowed in the network is 5000.</p>
-                                <p class="mb-1"><strong>Special incentives for 21st validator node:</strong> information required Depends on Nos of Block created by validator node (incentive In terms of XDC)</p>
+                                <p class="mb-1"><strong>Special incentives for 18th validator node:</strong> information required Depends on Nos of Block created by validator node (incentive In terms of XDC)</p>
                                 <p class="mb-1"><strong>Reward Cycle:</strong> Every 15 days.</p>
 
                                 <p class="sub-header mb-3">FAQ</p>
