@@ -103,9 +103,9 @@ include('inc/header.php') ?>
                                 <ul>
                                     <li><strong>Masternodes</strong> are full-nodes that create, verify and validate new blocks in XinFin's platform.</li>
                                     <li><strong>mXDC:</strong> Let's assume mXDC <strong>{mainNet-XDC}</strong> will be native crypto on XinFin dPOS network. mXDC will be rewarded to MN Owners.</li>
-                                    <li><strong>Epoch:</strong> We can use epoch instead of hard date to distribute incentive/rewards to masternode owners (1 epoch could be number of block, for example <strong>{1 Epoch =  888 Blocks}</strong></li>
+                                    <li><strong>Epoch:</strong> We can use epoch instead of hard date to distribute incentive/rewards to masternode owners (1 epoch could be number of block, for example <strong>{1 Epoch =  900 Blocks}</strong></li>
                                     <li><strong>Masternode Candidate:</strong> Any account can deposit X mXDC using the official on-chain governance d-app to complete KYC complaint to become a Masternode Candidate. <strong>X'nos</strong> mXDC deposit can earn staking rewards. A Candidate can resign, but the mXDC tokens will be locked for the next 30 days ( Let's assume we have new block in each 2 sec 1,296,000 blocks) after the resignation. </li>
-                                    <li><strong>Becoming a Masternode:</strong> A Candidate becomes a Masternode when he/she belongs to top 50 most voted Candidates in each epoch. A Masternode can resign, but the tokens will be locked for the next 30 days after the resignation.</li>
+                                    <li><strong>Becoming a Masternode:</strong> A Candidate becomes a Masternode when he/she belongs to most voted Candidates in each epoch. A Masternode can resign, but the tokens will be locked for the next 30 days after the resignation.</li>
                                     <li><strong>Reward:</strong> The reward a Masternode receives in each epoch is proportional to the number of signatures he/she signs.</li>
                                 </ul>
 
