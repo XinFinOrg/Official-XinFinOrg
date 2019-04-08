@@ -308,6 +308,10 @@ include('inc/header.php') ?>
     </div>
     <div class="row" style="margin-top:30px;">
       <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
+          <a href="https://www.prnewswire.com/news-releases/aix-an-ai-fintech-firm-is-launching-bondsai---the-worlds-first-artificial-intelligence-bond-broker-setting-their-sights-on-disrupting-a-15-trillion-market-300824068.html" target="_blank"><img src="assets/images/home/partners/aix-logo.png" alt="AiX" class="img-responsive logoc"></a>
+      </div>
+      
+      <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
           <a href="https://marketplace.r3.com/directory/xinfin-fintech-pte-ltd-a00119" target="_blank"><img src="assets/images/home/partners/r3Marketplace-logo.png" alt="R3 Marketplace" class="img-responsive logoc"></a>
       </div>
       
@@ -326,10 +330,10 @@ include('inc/header.php') ?>
       <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.9s">
           <a href="https://www.tp.edu.sg/about-tp/media-centre/press-releases/tp-infotech-day-2018" target="_blank"><img src="assets/images/home/partners/temasek-logo.png" alt="Temasek" class="img-responsive logoc"></a>
       </div>
-      <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1s">
+      <div class="col-md-offset-1 col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1s">
           <a href="https://www.prweb.com/releases/2018/01/prweb15141717.htm" target="_blank"><img src="assets/images/home/partners/enterprise-logo.png" alt="Enterprise" class="img-responsive logoc"></a>
       </div>
-      <div class="col-md-offset-2 col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.1s">
+      <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.1s">
           <a href="https://www.ramco.com/newsroom/press/releases/feb-18/ramco-partners-with-xinfin-to-provide-blockchain-solutions/" target="_blank"><img src="assets/images/home/partners/ramco-logo.png" alt="Ramco" class="img-responsive logoc"></a>
       </div>
       <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.2s">
