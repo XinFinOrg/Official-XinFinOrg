@@ -10,7 +10,7 @@ include('inc/header.php') ?>
       <div class="col-md-12 col-sm-12 col-xs-12 bannertext">
       	<h1>XinFin Community Bounty Program</h1>
         <p>Thank you for the overwhelming response.<p>
-        <p>We are extremely happy to announce that XinFin Community Program closes today. </p>
+        <p>We are extremely happy to announce that XinFin Community Bounty Program closes today.</p>
         <p>For any enquiries related to bounty program, please email us at <a href="mailto:info@xinfin.org" style="color:#FFFFFF;text-decoration:underline;">info@xinfin.org</a>.<br/><br/><br/><br/></p> 
       </div>
 
