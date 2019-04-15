@@ -294,7 +294,7 @@ include('inc/header.php') ?>
 
 
 
-<section id="about1" style="border-top: 1px solid #b1b1b1;">
+<section id="partners" style="border-top: 1px solid #b1b1b1;">
   <div class="container">
     <div class="row">
       <div class="col-md-offset-2 col-md-8 col-md-offset-2">
@@ -356,7 +356,7 @@ include('inc/header.php') ?>
 
 
 
-<section id="about2">
+<section id="featured-in">
   <div class="container">
     <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
       <h1>Featured In</h1>
@@ -479,7 +479,7 @@ include('inc/header.php') ?>
 
 
 
-<section id="about1" style="border-top: 1px solid #b1b1b1;">
+<section id="contact-home" style="border-top: 1px solid #b1b1b1;">
   <div class="container">
     <div class="row">
       <div class="col-md-offset-2 col-md-8 col-md-offset-2">

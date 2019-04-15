@@ -843,6 +843,18 @@ hr {
   color: #002752;
 }
 
+#contact-home p{
+  margin-bottom: 20px;
+  text-align: center;
+  color: #002752;
+}
+
+#partners p{
+  margin-bottom: 20px;
+  text-align: center;
+  color: #002752;
+}
+
 #masternodes p:not(:last-child){
   margin-bottom: 6%;
 }
@@ -1268,6 +1280,16 @@ line-height: 32px;}
     background: #ececec;
 }
 
+#contact-home {
+    padding: 5% 0 5%;
+    background: #ececec;
+}
+
+#partners {
+    padding: 5% 0 5%;
+    background: #ececec;
+}
+
   /* custom inclusion of right, left and below tabs */
 
  #banner1 .tab-content {    
@@ -1484,6 +1506,16 @@ button:focus {outline:0;}
   {
     text-decoration: none;
   }
+  
+  #contact-home a:hover
+  {
+    text-decoration: none;
+  }
+  
+  #partners a:hover
+  {
+    text-decoration: none;
+  }
 
 
 
@@ -1608,7 +1640,7 @@ margin: 0 auto; display: flex;
 
 
 #video-section{padding: 5% 0;display: block;position: relative;background: #e4e4e4;min-height:600px;border-top:1px solid #cdcdcd;}
-#video-section h1 {color: #00244e;font-size: 40px;font-family: latothin;}
+#video-section h1 {color: #00244e;font-size: 40px;font-family: latothin;text-transform: capitalize;}
 
     #banner2
 {
@@ -1817,11 +1849,45 @@ margin: 0 auto; display: flex;
     border-bottom: 1px solid #cdcdcd;
 }
 #about1 h1{
-  color:#00244e;
+    color:#00244e;
     font-size: 40px;
     font-family: latothin;
 }
 #about1 img
+{
+  padding:15px 0;
+  max-width: 100%;
+}
+
+#partners {
+    padding: 7% 0 ;
+    background: #fff;
+    border-bottom: 1px solid #cdcdcd;
+}
+#partners h1{
+    color:#00244e;
+    font-size: 40px;
+    font-family: latothin;
+	text-transform: capitalize;
+}
+#partners img
+{
+  padding:15px 0;
+  max-width: 100%;
+}
+
+#contact-home {
+    padding: 7% 0 ;
+    background: #fff;
+    border-bottom: 1px solid #cdcdcd;
+}
+#contact-home h1{
+    color:#00244e;
+    font-size: 40px;
+    font-family: latothin;
+	text-transform: capitalize;
+}
+#contact-home img
 {
   padding:15px 0;
   max-width: 100%;
@@ -1837,6 +1903,22 @@ margin: 0 auto; display: flex;
     font-family: latothin;
 }
 #about2 img
+{
+  padding:15px 0;
+  max-width: 100%;
+}
+
+#featured-in {
+    padding:7% 0;
+    background: #f6f6f6;
+}
+#featured-in h1{
+    color:#00244e;
+    font-size:40px;
+    font-family: latothin;
+	text-transform: capitalize;
+}
+#featured-in img
 {
   padding:15px 0;
   max-width: 100%;
