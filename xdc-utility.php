@@ -205,7 +205,20 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">            
             <div class="image-container mb-2">
-            	<img class="img-responsive" src="assets/images/utility/your-application-logo.jpg" alt="tradefinex.org">
+            	<img class="img-responsive" src="assets/images/utility/setup-loyalty-dapp-logo.jpg" alt="Setup Loyalty dApp">
+            </div>
+            <p class="mb-2">Do you have Need to set up a blockchain loyalty dApp but find the whole thing confusing? You're not alone. We created this guide to setting up a loyalty token on our blockchain loyalty platform to make life that little bit easier for our community.</p>
+            <p class="mb-2">Setting up a Blockchain Loyalty App – A Step-By-Step Guide.</p>
+            <div class="btn-block mb-1">
+            	<a href="https://github.com/XinFinOrg/Loyalty-Token" target="_blank"><button class="btn-blue">Setup Loyalty dApp</button></a>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">            
+            <div class="image-container mb-2">
+            	<img class="img-responsive" src="assets/images/utility/your-application-logo.jpg" alt="List your Application">
             </div>
             <p class="mb-2">Do you have an application built around the XDC Network that you want to see listed on our webpage?</p>
             <p class="mb-2">It's quick and simple.</p>
