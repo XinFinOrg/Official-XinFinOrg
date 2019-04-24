@@ -139,7 +139,6 @@ include('inc/header.php') ?>
             <div class="btn-block mb-1">
             	<a href="https://github.com/XinFinOrg/TurantPay" target="_blank"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
             </div>
-            <!--<p>TurantPay is a remittance solution powered by XinFin's XDC Protocol & Blockchain Technology. TurantPay uses XinFin's XDC protocol, which is an improved version of the SWIFT protocol used today amongst banks globally to execute bank transfers. TurantPay processes payments between financial institutions and payment service providers.</p>-->
             <p>TurantPay facilitates standardised remittance over XDC Protocol that provides counterparty risk mitigation, instant payments using existing payment channels such as SWIFT.</p>
             <div class="btn-block mb-1">
             	<a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><button class="btn-outline-default"><i class="fa fa-youtube"></i> Watch Video</button></a>
