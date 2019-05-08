@@ -265,7 +265,7 @@ In the contract, there will be a <span class="text-bg-grey">reportBenign</span> 
                         <ul>
                         	<li> Every contribution shall accompany integration/exchange link and/or supporting documentation. Partnerships with new exchanges or companies won't qualify</li>
                             <li> You can find exchange listing resource available <a href="https://xinfin.org/exchange-listing-resource.php" target="_blank">here</a>.</li>
-                            <li> XinFin logo can be downloaded <a href="https://xinfin.org/download.php">here</a>.</li>
+                            <li> XinFin logo can be downloaded <a href="https://xinfin.org/download.php" target="_blank">here</a>.</li>
                             <li class="link-break-out"> Every partner and/or alliance must set up <a href="https://docs.xinfin.org/docs/raw/masternodes#hands-on-guide-how-to-setup-masternode" target="_blank">XinFin KYC Compliant Masternode</a></li>
                             <li class="link-break-out"> Don't forget to update <a href="https://github.com/XinFinOrg/Docs/blob/master/ExchangeList.md" target="_blank">GitHub XDC Pair Listing</a> page after listing</li>
                             <li> Details of such partnerships or alliances must be shared on social media.</li>
