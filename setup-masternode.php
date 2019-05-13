@@ -37,7 +37,7 @@ include('inc/header.php') ?>
                                         <div class="configurationsBox text-center">
                                             <img src="assets/images/masternode/windows-icon.png" class="img-responsive icon-single" />
                                             <h1>Windows (64-bit)</h1>
-                                            <a href="http://download.xinfin.network/XinFin-Network-installer-0-12-0.rar"><button class="btn-outline mb-1">Download</button></a>
+                                            <a href="http://download.xinfin.network/XinFin-Network-installer-0-12-0.exe"><button class="btn-outline mb-1">Download</button></a>
                                         </div>
                                     </div>
 
@@ -45,7 +45,7 @@ include('inc/header.php') ?>
                                         <div class="configurationsBox text-center">
                                             <img src="assets/images/masternode/linux-icon.png" class="img-responsive icon-single" />
                                             <h1>Linux</h1>
-                                            <a href="http://download.xinfin.network/XinFin-Network-installer-0-12-0.rar"><button class="btn-outline mb-1">Download</button></a>
+                                            <a href="http://download.xinfin.network/XinFin-Network-linux64-0-12-0.deb"><button class="btn-outline mb-1">Download</button></a>
                                         </div>
                                     </div>
 
