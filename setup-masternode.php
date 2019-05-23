@@ -107,7 +107,7 @@ include('inc/header.php') ?>
                                         <div class="configurationsBox">
                                             <img src="assets/images/masternode/ssd-icon.png" class="img-responsive icon-single" />
                                             <h1>Disk</h1>
-                                            <p>Minimum 200GB SSD recommended (500+ IOPS, more is better) for the database partition</p>
+                                            <p>Minimum 300GB SSD recommended (500+ IOPS, more is better) for the database partition</p>
                                         </div>
                                     </div>
 
@@ -115,7 +115,7 @@ include('inc/header.php') ?>
                                         <div class="configurationsBox">
                                             <img src="assets/images/masternode/ram-icon.png" class="img-responsive icon-single" />
                                             <h1>RAM</h1>
-                                            <p>16+ GB</p>
+                                            <p>32 GB</p>
                                         </div>
                                     </div>
                                 </div>
