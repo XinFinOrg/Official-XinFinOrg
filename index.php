@@ -33,7 +33,7 @@ include('inc/header.php') ?>
               
               <div class="btn-block mt-4 mb-1 playTriggerBlock wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
               		<a id="playTrigger" href="#" data-toggle="modal" data-target="#myModal"><button class="btn-fill-default">How XinFin Network Works <i class="fa fa-play" aria-hidden="true"></i></button></a>
-                    <a href="http://xinfin.network" target="_blank"><button class="btn-outline-default">Join the TestNet</button></a>
+                    <a href="https://xinfin.network" target="_blank"><button class="btn-outline-default">Join the Network</button></a>
               </div>
                         
             </div>
