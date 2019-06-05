@@ -130,7 +130,7 @@ include('inc/header.php') ?>
                                 <p>It is necessary to set up a masternode to operate on XDC protocol because masternodes make the decentralised blockchain network self-sustainable. Deploying masternode is conducive to trusted, scalable decentralised network infrastructure. Such an environment facilitates greater stability and reliability on the network.</p>
 
                                 <p class="sub-header mb-3">Functions of masternode</p>
-                                <p>In DPoS blockchain environment, masternode concept is cardinal to the functioning. A masternode validates each (or segment of transaction depending upon UNL) transaction and is also responsible for writing the transaction onto the truth ledger: the blockchain. As a consequence, this makes decentralised governance of the network possible.</p>
+                                <p>In XDPoS blockchain environment, masternode concept is cardinal to the functioning. A masternode validates each (or segment of transaction depending upon UNL) transaction and is also responsible for writing the transaction onto the truth ledger: the blockchain. As a consequence, this makes decentralised governance of the network possible.</p>
 
                                 <p class="sub-header mb-3">Restrictions on nodes which aspire to become masternodes</p>
                                 <p class="mb-1">Nodes which possess any of the below mentioned characteristics may not qualify to become masternodes:</p>
@@ -150,7 +150,7 @@ include('inc/header.php') ?>
                                     <li>Private blockchain is capable of running its own use case.</li>
                                 </ul>
                                 <p class="mb-1"><strong>Important:</strong> Max number of Master node allowed in the network is 5000.</p>
-                                <p class="mb-1"><strong>Special incentives for 18th validator node:</strong> information required Depends on Nos of Block created by validator node (incentive In terms of XDC)</p>
+                                <p class="mb-1"><strong>Special incentives for 18th validator node:</strong> Information required Depends on No's of Block created by validator node (incentive In terms of XDC)</p>
                                 <p class="mb-1"><strong>Reward Cycle:</strong> Every Epoch.</p>
 
                                 <p class="sub-header mb-3">FAQ</p>
@@ -159,7 +159,7 @@ include('inc/header.php') ?>
                                 <p class="mb-1"><strong>What is Validator node?</strong></p>
                                 <p>In XinFin, "Validator Node" are full nodes that incentivize node operators to perform the core consensus functions of running a XDPoS based blockchain. Only Validator Node gets incentive to validate the transaction.</p>
                                 <p class="mb-1"><strong>How to become a Validator Node?</strong></p>
-                                <p>Under XinFin DPoS, Highest XDC Stakeholder of 18 Node Act as Validator node rest node act as Backup node and Private node.</p>
+                                <p>To become a Validator Node, refer this article: <a href=": https://medium.com/xinfin/steps-to-setup-masternode-on-xinfin-mainnet-bf66dda3ea1c " target="_blank">https://medium.com/xinfin/steps-to-setup-masternode-on-xinfin-mainnet-bf66dda3ea1c </a></p>
                                 <p class="mb-1"><strong>Near zero transaction fees on network, how validator gets incentive?</strong></p>
                                 <p>Network generate additional coin to provide incentive to validator node. Nos depends on network load and numbers of transaction process within the network.</p>
                                 <p class="mb-1"><strong>How to get XDC ?</strong></p>
@@ -176,7 +176,8 @@ include('inc/header.php') ?>
 
                                 <p class="sub-header mb-3">METHOD 1: DIY Masternode environment set up</p>
                                 
-                                <h2 class="mt-2 mb-2">CentOS or RedHat Enterprise Linux (latest release) or Ubuntu (15.04+) supported</h2>                                <p class="mb-1"><strong>Clone repository</strong></p>
+                                <h2 class="mt-2 mb-2">CentOS or RedHat Enterprise Linux (latest release) or Ubuntu (15.04+) supported</h2>                                
+                                <p class="mb-1"><strong>Clone repository</strong></p>
                                 <pre><code>git clone https://github.com/XinFinOrg/XinFin-Node.git</code></pre>
                                 <p>Enter <code>XinFin-Node</code> directory</p>
                                 <pre><code>cd XinFin-Node</code></pre>
