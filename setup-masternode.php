@@ -160,7 +160,7 @@ include('inc/header.php') ?>
                                 <p>In XinFin, "Validator Node" are full nodes that incentivize node operators to perform the core consensus functions of running a XDPoS based blockchain. Only Validator Node gets incentive to validate the transaction.</p>
                                 <p class="mb-1"><strong>How to become a Validator Node?</strong></p>
                                 <p>Under XinFin DPoS, Highest XDC Stakeholder of 18 Node Act as Validator node rest node act as Backup node and Private node.</p>
-                                <p class="mb-1"><strong>If there is no transaction fees on network then how validator gets incentive?</strong></p>
+                                <p class="mb-1"><strong>Near zero transaction fees on network, how validator gets incentive?</strong></p>
                                 <p>Network generate additional coin to provide incentive to validator node. Nos depends on network load and numbers of transaction process within the network.</p>
                                 <p class="mb-1"><strong>How to get XDC ?</strong></p>
                                 <p>XDC is listed with more then 20 Liquidity Exchanges. The full list of exchanges is available at <a href="https://xinfin.io" target="_blank">xinfin.io</a> so that you can purchase XDC from open market to stake under masternode.</p>
