@@ -213,7 +213,7 @@ include('inc/header.php') ?>
                 </div>
               </div>     
               
-              <div class="item">
+              <!--<div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
                   <img src="assets/images/team/core-team/chris-neill.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
@@ -228,7 +228,7 @@ include('inc/header.php') ?>
                     </div>
                   </div>
                 </div>
-              </div>   
+              </div>-->
               
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
