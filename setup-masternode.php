@@ -159,7 +159,7 @@ include('inc/header.php') ?>
                                 <p class="mb-1"><strong>What is Validator node?</strong></p>
                                 <p>In XinFin, "Validator Node" are full nodes that incentivize node operators to perform the core consensus functions of running a XDPoS based blockchain. Only Validator Node gets incentive to validate the transaction.</p>
                                 <p class="mb-1"><strong>How to become a Validator Node?</strong></p>
-                                <p>To become a Validator Node, refer this article: <a href=": https://medium.com/xinfin/steps-to-setup-masternode-on-xinfin-mainnet-bf66dda3ea1c " target="_blank">https://medium.com/xinfin/steps-to-setup-masternode-on-xinfin-mainnet-bf66dda3ea1c </a></p>
+                                <p>To become a Validator Node, refer this article : <a href="https://medium.com/xinfin/steps-to-setup-masternode-on-xinfin-mainnet-bf66dda3ea1c" target="_blank">https://medium.com/xinfin/steps-to-setup-masternode-on-xinfin-mainnet-bf66dda3ea1c </a></p>
                                 <p class="mb-1"><strong>Near zero transaction fees on network, how validator gets incentive?</strong></p>
                                 <p>Network generate additional coin to provide incentive to validator node. Nos depends on network load and numbers of transaction process within the network.</p>
                                 <p class="mb-1"><strong>How to get XDC ?</strong></p>
