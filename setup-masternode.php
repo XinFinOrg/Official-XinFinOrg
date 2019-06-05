@@ -122,7 +122,7 @@ include('inc/header.php') ?>
 
                                 <p class="header mb-3">About XinFin Masternode</p>
                                 <p>XinFin's token XDC supplants proof-of-work consensus algorithm (popularly linked with mining) with proof-of-stake consensus algorithm, fundamentally using the concept of "validators".</p>
-                                <p>Validators are special nodes used in the DPoS consensus algorithm which validate each transaction occurring on the blockchain network. The result of this validation is to finally append the transaction on the blockchain. A transaction may be accepted by the validator or rejected. (<strong>Important:</strong> There can be multiple validator nodes in each network.) </p>
+                                <p>Validators are special nodes used in the XDPoS consensus algorithm which validate each transaction occurring on the blockchain network. The result of this validation is to finally append the transaction on the blockchain. A transaction may be accepted by the validator or rejected. (<strong>Important:</strong> There can be multiple validator nodes in each network.) </p>
                                 <p>Decisions made by these validator nodes are broadcasted through the network as messages which are signed (attested) using validated cryptographic public key. Every validator node running XDC protocol in the RCL network is responsible for deciding its Unique Node List (UNL). This list holds information about which regular nodes does the validator care about.</p>
                                 <p><strong>To set up a masternode, make sure your XDC protocol running node is publicly identified and has gone through the compliance process. Every Node Holder need to upload KYC document and this detail will be visible to the public network.</strong></p>
 
@@ -131,16 +131,6 @@ include('inc/header.php') ?>
 
                                 <p class="sub-header mb-3">Functions of masternode</p>
                                 <p>In DPoS blockchain environment, masternode concept is cardinal to the functioning. A masternode validates each (or segment of transaction depending upon UNL) transaction and is also responsible for writing the transaction onto the truth ledger: the blockchain. As a consequence, this makes decentralised governance of the network possible.</p>
-
-                                <p class="sub-header mb-3">Master node</p>
-                                <ul>
-                                    <li><strong>Masternodes</strong> are full-nodes that create, verify and validate new blocks in XinFin's platform.</li>
-                                    <li><strong>mXDC:</strong> Let's assume mXDC <strong>{mainNet-XDC}</strong> will be native crypto on XinFin dPOS network. mXDC will be rewarded to MN Owners.</li>
-                                    <li><strong>Epoch:</strong> We can use epoch instead of hard date to distribute incentive/rewards to masternode owners (1 epoch could be number of block, for example <strong>{1 Epoch =  900 Blocks}</strong></li>
-                                    <li><strong>Masternode Candidate:</strong> Any account can deposit X mXDC using the official on-chain governance d-app to complete KYC complaint to become a Masternode Candidate. <strong>X'nos</strong> mXDC deposit can earn staking rewards. A Candidate can resign, but the mXDC tokens will be locked for the next 30 days ( Let's assume we have new block in each 2 sec 1,296,000 blocks) after the resignation. </li>
-                                    <li><strong>Becoming a Masternode:</strong> A Candidate becomes a Masternode when he/she belongs to most voted Candidates in each epoch. A Masternode can resign, but the tokens will be locked for the next 30 days after the resignation.</li>
-                                    <li><strong>Reward:</strong> The reward a Masternode receives in each epoch is proportional to the number of signatures he/she signs.</li>
-                                </ul>
 
                                 <p class="sub-header mb-3">Restrictions on nodes which aspire to become masternodes</p>
                                 <p class="mb-1">Nodes which possess any of the below mentioned characteristics may not qualify to become masternodes:</p>
@@ -161,15 +151,15 @@ include('inc/header.php') ?>
                                 </ul>
                                 <p class="mb-1"><strong>Important:</strong> Max number of Master node allowed in the network is 5000.</p>
                                 <p class="mb-1"><strong>Special incentives for 18th validator node:</strong> information required Depends on Nos of Block created by validator node (incentive In terms of XDC)</p>
-                                <p class="mb-1"><strong>Reward Cycle:</strong> Every 15 days.</p>
+                                <p class="mb-1"><strong>Reward Cycle:</strong> Every Epoch.</p>
 
                                 <p class="sub-header mb-3">FAQ</p>
-                                <p class="mb-1"><strong>1. a. What is Masternode Node?</strong></p>
+                                <p class="mb-1"><strong>What is Masternode Node?</strong></p>
                                 <p>Masternode is simply a cryptocurrency full node or computer wallet that keeps the full copy of the blockchain record in real-time.</p>
-                                <p class="mb-1"><strong>1 b. What is Validator node?</strong></p>
-                                <p>In XinFin, "Validator Node" are full nodes that incentivize node operators to perform the core consensus functions of running a DPoS based blockchain. Only Validator Node gets incentive to validate the transaction.</p>
+                                <p class="mb-1"><strong>What is Validator node?</strong></p>
+                                <p>In XinFin, "Validator Node" are full nodes that incentivize node operators to perform the core consensus functions of running a XDPoS based blockchain. Only Validator Node gets incentive to validate the transaction.</p>
                                 <p class="mb-1"><strong>How to become a Validator Node?</strong></p>
-                                <p>Under XinFin DPoS, Highest XDC Stakeholder 21 Node Act as Validator node rest node act as Backup node and Private node.</p>
+                                <p>Under XinFin DPoS, Highest XDC Stakeholder of 18 Node Act as Validator node rest node act as Backup node and Private node.</p>
                                 <p class="mb-1"><strong>If there is no transaction fees on network then how validator gets incentive?</strong></p>
                                 <p>Network generate additional coin to provide incentive to validator node. Nos depends on network load and numbers of transaction process within the network.</p>
                                 <p class="mb-1"><strong>How to get XDC ?</strong></p>
@@ -215,23 +205,6 @@ include('inc/header.php') ?>
 sudo ./upgrade.sh
 sudo docker-compose -f docker-services.yml up -d
 </code></pre>
-
-                                <h2 class="mt-3 mb-2">Windows/macOS Setup support using Vagrant</h2>
-                                <p>You need to download install below mention 3 Software:</p>
-                                <div class="orderList mb-2">
-                                    <ol>
-                                        <li> Install Oracle <a href="https://www.virtualbox.org/wiki/Downloads" target="_blank">VirtualBox</a></li>
-                                        <li> Install <a href="https://www.vagrantup.com/downloads.html" target="_blank">Vagrant</a></li>
-                                        <li> Install <a href="https://gitforwindows.org/" target="_blank">GIT</a> After installation of above 3 Software (this may also need restart of your machine.)</li>
-                                        <li> Launch "command prompt" & follow the commands below</li>
-                                        <pre> git clone https://github.com/XinFinOrg/XinFin-Node.git
- <span class="pl-c1">cd</span> XinFin-Node
- vagrant up
- vagrant ssh</pre>
-                                        <li> XinFin-Node is automatically copied to /home/vagrant/ follow Step 1, 2 & 3 as explained before in this document to complete the node setup.</li>
-                                        <li> To shutdown the vagrant instance, run vagrant suspend. To delete it, run vagrant destroy.</li>
-                                    </ol>
-                                </div>
                                 
                                 <p class="mb-1"><strong>Troubleshooting</strong></p>
                                 <p>If you are having problems with Setup, the first step is to collect more information to accurately characterize the problem. From there, it can be easier to figure out a root cause and a fix.</p>
