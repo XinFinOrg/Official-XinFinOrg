@@ -29,7 +29,7 @@ include('inc/header.php') ?>
                     <div id="network" class="tab-pane fade in active">
                         <div class="row" style="margin-top:0%;padding-bottom:0px;">
                             <div class="col-md-12 col-sm-12 col-xs-12">
-                                <p class="header small mb-3">Download XinFin One Click Installer (to setup Masternode) for Windows, Linux and macOS</p>
+                                <p class="header small mb-3">Download XinFin One Click Installer (to setup Masternode) for Windows and Linux</p>
                                 <div class="flex-row">
                                     <div class="col-md-4 col-sm-4 col-xs-12 mb-2">
                                         <div class="configurationsBox text-center">
@@ -51,7 +51,8 @@ include('inc/header.php') ?>
                                         <div class="configurationsBox text-center">
                                             <img src="assets/images/masternode/mac-icon.png" class="img-responsive icon-single" />
                                             <h1>MacOS</h1>
-                                            <a href="http://download.xinfin.network/XinFin-Network-installer-0-12-0.rar"><button class="btn-outline mb-1">Download</button></a>
+                                            <p>Coming Soon!</p>
+                                            <!--<a href="http://download.xinfin.network/XinFin-Network-installer-0-12-0.rar"><button class="btn-outline mb-1">Download</button></a>-->
                                         </div>
                                     </div>
                                 </div>
@@ -91,7 +92,7 @@ include('inc/header.php') ?>
                                         <div class="configurationsBox">
                                             <img src="assets/images/masternode/development-icon.png" class="img-responsive" />
                                             <h1>Development</h1>
-                                            <p>Mac OS X, Windows (64-bit), or most Linux distributions</p>
+                                            <p>Windows (64-bit) or most Linux distributions</p>
                                         </div>
                                     </div>
 
