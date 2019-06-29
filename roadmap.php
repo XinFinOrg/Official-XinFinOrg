@@ -331,10 +331,11 @@ include('inc/header.php') ?>
 
         </div>
     </section>
+    
 
     <!-- TIMELINE CSS & JS -->
-    <link rel="stylesheet" href="./assets/timeline/timeline-style.css">
-    <script src="https://code.jquery.com/jquery-1.8.3.js"></script>
+    <link rel="stylesheet" href="./assets/timeline/timeline.css">
+    <script src="./assets/timeline/jquery-1.8.3.js"></script>
     <script type="text/javascript">
         $(document).ready(function() {
             if ($.browser.msie && parseFloat($.browser.version) < 8) { // Check to see if less than IE8 and exit if it is
