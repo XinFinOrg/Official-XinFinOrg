@@ -11,7 +11,7 @@
                 <a href="xinfin-consensus.php">Public DPoS Consensus</a><br/>
 				<a href="resources.php">Resource Guide</a><br/>
                 <a href="http://xinfin.network/" target="_blank">XinFin Network Status</a><br/>
-                <a href="https://docs.xinfin.org/">Developer Portal</a><br/>
+                <a href="https://howto.xinfin.org/">Developer Portal</a><br/>
                 <a href="https://github.com/XinFinOrg/Open-Hackathon" target="_blank">Online Hackathon</a>
                 </p>
 			</div>
@@ -35,7 +35,7 @@
                 <p>
                 <a href="download.php">Download Logo</a><br/>                
                 <a href="compliance.php">Compliance</a><br/>
-		<a href="https://howto.xinfin.org/media/articles/" target="_blank">Media</a><br/>
+				<a href="https://howto.xinfin.org/media/articles/" target="_blank">Media</a><br/>
                 <a href="privacy.php">Privacy Policy</a><br/>
 				<a href="disclaimer.php">Disclaimer</a><br/>
 				<a href="contactus.php">Press Inquiry</a><br/>	

@@ -91,7 +91,7 @@ include('inc/header.php') ?>
       
       <p class="header mb-2">Developer Portal</p>
       <p>Get acclamated with of the fundamentals of XDC, API reference, install and run your own programs on XinFin's Hybrid Blockchain. You can also view FAQ's. The Developer Portal is a one stop shop for all developer related guides and references. We invite developers to join our dev community.</p>
-      <a href="https://docs.xinfin.org/"><button class="btn-outline mb-1">Developer Portal</button></a>
+      <a href="https://howto.xinfin.org/"><button class="btn-outline mb-1">Developer Portal</button></a>
       
       <p class="header mb-2">Exchange Listing Resource</p>
       <p>This section provides you with details required to list the XDCE token on exchanges.</p>
