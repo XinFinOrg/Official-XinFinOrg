@@ -26,7 +26,74 @@ include('inc/header.php') ?>
             <div class="tab-content">
 
                 <div id="roadmap" class="tab-pane fade in active">
-                    <h2 class="text-center">The journey so far, milestones completed and the roadmap for the year 2019.<br /><br /><br /></h2>
+                    
+                    <div class="roadmap-details">
+                    <p class="sub-header">After XinFin Network Mainnet launch (1st June, 2019), the core focus is on the following points:</p>
+                    <p class="title">1. XDC Staking</p>
+                    <ul>
+						<li>Masternodes proliferation (10M XDC Staking)</li>
+						<li>Invitation to Governance membership. (100M XDC staking)</li>
+					</ul>
+                    
+                    <p class="title">2. XDC Burning Plan (By way Use case / network utility apps)</p>
+                    <ul>
+                    	<li>TradeFinex - Tokenization fees for financial instruments. (20% of profit)</li>
+                        <li>Blockdegree.org - Digital Certificates on Blockchain</li>
+                        <li>Commercial products like X-Wallet, X-Sidechain, X-Stable Coin, X-Loyalty
+                        <li>Decentralised Oracle Layer for
+                        	<ol>
+                            	<li>Finastra Cloud</li>
+                        		<li>Oracle Cloud, Oracle Open banking</li>
+                        		<li>Amazon AWS, Microsoft Azure</li>
+                        	</ol>
+                        </li>
+                    </ul>
+                    
+                    <p class="title">3. Liquidity and wider exchanges reach</p>
+                    <ul>
+						<li>Listing Across regulated exchanges</li>
+						<li>Loading Liquidity on XDC for
+                        	<ol>
+                            	<li>Bonds, Supply Chain and Trade Finance Instruments</li>
+                                <li>Assets (Smart Contracts) deployed on XinFin Network</li>
+                            </ol>
+                        </li>
+					</ul>
+                    
+                    <p class="title">4. Regulated Custodian Integrations</p>
+                    
+                    <p class="title">5. TradeFinex Round table</p>
+                    <ul>
+						<li>Regional Roundtable for Masternode, governance council and use case presentation</li>
+					</ul>
+                    
+                    <p class="title">6. Onboarding projects to XinFin Network (via Tradefinex)</p>
+                    <ul>
+						<li>Enterprise and Government Focused
+                            <ol>
+                                <li>Municipal Bonds, Smart city bonds, AAA rated buyers backed receivables</li>
+                            </ol>
+                        </li>
+					</ul>
+                    
+                    <p class="title">7. XDC whitelisting with regulators</p>
+                    <ul>
+						<li>Already Whitelisted with ADGM</li>
+                        <li>Next Propose List
+                            <ol>
+                                <li>FCA UK</li>
+                                <li>FSA Japan</li>
+                                <li>FINRA USA</li>
+                                <li>FINCEN USA</li>
+                                <li>All members of GFIN Regulators</li>
+                            </ol>
+                        </li>
+					</ul>
+                    
+                    <br /><br />
+                    <h2 class="text-center">The journey so far, milestones completed and the roadmap for the year 2019.</h2>                    
+                    </div>
+                    
 
                     <div class="frst-container">
                         <!-- frst-left-align/frst-right-align/frst-alternate/frst-date-opposite/frst-responsive-right-->

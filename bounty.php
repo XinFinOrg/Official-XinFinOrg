@@ -51,4 +51,13 @@ include('inc/header.php') ?>
 
 
 
+<<<<<<< HEAD
 <?php include('inc/footer.php') ?>
+=======
+	<script>
+        var activeUrl = localStorage.getItem("currentUrl");
+        $('.nav.navbar-nav li:nth-child(5)').addClass('active');
+    </script>
+
+    <?php include('inc/footer.php') ?>
+>>>>>>> 5d53acd43c3dbcd2c5ed4fe2f06aa9c70e906ea4
