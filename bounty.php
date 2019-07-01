@@ -291,3 +291,9 @@ In the contract, there will be a <span class="text-bg-grey">reportBenign</span> 
 
 
 
+	<script>
+        var activeUrl = localStorage.getItem("currentUrl");
+        $('.nav.navbar-nav li:nth-child(5)').addClass('active');
+    </script>
+
+    <?php include('inc/footer.php') ?>
