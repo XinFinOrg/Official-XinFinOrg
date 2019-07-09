@@ -10,6 +10,7 @@
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <meta name="description" content="<?= $desc?>">
   <meta name="author" content="">
+  <meta name="google-site-verification" content="Cyc2Me8vkC1-nEbDuDD4XGU1nBAPkIOkCDGSjWp8Zus" />
   <link rel="icon" href="assets/images/favicon.ico">
   <title>
     <?= $title; ?>
