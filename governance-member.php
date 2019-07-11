@@ -50,6 +50,9 @@ include('inc/header.php') ?>
                                 <li>The rewards will reduce after every year</li>
                                 <li>Participate in future Roadmap</li>
                             </ul>
+                            <a href="contactus.php">
+                                <button class="btn-blue">Become a Member</button>
+                            </a>
                         </div>
                     </div>
                 </div>
