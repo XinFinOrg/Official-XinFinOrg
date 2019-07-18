@@ -302,7 +302,7 @@ include('inc/header.php') ?>
           <h1>Partnerships, Associations & Alliances</h1>
         </div>
         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
-          <p>Be a part of growing XinFin's rapidly growing Network.</p>
+          <p>Be a part of XinFin's rapidly growing Network.</p>
         </div>
       </div>
     </div>
@@ -416,6 +416,9 @@ include('inc/header.php') ?>
         </div>
         <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="2.2s">
           <a href="https://www.prnewswire.com/news-releases/xinfin-kick-starts-blockchain-engineering-and-business-development-lab-at-university-of-california-berkeley-usa-685819171.html" target="_blank"><img src="assets/images/home/media/prncision-logo.png" alt="PR Newswire" class="img-responsive margin-auto-lr"></a>
+        </div>
+        <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="2.2s">
+          <a href="https://www.cardrates.com/news/xinfin-blockchain-delivers-international-transactions/" target="_blank"><img src="assets/images/home/media/cardrates-logo.png" alt="Cardrates" class="img-responsive margin-auto-lr"></a>
         </div>
       </div>
     </div>
