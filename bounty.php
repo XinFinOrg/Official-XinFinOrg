@@ -35,7 +35,7 @@ include('inc/header.php') ?>
 
                                 <p class="sub-header">Name the e-Wallet Bounty</p>
                                 <p>Community members can suggest a name for the new e-Wallet and the name selected will be rewarded with 50 USD worth XDC.</p>
-                                <p class="link-break-out">Fill the <a href="https://docs.google.com/forms/d/1SklUqUFpncyj2GqYT48qR6sgC3jYMkvuCBy_UVDLovw/prefill" target="_blank">google form</a> to claim your bounty.</p>
+                                <p class="link-break-out">Fill the <a href="https://docs.google.com/forms/d/1IaXpCuZE6g4emYxdXLsD5eyBb_8USFrwBtOAXoplBSY" target="_blank">google form</a> to claim your bounty.</p>
 
                                 <p class="sub-header">BUG Bounty</p>
                                 <p>XinFin is happy to release the <strong>XinFin Extension Wallet : eWallet</strong></p>
@@ -101,13 +101,13 @@ include('inc/header.php') ?>
                                     </div>
                                 </div>
 
-                                <p>Fill the <a href="https://docs.google.com/forms/d/1XNrF7Kg7JgmYD3qDN3hZ6B895zeT8ZD2CAg8F9L0h_A/prefill" target="_blank">google form</a> to claim your bounty.</p>
+                                <p>Fill the <a href="https://docs.google.com/forms/d/1SklUqUFpncyj2GqYT48qR6sgC3jYMkvuCBy_UVDLovw" target="_blank">google form</a> to claim your bounty.</p>
                                 <p>Above bounties ends on <strong>15 August 2019</strong>.</p>
                                 
                                 <p class="sub-header">Masternode Bounty Program</p>
                                 <p>Every Masternode will be offered incentives as well as a special bonus bounty up to 900 USD worth XDC, for hosting Masternode up to 31st August 2019.</p>
                                 <p><strong>Conditions:</strong> Node must be up from the mainnet launch, 1 June 2019 till 31 August 2019.</p>
-                                <p>Fill the <a href="https://docs.google.com/forms/d/1iyzCYnGLPG4R0WrPm3T30_4cAMM3Qfj7RxT6FUNFVos/prefill" target="_blank">google form</a> to claim your bounty.</p>
+                                <p>Fill the <a href="https://docs.google.com/forms/d/1iyzCYnGLPG4R0WrPm3T30_4cAMM3Qfj7RxT6FUNFVos" target="_blank">google form</a> to claim your bounty.</p>
                                 
                                 
                                 <p class="sub-header">Masternode Luck User Bounty</p>
