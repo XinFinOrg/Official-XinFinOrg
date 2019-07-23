@@ -34,7 +34,7 @@ include('inc/header.php') ?>
                                 <p class="link-break-out"><strong>Product link:</strong> <a href="https://chrome.google.com/webstore/detail/xinfin-ewallet/bocpokimicclpaiekenaeelehdjllofo" target="_blank">https://chrome.google.com/webstore/detail/xinfin-ewallet/bocpokimicclpaiekenaeelehdjllofo</a></p>
 
                                 <p class="sub-header">Name the e-Wallet Bounty</p>
-                                <p>Community members can suggest a name for the new e-Wallet and the name selected will be rewarded with 200 USD worth XDC.</p>
+                                <p>Community members can suggest a name for the new e-Wallet and the name selected will be rewarded with 50 USD worth XDC.</p>
                                 <p class="link-break-out">Fill the <a href="https://docs.google.com/forms/d/1SklUqUFpncyj2GqYT48qR6sgC3jYMkvuCBy_UVDLovw/prefill" target="_blank">google form</a> to claim your bounty.</p>
 
                                 <p class="sub-header">BUG Bounty</p>
