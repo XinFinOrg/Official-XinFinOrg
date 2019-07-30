@@ -248,7 +248,7 @@ sudo docker-compose -f docker-services.yml up -d
 
                                 <p class="mb-1"><strong>Masternode Tools</strong></p>
                                 <p class="link-break-out">Community Forum update link: <a href="http://xinfin.net/" target="_blank">http://xinfin.net</a></p>
-                                <p class="link-break-out">Telegram Development Community: <a href="https://t.me/XinFinDevelopers" target="_blank">https://t.me/XinFinDevelopers</a></p>
+                                <p class="link-break-out">Telegram Development Community: <a href="https://t.me/joinchat/GeOl40UaNJPlFLNwSvu9cQ" target="_blank">https://t.me/XinFinDevelopers</a></p>
                                 <p class="link-break-out">Slack Public Channel: <a href="https://xinfin-public.slack.com/messages/CELR2M831/" target="_blank">https://xinfin-public.slack.com/messages/CELR2M831/</a></p>
 
                                 <p class="header mb-3">Where to operate? Mainnet vs Testnet:</p>
