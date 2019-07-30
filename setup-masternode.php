@@ -62,10 +62,10 @@ include('inc/header.php') ?>
                         
                         
                         <div class="row mt-5" style="margin-top:0%;padding-bottom:0px;">
-                            <div class="col-md-12 col-sm-12 col-xs-12">
+                            <div class="col-md-6 col-xs-12">
                                 <p class="sub-header mt-0 mb-3">Before You Begin</p>
                                 <p>This guide will demonstrate how to set up a single masternode for the very first time. You will need the following before starting:</p>
-                                <Div class="orderList">
+                                <div class="orderList">
                                     <ol>
                                         <li> At least 10,000,000 XDC with masternode holder to perform proof-of-stake consensus seamlessly.</li>
                                         <li> Wallet to store XDC tokens, preferably hardware.</li>
@@ -76,7 +76,17 @@ include('inc/header.php') ?>
                                         <li> (Optional, but highly recommended) Virtual Private Server (VPS).</li>
                                         <li> For cloud based services, Amazon EC2's m3.large VM size would be appropriate. Similar configuration is applicable for Microsoft Azure Cloud network.</li>
                                     </ol>
-                                </Div>
+                            	</div>
+                            </div>
+                            <div class="col-md-6 col-xs-12">
+                           		<div class="embed-responsive embed-responsive-16by9 embed-div mt-5">
+                					<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ybJALOV9lsA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            					</div>
+                            </div>
+                       </div>
+                                
+                                <div class="row" style="margin-top:0%;padding-bottom:0px;">
+                            	<div class="col-md-12 col-sm-12 col-xs-12">
 
                                 <p class="header mb-3">This guide will cater to the following system configurations:</p>
                                 <div class="flex-row">
@@ -177,7 +187,7 @@ include('inc/header.php') ?>
 
                                 <p class="sub-header mb-3">METHOD 1: DIY Masternode environment set up</p>
                                 
-                                <h2 class="mt-2 mb-2">CentOS or RedHat Enterprise Linux (latest release) or Ubuntu (15.04+) supported</h2>                                
+                                <h3 class="mt-2 mb-2">CentOS or RedHat Enterprise Linux (latest release) or Ubuntu (15.04+) supported</h3>                                
                                 <p class="mb-1"><strong>Clone repository</strong></p>
                                 <pre><code>git clone https://github.com/XinFinOrg/XinFin-Node.git</code></pre>
                                 <p>Enter <code>XinFin-Node</code> directory</p>
