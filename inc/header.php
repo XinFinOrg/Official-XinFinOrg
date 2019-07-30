@@ -118,11 +118,12 @@
         position: relative;
       }
     }
-    .navbar>.container .navbar-brand,
+    /*.navbar>.container .navbar-brand,
     .navbar>.container-fluid .navbar-brand {
       margin-left: 150px;
       margin-right: 50px;
-    }
+    }*/
+	.navbar>.container {max-width:1000px;}
   </style>
 
   <script src="assets/js/jquery.js"></script>
@@ -194,7 +195,8 @@
             </button>
       
           </div>
-          <div class="collapse navbar-collapse" id="navbarNavDropdown" style="float:left">
+          <!--<div class="collapse navbar-collapse" id="navbarNavDropdown" style="float:left">-->
+          <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="main-menu cf nav navbar-nav navbar-right">
               <li class="nav-item">
                 <a href="index.php">Home</a>

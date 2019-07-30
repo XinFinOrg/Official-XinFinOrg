@@ -129,7 +129,7 @@ h4
 }
 
 .navbar-right {
-    padding-top: 10px;
+    padding-top: 5px;
 }
 
 .navbar-nav>li>.dropdown-menu {
@@ -1049,6 +1049,7 @@ button.btn-outline-default .fa{margin-right:5px;}
 /*  STAKE XDC & SETUP MASTERNODE  */
 .setup-masternode h1 {font-family: latoregular;color: #002752;font-size: 25px;font-weight:600;text-align: left;margin-top:0px;padding-bottom: 15px;}
 .setup-masternode h2 {font-family: latoregular;color: #002752;font-size: 25px;font-weight:400;text-align: left;margin-top:0px;}
+.setup-masternode h3 {font-family: latoregular;color: #002752;font-size: 22px!important;font-weight:400;text-align: left;margin-top:0px;padding-bottom:0px;}
 .setup-masternode ul{font-size:16px;color:#002752;margin-left:20px;}
 .setup-masternode ul li{margin-left:17px;}
 .setup-masternode ul li{margin-bottom:10px;}
