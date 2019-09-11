@@ -29,18 +29,18 @@ include('inc/header.php') ?>
                             <div class="col-md-12 col-sm-12 col-xs-12">
                                 <!--<h1>XinFin Bounty Programs</h1>-->
 
-                                <p class="sub-header mt-0">E-Wallet Bounty</p>
+                                <!--<p class="sub-header mt-0">E-Wallet Bounty</p>
                                 <p>XinFin has developed a extention wallet for the easy access of the users.</p>
                                 <p class="link-break-out"><strong>Product link:</strong> <a href="https://chrome.google.com/webstore/detail/xinfin-ewallet/bocpokimicclpaiekenaeelehdjllofo" target="_blank">https://chrome.google.com/webstore/detail/xinfin-ewallet/bocpokimicclpaiekenaeelehdjllofo</a></p>
 
                                 <p class="sub-header">Name the e-Wallet Bounty</p>
                                 <p>Community members can suggest a name for the new e-Wallet and the name selected will be rewarded with 50 USD worth XDC.</p>
-                                <p class="link-break-out">Fill the <a href="https://docs.google.com/forms/d/1IaXpCuZE6g4emYxdXLsD5eyBb_8USFrwBtOAXoplBSY" target="_blank">google form</a> to claim your bounty.</p>
+                                <p class="link-break-out">Fill the <a href="https://docs.google.com/forms/d/1IaXpCuZE6g4emYxdXLsD5eyBb_8USFrwBtOAXoplBSY" target="_blank">google form</a> to claim your bounty.</p>-->
 
                                 <p class="sub-header">BUG Bounty</p>
-                                <p>XinFin is happy to release the <strong>XinFin Extension Wallet : eWallet</strong></p>
-                                <p>XinFin introduces a Bug Bounty Program for testing XinFin Extension Wallet (XinFin eWallet).</p>
-                                <p>Team XinFin welcomes all to test XinFin eWallet for any errors, bugs on XinFin TestNet and grab the bounty also provide ideas to enhance eWallet.</p>
+                                <p>XinFin is happy to release the XinFin Extension Wallet: XinPay</strong></p>
+                                <p>XinFin introduces a Bug Bounty Program for testing XinFin Extension Wallet (XinPay).</p>
+                                <p>Team XinFin welcomes all to test XinPay for any errors, bugs on XinFin TestNet and grab the bounty also provide ideas to enhance eWallet.</p>
 
                                 <p class="sub-header-small mb-2">Program Rules:</p>
                                 <div class="orderList">
@@ -102,7 +102,7 @@ include('inc/header.php') ?>
                                 </div>
 
                                 <p>Fill the <a href="https://docs.google.com/forms/d/1SklUqUFpncyj2GqYT48qR6sgC3jYMkvuCBy_UVDLovw" target="_blank">google form</a> to claim your bounty.</p>
-                                <p>Above bounties ends on <strong>15 August 2019</strong>.</p>
+                                <p>Above bounties ends on <strong>30 September 2019</strong>.</p>
                                 
                                 <p class="sub-header">Masternode Bounty Program</p>
                                 <p>Every Masternode will be offered incentives as well as a special bonus bounty up to 900 USD worth XDC, for hosting Masternode up to 31st August 2019.</p>
