@@ -105,9 +105,9 @@ include('inc/header.php') ?>
                                 <p>Above bounties ends on <strong>30 September 2019</strong>.</p>
                                 
                                 <p class="sub-header">Masternode Bounty Program</p>
-                                <p>Every Masternode will be offered incentives as well as a special bonus bounty up to 900 USD worth XDC, for hosting Masternode up to 31st August 2019.</p>
-                                <p><strong>Conditions:</strong> Node must be up from the mainnet launch, 1 June 2019 till 31 August 2019.</p>
-                                <p>Fill the <a href="https://docs.google.com/forms/d/1iyzCYnGLPG4R0WrPm3T30_4cAMM3Qfj7RxT6FUNFVos" target="_blank">google form</a> to claim your bounty.</p>
+                                <p>Every Masternode will be offered incentives as well as a special bonus bounty up to 900 USD worth XDC, for hosting Masternode from 1st october to 31 st december 2019 in the specific region Africa South-America or Australia.</p>
+                                <p><strong>Conditions:</strong>Node must be up from the Specific Region till 31 december 2019.</p>
+                                <p>Fill the <a href="https://docs.google.com/forms/d/e/1FAIpQLSf2sg_XEvvE3KPQHpNsI0DKtbk3CLonI6skQISb6U6O_nn7KQ/viewform?usp=pp_url" target="_blank">google form</a> to claim your bounty.</p>
                                 
                                 
                                 <p class="sub-header">Masternode Luck User Bounty</p>
