@@ -1080,7 +1080,11 @@ button.btn-outline-default .fa{margin-right:5px;}
 .exchange-listing .header {color:#096db0!important;padding-bottom: 6px;margin-top: 50px;text-align: left;border-bottom: 1px solid #b9b9b9;font-size:26px;line-height:32px;}
 .exchange-listing .sub-header-border {font-weight:bold;color:#096db0!important;margin-bottom:0px!important;padding-bottom:5px;margin-top:30px;text-align:left;font-size:20px;line-height:26px;}
 .exchange-listing .sub-header-border {border-bottom:double;border-color:#b9b9b9;font-size:20px;line-height:26px;}
+.exchange-listing .sub-header {font-weight:bold;color:#096db0!important;margin-bottom:0px!important;padding-bottom:5px;margin-top:30px;text-align:left;font-size:20px;line-height:26px;}
 .exchange-listing .logo-box img{margin-top:20px!important;margin-bottom:15px!important;display:block;margin:auto;}
+
+.exchange-listing ul li {margin-bottom:10px;}
+
 .exchange-listing .logo-box p{font-size:14px;text-align:center;}
 
 .exchange-listing .exchange-box {margin-right:auto;margin-left:auto;width:16.3%;display:inline-block;padding:10px;}
@@ -4227,7 +4231,7 @@ margin-left:20px;
 pre{font-size:15px;color:#002752;background-color:#f6f8fa;border:none;padding:16px;margin-bottom:20px;border-radius:3px;}
 pre code{white-space:inherit;}
 
-code{padding:3px 5px;font-size:15px;color:#002752;background-color:#f6f8fa;border-radius:3px;}
+code{padding:5px 8px;font-size:15px;color:#002752;background-color:#f6f8fa;border-radius:3px;}
 
 .pl-c1, .pl-s .pl-v{color:#005cc5;}
 
