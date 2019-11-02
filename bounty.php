@@ -3,7 +3,6 @@ $title = "XinFin Bug Bounty Program, Airdrop for community contributor";
 $desc = "XinFin is launching a Bug Bounty Program for Community! We Invite our Community and all bug bounty hunters !";
 
 include('inc/header.php') ?>
-
     <section id="contactbanner">
         <!--  <div id="particle-canvas" ></div> -->
         <div class="container">
