@@ -11,7 +11,7 @@ include('inc/header.php') ?>
             <div class="bannertext">
                 <h1>XDC/XDCE Utility</h1>
                 <p>The XDC token is the underlying utility token that powers XinFin's Hybrid Blockchain. The XDC token acts as a settlement mechanism for DApps built on the XinFin Hybrid Blockchain. XinFin has also launched an Ethereum token called XDCE that can be traded with XDC utility token at a 1:1 ratio. This gives the token holder flexibility to hold tokens in either form for utility. The ERC-20 token can be swapped for the XDC token at a ratio of 1:1. This swap can be facilitated on the AlphaEx exchange. AlphaEx is compatible with all decentralised exchanges and has a presence in liquidity markets and supports XDC liquidity.</p>
-                <p>To date, use cases built around XinFin's XDC utility token are: MyContract, TradeFinex, Kramaa, Land Registry, iFactor, XinFin Blockchain Academy and TurantPay.</p>
+                <p>To date, use cases built around XinFin's XDC utility token are: MyContract, TradeFinex, Kramaa, Land Registry, iFactor, Blockdegree and TurantPay.</p>
             </div>
         </div>
     </div>
@@ -83,7 +83,7 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/dcb-bank-logo.jpg" alt="tradefinex.org">
+            	<img class="img-responsive" src="assets/images/utility/dcb-bank-logo.jpg" alt="DCB Bank">
             </div>
             <h3 class="mb-2">DCB Bank Ltd. <span>Livenet</span></h3>
             <p class="mb-3">DCB Bank Ltd., a private sector scheduled commercial bank selected XinFin as their blockchain partner to streamline Insurance systems using Blockchain.</p>
@@ -113,19 +113,19 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/xinfin-blockchain-academy-logo.jpg" alt="tradefinex.org">
+            	<img class="img-responsive" src="assets/images/utility/blockdegree-logo.jpg" alt="blockdegree.org">
             </div>
-            <h3>XinFin Blockchain Academy <span>Testnet</span></h3>
+            <h3>Blockdegree <span>Livenet</span></h3>
             <div class="btn-block mb-1">
-            	<a href="Https://tinyurl.com/ycdkaccz" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            	<a href="https://blockdegree.org/" target="_blank"><button class="btn-blue"><i class="fa fa-external-link"></i> Visit Website</button></a>
                 <a href="https://github.com/XinFinOrg/Blockchain_Tutorial-website" target="_blank"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
             </div>
-            <p>XinFin Blockchain Academy exists to create awareness of XinFin's platforms. The Blockchain Academy provides online blockchain training to engineers and professionals. These engineers and professionals can avail basic and advanced courses from XinFin Academy and start development around our platforms.</p>
+            <p>Blockdegree exists to create awareness of XinFin's platforms. Blockdegree provides online blockchain training to engineers and professionals. These engineers and professionals can avail basic and advanced courses from Blockdegree and start development around our platforms.</p>
             <div class="btn-block mb-1">
             	<!--<a href="#"><button class="btn-fill-default"><i class="fa fa-gear"></i> API</button></a>-->
             	<a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><button class="btn-outline-default"><i class="fa fa-youtube"></i> Watch Video</button></a>
             </div>
-            <p class="date">The Academy intends to make engineers' path easier by providing them knowledge about XinFin's XDC01 Protocol, XinFin Hybrid Blockchain Technology, XinFin Use Cases and the technology used to build these use cases under one umbrella. XinFin Academy will also provide Verified Certifications to developers around Blockchain Technology, Ethereum and XDC01 Protocol.</p>
+            <p class="date">The Academy intends to make engineers' path easier by providing them knowledge about XinFin's XDC01 Protocol, XinFin Hybrid Blockchain Technology, XinFin Use Cases and the technology used to build these use cases under one umbrella. Blockdegree will also provide Verified Certifications to developers around Blockchain Technology, Ethereum and XDC01 Protocol.</p>
             <!--<div class="title">Nov 21st 2018</div>-->
         </div>
     </div>
@@ -133,13 +133,12 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/turantPay-logo.jpg" alt="tradefinex.org">
+            	<img class="img-responsive" src="assets/images/utility/turantPay-logo.jpg" alt="TurantPay">
             </div>
             <h3>TurantPay <span>Testnet</span></h3>
             <div class="btn-block mb-1">
             	<a href="https://github.com/XinFinOrg/TurantPay" target="_blank"><button class="btn-outline"><i class="fa fa-github"></i> Github</button></a>
             </div>
-            <!--<p>TurantPay is a remittance solution powered by XinFin's XDC Protocol & Blockchain Technology. TurantPay uses XinFin's XDC protocol, which is an improved version of the SWIFT protocol used today amongst banks globally to execute bank transfers. TurantPay processes payments between financial institutions and payment service providers.</p>-->
             <p>TurantPay facilitates standardised remittance over XDC Protocol that provides counterparty risk mitigation, instant payments using existing payment channels such as SWIFT.</p>
             <div class="btn-block mb-1">
             	<a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><button class="btn-outline-default"><i class="fa fa-youtube"></i> Watch Video</button></a>
@@ -152,7 +151,7 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/land-registry-logo.jpg" alt="tradefinex.org">
+            	<img class="img-responsive" src="assets/images/utility/land-registry-logo.jpg" alt="Land Registry">
             </div>
             <h3>Land Registry <span>Testnet PoC</span></h3>
             <div class="btn-block mb-1">
@@ -203,7 +202,7 @@ include('inc/header.php') ?>
     </div>
     
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
-        <div class="usecase-box">            
+        <div class="usecase-box">
             <div class="image-container mb-2">
             	<img class="img-responsive" src="assets/images/utility/setup-loyalty-dapp-logo.jpg" alt="Setup Loyalty dApp">
             </div>
@@ -213,7 +212,7 @@ include('inc/header.php') ?>
             	<a href="https://github.com/XinFinOrg/Loyalty-Token" target="_blank"><button class="btn-blue">Setup Loyalty dApp</button></a>
             </div>
         </div>
-    </div>
+	</div>
     
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">            

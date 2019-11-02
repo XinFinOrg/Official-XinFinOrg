@@ -121,7 +121,7 @@ include('inc/header.php') ?>
                 </div>
               </div>
               
-              <div class="col-md-4 padd-lr-0 mb-1" id="wrapper1">
+              <!--<div class="col-md-4 padd-lr-0 mb-1" id="wrapper1">
                 <img src="assets/images/team/advisors/david-freuden.jpg" alt="" class="img-responsive team2">
                 <div class="overlay1">
                   <div class="text1">
@@ -131,7 +131,7 @@ include('inc/header.php') ?>
                       in starting and growing businesses.</p>
                   </div>
                 </div>
-              </div>
+              </div>-->
 
               <div class="col-md-4 padd-lr-0 mb-1" id="wrapper1">
                 <img src="assets/images/team/advisors/sydney-ifergan.jpg" alt="" class="img-responsive team2">
@@ -213,7 +213,7 @@ include('inc/header.php') ?>
                 </div>
               </div>     
               
-              <div class="item">
+              <!--<div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
                   <img src="assets/images/team/core-team/chris-neill.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
@@ -228,7 +228,7 @@ include('inc/header.php') ?>
                     </div>
                   </div>
                 </div>
-              </div>   
+              </div>-->
               
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">

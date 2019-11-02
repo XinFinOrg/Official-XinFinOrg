@@ -33,7 +33,7 @@ include('inc/header.php') ?>
               
               <div class="btn-block mt-4 mb-1 playTriggerBlock wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
               		<a id="playTrigger" href="#" data-toggle="modal" data-target="#myModal"><button class="btn-fill-default">How XinFin Network Works <i class="fa fa-play" aria-hidden="true"></i></button></a>
-                    <a href="http://xinfin.network" target="_blank"><button class="btn-outline-default">Join the TestNet</button></a>
+                    <a href="https://xinfin.network" target="_blank"><button class="btn-outline-default">Join the Network</button></a>
               </div>
                         
             </div>
@@ -90,7 +90,7 @@ include('inc/header.php') ?>
 					<div class="content-box">
                         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
                             <!--<h1 class="text-transform-none" style="text-align:left;">XinFin Public DPOS Consensus</h1>-->
-                            <h3>The Fastest, Most Efficient and Decentralized Energy Efficient Consensus is Here</h3>
+                            <h3>The World's Fastest and Most Energy Efficient Consensus is here!</h3>
                         </div>
                         <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
                             <p>Delegated Proof of Stake (DPoS) leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way.</p>
@@ -294,7 +294,7 @@ include('inc/header.php') ?>
 
 
 
-<section id="about1" style="border-top: 1px solid #b1b1b1;">
+<section id="partners" style="border-top: 1px solid #b1b1b1;">
   <div class="container">
     <div class="row">
       <div class="col-md-offset-2 col-md-8 col-md-offset-2">
@@ -302,11 +302,15 @@ include('inc/header.php') ?>
           <h1>Partnerships, Associations & Alliances</h1>
         </div>
         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
-          <p>Be a part of growing XinFin's rapidly growing Network.</p>
+          <p>Be a part of XinFin's rapidly growing Network.</p>
         </div>
       </div>
     </div>
     <div class="row" style="margin-top:30px;">
+      <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
+          <a href="https://www.prnewswire.com/news-releases/aix-an-ai-fintech-firm-is-launching-bondsai---the-worlds-first-artificial-intelligence-bond-broker-setting-their-sights-on-disrupting-a-15-trillion-market-300824068.html" target="_blank"><img src="assets/images/home/partners/aix-logo.png" alt="AiX" class="img-responsive logoc"></a>
+      </div>
+      
       <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
           <a href="https://marketplace.r3.com/directory/xinfin-fintech-pte-ltd-a00119" target="_blank"><img src="assets/images/home/partners/r3Marketplace-logo.png" alt="R3 Marketplace" class="img-responsive logoc"></a>
       </div>
@@ -326,9 +330,9 @@ include('inc/header.php') ?>
       <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.9s">
           <a href="https://www.tp.edu.sg/about-tp/media-centre/press-releases/tp-infotech-day-2018" target="_blank"><img src="assets/images/home/partners/temasek-logo.png" alt="Temasek" class="img-responsive logoc"></a>
       </div>
-      <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1s">
+      <!--<div class="col-md-offset-1 col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1s">
           <a href="https://www.prweb.com/releases/2018/01/prweb15141717.htm" target="_blank"><img src="assets/images/home/partners/enterprise-logo.png" alt="Enterprise" class="img-responsive logoc"></a>
-      </div>
+      </div>-->
       <div class="col-md-offset-2 col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.1s">
           <a href="https://www.ramco.com/newsroom/press/releases/feb-18/ramco-partners-with-xinfin-to-provide-blockchain-solutions/" target="_blank"><img src="assets/images/home/partners/ramco-logo.png" alt="Ramco" class="img-responsive logoc"></a>
       </div>
@@ -352,7 +356,7 @@ include('inc/header.php') ?>
 
 
 
-<section id="about2">
+<section id="featured-in">
   <div class="container">
     <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
       <h1>Featured In</h1>
@@ -412,6 +416,9 @@ include('inc/header.php') ?>
         </div>
         <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="2.2s">
           <a href="https://www.prnewswire.com/news-releases/xinfin-kick-starts-blockchain-engineering-and-business-development-lab-at-university-of-california-berkeley-usa-685819171.html" target="_blank"><img src="assets/images/home/media/prncision-logo.png" alt="PR Newswire" class="img-responsive margin-auto-lr"></a>
+        </div>
+        <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="2.2s">
+          <a href="https://www.cardrates.com/news/xinfin-blockchain-delivers-international-transactions/" target="_blank"><img src="assets/images/home/media/cardrates-logo.png" alt="Cardrates" class="img-responsive margin-auto-lr"></a>
         </div>
       </div>
     </div>
@@ -475,7 +482,7 @@ include('inc/header.php') ?>
 
 
 
-<section id="about1" style="border-top: 1px solid #b1b1b1;">
+<section id="contact-home" style="border-top: 1px solid #b1b1b1;">
   <div class="container">
     <div class="row">
       <div class="col-md-offset-2 col-md-8 col-md-offset-2">
@@ -568,3 +575,17 @@ $("#myModal").on('hidden.bs.modal', function (e) {
 });
 </script>
 <!--script for close video-->
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5d203d2a22d70e36c2a467c9/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
