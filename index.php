@@ -131,7 +131,7 @@ include('inc/header.php') ?>
                                     <p><strong>1st</strong>
                                         <br>Generation</p>
                                 </div>
-                                <img src="https://s3.amazonaws.com/hedera-hashgraph/HHBAR-GenLogos-Bitcoin.png">
+                                <img src="assets/images/bitcoin_logo.png">
                                 <div class="compare-subtitle">
                                     <p>Bitcoin</p>
                                 </div>
@@ -156,7 +156,7 @@ include('inc/header.php') ?>
                                     <p><strong>2nd</strong>
                                         <br>Generation</p>
                                 </div>
-                                <img src="https://s3.amazonaws.com/hedera-hashgraph/HHBAR-GenLogos-Ethereum.png">
+                                <img src="assets/images/ethereum_logo.png">
                                 <div class="compare-subtitle">
                                     <p>Ethereum</p>
                                 </div>
