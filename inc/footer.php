@@ -12,7 +12,7 @@
 				<a href="resources.php">Resource Guide</a><br/>
                 <a href="http://xinfin.network/" target="_blank">XinFin Network Status</a><br/>
                 <!--<a href="https://howto.xinfin.org/">Developer Portal</a><br/>-->
-				<a href="Exchange Listing Resource">Exchange Listing Resource</a><br />
+				<a href="exchange-listing-resource.php">Exchange Listing Resource</a><br />
 				<a href="https://github.com/XinFinOrg/Open-Hackathon" target="_blank">Online Hackathon</a>
                 </p>
 			</div>
