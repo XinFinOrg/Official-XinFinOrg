@@ -19,7 +19,7 @@ include('inc/header.php') ?>
                                         <a href="https://xinfin.network" target="_blank">
                                             <button class="btn-hover color-1">JOIN THE NETWORK</button>
                                         </a>
-                                        <a href="https://www.xdcwallet.com/" target="_blank">
+                                        <a href="https://play.google.com/store/apps/details?id=com.xdcwallet" target="_blank">
                                             <button class="btn-hover color-3">DOWNLOAD WALLET</button>
                                         </a>
                                     </div>
@@ -46,6 +46,10 @@ include('inc/header.php') ?>
         <div class="container">
             <div class="bannertext">
                 <div class="flex-row align-items-center">
+                    <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                        <img src="assets/images/home/standardised-dapps.gif" class="img-responsive" width="100%" alt="Hybrid State">
+                    </div>
+                    
                     <div class="col-md-6">
                         <div class="content-box">
                             <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
@@ -65,43 +69,12 @@ include('inc/header.php') ?>
 
                             </div>
                         </div>
-                    </div>
-
-                    <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
-                        <img src="assets/images/home/standardised-dapps.gif" class="img-responsive" width="100%" alt="Hybrid State">
-                    </div>
+                    </div>                    
                 </div>
             </div>
         </div>
     </section>
-
-    <section id="xinfin-public-dpos-consensus" class="home-page-sections small-padd">
-        <div class="container">
-            <div class="bannertext">
-                <div class="flex-row align-items-center">
-                    <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
-                        <img src="assets/images/home/xinfin-public-dpos-consensus.gif" class="img-responsive" width="100%" alt="XinFin Public DPOS Consensus">
-                    </div>
-                    <div class="col-md-6">
-                        <div class="content-box">
-                            <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                                <!--<h1 class="text-transform-none" style="text-align:left;">XinFin Public DPOS Consensus</h1>-->
-                                <h3>The World's Fastest and Most Energy Efficient Consensus is here!</h3>
-                            </div>
-                            <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
-                                <p>Delegated Proof of Stake (DPoS) leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way.</p>
-                            </div>
-                            <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
-                                <a href="xinfin-consensus.php">
-                                    <button class="btn-hover color-1">XinFin Public DPOS Consensus</button>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    
 
     <section id="compare-chart" class="home-page-sections small-padd">
         <div class="compare">
@@ -199,9 +172,8 @@ include('inc/header.php') ?>
                             </div>
                             <div class="compare-gen-3 compare-row-4">
                                 <p>2-4</p>
-                                <span><p>Seconds
-</p>
-<p>(w/finality)<br></p></span>
+                                <span><p>Seconds</p>
+								<p>(w/finality)<br></p></span>
                             </div>
                         </div>
                     </div>
@@ -210,15 +182,42 @@ include('inc/header.php') ?>
 
         </div>
     </section>
+    
+
+    <section id="xinfin-public-dpos-consensus" class="home-page-sections small-padd">
+        <div class="container">
+            <div class="bannertext">
+                <div class="flex-row align-items-center">
+                    <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                        <img src="assets/images/home/xinfin-public-dpos-consensus.gif" class="img-responsive" width="100%" alt="XinFin Public DPOS Consensus">
+                    </div>
+                    <div class="col-md-6">
+                        <div class="content-box">
+                            <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                                <!--<h1 class="text-transform-none" style="text-align:left;">XinFin Public DPOS Consensus</h1>-->
+                                <h3>The World's Fastest and Most Energy Efficient Consensus is here!</h3>
+                            </div>
+                            <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                                <p>Delegated Proof of Stake (DPoS) leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way.</p>
+                            </div>
+                            <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
+                                <a href="xinfin-consensus.php">
+                                    <button class="btn-hover color-1">XinFin Public DPOS Consensus</button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+   
 
     <section id="iso-compatible-messaging" class="home-page-sections small-padd bg-light-grey">
         <div class="container">
             <div class="bannertext">
                 <div class="flex-row align-items-center">
-                    <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
-                        <img src="assets/images/home/iso20022-compatible-messaging.gif" class="img-responsive" width="100%" alt="ISO20022 Compatible Messaging">
-                    </div>
-
                     <div class="col-md-6">
                         <div class="content-box">
                             <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
@@ -235,6 +234,10 @@ include('inc/header.php') ?>
                             </div>
                         </div>
                     </div>
+                    
+                    <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                        <img src="assets/images/home/iso20022-compatible-messaging.gif" class="img-responsive" width="100%" alt="ISO20022 Compatible Messaging">
+                    </div>
 
                 </div>
             </div>
@@ -245,6 +248,10 @@ include('inc/header.php') ?>
         <div class="container">
             <div class="bannertext">
                 <div class="flex-row align-items-center">
+                    <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                        <img src="assets/images/home/HOW-IT-WORKS-ANIMATION.gif" class="img-responsive" width="100%" alt="The XinFin Blockchain Ecosystem At A Glance">
+                    </div>
+                    
                     <div class="col-md-6">
                         <div class="content-box">
                             <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
@@ -266,10 +273,7 @@ include('inc/header.php') ?>
                             </div>
                         </div>
                     </div>
-
-                    <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
-                        <img src="assets/images/home/HOW-IT-WORKS-ANIMATION.gif" class="img-responsive" width="100%" alt="The XinFin Blockchain Ecosystem At A Glance">
-                    </div>
+                    
                 </div>
             </div>
         </div>
@@ -279,10 +283,6 @@ include('inc/header.php') ?>
         <div class="container">
             <div class="bannertext">
                 <div class="flex-row align-items-center">
-                    <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
-                        <img src="assets/images/home/dia-03-ani.gif" class="img-responsive" width="100%" alt="XDC/XDCe Utility">
-                    </div>
-
                     <div class="col-md-6">
                         <div class="content-box">
                             <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
@@ -304,6 +304,11 @@ include('inc/header.php') ?>
                             </div>
                         </div>
                     </div>
+                    
+                    <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                        <img src="assets/images/home/dia-03-ani.gif" class="img-responsive" width="100%" alt="XDC/XDCe Utility">
+                    </div>                    
+                    
                 </div>
             </div>
         </div>
@@ -368,6 +373,10 @@ include('inc/header.php') ?>
         <div class="container">
             <div class="bannertext">
                 <div class="flex-row align-items-center">
+                    <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                        <img src="assets/images/home/setting-up-masterNodes.gif" class="img-responsive" width="100%" alt="XinFin Network">
+                    </div>
+                    
                     <div class="col-md-6">
                         <div class="content-box">
                             <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
@@ -382,11 +391,7 @@ include('inc/header.php') ?>
                                 </a>
                             </div>
                         </div>
-                    </div>
-
-                    <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
-                        <img src="assets/images/home/setting-up-masterNodes.gif" class="img-responsive" width="100%" alt="XinFin Network">
-                    </div>
+                    </div>                    
                 </div>
             </div>
         </div>
