@@ -81,9 +81,9 @@ include('inc/header.php') ?>
             <div class="compare-wrapper">
                 <div class="compare-left">
                     <div class="compare-content">
-                        <h2 class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">Enterprise Ready Hybrid Blockchain</h2>
+                        <h2 class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">XinFin DPoS Hybrid Network, Powered by XDC Protocol</h2>
                         <p class="compare-content-body mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidata non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                            Interoperable Blockchain Network for a Global Trade & Finance that enable Digitization, Tokenization and instant settlement of trade transactions, increase the efficiency, reduce reliance on complex FX infrastructures, and increase flexibility in liquidity management for financial institutions.</p>
                         <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
                             <a href="https://xinfin.network" target="_blank">
                                 <button class="btn-hover color-1">JOIN THE NETWORK</button>
@@ -189,7 +189,7 @@ include('inc/header.php') ?>
             <div class="bannertext">
                 <div class="flex-row align-items-center">
                     <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
-                        <img src="assets/images/home/xinfin-public-dpos-consensus.gif" class="img-responsive" width="100%" alt="XinFin Public DPOS Consensus">
+                        <img src="assets/images/home/xinfin-public-dpos-consensus.gif" class="img-responsive" width="100%" alt="XinFin Public DPoS Consensus">
                     </div>
                     <div class="col-md-6">
                         <div class="content-box">
@@ -202,7 +202,7 @@ include('inc/header.php') ?>
                             </div>
                             <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
                                 <a href="xinfin-consensus.php">
-                                    <button class="btn-hover color-1">XinFin Public DPOS Consensus</button>
+                                    <button class="btn-hover color-1">XinFin Public DPoS Consensus</button>
                                 </a>
                             </div>
                         </div>
