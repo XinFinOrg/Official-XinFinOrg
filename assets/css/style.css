@@ -417,7 +417,7 @@ font-family: 'Muli', sans-serif;
 
  .tab-content hr
  {
-     border-top: 1px solid #002550;
+     border-top: 1px solid #2bbbad;
  }
  
  hr.light
@@ -426,11 +426,13 @@ font-family: 'Muli', sans-serif;
  }
 
 
- #team span
-
- {
-  background: #112b3c;
+ #team span {
+  /*background: #112b3c;*/
+  background-image: linear-gradient(to right, #25aae1, #0dd1ae, #01e074, #2bbbad);
+  border: 2px solid transparent;
+  background-size: 300% 100%;
   padding:10px 20px;
+  border-radius: 5px;
   color:#fff;
   font-size: 18px;
  }

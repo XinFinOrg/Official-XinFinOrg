@@ -11,7 +11,7 @@ include('inc/header.php') ?>
                 <div class="row align-items-center">
                     <div class="col-md-7">
                         <div class="banner-content-box">
-                            <div style="display:block;position:relative">
+                            <div style="display:block;position:relative;">
                                 <div>
                                     <h1 style="text-align:left;" class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">Enterprise Ready Hybrid Blockchain For Global Trade and Finance</h1>
                                     <p style="text-align: left;text-transform:none;" class="wow fadeInDown" data-wow-duration="0.7s" data-wow-delay="0.7s">Combining the power of Public & Private blockchains with Interoperable Smart Contracts</p>
@@ -44,14 +44,10 @@ include('inc/header.php') ?>
 
     <section id="hybrid-state" class="home-page-sections small-padd bg-light-grey">
         <div class="container">
-            <div class="bannertext">
-                <div class="flex-row align-items-center">
-                    <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
-                        <img src="assets/images/home/standardised-dapps.gif" class="img-responsive" width="100%" alt="Hybrid State">
-                    </div>
-                    
-                    <div class="col-md-6">
-                        <div class="content-box">
+            <div class="bannertext">					
+				<div class="flex-row align-items-center">
+                    <div class="col-md-6 col-md-push-6">
+						<div class="content-box">
                             <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
                                 <!--<h1 class="text-transform-none" style="text-align:left;">Hybrid State</h1>-->
                                 <h3>Decentralized, Hybrid, Interoperable & Liquid Network</h3>
@@ -69,7 +65,11 @@ include('inc/header.php') ?>
 
                             </div>
                         </div>
-                    </div>                    
+					</div>
+					
+					<div class="col-md-6 col-md-pull-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+						<img src="assets/images/home/standardised-dapps.gif" class="img-responsive" width="100%" alt="Hybrid State">
+					</div>
                 </div>
             </div>
         </div>
@@ -121,7 +121,7 @@ include('inc/header.php') ?>
                                 <span><p>usd</p></span>
                             </div>
                             <div class="compare-gen-1 compare-row-4">
-                                <p>10-50</p>
+                                <p>10-60</p>
                                 <span><p>minutes</p></span>
                             </div>
                             <div class="compare-gen-2 compare-row-1">
@@ -163,7 +163,7 @@ include('inc/header.php') ?>
                                 </div>
                             </div>
                             <div class="compare-gen-3 compare-row-2">
-                                <p>20,000+</p>
+                                <p>2,000+</p>
                                 <span><p>TPS</p></span>
                             </div>
                             <div class="compare-gen-3 compare-row-3">
@@ -171,7 +171,7 @@ include('inc/header.php') ?>
                                 <span><p>usd</p></span>
                             </div>
                             <div class="compare-gen-3 compare-row-4">
-                                <p>2-4</p>
+                                <p>2</p>
                                 <span><p>Seconds</p>
 								<p>(w/finality)<br></p></span>
                             </div>
@@ -298,7 +298,7 @@ include('inc/header.php') ?>
                                 <a href="xdc-utility.php">
                                     <button class="btn-hover color-1">Explore More</button>
                                 </a>
-                                <a href="https://www.xdcwallet.com/" target="_blank">
+                                <a href="https://xinfin.network/#webWallet" target="_blank">
                                     <button class="btn-hover color-3">Download XinFin Wallet</button>
                                 </a>
                             </div>
