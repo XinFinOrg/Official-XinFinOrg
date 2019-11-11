@@ -917,10 +917,10 @@ include('inc/header.php') ?>
 </script>
 
 
-<!--<script>
+<script>
   var activeUrl = localStorage.getItem("currentUrl");
   $('.nav.navbar-nav li:nth-child(6)').addClass('active');
-</script>-->
+</script>
 
 
 <?php include('inc/footer.php') ?>
