@@ -11,8 +11,9 @@
                 <a href="xinfin-consensus.php">Public DPoS Consensus</a><br/>
 				<a href="resources.php">Resource Guide</a><br/>
                 <a href="http://xinfin.network/" target="_blank">XinFin Network Status</a><br/>
-                <a href="https://howto.xinfin.org/">Developer Portal</a><br/>
-                <a href="https://github.com/XinFinOrg/Open-Hackathon" target="_blank">Online Hackathon</a>
+                <!--<a href="https://howto.xinfin.org/">Developer Portal</a><br/>-->
+				<a href="exchange-listing-resource.php">Exchange Listing Resource</a><br />
+				<a href="https://github.com/XinFinOrg/Open-Hackathon" target="_blank">Online Hackathon</a>
                 </p>
 			</div>
 			
@@ -22,10 +23,11 @@
                 <p>
 				<a href="setup-masternode.php">Setup MasterNode</a><br/>
                 <!--<a href="faq.php">Read FAQ</a><br/>-->
-                <a href="https://howto.xinfin.org/general/faq/" target="_blank">Read FAQ</a><br/>
-                <a href="xdc-utility.php">XDC/XDCe Utility</a><br/>
-                <a href="bounty.php">Community Bounty Program</a><br/>    
-				<a href="https://github.com/XinFinorg">Source Code on GitHub</a><br/>
+                <a hrtility.php">XDC/XDCe Utility</a><br/>
+                <a href="bountef="https://howto.xinfin.org/general/faq/" target="_blank">Read FAQ</a><br/>
+                <a href="xdc-uy.php">Community Bounty Program</a><br/>    
+				<!--<a href="https://github.com/XinFinorg">Source Code on GitHub</a><br/>-->
+				<a href="download.php">Download Logo</a><br/>               
                 <a href="https://xinfin.io">XDC/XDCE Exchange List</a>
                 </p>
              </div>		
@@ -33,7 +35,6 @@
                 <h1>Other Links</h1>
                 <!--<p><span>Other Links</span><br/>-->
                 <p>
-                <a href="download.php">Download Logo</a><br/>                
                 <a href="compliance.php">Compliance</a><br/>
 				<a href="https://howto.xinfin.org/media/articles/" target="_blank">Media</a><br/>
                 <a href="privacy.php">Privacy Policy</a><br/>
