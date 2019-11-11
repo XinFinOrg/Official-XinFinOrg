@@ -30,21 +30,34 @@ include('inc/header.php') ?>
 
 
 <section id="about">
+
+<div class="row about-tab-row">
+	<div class="container">
+		<ul class="nav nav-tabs">
+		  <li class="active">
+			<a data-toggle="tab" href="#xinfin">About Xinfin</a>
+		  </li>
+		  <li>
+			<a data-toggle="tab" href="#team">About the Team</a>
+		  </li>
+		</ul>
+	</div>
+</div>
+
+	
   <div class="container">
 
-
-
-    <ul class="nav nav-tabs ">
+    <!--<ul class="nav nav-tabs ">
       <li class="active">
         <a data-toggle="tab" href="#xinfin">About Xinfin</a>
       </li>
       <li>
         <a data-toggle="tab" href="#team">About the Team</a>
       </li>
-      <!--<li>
+      <li>
         <a data-toggle="tab" href="#offices">Offices</a>
-      </li>-->
-    </ul>
+      </li>
+    </ul>-->
 
     <div class="tab-content">
       <div id="xinfin" class="tab-pane fade in active">
@@ -67,7 +80,7 @@ include('inc/header.php') ?>
       </div>
       <div id="team" class="tab-pane fade">
         <h3>ABOUT THE TEAM</h3>
-        <div class="row">
+        <div class="row mt-5 mb-4">
           <div class="col-md-4">
             <hr>
           </div>
@@ -160,7 +173,7 @@ include('inc/header.php') ?>
         <!-- Advisors end -->
         
         
-        <div class="row">
+        <div class="row mt-5 mb-4">
           <div class="col-md-4">
             <hr>
           </div>
@@ -382,7 +395,7 @@ include('inc/header.php') ?>
 
         </div>
 
-        <div class="row">
+        <div class="row mt-5 mb-4">
           <div class="col-md-4">
             <hr>
           </div>
@@ -399,7 +412,7 @@ include('inc/header.php') ?>
             <div class="carousel-inner">
               <div class="item active">
                 <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="grey">
+                  <div class="white">
                     <h4>Omkar Nene</h4>
                     <h6>Business & Ecosystem Development</h6>
                     <p>With over 8 years of professional experience with TCS in Financial Services & Technology industry, Omkar
@@ -418,7 +431,7 @@ include('inc/header.php') ?>
 
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="grey">
+                  <div class="white">
                     <h4>Aakash Kakkad</h4>
                     <h6>Compliance Officer</h6>
                     <p>Aakash has a very strong base in the fields of liasoning and compliance management. With an extensive
@@ -435,7 +448,7 @@ include('inc/header.php') ?>
 
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="grey">
+                  <div class="white">
                     <h4>Afrikanus Kofi Akosah</h4>
                     <h6>Business Development and Core Community Member, XinFin Africa</h6>
                     <p>As a Free Market activist from Ghana, Kofi is the face of XinFin’s mission in Africa. With his expertise
@@ -451,7 +464,7 @@ include('inc/header.php') ?>
 
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="grey">
+                  <div class="white">
                     <h4>Matt Goldrich</h4>
                     <h6>Business Development and Core Community Member, XinFin Philippines</h6>
                     <p>Matt is XinFin’s face in South East Asian market. As a core part of the Bitcoin Association of Asia,
@@ -464,7 +477,7 @@ include('inc/header.php') ?>
 
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="grey">
+                  <div class="white">
                     <h4>Adams Caleb</h4>
                     <h6>Producer</h6>
                     <p>As the head of the production unit for XinFin, Adams is based in South Africa. He has a vast experience
@@ -478,7 +491,7 @@ include('inc/header.php') ?>
 
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="grey">
+                  <div class="white">
                     <h4>Alex Mathbeck</h4>
                     <h6>Marketing Head</h6>
                     <p>Alex’s extensive experience and prowess in the fields of team liasoning and handling socially driven
@@ -493,7 +506,7 @@ include('inc/header.php') ?>
 
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="grey">
+                  <div class="white">
                     <h4>Tola Jeds</h4>
                     <h6>Market Research & Reporting</h6>
                     <p>As a skilled digital marketer and a frontrunner in the fields of market research and integrated marketing,
@@ -506,7 +519,7 @@ include('inc/header.php') ?>
 
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="grey">
+                  <div class="white">
                     <h4>Andrew Hung</h4>
                     <h6>Public Relations and Liasoning</h6>
                     <p>It is very rare to come across someone who possesses extensive experience in public relations in the
@@ -519,7 +532,7 @@ include('inc/header.php') ?>
 
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="grey">
+                  <div class="white">
                     <h4>Pramod Mishra</h4>
                     <h6>Public Infrastructure Consultant, XinFin, Ex-World Banker</h6>
                     <p>Pramod comes from a prestigious background of working in the World Bank and financing over $5 billion
@@ -533,7 +546,7 @@ include('inc/header.php') ?>
 
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="grey">
+                  <div class="white">
                     <h4>Nakul Shah</h4>
                     <h6>Consultant</h6>
                     <p>Having started his career at State Street Corporation in Boston, Nakul is the Founder and Director of
@@ -548,7 +561,7 @@ include('inc/header.php') ?>
 
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="grey">
+                  <div class="white">
                     <h4>Ruchi Kakkad</h4>
                     <h6>Legal Consultant</h6>
                     <p>With 7 years of experience in corporate law, Ruchi is handling the legal affairs of XinFin. Her background
@@ -561,7 +574,7 @@ include('inc/header.php') ?>
 
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="grey">
+                  <div class="white">
                     <h4>Aaditi Girkar</h4>
                     <h6>Coordinator and Relationship Manager</h6>
                     <p>With over a decade of experience in handling human resources and liasioning, Aaditi is the front-face
@@ -577,7 +590,7 @@ include('inc/header.php') ?>
 
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="grey">
+                  <div class="white">
                     <h4>Kavita Gupta</h4>
                     <h6>Corporate Communications</h6>
                     <p>Having worked with some of the top brands as a content writer and as their social media manager, Kavita
@@ -592,7 +605,7 @@ include('inc/header.php') ?>
 
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="grey">
+                  <div class="white">
                     <h4>Dayna Plummer</h4>
                     <h6>Content Writer</h6>
                     <p>As an experienced ESL teacher in Canada Dayna’s grasp on English language and literature is majestic.
@@ -606,7 +619,7 @@ include('inc/header.php') ?>
 
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="grey">
+                  <div class="white">
                     <h4>Himanshu Pandey</h4>
                     <h6>Blockchain Engineer Architect</h6>
                     <p>Himanshu’s research oriented approach towards Blockchain application reflects on his aptitude for knowledge
@@ -620,7 +633,7 @@ include('inc/header.php') ?>
 
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="grey">
+                  <div class="white">
                     <h4>Ravi Arya</h4>
                     <h6>Blockchain Engineer</h6>
                     <p>Looking after the development and security of the wallet, for XinFin, Ravi has a good 9 years of experience
@@ -633,7 +646,7 @@ include('inc/header.php') ?>
 
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="grey">
+                  <div class="white">
                     <h4>Ian Mascowitz</h4>
                     <h6>Blockchain Engineer</h6>
                     <p>With his extensive expertise in the fields of blockchain programming on Ethereum platform, Ian is a core
@@ -646,7 +659,7 @@ include('inc/header.php') ?>
 
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="grey">
+                  <div class="white">
                     <h4>Jack Corby</h4>
                     <h6>Blockchain Engineer</h6>
                     <p>With more than 2 years of experience in blockchain development on Ethereum platform, Jack is a part of
@@ -659,7 +672,7 @@ include('inc/header.php') ?>
 
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="grey">
+                  <div class="white">
                     <h4>Murphy John</h4>
                     <h6>Operations Team</h6>
                     <p>As a serial entrepreneur for 15 years, Murphy has managed portfolios of various Fortune 500 clients,
@@ -676,7 +689,7 @@ include('inc/header.php') ?>
 
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="grey">
+                  <div class="white">
                     <h4>Omkar Mestry</h4>
                     <h6>Team Leader, Core Tech</h6>
                     <p>After playing a critical role in setting up the GDS for the General Aviation at Airnetz, Omkar has joined
@@ -691,7 +704,7 @@ include('inc/header.php') ?>
 
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="grey">
+                  <div class="white">
                     <h4>Anil Chinchawale</h4>
                     <h6>Team Leader, Core Tech</h6>
                     <p>As a software developer, Anil has an experience of more than 5 years in the fields of cloud based technology.
@@ -706,7 +719,7 @@ include('inc/header.php') ?>
 
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="grey">
+                  <div class="white">
                     <h4>Rahulraj Nair</h4>
                     <h6>Software Developer</h6>
                     <p>As a software developer, Rahul has knowledge and experience in dealing with web application based coding
@@ -721,7 +734,7 @@ include('inc/header.php') ?>
 
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="grey">
+                  <div class="white">
                     <h4>Dattatray Hande</h4>
                     <h6>Web Designer</h6>
                     <p>With a decade of experience in the fields of web and graphic designing, Dattatray specializes in the

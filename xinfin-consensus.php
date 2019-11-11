@@ -49,10 +49,10 @@ include('inc/header.php') ?>
                             <p><strong>Specifications:</strong> 10 Million XDC staked - Max 5000 validators registration at any time. Stake XDC and setup Masternode.</p>
                             <p><strong>Future Proofing:</strong> Pooling can be enabled with a minimum 1 Million pooled from each Masternodes Host. At a certain time in the future community consensus can be achieved with 2/3rd vote to have pooled participants host an independent validator. The goal is to ensure the network is feasible and operate in a manner that is equally incentivised for both customers and validators.</p>
                             <a href="dpos_tech_brief.php">
-                                <button class="btn-blue mb-1">Technical Brief on DPoS Consensus</button>
+                                <button class="btn-hover color-1 mb-1">Technical Brief on DPoS Consensus</button>
                             </a>
                             <a href="setup-masternode.php">
-                                <button class="btn-outline mb-1">Stake XDC & Setup MasterNode</button>
+                                <button class="btn-hover color-3 mb-1">Stake XDC & Setup MasterNode</button>
                             </a>
                         </div>
                     </div>

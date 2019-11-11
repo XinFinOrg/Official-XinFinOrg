@@ -21,17 +21,74 @@ include('inc/header.php') ?>
 	</div>
 </section>
 
-<section id="contact" style="background: #f3f3f3">
+<!--<section id="contact" style="background: #f3f3f3">-->
+<section id="contact">
     <div class="container">
-        <div class="tab-content" style="background: #fff; margin-bottom:10%">
+        <!--<div class="tab-content" style="background: #fff; margin-bottom:10%">-->
+		<div class="tab-content">
             <div id="network">
 				<div class="row pb-2">
                     <div class="col-md-12">
                         <h3>GET IN TOUCH WITH US</h3>
+						<h4>We appreciate you taking the time to get in touch.</h4>
+                        <h4>Send us your Query. We will Respond Promptly.</h4>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-offset-2 col-md-8 col-md-offset-2">
+                    <div class="col-md-6">
+                        <!--<h4>We appreciate you taking the time to get in touch.</h4>
+                        <h4>Send us your Query. We will Respond Promptly.</h4>-->
+                        <br/>
+                        <form action="#" method="" id="contactForm">
+                            <div class="form-group">
+                                <label for="email">Name (required)</label>
+                                <input type="text" class="form-control" id="name" name="name" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="email">Email (required)</label>
+                                <input type="email" class="form-control" id="email" name="email" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="email">Contact Number (required)</label>
+                                <input type="text" class="form-control" id="contact_number" name="contact" maxlength="10" minlength="10" onkeypress="return isNumber(event)">
+                            </div>
+                            <div class="form-group">
+                                <label for="email">Comments</label>
+                                <textarea class="form-control" id="comments" name="comments"></textarea>
+                            </div>
+                            <!-- <div class="checkbox">
+								<label><input type="checkbox" name="remember"> Remember me</label>
+							</div> -->
+                            <!--<button type="button" id="contactBtn" class="btn btn-default submitbtn">Submit</button>-->
+                            <button type="button" id="contactBtn" class="btn-hover color-1 submitbtn">Submit</button>
+                        </form>
+                    </div>
+					
+					<div class="col-md-5 col-md-offset-1 text-left">
+						<div class="contact-info">
+						
+                        <p class="contactpara">CONTACT INFO</p>
+                        <hr style="margin-top: 0px; ">
+                        <p style="margin: 0 auto; text-align: center;"><a href="mailto:info@xinfin.org" style="font-size: 18px; color: #002752">info@xinfin.org</a></p>
+
+                    	<p class="contact-info-gap"></p>
+					
+                        <p class="contactpara">CONNECT WITH US</p>
+                        <hr style="margin-top: 0px; ">
+                        <p class="socialicons1">
+                            <a href="https://t.me/xinfintalk" target="_blank"><i class="fa fa-paper-plane"></i></a>
+                            <a href="https://www.linkedin.com/company/xinfin/" target="_blank"><i class="fa fa-linkedin"></i></a>
+                            <a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><i class="fa fa-youtube"></i></a>
+                            <a href="https://twitter.com/xinfinf" target="_blank"><i class="fa fa-twitter"></i></a>
+                            <a href="https://www.facebook.com/XinFinHybridBlockchain/" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <a href="https://github.com/XinFinorg" target="_blank"><i class="fa fa-github"></i></a>
+                            <a href="https://www.reddit.com/r/xinfin/" target="_blank"><i class="fa fa-reddit"></i></a>
+                            <a href="https://xinfin-public.slack.com/" target="_blank"><i class="fa fa-slack"></i></a>
+                        </p>
+						</div>
+					  </div>
+					
+					<!--<div class="col-md-offset-2 col-md-8 col-md-offset-2">
                         <h4>We appreciate you taking the time to get in touch.</h4>
                         <h4>Send us your Query. We will Respond Promptly.</h4>
                         <br/><br/>
@@ -53,18 +110,15 @@ include('inc/header.php') ?>
                                 <textarea class="form-control" id="comments" name="comments"></textarea>
                             </div>
                             <br/>
-                            <!-- <div class="checkbox">
-								<label><input type="checkbox" name="remember"> Remember me</label>
-							</div> -->
-                            <!--<button type="button" id="contactBtn" class="btn btn-default submitbtn">Submit</button>-->
-                            <button type="button" id="contactBtn" class="btn-blue submitbtn">Submit</button>
+                            <button type="button" id="contactBtn" class="btn-hover color-1 submitbtn">Submit</button>
                         </form>
-                    </div>
+                    </div>-->
+					
                 </div>
 
                 <br/><br/>
 
-                <div class="row">
+                <!--<div class="row">
                     <div class="col-md-5">
                         <p class="contactpara">CONTACT INFO</p>
                         <hr style="margin-top: 0px; ">
@@ -89,7 +143,7 @@ include('inc/header.php') ?>
                             <a href="https://xinfin-public.slack.com/" target="_blank"><i class="fa fa-slack"></i></a>
                         </p>
                     </div>
-                </div>
+                </div>-->
             </div>
         </div>
         <div class="clear"></div>

@@ -23,9 +23,9 @@
                 <p>
 				<a href="setup-masternode.php">Setup MasterNode</a><br/>
                 <!--<a href="faq.php">Read FAQ</a><br/>-->
-                <a hrtility.php">XDC/XDCe Utility</a><br/>
-                <a href="bountef="https://howto.xinfin.org/general/faq/" target="_blank">Read FAQ</a><br/>
-                <a href="xdc-uy.php">Community Bounty Program</a><br/>    
+                <a href="xdc-utility.php">XDC/XDCe Utility</a><br/>
+                <a href="https://howto.xinfin.org/general/faq/" target="_blank">Read FAQ</a><br/>
+                <a href="bounty.php">Community Bounty Program</a><br/>    
 				<!--<a href="https://github.com/XinFinorg">Source Code on GitHub</a><br/>-->
 				<a href="download.php">Download Logo</a><br/>               
                 <a href="https://xinfin.io">XDC/XDCE Exchange List</a>

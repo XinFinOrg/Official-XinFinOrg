@@ -12,7 +12,7 @@ include('inc/header.php') ?>
 		<p>If you are looking for the XinFin brand assets you are in the right place. The XinFin logo usage outlined below.<br />If you'd prefer to save some time just download the .zip file below.<br/><br/><br/></p>
       
 		<div>
-			<a  href="assets/images/brand-assets/xinfin-brand-assets.zip" target="_self"><button class="btn-outline-default">DOWNLOAD ALL ASSETS</button></a>
+			<a  href="assets/images/brand-assets/xinfin-brand-assets.zip" target="_self"><button class="btn-hover color-1">DOWNLOAD ALL ASSETS</button></a>
 		</div><br/>
         <p>XinFin, XDC and XDCe Logos in PNG & EPS formats</p>
         <br/><br/><br/><br/>

@@ -51,7 +51,7 @@ include('inc/header.php') ?>
                                 <li>Participate in future Roadmap</li>
                             </ul>
                             <a href="contactus.php">
-                                <button class="btn-blue">Become a Member</button>
+                                <button class="btn-hover color-1">Become a Member</button>
                             </a>
                         </div>
                     </div>
