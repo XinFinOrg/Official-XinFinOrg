@@ -31,21 +31,21 @@
       bottom: 40px;
       left: 40px;
       z-index: 9999;
-      width: 32px;
-      height: 32px;
+      width: 40px;
+      height: 40px;
       text-align: center;
-      line-height: 30px;
-      background: #f5f5f5;
-      color: #444;
+      line-height: 38px;
+      background-image: linear-gradient(to right, #25aae1, #2bbbad);
+      color: #FFFFFF;
       cursor: pointer;
       border: 0;
-      border-radius: 2px;
+      border-radius: 50px;
       text-decoration: none;
       transition: opacity 0.2s ease-out;
       opacity: 0;
     }
     #back-to-top:hover {
-      background: #e9ebec;
+      background: #25aae1;
     }
     #back-to-top.show {
       opacity: 1;
@@ -123,7 +123,7 @@
       margin-left: 150px;
       margin-right: 50px;
     }*/
-	.navbar>.container {max-width:1000px;}
+	/*.navbar>.container {max-width:1000px;}*/
   </style>
 
   <script src="assets/js/jquery.js"></script>
