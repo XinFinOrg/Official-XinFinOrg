@@ -308,7 +308,7 @@ h4
 .bannertext h1
 {
    text-align: left;
-   font-size: 34px;
+   font-size: 30px;
    padding-left: 65px;
    font-weight: 500;
 }
@@ -987,7 +987,7 @@ hr {
 
 
 .banner-content-box{/*padding-left:65px;*/padding-right:110px;}
-.banner-content-box h1, .banner-content-box p{padding-left:0px!important;}
+.banner-content-box h1, .banner-content-box p{padding-left:0px!important;margin-top:30px;}
 
 /* COMMON */
 
@@ -1158,7 +1158,11 @@ button.btn-outline-default .fa{margin-right:5px;}
 .exchange-listing .exchange-box img {width:100%;max-width:200px;}
 @media (min-width: 768px) and (max-width: 991px) {.exchange-listing .exchange-box {width: 32.5%;}}
 @media (max-width: 767px){.exchange-listing .exchange-box {width: 32.6%;}}
-@media (max-width: 481px){.exchange-listing .exchange-box {width: 49%;}
+@media (max-width: 481px){
+#homebanner .bannertext h1 {font-size: 20px!important;}
+#homebanner .bannertext p {font-size: 15px!important;margin-top: 0px!important;}
+.banner-content-box h1 {margin-top:20px;}
+.exchange-listing .exchange-box {width: 49%;}
 .xinfin-network-logo{width:inherit!important;padding:5px 10px;}
 .xinfin-network-content{width:auto!important;float:none!important;padding:5px 10px!important;}
 }
@@ -4436,7 +4440,6 @@ code{padding:5px 8px;font-size:15px;color:#002752;background-color:#f6f8fa;borde
 border:2px solid rgba(255,255,255,0.4);
 Border-radius: 5px;
 padding:6px;
-margin-top:10px;
 }
 .video-container {
 position: relative;
@@ -4461,7 +4464,7 @@ height: 100%;
 }
 
 @media screen and (max-width: 991px){
-.video-frame {margin-top:40px;margin-bottom:60px;}
+.video-frame {margin-top:20px;margin-bottom:60px;}
 }
 
 

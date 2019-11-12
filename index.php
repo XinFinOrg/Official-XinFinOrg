@@ -83,7 +83,7 @@ include('inc/header.php') ?>
                     <div class="compare-content">
                         <h2 class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">XinFin DPoS Hybrid Network, Powered by XDC Protocol</h2>
                         <p class="compare-content-body mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
-                            Interoperable Blockchain Network for a Global Trade & Finance that enable Digitization, Tokenization and instant settlement of trade transactions, increase the efficiency, reduce reliance on complex FX infrastructures, and increase flexibility in liquidity management for financial institutions.</p>
+                            Interoperable Blockchain Network for a <a href="https://www.tradefinex.org/" target="_blank" style="color:#25aae1;">Global Trade & Finance</a> that enable Digitization, Tokenization and instant settlement of trade transactions, increase the efficiency, reduce reliance on complex FX infrastructures, and increase flexibility in liquidity management for financial institutions.</p>
                         <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
                             <a href="https://xinfin.network" target="_blank">
                                 <button class="btn-hover color-1">JOIN THE NETWORK</button>
@@ -255,7 +255,7 @@ include('inc/header.php') ?>
                     <div class="col-md-6">
                         <div class="content-box">
                             <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                                <h1 class="text-transform-none" style="text-align:left;color:#FFFFFF;">The XinFin Blockchain Ecosystem At A Glance</h1>
+                                <h3 class="text-transform-none" style="color:#FFFFFF;">The XinFin Blockchain Ecosystem At A Glance</h3>
                             </div>
                             <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
                                 <p style="color:#FFFFFF;" class="mb-2">Host a Private Network, Run Smart Contracts, Explore Wallet and Leverage Cross Chain Interoperability.</p>
@@ -373,11 +373,8 @@ include('inc/header.php') ?>
         <div class="container">
             <div class="bannertext">
                 <div class="flex-row align-items-center">
-                    <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
-                        <img src="assets/images/home/setting-up-masterNodes.gif" class="img-responsive" width="100%" alt="XinFin Network">
-                    </div>
                     
-                    <div class="col-md-6">
+                    <div class="col-md-6 col-md-push-6">
                         <div class="content-box">
                             <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
                                 <h3>Stake XDC and Setup Masternodes</h3>
@@ -391,7 +388,12 @@ include('inc/header.php') ?>
                                 </a>
                             </div>
                         </div>
-                    </div>                    
+                    </div>
+					
+					<div class="col-md-6 col-md-pull-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                        <img src="assets/images/home/setting-up-masterNodes.gif" class="img-responsive" width="100%" alt="XinFin Network">
+                    </div>
+					                    
                 </div>
             </div>
         </div>
