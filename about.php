@@ -79,8 +79,8 @@ include('inc/header.php') ?>
           secured digital assets.</p>
       </div>
       <div id="team" class="tab-pane fade">
-        <h3>ABOUT THE TEAM</h3>
-        <div class="row mt-5 mb-4">
+        <h3 class="mb-1">ABOUT THE TEAM</h3>
+        <div class="row" style="padding-bottom:30px;">
           <div class="col-md-4">
             <hr>
           </div>
@@ -173,7 +173,7 @@ include('inc/header.php') ?>
         <!-- Advisors end -->
         
         
-        <div class="row mt-5 mb-4">
+        <div class="row" style="padding-top:50px;padding-bottom:30px;">
           <div class="col-md-4">
             <hr>
           </div>
@@ -395,7 +395,7 @@ include('inc/header.php') ?>
 
         </div>
 
-        <div class="row mt-5 mb-4">
+        <div class="row" style="padding-top:50px;padding-bottom:30px;">
           <div class="col-md-4">
             <hr>
           </div>

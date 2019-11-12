@@ -4087,6 +4087,16 @@ button.close {
     margin-bottom: -1px;
 }
 
+.about-tab-row .nav-tabs>li {
+    float: left;
+    margin-bottom: -1px;
+}
+
+.about-tab-row .nav-tabs>li>a {
+    padding: 20px 15px;
+	font-size: 14px;
+}
+
 .singapore .location-infos 
 {    left: -250px !important;
  }
