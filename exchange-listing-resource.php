@@ -16,10 +16,12 @@ include('inc/header.php') ?>
 </section>
 
 
-<section id="xdce" class="exchange-listing" style="background: #f3f3f3">
+<!--<section id="xdce" class="exchange-listing" style="background: #f3f3f3">-->
+<section id="xdce" class="exchange-listing">
   <div class="container">
   
-    <div class="tab-content" style="background: #fff; margin-top:7%; margin-bottom:10%">
+    <!--<div class="tab-content" style="background: #fff; margin-top:7%; margin-bottom:10%">-->
+	<div class="tab-content">
       
       <p class="header mb-3 mt-0">Details require to list Xinfin-XDCe with exchange</p>
       <div class="row pb-1">
