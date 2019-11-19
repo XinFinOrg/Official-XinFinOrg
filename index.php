@@ -53,7 +53,7 @@ include('inc/header.php') ?>
                                 <h3>Decentralized, Hybrid, Interoperable & Liquid Network</h3>
                             </div>
                             <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
-                                <p>eXchange inFinite (XinFin), a Delegated Proof of Stake Consensus (DPoS), Hybrid Relay Bridges, Instant Block Finality and Interoperable ISO20022 messaging standard makes XinFin's Hybrid Architecture Developer friendly.</p>
+                                <p>eXchange inFinite (XinFin), is a Delegated Proof of Stake Consensus network (DPoS), enabling Hybrid Relay Bridges, Instant Block Finality and Interoperability with ISO20022 messaging standards, making XinFin's Hybrid Architecture Developer friendly.</p>
                             </div>
                             <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
                                 <a href="https://docs.xinfin.org/">
@@ -82,8 +82,10 @@ include('inc/header.php') ?>
                 <div class="compare-left">
                     <div class="compare-content">
                         <h2 class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">XinFin DPoS Hybrid Network, Powered by XDC Protocol</h2>
-                        <p class="compare-content-body mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
-                            Interoperable Blockchain Network for a <a href="https://www.tradefinex.org/" target="_blank" style="color:#25aae1;">Global Trade & Finance</a> that enable Digitization, Tokenization and instant settlement of trade transactions, increase the efficiency, reduce reliance on complex FX infrastructures, and increase flexibility in liquidity management for financial institutions.</p>
+                        <div class="compare-content-body mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
+							<p>Interoperable Blockchain Network for <a href="https://www.tradefinex.org/" target="_blank" style="color:#25aae1;font-weight:600;">Global Trade & Finance</a> which enables Digitization, Tokenization and instant settlement of trade transactions, increases efficiency and reduces reliance on complex FX infrastructures, allowing for increased flexibility in liquidity management for financial institutions.</p>
+						</div>
+						
                         <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
                             <a href="https://xinfin.network" target="_blank">
                                 <button class="btn-hover color-1">JOIN THE NETWORK</button>
