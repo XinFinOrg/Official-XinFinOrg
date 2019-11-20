@@ -10,6 +10,7 @@
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <meta name="description" content="<?= $desc?>">
   <meta name="author" content="">
+  <meta name="google-site-verification" content="Cyc2Me8vkC1-nEbDuDD4XGU1nBAPkIOkCDGSjWp8Zus" />
   <link rel="icon" href="assets/images/favicon.ico">
   <title>
     <?= $title; ?>
@@ -28,23 +29,23 @@
     #back-to-top {
       position: fixed;
       bottom: 40px;
-      right: 40px;
+      left: 40px;
       z-index: 9999;
-      width: 32px;
-      height: 32px;
+      width: 40px;
+      height: 40px;
       text-align: center;
-      line-height: 30px;
-      background: #f5f5f5;
-      color: #444;
+      line-height: 38px;
+      background-image: linear-gradient(to right, #25aae1, #2bbbad);
+      color: #FFFFFF;
       cursor: pointer;
       border: 0;
-      border-radius: 2px;
+      border-radius: 50px;
       text-decoration: none;
       transition: opacity 0.2s ease-out;
       opacity: 0;
     }
     #back-to-top:hover {
-      background: #e9ebec;
+      background: #25aae1;
     }
     #back-to-top.show {
       opacity: 1;
@@ -117,11 +118,12 @@
         position: relative;
       }
     }
-    .navbar>.container .navbar-brand,
+    /*.navbar>.container .navbar-brand,
     .navbar>.container-fluid .navbar-brand {
       margin-left: 150px;
       margin-right: 50px;
-    }
+    }*/
+	/*.navbar>.container {max-width:1000px;}*/
   </style>
 
   <script src="assets/js/jquery.js"></script>
@@ -193,7 +195,8 @@
             </button>
       
           </div>
-          <div class="collapse navbar-collapse" id="navbarNavDropdown" style="float:left">
+          <!--<div class="collapse navbar-collapse" id="navbarNavDropdown" style="float:left">-->
+          <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="main-menu cf nav navbar-nav navbar-right">
               <li class="nav-item">
                 <a href="index.php">Home</a>
@@ -206,10 +209,13 @@
                 <a href="xdc-utility.php">XDC/XDCE Utility</a>
               </li>
               <li class="nav-item">
-                <a href="https://docs.xinfin.org/">Developer Portal</a>
+                <a href="https://howto.xinfin.org/">Developer Portal</a>
               </li>              
               <li class="nav-item">
                 <a href="resources.php">Resource</a>
+              </li>
+              <li class="nav-item">
+                <a href="https://howto.xinfin.org/" target="_blank">Get Started</a>
               </li>
               
               <!--<li>

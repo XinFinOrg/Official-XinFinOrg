@@ -1409,7 +1409,7 @@ textarea {
 
 a {
     color: #337ab7;
-    text-decoration: none
+    text-decoration: none!important;
 }
 
 a:focus,
@@ -2005,7 +2005,7 @@ pre code {
 
 @media (min-width:1200px) {
     .container {
-        width: 1170px
+        width: 1140px
     }
 }
 

@@ -21,9 +21,9 @@ include('inc/header.php')
 	</div>
 </section>
 
-<section id="contact" style="background: #f3f3f3">
+<section id="contact">
     <div class="container">
-        <div class="tab-content" style="background: #fff; margin-bottom:10%">
+        <div class="tab-content">
             <div id="network">
 				<!--<div class="row">
                     <div class="col-md-12">
@@ -91,7 +91,7 @@ include('inc/header.php')
                                 </div>
                             </div>                            
                             <div class="col-md-12">
-                            	<button type="button" id="contactBtn" class="btn-blue submitbtn">Submit</button>
+                            	<button type="button" id="contactBtn" class="btn-hover color-1 submitbtn">Submit</button>
                             </div>
                             </div>
                         </form>

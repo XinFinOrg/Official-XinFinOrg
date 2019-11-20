@@ -10,8 +10,8 @@ include('inc/header.php') ?>
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12 bannertext">
                     <h1>Guide To Set Up XinFin Master Node</h1>
-                    <p class="mb-2">This guide assumes foundational knowledge about blockchain technology and linux operating system. Ideally, person with technical background would be most suited. Also, careful thought has to be given to security aspect if hardware wallets are not being put into use.</p>
-                    <p>Commercial masternode hosting services are also available in the market giving you the benefit of reduced workload of managing the operations.
+                    <p class="mb-2">XinFin offers the first and only genuinely one-click masternode deployment. Our Masternode One-Click Installer has been heralded by many as the easiest solution for setting up a masternode and earning XDC.</p>
+                    <p>You can download the latest 64-bit stable release of XinFin - One Click Installer for our primary platforms below. Packages for all supported platforms, as well as develop builds, can be found further down the page.
                         <br/>
                         <br/>
                         <br/>
@@ -29,9 +29,43 @@ include('inc/header.php') ?>
                     <div id="network" class="tab-pane fade in active">
                         <div class="row" style="margin-top:0%;padding-bottom:0px;">
                             <div class="col-md-12 col-sm-12 col-xs-12">
-                                <h1>Before You Begin</h1>
+                                <p class="header small mb-3">Download XinFin One Click Installer (to setup Masternode) for Windows and Linux</p>
+                                <div class="flex-row">
+                                    <div class="col-md-4 col-sm-4 col-xs-12 mb-2">
+                                        <div class="configurationsBox text-center">
+                                            <img src="assets/images/masternode/windows-icon.png" class="img-responsive icon-single" />
+                                            <h1>Windows (64-bit)</h1>
+                                            <a href="http://download.xinfin.network/XinFin-Network-installer-0-12-0.exe"><button class="btn-outline mb-1">Download</button></a>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-4 col-sm-4 col-xs-12 mb-2">
+                                        <div class="configurationsBox text-center">
+                                            <img src="assets/images/masternode/linux-icon.png" class="img-responsive icon-single" />
+                                            <h1>Linux</h1>
+                                            <a href="http://download.xinfin.network/XinFin-Network-linux64-0-12-0.deb"><button class="btn-outline mb-1">Download</button></a>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-4 col-sm-4 col-xs-12 mb-2">
+                                        <div class="configurationsBox text-center">
+                                            <img src="assets/images/masternode/mac-icon.png" class="img-responsive icon-single" />
+                                            <h1>MacOS</h1>
+                                            <p>Coming Soon!</p>
+                                            <!--<a href="http://download.xinfin.network/XinFin-Network-installer-0-12-0.rar"><button class="btn-outline mb-1">Download</button></a>-->
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        
+                        
+                        <div class="row mt-5" style="margin-top:0%;padding-bottom:0px;">
+                            <div class="col-md-6 col-xs-12">
+                                <p class="sub-header mt-0 mb-3">Before You Begin</p>
                                 <p>This guide will demonstrate how to set up a single masternode for the very first time. You will need the following before starting:</p>
-                                <Div class="orderList">
+                                <div class="orderList">
                                     <ol>
                                         <li> At least 10,000,000 XDC with masternode holder to perform proof-of-stake consensus seamlessly.</li>
                                         <li> Wallet to store XDC tokens, preferably hardware.</li>
@@ -42,7 +76,17 @@ include('inc/header.php') ?>
                                         <li> (Optional, but highly recommended) Virtual Private Server (VPS).</li>
                                         <li> For cloud based services, Amazon EC2's m3.large VM size would be appropriate. Similar configuration is applicable for Microsoft Azure Cloud network.</li>
                                     </ol>
-                                </Div>
+                            	</div>
+                            </div>
+                            <div class="col-md-6 col-xs-12">
+                           		<div class="embed-responsive embed-responsive-16by9 embed-div mt-5">
+                					<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/PCpwoK9A6_A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            					</div>
+                            </div>
+                       </div>
+                                
+                                <div class="row" style="margin-top:0%;padding-bottom:0px;">
+                            	<div class="col-md-12 col-sm-12 col-xs-12">
 
                                 <p class="header mb-3">This guide will cater to the following system configurations:</p>
                                 <div class="flex-row">
@@ -58,7 +102,7 @@ include('inc/header.php') ?>
                                         <div class="configurationsBox">
                                             <img src="assets/images/masternode/development-icon.png" class="img-responsive" />
                                             <h1>Development</h1>
-                                            <p>Mac OS X, Windows (64-bit), or most Linux distributions</p>
+                                            <p>Windows (64-bit) or most Linux distributions</p>
                                         </div>
                                     </div>
 
@@ -74,7 +118,7 @@ include('inc/header.php') ?>
                                         <div class="configurationsBox">
                                             <img src="assets/images/masternode/ssd-icon.png" class="img-responsive icon-single" />
                                             <h1>Disk</h1>
-                                            <p>Minimum 200GB SSD recommended (500+ IOPS, more is better) for the database partition</p>
+                                            <p>Minimum 300GB SSD recommended (500+ IOPS, more is better) for the database partition</p>
                                         </div>
                                     </div>
 
@@ -82,14 +126,14 @@ include('inc/header.php') ?>
                                         <div class="configurationsBox">
                                             <img src="assets/images/masternode/ram-icon.png" class="img-responsive icon-single" />
                                             <h1>RAM</h1>
-                                            <p>16+ GB</p>
+                                            <p>32 GB</p>
                                         </div>
                                     </div>
                                 </div>
 
                                 <p class="header mb-3">About XinFin Masternode</p>
                                 <p>XinFin's token XDC supplants proof-of-work consensus algorithm (popularly linked with mining) with proof-of-stake consensus algorithm, fundamentally using the concept of "validators".</p>
-                                <p>Validators are special nodes used in the DPoS consensus algorithm which validate each transaction occurring on the blockchain network. The result of this validation is to finally append the transaction on the blockchain. A transaction may be accepted by the validator or rejected. (<strong>Important:</strong> There can be multiple validator nodes in each network.) </p>
+                                <p>Validators are special nodes used in the XDPoS consensus algorithm which validate each transaction occurring on the blockchain network. The result of this validation is to finally append the transaction on the blockchain. A transaction may be accepted by the validator or rejected. (<strong>Important:</strong> There can be multiple validator nodes in each network.) </p>
                                 <p>Decisions made by these validator nodes are broadcasted through the network as messages which are signed (attested) using validated cryptographic public key. Every validator node running XDC protocol in the RCL network is responsible for deciding its Unique Node List (UNL). This list holds information about which regular nodes does the validator care about.</p>
                                 <p><strong>To set up a masternode, make sure your XDC protocol running node is publicly identified and has gone through the compliance process. Every Node Holder need to upload KYC document and this detail will be visible to the public network.</strong></p>
 
@@ -97,17 +141,7 @@ include('inc/header.php') ?>
                                 <p>It is necessary to set up a masternode to operate on XDC protocol because masternodes make the decentralised blockchain network self-sustainable. Deploying masternode is conducive to trusted, scalable decentralised network infrastructure. Such an environment facilitates greater stability and reliability on the network.</p>
 
                                 <p class="sub-header mb-3">Functions of masternode</p>
-                                <p>In DPoS blockchain environment, masternode concept is cardinal to the functioning. A masternode validates each (or segment of transaction depending upon UNL) transaction and is also responsible for writing the transaction onto the truth ledger: the blockchain. As a consequence, this makes decentralised governance of the network possible.</p>
-
-                                <p class="sub-header mb-3">Master node</p>
-                                <ul>
-                                    <li><strong>Masternodes</strong> are full-nodes that create, verify and validate new blocks in XinFin's platform.</li>
-                                    <li><strong>mXDC:</strong> Let's assume mXDC <strong>{mainNet-XDC}</strong> will be native crypto on XinFin dPOS network. mXDC will be rewarded to MN Owners.</li>
-                                    <li><strong>Epoch:</strong> We can use epoch instead of hard date to distribute incentive/rewards to masternode owners (1 epoch could be number of block, for example <strong>{1 Epoch =  888 Blocks}</strong></li>
-                                    <li><strong>Masternode Candidate:</strong> Any account can deposit X mXDC using the official on-chain governance d-app to complete KYC complaint to become a Masternode Candidate. <strong>X'nos</strong> mXDC deposit can earn staking rewards. A Candidate can resign, but the mXDC tokens will be locked for the next 30 days ( Let's assume we have new block in each 2 sec 1,296,000 blocks) after the resignation. </li>
-                                    <li><strong>Becoming a Masternode:</strong> A Candidate becomes a Masternode when he/she belongs to top 50 most voted Candidates in each epoch. A Masternode can resign, but the tokens will be locked for the next 30 days after the resignation.</li>
-                                    <li><strong>Reward:</strong> The reward a Masternode receives in each epoch is proportional to the number of signatures he/she signs.</li>
-                                </ul>
+                                <p>In XDPoS blockchain environment, masternode concept is cardinal to the functioning. A masternode validates each (or segment of transaction depending upon UNL) transaction and is also responsible for writing the transaction onto the truth ledger: the blockchain. As a consequence, this makes decentralised governance of the network possible.</p>
 
                                 <p class="sub-header mb-3">Restrictions on nodes which aspire to become masternodes</p>
                                 <p class="mb-1">Nodes which possess any of the below mentioned characteristics may not qualify to become masternodes:</p>
@@ -127,17 +161,17 @@ include('inc/header.php') ?>
                                     <li>Private blockchain is capable of running its own use case.</li>
                                 </ul>
                                 <p class="mb-1"><strong>Important:</strong> Max number of Master node allowed in the network is 5000.</p>
-                                <p class="mb-1"><strong>Special incentives for 21st validator node:</strong> information required Depends on Nos of Block created by validator node (incentive In terms of XDC)</p>
-                                <p class="mb-1"><strong>Reward Cycle:</strong> Every 15 days.</p>
+                                <p class="mb-1"><strong>Special incentives for 18th validator node:</strong> Information required Depends on No's of Block created by validator node (incentive In terms of XDC)</p>
+                                <p class="mb-1"><strong>Reward Cycle:</strong> Every Epoch.</p>
 
                                 <p class="sub-header mb-3">FAQ</p>
-                                <p class="mb-1"><strong>1. a. What is Masternode Node?</strong></p>
+                                <p class="mb-1"><strong>What is Masternode Node?</strong></p>
                                 <p>Masternode is simply a cryptocurrency full node or computer wallet that keeps the full copy of the blockchain record in real-time.</p>
-                                <p class="mb-1"><strong>1 b. What is Validator node?</strong></p>
-                                <p>In XinFin, "Validator Node" are full nodes that incentivize node operators to perform the core consensus functions of running a DPoS based blockchain. Only Validator Node gets incentive to validate the transaction.</p>
+                                <p class="mb-1"><strong>What is Validator node?</strong></p>
+                                <p>In XinFin, "Validator Node" are full nodes that incentivize node operators to perform the core consensus functions of running a XDPoS based blockchain. Only Validator Node gets incentive to validate the transaction.</p>
                                 <p class="mb-1"><strong>How to become a Validator Node?</strong></p>
-                                <p>Under XinFin DPoS, Highest XDC Stakeholder 21 Node Act as Validator node rest node act as Backup node and Private node.</p>
-                                <p class="mb-1"><strong>If there is no transaction fees on network then how validator gets incentive?</strong></p>
+                                <p>To become a Validator Node, refer this article : <a href="https://medium.com/xinfin/steps-to-setup-masternode-on-xinfin-mainnet-bf66dda3ea1c" target="_blank">https://medium.com/xinfin/steps-to-setup-masternode-on-xinfin-mainnet-bf66dda3ea1c </a></p>
+                                <p class="mb-1"><strong>Near zero transaction fees on network, how validator gets incentive?</strong></p>
                                 <p>Network generate additional coin to provide incentive to validator node. Nos depends on network load and numbers of transaction process within the network.</p>
                                 <p class="mb-1"><strong>How to get XDC ?</strong></p>
                                 <p>XDC is listed with more then 20 Liquidity Exchanges. The full list of exchanges is available at <a href="https://xinfin.io" target="_blank">xinfin.io</a> so that you can purchase XDC from open market to stake under masternode.</p>
@@ -153,7 +187,8 @@ include('inc/header.php') ?>
 
                                 <p class="sub-header mb-3">METHOD 1: DIY Masternode environment set up</p>
                                 
-                                <h2 class="mt-2 mb-2">CentOS or RedHat Enterprise Linux (latest release) or Ubuntu (15.04+) supported</h2>                                <p class="mb-1"><strong>Clone repository</strong></p>
+                                <h3 class="mt-2 mb-2">CentOS or RedHat Enterprise Linux (latest release) or Ubuntu (15.04+) supported</h3>                                
+                                <p class="mb-1"><strong>Clone repository</strong></p>
                                 <pre><code>git clone https://github.com/XinFinOrg/XinFin-Node.git</code></pre>
                                 <p>Enter <code>XinFin-Node</code> directory</p>
                                 <pre><code>cd XinFin-Node</code></pre>
@@ -182,23 +217,6 @@ include('inc/header.php') ?>
 sudo ./upgrade.sh
 sudo docker-compose -f docker-services.yml up -d
 </code></pre>
-
-                                <h2 class="mt-3 mb-2">Windows/macOS Setup support using Vagrant</h2>
-                                <p>You need to download install below mention 3 Software:</p>
-                                <div class="orderList mb-2">
-                                    <ol>
-                                        <li> Install Oracle <a href="https://www.virtualbox.org/wiki/Downloads" target="_blank">VirtualBox</a></li>
-                                        <li> Install <a href="https://www.vagrantup.com/downloads.html" target="_blank">Vagrant</a></li>
-                                        <li> Install <a href="https://gitforwindows.org/" target="_blank">GIT</a> After installation of above 3 Software (this may also need restart of your machine.)</li>
-                                        <li> Launch "command prompt" & follow the commands below</li>
-                                        <pre> git clone https://github.com/XinFinOrg/XinFin-Node.git
- <span class="pl-c1">cd</span> XinFin-Node
- vagrant up
- vagrant ssh</pre>
-                                        <li> XinFin-Node is automatically copied to /home/vagrant/ follow Step 1, 2 & 3 as explained before in this document to complete the node setup.</li>
-                                        <li> To shutdown the vagrant instance, run vagrant suspend. To delete it, run vagrant destroy.</li>
-                                    </ol>
-                                </div>
                                 
                                 <p class="mb-1"><strong>Troubleshooting</strong></p>
                                 <p>If you are having problems with Setup, the first step is to collect more information to accurately characterize the problem. From there, it can be easier to figure out a root cause and a fix.</p>
@@ -230,7 +248,7 @@ sudo docker-compose -f docker-services.yml up -d
 
                                 <p class="mb-1"><strong>Masternode Tools</strong></p>
                                 <p class="link-break-out">Community Forum update link: <a href="http://xinfin.net/" target="_blank">http://xinfin.net</a></p>
-                                <p class="link-break-out">Telegram Development Community: <a href="https://t.me/XinFinDevelopers" target="_blank">https://t.me/XinFinDevelopers</a></p>
+                                <p class="link-break-out">Telegram Development Community: <a href="https://t.me/joinchat/GeOl40UaNJPlFLNwSvu9cQ" target="_blank">https://t.me/XinFinDevelopers</a></p>
                                 <p class="link-break-out">Slack Public Channel: <a href="https://xinfin-public.slack.com/messages/CELR2M831/" target="_blank">https://xinfin-public.slack.com/messages/CELR2M831/</a></p>
 
                                 <p class="header mb-3">Where to operate? Mainnet vs Testnet:</p>
