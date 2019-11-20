@@ -1,6 +1,6 @@
 <?php 
-$title = "XinFin DPoS Technical Brief";
-$desc = "XinFin DPoS Consensus Technical Detail";
+$title = "XinFin XDPoS Technical Brief";
+$desc = "XinFin XDPoS Consensus Technical Detail";
 include('inc/header.php') ?>
 
 <section id="contactbanner"> 
@@ -9,7 +9,7 @@ include('inc/header.php') ?>
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12 bannertext">
                 <h1>XinFin DPoS Consensus: XDPoS</h1>
-                <p>XinFin DPoS-Consensus! We Invite Technical Community to Contribute towards the Enhancement of <strong>DPoS Consensus</strong><br/><br/><br/><br/></p> 
+                <p>XinFin DPoS-Consensus! We Invite Technical Community to Contribute towards the Enhancement of <strong>XDPoS Consensus</strong><br/><br/><br/><br/></p> 
             </div>    
         </div>
     </div>
@@ -22,13 +22,12 @@ include('inc/header.php') ?>
             <div id="network" class="tab-pane fade in active">
                 <div class="row" style="margin-top:0%;padding-bottom:0px;">
                     <div class="col-md-12 col-sm-12 col-xs-12">
-                        <h1>XinFin Delegated Proof of Stake (DPOS) Consensus</h1>
-                        <p><strong>Self KYC compliant Delegated Proof of Stake (DPOS) Consensus on XDC Blockchain</strong></p>
-                        <p>Delegated Proof of Stake (DPOS) is the fastest, efficient, decentralized, and flexible consensus model available. DPOS leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way. <strong>Self KYC</strong> feature adds more enterpise usecases and regulator friendliness to the Public network.</p>
+                        <h1>XinFin Delegated Proof of Stake (XDPOS) Consensus</h1>
+                        <p><strong>Self KYC compliant XinFin Delegated Proof of Stake (XDPoS) Consensus on XDC Blockchain</strong></p>
+                        <p>XinFin Delegated Proof of Stake (XDPoS) is the fastest, efficient, decentralized, and flexible consensus model available. XDPoS leverages the power of stakeholder consensus issues in a fair and democratic way. <strong>Self KYC</strong> feature adds more enterpise usecases and regulator friendliness to the Public network.</p>
                         <p><strong>This document describes the specification for a XinFin DPoS (Delegated Proof of Stake) network.</strong></p>
                         <p><strong>XinFin Spec</strong></p>                        
                         <ul>
-                        <li> Voting</li>
                             <div class="orderList">
                                 <ol>
                                     <li> Staking</li>
@@ -56,9 +55,7 @@ include('inc/header.php') ?>
                         <li> Upgradability</li>
                         </ul>                        
                         
-                        <p class="sub-header">Voting</p>
-                        <p>Any network participant will be able to vote for eligible Validators.</p>
-                        <div class="orderList">
+
                         <ol>
                         	<li> <strong>Staking</strong></li>                        
                         	<p>Users can stake their coins by sending them to the <code>deposit</code> function on the staking contract.</p>
@@ -144,9 +141,9 @@ In the contract, there will be a <code>reportBenign</code> method (part of the V
                         <p class="sub-header">Parameters</p>
                         <p class="text-left mb-1">Suggested parameter values from requirements:</p>
                         <p class="text-left mb-1"><code>MIN_STAKE</code> : 10000000 XDC</p>
-                        <p class="text-left mb-1"><code>VALIDATOR_REWARD</code> : 0.01370% Daily</p>
+                        <p class="text-left mb-1"><code>VALIDATOR_REWARD</code> : 10% Yearly</p>
                         <p class="text-left mb-1"><code>REWARDS_TRANSFER</code> : Every next block of epoch</p>
-                        <p class="text-left mb-1"><code>VALIDATOR_SET_SIZE</code> : 21</p>
+                        <p class="text-left mb-1"><code>VALIDATOR_SET_SIZE</code> : 108</p>
                         <p class="text-left mb-1"><code>WITHDRAWAL_PERIOD</code> : Set of Epoch (1 Epoch == 500 Blocks)</p>
                         <p><code>MAX_REGISTERED_VALIDATORS</code> : 5000</p>
                         
@@ -156,20 +153,7 @@ In the contract, there will be a <code>reportBenign</code> method (part of the V
                         <p>Contract state would need to be transferred to the new version of the contract, either through a migration process or a persistent storage pattern.</p>
                         <p>Programming Language: C++, Golang, Python, Rust</p>
                         
-                        <div class="references-box">
-                        <p class="sub-header">Consensus Related References</p>
-                        <ul>
-                        	<li><a href="https://wiki.parity.io/Aura" target="_blank">Parity Tech Aura - Authority Round </a></li>
-				<li><a href="https://github.com/tomochain/tomochain/blob/master/consensus/posv/posv.go" target="_blank">TomoChain</a> (DPoS Code base in Golang)</li>
-                            <li><a href="https://github.com/EOSIO" target="_blank">EOS</a></li>
-				<li><a href="https://github.com/tronprotocol/java-tron" target="_blank">TRON</a></li>
-				<li><a href="https://github.com/ethereum/go-ethereum/tree/master/consensus/ethash" target="_blank">Ethereum's Proof of Work ( ethash )</a></li>
-                            <li><a href="https://github.com/ethereum/go-ethereum/tree/master/consensus/clique" target="_blank">Ethereum's Proof of Authority ( clique )</a></li>
-                            <li><a href="https://github.com/ethereum/casper" target="_blank">Ethereum's Proof of Stake ( casper )</a></li>
-                            <li><a href="https://github.com/tomochain/tomochain" target="_blank">Proof of Stake-Velocity ( POSV )</a></li>
-                            <li><a href="https://github.com/poanetwork/pos-contracts" target="_blank">Smart contracts for PoS </a></li>
-                        </ul>
-                        </div>
+
                         
                         <p class="sub-header">Help/Questions?</p>
                         <p class="link-break-out"><strong>Telegram Channel:</strong> <a href="https://t.me/XinFinDevelopers" target="_blank">https://t.me/XinFinDevelopers</a></p>
