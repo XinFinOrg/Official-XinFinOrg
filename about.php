@@ -4,10 +4,10 @@ $desc = "We as an organization are on a mission to improve the overall deficit i
 
 include('inc/header.php') ?>
 
-<link rel='stylesheet' href='assets/css/app-new.css' type='text/css' media='all' />
-<section id="banner" style=" background: url('assets/images/xdc-protocol-banner-image2.png') #112b3c;background-repeat: no-repeat;background-position: bottom right;">
-  <!--  <div id="particle-canvas" ></div> -->
-  <div class="container">
+<link rel="stylesheet" href="assets/css/app-new.css" type="text/css" media="all" />
+
+<section id="banner" style="background: url('assets/images/xdc-protocol-banner-image2.png') #112b3c;background-repeat: no-repeat;background-position: bottom right;">
+	<div class="container">
     <div class="row">
       <div class="bannertext">
         <h1>About Us</h1>
@@ -20,17 +20,13 @@ include('inc/header.php') ?>
           help businesses to thrive without having to worry about the hassles of the international fund transfer.</p>
 
         <!--  <div id="scroll"><a href="#about" class="smooth-scroll" ><span class="arrow-bounce">↓</span></a></div> -->
-
       </div>
     </div>
-  </div>
-
+	</div>
 </section>
 
 
-
 <section id="about">
-
 <div class="row about-tab-row">
 	<div class="container">
 		<ul class="nav nav-tabs">
