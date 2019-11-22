@@ -1148,6 +1148,17 @@ button.btn-outline-default .fa{margin-right:5px;}
 .setup-masternode .underline{text-decoration:underline;}
 
 .setup-masternode .tab-content{padding-top: 60px;}
+
+
+.pxlr-faq-body p{margin-bottom: 0px!important;}
+
+.panel-title > a[aria-expanded="true"] {color: #096db0;display: block;}
+.panel-title > a[aria-expanded="false"] {color: #000;display: block;}
+
+.collapse.in {background-color: white;}
+
+.panel-default>.panel-heading {background-color:#fbfbfb;}
+.active-panel-heading .panel-heading {background-color:#FFFFFF;}
 /*  STAKE XDC & SETUP MASTERNODE  */
 
 
@@ -2648,18 +2659,20 @@ color:#1bc3ed!important;
     line-height: 40px;
     font-family: 'Muli', sans-serif;
     font-size: 16px;
-     text-align:center;
+    text-align:center;
   }
 
   .panel-title > a:before {
     float: right !important;
     font-family: FontAwesome;
-    content:"\f055";
+    content:"\f056";
     padding-right: 5px;
+	color:#25aae1 ;
 }
 .panel-title > a.collapsed:before {
     float: right !important;
-    content:"\f056";
+    content:"\f055";
+	color:#d1cfcf;
 }
 .panel-title > a:hover, 
 .panel-title > a:active, 

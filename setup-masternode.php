@@ -79,7 +79,7 @@ include('inc/header.php') ?>
 						</div>
 						
 						<div class="row mt-5" style="margin-top:0%;padding-bottom:0px;">
-                            <div class="col-md-6 col-xs-12">
+                            <div class="col-md-12 col-xs-12">
                                 <p class="sub-header mt-0 mb-3">Before You Begin</p>
                                 <p>This guide will demonstrate how to set up a single masternode for the very first time. You will need the following before starting:</p>
                                 <div class="orderList">
@@ -94,13 +94,7 @@ include('inc/header.php') ?>
                                         <li> For cloud based services, Amazon EC2's m3.large VM size would be appropriate. Similar configuration is applicable for Microsoft Azure Cloud network.</li>
                                     </ol>
                             	</div>
-                            </div>
-                            <div class="col-md-6 col-xs-12">
-                           		<div class="embed-responsive embed-responsive-16by9 embed-div mt-5">
-                					<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/PCpwoK9A6_A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-            					</div>
-                            </div>
-							
+                            </div>							
 							
 							<div class="col-md-12 col-xs-12 mt-4">
 							<p class="mb-1"><strong>Troubleshooting</strong></p>
@@ -176,8 +170,20 @@ include('inc/header.php') ?>
                                         </div>
                                     </div>
                                 </div>
-
                             </div>
+							
+							
+							<div class="col-md-12 mt-5 mb-2">
+							<p class="header small text-center mb-3">Video to Setup Masternode with just one Click</p>
+							<div class="row" style="margin-top:0%;padding-bottom:0px;">								
+								<div class="col-md-8 col-md-offset-2">
+									<div class="embed-responsive embed-responsive-16by9 embed-div mt-2">
+										<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/PCpwoK9A6_A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+									</div>
+								</div>
+							</div>
+							</div>
+							
                         </div>
                     </div>
 					</div>
@@ -305,164 +311,563 @@ sudo docker-compose -f docker-services.yml up -d
 					
 					
 					<div id="faqs" class="tab-pane fade">
-					<div id="network">
+					<div id="network">					
                                 <div class="row" style="margin-top:0%;padding-bottom:0px;">
                             	<div class="col-md-12 col-sm-12 col-xs-12">
 
                                 <p class="header mt-0 mb-2">XinfIn (XDPoS)</p>
-                                <p class="question sub-header-faqs">1) How can i set-up master node on XinFin Network?</p>
-                                <p class="answer">You can set up master on windows server with one click installer or using docker compose file for more details please visit <a href="https://Xinfin.org/setup-masternode.php">XinFin Masternode setup page</a>.</p>
+                                <div class="row">
+        <div class="col-md-12">
+            <div class="pxlr-club-faq">
+                <div class="content">
+                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                        <div class="panel panel-default">
+                            <div class="panel-heading" id="headingOne" role="tab">
+                                <h4 class="panel-title">
+                                	<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">01) How can i set-up master node on XinFin Network?</a>
+                                </h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseOne" role="tabpanel" aria-labelledby="headingOne">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>You can set up master on windows server with one click installer or using docker compose file for more details please visit <a href="https://Xinfin.org/setup-masternode.php">XinFin Masternode setup page</a>.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading" id="headingTwo" role="tab">
+                                <h4 class="panel-title">
+									<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">02) Is it necessary to run master node on server ?</a>
+								</h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseTwo" role="tabpanel" aria-labelledby="headingTwo">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>No it's not necessary to run a masternode on server but we recommended to <strong>host the masternode</strong> on server. Setting Up masternode by staking coin gives opportunity to mint additional coin as validators rewards.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading" id="headingThree" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">03) Can I run my masternode on my local machine ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseThree" role="tabpanel" aria-labelledby="headingThree">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>Yes you can run the <a href="https://xinfin.org/setup-masternode.php">masternode</a> on you Local machine but your node must have 100% up time and must have facing direct internet connection.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingFour" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">04) How much Masternode can i run at one time ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseFour" role="tabpanel" aria-labelledby="headingFour">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>You can run as many masternode you want to run at one time. But there are various conditions to run masternode like for more details visit <a href="https://xinfin.org/setup-masternode.php">XinFin Maternode Setup</a> page to learn about their requirements.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingFive" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">05) Where can i find the XDPos code ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseFive" role="tabpanel" aria-labelledby="headingFive">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>You can find the <strong>XDPos</strong> code on <a href="https://github.com/XinFinOrg/XDPoS-TestNet-Apothem">XinFin github</a>.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingSix" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">06) What is the difference between coinbase Address and Masternode owner address ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseSix" role="tabpanel" aria-labelledby="headingSix">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p><strong>Coinbase address</strong> is the <strong>masternode address</strong> and masternode owner address is the address of wallet which you have proposed 10 million xdc.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingSeven" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">07) On XinFin Network, which address i will receive my rewards ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseSeven" role="tabpanel" aria-labelledby="headingSeven">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>The rewards will be received on wallet which is masternode owner address.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingEight" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">08) When are the rewards paid out for hosting XinFin Masternode ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseEight" role="tabpanel" aria-labelledby="headingEight">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>Rewards are distributed to masternode owner after ever epoch.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingNine" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseNine" aria-expanded="false" aria-controls="collapseNine">09) How many blocks are mine in epoch of XinFin Network ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseNine" role="tabpanel" aria-labelledby="headingNine">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>900 blocks are mine in one epoch.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingTen" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTen" aria-expanded="false" aria-controls="collapseTen">10) how much time it takes to mine for an epoch ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseTen" role="tabpanel" aria-labelledby="headingTen">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>It takes around 50 minutes to complete 1 epoch.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingEleven" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">11) How much rewards are paid to masternode on XinFin Network ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseEleven" role="tabpanel" aria-labelledby="headingEleven">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>Rewards for the masternde come approx 10 %pa rewards for running masternode. If the number of masternode increases, the rewards will be reduced.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingTwelve" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">12) How are the 108 masternode selected ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseTwelve" role="tabpanel" aria-labelledby="headingTwelve">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>108 masternode are selected randomly with round robin algorithm.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingThirteen" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">13) what is the TPS of XinFin network ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseThirteen" role="tabpanel" aria-labelledby="headingThirteen">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>Currently Xinfin network supports 2000+ tps.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingFourteen" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">14) Is there any test net for XinFin Network ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseFourteen" role="tabpanel" aria-labelledby="headingFourteen">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>Yes You can find the the testnet at <a href="http://apothem.network">http://apothem.network</a>.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingFifteen" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFifteen" aria-expanded="false" aria-controls="collapseFifteen">15) How much time it takes to mine block on XinFin Network ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseFifteen" role="tabpanel" aria-labelledby="headingFifteen">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>It takes 2 seconds to mine a block on XinFin Network.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingSixteen" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSixteen" aria-expanded="false" aria-controls="collapseSixteen">16) Where can i buy xdc or xdce ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseSixteen" role="tabpanel" aria-labelledby="headingSixteen">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>You can <strong>buy XDC</strong> on <a href="https://www.alphaex.net/">AlphaEx Crypto Exchange</a> for now or you can buy xdce from the exchange listed at <a href="https://xinfin.io/">XinFin.io</a></p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingSeventeen" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSeventeen" aria-expanded="false" aria-controls="collapseSeventeen">17) Where can i store xdc ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseSeventeen" role="tabpanel" aria-labelledby="headingSeventeen">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>XDC wallet can be stored on <a href="https://wallet.xinfin.network/#/">XinFin web Wallet</a>, XinFin E wallet (<a href="https://chrome.google.com/webstore/detail/xinpay/bocpokimicclpaiekenaeelehdjllofo?hl=en">XinPay</a>) or <a href="https://play.google.com/store/apps/details?src=AppAgg.com&amp;id=com.xdcwallet&amp;referrer=utm_source%3DAppAgg.com%26utm_medium%3DAppAgg%26utm_campaign%3DAppAgg">XDC Andriod Wallet</a>.<</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingEighteen" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEighteen" aria-expanded="false" aria-controls="collapseEighteen">18) Is there hardware support for XinFin web wallet ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseEighteen" role="tabpanel" aria-labelledby="headingEighteen">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>For now XinFin doesn't support hardware wallet but it will support soon.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingNineteen" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseNineteen" aria-expanded="false" aria-controls="collapseNineteen">19) Can I store XDCE on XinFin Wallet ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseNineteen" role="tabpanel" aria-labelledby="headingNineteen">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>For now <strong>XinFin web wallet</strong> doesn't supports XDCE but you can store it on <a href="https://play.google.com/store/apps/details?src=AppAgg.com&amp;id=com.xdcwallet&amp;referrer=utm_source%3DAppAgg.com%26utm_medium%3DAppAgg%26utm_campaign%3DAppAgg">XDC Android Wallet</a></p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingTwenty" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwenty" aria-expanded="false" aria-controls="collapseTwenty">20) Can I store my token on masternode address on XinFin Network ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseTwenty" role="tabpanel" aria-labelledby="headingTwenty">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>No you can not store your token on masternode address on XinFin Network.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingTwentyone" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwentyone" aria-expanded="false" aria-controls="collapseTwentyone">21) Is it necessary to take the backup of your coinbase address ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseTwentyone" role="tabpanel" aria-labelledby="headingTwentyone">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>Yes it is necessary to take the backup of your coinbase address.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingTwentytwo" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwentytwo" aria-expanded="false" aria-controls="collapseTwentytwo">22) What will happen if I lost my coinbase address ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseTwentytwo" role="tabpanel" aria-labelledby="headingTwentytwo">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>If you lost your coinbase address your node will be down and you need to resign from the masternode.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingTwentythree" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwentythree" aria-expanded="false" aria-controls="collapseTwentythree">23) What will happen if i lost my keystore of wallet ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseTwentythree" role="tabpanel" aria-labelledby="headingTwentythree">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>All your funds will get lock and you will not be able to receive rewards and your 10 million xdc will also get lost. So its always advisable to backup your keystore.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingTwentyfour" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwentyfour" aria-expanded="false" aria-controls="collapseTwentyfour">24) Can team  recover my token ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseTwentyfour" role="tabpanel" aria-labelledby="headingTwentyfour">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>XinFin network is decentralized and no center place to store date so there is no chance to recover your token.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingTwentyfive" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwentyfive" aria-expanded="false" aria-controls="collapseTwentyfive">25) Can I deploy smart contract on XinFin network ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseTwentyfive" role="tabpanel" aria-labelledby="headingTwentyfive">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>Yes you can deploy  your smart contract on xinfin network with <a href="https://medium.com/xinfin/deploy-smart-contract-on-xinfin-testnet-through-xinfin-remix-and-xinpay-dfbbf9dcc3f7">remix or web wallet</a>.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingTwentysix" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwentysix" aria-expanded="false" aria-controls="collapseTwentysix">26) Can I deploy ethereum smart contract on XinFin network ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseTwentysix" role="tabpanel" aria-labelledby="headingTwentysix">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>Yes <strong>XinFin network is Ethereum compatible</strong>, so you can deploy any smart contract on xinfin.network.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingTwentyseven" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwentyseven" aria-expanded="false" aria-controls="collapseTwentyseven">27) Can we create a ERC-20 token on XinFin network ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseTwentyseven" role="tabpanel" aria-labelledby="headingTwentyseven">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>Yes you can create your own token on XinFin network with Mycontract.<br />Read : <a href="https://medium.com/xinfin/a-step-by-step-guide-to-issue-your-own-token-on-xinfin-network-in-a-few-minutes-b03aeae3be69">How to Deploy own token on XinFin Network</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
-                                <p class="question sub-header-faqs">2) Is it necessary to run master node on server ?</p>
-                                <p class="answer">No it's not necessary to run a masternode on server but we recommended to <strong>host the masternode</strong> on server. Setting Up masternode by staking coin gives opportunity to mint additional coin as validators rewards.</p>
-								
-								<p class="question sub-header-faqs">3) Can I run my masternode on my local machine ?</p>
-                                <p class="answer">Yes you can run the <a href="https://xinfin.org/setup-masternode.php">masternode</a> on you Local machine but your node must have 100% up time and must have facing direct internet connection.</p>
-								
-								<p class="question sub-header-faqs">4) How much Masternode can i run at one time ?</p>
-                                <p class="answer">You can run as many masternode you want to run at one time. But there are various conditions to run masternode like for more details visit <a href="https://xinfin.org/setup-masternode.php">XinFin Maternode Setup</a> page to learn about their requirements.</p>
-								
-								<p class="question sub-header-faqs">5) Where can i find the XDPos code ?</p>
-                                <p class="answer">You can find the <strong>XDPos</strong> code on <a href="https://github.com/XinFinOrg/XDPoS-TestNet-Apothem">XinFin github</a>.</p>
-								
-								<p class="question sub-header-faqs">6) What is the difference between coinbase Address and Masternode owner address ?</p>
-                                <p class="answer"><strong>Coinbase address</strong> is the <strong>masternode address</strong> and masternode owner address is the address of wallet which you have proposed 10 million xdc.</p>
-								
-								<p class="question sub-header-faqs">7) On XinFin Network, which address i will receive my rewards ?</p>
-                                <p class="answer">The rewards will be received on wallet which is masternode owner address.</p>
-								
-								<p class="question sub-header-faqs">8) When are the rewards paid out for hosting XinFin Masternode ?</p>
-                                <p class="answer">Rewards are distributed to masternode owner after ever epoch.</p>
-								
-								<p class="question sub-header-faqs">9) How many blocks are mine in epoch of XinFin Network ?</p>
-                                <p class="answer">900 blocks are mine in one epoch.</p>
-								
-								<p class="question sub-header-faqs">10) how much time it takes to mine for an epoch ?</p>
-                                <p class="answer">It takes around 50 minutes to complete 1 epoch.</p>
-								
-								<p class="question sub-header-faqs">11) How much rewards are paid to masternode on XinFin Network ?</p>
-                                <p class="answer">Rewards for the masternde come approx 10 %pa rewards for running masternode. If the number of masternode increases, the rewards will be reduced.</p>
-								
-								<p class="question sub-header-faqs">12) How are the 108 masternode selected ?</p>
-                                <p class="answer">108 masternode are selected randomly with round robin algorithm.</p>
-								
-								<p class="question sub-header-faqs">13) what is the TPS of XinFin network ?</p>
-                                <p class="answer">Currently Xinfin network supports 2000+ tps.</p>
-								
-								<p class="question sub-header-faqs">14) Is there any test net for XinFin Network ?</p>
-                                <p class="answer">Yes You can find the the testnet at <a href="http://apothem.network">http://apothem.network</a></p>
-								
-								<p class="question sub-header-faqs">15) How much time it takes to mine block on XinFin Network ?</p>
-                                <p class="answer">It takes 2 seconds to mine a block on XinFin Network.</p>
-								
-								<p class="question sub-header-faqs">16) Where can i buy xdc or xdce ?</p>
-                                <p class="answer">You can <strong>buy XDC</strong> on <a href="https://www.alphaex.net/">AlphaEx Crypto Exchange</a> for now or you can buy xdce from the exchange listed at <a href="https://xinfin.io/">XinFin.io</a></p>
-								
-								<p class="question sub-header-faqs">17) Where can i store xdc ?</p>
-                                <p class="answer">XDC wallet can be stored on <a href="https://wallet.xinfin.network/#/">XinFin web Wallet</a>, XinFin E wallet (<a href="https://chrome.google.com/webstore/detail/xinpay/bocpokimicclpaiekenaeelehdjllofo?hl=en">XinPay</a>) or <a href="https://play.google.com/store/apps/details?src=AppAgg.com&amp;id=com.xdcwallet&amp;referrer=utm_source%3DAppAgg.com%26utm_medium%3DAppAgg%26utm_campaign%3DAppAgg">XDC Andriod Wallet</a>.</p>
-								
-								<p class="question sub-header-faqs">18) Is there hardware support for XinFin web wallet ?</p>
-                                <p class="answer">For now XinFin doesn't support hardware wallet but it will support soon.</p>
-								
-								<p class="question sub-header-faqs">19) Can I store XDCE on XinFin Wallet ?</p>
-                                <p class="answer">For now <strong>XinFin web wallet</strong> doesn't supports XDCE but you can store it on <a href="https://play.google.com/store/apps/details?src=AppAgg.com&amp;id=com.xdcwallet&amp;referrer=utm_source%3DAppAgg.com%26utm_medium%3DAppAgg%26utm_campaign%3DAppAgg">XDC Android Wallet</a></p>
-								
-								<p class="question sub-header-faqs">20) Can I store my token on masternode address on XinFin Network ?</p>
-                                <p class="answer">No you can not store your token on masternode address on XinFin Network.</p>
-								
-								<p class="question sub-header-faqs">21) Is it necessary to take the backup of your coinbase address ?</p>
-                                <p class="answer">Yes it is necessary to take the backup of your coinbase address.</p>
-								
-								<p class="question sub-header-faqs">22) What will happen if I lost my coinbase address ?</p>
-                                <p class="answer">If you lost your coinbase address your node will be down and you need to resign from the masternode.</p>
-								
-								<p class="question sub-header-faqs">23) What will happen if i lost my keystore of wallet ?</p>
-                                <p class="answer">All your funds will get lock and you will not be able to receive rewards and your 10 million xdc will also get lost. So its always advisable to backup your keystore.</p>
-								
-								<p class="question sub-header-faqs">24) Can team  recover my token ?</p>
-                                <p class="answer">XinFin network is decentralized and no center place to store date so there is no chance to recover your token.</p>
-								
-								<p class="question sub-header-faqs">25) Can I deploy smart contract on XinFin network ?</p>
-                                <p class="answer">Yes you can deploy  your smart contract on xinfin network with <a href="https://medium.com/xinfin/deploy-smart-contract-on-xinfin-testnet-through-xinfin-remix-and-xinpay-dfbbf9dcc3f7">remix or web wallet</a>.</p>
-							
-								<p class="question sub-header-faqs">26) Can I deploy ethereum smart contract on XinFin network ?</p>
-                                <p class="answer">Yes <strong>XinFin network is Ethereum compatible</strong>, so you can deploy any smart contract on xinfin.network.</p>
-								
-								<p class="question sub-header-faqs">27) Can we create a ERC-20 token on XinFin network ?</p>
-                                <p class="answer">Yes you can create your own token on XinFin network with Mycontract.<br />Read : <a href="https://medium.com/xinfin/a-step-by-step-guide-to-issue-your-own-token-on-xinfin-network-in-a-few-minutes-b03aeae3be69">How to Deploy own token on XinFin Network</a></p>
+        
+    </div>
 								
 								
 								<p class="header mt-4 mb-2">XinFin Web Wallet</p>
-								<p class="question sub-header-faqs">1) What is the recommended way to access your wallet ?</p>
-                                <p class="answer">The recommended way to access wallet is with keystore.</p>
-								
-								<p class="question sub-header-faqs">2) Where can i find my Private key ?</p>
-                                <p class="answer">Below your address just click on the print button you will find you private key.</p>
-								
-								<p class="question sub-header-faqs">3) Does XinFin web wallet supports Hardware wallet ?</p>
-                                <p class="answer">For now XinFin doesn't support hardware wallet support but it's under development and it will support soon.</p>
-								
-								<p class="question sub-header-faqs">4) Can I store XDCe token on XinFin web wallet?</p>
-                                <p class="answer">No not for now XinFin web wallet doesn't supports you to store xdce but Mobile app support both XDC as well as ERC20 version token XDCe.</p>
-								
-								<p class="question sub-header-faqs">5) Unable to find my private key when signed up with Mnemonic phase ?</p>
-                                <p class="answer">As Mnemonic phase doesn't support private key so you will not get private key.</p>
-								
-								<p class="question sub-header-faqs">6) What if I lost my private key and keystore ?</p>
-                                <p class="answer">The recommended way to access wallet is with keystore.</p>
-								
-								<p class="question sub-header-faqs">7) Can we deploy contract on Xinfin Network with web wallet ?</p>
-                                <p class="answer">Yes you can deploy your token on xinfin network with web wallet.</p>
-								
-								<p class="question sub-header-faqs">8) Does web wallet supports offline functions ?</p>
-                                <p class="answer">Yes XinFin web wallet supports offline access.</p>
-								
-								<p class="question sub-header-faqs">9) What is the gas price for transaction ?</p>
-                                <p class="answer">The default gas price for transaction is 0.00021 XDC.</p>
-								
-								<p class="question sub-header-faqs">10) what is the gas price for deploying smart contract on xinfin network ?</p>
-                                <p class="answer">The default gas price used for deploying Smart Contract on XinFin network is 0.00021 XDC.</p>
+								<div class="row">
+        <div class="col-md-12">
+            <div class="pxlr-club-faq">
+                <div class="content">
+                    <div class="panel-group" id="accordion1" role="tablist" aria-multiselectable="true">
+                        <div class="panel panel-default">
+                            <div class="panel-heading" id="headingTwentyeight" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion1" href="#collapseTwentyeight" aria-expanded="false" aria-controls="collapseTwentyeight">01) What is the recommended way to access your wallet ?</a>
+                                </h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseTwentyeight" role="tabpanel" aria-labelledby="headingTwentyeight">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>The recommended way to access wallet is with keystore.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading" id="headingTwentynine" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion1" href="#collapseTwentynine" aria-expanded="false" aria-controls="collapseTwentynine">02) Where can i find my Private key ?</a>
+								</h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseTwentynine" role="tabpanel" aria-labelledby="headingTwentynine">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>Below your address just click on the print button you will find you private key.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading" id="headingThirty" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion1" href="#collapseThirty" aria-expanded="false" aria-controls="collapseThirty">03) Does XinFin web wallet supports Hardware wallet ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseThirty" role="tabpanel" aria-labelledby="headingThirty">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>For now XinFin doesn't support hardware wallet support but it's under development and it will support soon.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingThirtyone" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion1" href="#collapseThirtyone" aria-expanded="false" aria-controls="collapseThirtyone">04) Can I store XDCe token on XinFin web wallet?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseThirtyone" role="tabpanel" aria-labelledby="headingThirtyone">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>No not for now XinFin web wallet doesn't supports you to store xdce but Mobile app support both XDC as well as ERC20 version token XDCe.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingThirtytwo" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion1" href="#collapseThirtytwo" aria-expanded="false" aria-controls="collapseThirtytwo">05) Unable to find my private key when signed up with Mnemonic phase ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseThirtytwo" role="tabpanel" aria-labelledby="headingThirtytwo">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>As Mnemonic phase doesn't support private key so you will not get private key.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingThirtythree" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion1" href="#collapseThirtythree" aria-expanded="false" aria-controls="collapseThirtythree">06) What if I lost my private key and keystore ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseThirtythree" role="tabpanel" aria-labelledby="headingThirtythree">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>The recommended way to access wallet is with keystore.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingThirtyfour" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion1" href="#collapseThirtyfour" aria-expanded="false" aria-controls="collapseThirtyfour">07) Can we deploy contract on Xinfin Network with web wallet ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseThirtyfour" role="tabpanel" aria-labelledby="headingThirtyfour">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>Yes you can deploy your token on xinfin network with web wallet.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingThirtyfive" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion1" href="#collapseThirtyfive" aria-expanded="false" aria-controls="collapseThirtyfive">08) Does web wallet supports offline functions ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseThirtyfive" role="tabpanel" aria-labelledby="headingThirtyfive">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>Yes XinFin web wallet supports offline access.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingThirtysix" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion1" href="#collapseThirtysix" aria-expanded="false" aria-controls="collapseThirtysix">09) What is the gas price for transaction ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseThirtysix" role="tabpanel" aria-labelledby="headingThirtysix">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>The default gas price for transaction is 0.00021 XDC.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingThirtyseven" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion1" href="#collapseThirtyseven" aria-expanded="false" aria-controls="collapseThirtyseven">10) what is the gas price for deploying smart contract on xinfin network ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseThirtyseven" role="tabpanel" aria-labelledby="headingThirtyseven">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>The default gas price used for deploying Smart Contract on XinFin network is 0.00021 XDC.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+    </div>
 								
 								
 								<p class="header mt-4 mb-2">XinFin Masternode App</p>
-								<p class="question sub-header-faqs">1) Which account should i used to login masternode app ?</p>
-                                <p class="answer">You need to login masternode app with your web wallet private key.</p>
-								
-								<p class="question sub-header-faqs">2) Is it compulsory to upload kyc ?</p>
-                                <p class="answer">Yes it is compulsory to upload a kyc.</p>
-								
-								<p class="question sub-header-faqs">3) In which format do i need to upload kyc ?</p>
-                                <p class="answer">It is compulsory to upload kyc in pdf format.</p>
-								
-								<p class="question sub-header-faqs">4) What is the format for uploading kyc ?</p>
-                                <p class="answer">The format for uploading kyc can be found on masternode app just click on become candidate you will find the format.</p>
-								
-								<p class="question sub-header-faqs">5) What is coinbase address ?</p>
-                                <p class="answer">Coinbase address is your masternode address.</p>
-								
-								<p class="question sub-header-faqs">6) What if user upload a wrong kyc detail ?</p>
-                                <p class="answer">If user uploads the wrong kyc 10 million xdc token will get locked and hs account will be resigned.</p>
-								
-								<p class="question sub-header-faqs">7) After uploading kyc and lock the 10 million xdc how much time it takes to become masternode ?</p>
-                                <p class="answer">Ater 1 epoch you can see your node as a masternode.</p>
-								
-								<p class="question sub-header-faqs">8) How many days it will take if i resign my node ?</p>
-                                <p class="answer">If user resign from masternode it takes 30 days to get your 10 million XDC.</p>
-								
-								<p class="question sub-header-faqs">9) Why i see my node as slashed ?</p>
-                                <p class="answer">Please check your node is down so you can see your node is slashed.</p>
-								
-								<p class="question sub-header-faqs">10) My node is now up But it shows me slashed ?</p>
-                                <p class="answer">It will check for 3 epoch and after that you will become a masternode.</p>
-								
-								<p class="question sub-header-faqs">11) Where can i see the rewards ?</p>
-                                <p class="answer">You can see your rewards on you masternode owner address or on xinfin explorer.</p>
-								
-								<p class="question sub-header-faqs">13) What if i forgot my private key ?</p>
-                                <p class="answer">All your tokens will be lock. So we alwas say to back up your private key.</p>
-								
-								<p class="question sub-header-faqs">1) What is the recommended way to access your wallet ?</p>
-                                <p class="answer">The recommended way to access wallet is with keystore.</p>
+								<div class="row">
+        <div class="col-md-12">
+            <div class="pxlr-club-faq">
+                <div class="content">
+                    <div class="panel-group" id="accordion2" role="tablist" aria-multiselectable="true">
+                        <div class="panel panel-default">
+                            <div class="panel-heading" id="headingThirtyeight" role="tab">
+                                <h4 class="panel-title">
+                                	<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseThirtyeight" aria-expanded="false" aria-controls="collapseThirtyeight">01) Which account should i used to login masternode app ?</a>
+                                </h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseThirtyeight" role="tabpanel" aria-labelledby="headingThirtyeight">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>You need to login masternode app with your web wallet private key.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading" id="headingThirtynine" role="tab">
+                                <h4 class="panel-title">
+									<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseThirtynine" aria-expanded="false" aria-controls="collapseThirtynine">02) Is it compulsory to upload kyc ?</a>
+								</h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseThirtynine" role="tabpanel" aria-labelledby="headingThirtynine">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>Yes it is compulsory to upload a kyc.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading" id="headingFourty" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseFourty" aria-expanded="false" aria-controls="collapseFourty">03) In which format do i need to upload kyc ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseFourty" role="tabpanel" aria-labelledby="headingFourty">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>It is compulsory to upload kyc in pdf format.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingFourtyone" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseFourtyone" aria-expanded="false" aria-controls="collapseFourtyone">04) What is the format for uploading kyc ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseFourtyone" role="tabpanel" aria-labelledby="headingFourtyone">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>The format for uploading kyc can be found on masternode app just click on become candidate you will find the format.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingFourtythree" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseFourtythree" aria-expanded="false" aria-controls="collapseFourtythree">05) What is coinbase address ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseFourtythree" role="tabpanel" aria-labelledby="headingFourtythree">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>Coinbase address is your masternode address.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingFourtyfour" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseFourtyfour" aria-expanded="false" aria-controls="collapseFourtyfour">06) What if user upload a wrong kyc detail ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseFourtyfour" role="tabpanel" aria-labelledby="headingFourtyfour">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>If user uploads the wrong kyc 10 million xdc token will get locked and hs account will be resigned.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingFourtyfive" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseFourtyfive" aria-expanded="false" aria-controls="collapseFourtyfive">07) After uploading kyc and lock the 10 million xdc how much time it takes to become masternode ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseFourtyfive" role="tabpanel" aria-labelledby="headingFourtyfive">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>Ater 1 epoch you can see your node as a masternode.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingFourtysix" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseFourtysix" aria-expanded="false" aria-controls="collapseFourtysix">08) How many days it will take if i resign my node ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseFourtysix" role="tabpanel" aria-labelledby="headingFourtysix">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>If user resign from masternode it takes 30 days to get your 10 million XDC.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingFourtyseven" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseFourtyseven" aria-expanded="false" aria-controls="collapseFourtyseven">09) Why i see my node as slashed ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseFourtyseven" role="tabpanel" aria-labelledby="headingFourtyseven">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>Please check your node is down so you can see your node is slashed.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingFourtyeight" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseFourtyeight" aria-expanded="false" aria-controls="collapseFourtyeight">10) My node is now up But it shows me slashed ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseFourtyeight" role="tabpanel" aria-labelledby="headingFourtyeight">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>It will check for 3 epoch and after that you will become a masternode.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingFourtynine" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseFourtynine" aria-expanded="false" aria-controls="collapseFourtynine">11) Where can i see the rewards ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseFourtynine" role="tabpanel" aria-labelledby="headingFourtynine">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>You can see your rewards on you masternode owner address or on xinfin explorer.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingFifty" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseFifty" aria-expanded="false" aria-controls="collapseFifty">12) What if i forgot my private key ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseFifty" role="tabpanel" aria-labelledby="headingFifty">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>All your tokens will be lock. So we alwas say to back up your private key.</p>
+                                </div>
+                            </div>
+                        </div>
+						<div class="panel panel-default">
+                            <div class="panel-heading" id="headingFiftyOne" role="tab">
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseFiftyOne" aria-expanded="false" aria-controls="collapseFiftyOne">13) What is the recommended way to access your wallet ?</a></h4>
+                            </div>
+                            <div class="panel-collapse collapse" id="collapseFiftyOne" role="tabpanel" aria-labelledby="headingFiftyOne">
+                                <div class="panel-body pxlr-faq-body">
+                                    <p>The recommended way to access wallet is with keystore.</p>
+                                </div>
+                            </div>
+                        </div>						
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+    </div>
 								
 								
 								<p class="sub-header mb-3">Important Links:</p>
@@ -494,3 +899,19 @@ sudo docker-compose -f docker-services.yml up -d
         </section>
 
         <?php include('inc/footer.php') ?>
+		
+		
+		
+		<script>
+		(function() {
+  
+  $(".panel").on("show.bs.collapse hide.bs.collapse", function(e) {
+    if (e.type=='show'){
+      $(this).addClass('active-panel-heading');
+    }else{
+      $(this).removeClass('active-panel-heading');
+    }
+  });  
+
+}).call(this);
+</script>
