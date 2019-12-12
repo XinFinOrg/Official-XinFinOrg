@@ -165,8 +165,7 @@ include('inc/header.php') ?>
                                         <div class="configurationsBox text-center">
                                             <img src="assets/images/masternode/mac-icon.png" class="img-responsive icon-single" />
                                             <h1>MacOS</h1>
-                                            <p>Coming Soon!</p>
-                                            <!--<a href="http://download.xinfin.network/XinFin-Network-installer-0-12-0.rar"><button class="btn-outline mb-1">Download</button></a>-->
+                                            <a href="https://download.xinfin.network/XinFin-Network-macosx-0-12-0.dmg"><button class="btn-outline mb-1">Download</button></a>
                                         </div>
                                     </div>
                                 </div>
