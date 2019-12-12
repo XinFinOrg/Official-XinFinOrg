@@ -400,6 +400,25 @@ include('inc/header.php') ?>
             </div>
         </div>
     </section>
+	
+	<section id="wto-icc" class="home-page-sections padd-70">
+        <div class="action-wrapper">
+            <div class="container">
+                <div class="flex-row align-items-center">
+					<div class="col-md-9 col-sm-8">
+						<div class="action-text">
+							<p class="action-subtitle">WTO (World Trade Organization) and ICC (International Chamber of Commerce) talking about TradeFinex &amp; XinFin.</p>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-4">
+						<div class="action-btn text-center">
+							<a href="https://www.tradefinanceglobal.com/blockchain/dlt-download"><button class="btn-hover color-1">DOWNLOAD REPORT</button></a>
+						</div>
+					</div>
+				</div>
+            </div>
+        </div>
+    </section>
 
     <section id="partners" class="home-page-sections small-padd bg-light-grey">
         <div class="container">
