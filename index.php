@@ -400,6 +400,25 @@ include('inc/header.php') ?>
             </div>
         </div>
     </section>
+	
+	<section id="wto-icc" class="home-page-sections padd-70">
+        <div class="action-wrapper">
+            <div class="container">
+                <div class="flex-row align-items-center">
+					<div class="col-md-9 col-sm-8">
+						<div class="action-text">
+							<p class="action-subtitle">WTO (World Trade Organization) and ICC (International Chamber of Commerce) talking about TradeFinex &amp; XinFin.</p>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-4">
+						<div class="action-btn text-center">
+							<a href="https://www.tradefinanceglobal.com/blockchain/dlt-download"><button class="btn-hover color-1">DOWNLOAD REPORT</button></a>
+						</div>
+					</div>
+				</div>
+            </div>
+        </div>
+    </section>
 
     <section id="partners" class="home-page-sections small-padd bg-light-grey">
         <div class="container">
@@ -498,7 +517,7 @@ include('inc/header.php') ?>
                         <a href="https://news.bitcoin.com/pr-former-head-of-strategy-operations-consulting-at-kpmg-joins-xinfin-platform/" target="_blank"><img src="assets/images/home/media/bitcoincom-logo.png" alt="Bitcoin.com" class="img-responsive margin-auto-lr"></a>
                     </div>
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.5s">
-                        <a href="https://ambcrypto.com/xinfin-launches-hybrid-blockchain-based-token-xdc/" target="_blank"><img src="assets/images/home/media/ambcrypto-logo.png" alt="AMBCrypto" class="img-responsive margin-auto-lr"></a>
+                        <a href="https://ambcrypto.com/tradefinex-launches-an-updated-website-supporting-financial-instruments/" target="_blank"><img src="assets/images/home/media/ambcrypto-logo.png" alt="AMBCrypto" class="img-responsive margin-auto-lr"></a>
                     </div>
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.6s">
                         <a href="https://www.bbc.com/marathi/india-42566173?ocid=wsmarathi.chat-apps.in-app-msg.whatsapp.trial.link1_.auin/" target="_blank"><img src="assets/images/home/media/bbcnews-logo.png" alt="BBC News" class="img-responsive margin-auto-lr"></a>
@@ -516,7 +535,7 @@ include('inc/header.php') ?>
                         <a href="https://www.entrepreneur.com/article/317193" target="_blank"><img src="assets/images/home/media/entrepreneurindia-logo.png" alt="Entrepreneur" class="img-responsive margin-auto-lr"></a>
                     </div>
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="2.1s">
-                        <a href="https://www.ccn.com/xinfin-ico-enters-second-week-announces-institutional-partnerships/?ref=coinwisdom.org" target="_blank"><img src="assets/images/home/media/ccn-logo.png" alt="CCN" class="img-responsive margin-auto-lr"></a>
+                        <a href="https://www.ccn.com/xinfin-botswana-government-discuss-blockchain-solution-infrastructure-deficit/" target="_blank"><img src="assets/images/home/media/ccn-logo.png" alt="CCN" class="img-responsive margin-auto-lr"></a>
                     </div>
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="2.2s">
                         <a href="https://www.prnewswire.com/news-releases/xinfin-kick-starts-blockchain-engineering-and-business-development-lab-at-university-of-california-berkeley-usa-685819171.html" target="_blank"><img src="assets/images/home/media/prncision-logo.png" alt="PR Newswire" class="img-responsive margin-auto-lr"></a>

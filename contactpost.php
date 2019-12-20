@@ -56,7 +56,7 @@ require 'mail/PHPMailerAutoload.php';
 		//Username to use for SMTP authentication
 		$mail->Username = "xinfinweb@mail-b01.cloudmailbox.in";  /* your username here */
 		//Password to use for SMTP authentication
-		$mail->Password = "Xin$#5stF45dg";  /* your password here */
+		$mail->Password = "Hak-ess@2018**";  /* your password here */
 		//Set who the message is to be sent from
 		$mail->setFrom("info@xinfin.org" ,"Contact Enquiry | Xinfin");
 		//Set an alternative reply-to address
@@ -87,7 +87,7 @@ require 'mail/PHPMailerAutoload.php';
 		//Username to use for SMTP authentication
 		$mail_to_user->Username = "xinfinweb@mail-b01.cloudmailbox.in";	/* your username here */
 		//Password to use for SMTP authentication
-		$mail_to_user->Password = "Xin$#5stF45dg";   /* your password here */
+		$mail_to_user->Password = "Hak-ess@2018**";   /* your password here */
 		$mail_to_user->setFrom("info@xinfin.org" ,"Contact Enquiry | Xinfin");
 		$mail_to_user->addReplyTo($email, $name);
 		$mail_to_user->addAddress($email, 'User');
