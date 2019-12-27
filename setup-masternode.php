@@ -117,7 +117,7 @@ include('inc/header.php') ?>
                                             <li>Fully Managed Network</li>
                                             <li>Network attack prevention (DDoS)</li>
                                             <li>One time Setup Cost: Free</li>
-                                            <li>Monthly: 250 USD (pay in XDC, Paypal, debit, or credit card)</li>
+                                            <li>Monthly: 55 USD (pay in Paypal, debit, or credit card)</li>
                                         </ul>
                                     </ol>
                                 </div>
