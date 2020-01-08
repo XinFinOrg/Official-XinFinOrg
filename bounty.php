@@ -105,7 +105,7 @@ include('inc/header.php') ?>
                                 
                                 <p class="sub-header">Masternode Bounty Program</p>
                                 <p>Every Masternode will be offered incentives as well as a special bonus bounty up to 900 USD worth XDC, for hosting Masternode from 1st January to 30th June 2020 in the specific region Singapore or Japan.</p>
-                                <p>Fill the <a href="https://docs.google.com/forms/d/e/1FAIpQLSf2sg_XEvvE3KPQHpNsI0DKtbk3CLonI6skQISb6U6O_nn7KQ/viewform?usp=pp_url" target="_blank">google form</a> to claim your bounty.</p>
+                                <p>Fill the <a href="https://docs.google.com/forms/d/1sWgbJgVOnAJtxqOWePiAXg9hsIK-e06Jn0KtyoHjcZE/" target="_blank">google form</a> to claim your bounty.</p>
                                 
                                 
                                 <p class="sub-header">Masternode Luck User Bounty</p>
