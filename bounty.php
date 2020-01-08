@@ -104,7 +104,7 @@ include('inc/header.php') ?>
                                 <p>Above bounties ends on <strong>31 March 2020</strong>.</p>
                                 
                                 <p class="sub-header">Masternode Bounty Program</p>
-                                <p>Every Masternode will be offered incentives as well as a special bonus bounty up to 900 USD worth XDC, for hosting Masternode from 1st January to 30th June 2020 in the specific region Singapore or Japan.</p>
+                                <p>Every Masternode will be offered incentives as well as a special bonus bounty up to 900 USD worth XDC, for hosting Masternode from 31st January to 31st July 2020 in the specific region Singapore or Japan.</p>
                                 <p>Fill the <a href="https://docs.google.com/forms/d/1sWgbJgVOnAJtxqOWePiAXg9hsIK-e06Jn0KtyoHjcZE/" target="_blank">google form</a> to claim your bounty.</p>
                                 
                                 
