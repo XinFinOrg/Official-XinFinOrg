@@ -1,4 +1,4 @@
-
+<section>
 <footer class="footer">
 	<div class="container">
 		<div class="row">
@@ -35,10 +35,12 @@
                 <h1>Other Links</h1>
                 <!--<p><span>Other Links</span><br/>-->
                 <p>
-                <a href="compliance.php">Compliance</a><br/>
+                <a href="https://apidocs.xinfin.network/docs/#xinfin-apis" target="_blank">XinFin API</a><br/>
+				<a href="https://apidocs.xinfin.network/" target="_blank">Swagger API</a><br/>
+				<a href="compliance.php">Compliance</a><br/>
 				<a href="https://howto.xinfin.org/media/articles/" target="_blank">Media</a><br/>
-                <a href="privacy.php">Privacy Policy</a><br/>
-				<a href="disclaimer.php">Disclaimer</a><br/>
+                <!--<a href="privacy.php">Privacy Policy</a><br/>
+				<a href="disclaimer.php">Disclaimer</a><br/>-->
 				<a href="contactus.php">Press Inquiry</a><br/>	
 				<a href="contactus.php">Contact XinFin</a>
                 </p>
@@ -63,13 +65,21 @@
             </div>
 		</div>
 	</div>
-
-	<!-- <div class="container">
-        <div class="row">
-            <div class="col-md-12" ><p style="padding-top: 20px">2018@xinfin.org | All rights Reserved</p></div>			
-        </div>
-	</div> -->
+	
+	
+            <div class="container">
+                <div class="row footer-bottom">
+                    <div class="col-md-7 col-sm-7">
+                        <div class="copyright">Copyright &copy; <script>document.write(new Date().getFullYear())</script> XinFin Network. All rights reserved.</div>
+                    </div>
+                    <div class="col-md-5 col-sm-5">
+                        <div class="copyright pull-right"><a href="privacy.php">Privacy Policy</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="disclaimer.php">Disclaimer</a></div>
+                    </div>
+                </div>
+            </div>
+	
 </footer>
+</section>
 
 
 <script src="assets/js/wow.min.js"></script>
@@ -77,8 +87,7 @@
 	new WOW().init();
 </script>
 
-<script>
- 
+<script> 
  $(document).ready(function() {
   $("#toggle").click(function() {
     var elem = $("#toggle").text();

@@ -381,13 +381,22 @@ canvas
 	font-family: 'Muli', sans-serif;
     color:#72a8bc;
 }
-.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+/*nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
     color: #0c84c7;
     cursor: default;
-    background-color: #ffffff00; 
+    background-color: #ffffff; 
     border-left: 0;
     border-right: 0;
     border-bottom: 2px solid #2b8ac0 !important;
+    border-top:none;
+    border-radius: 0;
+}*/
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+    cursor: default;
+    color: #ffffff; 
+    border-left: 0;
+    border-right: 0;
+    background: #2b8ac0 !important;
     border-top:none;
     border-radius: 0;
 }
@@ -396,7 +405,7 @@ canvas
     line-height: 1.42857143;
     border: none; 
     border-radius: 4px 4px 0 0;
-    color: #72a8bc;
+    color: #096db0;
 	padding: 20px 20px;
 }
 
@@ -419,7 +428,7 @@ canvas
     padding-bottom: 25px;
     color:#001e46;
     font-family: 'Muli', sans-serif;
-    font-weight: bold;
+    font-weight: 600;
 }
 
  /*.tab-content .row
@@ -815,7 +824,7 @@ hr {
 }
 
 .footer h1{
-  font-size: 14px;
+  font-size: 15px;
   letter-spacing: 1px;
   text-align:left;
   text-transform: uppercase;
@@ -848,6 +857,30 @@ hr {
     color:#FFFFFF;
     text-decoration:none;
   }
+
+.footer-bottom {
+    border-top: 1px solid #4f6986;
+    margin-top: 20px;
+	padding: 20px 0px 0px 0px;
+    clear: both;
+}
+.footer-bottom .copyright {
+    color: rgba(255,255,255,0.6);
+    font-size: 13px;
+    float: none;
+    line-height: 20px;
+	text-align: left;
+	font-weight: 400;
+}
+@media only screen and (max-width: 768px) {
+.footer-bottom .copyright {
+    text-align: center;
+}
+.footer-bottom .pull-right {
+    float: none!important;
+	margin-top: 10px;
+}
+}
 
 
 /*  XDC Protocol  */
@@ -1166,6 +1199,7 @@ button.btn-outline-default .fa{margin-right:5px;}
 
 /* Exchange listing */
 #xdce {background: #f6f6f6;}
+.exchange-listing .tab-content {padding-top: 60px;}
 .exchange-listing {padding: 50px 0 50px;}
 .exchange-listing .header {color:#096db0!important;padding-bottom: 6px;margin-top: 50px;text-align: left;border-bottom: 1px solid #b9b9b9;font-size:26px;line-height:32px;}
 .exchange-listing .sub-header-border {font-weight:bold;color:#096db0!important;margin-bottom:0px!important;padding-bottom:5px;margin-top:30px;text-align:left;font-size:20px;line-height:26px;}
@@ -1192,7 +1226,7 @@ button.btn-outline-default .fa{margin-right:5px;}
 }
 
 @media (min-width: 768px) and (max-width: 991px) {.exchange-listing .exchange-box {width: 32.5%;}}
-@media (max-width: 767px){.exchange-listing .exchange-box {width: 32.6%;} .setup-masternode-row .nav-tabs>li {float: none;}.setup-masternode-row .nav-tabs>li a{padding: 10px 10px;}}
+@media (max-width: 767px){.exchange-listing .exchange-box {width: 32.6%;}.setup-masternode-row .nav-tabs{display: inline;}.setup-masternode-row .nav-tabs>li {float: none;}.setup-masternode-row .nav-tabs>li a{padding: 10px 10px;margin-right: 0px;}}
 @media (max-width: 481px){
 #homebanner .bannertext h1 {font-size: 20px!important;}
 #homebanner .bannertext p {font-size: 15px!important;margin-top: 0px!important;}
