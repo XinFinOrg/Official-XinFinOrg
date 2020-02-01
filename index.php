@@ -490,7 +490,10 @@ include('inc/header.php') ?>
             </div>
             <div style="margin-top:30px;">
                 <div class="row">
-                    <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                    <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.6s">
+                        <a href="https://finance.yahoo.com/news/xinfin-appoints-copper-institutional-crypto-200004056.html" target="_blank"><img src="assets/images/home/media/yahoofinance-logo.png" alt="Yahoo Finance" class="img-responsive margin-auto-lr"></a>
+                    </div>
+					<div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
                         <a href="https://blockfolio.com/coin/XDCE" target="_blank"><img src="assets/images/home/media/blockfolio-logo.png" alt="Blockfolio" class="img-responsive margin-auto-lr"></a>
                     </div>
 					<div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
