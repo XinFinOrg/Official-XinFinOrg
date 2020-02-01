@@ -491,6 +491,9 @@ include('inc/header.php') ?>
             <div style="margin-top:30px;">
                 <div class="row">
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                        <a href="https://blockfolio.com/coin/XDCE" target="_blank"><img src="assets/images/home/media/blockfolio-logo.png" alt="Blockfolio" class="img-responsive margin-auto-lr"></a>
+                    </div>
+					<div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
                         <a href="https://www.techradar.com/news/have-you-heard-of-the-xinfin-hybrid-blockchain-heres-why-you-should-get-involved" target="_blank"><img src="assets/images/home/media/techradar-logo.png" alt="TechRadar" class="img-responsive margin-auto-lr"></a>
                     </div>
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.6s">
