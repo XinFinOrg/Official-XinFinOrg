@@ -4512,6 +4512,28 @@ code{padding:5px 8px;font-size:15px;color:#002752;background-color:#f6f8fa;borde
 }
 
 
+/*-- Video in Laptop Screen --*/
+div.laptop-wrapper {
+    position: relative;
+    /*padding-top: 25px;
+    padding-bottom: 67.5%;*/
+	padding-top: 25px;
+	padding-bottom: 57.5%;
+    height: 0;
+}
+div.laptop-wrapper iframe {
+    box-sizing: border-box;
+    background: url(../images/laptop.png) center center no-repeat;
+    background-size: contain;
+    padding: 11.9% 15.5% 14.8%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+/*-- Video in Laptop Screen --*/
+
 
 
 
