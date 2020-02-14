@@ -37,9 +37,9 @@ include('inc/header.php') ?>
                                 <p class="link-break-out">Fill the <a href="https://docs.google.com/forms/d/1IaXpCuZE6g4emYxdXLsD5eyBb_8USFrwBtOAXoplBSY" target="_blank">google form</a> to claim your bounty.</p>-->
 
                                 <p class="sub-header mt-0">BUG Bounty</p>
-                                <p>XinFin is happy to release the XinFin Extension Wallet: XinPay</strong></p>
-                                <p>XinFin introduces a Bug Bounty Program for testing XinFin Extension Wallet (XinPay).</p>
-                                <p>Team XinFin welcomes all to test XinPay for any errors, bugs on XinFin TestNet and grab the bounty also provide ideas to enhance eWallet.</p>
+                                <p>XinFin is happy to release a updated android wallet with additional features : XDC Wallet </strong></p>
+                                <p>XinFin introduces a Bug Bounty Program for testing XDC Android Wallet (XDC Wallet).</p>
+                                <p>Team XinFin welcomes all to test XDC Wallet for any errors, bugs and grab the bounty also provide ideas to enhance our XDC Wallet (Android).</p>
 
                                 <p class="sub-header-small mb-2">Program Rules:</p>
                                 <div class="orderList">
