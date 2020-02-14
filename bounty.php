@@ -35,8 +35,47 @@ include('inc/header.php') ?>
                                 <p class="sub-header">Name the e-Wallet Bounty</p>
                                 <p>Community members can suggest a name for the new e-Wallet and the name selected will be rewarded with 50 USD worth XDC.</p>
                                 <p class="link-break-out">Fill the <a href="https://docs.google.com/forms/d/1IaXpCuZE6g4emYxdXLsD5eyBb_8USFrwBtOAXoplBSY" target="_blank">google form</a> to claim your bounty.</p>-->
+								
+								<p class="sub-header mt-0">Android Wallet BUG Bounty</p>								
+								<p>XinFin is happy to release an updated android wallet with additional features: XDC Wallet</p>
+								<p><a href="#"><img class="aligncenter" src="assets/images/android-google-play.png" alt="" width="202" height="60"></a></p>
+								<p>At XinFin, the security of our application is our first priority. As such, we strive to provide the most secure platform possible. We will evaluate reported security issues based on the security impact to our users and the XinFin ecosystem.</p>
+								<p>Team XinFin welcomes all to test XDC Wallet for any errors, bugs and grab the bounty also provide ideas to enhance our XDC Wallet.</p>
+								<p class="sub-header-small mt-3 mb-1">Rewards:</p>
+								<p>Rewards will be paid out in XDC and are based on the Common Vulnerability Scoring Standard.</p>
+                                <div class="flex-row rewards">
+                                    <div class="col-md-3 col-sm-3 col-xs-6 mb-2">
+                                        <div class="rewardBox">
+                                            <h1>Low</h1>
+                                            <p>Upto 50 USD worth XDC</p>
+                                        </div>
+                                    </div>
 
-                                <p class="sub-header mt-0">BUG Bounty</p>
+                                    <div class="col-md-3 col-sm-3 col-xs-6 mb-2">
+                                        <div class="rewardBox">
+                                            <h1>Medium</h1>
+                                            <p>Upto 100 USD worth XDC</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-3 col-sm-3 col-xs-6 mb-2">
+                                        <div class="rewardBox">
+                                            <h1>High</h1>
+                                            <p>Upto 150 USD worth XDC</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-3 col-sm-3 col-xs-6 mb-2">
+                                        <div class="rewardBox">
+                                            <h1>Critical</h1>
+                                            <p>Upto 200 USD worth XDC</p>
+                                        </div>
+                                    </div>
+                                </div>
+								
+								
+
+                                <p class="sub-header">BUG Bounty</p>
                                 <p>XinFin is happy to release the XinFin Extension Wallet: XinPay</strong></p>
                                 <p>XinFin introduces a Bug Bounty Program for testing XinFin Extension Wallet (XinPay).</p>
                                 <p>Team XinFin welcomes all to test XinPay for any errors, bugs on XinFin TestNet and grab the bounty also provide ideas to enhance eWallet.</p>
