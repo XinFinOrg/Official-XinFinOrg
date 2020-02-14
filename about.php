@@ -8,35 +8,37 @@ include('inc/header.php') ?>
 
 <section id="banner" style="background: url('assets/images/xdc-protocol-banner-image2.png') #112b3c;background-repeat: no-repeat;background-position: bottom right;">
 	<div class="container">
-    <div class="row">
-      <div class="bannertext">
-        <h1>About Us</h1>
-        <p>We as an organization are on a mission to improve the overall deficit in the global infrastructure with the help
-          of Blockchain technology. We as a company have revolutionized the concept of peer-to-peer transaction by using
-          community driven digital assets in an open source blockchain platform.
-          <br/>
-          <br/> The core idea behind our initiative is to make the transactions more secure and transparent among the parties
-          involved in a cross-border trade. XinFin, as an organization; believes in establishing an environment that will
-          help businesses to thrive without having to worry about the hassles of the international fund transfer.</p>
-
-        <!--  <div id="scroll"><a href="#about" class="smooth-scroll" ><span class="arrow-bounce">↓</span></a></div> -->
-      </div>
-    </div>
+		<div class="row">      
+			<div class="col-md-12">
+				<div class="bannertext">
+					<h1>About Us</h1>
+					<p>We as an organization are on a mission to improve the overall deficit in the global infrastructure with the help
+					  of Blockchain technology. We as a company have revolutionized the concept of peer-to-peer transaction by using
+					  community driven digital assets in an open source blockchain platform.
+					  <br/>
+					  <br/> The core idea behind our initiative is to make the transactions more secure and transparent among the parties
+					  involved in a cross-border trade. XinFin, as an organization; believes in establishing an environment that will
+					  help businesses to thrive without having to worry about the hassles of the international fund transfer.</p>
+					<!--  <div id="scroll"><a href="#about" class="smooth-scroll" ><span class="arrow-bounce">↓</span></a></div> -->
+			  	</div>
+			</div>
+		</div>
 	</div>
 </section>
 
 
 <section id="about">
-<div class="row about-tab-row">
-	<div class="container">
-		<ul class="nav nav-tabs">
-		  <li class="active">
-			<a data-toggle="tab" href="#xinfin">About Xinfin</a>
-		  </li>
-		  <li>
-			<a data-toggle="tab" href="#team">About the Team</a>
-		  </li>
-		</ul>
+
+<div class="container-fluid">
+	<div class="row">
+		<div class="about-tab-row">
+			<!--<div class="container">-->
+				<ul class="nav nav-tabs">
+					<li class="active"><a data-toggle="tab" href="#xinfin">About Xinfin</a></li>
+				    <li><a data-toggle="tab" href="#team">About the Team</a></li>
+				</ul>
+			<!--<div class="container">-->
+		</div>
 	</div>
 </div>
 

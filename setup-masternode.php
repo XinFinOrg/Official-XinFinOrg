@@ -25,22 +25,25 @@ include('inc/header.php') ?>
 
         <section id="protocol" class="setup-masternode">
             
-			<div class="row setup-masternode-row">
-				<div class="container">
+			<div class="container-fluid">
+			<div class="row">
+			<div class="setup-masternode-row">
+				<!--<div class="container">-->
 					<ul class="nav nav-tabs">
-					    <li><a data-toggle="tab" href="#one-click-installer">One click installer</a></li>
+					    <li class="active"><a data-toggle="tab" href="#one-click-installer">One click installer</a></li>
 						<li><a data-toggle="tab" href="#docker">Docker</a></li>
 						<li><a data-toggle="tab" href="#faqs">FAQ's</a></li>
-						<li class="active"><a data-toggle="tab" href="#about-xinfin-masternode">About XinFin Masternode</a></li>
-
+						<li><a data-toggle="tab" href="#about-xinfin-masternode">About XinFin Masternode</a></li>
 					</ul>
-				</div>
+				<!--<div class="container">-->
+			</div>
+			</div>
 			</div>
 			
 			<div class="container">
                 <div class="tab-content">
                     
-					<div id="about-xinfin-masternode" class="tab-pane fade in active">
+					<div id="about-xinfin-masternode" class="tab-pane fade">
 					<div id="network">
                         <div class="row" style="margin-top:0%;padding-bottom:0px;">						
 						<div class="col-md-12 col-sm-12 col-xs-12">
@@ -140,7 +143,7 @@ include('inc/header.php') ?>
                     </div>
 					</div>					
 					
-					<div id="one-click-installer" class="tab-pane fade">
+					<div id="one-click-installer" class="tab-pane fade in active">
 					<div id="network">
                         <div class="row" style="margin-top:0%;padding-bottom:0px;">
                             <div class="col-md-12 col-sm-12 col-xs-12">
@@ -173,13 +176,20 @@ include('inc/header.php') ?>
                             </div>
 							
 							
-							<div class="col-md-12 mt-5 mb-2">
-							<p class="header small text-center mb-3">Video to Setup Masternode with just one Click</p>
+							<!--<div class="col-md-12 mt-5 mb-2">
+							<p class="header small text-center mb-3">Video to Setup Masternode with just one Click</p>-->
+							<div class="col-md-12 mt-1 mb-0">
+							<p class="header text-center mb-1">Video to Setup Masternode with just one Click</p>
 							<div class="row" style="margin-top:0%;padding-bottom:0px;">								
 								<div class="col-md-8 col-md-offset-2">
-									<div class="embed-responsive embed-responsive-16by9 embed-div mt-2">
+									<!--<div class="embed-responsive embed-responsive-16by9 embed-div mt-2">
 										<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/PCpwoK9A6_A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-									</div>
+									</div>-->
+									
+									<div class="laptop-wrapper">
+										<iframe width="560" height="315" src="https://www.youtube.com/embed/PCpwoK9A6_A" frameborder="0" allowfullscreen=""></iframe>
+								  	</div>
+		  
 								</div>
 							</div>
 							</div>

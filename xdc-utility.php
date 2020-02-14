@@ -47,7 +47,7 @@ include('inc/header.php') ?>
             <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/tradefinex-logo.jpg" alt="tradefinex.org">
             </div>
-            <h3>TradeFinex <span>Livenet Pilot(Beta)</span></h3>
+            <h3>TradeFinex <span>Livenet</span></h3>
             <div class="btn-block mb-1">
             	<a href="https://www.tradefinex.org" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
                 <a href="https://github.com/XinFinOrg/tradefinexlive" target="_blank"><button class="btn-hover color-3"><i class="fa fa-github"></i> Github</button></a>
