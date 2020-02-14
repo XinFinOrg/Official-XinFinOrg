@@ -110,7 +110,7 @@ include('inc/header.php') ?>
                                     <div class="frst-timeline-content-inner box">
                                         <div class="question">
                                             <ul>
-                                                <li><span style="font-weight:700;">Regulated Custodian Integrations and Partnership for ecosystem development and XDC adoption.</span> Exploring partnership with Custodian Copper.Co, Pundix and Fineon Exchange ( fineon.net )</li>
+                                                <li><span style="font-weight:700;">Regulated Custodian Integrations and Partnership for ecosystem development and XDC adoption.</span> Exploring partnership with Custodian Copper.co, Pundix and Fineon Exchange ( fineon.net )</li>
 												<li><span style="font-weight:700;">TradeFinex Round table</span> - Regional Roundtable for Masternode, governance council, and use case presentation. DEMO TradeFinex Network.</li>
                                                 
                                             </ul>
@@ -127,7 +127,7 @@ include('inc/header.php') ?>
                                                     <ul>
                                                       <li class="link-break-out">TradeFinex - Tokenization fees for financial instruments. (20% of the profit)<br />Live Statistics available at <a href="https://www.tradefinex.org/publicv/statistics" target="_blank">https://www.tradefinex.org/publicv/statistics</a></li>
                                                         <li class="link-break-out">Blockdegree.org - Digital Certificates on Blockchain (20% of Profit)<br />Live Statistics available at <a href="https://www.blockdegree.org/statistics" target="_blank">https://www.blockdegree.org/statistics</a></li>
-														<li class="link-break-out">Add More masternode and stake XDC (by way of 10Million Staking)<br />Live Statistics available at <a href="https://explorer.xinfin.network/home" target="_blank">https://explorer.xinfin.network/home</a></li>
+														<li class="link-break-out">Add More Masternode and stake XDC (by way of 10 Million Staking)<br />Live Statistics available at <a href="https://explorer.xinfin.network/home" target="_blank">https://explorer.xinfin.network/home</a></li>
                                                     </ul>
                                                 </li>
                                                 <li><span style="font-weight:700;">Add More Exchange.</span> Talking to tier2 and tier3 Exchange to add XDC mainnet (preferably XDC pair with local Fiat currency like KRW, THB, EUR, etc). Also talking to regulated exchanges to list XDC mainnet chain</li>
