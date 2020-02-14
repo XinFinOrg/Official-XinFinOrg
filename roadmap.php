@@ -99,7 +99,49 @@ include('inc/header.php') ?>
                         <!-- frst-left-align/frst-right-align/frst-alternate/frst-date-opposite/frst-responsive-right-->
                         <div class="frst-timeline frst-timeline-style-1 frst-alternate">
                             <div class="frst-timeline-block frst-timeline-label-block" data-animation="slideInUp">
-                                <div class="frst-labels frst-start-label"> <span>2019</span> </div>
+                                <div class="frst-labels frst-start-label"> <span>2020</span> </div>
+                                <!-- .frst-start-label -->
+                            </div>
+                            <!-- frst-timeline-block -->
+                            <div class="frst-timeline-block frst-even-item" data-animation="slideInUp">
+                                <div class="frst-timeline-img"> <span><i class="fa" aria-hidden="true">Q1</i></span> </div>
+                                <!-- frst-timeline-img -->
+                                <div class="frst-timeline-content">
+                                    <div class="frst-timeline-content-inner box">
+                                        <div class="question">
+                                            <ul>
+                                                <li><span style="font-weight:700;">Regulated Custodian Integrations and Partnership for ecosystem development and XDC adoption.</span> Exploring partnership with Custodian Copper.Co, Pundix and Fineon Exchange ( fineon.net )</li>
+												<li><span style="font-weight:700;">TradeFinex Round table</span> - Regional Roundtable for Masternode, governance council, and use case presentation. DEMO TradeFinex Network.</li>
+                                                
+                                            </ul>
+                                        </div>
+
+                                        <div class="answer">
+                                            <p class="link-break-out">Event update available at <a href="https://events.tradefinex.org/" target="_blank">https://events.tradefinex.org/</a><br />
+                                              Additional to above Regular Meetups for more Adoption of XinFin and TradeFinex Network (online and offline)</>
+											<ul>
+                                                <li><span style="font-weight:700;">New decentralized mobile wallet</span> with additional chain support (ERC20)</li>
+												<li class="link-break-out"><span style="font-weight:700;">GO Live</span> with TradeFinex Network with the live instrument for distribution. Live Statistics available at <a href="https://www.tradefinex.org/publicv/statistics" target="_blank">https://www.tradefinex.org/publicv/statistics</a></li>
+                                                <li><span style="font-weight:700;">Add More XDC Liquidity Depth.</span> By way of a tie-up with the market maker. Exploring the possibility to list XDC coin with the regulated exchange. Talking to 2 market makers from Singapore, one from Hongkong and one from malta.</li>
+                                                <li><span style="font-weight:700;">XDC Staking / Burning Plan</span> (By way Use case/network utility apps )
+                                                    <ul>
+                                                      <li class="link-break-out">TradeFinex - Tokenization fees for financial instruments. (20% of the profit)<br />Live Statistics available at <a href="https://www.tradefinex.org/publicv/statistics" target="_blank">https://www.tradefinex.org/publicv/statistics</a></li>
+                                                        <li class="link-break-out">Blockdegree.org - Digital Certificates on Blockchain (20% of Profit)<br />Live Statistics available at <a href="https://www.blockdegree.org/statistics" target="_blank">https://www.blockdegree.org/statistics</a></li>
+														<li class="link-break-out">Add More masternode and stake XDC (by way of 10Million Staking)<br />Live Statistics available at <a href="https://explorer.xinfin.network/home" target="_blank">https://explorer.xinfin.network/home</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li><span style="font-weight:700;">Add More Exchange.</span> Talking to tier2 and tier3 Exchange to add XDC mainnet (preferably XDC pair with local Fiat currency like KRW, THB, EUR, etc). Also talking to regulated exchanges to list XDC mainnet chain</li>
+												<li><span style="font-weight:700;">When Exchange like Binance, OKex, Liquid, Huobi?</span><br />All Tier1 exchange List token based on community demand, Adoption/use case and based on the current market daily liquidity depth so XinFin Focusing on getting more adoption and liquidity depth to avoid price manipulation by the whales. XinFin also Focusing more to get Local Fiat pairs against XDC to get more liquidity for the TradeFinex use case</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <!-- frst-timeline-content-inner -->
+                                </div>
+                                <!-- frst-timeline-content -->
+                            </div>
+							
+							<div class="frst-timeline-block frst-timeline-label-block" data-animation="slideInUp">
+                                <div class="frst-labels frst-labels"> <span>2019</span> </div>
                                 <!-- .frst-start-label -->
                             </div>
                             <!-- frst-timeline-block -->
@@ -109,7 +151,7 @@ include('inc/header.php') ?>
                                 <div class="frst-timeline-content">
                                     <div class="frst-timeline-content-inner box">
                                         <!--<h2>Heading</h2> <span class="frst-date">08, October</span>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>-->
+                            			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>-->
                                         <div class="question">
                                             <ul>
                                                 <li>50-200 masternode Setup with 10M staking each (Subject to speed of adoption)</li>

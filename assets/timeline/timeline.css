@@ -243,9 +243,17 @@ html *{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}*,:a
 	margin-left: 17px;
 }
 .frst-timeline-style-1 .frst-timeline-content-inner ul li {
-	padding-bottom: 5px;
+	padding-bottom: 7px;
 }
 
+.frst-timeline-style-1 .frst-timeline-content-inner p {
+	font-size: 14px;
+	line-height: 18px;
+	margin: 0;
+    padding: 0;
+	margin-left: 17px;
+	padding-bottom: 7px;
+}
 
 
 /*---------- Responsive part ------------*/
