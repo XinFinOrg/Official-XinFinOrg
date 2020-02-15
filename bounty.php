@@ -41,6 +41,8 @@ include('inc/header.php') ?>
 								<p><a href="https://play.google.com/apps/testing/com.xdcwallet"><img class="aligncenter" src="assets/images/android-google-play.png" alt="" width="202" height="60"></a></p>
 								<p>At XinFin, the security of our application is our first priority. As such, we strive to provide the most secure platform possible. We will evaluate reported security issues based on the security impact to our users and the XinFin ecosystem.</p>
 								<p>Team XinFin welcomes all to test XDC Wallet for any errors, bugs and grab the bounty also provide ideas to enhance our XDC Wallet.</p>
+				    <p> <a href ="https://support.google.com/websearch/answer/6307673?hl=en" target="_blank">Steps to Become a Beta Tester for Google Play Apps </a></p>
+
 								<p class="sub-header-small mt-3 mb-1">Rewards:</p>
 								<p>Rewards will be paid out in XDC and are based on the Common Vulnerability Scoring Standard.</p>
                                 <div class="flex-row rewards">
