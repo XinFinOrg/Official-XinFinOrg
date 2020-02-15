@@ -36,9 +36,9 @@ include('inc/header.php') ?>
                                 <p>Community members can suggest a name for the new e-Wallet and the name selected will be rewarded with 50 USD worth XDC.</p>
                                 <p class="link-break-out">Fill the <a href="https://docs.google.com/forms/d/1IaXpCuZE6g4emYxdXLsD5eyBb_8USFrwBtOAXoplBSY" target="_blank">google form</a> to claim your bounty.</p>-->
 								
-								<p class="sub-header mt-0">Android Wallet BUG Bounty</p>								
+								<p class="sub-header mt-0">XinFin Android Wallet BUG Bounty</p>								
 								<p>XinFin is happy to release an updated android wallet with additional features: XDC Wallet</p>
-								<p><a href="#"><img class="aligncenter" src="assets/images/android-google-play.png" alt="" width="202" height="60"></a></p>
+								<p><a href="https://play.google.com/apps/testing/com.xdcwallet"><img class="aligncenter" src="assets/images/android-google-play.png" alt="" width="202" height="60"></a></p>
 								<p>At XinFin, the security of our application is our first priority. As such, we strive to provide the most secure platform possible. We will evaluate reported security issues based on the security impact to our users and the XinFin ecosystem.</p>
 								<p>Team XinFin welcomes all to test XDC Wallet for any errors, bugs and grab the bounty also provide ideas to enhance our XDC Wallet.</p>
 								<p class="sub-header-small mt-3 mb-1">Rewards:</p>
