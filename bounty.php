@@ -38,7 +38,7 @@ include('inc/header.php') ?>
 								
 								<p class="sub-header mt-0">XinFin Android Wallet BUG Bounty</p>								
 								<p>XinFin is happy to release an updated android wallet with additional features: XDC Wallet</p>
-								<p><a href="https://play.google.com/apps/testing/com.xdcwallet"><img class="aligncenter" src="assets/images/android-google-play.png" alt="" width="202" height="60"></a></p>
+								<p><a href="https://play.google.com/apps/testing/com.xdcwallet" target="_blank"><img class="aligncenter" src="assets/images/android-google-play.png" alt="" width="202" height="60"></a></p>
 								<p>At XinFin, the security of our application is our first priority. As such, we strive to provide the most secure platform possible. We will evaluate reported security issues based on the security impact to our users and the XinFin ecosystem.</p>
 								<p>Team XinFin welcomes all to test XDC Wallet for any errors, bugs and grab the bounty also provide ideas to enhance our XDC Wallet.</p>
 				    <p> <a href ="https://support.google.com/websearch/answer/6307673?hl=en" target="_blank">Steps to Become a Beta Tester for Google Play Apps </a></p>
