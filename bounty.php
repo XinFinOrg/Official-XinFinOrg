@@ -76,7 +76,7 @@ include('inc/header.php') ?>
                                     </div>
                                 </div>
 				<p>Fill the <a href="https://docs.google.com/forms/d/1api3woqg6oY4Lk7sRL2fnaBj8etfB-XF6fZNKLU6zFo" target="_blank">google form</a> to claim your bounty.</p>
-                                <p>Above bounties ends on <strong>31 December 2020</strong>.</p>
+                                <p>Above bounties ends on <strong>22 february 2020</strong>.</p>
 								
 								
 
