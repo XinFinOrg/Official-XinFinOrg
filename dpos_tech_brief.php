@@ -8,8 +8,7 @@ include('inc/header.php') ?>
 	<div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12 bannertext">
-                <h1>XinFin DPoS Consensus: XDPoS</h1>
-                <p>XinFin DPoS-Consensus! We Invite Technical Community to Contribute towards the Enhancement of <strong>XDPoS Consensus</strong><br/><br/><br/><br/></p> 
+                <h1>XinFin XDPoS Consensus: </h1>   
             </div>    
         </div>
     </div>
@@ -22,6 +21,11 @@ include('inc/header.php') ?>
             <div id="network" class="tab-pane fade in active">
                 <div class="row" style="margin-top:0%;padding-bottom:0px;">
                     <div class="col-md-12 col-sm-12 col-xs-12">
+
+                       <hi>What is XinFin XDPoS ?</h1>
+                       <p> XinFin XDpoS is an innovative solution to the scalability problem of the Ethereum blockchain, and other current blockchain platforms. XinFin XDPoS relies on a system of 108 Masternodes with Proof of Stake Voting (POSV) consensus that can support low transaction fees and 2-second transaction confirmation times. Security, stability and chain finality are guaranteed via novel techniques such as double validation, staking via smart-contracts and true randomization processes.</p>
+                       <p>XinFin XDPoS supports all EVM-compatible smart-contracts, protocols, and atomic cross-chain token transfers. New scaling techniques such as sharding, EVM parallelisation, private-chain generation, hardware integration will be continuously researched and incorporated into XinFin XDPoS's Masternode architecture. It will be an ideal scalable smart-contract public blockchain for decentralized apps, token issuances and token integrations for small and big businesses.</p> 
+
                         <h1>XinFin Delegated Proof of Stake (XDPOS) Consensus</h1>
                         <p><strong>Self KYC compliant XinFin Delegated Proof of Stake (XDPoS) Consensus on XDC Blockchain</strong></p>
                         <p>XinFin Delegated Proof of Stake (XDPoS) is the fastest, efficient, decentralized, and flexible consensus model available. XDPoS leverages the power of stakeholder consensus issues in a fair and democratic way. <strong>Self KYC</strong> feature adds more enterpise usecases and regulator friendliness to the Public network.</p>
