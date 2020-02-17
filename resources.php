@@ -86,7 +86,7 @@ include('inc/header.php') ?>
       <a href="media-room.php"><button class="btn-hover color-3 mb-1">Media Room</button></a>
       
       <p class="header mb-2">Roadmap</p>
-      <p>The journey so far, milestones achieved and the roadmap for the year 2019.</p>
+      <p>The journey so far, milestones achieved and the roadmap for the year 2020.</p>
       <a href="roadmap.php"><button class="btn-hover color-1 mb-1">Roadmap</button></a>
       
       <p class="header mb-2">Developer Portal</p>
