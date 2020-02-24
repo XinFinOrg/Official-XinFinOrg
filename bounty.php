@@ -36,12 +36,38 @@ include('inc/header.php') ?>
                                 <p>Community members can suggest a name for the new e-Wallet and the name selected will be rewarded with 50 USD worth XDC.</p>
                                 <p class="link-break-out">Fill the <a href="https://docs.google.com/forms/d/1IaXpCuZE6g4emYxdXLsD5eyBb_8USFrwBtOAXoplBSY" target="_blank">google form</a> to claim your bounty.</p>-->
 								
-								<p class="sub-header mt-0">XinFin Android Wallet BUG Bounty</p>								
+								<p class="sub-header mt-0">XinFin Android Wallet Welcome Bonus and BUG Bounty</p>								
 								<p>XinFin is happy to release an updated android wallet with additional features: XDC Wallet</p>
-				    				<p> <a href ="https://support.google.com/websearch/answer/6307673?hl=en" target="_blank">Steps to Become a Beta Tester for Google Play Apps </a></p>
-								<p><a href="https://play.google.com/apps/testing/com.xdcwallet" target="_blank"><img class="aligncenter" src="assets/images/android-google-play.png" alt="" width="202" height="60"></a></p>
+				    		
+								<p><a href="https://play.google.com/store/apps/details?id=com.xdcwallet" target="_blank"><img class="aligncenter" src="assets/images/android-google-play.png" alt="" width="202" height="60"></a></p>
 								<p>At XinFin, the security of our application is our first priority. As such, we strive to provide the most secure platform possible. We will evaluate reported security issues based on the security impact to our users and the XinFin ecosystem.</p>
-								<p>Team XinFin welcomes all to test XDC Wallet for any errors, bugs and grab the bounty also provide ideas to enhance our XDC Wallet.</p>
+                <p>Team XinFin welcomes</p>
+              	<p class="sub-header-small mt-3 mb-1">Welcome Bonus:</p>
+								<p>Rewards will be paid out in XDC as a Welcome Bonus.</p>
+                                <div class="flex-row rewards">
+                                    <div class="col-md-3 col-sm-3 col-xs-6 mb-2">
+                                        <div class="rewardBox">
+                                            <h1>Bonus</h1>
+                                            <p>Upto 10 USD worth XDC</p>
+                                        </div>
+                                    </div>
+</div>
+               <p class="sub-header-small mb-2">Note:</p>
+                                <div class="orderList">
+                                    <ol>
+                                        <li>This form is for the new users, downloading the new Andriod App.</li>
+                                        <li>The user will receive upto 10$ worth XDC per download of the Andriod App for the first 1000 users.</li>
+                                        <li>The team will reject the form submission if the same user tries to submit multiple forms.</li>
+                                    </ol>
+                                    <p>Fill the <a href="https://docs.google.com/forms/d/1GtP77QWpB9bYZKoxmRMXjzbus0Duq1DAyhQXR87BPSs/" target="_blank">google form</a> to claim your bounty.</p>
+                                </div>
+                                                 
+               <div> <p> </p></div>
+              
+              
+                <p class="sub-header-small mb-2">Andriod Wallet Bug Bounty:</p>
+                <p> <a href ="https://support.google.com/websearch/answer/6307673?hl=en" target="_blank">Steps to Become a Beta Tester for Google Play Apps </a></p>
+                <p>Team XinFin welcomes all to test XDC Wallet for any errors, bugs and grab the bounty also provide ideas to enhance our XDC Wallet.</p>
 				    
 
 								<p class="sub-header-small mt-3 mb-1">Rewards:</p>
@@ -76,7 +102,7 @@ include('inc/header.php') ?>
                                     </div>
                                 </div>
 				<p>Fill the <a href="https://docs.google.com/forms/d/1api3woqg6oY4Lk7sRL2fnaBj8etfB-XF6fZNKLU6zFo" target="_blank">google form</a> to claim your bounty.</p>
-                                <p>Above bounties ends on <strong>22 february 2020</strong>.</p>
+                                <p>Above bounties ends on <strong>30 May 2020</strong>.</p>
 								
 								
 
