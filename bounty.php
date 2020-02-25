@@ -55,11 +55,12 @@ include('inc/header.php') ?>
                <p class="sub-header-small mb-2">Note:</p>
                                 <div class="orderList">
                                     <ol>
-                                        <li>This form is for the new users, downloading the new Andriod App.</li>
+                                        <li>This bonus is for the new users, downloading the new Andriod App.</li>
                                         <li>The user will receive upto 10$ worth XDC per download of the Andriod App for the first 1000 users.</li>
-                                        <li>The team will reject the form submission if the same user tries to submit multiple forms.</li>
+                                        <li>Review and Rate the app on Google Play store.</li>
+                                        <li>The team will reject the form, if same user tries to submit multiple forms.</li>
                                     </ol>
-                                    <p>Fill the <a href="https://docs.google.com/forms/d/1GtP77QWpB9bYZKoxmRMXjzbus0Duq1DAyhQXR87BPSs/" target="_blank">google form</a> to claim your bounty.</p>
+                                    <p>Fill the <a href="https://docs.google.com/forms/d/1GtP77QWpB9bYZKoxmRMXjzbus0Duq1DAyhQXR87BPSs/" target="_blank">google form</a> to claim your Welcome Bonus.</p>
                                 </div>
                                                  
                <div> <p> </p></div>
@@ -102,7 +103,7 @@ include('inc/header.php') ?>
                                     </div>
                                 </div>
 				<p>Fill the <a href="https://docs.google.com/forms/d/1api3woqg6oY4Lk7sRL2fnaBj8etfB-XF6fZNKLU6zFo" target="_blank">google form</a> to claim your bounty.</p>
-                                <p>Above bounties ends on <strong>30 May 2020</strong>.</p>
+                                <p>Above bounties ends on <strong>30 Mayg 2020</strong>.</p>
 								
 								
 
