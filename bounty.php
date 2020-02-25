@@ -57,7 +57,7 @@ include('inc/header.php') ?>
                                     <ol>
                                         <li>This bonus is for the new users, downloading the new Andriod App.</li>
                                         <li>The user will receive upto 10$ worth XDC per download of the Andriod App for the first 1000 users.</li>
-                                        <li>Review and Rate the app on Google Play store.</li>
+                                        <li>Review and Rate the <a href="https://play.google.com/store/apps/details?id=com.xdcwallet" target="_blank">XDC Wallet</a> on Google Play store.</li>
                                         <li>The team will reject the form, if same user tries to submit multiple forms.</li>
                                     </ol>
                                     <p>Fill the <a href="https://docs.google.com/forms/d/1GtP77QWpB9bYZKoxmRMXjzbus0Duq1DAyhQXR87BPSs/" target="_blank">google form</a> to claim your Welcome Bonus.</p>
