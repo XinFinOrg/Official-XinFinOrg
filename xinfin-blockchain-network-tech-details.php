@@ -117,7 +117,7 @@ include('inc/header.php') ?>
                                 </a>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-6 mt-3 mb-1">
-                                <a href="https://xinfin.org/exchange-listing-resource.php" target="_blank">
+                                <a href="https://xinfin.org/exchange-listing-resource.php">
                                     <div class="configurationsBox bordered">
                                         <h5 class="heading">Integration Code</h5>
                                         <p class="link-break-out">Example: https://xinfin.org/exchange-listing-resource.php</p>
