@@ -168,11 +168,11 @@ include('inc/header.php') ?>
 				<ul style="margin-left:30px;">
 					<li><code>from - String|Number</code> : The address for the sending account. Uses the web3.eth.defaultAccount property, if not specified. Or an address or index of a local wallet in web3.eth.accounts.wallet.</li>
 					<li><code>to - String</code> : (optional) The destination address of the message, left undefined for a contract-creation transaction.</li>
-					<li><code>value - Number|String|BN|BigNumber</code> : (optional) The value transferred for the transaction in wei, also the endowment if it’s a contract-creation transaction.</li>
+					<li><code>value - Number|String|BN|BigNumber</code> : (optional) The value transferred for the transaction in wei, also the endowment if it's a contract-creation transaction.</li>
 					<li><code>gas - Number</code> : (optional, default: To-Be-Determined) The amount of gas to use for the transaction (unused gas is refunded).</li>
 					<li><code>gasPrice - Number|String|BN|BigNumber</code> : (optional) The price of gas for this transaction in wei, defaults to web3.eth.gasPrice.</li>
 					<li><code>data - String</code> : (optional) Either a ABI byte string containing the data of the function call on a contract, or in the case of a contract-creation transaction the initialisation code.</li>
-					<li><code>nonce - Number</code> : (optional) Integer of a nonce. This allows to overwrite your own pending transactions that use the same nonce.</li>					
+					<li><code>nonce - Number</code> : (optional) Integer of a nonce. This allows to overwrite your own pending transactions that use the same nonce.</li>	
 				</ul>
 				<p>2. <code>callback - Function</code> : (optional) Optional callback, returns an error object as first parameter and the result as second.</p>
 				
