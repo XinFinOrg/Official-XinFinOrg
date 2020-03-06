@@ -182,7 +182,7 @@
       <nav class="navbar navbar-inverse navbar-fixed-top navbar-expand-md navbar-light bg-light">
         <div class="container">
           <div class="navbar-header">
-            <a class="navbar-brand" href="index">
+            <a class="navbar-brand" href="https://xinfin.org/">
               <img src="assets/images/logo-white.png" class="logo-white img-responsive" width="60">
               <img src="assets/images/logo-dark.png" class="logo-sticky img-responsive " width="60">
             </a>

@@ -1191,6 +1191,7 @@ button.btn-outline-default .fa{margin-right:5px;}
 .tab-content #faqs .answer {padding-left: 22px;}
 
 .setup-masternode .configurationsBox{background:#FFFFFF;border-radius:5px;padding:20px;height:100%;-webkit-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);-moz-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);}
+.setup-masternode .configurationsBox:hover {-webkit-box-shadow: 0px 5px 15px 0px rgba(72, 117, 178, 0.25);-moz-box-shadow: 0px 5px 15px 0px rgba(72, 117, 178, 0.25);box-shadow: 0px 5px 15px 0px rgba(72, 117, 178, 0.25);}
 .setup-masternode .configurationsBox img{}
 .setup-masternode .configurationsBox .icon-single{max-width:100px;display:block;margin:auto;}
 /*.setup-masternode .configurationsBox h1{font-size:20px;text-align:center;text-transform:none;margin-top:30px;margin-bottom:0px;}*/
