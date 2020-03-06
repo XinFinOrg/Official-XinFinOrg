@@ -7,12 +7,12 @@
                 <h1>About XinFin</h1>
                 <!--<p><span>About XinFin</span><br/>-->
                 <p>
-                <a href="about.php">About Community</a><br/>
-                <a href="xinfin-consensus.php">Public DPoS Consensus</a><br/>
-				<a href="resources.php">Resource Guide</a><br/>
+                <a href="about">About Community</a><br/>
+                <a href="xinfin-consensus">Public DPoS Consensus</a><br/>
+				<a href="resources">Resource Guide</a><br/>
                 <a href="http://xinfin.network/" target="_blank">XinFin Network Status</a><br/>
                 <!--<a href="https://howto.xinfin.org/">Developer Portal</a><br/>-->
-				<a href="exchange-listing-resource.php">Exchange Listing Resource</a><br />
+				<a href="exchange-listing-resource">Exchange Listing Resource</a><br />
 				<a href="https://github.com/XinFinOrg/Open-Hackathon" target="_blank">Online Hackathon</a>
                 </p>
 			</div>
@@ -21,13 +21,13 @@
                 <h1>More..</h1>
                 <!--<p><span>More..</span><br/>-->
                 <p>
-				<a href="setup-masternode.php">Setup MasterNode</a><br/>
+				<a href="setup-masternode">Setup MasterNode</a><br/>
                 <!--<a href="faq.php">Read FAQ</a><br/>-->
-                <a href="xdc-utility.php">XDC/XDCe Utility</a><br/>
+                <a href="xdc-utility">XDC/XDCe Utility</a><br/>
                 <a href="https://howto.xinfin.org/general/faq/" target="_blank">Read FAQ</a><br/>
-                <a href="bounty.php">Community Bounty Program</a><br/>    
+                <a href="bounty">Community Bounty Program</a><br/>    
 				<!--<a href="https://github.com/XinFinorg">Source Code on GitHub</a><br/>-->
-				<a href="download.php">Download Logo</a><br/>               
+				<a href="download">Download Logo</a><br/>               
                 <a href="https://xinfin.io">XDC/XDCE Exchange List</a>
                 </p>
              </div>		
@@ -37,12 +37,12 @@
                 <p>
                 <a href="https://apidocs.xinfin.network/docs/#xinfin-apis" target="_blank">XinFin API</a><br/>
 				<a href="https://apidocs.xinfin.network/" target="_blank">Swagger API</a><br/>
-				<a href="compliance.php">Compliance</a><br/>
+				<a href="compliance">Compliance</a><br/>
 				<a href="https://howto.xinfin.org/media/articles/" target="_blank">Media</a><br/>
                 <!--<a href="privacy.php">Privacy Policy</a><br/>
 				<a href="disclaimer.php">Disclaimer</a><br/>-->
-				<a href="contactus.php">Press Inquiry</a><br/>	
-				<a href="contactus.php">Contact XinFin</a>
+				<a href="contactus">Press Inquiry</a><br/>	
+				<a href="contactus">Contact XinFin</a>
                 </p>
 			</div>
 			
@@ -73,7 +73,7 @@
                         <div class="copyright">Copyright &copy; <script>document.write(new Date().getFullYear())</script> XinFin Network. All rights reserved.</div>
                     </div>
                     <div class="col-md-5 col-sm-5">
-                        <div class="copyright pull-right"><a href="privacy.php">Privacy Policy</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="disclaimer.php">Disclaimer</a></div>
+                        <div class="copyright pull-right"><a href="privacy">Privacy Policy</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="disclaimer">Disclaimer</a></div>
                     </div>
                 </div>
             </div>
