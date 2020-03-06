@@ -65,41 +65,45 @@ include('inc/header.php') ?>
       <p class="header mb-2">XDCe Explorer (ERC20)</p>
       <p>XDCe Explorer gives you a summary of total supply, price, holders and transfers of the XDCE token. The ERC-20 Token Tracker also allows you to look at recent XinFin XDCE Token transactions.</p>
       <a href="https://etherscan.io/token/0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2?a=" target="_blank"><button class="btn-hover color-3 mb-1">XDCe Explorer (ERC20)</button></a>
+	  
+	  <p class="header mb-2">XDC Mainnet Chain Integration Document</p>
+      <p>Details required to Integrate XinFin-XDC (MainNet Chain).</p>
+      <a href="xdc-mainnet-chain-integration-document.php" target="_blank"><button class="btn-hover color-1 mb-1">XDC Mainnet Chain Integration Document</button></a>
       
       <p class="header mb-2">Community Forum</p>
       <p>Managed by our active community members, the XinFin Community Forum will bring you the latest updates, developments and answers to your questions in a proper documented form.</p>
-      <a href="http://xinfin.net/" target="_blank"><button class="btn-hover color-1 mb-1">Community Forum</button></a>
+      <a href="http://xinfin.net/" target="_blank"><button class="btn-hover color-3 mb-1">Community Forum</button></a>
       
       <p class="header mb-2">Community Bounty Program</p>
       <p>The XinFin Community Bounty Program invites developers and all bug bounty hunters to build DPoS Consensus.</p>
-      <a href="bounty.php"><button class="btn-hover color-3 mb-1">Community Bounty Program</button></a>
+      <a href="bounty.php"><button class="btn-hover color-1 mb-1">Community Bounty Program</button></a>
       
       <p class="header mb-2">Wallet Support</p>
       <p>Wallet Support gives you a quick overview of which exchanges XDCE is live-trading on and which wallet partners support XDCE.</p>
       <p>For Wallet Support needed, you can reach out to us at <a href="mailto:support@xinfin.io">support@xinfin.io</a></p>
-      <a href="https://XinFin.io/" target="_blank"><button class="btn-hover color-1 mb-1">Wallet Support</button></a>
+      <a href="https://XinFin.io/" target="_blank"><button class="btn-hover color-3 mb-1">Wallet Support</button></a>
       
       <p class="header mb-2">Media Room</p>
       <p>This section is where you can find updates  on the different announcements made by XinFin. The section will publish all Press Releases and  recent developments along with plans for future innovation.</p>
       <p>Apart from the Press Releases, you can also find out more about events XinFin has both participated and hosted. Any news (digital or otherwise) featuring XinFin will be published in this section.</p>
       <p>It will also inform you regarding any change in the overall structure of the organization and any changes in the current management team.</p>
-      <a href="media-room.php"><button class="btn-hover color-3 mb-1">Media Room</button></a>
+      <a href="media-room.php"><button class="btn-hover color-1 mb-1">Media Room</button></a>
       
       <p class="header mb-2">Roadmap</p>
       <p>The journey so far, milestones achieved and the roadmap for the year 2020.</p>
-      <a href="roadmap.php"><button class="btn-hover color-1 mb-1">Roadmap</button></a>
+      <a href="roadmap.php"><button class="btn-hover color-3 mb-1">Roadmap</button></a>
       
       <p class="header mb-2">Developer Portal</p>
       <p>Get acclamated with of the fundamentals of XDC, API reference, install and run your own programs on XinFin's Hybrid Blockchain. You can also view FAQ's. The Developer Portal is a one stop shop for all developer related guides and references. We invite developers to join our dev community.</p>
-      <a href="https://howto.xinfin.org/"><button class="btn-hover color-3 mb-1">Developer Portal</button></a>
+      <a href="https://howto.xinfin.org/"><button class="btn-hover color-1 mb-1">Developer Portal</button></a>
       
       <p class="header mb-2">Exchange Listing Resource</p>
       <p>This section provides you with details required to list the XDCE token on exchanges.</p>
-      <a href="exchange-listing-resource.php"><button class="btn-hover color-1 mb-1">Exchange Listing Resource</button></a>
+      <a href="exchange-listing-resource.php"><button class="btn-hover color-3 mb-1">Exchange Listing Resource</button></a>
       
       <p class="header mb-2">Governance Member</p>
       <p>This section provides you with details required to become a Governance Member for XinFin.Network</p>
-      <a href="governance-member.php"><button class="btn-hover color-3 mb-1">Governance Member</button></a>
+      <a href="governance-member.php"><button class="btn-hover color-1 mb-1">Governance Member</button></a>
  	</div>
     
   </div>

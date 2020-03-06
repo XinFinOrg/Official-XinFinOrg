@@ -8,8 +8,8 @@ include('inc/header.php') ?>
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12 bannertext">
-                    <h1>Details required to Integrate XinFin-XDC (MainNet Chain)</h1>
-                    <p>We are fork out of go-ethereum hence the implementation of XinFin Network using XDC3 (Clone of Web3 API)
+                    <h1>XDC Mainnet Chain Integration Document</h1>
+                    <p>Details required to Integrate XinFin-XDC (MainNet Chain)
                         <br/>
                         <br/>
                         <br/>
@@ -117,7 +117,7 @@ include('inc/header.php') ?>
                                 </a>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-6 mt-3 mb-1">
-                                <a href="https://xinfin.org/exchange-listing-resource.php">
+                                <a href="exchange-listing-resource.php">
                                     <div class="configurationsBox bordered">
                                         <h5 class="heading">Integration Code</h5>
                                         <p class="link-break-out">Example: https://xinfin.org/exchange-listing-resource.php</p>
@@ -198,7 +198,7 @@ include('inc/header.php') ?>
                                 <p class="mb-1 link-break-out">Slack Community: <a href="https://xinfin-public.slack.com/messages/CELR2M831/" target="_blank">https://xinfin-public.slack.com/messages/CELR2M831/</a></p>
                                 <p class="mb-1 link-break-out">Slack Invitation Link: <a href="https://launchpass.com/xinfin-public" target="_blank">https://launchpass.com/xinfin-public</a></p>
                                 <p class="mb-1 link-break-out">Technical help Resource: <a href="http://howto.xinfin.org/" target="_blank">http://howto.xinfin.org/</a></p>
-                                <p class="link-break-out">Feel free to <a href="https://xinfin.org/contactus.php">Contact us</a> for any of your queries.</p>
+                                <p class="link-break-out">Feel free to <a href="contactus.php">Contact us</a> for any of your queries.</p>
                             </div>
 
                         </div>

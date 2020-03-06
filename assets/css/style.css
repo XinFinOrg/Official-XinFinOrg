@@ -1253,9 +1253,9 @@ button.btn-outline-default .fa{margin-right:5px;}
 .xinfin-network-content{float:left;width:54%;border: 0px solid #000;text-align:left;padding:10px 25px;line-height:25px;}
 
 .exchange-listing .content-box {padding-right:50px;}
-.exchange-listing .content-box.cb-alt {padding-left:50px;}
-.exchange-listing .content-box h1 {text-align:left;font-size: 26px;color: #112b3c;line-height: 30px;margin: 0px;}
-.exchange-listing .content-box p {text-align:left;line-height: 20px;}
+.exchange-listing .content-box.cb-alt {padding-left:50px;padding-right: 0px;}
+.exchange-listing .content-box h1 {text-align:left;font-size: 26px;color: #112b3c;line-height: 30px;margin: 0px;padding-bottom: 15px;}
+.exchange-listing .content-box p {text-align:left;line-height: 22px;}
 .exchange-listing .sectionHeading h1 {color: #00244e;font-size: 30px;font-family: 'Muli', sans-serif;margin-top: 0px;margin-bottom:0px;text-align:center;}
 .exchange-listing .sectionHeading p {text-align:center;}
 .exchange-listing .subTitle {font-size: 20px;line-height:24px!important;}
@@ -1268,7 +1268,7 @@ button.btn-outline-default .fa{margin-right:5px;}
 .exchange-listing .configurationsBox p a {font-size:14px;font-weight:600;}
 .exchange-listing .configurationsBox p:last-child {margin-bottom:0px!important;}
 .exchange-listing .configurationsBox h5.heading {font-size:22px;color:#696969;font-weight:600;margin-top:0px;}
-.exchange-listing .img-shadow {box-shadow: 0px 6px 6px 2px rgba(0,0,0,0.1);}
+.exchange-listing .img-shadow {box-shadow: 0px 6px 6px 2px rgba(0,0,0,0.1);   margin-left: auto!important;margin-right: auto!important;display: block!important;}
 @media screen and (max-width: 991px) {.exchange-listing .content-box {padding-right:0px;margin-bottom: 35px;}.exchange-listing .content-box.cb-alt{padding-left:0px;}.exchange-listing .video-frame {margin-bottom: 30px;}}
 
 /* Exchange listing */
