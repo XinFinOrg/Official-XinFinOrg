@@ -182,7 +182,7 @@
       <nav class="navbar navbar-inverse navbar-fixed-top navbar-expand-md navbar-light bg-light">
         <div class="container">
           <div class="navbar-header">
-            <a class="navbar-brand" href="index.php">
+            <a class="navbar-brand" href="index">
               <img src="assets/images/logo-white.png" class="logo-white img-responsive" width="60">
               <img src="assets/images/logo-dark.png" class="logo-sticky img-responsive " width="60">
             </a>
@@ -199,20 +199,20 @@
           <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="main-menu cf nav navbar-nav navbar-right">
               <li class="nav-item">
-                <a href="index.php">Home</a>
+                <a href="index">Home</a>
               </li>
               <!--<li class="nav-item"><a href="works.php">How it works</a></li> -->
               <li class="nav-item">
                 <a href="http://xinfin.network/" target="_blank">XDC Network</a>
               </li>
               <li class="nav-item">
-                <a href="xdc-utility.php">XDC/XDCE Utility</a>
+                <a href="xdc-utility">XDC/XDCE Utility</a>
               </li>
               <li class="nav-item">
                 <a href="https://howto.xinfin.org/">Developer Portal</a>
               </li>              
               <li class="nav-item">
-                <a href="resources.php">Resource</a>
+                <a href="resources">Resource</a>
               </li>
               <li class="nav-item">
                 <a href="https://howto.xinfin.org/" target="_blank">Get Started</a>

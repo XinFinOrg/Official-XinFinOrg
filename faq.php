@@ -573,7 +573,7 @@ The XDC ecosystem will provide easily accessible light wallets that will connect
                         <li>
                             <h3>● Team Profiles</h3>
                             <div>
-                                <p>XinFin is a growing community, committed to evolve it's blockchain into a solution along with establishing an application layer to enable global trade and financing. We at XinFin ensure that our community consists of members with high integrity and ethical standards. Details of our management team and community members can be found on our website <a href="about.php"target="_blank">http://www.xinfin.org/about-the-team/</a></p>
+                                <p>XinFin is a growing community, committed to evolve it's blockchain into a solution along with establishing an application layer to enable global trade and financing. We at XinFin ensure that our community consists of members with high integrity and ethical standards. Details of our management team and community members can be found on our website <a href="about"target="_blank">http://www.xinfin.org/about-the-team/</a></p>
                             </div>
                         </li>
                         <li>

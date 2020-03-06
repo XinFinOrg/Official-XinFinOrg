@@ -31,7 +31,7 @@ include('inc/header.php') ?>
                             <p>XinFin Network is a hybrid trust+trustless network between participants. The network itself operates with randomized consensus between masternodes. With approx 500+ masternodes, the network is fairly decentralized and can work with characteristics of a trustless network.</p>
                             <p>However, XinFin Network is also designed to be a trusted network with its key participants that can participate in Governance as well as compliance of the network.</p>
                             <p><strong>Council Nodes:</strong> (Invitation for limited members.)</p>
-                            <p>A Council Node needs to run a masternode - 10M XDC : <a href="setup-masternode.php">How to Setup Masternode</a>.</p>
+                            <p>A Council Node needs to run a masternode - 10M XDC : <a href="setup-masternode">How to Setup Masternode</a>.</p>
                             <p>A Council Node also needs to stake 90M XDC other than the masternode. (Locked for 1 year)</p>
                             
                             <p class="mb-1"><strong>Responsibilities:</strong></p>
@@ -50,7 +50,7 @@ include('inc/header.php') ?>
                                 <li>The rewards will reduce after every year</li>
                                 <li>Participate in future Roadmap</li>
                             </ul>
-                            <a href="contactus.php">
+                            <a href="contactus">
                                 <button class="btn-hover color-1">Become a Member</button>
                             </a>
                         </div>

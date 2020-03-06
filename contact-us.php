@@ -25,12 +25,12 @@
     <nav class="navbar navbar-inverse">
   <div class="container">
     <div class="navbar-header">
-      <a class="navbar-brand" href="contact-us.php"><img src="assets/images/logo.png" class="img-responsive" width="60"></a>
+      <a class="navbar-brand" href="contact-us"><img src="assets/images/logo.png" class="img-responsive" width="60"></a>
     </div>
     <ul class="nav navbar-nav navbar-right">
-      <li><a href="ewallet.php"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
-      <li><a href="sign-in.php"><i class="fa fa-lock" aria-hidden="true"></i> Sign In</a></li>
-      <li><a href="contact-us.php"><i class="fa fa-phone" aria-hidden="true"></i> Contact Us</a></li>
+      <li><a href="ewallet"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
+      <li><a href="sign-in"><i class="fa fa-lock" aria-hidden="true"></i> Sign In</a></li>
+      <li><a href="contact-us"><i class="fa fa-phone" aria-hidden="true"></i> Contact Us</a></li>
     </ul>
   </div>
 </nav>

@@ -56,14 +56,14 @@ include('inc/header.php') ?>
                                 <div class="configurationsBox">
                                     <h5 class="heading">Live Network</h5>
                                     <p><a href="https://XinFin.Network/" target="_blank">https://XinFin.Network/</a></p>
-                                    <p>(from top Menu you can see link for <a href="https://xinfin.network/#webWallet" target="_blank">Web Wallet</a>, <a href="https://play.google.com/store/apps/details?id=com.xdcwallet" target="_blank">Mobile Wallet</a>, <a href="https://xinfin.network/#explorer" target="_blank">Block Explorer</a>, <a href="https://xinfin.org/setup-masternode.php" target="_blank">One-Click Node Installer</a> and <a href="https://apothem.network/#masternode" target="_blank">Become a Master Node/Validator</a>)</p>
+                                    <p>(from top Menu you can see link for <a href="https://xinfin.network/#webWallet" target="_blank">Web Wallet</a>, <a href="https://play.google.com/store/apps/details?id=com.xdcwallet" target="_blank">Mobile Wallet</a>, <a href="https://xinfin.network/#explorer" target="_blank">Block Explorer</a>, <a href="setup-masternode">One-Click Node Installer</a> and <a href="https://apothem.network/#masternode" target="_blank">Become a Master Node/Validator</a>)</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-6 mt-3 mb-1">
                                 <div class="configurationsBox">
                                     <h5 class="heading">SandBox / TestNet</h5>
                                     <p><a href="https://apothem.network/" target="_blank">http://apothem.network/</a></p>
-                                    <p>(from top Menu you can see link for <a href="https://apothem.network/#getTestXDC" target="_blank">Faucet</a> (to get Free XDC for Sandbox Testing) <a href="https://xinfin.network/#webWallet" target="_blank">Web Wallet</a>, <a href="https://play.google.com/store/apps/details?id=com.xdcwallet" target="_blank">Mobile Wallet</a>, <a href="https://xinfin.network/#explorer" target="_blank">Block Explorer</a>, <a href="https://xinfin.org/setup-masternode.php" target="_blank">One-Click Node Installer</a> and <a href="https://apothem.network/#masternode" target="_blank">Become a Master Node/Validator</a>)</p>
+                                    <p>(from top Menu you can see link for <a href="https://apothem.network/#getTestXDC" target="_blank">Faucet</a> (to get Free XDC for Sandbox Testing) <a href="https://xinfin.network/#webWallet" target="_blank">Web Wallet</a>, <a href="https://play.google.com/store/apps/details?id=com.xdcwallet" target="_blank">Mobile Wallet</a>, <a href="https://xinfin.network/#explorer" target="_blank">Block Explorer</a>, <a href="setup-masternode">One-Click Node Installer</a> and <a href="https://apothem.network/#masternode" target="_blank">Become a Master Node/Validator</a>)</p>
                                 </div>
                             </div>
                         </div>
@@ -117,10 +117,10 @@ include('inc/header.php') ?>
                                 </a>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-6 mt-3 mb-1">
-                                <a href="exchange-listing-resource.php">
+                                <a href="exchange-listing-resource">
                                     <div class="configurationsBox bordered">
                                         <h5 class="heading">Integration Code</h5>
-                                        <p class="link-break-out">Example: https://xinfin.org/exchange-listing-resource.php</p>
+                                        <p class="link-break-out">Example: https://xinfin.org/exchange-listing-resource</p>
                                     </div>
                                 </a>
                             </div>
@@ -198,7 +198,7 @@ include('inc/header.php') ?>
                                 <p class="mb-1 link-break-out">Slack Community: <a href="https://xinfin-public.slack.com/messages/CELR2M831/" target="_blank">https://xinfin-public.slack.com/messages/CELR2M831/</a></p>
                                 <p class="mb-1 link-break-out">Slack Invitation Link: <a href="https://launchpass.com/xinfin-public" target="_blank">https://launchpass.com/xinfin-public</a></p>
                                 <p class="mb-1 link-break-out">Technical help Resource: <a href="http://howto.xinfin.org/" target="_blank">http://howto.xinfin.org/</a></p>
-                                <p class="link-break-out">Feel free to <a href="contactus.php">Contact us</a> for any of your queries.</p>
+                                <p class="link-break-out">Feel free to <a href="contactus">Contact us</a> for any of your queries.</p>
                             </div>
 
                         </div>

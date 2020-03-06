@@ -203,7 +203,7 @@ include('inc/header.php') ?>
                                 <p>Delegated Proof of Stake (DPoS) leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way.</p>
                             </div>
                             <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
-                                <a href="xinfin-consensus.php">
+                                <a href="xinfin-consensus">
                                     <button class="btn-hover color-1">XinFin Public DPoS Consensus</button>
                                 </a>
                             </div>
@@ -230,7 +230,7 @@ include('inc/header.php') ?>
                                 <p>Higher interoperability with legacy systems and other blockchain platforms makes XinFin Protocol (XDC) the language of core banking systems, ERP systems and SWIFT systems and many more.</p>
                             </div>
                             <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
-                                <a href="ISO20022.php">
+                                <a href="ISO20022">
                                     <button class="btn-hover color-1">Read More</button>
                                 </a>
                             </div>
@@ -297,7 +297,7 @@ include('inc/header.php') ?>
                                 <p>Have your own application? List it!</p>
                             </div>
                             <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
-                                <a href="xdc-utility.php">
+                                <a href="xdc-utility">
                                     <button class="btn-hover color-1">Explore More</button>
                                 </a>
                                 <a href="https://xinfin.network/#webWallet" target="_blank">
@@ -357,8 +357,8 @@ include('inc/header.php') ?>
 </p>
                         </div>
                         <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
-                            <a href="xdc-utility.php"><button class="btn-hover color-1">Explore APIs</button></a>
-                            <a href="bounty.php"><button class="btn-hover color-3">Bounty Program</button></a>
+                            <a href="xdc-utility"><button class="btn-hover color-1">Explore APIs</button></a>
+                            <a href="bounty"><button class="btn-hover color-3">Bounty Program</button></a>
                         </div>
 					</div>
                 </div>
@@ -385,7 +385,7 @@ include('inc/header.php') ?>
                                 <p>Deploying KYC compliant masternodes upon the XDC Protocol makes XinFin's Hybrid Blockchain the most trusted network for institutional adoption.</p>
                             </div>
                             <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
-                                <a href="setup-masternode.php">
+                                <a href="setup-masternode">
                                     <button class="btn-hover color-1">Explore Masternode</button>
                                 </a>
                             </div>
@@ -620,7 +620,7 @@ include('inc/header.php') ?>
                         <p>Come build dApps, learn more about XinFin and the XDC Hybrid Blockchain, host a masternode, or speak to our team.</p>
                     </div>
                     <div class="text-center wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
-                        <a href="contactus.php">
+                        <a href="contactus">
                             <button class="btn-hover color-1">CONTACT NOW</button>
                         </a>
                     </div>

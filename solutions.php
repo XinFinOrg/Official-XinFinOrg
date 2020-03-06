@@ -143,7 +143,7 @@ include('inc/header.php') ?>
 					<li><a href="#supply" data-toggle="tab" class="green">Supply Chain</a></li>
 					<li><a href="#travel" data-toggle="tab" class="blue">Travel Industry</a></li>
           <li><a href="#private" data-toggle="tab" class="yellow2">Private Blockchain Networks</a></li>
-          <li><a href="coming-soon.php"   class="green1">Others</a></li>
+          <li><a href="coming-soon"   class="green1">Others</a></li>
 				</ul>
 				
 			</div>

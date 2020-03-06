@@ -1,6 +1,6 @@
 <?php 
-$title = "Master node setup guide";
-$desc = "How to setup XDC masternode";
+$title = "Masternode setup guide";
+$desc = "How to setup XDC Masternode";
 
 include('inc/header.php') ?>
 
@@ -10,7 +10,7 @@ include('inc/header.php') ?>
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12 bannertext">
                     <h1>Guide To Set Up XinFin Master Node</h1>
-                    <p class="mb-2">XinFin offers the first and only genuinely one-click masternode deployment. Our Masternode One-Click Installer has been heralded by many as the easiest solution for setting up a masternode and earning XDC.</p>
+                    <p class="mb-2">XinFin offers the first and only genuinely one-click Masternode deployment. Our Masternode One-Click Installer has been heralded by many as the easiest solution for setting up a Masternode and earning XDC.</p>
                     <p>You can download the latest 64-bit stable release of XinFin - One Click Installer for our primary platforms below. Packages for all supported platforms, as well as develop builds, can be found further down the page.
                         <br/>
                         <br/>
@@ -51,16 +51,16 @@ include('inc/header.php') ?>
                                 <p>XinFin's token XDC supplants proof-of-work consensus algorithm (popularly linked with mining) with proof-of-stake consensus algorithm, fundamentally using the concept of "validators".</p>
                                 <p>Validators are special nodes used in the XDPoS consensus algorithm which validate each transaction occurring on the blockchain network. The result of this validation is to finally append the transaction on the blockchain. A transaction may be accepted by the validator or rejected. (<strong>Important:</strong> There can be multiple validator nodes in each network.) </p>
                                 <p>Decisions made by these validator nodes are broadcasted through the network as messages which are signed (attested) using validated cryptographic public key. Every validator node running XDC protocol in the RCL network is responsible for deciding its Unique Node List (UNL). This list holds information about which regular nodes does the validator care about.</p>
-                                <p><strong>To set up a masternode, make sure your XDC protocol running node is publicly identified and has gone through the compliance process. Every Node Holder need to upload KYC document and this detail will be visible to the public network.</strong></p>
+                                <p><strong>To set up a Masternode, make sure your XDC protocol running node is publicly identified and has gone through the compliance process. Every Node Holder need to upload KYC document and this detail will be visible to the public network.</strong></p>
 
-                                <p class="sub-header mb-3">Why set up a masternode at all?</p>
-                                <p>It is necessary to set up a masternode to operate on XDC protocol because masternodes make the decentralised blockchain network self-sustainable. Deploying masternode is conducive to trusted, scalable decentralised network infrastructure. Such an environment facilitates greater stability and reliability on the network.</p>
+                                <p class="sub-header mb-3">Why set up a Masternode at all?</p>
+                                <p>It is necessary to set up a Masternode to operate on XDC protocol because Masternodes make the decentralised blockchain network self-sustainable. Deploying Masternode is conducive to trusted, scalable decentralised network infrastructure. Such an environment facilitates greater stability and reliability on the network.</p>
 
-                                <p class="sub-header mb-3">Functions of masternode</p>
-                                <p>In XDPoS blockchain environment, masternode concept is cardinal to the functioning. A masternode validates each (or segment of transaction depending upon UNL) transaction and is also responsible for writing the transaction onto the truth ledger: the blockchain. As a consequence, this makes decentralised governance of the network possible.</p>
+                                <p class="sub-header mb-3">Functions of Masternode</p>
+                                <p>In XDPoS blockchain environment, Masternode concept is cardinal to the functioning. A Masternode validates each (or segment of transaction depending upon UNL) transaction and is also responsible for writing the transaction onto the truth ledger: the blockchain. As a consequence, this makes decentralised governance of the network possible.</p>
 
-                                <p class="sub-header mb-3">Restrictions on nodes which aspire to become masternodes</p>
-                                <p class="mb-1">Nodes which possess any of the below mentioned characteristics may not qualify to become masternodes:</p>
+                                <p class="sub-header mb-3">Restrictions on nodes which aspire to become Masternodes</p>
+                                <p class="mb-1">Nodes which possess any of the below mentioned characteristics may not qualify to become Masternodes:</p>
                                 <ul>
                                     <li>Anonymous entity on the network.</li>
                                     <li>Intentions to fork XDC Software.</li>
@@ -68,8 +68,8 @@ include('inc/header.php') ?>
                                     <li>Entity or Individual which does not comply with local law of land.</li>
                                 </ul>
 
-                                <p class="sub-header mb-3">Incentives to set up your own masternode</p>
-                                <p class="mb-1">Several reasons why setting up a masternode is useful are:</p>
+                                <p class="sub-header mb-3">Incentives to set up your own Masternode</p>
+                                <p class="mb-1">Several reasons why setting up a Masternode is useful are:</p>
                                 <ul class="mb-2">
                                     <li>Reputation building within the network community.</li>
                                     <li>Trust Factor enhances for your node particularly since network relies on your node.</li>
@@ -85,10 +85,10 @@ include('inc/header.php') ?>
 						<div class="row mt-5" style="margin-top:0%;padding-bottom:0px;">
                             <div class="col-md-12 col-xs-12">
                                 <p class="sub-header mt-0 mb-3">Before You Begin</p>
-                                <p>This guide will demonstrate how to set up a single masternode for the very first time. You will need the following before starting:</p>
+                                <p>This guide will demonstrate how to set up a single Masternode for the very first time. You will need the following before starting:</p>
                                 <div class="orderList">
                                     <ol>
-                                        <li> At least 10,000,000 XDC with masternode holder to perform proof-of-stake consensus seamlessly.</li>
+                                        <li> At least 10,000,000 XDC with Masternode holder to perform proof-of-stake consensus seamlessly.</li>
                                         <li> Wallet to store XDC tokens, preferably hardware.</li>
                                         <li> Dedicated and stable hardware environment.</li>
                                         <li> Dedicated Static Public IP address.</li>
@@ -107,11 +107,11 @@ include('inc/header.php') ?>
                                 <p class="link-break-out">Telegram Community: <a href="https://t.me/XinFinDevelopers" target="_blank">https://t.me/XinFinDevelopers</a></p>
                                 <p class="link-break-out">Slack Community: <a href="https://xinfin-public.slack.com/messages/CELR2M831/" target="_blank">https://xinfin-public.slack.com/messages/CELR2M831/</a></p>
 
-                                <p class="sub-header mb-3">METHOD 2: Delegate masternode set up to third party service provider</p>
+                                <p class="sub-header mb-3">METHOD 2: Delegate Masternode set up to third party service provider</p>
                                 <p>Set up your Masternode using one of these 3rd party Masternode service providers.</p>
                                 <p class="underline">DISCLAIMER: This list is provided for informational purposes only. Services listed here have not been evaluated or endorsed by XinFin and no guarantees are made as to the accuracy of this information. Please exercise discretion when using third-party services.</p>
 
-                                <p class="header mb-3">List of service provider to Setup masternode</p>
+                                <p class="header mb-3">List of service provider to Setup Masternode</p>
                                 <div class="orderList mb-3">
                                     <ol>
                                         <li>IndSoft.net</li>
@@ -127,17 +127,17 @@ include('inc/header.php') ?>
                                 </div>
 
                                 <p class="mb-1"><strong>Are you a Provider?</strong></p>
-                                <p>If yes, then <a href="contactus.php">Contact us</a> to List your service.</p>
+                                <p>If yes, then <a href="contactus">Contact us</a> to List your service.</p>
 
                                 <p class="mb-1"><strong>Masternode Tools</strong></p>
                                 <p class="link-break-out">Community Forum update link: <a href="http://xinfin.net/" target="_blank">http://xinfin.net</a></p>
                                 <p class="link-break-out">Telegram Development Community: <a href="https://t.me/joinchat/GeOl40UaNJPlFLNwSvu9cQ" target="_blank">https://t.me/XinFinDevelopers</a></p>
                                 <p class="link-break-out">Slack Public Channel: <a href="https://xinfin-public.slack.com/messages/CELR2M831/" target="_blank">https://xinfin-public.slack.com/messages/CELR2M831/</a></p>
 
-                                <p class="header mb-3">Where to operate? Mainnet vs Testnet:</p>
-                                <p>In XinFin, there are two networks where you can run XDC protocol: the mainnet and the testnet.</p>
-                                <p>The mainnet is used to transact real XDC. The XDC's value is tied to real fiat currency via cryptocurrency exchanges.</p>
-                                <p>As developers, you do not want to run application tests with real money. That is what the testnet is for. We call the testnet <a href="http://xinfin.network/" target="_blank">XinFinTestNet</a>.</p>
+                                <p class="header mb-3">Where to operate? MainNet vs TestNet:</p>
+                                <p>In XinFin, there are two networks where you can run XDC protocol: the MainNet and the TestNet.</p>
+                                <p>The MainNet is used to transact real XDC. The XDC's value is tied to real fiat currency via cryptocurrency exchanges.</p>
+                                <p>As developers, you do not want to run application tests with real money. That is what the TestNet is for. We call the TestNet <a href="http://xinfin.network/" target="_blank">XinFinTestNet</a>.</p>
 						  </div>
                        </div>                                
                     </div>
@@ -248,11 +248,11 @@ include('inc/header.php') ?>
                                 </div>
 
                                 <p class="header mb-3">Hands on guide: How to Setup Masternode</p>
-                                <p class="mb-1">There are two methods to choose from to set up the masternode:</p>
+                                <p class="mb-1">There are two methods to choose from to set up the Masternode:</p>
                                 <div class="orderList">
                                     <ol>
-                                        <li>DIY masternode environment set up</li>
-                                        <li>Delegate masternode set up to third party service provider</li>
+                                        <li>DIY Masternode environment set up</li>
+                                        <li>Delegate Masternode set up to third party service provider</li>
                                     </ol>
                                 </div>
 
@@ -295,11 +295,11 @@ sudo docker-compose -f docker-services.yml up -d
                                 <p class="link-break-out">Telegram Community: <a href="https://t.me/XinFinDevelopers" target="_blank">https://t.me/XinFinDevelopers</a></p>
                                 <p class="link-break-out">Slack Community: <a href="https://xinfin-public.slack.com/messages/CELR2M831/" target="_blank">https://xinfin-public.slack.com/messages/CELR2M831/</a></p>
 
-                                <p class="sub-header mb-3">METHOD 2: Delegate masternode set up to third party service provider</p>
+                                <p class="sub-header mb-3">METHOD 2: Delegate Masternode set up to third party service provider</p>
                                 <p>Set up your Masternode using one of these 3rd party Masternode service providers.</p>
                                 <p class="underline">DISCLAIMER: This list is provided for informational purposes only. Services listed here have not been evaluated or endorsed by XinFin and no guarantees are made as to the accuracy of this information. Please exercise discretion when using third-party services.</p>
 
-                                <p class="header mb-3">List of service provider to Setup masternode</p>
+                                <p class="header mb-3">List of service provider to Setup Masternode</p>
                                 <div class="orderList mb-3">
                                     <ol>
                                         <li>IndSoft.net</li>
@@ -339,7 +339,7 @@ sudo docker-compose -f docker-services.yml up -d
                             </div>
                             <div class="panel-collapse collapse" id="collapseOne" role="tabpanel" aria-labelledby="headingOne">
                                 <div class="panel-body pxlr-faq-body">
-                                    <p>You can set up master on windows server with one click installer or using docker compose file for more details please visit <a href="https://Xinfin.org/setup-masternode.php">XinFin Masternode setup page</a>.</p>
+                                    <p>You can set up master on windows server with one click installer or using docker compose file for more details please visit <a href="setup-masternode">XinFin Masternode setup page</a>.</p>
                                 </div>
                             </div>
                         </div>
@@ -351,17 +351,17 @@ sudo docker-compose -f docker-services.yml up -d
                             </div>
                             <div class="panel-collapse collapse" id="collapseTwo" role="tabpanel" aria-labelledby="headingTwo">
                                 <div class="panel-body pxlr-faq-body">
-                                    <p>No it's not necessary to run a masternode on server but we recommended to <strong>host the masternode</strong> on server. Setting Up masternode by staking coin gives opportunity to mint additional coin as validators rewards.</p>
+                                    <p>No it's not necessary to run a Masternode on server but we recommended to <strong>host the Masternode</strong> on server. Setting Up Masternode by staking coin gives opportunity to mint additional coin as validators rewards.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="panel panel-default">
                             <div class="panel-heading" id="headingThree" role="tab">
-                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">03) Can I run my masternode on my local machine ?</a></h4>
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">03) Can I run my Masternode on my local machine ?</a></h4>
                             </div>
                             <div class="panel-collapse collapse" id="collapseThree" role="tabpanel" aria-labelledby="headingThree">
                                 <div class="panel-body pxlr-faq-body">
-                                    <p>Yes you can run the <a href="https://xinfin.org/setup-masternode.php">masternode</a> on you Local machine but your node must have 100% up time and must have facing direct internet connection.</p>
+                                    <p>Yes you can run the <a href="setup-masternode">Masternode</a> on you Local machine but your node must have 100% up time and must have facing direct internet connection.</p>
                                 </div>
                             </div>
                         </div>
@@ -371,7 +371,7 @@ sudo docker-compose -f docker-services.yml up -d
                             </div>
                             <div class="panel-collapse collapse" id="collapseFour" role="tabpanel" aria-labelledby="headingFour">
                                 <div class="panel-body pxlr-faq-body">
-                                    <p>You can run as many masternode you want to run at one time. But there are various conditions to run masternode like for more details visit <a href="https://xinfin.org/setup-masternode.php">XinFin Maternode Setup</a> page to learn about their requirements.</p>
+                                    <p>You can run as many Masternode you want to run at one time. But there are various conditions to run Masternode like for more details visit <a href="setup-masternode">XinFin Maternode Setup</a> page to learn about their requirements.</p>
                                 </div>
                             </div>
                         </div>
@@ -391,7 +391,7 @@ sudo docker-compose -f docker-services.yml up -d
                             </div>
                             <div class="panel-collapse collapse" id="collapseSix" role="tabpanel" aria-labelledby="headingSix">
                                 <div class="panel-body pxlr-faq-body">
-                                    <p><strong>Coinbase address</strong> is the <strong>masternode address</strong> and masternode owner address is the address of wallet which you have proposed 10 million xdc.</p>
+                                    <p><strong>Coinbase address</strong> is the <strong>Masternode address</strong> and Masternode owner address is the address of wallet which you have proposed 10 million xdc.</p>
                                 </div>
                             </div>
                         </div>
@@ -401,7 +401,7 @@ sudo docker-compose -f docker-services.yml up -d
                             </div>
                             <div class="panel-collapse collapse" id="collapseSeven" role="tabpanel" aria-labelledby="headingSeven">
                                 <div class="panel-body pxlr-faq-body">
-                                    <p>The rewards will be received on wallet which is masternode owner address.</p>
+                                    <p>The rewards will be received on wallet which is Masternode owner address.</p>
                                 </div>
                             </div>
                         </div>
@@ -411,7 +411,7 @@ sudo docker-compose -f docker-services.yml up -d
                             </div>
                             <div class="panel-collapse collapse" id="collapseEight" role="tabpanel" aria-labelledby="headingEight">
                                 <div class="panel-body pxlr-faq-body">
-                                    <p>Rewards are distributed to masternode owner after ever epoch.</p>
+                                    <p>Rewards are distributed to Masternode owner after ever epoch.</p>
                                 </div>
                             </div>
                         </div>
@@ -437,21 +437,21 @@ sudo docker-compose -f docker-services.yml up -d
                         </div>
 						<div class="panel panel-default">
                             <div class="panel-heading" id="headingEleven" role="tab">
-                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">11) How much rewards are paid to masternode on XinFin Network ?</a></h4>
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">11) How much rewards are paid to Masternode on XinFin Network ?</a></h4>
                             </div>
                             <div class="panel-collapse collapse" id="collapseEleven" role="tabpanel" aria-labelledby="headingEleven">
                                 <div class="panel-body pxlr-faq-body">
-                                    <p>Rewards for the masternde come approx 10 %pa rewards for running masternode. If the number of masternode increases, the rewards will be reduced.</p>
+                                    <p>Rewards for the masternde come approx 10 %pa rewards for running Masternode. If the number of Masternode increases, the rewards will be reduced.</p>
                                 </div>
                             </div>
                         </div>
 						<div class="panel panel-default">
                             <div class="panel-heading" id="headingTwelve" role="tab">
-                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">12) How are the 108 masternode selected ?</a></h4>
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">12) How are the 108 Masternode selected ?</a></h4>
                             </div>
                             <div class="panel-collapse collapse" id="collapseTwelve" role="tabpanel" aria-labelledby="headingTwelve">
                                 <div class="panel-body pxlr-faq-body">
-                                    <p>108 masternode are selected randomly with round robin algorithm.</p>
+                                    <p>108 Masternode are selected randomly with round robin algorithm.</p>
                                 </div>
                             </div>
                         </div>
@@ -527,11 +527,11 @@ sudo docker-compose -f docker-services.yml up -d
                         </div>
 						<div class="panel panel-default">
                             <div class="panel-heading" id="headingTwenty" role="tab">
-                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwenty" aria-expanded="false" aria-controls="collapseTwenty">20) Can I store my token on masternode address on XinFin Network ?</a></h4>
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwenty" aria-expanded="false" aria-controls="collapseTwenty">20) Can I store my token on Masternode address on XinFin Network ?</a></h4>
                             </div>
                             <div class="panel-collapse collapse" id="collapseTwenty" role="tabpanel" aria-labelledby="headingTwenty">
                                 <div class="panel-body pxlr-faq-body">
-                                    <p>No you can not store your token on masternode address on XinFin Network.</p>
+                                    <p>No you can not store your token on Masternode address on XinFin Network.</p>
                                 </div>
                             </div>
                         </div>
@@ -551,7 +551,7 @@ sudo docker-compose -f docker-services.yml up -d
                             </div>
                             <div class="panel-collapse collapse" id="collapseTwentytwo" role="tabpanel" aria-labelledby="headingTwentytwo">
                                 <div class="panel-body pxlr-faq-body">
-                                    <p>If you lost your coinbase address your node will be down and you need to resign from the masternode.</p>
+                                    <p>If you lost your coinbase address your node will be down and you need to resign from the Masternode.</p>
                                 </div>
                             </div>
                         </div>
@@ -740,12 +740,12 @@ sudo docker-compose -f docker-services.yml up -d
                         <div class="panel panel-default">
                             <div class="panel-heading" id="headingThirtyeight" role="tab">
                                 <h4 class="panel-title">
-                                	<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseThirtyeight" aria-expanded="false" aria-controls="collapseThirtyeight">01) Which account should i used to login masternode app ?</a>
+                                	<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseThirtyeight" aria-expanded="false" aria-controls="collapseThirtyeight">01) Which account should i used to login Masternode app ?</a>
                                 </h4>
                             </div>
                             <div class="panel-collapse collapse" id="collapseThirtyeight" role="tabpanel" aria-labelledby="headingThirtyeight">
                                 <div class="panel-body pxlr-faq-body">
-                                    <p>You need to login masternode app with your web wallet private key.</p>
+                                    <p>You need to login Masternode app with your web wallet private key.</p>
                                 </div>
                             </div>
                         </div>
@@ -777,7 +777,7 @@ sudo docker-compose -f docker-services.yml up -d
                             </div>
                             <div class="panel-collapse collapse" id="collapseFourtyone" role="tabpanel" aria-labelledby="headingFourtyone">
                                 <div class="panel-body pxlr-faq-body">
-                                    <p>The format for uploading kyc can be found on masternode app just click on become candidate you will find the format.</p>
+                                    <p>The format for uploading kyc can be found on Masternode app just click on become candidate you will find the format.</p>
                                 </div>
                             </div>
                         </div>
@@ -787,7 +787,7 @@ sudo docker-compose -f docker-services.yml up -d
                             </div>
                             <div class="panel-collapse collapse" id="collapseFourtythree" role="tabpanel" aria-labelledby="headingFourtythree">
                                 <div class="panel-body pxlr-faq-body">
-                                    <p>Coinbase address is your masternode address.</p>
+                                    <p>Coinbase address is your Masternode address.</p>
                                 </div>
                             </div>
                         </div>
@@ -803,11 +803,11 @@ sudo docker-compose -f docker-services.yml up -d
                         </div>
 						<div class="panel panel-default">
                             <div class="panel-heading" id="headingFourtyfive" role="tab">
-                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseFourtyfive" aria-expanded="false" aria-controls="collapseFourtyfive">07) After uploading kyc and lock the 10 million xdc how much time it takes to become masternode ?</a></h4>
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseFourtyfive" aria-expanded="false" aria-controls="collapseFourtyfive">07) After uploading kyc and lock the 10 million xdc how much time it takes to become Masternode ?</a></h4>
                             </div>
                             <div class="panel-collapse collapse" id="collapseFourtyfive" role="tabpanel" aria-labelledby="headingFourtyfive">
                                 <div class="panel-body pxlr-faq-body">
-                                    <p>Ater 1 epoch you can see your node as a masternode.</p>
+                                    <p>Ater 1 epoch you can see your node as a Masternode.</p>
                                 </div>
                             </div>
                         </div>
@@ -817,7 +817,7 @@ sudo docker-compose -f docker-services.yml up -d
                             </div>
                             <div class="panel-collapse collapse" id="collapseFourtysix" role="tabpanel" aria-labelledby="headingFourtysix">
                                 <div class="panel-body pxlr-faq-body">
-                                    <p>If user resign from masternode it takes 30 days to get your 10 million XDC.</p>
+                                    <p>If user resign from Masternode it takes 30 days to get your 10 million XDC.</p>
                                 </div>
                             </div>
                         </div>
@@ -837,7 +837,7 @@ sudo docker-compose -f docker-services.yml up -d
                             </div>
                             <div class="panel-collapse collapse" id="collapseFourtyeight" role="tabpanel" aria-labelledby="headingFourtyeight">
                                 <div class="panel-body pxlr-faq-body">
-                                    <p>It will check for 3 epoch and after that you will become a masternode.</p>
+                                    <p>It will check for 3 epoch and after that you will become a Masternode.</p>
                                 </div>
                             </div>
                         </div>
@@ -847,7 +847,7 @@ sudo docker-compose -f docker-services.yml up -d
                             </div>
                             <div class="panel-collapse collapse" id="collapseFourtynine" role="tabpanel" aria-labelledby="headingFourtynine">
                                 <div class="panel-body pxlr-faq-body">
-                                    <p>You can see your rewards on you masternode owner address or on xinfin explorer.</p>
+                                    <p>You can see your rewards on you Masternode owner address or on xinfin explorer.</p>
                                 </div>
                             </div>
                         </div>
