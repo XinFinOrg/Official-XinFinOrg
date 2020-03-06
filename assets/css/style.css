@@ -1262,7 +1262,7 @@ button.btn-outline-default .fa{margin-right:5px;}
 .exchange-listing .video-frame {border: 2px solid rgba(0,0,0,0.2);}
 .exchange-listing .configurationsBox {background: #FFFFFF;border-radius: 5px;padding: 25px 20px;height: 100%;-webkit-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);-moz-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);}
 .exchange-listing .configurationsBox:hover {-webkit-box-shadow: 0px 5px 15px 0px rgba(72, 117, 178, 0.25);-moz-box-shadow: 0px 5px 15px 0px rgba(72, 117, 178, 0.25);box-shadow: 0px 5px 15px 0px rgba(72, 117, 178, 0.25);}
-.exchange-listing .configurationsBox.bordered {border: 1px solid #F5F8FC!important;display:block;}
+.exchange-listing .configurationsBox.bordered {border: 1px solid #e8ebec!important;display:block;}
 .exchange-listing .configurationsBox.bordered:hover h5.heading {color:#007BFF;}
 .exchange-listing .configurationsBox p {color:#696969;text-align:left;margin-bottom:12px!important;line-height: 20px;}
 .exchange-listing .configurationsBox p a {font-size:14px;font-weight:600;}
