@@ -8,8 +8,8 @@ include('inc/header.php') ?>
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12 bannertext">
-                    <h1>XDC Mainnet Chain Integration Document</h1>
-                    <p>Details required to Integrate XinFin-XDC (MainNet Chain)
+                    <h1>XDC MainNet Chain Integration Document</h1>
+                    <p>Details Required to Integrate XinFin-XDC (MainNet Chain)
                         <br/>
                         <br/>
                         <br/>
@@ -56,14 +56,14 @@ include('inc/header.php') ?>
                                 <div class="configurationsBox">
                                     <h5 class="heading">Live Network</h5>
                                     <p><a href="https://XinFin.Network/" target="_blank">https://XinFin.Network/</a></p>
-                                    <p>(from top Menu you can see link for <a href="https://xinfin.network/#webWallet" target="_blank">Web Wallet</a>, <a href="https://play.google.com/store/apps/details?id=com.xdcwallet" target="_blank">Mobile wallet</a>, <a href="https://xinfin.network/#explorer" target="_blank">Block Explorer</a>, <a href="https://xinfin.org/setup-masternode.php" target="_blank">One-Click Node Installer</a> and <a href="https://apothem.network/#masternode" target="_blank">Become a Master node/Validator</a>)</p>
+                                    <p>(from top Menu you can see link for <a href="https://xinfin.network/#webWallet" target="_blank">Web Wallet</a>, <a href="https://play.google.com/store/apps/details?id=com.xdcwallet" target="_blank">Mobile Wallet</a>, <a href="https://xinfin.network/#explorer" target="_blank">Block Explorer</a>, <a href="https://xinfin.org/setup-masternode.php" target="_blank">One-Click Node Installer</a> and <a href="https://apothem.network/#masternode" target="_blank">Become a Master Node/Validator</a>)</p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-6 mt-3 mb-1">
                                 <div class="configurationsBox">
-                                    <h5 class="heading">SandBox / Testnet</h5>
+                                    <h5 class="heading">SandBox / TestNet</h5>
                                     <p><a href="https://apothem.network/" target="_blank">http://apothem.network/</a></p>
-                                    <p>(from top Menu you can see link for <a href="https://apothem.network/#getTestXDC" target="_blank">Faucet</a> (to get Free XDC for sandbox Testing) <a href="https://xinfin.network/#webWallet" target="_blank">Web Wallet</a>, <a href="https://play.google.com/store/apps/details?id=com.xdcwallet" target="_blank">Mobile wallet</a>, <a href="https://xinfin.network/#explorer" target="_blank">Block Explorer</a>, <a href="https://xinfin.org/setup-masternode.php" target="_blank">One-Click Node Installer</a> and <a href="https://apothem.network/#masternode" target="_blank">Become a master node/Validator</a>)</p>
+                                    <p>(from top Menu you can see link for <a href="https://apothem.network/#getTestXDC" target="_blank">Faucet</a> (to get Free XDC for Sandbox Testing) <a href="https://xinfin.network/#webWallet" target="_blank">Web Wallet</a>, <a href="https://play.google.com/store/apps/details?id=com.xdcwallet" target="_blank">Mobile Wallet</a>, <a href="https://xinfin.network/#explorer" target="_blank">Block Explorer</a>, <a href="https://xinfin.org/setup-masternode.php" target="_blank">One-Click Node Installer</a> and <a href="https://apothem.network/#masternode" target="_blank">Become a Master Node/Validator</a>)</p>
                                 </div>
                             </div>
                         </div>
@@ -81,7 +81,7 @@ include('inc/header.php') ?>
                 <div class="row">
                     <div class="col-md-12">
                         <div class="sectionHeading">
-                            <h1>Details required to Integrate XinFin-XDC (MainNet Chain)</h1>
+                            <h1>Details Required to Integrate XinFin-XDC (MainNet Chain)</h1>
                             <p>We are fork out of go-ethereum hence the implementation of XinFin Network using XDC3 (Clone of Web3 API)</p>
                         </div>
                     </div>
@@ -110,7 +110,7 @@ include('inc/header.php') ?>
                             <div class="col-lg-3 col-md-6 col-sm-6 mt-3 mb-1">
                                 <a href="https://rpc.xinfin.network" target="_blank">
                                     <div class="configurationsBox bordered">
-                                        <h5 class="heading">Blockchain endpoint</h5>
+                                        <h5 class="heading">Blockchain Endpoint</h5>
                                         <p>
                                             <p class="link-break-out">https://rpc.xinfin.network</p>
                                     </div>
@@ -173,7 +173,7 @@ include('inc/header.php') ?>
                                 <div class="content-box cb-alt">
                                     <div class="mb-2">
                                         <h1>XinFin-Remix</h1>
-                                        <p>XinFin Remix, previously known as Browser Solidity, is a web browser-based IDE that allows you to write solidity smart contracts, then deploy and run the smart contract. The advantage of running XinFin Remix from your local computer is that it can communicate with a XinFin node client running on your local machine via the XinFin API. You can then execute your smart contracts in XinFin Remix while connected to your local development blockchain, the Testnet blockchain or the Mainnet blockchain.</p>
+                                        <p>XinFin Remix, previously known as Browser Solidity, is a web browser-based IDE that allows you to write solidity smart contracts, then deploy and run the smart contract. The advantage of running XinFin Remix from your local computer is that it can communicate with a XinFin node client running on your local machine via the XinFin API. You can then execute your smart contracts in XinFin Remix while connected to your local development blockchain, the TestNet blockchain or the MainNet blockchain.</p>
                                     </div>
                                     <div class="btn-block mb-1">
                                         <a href="https://remix.xinfin.network" target="_blank">
