@@ -960,6 +960,105 @@ hr {
 }
 
 
+#download-xdc-wallet {}
+#download-xdc-wallet .bannertext {
+    text-align: left!important;
+}
+#download-xdc-wallet ul, #download-xdc-wallet ul li {
+    margin-left: 0px;
+}
+#download-xdc-wallet .list_check li {
+    display: block;
+    font-size: 16px;
+    color: #646464;
+    font-family: 'Muli', sans-serif;
+	padding-left: 25px;
+    position: relative;
+    margin-bottom: 8px;
+}
+#download-xdc-wallet .list_check li:before {
+    font-family: 'FontAwesome';
+    content: "\f00c";
+    font-size: 16px;
+    color: #c78a2e;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 30px;
+    height: 30px;
+}
+#download-xdc-wallet .btn-download {
+    width: 215px;
+    text-align: left;
+    display: -webkit-box!important;
+    display: -ms-flexbox!important;
+    display: flex!important;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;	
+}
+#download-xdc-wallet .btn-download:hover {background-color: #f6f6f6;}
+#download-xdc-wallet .btn .icon {
+    margin-right: 8px;
+}
+#download-xdc-wallet img.icon {
+    max-width: 54px;
+}
+#download-xdc-wallet .icon-md {
+    width: 4rem;
+    height: 4rem;
+    line-height: 4rem;
+    font-size: 1rem;
+}
+#download-xdc-wallet .icon {
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 0;
+    display: inline-block;
+    text-align: center;
+    -webkit-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+#download-xdc-wallet .btn-download p {
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 22px;
+	text-align:left!important;
+}
+#download-xdc-wallet .btn-download .small {
+    font-size: 90%;
+    font-weight: 500;
+	margin-top: -2px;
+    display: block;
+}
+#download-xdc-wallet .btn-download .bold {
+    font-size: 20px;
+	font-weight: 600!important;
+}
+#download-xdc-wallet .screen-couple-left {
+    position: relative;
+    max-width: 475px;
+    min-width: 400px;
+    overflow: hidden;
+    z-index: 100;
+	margin: 0px auto;
+}
+#download-xdc-wallet .screen-couple-left .above {
+    z-index: 3;
+}
+#download-xdc-wallet .screen-couple-left .screen {
+    position: relative;
+    float: left;
+}
+#download-xdc-wallet .screen-couple-left .beyond {
+    right: 0;
+}
+#download-xdc-wallet .screen-couple-left .beyond {
+    z-index: 1;
+    position: absolute;
+    top: 40px;
+}
+@media (max-width: 991px) {#download-xdc-wallet .flex-row{display: inherit;} #download-xdc-wallet .screen-couple-left {margin-top:40px;}}
 
 
 

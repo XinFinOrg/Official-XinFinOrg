@@ -67,7 +67,7 @@ include('inc/header.php') ?>
                         </div>
 					</div>
 					
-					<div class="col-md-6 col-md-pull-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+					<div class="col-md-6 col-md-pull-6 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.7s">
 						<img src="assets/images/home/standardised-dapps.gif" class="img-responsive" width="100%" alt="Hybrid State">
 					</div>
                 </div>
@@ -190,7 +190,7 @@ include('inc/header.php') ?>
         <div class="container">
             <div class="bannertext">
                 <div class="flex-row align-items-center">
-                    <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                    <div class="col-md-6 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.7s">
                         <img src="assets/images/home/xinfin-public-dpos-consensus.gif" class="img-responsive" width="100%" alt="XinFin Public DPoS Consensus">
                     </div>
                     <div class="col-md-6">
@@ -237,7 +237,7 @@ include('inc/header.php') ?>
                         </div>
                     </div>
                     
-                    <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                    <div class="col-md-6 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.7s">
                         <img src="assets/images/home/iso20022-compatible-messaging.gif" class="img-responsive" width="100%" alt="ISO20022 Compatible Messaging">
                     </div>
 
@@ -250,7 +250,7 @@ include('inc/header.php') ?>
         <div class="container">
             <div class="bannertext">
                 <div class="flex-row align-items-center">
-                    <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                    <div class="col-md-6 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.7s">
                         <img src="assets/images/home/HOW-IT-WORKS-ANIMATION.gif" class="img-responsive" width="100%" alt="The XinFin Blockchain Ecosystem At A Glance">
                     </div>
                     
@@ -307,7 +307,7 @@ include('inc/header.php') ?>
                         </div>
                     </div>
                     
-                    <div class="col-md-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                    <div class="col-md-6 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.7s">
                         <img src="assets/images/home/dia-03-ani.gif" class="img-responsive" width="100%" alt="XDC/XDCe Utility">
                     </div>                    
                     
@@ -392,7 +392,7 @@ include('inc/header.php') ?>
                         </div>
                     </div>
 					
-					<div class="col-md-6 col-md-pull-6 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+					<div class="col-md-6 col-md-pull-6 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.7s">
                         <img src="assets/images/home/setting-up-masterNodes.gif" class="img-responsive" width="100%" alt="XinFin Network">
                     </div>
 					                    
@@ -608,8 +608,46 @@ include('inc/header.php') ?>
             </div>
         </div>
     </section>
+	
+	<section id="download-xdc-wallet" class="home-page-sections small-padd">
+        <div class="container">
+            <div class="bannertext">
+                <div class="flex-row align-items-center">
+                    <div class="col-md-6">
+                        <div class="content-box">
+                            <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                                <h3>Download XDC Wallet</h3>
+                            </div>
+                            <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                                <ul class="list_check">
+									<li>Securely send and receive XDC and XDCE anytime and anywhere</li>
+									<li>User-friendly and clear UI/UX</li>
+									<li>Send and receive XDC and XDCE rapidly using XinFin Network</li>
+									<li>Maintain the balance record easily using dashboard</li>
+									<li>Supports both the tokens: XDC and XDCE</li>
+									<li>A decentralized and highly secure wallet</li>
+								</ul>
+                            </div>
+                            <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
+                                <a href="https://play.google.com/store/apps/details?id=com.xdcwallet&hl=en_IN" target="_blank" class="btn-hover color-3 btn-download"><img src="assets/images/google-play.svg" class="icon icon-md" alt=""><p class="ml-1"><span class="small">Get it on</span> <span class="d-block bold color-1">Google Play</span></p></a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-6">
+                        <img src="assets/images/home/xdc-android-wallet.png" class="img-responsive wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.7s" width="100%" alt="XDC Android Wallet">
+						<!--<div class="screen-couple-left wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.7s">
+							<img class="screen above" src="assets/images/home/screen_couple_above.png" alt="" height="550" width="290" />
+							<img class="screen beyond wow fadeInRight" data-wow-delay="1s" src="assets/images/home/screen_couple_beyond.png" alt="" height="500" width="251" />
+						</div>-->
+                    </div>
 
-    <section id="contact-home" class="">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact-home" class="bg-light-grey">
         <div class="container">
             <div class="row">
                 <div class="col-md-offset-2 col-md-8 col-md-offset-2">
