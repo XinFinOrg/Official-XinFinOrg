@@ -68,7 +68,7 @@ include('inc/header.php') ?>
 	  
 	  <p class="header mb-2">XDC MainNet Chain Integration Document</p>
       <p>Details required to Integrate XinFin-XDC (MainNet Chain).</p>
-      <a href="xdc-mainnet-chain-integration-document" target="_blank"><button class="btn-hover color-1 mb-1">XDC MainNet Chain Integration Document</button></a>
+      <a href="xdc-mainnet-chain-integration-document"><button class="btn-hover color-1 mb-1">XDC MainNet Chain Integration Document</button></a>
       
       <p class="header mb-2">Community Forum</p>
       <p>Managed by our active community members, the XinFin Community Forum will bring you the latest updates, developments and answers to your questions in a proper documented form.</p>
