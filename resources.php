@@ -43,24 +43,24 @@ include('inc/header.php') ?>
       <a href="docs/whitepaper-business.pdf" target="_blank"><button class="btn-hover color-3 mb-1">Business White Paper</button></a>
       
       <p class="header mb-2">XinFin Consensus</p>
-      <p>This section talks about XinFin's Public DPoS Consensus that leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way. The Self KYC feature added in XinFin DPoS allows for an enterprise and regulator friendly process.</p>
+      <p>This section talks about XinFin's Public DPoS Consensus that leverages the power of stakeholder approval to resolve consensus issues in a fair and democratic way. The Self KYC feature added in XinFin DPoS allows for an enterprise and regulator friendly process.</p>
       <a href="xinfin-consensus"><button class="btn-hover color-1 mb-1">XinFin Consensus</button></a>
       
       <p class="header mb-2">Setup XinFin Node</p>
-      <p>This section acquaints developers with how to create and customize your XDC01 Blockchain private chain within minutes by installing Docker Nodes.</p>
-      <a href="https://github.com/XinFinOrg/XDC01-docker-Nnodes" target="_blank"><button class="btn-hover color-3 mb-1">Setup XinFin Node</button></a>
+      <p>This section acquaints developers with how to create and customize your Masternode within minutes by installing Docker Nodes.</p>
+      <a href="https://github.com/XinFinOrg/XinFin-Node" target="_blank"><button class="btn-hover color-3 mb-1">Setup XinFin Node</button></a>
       
-      <p class="header mb-2">XinFin Network Status (TestNet)</p>
-      <p>XinFin TestNet helps you understand how many nodes are hosted on XinFin Network and provides detailed information such as their up-time, number of active nodes, gas price, gas limit etc. in a visualised manner.</p>
-      <a href="http://xinfin.network/" target="_blank"><button class="btn-hover color-1 mb-1">XinFin Network Status (TestNet)</button></a>
+      <p class="header mb-2">Apothem Network Status (TestNet)</p>
+      <p>Apothem TestNet helps you understand how many nodes are hosted on TestNet Network and provides detailed information such as their up-time, number of active nodes, gas price, gas limit etc. in a visualised manner.</p>
+      <a href="https://apothem.network/" target="_blank"><button class="btn-hover color-1 mb-1">Apothem Network Status (TestNet)</button></a>
       
       <p class="header mb-2">XinFin Network Status (Live)</p>
       <p>XinFin LiveNet helps you understand how many nodes are hosted on XinFin Network, and provides detailed information such as their up-time, number of active nodes, gas price, gas limit etc. in a visualised manner.</p>
       <a href="http://xinfin.network/" target="_blank"><button class="btn-hover color-3 mb-1">XinFin Network Status (Live)</button></a>
       
-      <p class="header mb-2">XDC Explorer</p>
-      <p>The XDC Explorer is an explorer for XDC tokens and brings you a synopsis of recent XDC transactions.</p>
-      <a href="http://xinfin.info/" target="_blank"><button class="btn-hover color-1 mb-1">XDC Explorer</button></a>
+      <p class="header mb-2">XinFin Explorer</p>
+      <p>The XinFin Explorer is an explorer for XDC tokens and brings you a synopsis of recent XDC transactions.</p>
+      <a href="https://explorer.xinfin.network/home" target="_blank"><button class="btn-hover color-1 mb-1">XinFin Explorer</button></a>
       
       <p class="header mb-2">XDCe Explorer (ERC20)</p>
       <p>XDCe Explorer gives you a summary of total supply, price, holders and transfers of the XDCE token. The ERC-20 Token Tracker also allows you to look at recent XinFin XDCE Token transactions.</p>
@@ -75,7 +75,7 @@ include('inc/header.php') ?>
       <a href="http://xinfin.net/" target="_blank"><button class="btn-hover color-3 mb-1">Community Forum</button></a>
       
       <p class="header mb-2">Community Bounty Program</p>
-      <p>The XinFin Community Bounty Program invites developers and all bug bounty hunters to build DPoS Consensus.</p>
+      <p>The XinFin Community Bounty Program invites developers and all bug bounty hunters to test XDPoS Consensus.</p>
       <a href="bounty"><button class="btn-hover color-1 mb-1">Community Bounty Program</button></a>
       
       <p class="header mb-2">Wallet Support</p>
