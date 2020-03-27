@@ -43,7 +43,7 @@ include('inc/header.php') ?>
       <a href="docs/whitepaper-business.pdf" target="_blank"><button class="btn-hover color-3 mb-1">Business White Paper</button></a>
       
       <p class="header mb-2">XinFin Consensus</p>
-      <p>This section talks about XinFin's Public DPoS Consensus that leverages the power of stakeholder approval to resolve consensus issues in a fair and democratic way. The Self KYC feature added in XinFin DPoS allows for an enterprise and regulator friendly process.</p>
+      <p>This section talks about XinFin's Public XDPoS Consensus that leverages the power of stakeholder approval to resolve consensus issues in a fair and democratic way. The Self KYC feature added in XinFin XDPoS allows for an enterprise and regulator friendly process.</p>
       <a href="xinfin-consensus"><button class="btn-hover color-1 mb-1">XinFin Consensus</button></a>
       
       <p class="header mb-2">Setup XinFin Node</p>
@@ -72,7 +72,7 @@ include('inc/header.php') ?>
       
       <p class="header mb-2">Community Forum</p>
       <p>Managed by our active community members, the XinFin Community Forum will bring you the latest updates, developments and answers to your questions in a proper documented form.</p>
-      <a href="http://xinfin.net/" target="_blank"><button class="btn-hover color-3 mb-1">Community Forum</button></a>
+      <a href="https://bitcointalk.org/index.php?topic=1989818.msg19813005#msg19813005" target="_blank"><button class="btn-hover color-3 mb-1">Community Forum</button></a>
       
       <p class="header mb-2">Community Bounty Program</p>
       <p>The XinFin Community Bounty Program invites developers and all bug bounty hunters to test XDPoS Consensus.</p>
