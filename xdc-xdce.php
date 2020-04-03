@@ -10,7 +10,7 @@ include('inc/header.php') ?>
       <div class="bannertext">
         <h1> XDC / XDCE</h1>
         <p>Companies and individuals who are looking for real-time cross border financial transactions can use XinFin’s Blockchain
-          platform backed integrated wallet solutions. Supported by an advanced XDC01 protocol, this wallet solution will
+          platform backed integrated wallet solutions. Supported by an advanced XDC protocol, this wallet solution will
           help you and your business to conduct cross-border financial transactions in a secured environment.
           <br/>
           <br/> Fed up with the muddle of transferring funds via the regular fund transferring system? Thinking of how to bypass
