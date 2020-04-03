@@ -301,7 +301,7 @@ include('inc/header.php') ?>
                                     <button class="btn-hover color-1">Explore More</button>
                                 </a>
                                 <a href="https://xinfin.network/#webWallet" target="_blank">
-                                    <button class="btn-hover color-3">Download XinFin Wallet</button>
+                                    <button class="btn-hover color-3">Access XinFin Wallet</button>
                                 </a>
                             </div>
                         </div>
