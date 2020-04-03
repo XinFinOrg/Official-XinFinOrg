@@ -125,7 +125,7 @@ include('inc/header.php') ?>
             	<!--<a href="#"><button class="btn-fill-default"><i class="fa fa-gear"></i> API</button></a>-->
             	<a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><button class="btn-hover color-3"><i class="fa fa-youtube"></i> Watch Video</button></a>
             </div>
-            <p class="date">The Academy intends to make engineers' path easier by providing them knowledge about XinFin's XDC01 Protocol, XinFin Hybrid Blockchain Technology, XinFin Use Cases and the technology used to build these use cases under one umbrella. Blockdegree will also provide Verified Certifications to developers around Blockchain Technology, Ethereum and XDC01 Protocol.</p>
+            <p class="date">The Academy intends to make engineers' path easier by providing them knowledge about XinFin's XDC Protocol, XinFin Hybrid Blockchain Technology, XinFin Use Cases and the technology used to build these use cases under one umbrella. Blockdegree will also provide Verified Certifications to developers around Blockchain Technology, Ethereum and XDC Protocol.</p>
             <!--<div class="title">Nov 21st 2018</div>-->
         </div>
     </div>
