@@ -39,7 +39,7 @@ include('inc/header.php') ?>
       <a href="docs/whitepaper-tech.pdf" target="_blank"><button class="btn-hover color-1 mb-1">Technical White Paper</button></a>
       
       <p class="header mb-2">Business White Paper</p>
-      <p>The Business White Paper gives readers a comprehensive business understanding of XinFin's Hybrid Blockchain solution that will help address the inefficiencies that exist in the global trade and finance markets today. The XDC01 Protocol facilitates Distributed Applications, such as TradeFinex, a specially conceptualised marketplace platform that connects global participants of the trade and finance industry and enables them for global contracting, financing, payments and settlements through authorized financial institutions.</p>
+      <p>The Business White Paper gives readers a comprehensive business understanding of XinFin's Hybrid Blockchain solution that will help address the inefficiencies that exist in the global trade and finance markets today. The XDC Protocol facilitates Distributed Applications, such as TradeFinex, a specially conceptualised marketplace platform that connects global participants of the trade and finance industry and enables them for global contracting, financing, payments and settlements through authorized financial institutions.</p>
       <a href="docs/whitepaper-business.pdf" target="_blank"><button class="btn-hover color-3 mb-1">Business White Paper</button></a>
       
       <p class="header mb-2">XinFin Consensus</p>
