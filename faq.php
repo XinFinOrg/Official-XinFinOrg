@@ -168,7 +168,7 @@ include('inc/header.php') ?>
                         <li>
                             <h3>● What is Hybrid blockchain?</h3>
                             <div>
-                                <p>XinFin has developed a highly scalable, secure, permissioned and commercial grade Blockchain architecture that combines the best features of Bitcoin, Quorum and Ethereum. It's a combination of permissioned and public chain that addresses scalability and security. The Proof of Authority eventually leads to Proof of Stake. XinFin blockchain is powered by XDC01 protocol, underlying XDC tokens can be used for real time payment and settlement.</p>
+                                <p>XinFin has developed a highly scalable, secure, permissioned and commercial grade Blockchain architecture that combines the best features of Bitcoin, Quorum and Ethereum. It's a combination of permissioned and public chain that addresses scalability and security. The Proof of Authority eventually leads to Proof of Stake. XinFin blockchain is powered by XDC protocol, underlying XDC tokens can be used for real time payment and settlement.</p>
                                 <p>The XDC Blockchain is built upon the paradigm of consortium Blockchains. The architecture differs from conventional private/permissioned Blockchains as well as public Blockchains. Built upon the Ethereum codebase, the XDC Blockchain also deals with the system state rather than blocks of transactions.</p>
                                 <p>There are two different kinds of networks that can exist within the XDC ecosystem. Firstly, the public network that all constituents are part of and a private/permissioned network that restricts participation. And secondly, the private network state is maintained in its respective network but a record (hash) of transactions and smart contracts is stored on the public state of the Blockchain.</p>
                                 <p>The public state of the XDC Blockchain is shared by all participating nodes that are owned by different kinds of constituents. Groups of nodes can further form fully permissioned networks with their own private state that is accessible only to authorized members. For instance, let us assume that a private marketplace for goods and services is set up in Network 1. The specifics of the trade between parties are not accessible to Network 2. But, the record of individual trades is stored as hashes on the public state that is shared by all such that even in the private network there is an immutable record of transactions.</p>
@@ -229,7 +229,7 @@ include('inc/header.php') ?>
                         <li>
                             <h3>● What is the name of the Token?</h3>
                             <div>
-                                <p>XinFin's token, XDC is built using the XDC01 standard. XDC stands for XinFin Development Contract (XDC). The token will act as underlying payment and settlement for cross border peer to peer trade and settlement activities undertaken on our global marketplace <a href="https://www.tradefinex.org/" target="_blank">www.tradefinex.org</a>.</p>
+                                <p>XinFin's token, XDC is built using the XDC standard. XDC stands for XinFin Development Contract (XDC). The token will act as underlying payment and settlement for cross border peer to peer trade and settlement activities undertaken on our global marketplace <a href="https://www.tradefinex.org/" target="_blank">www.tradefinex.org</a>.</p>
                           </div>
                         </li>
                         <li>
@@ -247,7 +247,7 @@ include('inc/header.php') ?>
                         <li>
                             <h3>● How many tokens will be issued once XDC is live on the exchanges?</h3>
                             <div>
-                                <p>A total of 7 Billion tokens (representing 7% of the total supply) will be issued in a phased manner once XDC is live on exchanges. A large part of these will be issued to institutions who are working on pilot projects using XDC Blockchain or willing to build applications using XDC01 protocol. Remaining tokens will be available for retail investors to purchase from the exchanges.</p>
+                                <p>A total of 7 Billion tokens (representing 7% of the total supply) will be issued in a phased manner once XDC is live on exchanges. A large part of these will be issued to institutions who are working on pilot projects using XDC Blockchain or willing to build applications using XDC protocol. Remaining tokens will be available for retail investors to purchase from the exchanges.</p>
                             </div>
                         </li>
                         <li>
@@ -265,7 +265,7 @@ include('inc/header.php') ?>
                         <li>
                             <h3>● What is the token standard?</h3>
                             <div>
-                                <p>The XDC token is built upon the ERC20 token standard. This design decision was taken to ensure a fundamental compatibility with the multitude of emerging Ethereum dApps. With a view at future interoperability with the Ethereum Blockchain, the choice of using the ERC20 standard was straightforward. This compatibility extends to smart contracts written for the Ethereum Blockchain. We have developed our own standard XDC01 that will ensure users on the XDC Blockchain do not accidentally send their tokens to an incompatible ERC20 based Blockchain. The XDC01 standard is built on top of the ERC20 standard to ensure future compatibility when interoperability allows for such kinds of transfers.This does not mean that we participate in the ERC20 public Ethereum ecosystem. Our implementation uses the ERC20 standard in our forked hybrid blockchain platform that does not connect to the public Ethereum network.</p>
+                                <p>The XDC token is built upon the ERC20 token standard. This design decision was taken to ensure a fundamental compatibility with the multitude of emerging Ethereum dApps. With a view at future interoperability with the Ethereum Blockchain, the choice of using the ERC20 standard was straightforward. This compatibility extends to smart contracts written for the Ethereum Blockchain. We have developed our own standard XDC that will ensure users on the XDC Blockchain do not accidentally send their tokens to an incompatible ERC20 based Blockchain. The XDC standard is built on top of the ERC20 standard to ensure future compatibility when interoperability allows for such kinds of transfers.This does not mean that we participate in the ERC20 public Ethereum ecosystem. Our implementation uses the ERC20 standard in our forked hybrid blockchain platform that does not connect to the public Ethereum network.</p>
                             </div>
                         </li>
                         <li>
@@ -330,20 +330,20 @@ include('inc/header.php') ?>
                             <h3>● Why XinFin & XDC Protocol?</h3>
                             <div>
                                 <p>XinFin (<a href="https://www.xinfin.org" target="_blank">www.XinFin.org</a>) is a Singapore based Blockchain technology company focused on international trade and finance. XinFin has developed a high scalable, secure, permissioned and commercial grade Blockchain architecture that combines the best features of Bitcoin, Quorum and Ethereum. XinFin's XDC protocol, forked from Ethereum, is a peer to peer contract platform than can be used with existing laws of the land and payment rails or in an approved jurisdiction using underlying XDC tokens.</p>
-                                <p>The XDC blockchain is built upon the paradigm of consortium blockchains. The architecture differs from conventional private/permissioned blockchains as well as public blockchains yet built upon the Ethereum codebase. The 'hybrid' nature of the XDC blockchain allows for interoperability with public blockchains like Ethereum and Bitcoin. Transactions that are marked as hybrid on the XDC blockchain can be transmitted to and executed on the Ethereum public blockchain without the need of external wallets or exchanges. The XDC protocol seeks to create a truly decentralized cryptocurrency space through interoperability. The platform maintains sensitive financial data in private state thereby making it enterprise ready for several business use cases.It is this level of interoperability that enables XinFin to run it's own very native XDC01 token as well as its own ERC20 token.</p>
+                                <p>The XDC blockchain is built upon the paradigm of consortium blockchains. The architecture differs from conventional private/permissioned blockchains as well as public blockchains yet built upon the Ethereum codebase. The 'hybrid' nature of the XDC blockchain allows for interoperability with public blockchains like Ethereum and Bitcoin. Transactions that are marked as hybrid on the XDC blockchain can be transmitted to and executed on the Ethereum public blockchain without the need of external wallets or exchanges. The XDC protocol seeks to create a truly decentralized cryptocurrency space through interoperability. The platform maintains sensitive financial data in private state thereby making it enterprise ready for several business use cases.It is this level of interoperability that enables XinFin to run it's own very native XDC token as well as its own ERC20 token.</p>
                             </div>
                         </li>
                         <li>
-                            <h3>● Why ERC20 along with XDC01?</h3>
+                            <h3>● Why ERC20 along with XDC?</h3>
                             <div>
-                                <p>XinFin tokens are on built on XDC01 protocol which is first of its kind hybrid protocol. While the APIs have been standardized, listing a newer protocol on the exchanges is a time consuming process. This limits the liquidity and a wide number of business use cases cannot be scaled. Liquidity allows tokens to be bought and sold at stable prices on the regulated exchanges. When larger orders are placed, lower liquidity results in a more volatile market and it changes price drastically. In a higher liquidity market, token prices do not fluctuate as widely.It has always part of XinFin's development strategy to connect at least part of the XDC supply directly on the Ethereum public chain through an ERC20 token.To boost liquidity of XDC tokens and support large no. of business use cases, XinFin is introducing an ERC20 token.</p>
+                                <p>XinFin tokens are on built on XDC protocol which is first of its kind hybrid protocol. While the APIs have been standardized, listing a newer protocol on the exchanges is a time consuming process. This limits the liquidity and a wide number of business use cases cannot be scaled. Liquidity allows tokens to be bought and sold at stable prices on the regulated exchanges. When larger orders are placed, lower liquidity results in a more volatile market and it changes price drastically. In a higher liquidity market, token prices do not fluctuate as widely.It has always part of XinFin's development strategy to connect at least part of the XDC supply directly on the Ethereum public chain through an ERC20 token.To boost liquidity of XDC tokens and support large no. of business use cases, XinFin is introducing an ERC20 token.</p>
                             </div>
                         </li>
                         <li>
-                            <h3>● How Will XDCE and Traders Benefit From The Growth of XDC01?</h3>
+                            <h3>● How Will XDCE and Traders Benefit From The Growth of XDC?</h3>
                             <div>
-                                <p>The development of an ERC20 token also creates a volatile pool of liquidity that will support various business use cases. Another benefit that traders will likely enjoy the most is the price of XDCE. The new ERC20 token will be priced 1:1 against the standard XDC01 token. This means that the price of XDCE will directly reflect the price of XDC at all times.</p>
-                                <p>The total supply of XDCE will be 15B with the total supply in circulation and is swappable 1:1 with the 15B of available supply on XDC01 protocol.</p>
+                                <p>The development of an ERC20 token also creates a volatile pool of liquidity that will support various business use cases. Another benefit that traders will likely enjoy the most is the price of XDCE. The new ERC20 token will be priced 1:1 against the standard XDC token. This means that the price of XDCE will directly reflect the price of XDC at all times.</p>
+                                <p>The total supply of XDCE will be 15B with the total supply in circulation and is swappable 1:1 with the 15B of available supply on XDC protocol.</p>
                             </div>
                         </li>
                         <li>
@@ -470,7 +470,7 @@ include('inc/header.php') ?>
                         <li>
                             <h3>● Why it is taking so much time to get XDC listed on exchanges? </h3>
                             <div>
-                                <p>XDC tokens are built on the XDC01 protocol. This is not a standard ERC20 token. Our teams have the published and integrated the APIs by closely working with the exchanges. The same are currently undergoing security and scalability check to ensure safe transactions. The standardized set of APIs will be then released to all leading exchanges subsequently.</p>
+                                <p>XDC tokens are built on the XDC protocol. This is not a standard ERC20 token. Our teams have the published and integrated the APIs by closely working with the exchanges. The same are currently undergoing security and scalability check to ensure safe transactions. The standardized set of APIs will be then released to all leading exchanges subsequently.</p>
                             </div>
                         </li>
                         <li>
