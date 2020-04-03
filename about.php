@@ -198,7 +198,7 @@ include('inc/header.php') ?>
                       </h4>
                       <p class="cto">Director</p>
                       <p class="text-content">Ankit, an young and ingenious talent with a knack of research and innovation has contributed immensely
-                        as a Java Developer. His area of expertise is XDC01’s research and development. Despite of limited
+                        as a Java Developer. His area of expertise is XDC’s research and development. Despite of limited
                         countable years of experience, he has gained proficiency in blockchain technology and is currently
                         working on cross border payments through XDC. He aims to master the blockchain technology and create
                         a world class sensational product.</p>
