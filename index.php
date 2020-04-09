@@ -16,12 +16,8 @@ include('inc/header.php') ?>
                                     <h1 style="text-align:left;" class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">Enterprise Ready Hybrid Blockchain For Global Trade and Finance</h1>
                                     <p style="text-align: left;text-transform:none;" class="wow fadeInDown" data-wow-duration="0.7s" data-wow-delay="0.7s">Combining the power of Public & Private blockchains with Interoperable Smart Contracts</p>
                                     <div class="btn-block mt-4 mb-1 playTriggerBlock wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
-                                        <a href="https://xinfin.network" target="_blank">
-                                            <button class="btn-hover color-1">JOIN THE NETWORK</button>
-                                        </a>
-                                        <a href="https://play.google.com/store/apps/details?id=com.xdcwallet" target="_blank">
-                                            <button class="btn-hover color-3">DOWNLOAD WALLET</button>
-                                        </a>
+                                        <a href="setup-masternode" target="_blank"><button class="btn-hover color-1">JOIN THE NETWORK</button></a>
+                                        <a href="https://play.google.com/store/apps/details?id=com.xdcwallet" target="_blank"><button class="btn-hover color-3">DOWNLOAD WALLET</button></a>
                                     </div>
 
                                 </div>
@@ -49,19 +45,14 @@ include('inc/header.php') ?>
                     <div class="col-md-6 col-md-push-6">
 						<div class="content-box">
                             <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                                <!--<h1 class="text-transform-none" style="text-align:left;">Hybrid State</h1>-->
                                 <h3>Decentralized, Hybrid, Interoperable & Liquid Network</h3>
                             </div>
                             <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
                                 <p>eXchange inFinite (XinFin), is a Delegated Proof of Stake Consensus network (DPoS), enabling Hybrid Relay Bridges, Instant Block Finality and Interoperability with ISO20022 messaging standards, making XinFin's Hybrid Architecture Developer friendly.</p>
                             </div>
                             <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
-                                <a href="https://docs.xinfin.org/">
-                                    <button class="btn-hover color-1">Developer Resource</button>
-                                </a>
-                                <a href="https://docs.xinfin.org/">
-                                    <button class="btn-hover color-3">Build With XinFin</button>
-                                </a>
+                                <a href="https://chrome.google.com/webstore/detail/xinpay/bocpokimicclpaiekenaeelehdjllofo"><button class="btn-hover color-1">Download XinPay</button></a>
+                                <a href="https://docs.xinfin.org/"><button class="btn-hover color-3">Developer Resource</button></a>
 
                             </div>
                         </div>
@@ -87,7 +78,7 @@ include('inc/header.php') ?>
 						</div>
 						
                         <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
-                            <a href="https://xinfin.network" target="_blank">
+                            <a href="setup-masternode" target="_blank">
                                 <button class="btn-hover color-1">JOIN THE NETWORK</button>
                             </a>
                         </div>
@@ -630,6 +621,7 @@ include('inc/header.php') ?>
                             </div>
                             <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
                                 <a href="https://play.google.com/store/apps/details?id=com.xdcwallet&hl=en_IN" target="_blank" class="btn-hover color-3 btn-download"><img src="assets/images/google-play.svg" class="icon icon-md" alt=""><p class="ml-1"><span class="small">Get it on</span> <span class="d-block bold color-1">Google Play</span></p></a>
+								<a href="https://chrome.google.com/webstore/detail/xinpay/bocpokimicclpaiekenaeelehdjllofo"><button class="btn-hover color-1 button-big">Download XinPay</button></a>
                             </div>
                         </div>
                     </div>

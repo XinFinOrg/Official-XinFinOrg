@@ -988,14 +988,16 @@ hr {
     height: 30px;
 }
 #download-xdc-wallet .btn-download {
-    width: 215px;
+    width: 195px;
     text-align: left;
     display: -webkit-box!important;
     display: -ms-flexbox!important;
     display: flex!important;
     -webkit-box-align: center;
     -ms-flex-align: center;
-    align-items: center;	
+    align-items: center;
+	float:left;
+	margin-right:5px;	
 }
 #download-xdc-wallet .btn-download:hover {background-color: #f6f6f6;}
 #download-xdc-wallet .btn .icon {
@@ -1011,8 +1013,8 @@ hr {
     font-size: 1rem;
 }
 #download-xdc-wallet .icon {
-    margin-left: 5px;
-    margin-right: 5px;
+    /*margin-left: 5px;
+    margin-right: 5px;*/
     padding: 0;
     display: inline-block;
     text-align: center;
@@ -1022,7 +1024,7 @@ hr {
 #download-xdc-wallet .btn-download p {
     margin-top: 0;
     margin-bottom: 0;
-    line-height: 22px;
+    line-height: 20px;
 	text-align:left!important;
 }
 #download-xdc-wallet .btn-download .small {
@@ -1034,7 +1036,12 @@ hr {
 #download-xdc-wallet .btn-download .bold {
     font-size: 20px;
 	font-weight: 600!important;
+	letter-spacing: -0.02rem;
 }
+#download-xdc-wallet .btn-block a .button-big {
+	padding: 16px 14px;
+}
+
 #download-xdc-wallet .screen-couple-left {
     position: relative;
     max-width: 475px;
@@ -1058,6 +1065,7 @@ hr {
     position: absolute;
     top: 40px;
 }
+@media only screen and (max-width: 768px) {#download-xdc-wallet .btn-block a .button-big {margin-top: 15px;margin-bottom: 15px;}}
 @media (max-width: 991px) {#download-xdc-wallet .flex-row{display: inherit;} #download-xdc-wallet .screen-couple-left {margin-top:40px;}}
 
 
