@@ -51,7 +51,7 @@ include('inc/header.php') ?>
                                 <p>eXchange inFinite (XinFin), is a Delegated Proof of Stake Consensus network (DPoS), enabling Hybrid Relay Bridges, Instant Block Finality and Interoperability with ISO20022 messaging standards, making XinFin's Hybrid Architecture Developer friendly.</p>
                             </div>
                             <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
-                                <a href="https://chrome.google.com/webstore/detail/xinpay/bocpokimicclpaiekenaeelehdjllofo"><button class="btn-hover color-1">Download XinPay</button></a>
+                                <a href="https://chrome.google.com/webstore/detail/xinpay/bocpokimicclpaiekenaeelehdjllofo" target="_blank"><button class="btn-hover color-1">Download XinPay</button></a>
                                 <a href="https://docs.xinfin.org/"><button class="btn-hover color-3">Developer Resource</button></a>
 
                             </div>
@@ -621,7 +621,7 @@ include('inc/header.php') ?>
                             </div>
                             <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
                                 <a href="https://play.google.com/store/apps/details?id=com.xdcwallet&hl=en_IN" target="_blank" class="btn-hover color-3 btn-download"><img src="assets/images/google-play.svg" class="icon icon-md" alt=""><p class="ml-1"><span class="small">Get it on</span> <span class="d-block bold color-1">Google Play</span></p></a>
-								<a href="https://chrome.google.com/webstore/detail/xinpay/bocpokimicclpaiekenaeelehdjllofo"><button class="btn-hover color-1 button-big">Download XinPay</button></a>
+								<a href="https://chrome.google.com/webstore/detail/xinpay/bocpokimicclpaiekenaeelehdjllofo" target="_blank"><button class="btn-hover color-1 button-big">Download XinPay</button></a>
                             </div>
                         </div>
                     </div>
