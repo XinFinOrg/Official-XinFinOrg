@@ -16,7 +16,7 @@ include('inc/header.php') ?>
                                     <h1 style="text-align:left;" class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">Enterprise Ready Hybrid Blockchain For Global Trade and Finance</h1>
                                     <p style="text-align: left;text-transform:none;" class="wow fadeInDown" data-wow-duration="0.7s" data-wow-delay="0.7s">Combining the power of Public & Private blockchains with Interoperable Smart Contracts</p>
                                     <div class="btn-block mt-4 mb-1 playTriggerBlock wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
-                                        <a href="setup-masternode" target="_blank"><button class="btn-hover color-1">JOIN THE NETWORK</button></a>
+                                        <a href="setup-masternode"><button class="btn-hover color-1">JOIN THE NETWORK</button></a>
                                         <a href="https://play.google.com/store/apps/details?id=com.xdcwallet" target="_blank"><button class="btn-hover color-3">DOWNLOAD WALLET</button></a>
                                     </div>
 
@@ -78,7 +78,7 @@ include('inc/header.php') ?>
 						</div>
 						
                         <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
-                            <a href="setup-masternode" target="_blank">
+                            <a href="setup-masternode">
                                 <button class="btn-hover color-1">JOIN THE NETWORK</button>
                             </a>
                         </div>
