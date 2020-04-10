@@ -56,7 +56,7 @@ include('inc/header.php') ?>
                                 <div class="orderList">
                                     <ol>
                                         <li>This bonus is for the new users, downloading the new Android App.</li>
-                                        <li>The user will receive upto 10$ worth XDC per download of the Andriod App for the first 1000 users.</li>
+                                        <li>The user will receive upto 10$ worth XDC per download of the Android App for the first 1000 users.</li>
                                         <li>Review and Rate the <a href="https://play.google.com/store/apps/details?id=com.xdcwallet" target="_blank">XDC Wallet</a> on Google Play store.</li>
                                         <li>The team will reject the form, if same user tries to submit multiple forms.</li>
                                     </ol>
