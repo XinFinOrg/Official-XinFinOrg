@@ -55,7 +55,7 @@ include('inc/header.php') ?>
                <p class="sub-header-small mb-2">Note:</p>
                                 <div class="orderList">
                                     <ol>
-                                        <li>This bonus is for the new users, downloading the new Andriod App.</li>
+                                        <li>This bonus is for the new users, downloading the new Android App.</li>
                                         <li>The user will receive upto 10$ worth XDC per download of the Andriod App for the first 1000 users.</li>
                                         <li>Review and Rate the <a href="https://play.google.com/store/apps/details?id=com.xdcwallet" target="_blank">XDC Wallet</a> on Google Play store.</li>
                                         <li>The team will reject the form, if same user tries to submit multiple forms.</li>
@@ -66,7 +66,7 @@ include('inc/header.php') ?>
                <div> <p> </p></div>
               
               
-                <p class="sub-header-small mb-2">Andriod Wallet Bug Bounty:</p>
+                <p class="sub-header-small mb-2">Android Wallet Bug Bounty:</p>
                 <p> <a href ="https://support.google.com/websearch/answer/6307673?hl=en" target="_blank">Steps to Become a Beta Tester for Google Play Apps </a></p>
                 <p>Team XinFin welcomes all to test XDC Wallet for any errors, bugs and grab the bounty also provide ideas to enhance our XDC Wallet.</p>
 				    
