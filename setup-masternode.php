@@ -266,13 +266,6 @@ include('inc/header.php') ?>
 	  <td>~6.3%</td>
     </tr>
 	<tr>
-      <td class="functionHighlight" scope="row">Staking Yield</th>
-      <td class="functionHighlight-xdc">10 - 12 %</td>
-      <td>No</td>
-	  <td>-</td>
-	  <td>No</td>
-    </tr>
-	<tr>
       <td class="functionHighlight" scope="row">Premine</th>
       <td class="functionHighlight-xdc">37.5B XDC</td>
       <td>No</td>
