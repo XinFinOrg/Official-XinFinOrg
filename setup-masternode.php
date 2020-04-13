@@ -194,6 +194,102 @@ include('inc/header.php') ?>
 							</div>
 							</div>
 							
+							<div class="col-md-12 mb-0">
+							<p class="header text-center border-bottom-none mb-2">XDC Comparison Chart</p>
+								
+								<div class="table-responsive xdc-comparison-table">
+								<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">Comparison Chart</th>
+      <th class="functionHighlight-xdc" scope="col">XDC</th>
+      <th scope="col">Bitcoin</th>
+      <th scope="col">Ethereum</th>
+	  <th scope="col">Dash</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="functionHighlight" scope="row">Maximum Supply</th>
+      <td class="functionHighlight-xdc">37.5 billion</td>
+      <td>21 million</td>
+	  <td>100 million</td>
+	  <td>18.9 million</td>
+    </tr>
+    <tr>
+      <td class="functionHighlight" scope="row">Algorithm</th>
+      <td class="functionHighlight-xdc">xDPoS</td>
+      <td>SHA256 PoW</td>
+	  <td>EVM</td>
+	  <td>X11 PoW</td>
+    </tr>
+    <tr>
+      <td class="functionHighlight" scope="row">Block Interval</th>
+      <td class="functionHighlight-xdc">2 sec</td>
+      <td>10 minutes</td>
+	  <td>15 sec</td>
+	  <td>2.5 minutes</td>
+    </tr>
+	<tr>
+      <td class="functionHighlight" scope="row">KYC Compliance</th>
+      <td class="functionHighlight-xdc">Yes</td>
+      <td>No</td>
+	  <td>No</td>
+	  <td>No</td>
+    </tr>
+	<tr>
+      <td class="functionHighlight" scope="row">TPS</th>
+      <td class="functionHighlight-xdc">2000+</td>
+      <td>9</td>
+	  <td>15</td>
+	  <td>56</td>
+    </tr>
+	<tr>
+      <td class="functionHighlight" scope="row">Privacy</th>
+      <td class="functionHighlight-xdc">Yes</td>
+      <td>No</td>
+	  <td>No</td>
+	  <td>PrivateSend - Has privacy issues</td>
+    </tr>
+	<tr>
+      <td class="functionHighlight" scope="row">Instant TX</th>
+      <td class="functionHighlight-xdc">Yes</td>
+      <td>No</td>
+	  <td>Yes</td>
+	  <td>Yes</td>
+    </tr>
+	<tr>
+      <td class="functionHighlight" scope="row">Masternode Yield</th>
+      <td class="functionHighlight-xdc">10 - 12 %</td>
+      <td>No</td>
+	  <td>-</td>
+	  <td>~6.3%</td>
+    </tr>
+	<tr>
+      <td class="functionHighlight" scope="row">Staking Yield</th>
+      <td class="functionHighlight-xdc">10 - 12 %</td>
+      <td>No</td>
+	  <td>-</td>
+	  <td>No</td>
+    </tr>
+	<tr>
+      <td class="functionHighlight" scope="row">Premine</th>
+      <td class="functionHighlight-xdc">37.5B XDC</td>
+      <td>No</td>
+	  <td>No</td>
+	  <td>Yes, 2 million Dash</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+
+							
+
+							</div>
+							
                         </div>
                     </div>
 					</div>
