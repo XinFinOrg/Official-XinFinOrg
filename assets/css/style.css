@@ -4719,7 +4719,7 @@ table{width:100%;background-color:#fff}th,td{font-weight:unset;padding-right:10p
 .border-bottom-none {border-bottom:none!important;}
 .xdc-comparison-table .table td.functionHighlight-xdc {font-size:18px;font-weight:700;color:#FFFFFF;background-color:rgba(43,138,192,0.8);border-bottom-color:#FFFFFF!important;}
 @media only screen and (max-width: 991px) and (min-width: 768px) {.xdc-comparison-table .table th {font-size:17px;min-width:165px;}}
-@media (max-width: 576px) {.xdc-comparison-table .table th {font-size:15px;}.xdc-comparison-table .table td.functionHighlight {font-size:14px;}.xdc-comparison-table .table td.functionHighlight-xdc {font-size:15px;}.xdc-comparison-table .table td {font-size:13px;}}
+@media (max-width: 576px) {.xdc-comparison-table .table th {font-size:14px;}.xdc-comparison-table .table td.functionHighlight {font-size:13px;}.xdc-comparison-table .table td.functionHighlight-xdc {font-size:14px;}.xdc-comparison-table .table td {font-size:13px;}}
 /*-- Master node comparison table css --*/
 
 
