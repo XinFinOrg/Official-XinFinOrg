@@ -650,7 +650,7 @@ include('inc/header.php') ?>
                         <p>Come build dApps, learn more about XinFin and the XDC Hybrid Blockchain, host a masternode, or speak to our team.</p>
                     </div>
                     <div class="text-center wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
-                        <a href="contactus">
+                        <a href="contactus.php">
                             <button class="btn-hover color-1">CONTACT NOW</button>
                         </a>
                     </div>
