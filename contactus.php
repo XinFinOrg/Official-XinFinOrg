@@ -58,7 +58,7 @@ include('inc/header.php') ?>
 							<div class="form-group">
 								<div class="form-group g-recaptcha" data-sitekey="6Lere-8UAAAAAIhU_6OquF27rHJR7Kqfa1y70oeY" data-callback="enableBtn"></div>
                             </div>
-                            <!-- <div class="checkbox">
+                            <!-- <div class="checkbox"> 
 								<label><input type="checkbox" name="remember"> Remember me</label>
 							</div> -->
                             <!--<button type="button" id="contactBtn" class="btn btn-default submitbtn">Submit</button>-->
@@ -171,7 +171,7 @@ $(document).ready(function(){
 	});
   
 	function enableBtn(){
-   		$("#contactBtn").disabled = false;
+		$('#contactBtn').removeAttr('disabled');
  	}
 	
 	$("#contactBtn").click(function()
