@@ -56,13 +56,14 @@ include('inc/header.php') ?>
                                 <textarea class="form-control" id="comments" name="comments"></textarea>
                             </div>
 							<div class="form-group">
-								<div class="form-group g-recaptcha" data-sitekey="6Lere-8UAAAAAIhU_6OquF27rHJR7Kqfa1y70oeY" data-callback="enableBtn"></div>
+								<div class="g-recaptcha" data-sitekey="6Lere-8UAAAAAIhU_6OquF27rHJR7Kqfa1y70oeY"></div>
+								<p id="gcaptch"></p>
                             </div>
                             <!-- <div class="checkbox"> 
 								<label><input type="checkbox" name="remember"> Remember me</label>
 							</div> -->
                             <!--<button type="button" id="contactBtn" class="btn btn-default submitbtn">Submit</button>-->
-                            <button type="button" id="contactBtn" class="btn-hover color-1 submitbtn" disabled>Submit</button>
+                            <button type="button" id="contactBtn" class="btn-hover color-1 submitbtn">Submit</button>
                         </form>
                     </div>
 					
@@ -170,9 +171,7 @@ $(document).ready(function(){
 		$(this).removeClass('inputTxtError');
 	});
   
-	function enableBtn(){
-		$('#contactBtn').removeAttr('disabled');
- 	}
+
 	
 	$("#contactBtn").click(function()
 	{
@@ -183,7 +182,7 @@ $(document).ready(function(){
 		phone_val = $("#contact_number").val();
 		var phone_val_len = phone_val.length;
 		console.log("phone_val_len : "+phone_val_len);
-		
+		var 
 		user_name_match  = user_name_val .match(name_pattern);
 		email_match  = email_val.match(email_pattern);
 		phone_match  = phone_val.match(phone_pattern);
@@ -250,12 +249,22 @@ $(document).ready(function(){
 			$('#contact_number').addClass('inputTxtError1');
 			validation = false;
 		} 
+
+		if(grecaptcha.getResponse() == "") {
+			$('#gcaptch').text("You must verify reCAPTCH");
+			$('#gcaptch').addClass("text-danger");
+			validation = false;
+		}else{
+			$('#gcaptch').hide();
+		}
 	
 	
 		if(validation)
 		{
 			//console.log('If Block');
 			$('#contactBtn').text("Submitting...");
+			// console.log($("#contactForm").serialize());
+			// alert('hi');
 			$.ajax({
 				type: "POST",
 				url: "contactpost.php",
@@ -265,7 +274,7 @@ $(document).ready(function(){
 					//alert("before send");
 				},
 				success: function(data)
-				{  
+				{
 					console.log(data);
 					$('#contactBtn').text("SUBMIT");
 					$('#contactForm')[0].reset();
