@@ -158,6 +158,7 @@
   gtag('js', new Date());
   gtag('config', 'UA-112909645-1');
 </script>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <body>
 
 
