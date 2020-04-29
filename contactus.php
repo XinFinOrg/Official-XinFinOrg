@@ -12,7 +12,7 @@ include('inc/header.php') ?>
 <section id="contactbanner">
 	<div class="container">
 		<div class="row">
-			<div class="bannertext">
+			<div class="col-md-12 col-sm-12 col-xs-12 bannertext">
 				<h1>CONTACT US</h1>
 				<p>Use the XDC token on the public state that is identical in functionality to public blockchains.<br/> Or set up private networks to run enterprise use cases.</p>
 			</div>

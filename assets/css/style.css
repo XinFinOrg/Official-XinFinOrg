@@ -1967,6 +1967,10 @@ button:focus {outline:0;}
     box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);
 }
 
+.contact-info.noHeight {
+    min-height: inherit;
+}
+
 .line1 {
 	margin: 0 auto; display: flex;
 }
@@ -3632,7 +3636,7 @@ text-align: center !important;
     text-align: center;
     color: rgba(255,255,255,0.6);
     transition: linear 0.2s all;
-    padding: 7px;
+    padding: 6px;
    margin-bottom: 10px;margin-top: 5px;
 }
 
@@ -4485,9 +4489,12 @@ nav li:hover li a:hover {
 
 }
 
-.contactpara
-{
-  margin-top:40px;
+.contactpara {
+  margin-top:10px;
+}
+
+.noHeight .contactpara {
+  margin-top:0px;
 }
 
 #masternodes ol li {
