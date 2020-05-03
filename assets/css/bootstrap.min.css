@@ -5061,7 +5061,12 @@ textarea.input-group-sm>.input-group-btn>.btn {
     }
 }
 
-@media (min-width:768px) {
+/*@media (min-width:768px) {
+    .navbar-header {
+        float: left
+    }
+}*/
+@media (min-width:991px) {
     .navbar-header {
         float: left
     }
@@ -5081,7 +5086,30 @@ textarea.input-group-sm>.input-group-btn>.btn {
     overflow-y: auto
 }
 
-@media (min-width:768px) {
+/*@media (min-width:768px) {
+    .navbar-collapse {
+        width: auto;
+        border-top: 0;
+        -webkit-box-shadow: none;
+        box-shadow: none
+    }
+    .navbar-collapse.collapse {
+        display: block!important;
+        height: auto!important;
+        padding-bottom: 0;
+        overflow: visible!important
+    }
+    .navbar-collapse.in {
+        overflow-y: visible
+    }
+    .navbar-fixed-bottom .navbar-collapse,
+    .navbar-fixed-top .navbar-collapse,
+    .navbar-static-top .navbar-collapse {
+        padding-right: 0;
+        padding-left: 0
+    }
+}*/
+@media (min-width:991px) {
     .navbar-collapse {
         width: auto;
         border-top: 0;
@@ -5224,7 +5252,12 @@ textarea.input-group-sm>.input-group-btn>.btn {
     margin-top: 4px
 }
 
-@media (min-width:768px) {
+/*@media (min-width:768px) {
+    .navbar-toggle {
+        display: none
+    }
+}*/
+@media (min-width:991px) {
     .navbar-toggle {
         display: none
     }
