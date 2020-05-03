@@ -66,9 +66,9 @@ include('inc/header.php') ?>
       <p>XDCe Explorer gives you a summary of total supply, price, holders and transfers of the XDCE token. The ERC-20 Token Tracker also allows you to look at recent XinFin XDCE Token transactions.</p>
       <a href="https://etherscan.io/token/0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2?a=" target="_blank"><button class="btn-hover color-3 mb-1">XDCe Explorer (ERC20)</button></a>
 	  
-	  <p class="header mb-2">XDC MainNet Chain Integration Document</p>
-      <p>Details required to Integrate XinFin-XDC (MainNet Chain).</p>
-      <a href="xdc-mainnet-chain-integration-document"><button class="btn-hover color-1 mb-1">XDC MainNet Chain Integration Document</button></a>
+	  <p class="header mb-2">XDC Chain Network Tools and Documents</p>
+      <p>Download tools and Documentation resource.</p>
+      <a href="xdc-chain-network-tools-and-documents"><button class="btn-hover color-1 mb-1">XDC Chain Network Tools and Documents</button></a>
       
       <p class="header mb-2">Community Forum</p>
       <p>Managed by our active community members, the XinFin Community Forum will bring you the latest updates, developments and answers to your questions in a proper documented form.</p>

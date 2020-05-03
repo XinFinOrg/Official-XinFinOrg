@@ -8,8 +8,8 @@ include('inc/header.php') ?>
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12 bannertext">
-                    <h1>XDC MainNet Chain Integration Document</h1>
-                    <p>Details Required to Integrate XinFin-XDC (MainNet Chain)
+                    <h1>XDC Chain Network Tools and Documents</h1>
+                    <p>Download tools and Documentation resource
                         <br/>
                         <br/>
                         <br/>
@@ -34,7 +34,7 @@ include('inc/header.php') ?>
                                         <p>Combining the power of Public & Private blockchains with Interoperable Smart Contracts.</p>
                                     </div>
                                     <div class="btn-block mb-1">
-                                        <a href="https://xinfin.network/#stats" target="_blank">
+                                        <a href="setup-masternode">
                                             <button class="btn-hover color-1">Join The Network</button>
                                         </a>
                                     </div>

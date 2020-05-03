@@ -216,7 +216,7 @@
                 <a href="resources">Resource</a>
               </li>
               <li class="nav-item">
-                <a href="https://howto.xinfin.org/" target="_blank">Get Started</a>
+                <a href="xdc-chain-network-tools-and-documents">Quick Tools Guide</a>
               </li>
               
               <!--<li>
