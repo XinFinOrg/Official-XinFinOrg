@@ -150,6 +150,7 @@ include('inc/header.php') ?>
                                         <a href="https://chrome.google.com/webstore/detail/xinpay/bocpokimicclpaiekenaeelehdjllofo" target="_blank">
                                             <button class="btn-hover color-1">Download Now</button>
                                         </a>
+										<a href="https://medium.com/xinfin/get-started-with-xinpay-crypto-asset-bbd817e1ed46" target="_blank"><button class="btn-hover color-3">How To Use XinPay?</button></a>
                                     </div>
                                 </div>
                             </div>
@@ -172,13 +173,14 @@ include('inc/header.php') ?>
                             <div class="col-md-6 col-md-push-6">
                                 <div class="content-box cb-alt">
                                     <div class="mb-2">
-                                        <h1>XinFin-Remix</h1>
+                                        <h1>XinFin Remix</h1>
                                         <p>XinFin Remix, previously known as Browser Solidity, is a web browser-based IDE that allows you to write solidity smart contracts, then deploy and run the smart contract. The advantage of running XinFin Remix from your local computer is that it can communicate with a XinFin node client running on your local machine via the XinFin API. You can then execute your smart contracts in XinFin Remix while connected to your local development blockchain, the TestNet blockchain or the MainNet blockchain.</p>
                                     </div>
                                     <div class="btn-block mb-1">
                                         <a href="https://remix.xinfin.network" target="_blank">
                                             <button class="btn-hover color-1">Explore More</button>
                                         </a>
+										<a href="https://medium.com/xinfin/deploy-smart-contract-on-xinfin-testnet-through-xinfin-remix-and-xinpay-dfbbf9dcc3f7" target="_blank"><button class="btn-hover color-3">How To Use XinFin Remix?</button></a>
                                     </div>
                                 </div>
                             </div>
