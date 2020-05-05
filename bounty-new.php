@@ -34,7 +34,7 @@ include('inc/header.php') ?>
 				<p class="text-muted">Deploy Solidity Contract on XinFin MainNet and get rewards.</p>				
 			</div>
 			<div class="btn-block mb-1">
-				<a href="https://medium.com/r/?url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2F1qU9Oel-JgUskpZg8SSo2qDi7NvjhvsTy9p5G8a_9b3o" target="_blank"><button class="btn-hover color-1">Apply</button></a>
+				<a href="https://docs.google.com/forms/d/1qU9Oel-JgUskpZg8SSo2qDi7NvjhvsTy9p5G8a_9b3o" target="_blank"><button class="btn-hover color-1">Apply</button></a>
 				<button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1">Detailed Rules</button>
 			</div>
         </div>
