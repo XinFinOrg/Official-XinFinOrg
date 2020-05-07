@@ -37,6 +37,9 @@ include('inc/header.php') ?>
                                         <a href="setup-masternode">
                                             <button class="btn-hover color-1">Join The Network</button>
                                         </a>
+										<a href="https://play.google.com/store/apps/details?id=com.xdcwallet" target="_blank">
+											<button class="btn-hover color-3">Download Mobile Wallet</button>
+										</a>
                                     </div>
                                 </div>
                             </div>
