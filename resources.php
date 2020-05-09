@@ -104,6 +104,11 @@ include('inc/header.php') ?>
       <p class="header mb-2">Governance Member</p>
       <p>This section provides you with details required to become a Governance Member for XinFin.Network</p>
       <a href="governance-member"><button class="btn-hover color-1 mb-1">Governance Member</button></a>
+	  
+	  <p class="header mb-2">XinFin (XDC) Project Source Code</p>
+	  <p>XinFin (XDC) Project Source Code on GitHub.</p>
+	  <a href="https://github.com/XinFinOrg/" target="_blank"><button class="btn-hover color-3 mb-1">XinFin (XDC) Project Source Code</button></a>
+	  
  	</div>
     
   </div>
