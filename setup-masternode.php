@@ -218,7 +218,7 @@ include('inc/header.php') ?>
     </tr>
     <tr>
       <td class="functionHighlight" scope="row">Algorithm</th>
-      <td class="functionHighlight-xdc">xDPoS</td>
+      <td class="functionHighlight-xdc">XDPoS</td>
       <td>SHA256 PoW</td>
 	  <td>EVM</td>
 	  <td>X11 PoW</td>
