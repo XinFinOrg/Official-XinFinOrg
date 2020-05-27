@@ -1211,9 +1211,84 @@ button.btn-outline-default .fa{margin-right:5px;}
 /*  POS  */
 
 /*  XinFin Public DPOS Consensus  */
+.xifin-dpos-consensus .icons-pop-section {
+	margin: 20px 0 40px;
+	background: #FFFFFF;
+    border-radius: 5px;
+    padding: 40px 5px 15px 0px;
+    height: 100%;
+    -webkit-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);
+    -moz-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);
+    box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);
+}
+.xifin-dpos-consensus .icons-pop-section.transparent {
+	margin: 0px 0 40px;
+	padding-top: 10px;
+	background: transparent;
+	box-shadow: none;
+}
+.xifin-dpos-consensus .icons-pop-section.transparent .pop-ico {
+	width: 50px;
+}
+.xifin-dpos-consensus .icons-pop-section.transparent .pop-ico i img {
+	width: 35px;
+}
+.xifin-dpos-consensus .icons-pop-section.transparent .pop-ico-content {
+    width: calc( 100% - 50px );
+}
+
+.xifin-dpos-consensus .sub-header {
+    color: #096db0!important;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+    margin-top: 0px;
+    font-size: 26px;
+    line-height: 32px;
+}
+.xifin-dpos-consensus .sub-header-small {
+    color: #096db0!important;
+    margin-bottom: 0px!important;
+    padding-bottom: 10px;
+    margin-top: 0px;
+    font-size: 22px;
+    line-height: 28px;
+}
+.xifin-dpos-consensus .icons-pop-section .flex-layout {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+	margin-bottom: 30px!important;
+    margin: 0px 20px;
+}
+.pop-ico {
+    width: 36px;
+}
+.pop-ico i {
+    font-size: 22px;
+    color: #408de4;
+}
+.pop-ico-content {
+    width: calc( 100% - 36px );
+}
+.pop-ico-title {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.pop-ico-dsc p {
+    font-size: 14px;
+	color: #6b7075!important;
+    margin-bottom: 0px!important;
+}
 .xifin-dpos-consensus ul{font-size:16px;color:#002752;margin-left:20px;}
 .xifin-dpos-consensus ul li{margin-left:17px;}
 .xifin-dpos-consensus ul li{margin-bottom:10px;}
+@media only screen and (max-width:768px) {
+	.xifin-dpos-consensus .icons-pop-section {padding: 30px 5px 15px 5px;}
+	.xifin-dpos-consensus .icons-pop-section .flex-layout {margin:0px;}
+	.xifin-dpos-consensus .sub-header {font-size: 22px;line-height: 26px;padding-bottom:0px;}
+	.pop-ico-title {font-size: 16px;line-height: 20px;}
+}
 /*  XinFin Public DPOS Consensus  */
 
 /*  Download Assets  */
