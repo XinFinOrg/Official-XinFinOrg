@@ -48,7 +48,7 @@ include('inc/header.php') ?>
                                 <h3>Decentralized, Hybrid, Interoperable & Liquid Network</h3>
                             </div>
                             <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
-                                <p>eXchange inFinite (XinFin), is a Delegated Proof of Stake Consensus network (DPoS), enabling Hybrid Relay Bridges, Instant Block Finality and Interoperability with ISO20022 messaging standards, making XinFin's Hybrid Architecture Developer friendly.</p>
+                                <p>eXchange inFinite (XinFin), is a Delegated Proof of Stake Consensus network (XDPoS), enabling Hybrid Relay Bridges, Instant Block Finality and Interoperability with ISO20022 messaging standards, making XinFin's Hybrid Architecture Developer friendly.</p>
                             </div>
                             <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
                                 <a href="https://chrome.google.com/webstore/detail/xinpay/bocpokimicclpaiekenaeelehdjllofo" target="_blank"><button class="btn-hover color-1">Download XinPay</button></a>
@@ -72,7 +72,7 @@ include('inc/header.php') ?>
             <div class="compare-wrapper">
                 <div class="compare-left">
                     <div class="compare-content">
-                        <h2 class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">XinFin DPoS Hybrid Network, Powered by XDC Protocol</h2>
+                        <h2 class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">XinFin XDPoS Hybrid Network, Powered by XDC Protocol</h2>
                         <div class="compare-content-body mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
 							<p>Interoperable Blockchain Network for <a href="https://www.tradefinex.org/" target="_blank" style="color:#25aae1;font-weight:600;">Global Trade & Finance</a> which enables Digitization, Tokenization and instant settlement of trade transactions, increases efficiency and reduces reliance on complex FX infrastructures, allowing for increased flexibility in liquidity management for financial institutions.</p>
 						</div>
@@ -182,7 +182,7 @@ include('inc/header.php') ?>
             <div class="bannertext">
                 <div class="flex-row align-items-center">
                     <div class="col-md-6 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.7s">
-                        <img src="assets/images/home/xinfin-public-dpos-consensus.gif" class="img-responsive" width="100%" alt="XinFin Public DPoS Consensus">
+                        <img src="assets/images/home/xinfin-public-dpos-consensus.gif" class="img-responsive" width="100%" alt="XinFin Public XSDPoS Consensus">
                     </div>
                     <div class="col-md-6">
                         <div class="content-box">
@@ -191,11 +191,11 @@ include('inc/header.php') ?>
                                 <h3>The World's Fastest and Most Energy Efficient Consensus is here!</h3>
                             </div>
                             <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
-                                <p>Delegated Proof of Stake (DPoS) leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way.</p>
+                                <p>Delegated Proof of Stake (XDPoS) leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way.</p>
                             </div>
                             <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
                                 <a href="xinfin-consensus">
-                                    <button class="btn-hover color-1">XinFin Public DPoS Consensus</button>
+                                    <button class="btn-hover color-1">XinFin Public XDPoS Consensus</button>
                                 </a>
                             </div>
                         </div>

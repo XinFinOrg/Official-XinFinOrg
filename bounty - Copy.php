@@ -133,7 +133,7 @@ include('inc/header.php') ?>
                         <p>The problem is : how to choose L Validators for a certain epoch N?</p>
                         <ol>
                             <li> <strong>Balanced staked</strong></li>
-                            <p>This version of the DPoS contract should balance all the stakes by finding the minimum staked for all eligible Validators (eg. take the top 1000 Validators) and balance all the Validators stakes by refunding the users the contributions that overflowed the stake.</p>
+                            <p>This version of the XDPoS contract should balance all the stakes by finding the minimum staked for all eligible Validators (eg. take the top 1000 Validators) and balance all the Validators stakes by refunding the users the contributions that overflowed the stake.</p>
                             <p>For example, if the minimum stake is S, we want to balance all stakes to S. If a Validator has S+100 stakes because of 3 contributions: S−10, 5 and 100, then the last nominator will be refunded 95.</p>
                             <p>In this model, an epoch would be of the maximum number of Validators allowed, eg. 1,001 (+/- an hour on a 4-seconds block time chain).</p>
                         </ol>
@@ -193,7 +193,6 @@ In the contract, there will be a <span class="text-bg-grey">reportBenign</span> 
                         <div class="references-box">
                         <p class="sub-header">Consensus Related References</p>
                         <ul>
-                        	<li><a href="https://github.com/tomochain/tomochain/blob/master/consensus/posv/posv.go" target="_blank">TomoChain</a> (DPoS Code base in Golang)</li>
                             <li><a href="https://github.com/EOSIO" target="_blank">EOS</a></li>
 							<li><a href="https://github.com/tronprotocol/java-tron" target="_blank">TRON</a></li>
 							<li><a href="https://github.com/ethereum/go-ethereum/tree/master/consensus/ethash" target="_blank">Ethereum's Proof of Work ( ethash )</a></li>

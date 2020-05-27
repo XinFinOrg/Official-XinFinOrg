@@ -1,6 +1,6 @@
 <?php 
 $title = "XinFin Bounty Program, Airdrop for community contributor";
-$desc = "XinFin is launching a Bounty Program for Community! We Invite our Community and all bug bounty hunters to build DPoS Consensus !";
+$desc = "XinFin is launching a Bounty Program for Community! We Invite our Community and all bug bounty hunters to build XDPoS Consensus !";
 
 include('inc/header.php') ?>
 
@@ -10,7 +10,7 @@ include('inc/header.php') ?>
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12 bannertext">
                 <h1>Bounty Program for Developer</h1>
-                <p>XinFin is launching a Bounty Program for Community! We Invite our Community and all bug bounty hunters to build <strong>DPoS Consensus !</strong><br/><br/><br/><br/></p> 
+                <p>XinFin is launching a Bounty Program for Community! We Invite our Community and all bug bounty hunters to build <strong>XDPoS Consensus !</strong><br/><br/><br/><br/></p> 
             </div>    
         </div>
     </div>
@@ -25,9 +25,9 @@ include('inc/header.php') ?>
                 <div class="row" style="margin-top:0%;padding-bottom:0px;">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <h1>Bounty: 10Million XDC</h1>
-                        <p><strong>Self KYC compliant Delegated Proof of Stake (DPOS) Consensus on XDC Blockchain</strong></p>
-                        <p>Delegated Proof of Stake (DPOS) is the fastest, efficient, decentralized, and flexible consensus model available. DPOS leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way. <strong>Self KYC</strong> feature adds more enterpise usecases and regulator friendliness to the Public network.</p>
-                        <p><strong>This document describes the specification for a XinFin DPoS (Delegated Proof of Stake) network.</strong></p>
+                        <p><strong>Self KYC compliant Delegated Proof of Stake (XDPOS) Consensus on XDC Blockchain</strong></p>
+                        <p>Delegated Proof of Stake (XDPOS) is the fastest, efficient, decentralized, and flexible consensus model available. XDPOS leverages the power of stakeholder approval voting to resolve consensus issues in a fair and democratic way. <strong>Self KYC</strong> feature adds more enterpise usecases and regulator friendliness to the Public network.</p>
+                        <p><strong>This document describes the specification for a XinFin XDPoS (Delegated Proof of Stake) network.</strong></p>
                         <p><strong>XinFin Spec</strong></p>                        
                         <ul>
                         <li> Voting</li>
@@ -101,7 +101,7 @@ include('inc/header.php') ?>
                         <p>The problem is : how to choose L Validators for a certain epoch N?</p>
                         <ol>
                             <li> <strong>Balanced staked</strong></li>
-                            <p>This version of the DPoS contract should balance all the stakes by finding the minimum staked for all eligible Validators (eg. take the top 1000 Validators) and balance all the Validators stakes by refunding the users the contributions that overflowed the stake.</p>
+                            <p>This version of the XDPoS contract should balance all the stakes by finding the minimum staked for all eligible Validators (eg. take the top 1000 Validators) and balance all the Validators stakes by refunding the users the contributions that overflowed the stake.</p>
                             <p>For example, if the minimum stake is S, we want to balance all stakes to S. If a Validator has S+100 stakes because of 3 contributions: S−10, 5 and 100, then the last nominator will be refunded 95.</p>
                             <p>In this model, an epoch would be of the maximum number of Validators allowed, eg. 1,001 (+/- an hour on a 4-seconds block time chain).</p>
                         </ol>
@@ -161,7 +161,6 @@ In the contract, there will be a <span class="text-bg-grey">reportBenign</span> 
                         <div class="references-box">
                         <p class="sub-header">Consensus Related References</p>
                         <ul>
-                        	<li><a href="https://github.com/tomochain/tomochain/blob/master/consensus/posv/posv.go" target="_blank">TomoChain</a> (DPoS Code base in Golang)</li>
                             <li><a href="https://github.com/EOSIO" target="_blank">EOS</a></li>
 							<li><a href="https://github.com/tronprotocol/java-tron" target="_blank">TRON</a></li>
 							<li><a href="https://github.com/ethereum/go-ethereum/tree/master/consensus/ethash" target="_blank">Ethereum's Proof of Work ( ethash )</a></li>

@@ -29,7 +29,7 @@ include('inc/header.php') ?>
                         <h1>XinFin Delegated Proof of Stake (XDPOS) Consensus</h1>
                         <p><strong>Self KYC compliant XinFin Delegated Proof of Stake (XDPoS) Consensus on XDC Blockchain</strong></p>
                         <p>XinFin Delegated Proof of Stake (XDPoS) is the fastest, efficient, decentralized, and flexible consensus model available. XDPoS leverages the power of stakeholder consensus issues in a fair and democratic way. <strong>Self KYC</strong> feature adds more enterpise usecases and regulator friendliness to the Public network.</p>
-                        <p><strong>This document describes the specification for a XinFin DPoS (Delegated Proof of Stake) network.</strong></p>
+                        <p><strong>This document describes the specification for a XDPoS (XinFin Delegated Proof of Stake) network.</strong></p>
                         <p><strong>XinFin Spec</strong></p>                        
                         <ul>
                             <div class="orderList">
@@ -100,7 +100,7 @@ include('inc/header.php') ?>
                         <p>The problem is : how to choose L Validators for a certain epoch N?</p>
                         <ol>
                             <li> <strong>Balanced staked</strong></li>
-                            <p>This version of the DPoS contract should balance all the stakes by finding the minimum staked for all eligible Validators (eg. take the top 1000 Validators) and balance all the Validators stakes by refunding the users the contributions that overflowed the stake.</p>
+                            <p>This version of the XDPoS contract should balance all the stakes by finding the minimum staked for all eligible Validators (eg. take the top 1000 Validators) and balance all the Validators stakes by refunding the users the contributions that overflowed the stake.</p>
                             <p>For example, if the minimum stake is S, we want to balance all stakes to S. If a Validator has S+100 stakes because of 3 contributions: S−10, 5 and 100, then the last nominator will be refunded 95.</p>
                             <p>In this model, an epoch would be of the maximum number of Validators allowed, eg. 1,001 (+/- an hour on a 4-seconds block time chain).</p>
                         </ol>

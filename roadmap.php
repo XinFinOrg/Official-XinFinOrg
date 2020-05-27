@@ -255,7 +255,7 @@ include('inc/header.php') ?>
                                             <ul>
                                                 <li>Launch of Open Hackathon</li>
                                                 <li>Commencement of Community Bounty Plan</li>
-                                                <li>Rollout of DPoS Network (TestNet)</li>
+                                                <li>Rollout of XDPoS Network (TestNet)</li>
                                                 <li>Rollout of Standardize dApps Wallet (TestNet)</li>
                                             </ul>
                                         </div>

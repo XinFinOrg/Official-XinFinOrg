@@ -8,7 +8,7 @@
                 <!--<p><span>About XinFin</span><br/>-->
                 <p>
                 <a href="about">About Community</a><br/>
-                <a href="xinfin-consensus">Public DPoS Consensus</a><br/>
+                <a href="xinfin-consensus">Public XDPoS Consensus</a><br/>
 				<a href="resources">Resource Guide</a><br/>
                 <a href="http://xinfin.network/" target="_blank">XinFin Network Status</a><br/>
                 <!--<a href="https://howto.xinfin.org/">Developer Portal</a><br/>-->
