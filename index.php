@@ -482,6 +482,9 @@ include('inc/header.php') ?>
             <div style="margin-top:30px;">
                 <div class="row">
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.6s">
+                        <a href="http://forbes.com/sites/lukefitzpatrick/2020/05/24/spending-on-blockchain-solutions-could-surpass-16-billion-by-2023/" target="_blank"><img src="assets/images/home/media/forbes-logo.png" alt="Forbes" class="img-responsive margin-auto-lr"></a>
+                    </div>
+					<div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.6s">
                         <a href="https://finance.yahoo.com/news/xinfin-appoints-copper-institutional-crypto-200004056.html" target="_blank"><img src="assets/images/home/media/yahoofinance-logo.png" alt="Yahoo Finance" class="img-responsive margin-auto-lr"></a>
                     </div>
 					<div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
