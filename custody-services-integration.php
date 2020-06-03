@@ -10,7 +10,7 @@ include('inc/header.php') ?>
         <div class="row">
             <div class="col-md-12">
 				<div class="bannertext">
-					<h1>Custodian Listing Resource</h1>
+					<h1>Custody Services Integration</h1>
 					<p>Details require to list XinFin-XDC (MainNet Chain) and Xinfin-XDCe with exchange.</p>
 				</div>
 			</div>
