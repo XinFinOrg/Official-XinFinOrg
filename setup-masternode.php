@@ -30,10 +30,10 @@ include('inc/header.php') ?>
 			<div class="setup-masternode-row">
 				<!--<div class="container">-->
 					<ul class="nav nav-tabs">
-					    <li class="active"><a data-toggle="tab" href="#one-click-installer">One click installer</a></li>
-						<li><a data-toggle="tab" href="#docker">Docker</a></li>
+					    <li class="active"><a data-toggle="tab" href="#one-click-installer">ONE CLICK INSTALLER</a></li>
+						<li><a data-toggle="tab" href="#docker">DOCKER</a></li>
 						<li><a data-toggle="tab" href="#faqs">FAQ's</a></li>
-						<li><a data-toggle="tab" href="#about-xinfin-masternode">About XinFin Masternode</a></li>
+						<li><a data-toggle="tab" href="#about-xinfin-masternode">ABOUT XinFin MASTERNODE</a></li>
 					</ul>
 				<!--<div class="container">-->
 			</div>

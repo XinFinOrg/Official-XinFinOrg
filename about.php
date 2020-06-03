@@ -34,8 +34,8 @@ include('inc/header.php') ?>
 		<div class="about-tab-row">
 			<!--<div class="container">-->
 				<ul class="nav nav-tabs">
-					<li class="active"><a data-toggle="tab" href="#xinfin">About Xinfin</a></li>
-				    <li><a data-toggle="tab" href="#team">About the Team</a></li>
+					<li class="active"><a data-toggle="tab" href="#xinfin">ABOUT XinFin</a></li>
+				    <li><a data-toggle="tab" href="#team">ABOUT THE TEAM</a></li>
 				</ul>
 			<!--<div class="container">-->
 		</div>
