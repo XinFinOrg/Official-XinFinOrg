@@ -47,7 +47,7 @@ include('inc/header.php') ?>
           <div class="col-md-12">
           	<p>Project Name: Xinfin Network</p>
             <p class="link-break-out">Project website: <a href="https://xinfin.org">https://xinfin.org</a></p>
-            <p>Token Name: XDC Mainnet</p>
+            <p>Token Name: XDC MainNet</p>
             <p>Token Symbol: XDC</p>
             <p class="link-break-out">Blockchain endpoint: <a href="https://rpc.xinfin.network/" target="_blank">https://rpc.xinfin.network</a></p>
             <p class="link-break-out">Github: <a href="https://github.com/XinFinOrg/XinFin-Node" target="_blank">https://github.com/XinFinOrg/XinFin-Node</a></p>
