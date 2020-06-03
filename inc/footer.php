@@ -13,6 +13,7 @@
                 <a href="http://xinfin.network/" target="_blank">XinFin Network Status</a><br/>
                 <!--<a href="https://howto.xinfin.org/">Developer Portal</a><br/>-->
 				<a href="exchange-listing-resource">Exchange Listing Resource</a><br />
+				<a href="custodian-listing-resource">Custodian Listing Resource</a><br />
 				<a href="https://github.com/XinFinOrg/Open-Hackathon" target="_blank">Online Hackathon</a>
                 </p>
 			</div>
