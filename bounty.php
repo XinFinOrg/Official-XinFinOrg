@@ -24,6 +24,25 @@ include('inc/header.php') ?>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
                     <div class="bounty-box">
                         <div class="image-container">
+                            <img class="img-responsive" src="assets/images/bounty/memes-bounty.jpg" alt="XinFin Android Wallet Bug Bounty">
+                        </div>
+                        <div class="content">
+                            <h3>XinFin Memes Campaign (Bounty on Memes)</h3>
+                            <h4 class="highlight">Upto 5,000 XDC</h4>
+                            <p class="text-muted">Participate in XinFin Memes Bounty and get rewards.</p>
+                        </div>
+                        <div class="btn-block mb-1">
+                            <a href="https://docs.google.com/forms/d/1kEOQnX7Lj8NIPqfE9m7EHmuU_RyICRG-xoRa0wYgTSQ" target="_blank">
+                                <button class="btn-hover color-1">Apply</button>
+                            </a>
+                            <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-0">Detailed Rules</button>
+                        </div>
+                    </div>
+                </div>
+				
+				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
+                    <div class="bounty-box">
+                        <div class="image-container">
                             <img class="img-responsive" src="assets/images/bounty/deploy-solidity-smart-contract.jpg" alt="XinFin Android Wallet Bug Bounty">
                         </div>
                         <div class="content">
@@ -127,8 +146,53 @@ include('inc/header.php') ?>
 
                 </div>
             </div>
+			
+			
+			
+			
 
-            <!-- Modal 1 -->
+            <!-- Modal 0 -->
+            <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-0" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered bounty-modal" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                            <h3 class="modal-title" id="exampleModalCenterTitle">XinFin Memes Campaign (Bounty on Memes)</h3>
+                        </div>
+                        <div class="modal-body">
+                            <div class="bounty">
+                                <p>To support the innovation of Community, XinFin Plans to run memes bounty. Meme needs to be informative and attractive. The memes getting the maximum number of like share and retweets will be awarded XDC. Every participant needs to fill the bounty form to claim their rewards. Only the top 10 users will receive 5000 XDC each.</p>
+                                <p class="sub-header-small mb-2">Bounty Terms:</p>
+                                <div class="orderList">
+                                    <ol>
+                                        <li>Memes can be an image, gif, short video.</li>
+                                        <li>Any social Media Post should tag <strong>@XinFin_Official</strong> and hashtag <strong>#XinFin #XDC #XinFin_Memes</strong>.</li>
+                                        <li>Top 10 memes with maximum like (1 point each like) + share (1 point each share) + comments (1 point for each comment) will be awarded.</li>
+                                        <li>Priority for the people following XinFin (10 points).</li>
+                                        <li>Community members will be allowed to take help from Meme Generator site like <a href="https://imgflip.com/memegenerator etc" target="_blank">https://imgflip.com/memegenerator etc</a>.</li>
+										<li>Committee Team Reserves to reject any Bounty entry.</li>
+                                    </ol>
+                                </div>
+
+                                <p class="sub-header-small mt-3 mb-1">How to claim your bounty?</p>
+                                <ul>
+                                    <li>Fill this <a href="https://docs.google.com/forms/d/1kEOQnX7Lj8NIPqfE9m7EHmuU_RyICRG-xoRa0wYgTSQ" target="_blank">Google form</a> to claim your bounty.</li>
+                                </ul>
+                                <p class="mt-3">This bounty is valid till <strong>30 June 2020</strong>.</p>
+                                <div class="btn-block mt-3 mb-1">
+                                    <a href="https://docs.google.com/forms/d/1kEOQnX7Lj8NIPqfE9m7EHmuU_RyICRG-xoRa0wYgTSQ" target="_blank">
+                                        <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="modal-footer"></div>
+                    </div>
+                </div>
+            </div>
+            <!-- /. Modal 0 -->
+			
+			<!-- Modal 1 -->
             <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-1" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered bounty-modal" role="document">
                     <div class="modal-content">
