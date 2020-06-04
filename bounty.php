@@ -169,7 +169,7 @@ include('inc/header.php') ?>
                                         <li>Any social Media Post should tag <strong>@XinFin_Official</strong> and hashtag <strong>#XinFin #XDC #XinFin_Memes</strong>.</li>
                                         <li>Top 10 memes with maximum like (1 point each like) + share (1 point each share) + comments (1 point for each comment) will be awarded.</li>
                                         <li>Priority for the people following XinFin (10 points).</li>
-                                        <li>Community members will be allowed to take help from Meme Generator site like <a href="https://imgflip.com/memegenerator etc" target="_blank">https://imgflip.com/memegenerator etc</a>.</li>
+                                        <li>Community members will be allowed to take help from Meme Generator site like <a href="https://imgflip.com/memegenerator" target="_blank">https://imgflip.com/memegenerator</a> etc.</li>
 										<li>Committee Team Reserves to reject any Bounty entry.</li>
                                     </ol>
                                 </div>
