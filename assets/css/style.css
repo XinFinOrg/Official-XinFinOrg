@@ -1478,6 +1478,16 @@ button.btn-outline-default .fa{margin-right:5px;}
 .exchange-listing .configurationsBox p:last-child {margin-bottom:0px!important;}
 .exchange-listing .configurationsBox h5.heading {font-size:22px;color:#696969;font-weight:600;margin-top:0px;}
 .exchange-listing .img-shadow {box-shadow: 0px 6px 6px 2px rgba(0,0,0,0.1);   margin-left: auto!important;margin-right: auto!important;display: block!important;}
+
+.col#download-icon-boxes{width:33%;float:left}
+#download-icon-boxes{text-align:center;padding:0 10px}
+#download-icon-boxes a{border:1px solid #dcdcdc;border-radius:5px;display:flex;justify-content:center;align-items:center;text-decoration:none;color:#777!important;margin:0px 0px 20px 5px;padding:3px;min-height:125px}
+#download-icon-boxes a:hover{border-color:#2bbbad}
+#download-icon-boxes img{width:60px;height:60px;padding:5px;margin-top:5px;border-radius:50%}
+#download-icon-boxes span{display:block;margin:5px 0 8px;line-height:18px;font-weight:600}
+@media screen and (max-width: 991px) {.col#download-icon-boxes {width: 50%;}}
+@media screen and (min-width: 768px) and (max-width: 991px) {#download-icon-boxes a {min-height:130px;}}
+@media screen and (max-width: 480px) {#download-icon-boxes a {min-height:130px;}}
 @media screen and (max-width: 991px) {.exchange-listing .content-box {padding-right:0px;margin-bottom: 35px;}.exchange-listing .content-box.cb-alt{padding-left:0px;}.exchange-listing .video-frame {margin-bottom: 30px;}}
 
 /* Exchange listing */
