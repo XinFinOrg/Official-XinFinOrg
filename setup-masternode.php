@@ -260,7 +260,7 @@ include('inc/header.php') ?>
     </tr>
 	<tr>
       <td class="functionHighlight" scope="row">Masternode Yield</th>
-      <td class="functionHighlight-xdc">10 - 12 %</td>
+      <td class="functionHighlight-xdc">8 - 12 %</td>
       <td>No</td>
 	  <td>-</td>
 	  <td>~6.3%</td>
