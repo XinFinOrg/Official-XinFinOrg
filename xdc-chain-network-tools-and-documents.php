@@ -221,7 +221,7 @@ include('inc/header.php') ?>
 
                         <div class="col-md-6">
                             <div class="">
-                                <img src="assets/images/xinpay-extension.jpg" / class="img-responsive img-shadow">
+                                <img src="assets/images/xinpay-extension.jpg" class="img-responsive img-shadow">
                             </div>
                         </div>
                     </div>
@@ -256,10 +256,46 @@ include('inc/header.php') ?>
 
                         <div class="col-md-6 col-md-pull-6">
                             <div class="">
-                                <img src="assets/images/xinfin-remix.jpg" / class="img-responsive img-shadow">
+                                <img src="assets/images/xinfin-remix.jpg" class="img-responsive img-shadow">
                             </div>
                         </div>
                     </div>
+					
+					<div class="row mt-6">
+                        <div class="col-md-12">
+                            <div style="height: 1px; width: 100%; border-top: 1px solid rgba(0, 0, 0, 0.2);"></div>
+                        </div>
+                    </div>
+					
+					<div class="flex-row mt-6 align-items-center">
+                        <div class="col-md-6">
+                            <div class="content-box">
+                                <div class="mb-2">
+                                    <h1>Test Network/Sandbox call as Apothem Network</h1>
+                                    <p>1. Need to provide test currency advice to prepare financial process in advance</p>
+                                </div>
+                                <div class="btn-block mb-2">
+                                    <a href="https://www.apothem.network/ " target="_blank">
+                                        <button class="btn-hover color-1">Sandbox/Test Network</button>
+                                    </a>
+                                    <a href="https://www.apothem.network/#getTestXDC" target="_blank"><button class="btn-hover color-3">Get free test XDC</button></a>
+                                </div>
+								<div class="mb-1">
+                                    <p>2. Also send us an XDC wallet Address at <a href="mailto:info@xinfin.org">info@xinfin.org</a> to transfer real XDC coins to do transactions under the Live network environment.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+							<div class="resp-container img-shadow">
+								<iframe class="resp-iframe" src="http://faucet.apothem.network/"></iframe>
+							</div>
+							<!--<div class="">
+                                <img src="assets/images/apothem-network.jpg" class="img-responsive img-shadow">
+                            </div>-->
+                        </div>
+                    </div>
+					
 
                     <div class="row mt-6">
                         <div class="col-md-12 col-sm-12 col-xs-12">

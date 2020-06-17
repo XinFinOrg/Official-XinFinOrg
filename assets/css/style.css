@@ -1372,6 +1372,7 @@ button.btn-outline-default .fa{margin-right:5px;}
 /*  Bounty  */
 
 
+
 /*  STAKE XDC & SETUP MASTERNODE  */
 .setup-masternode h1 {font-family: 'Muli', sans-serif;color: #002752;font-size: 25px;font-weight:600;text-align: left;margin-top:0px;padding-bottom: 15px;}
 .setup-masternode h2 {font-family: 'Muli', sans-serif;color: #002752;font-size: 25px;font-weight:400;text-align: left;margin-top:0px;}
@@ -1479,12 +1480,16 @@ button.btn-outline-default .fa{margin-right:5px;}
 .exchange-listing .configurationsBox h5.heading {font-size:22px;color:#696969;font-weight:600;margin-top:0px;}
 .exchange-listing .img-shadow {box-shadow: 0px 6px 6px 2px rgba(0,0,0,0.1);   margin-left: auto!important;margin-right: auto!important;display: block!important;}
 
+.resp-container {position:relative;overflow:hidden;padding-top:56.25%;}
+.resp-iframe {position:absolute;top:0;left:0;width:100%;height:100%;border:0;}
+
 .col#download-icon-boxes{width:33%;float:left}
 #download-icon-boxes{text-align:center;padding:0 10px}
 #download-icon-boxes a{border:1px solid #dcdcdc;border-radius:5px;display:flex;justify-content:center;align-items:center;text-decoration:none;color:#777!important;margin:0px 0px 20px 5px;padding:3px;min-height:125px}
 #download-icon-boxes a:hover{border-color:#2bbbad}
 #download-icon-boxes img{width:60px;height:60px;padding:5px;margin-top:5px;border-radius:50%}
 #download-icon-boxes span{display:block;margin:5px 0 8px;line-height:18px;font-weight:600}
+
 @media screen and (max-width: 991px) {.col#download-icon-boxes {width: 50%;}}
 @media screen and (min-width: 768px) and (max-width: 991px) {#download-icon-boxes a {min-height:130px;}}
 @media screen and (max-width: 480px) {#download-icon-boxes a {min-height:130px;}}
@@ -4676,7 +4681,7 @@ margin-left:20px;
 pre{font-size:15px;color:#002752;background-color:#e9f0f7;border:none;padding:16px;margin-bottom:20px;border-radius:3px;}
 pre code{white-space:inherit;}
 
-code{padding:5px 8px;font-size:15px;color:#002752;background-color:#f6f8fa;border-radius:3px;}
+code{padding:5px 8px;font-size:15px;color:#002752;background-color:#e9f0f7;border-radius:3px;}
 
 .pl-c1, .pl-s .pl-v{color:#005cc5;}
 

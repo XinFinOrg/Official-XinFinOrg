@@ -76,6 +76,12 @@ include('inc/header.php') ?>
             <p>Pair Reference : XDC:USDC, XDC:ETH, XDC:BTC,  XDC:USD</p>
             <p>Preference to run bounty plan : No</p>
 			
+			<p class="sub-header mt-5">Test Network/Sandbox call as Apothem Network</p>
+			<p>1. Need to provide test currency advice to prepare financial process in advance</p>
+			<p><a href="https://www.apothem.network/" target="_blank"><button class="btn-hover color-1">Sandbox/Test Network</button></a> <a href="https://www.apothem.network/#getTestXDC" target="_blank"><button class="btn-hover color-3">Get free test XDC</button></a></p>
+			<p>2. Also send us an XDC wallet Address <a href="mailto:info@xinfin.org">info@xinfin.org</a> to transfer real XDC coins to do transactions under the Live network environment.</p>
+			
+			
 			<p class="sub-header mt-5">How to create account in XinFin Blockchain?</p>
 			<p class="mt-1 mb-1"><strong>1. Using Keystore</strong></p>
 			<div style="margin-left:20px;">
