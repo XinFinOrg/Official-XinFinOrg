@@ -145,7 +145,7 @@ In the contract, there will be a <code>reportBenign</code> method (part of the V
                         <p class="sub-header">Parameters</p>
                         <p class="text-left mb-1">Suggested parameter values from requirements:</p>
                         <p class="text-left mb-1"><code>MIN_STAKE</code> : 10000000 XDC</p>
-                        <p class="text-left mb-1"><code>VALIDATOR_REWARD</code> : 10% Yearly</p>
+                        <p class="text-left mb-1"><code>VALIDATOR_REWARD</code> : NO_MASTERNODE / TOTAL_REWARD</p>
                         <p class="text-left mb-1"><code>REWARDS_TRANSFER</code> : Every next block of epoch</p>
                         <p class="text-left mb-1"><code>VALIDATOR_SET_SIZE</code> : 108</p>
                         <p class="text-left mb-1"><code>WITHDRAWAL_PERIOD</code> : Set of Epoch (1 Epoch == 900 Blocks)</p>
