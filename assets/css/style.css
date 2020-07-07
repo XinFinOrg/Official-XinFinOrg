@@ -1347,15 +1347,32 @@ button.btn-outline-default .fa{margin-right:5px;}
 .bounty .rewardBox p{text-align:center;margin-bottom:0px!important;}
 .bounty .rewardBox p.highlight{font-size:14px;text-align:center;margin-bottom:0px!important;background-color:#f6f6f6;margin-top:15px;padding:4px;color:#096db0!important;line-height:16px;}
 
+.rewardBox.finished h1, .rewardBox.finished p, .rewardBox.finished p.highlight {opacity: 0.15;}
+
+.bounty-finished-alert{z-index:1}
+.bounty-finished-alert{display:block;position:relative;width:100%;height:100%;float:left;-webkit-transform:scale(1,1);transform:scale(1,1);-webkit-backface-visibility:hidden;backface-visibility:hidden}
+.bounty-finished-alert{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;position:absolute;top:0;left:0}
+.bounty-finished-alert .alert-content{display:block;position:relative;padding:2%;-ms-transform:rotate(-30deg);transform:rotate(-30deg)}
+.bounty-finished-alert .alert-content{font-size:14px;color:#fff;padding:6px 12px;border-radius:.3em;background:rgba(248,194,34,.8)}
+
 .bounty-box {border-radius: 5px;display: block;position: relative;padding:5px;background-color:#FFFFFF;height:100%;-webkit-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);-moz-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);}
 .bounty-box .image-container {display: -ms-flexbox;display: flex;text-align: center;-ms-flex-align: center;align-items: center;font: 0/0 a;border: 1px solid transparent;}
 .bounty-box .image-container img {margin: auto;width: 100%;max-height: 100%;-o-object-fit: contain;object-fit: contain;}
 .bounty-box .content {padding: 0px 15px;min-height:190px;}
 .bounty-box .content h3{font-size:20px;font-weight:600;line-height:24px;}
 .bounty-box .content h4.highlight {font-size:18px;color:#096db0;font-style:italic;font-weight:700;margin-top: 15px;margin-bottom: 15px;}
-.bounty-box .content p {font-size:15px;line-height:19px;margin-bottom:15px;}
+.bounty-box .content p {font-size:14px;line-height:19px;min-height:56px;margin-bottom:15px;}
 .bounty-box .btn-block {padding: 0px 15px;justify-content: space-around;width: 100%;}
 .bounty-box .btn-block .btn-hover {padding: 8px 0px;flex-grow: 1;width:49.2%;margin: 0px;}
+
+.bounty-box .content .progress-labels {border-top:1px dashed #e3e7ed;border-bottom:1px dashed #e3e7ed;padding:8px;margin-bottom:15px;background:rgba(249, 250, 252, 0.5);}
+.bounty-box .content .progress-labels .timer{font-size:12px;color:#a2a2a2;font-weight:600;}
+.bounty-box .content .progress-labels .timer img{width:24px;height:24px;margin-right:10px;vertical-align:middle;}
+.bounty-box .content .progress-labels .timer span{vertical-align:middle;}
+.bounty-box .content .progress-labels .status{font-size:13px;color:#24abdf;font-weight:600;}
+.bounty-box .content .progress-labels .status.finished{color:#ff6a00;}
+.flex-container {padding:0;margin:0;list-style:none;display:flex;}
+.space-between {justify-content:space-between;} 
 
 .modal {padding: 15px!important;}
 .modal-dialog.bounty-modal {max-width: 825px;width:auto;}
@@ -4746,6 +4763,16 @@ code{padding:5px 8px;font-size:15px;color:#002752;background-color:#e9f0f7;borde
 .btn-hover.color-1 {
     background-image: linear-gradient(to right, #25aae1, #0dd1ae, #01e074, #2bbbad);
 	border: 2px solid transparent;
+}
+.disabled .btn-hover.color-1{
+  opacity: 0.65; 
+  cursor: not-allowed;
+  pointer-events: none;
+}
+.disabled {
+  opacity: 0.65; 
+  cursor: not-allowed;
+  pointer-events: none;
 }
 /*.color-2 {
 	color: #fff;

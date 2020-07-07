@@ -30,9 +30,10 @@ include('inc/header.php') ?>
                             <h3>XinFin Memes Campaign (Bounty on Memes)</h3>
                             <h4 class="highlight">Upto 5,000 XDC</h4>
                             <p class="text-muted">Participate in XinFin Memes Bounty and get rewards.</p>
+							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status finished pull-right">FINISHED</span></div>
                         </div>
                         <div class="btn-block mb-1">
-                            <a href="https://docs.google.com/forms/d/1kEOQnX7Lj8NIPqfE9m7EHmuU_RyICRG-xoRa0wYgTSQ" target="_blank">
+                            <a href="#" class="disabled">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
                             <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-0">Detailed Rules</button>
@@ -49,6 +50,7 @@ include('inc/header.php') ?>
                             <h3>Deploy Solidity Contract on XinFin MainNet (DSCXM Bounty)</h3>
                             <h4 class="highlight">Upto 10,000 USD worth XDC</h4>
                             <p class="text-muted">Deploy Solidity Contract on XinFin MainNet and get rewards.</p>
+							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
                         </div>
                         <div class="btn-block mb-1">
                             <a href="https://docs.google.com/forms/d/1qU9Oel-JgUskpZg8SSo2qDi7NvjhvsTy9p5G8a_9b3o" target="_blank">
@@ -68,6 +70,7 @@ include('inc/header.php') ?>
                             <h3>XinFin Android Wallet Bug Bounty</h3>
                             <h4 class="highlight">Upto 200 USD worth XDC</h4>
                             <p class="text-muted">Explore vulnerabilities in XinFin Android Wallet and get rewards.</p>
+							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
                         </div>
                         <div class="btn-block mb-1">
                             <a href="https://docs.google.com/forms/d/1api3woqg6oY4Lk7sRL2fnaBj8etfB-XF6fZNKLU6zFo" target="_blank">
@@ -87,6 +90,7 @@ include('inc/header.php') ?>
                             <h3>Bug Bounty Program for testing XinFin Extension Wallet: XinPay</h3>
                             <h4 class="highlight">Upto 200 USD worth XDC</h4>
                             <p class="text-muted">Test XinPay for any errors, bugs on XinFin TestNet and provide ideas to enhance eWallet.</p>
+							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
                         </div>
                         <div class="btn-block mb-1">
                             <a href="https://docs.google.com/forms/d/1SklUqUFpncyj2GqYT48qR6sgC3jYMkvuCBy_UVDLovw" target="_blank">
@@ -106,6 +110,7 @@ include('inc/header.php') ?>
                             <h3>Masternode Bounty Program: For hosting Masternode</h3>
                             <h4 class="highlight">Upto 900 USD worth XDC</h4>
                             <p class="text-muted">Host Masternode and get incentives as well as a special bonus bounty.</p>
+							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
                         </div>
                         <div class="btn-block mb-1">
                             <a href="https://docs.google.com/forms/d/1sWgbJgVOnAJtxqOWePiAXg9hsIK-e06Jn0KtyoHjcZE" target="_blank">
@@ -125,6 +130,7 @@ include('inc/header.php') ?>
                             <h3>Masternode Luck User Bounty: To set-up Masternode</h3>
                             <h4 class="highlight">Upto 2,000,000 XDC</h4>
                             <p class="text-muted">Set-up a Masternode using the one-click installer guide.</p>
+							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
                         </div>
                         <div class="btn-block mb-1">
                             <a href="https://docs.google.com/forms/d/1XNrF7Kg7JgmYD3qDN3hZ6B895zeT8ZD2CAg8F9L0h_A" target="_blank">
@@ -176,11 +182,11 @@ include('inc/header.php') ?>
 
                                 <p class="sub-header-small mt-3 mb-1">How to claim your bounty?</p>
                                 <ul>
-                                    <li>Fill this <a href="https://docs.google.com/forms/d/1kEOQnX7Lj8NIPqfE9m7EHmuU_RyICRG-xoRa0wYgTSQ" target="_blank">Google form</a> to claim your bounty.</li>
+                                    <li>Fill this <a href="#" class="disabled">Google form</a> to claim your bounty.</li>
                                 </ul>
                                 <p class="mt-3">This bounty is valid till <strong>30 June 2020</strong>.</p>
                                 <div class="btn-block mt-3 mb-1">
-                                    <a href="https://docs.google.com/forms/d/1kEOQnX7Lj8NIPqfE9m7EHmuU_RyICRG-xoRa0wYgTSQ" target="_blank">
+                                    <a href="#" class="disabled">
                                         <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
                                     </a>
                                 </div>
@@ -438,27 +444,30 @@ include('inc/header.php') ?>
 
                                 <div class="flex-row mt-1 rewards">
                                     <div class="col-md-3 col-sm-3 col-xs-6 mb-2">
-                                        <div class="rewardBox">
+                                        <div class="rewardBox finished">
                                             <h1>3 Months</h1>
                                             <p>500,000 XDC</p>
                                             <p class="highlight">* 5 Lucky Winners</p>
                                         </div>
+										<div class="bounty-finished-alert"><div class="alert-content">Bounty over</div></div>
                                     </div>
 
                                     <div class="col-md-3 col-sm-3 col-xs-6 mb-2">
-                                        <div class="rewardBox">
+                                        <div class="rewardBox finished">
                                             <h1>6 Months</h1>
                                             <p>1000,000 XDC</p>
                                             <p class="highlight">* 5 Lucky Winners</p>
                                         </div>
+										<div class="bounty-finished-alert"><div class="alert-content">Bounty over</div></div>
                                     </div>
 
                                     <div class="col-md-3 col-sm-3 col-xs-6 mb-2">
-                                        <div class="rewardBox">
+                                        <div class="rewardBox finished">
                                             <h1>9 Months</h1>
                                             <p>1,500,000 XDC</p>
                                             <p class="highlight">* 5 Lucky Winners</p>
                                         </div>
+										<div class="bounty-finished-alert"><div class="alert-content">Bounty over</div></div>
                                     </div>
 
                                     <div class="col-md-3 col-sm-3 col-xs-6 mb-2">
