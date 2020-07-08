@@ -228,7 +228,7 @@ include('inc/header.php') ?>
                                     <li>Make an announcement on your official social media handle (Twitter/Linkedin) or make a PressRelease/Blog/BitcoinTalk post by tagging XinFin handle and adding relevant images and the keywords #XDC #XinFin #developer)</li>
                                     <li>Fill this <a href="https://docs.google.com/forms/d/1qU9Oel-JgUskpZg8SSo2qDi7NvjhvsTy9p5G8a_9b3o" target="_blank">Google form</a> to claim your bounty.</li>
                                 </ul>
-                                <p class="mt-3">This bounty is valid till <strong>30 June 2020</strong>.</p>
+                                <p class="mt-3">This bounty is valid till <strong>31 August 2020</strong>.</p>
                                 <div class="btn-block mt-3 mb-1">
                                     <a href="https://docs.google.com/forms/d/1qU9Oel-JgUskpZg8SSo2qDi7NvjhvsTy9p5G8a_9b3o" target="_blank">
                                         <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
