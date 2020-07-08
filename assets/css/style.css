@@ -1361,7 +1361,7 @@ button.btn-outline-default .fa{margin-right:5px;}
 .bounty-box .content {padding: 0px 15px;min-height:190px;}
 .bounty-box .content h3{font-size:20px;font-weight:600;line-height:24px;}
 .bounty-box .content h4.highlight {font-size:18px;color:#096db0;font-style:italic;font-weight:700;margin-top: 15px;margin-bottom: 15px;}
-.bounty-box .content p {font-size:14px;line-height:19px;min-height:56px;margin-bottom:15px;}
+.bounty-box .content p {font-size:14px;line-height:20px;min-height:60px;margin-bottom:15px;}
 .bounty-box .btn-block {padding: 0px 15px;justify-content: space-around;width: 100%;}
 .bounty-box .btn-block .btn-hover {padding: 8px 0px;flex-grow: 1;width:49.2%;margin: 0px;}
 

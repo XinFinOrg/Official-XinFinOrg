@@ -24,19 +24,19 @@ include('inc/header.php') ?>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
                     <div class="bounty-box">
                         <div class="image-container">
-                            <img class="img-responsive" src="assets/images/bounty/memes-bounty.jpg" alt="XinFin Android Wallet Bug Bounty">
+                            <img class="img-responsive" src="assets/images/bounty/developers-bounty-for-swap.jpg" alt="Developers Bounty For Swap">
                         </div>
                         <div class="content">
-                            <h3>XinFin Memes Campaign (Bounty on Memes)</h3>
-                            <h4 class="highlight">Upto 5,000 XDC</h4>
-                            <p class="text-muted">Participate in XinFin Memes Bounty and get rewards.</p>
-							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status finished pull-right">FINISHED</span></div>
+                            <h3>Developers Bounty for Swap between XDC and XDCE</h3>
+                            <h4 class="highlight">Upto 1 Million XDC</h4>
+                            <p class="text-muted">Develop a real-time decentralized swap between XDC and XDCE.</p>
+							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
                         </div>
                         <div class="btn-block mb-1">
-                            <a href="#" class="disabled">
+                            <a href="https://github.com/XinFinOrg/atomicSwap" target="_blank">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
-                            <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-0">Detailed Rules</button>
+                            <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1">Detailed Rules</button>
                         </div>
                     </div>
                 </div>
@@ -56,7 +56,7 @@ include('inc/header.php') ?>
                             <a href="https://docs.google.com/forms/d/1qU9Oel-JgUskpZg8SSo2qDi7NvjhvsTy9p5G8a_9b3o" target="_blank">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
-                            <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1">Detailed Rules</button>
+                            <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-3">Detailed Rules</button>
                         </div>
                     </div>
                 </div>
@@ -76,7 +76,7 @@ include('inc/header.php') ?>
                             <a href="https://docs.google.com/forms/d/1api3woqg6oY4Lk7sRL2fnaBj8etfB-XF6fZNKLU6zFo" target="_blank">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
-                            <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-2">Detailed Rules</button>
+                            <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-4">Detailed Rules</button>
                         </div>
                     </div>
                 </div>
@@ -96,7 +96,7 @@ include('inc/header.php') ?>
                             <a href="https://docs.google.com/forms/d/1SklUqUFpncyj2GqYT48qR6sgC3jYMkvuCBy_UVDLovw" target="_blank">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
-                            <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-3">Detailed Rules</button>
+                            <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-5">Detailed Rules</button>
                         </div>
                     </div>
                 </div>
@@ -116,7 +116,7 @@ include('inc/header.php') ?>
                             <a href="https://docs.google.com/forms/d/1sWgbJgVOnAJtxqOWePiAXg9hsIK-e06Jn0KtyoHjcZE" target="_blank">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
-                            <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-4">Detailed Rules</button>
+                            <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-6">Detailed Rules</button>
                         </div>
                     </div>
                 </div>
@@ -136,7 +136,27 @@ include('inc/header.php') ?>
                             <a href="https://docs.google.com/forms/d/1XNrF7Kg7JgmYD3qDN3hZ6B895zeT8ZD2CAg8F9L0h_A" target="_blank">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
-                            <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-5">Detailed Rules</button>
+                            <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-7">Detailed Rules</button>
+                        </div>
+                    </div>
+                </div>				
+				
+				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
+                    <div class="bounty-box">
+                        <div class="image-container">
+                            <img class="img-responsive" src="assets/images/bounty/memes-bounty.jpg" alt="XinFin Android Wallet Bug Bounty">
+                        </div>
+                        <div class="content">
+                            <h3>XinFin Memes Campaign (Bounty on Memes)</h3>
+                            <h4 class="highlight">Upto 5,000 XDC</h4>
+                            <p class="text-muted">Participate in XinFin Memes Bounty and get rewards.</p>
+							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status finished pull-right">FINISHED</span></div>
+                        </div>
+                        <div class="btn-block mb-1">
+                            <a href="#" class="disabled">
+                                <button class="btn-hover color-1">Apply</button>
+                            </a>
+                            <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-2">Detailed Rules</button>
                         </div>
                     </div>
                 </div>
@@ -157,8 +177,41 @@ include('inc/header.php') ?>
 			
 			
 
-            <!-- Modal 0 -->
-            <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-0" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+            <!-- Modal 1 -->
+            <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-1" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered bounty-modal" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                            <h3 class="modal-title" id="exampleModalCenterTitle">Developers Bounty for Swap between XDC and XDCE</h3>
+                        </div>
+                        <div class="modal-body">
+                            <div class="bounty">
+                                <p>To support the innovation of Community, XinFin Plans to run memes bounty. Meme needs to be informative and attractive. The memes getting the maximum number of like share and retweets will be awarded XDC. Every participant needs to fill the bounty form to claim their rewards. Only the top 10 users will receive 5000 XDC each.</p>
+                                <p class="sub-header-small mb-2">Rules:</p>
+                                <div class="orderList">
+                                    <ol>
+                                        <li>Create your open-source codebase on Github: <a href="https://github.com/XinFinOrg/atomicSwap" target="_blank">https://github.com/XinFinOrg/atomicSwap</a>.</li>
+                                        <li>Tweet in reply to this bounty along with XDC address and tag <strong>@XinFin_Official</strong>.</li>
+                                        <li>The best 5 implementations will get 1 Million XDC bounties directly in the wallet.</li>
+                                    </ol>
+                                </div>
+                                <p class="mt-3">This bounty is valid till <strong>22 August 2020</strong>.</p>
+                                <div class="btn-block mt-3 mb-1">
+                                    <a href="https://github.com/XinFinOrg/atomicSwap" target="_blank">
+                                        <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="modal-footer"></div>
+                    </div>
+                </div>
+            </div>
+            <!-- /. Modal 1 -->
+			
+			<!-- Modal 2 -->
+            <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered bounty-modal" role="document">
                     <div class="modal-content">
                         <div class="modal-header">
@@ -196,10 +249,10 @@ include('inc/header.php') ?>
                     </div>
                 </div>
             </div>
-            <!-- /. Modal 0 -->
+            <!-- /. Modal 2 -->
 			
-			<!-- Modal 1 -->
-            <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-1" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+			<!-- Modal 3 -->
+            <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-3" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered bounty-modal" role="document">
                     <div class="modal-content">
                         <div class="modal-header">
@@ -240,10 +293,10 @@ include('inc/header.php') ?>
                     </div>
                 </div>
             </div>
-            <!-- /. Modal 1 -->
+            <!-- /. Modal 3 -->
 
-            <!-- Modal 2 -->
-            <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+            <!-- Modal 4 -->
+            <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-4" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered bounty-modal" role="document">
                     <div class="modal-content">
                         <div class="modal-header">
@@ -313,10 +366,10 @@ include('inc/header.php') ?>
                     </div>
                 </div>
             </div>
-            <!-- /. Modal 2 -->
+            <!-- /. Modal 4 -->
 
-            <!-- Modal 3 -->
-            <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-3" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+            <!-- Modal 5 -->
+            <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-5" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered bounty-modal" role="document">
                     <div class="modal-content">
                         <div class="modal-header">
@@ -402,10 +455,10 @@ include('inc/header.php') ?>
                     </div>
                 </div>
             </div>
-            <!-- /. Modal 3 -->
+            <!-- /. Modal 5 -->
 
-            <!-- Modal 4 -->
-            <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-4" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+            <!-- Modal 6 -->
+            <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-6" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered bounty-modal" role="document">
                     <div class="modal-content">
                         <div class="modal-header">
@@ -427,10 +480,10 @@ include('inc/header.php') ?>
                     </div>
                 </div>
             </div>
-            <!-- /. Modal 4 -->
+            <!-- /. Modal 6 -->
 
-            <!-- Modal 5 -->
-            <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-5" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+            <!-- Modal 7 -->
+            <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-7" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered bounty-modal" role="document">
                     <div class="modal-content">
                         <div class="modal-header">
@@ -492,7 +545,7 @@ include('inc/header.php') ?>
                     </div>
                 </div>
             </div>
-            <!-- /. Modal 5 -->
+            <!-- /. Modal 7 -->
 
         </div>
     </section>
