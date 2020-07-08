@@ -33,7 +33,7 @@ include('inc/header.php') ?>
 							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
                         </div>
                         <div class="btn-block mb-1">
-                            <a href="#" class="disable">
+                            <a href="#" class="disabled">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
                             <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1">Detailed Rules</button>
@@ -197,7 +197,7 @@ include('inc/header.php') ?>
                                 </div>
                                 <p class="mt-3">This bounty is valid till <strong>22 August 2020</strong>.</p>
                                 <div class="btn-block mt-3 mb-1">
-                                    <a href="#" class="disable">
+                                    <a href="#" class="disabled">
                                         <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
                                     </a>
                                 </div>
