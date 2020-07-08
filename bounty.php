@@ -33,7 +33,7 @@ include('inc/header.php') ?>
 							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
                         </div>
                         <div class="btn-block mb-1">
-                            <a href="https://github.com/XinFinOrg/atomicSwap" target="_blank">
+                            <a href="#" class="disable">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
                             <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1">Detailed Rules</button>
@@ -187,7 +187,6 @@ include('inc/header.php') ?>
                         </div>
                         <div class="modal-body">
                             <div class="bounty">
-                                <p>To support the innovation of Community, XinFin Plans to run memes bounty. Meme needs to be informative and attractive. The memes getting the maximum number of like share and retweets will be awarded XDC. Every participant needs to fill the bounty form to claim their rewards. Only the top 10 users will receive 5000 XDC each.</p>
                                 <p class="sub-header-small mb-2">Rules:</p>
                                 <div class="orderList">
                                     <ol>
@@ -198,7 +197,7 @@ include('inc/header.php') ?>
                                 </div>
                                 <p class="mt-3">This bounty is valid till <strong>22 August 2020</strong>.</p>
                                 <div class="btn-block mt-3 mb-1">
-                                    <a href="https://github.com/XinFinOrg/atomicSwap" target="_blank">
+                                    <a href="#" class="disable">
                                         <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
                                     </a>
                                 </div>
