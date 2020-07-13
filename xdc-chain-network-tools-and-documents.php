@@ -204,6 +204,35 @@ include('inc/header.php') ?>
             <div class="tab-content pt-2">
                 <div id="network" class="tab-pane fade in active">
                     <div class="flex-row align-items-center">
+                        <div class="col-md-6 col-md-push-6">
+                            <div class="content-box cb-alt">
+                                <div class="mb-2">
+                                    <h1>XDCScan</h1>
+                                    <p>XDCScan is a Block Explorer, Search, Public API for XinFin XDC Network, a decentralized smart contracts platform.</p>
+                                </div>
+                                <div class="btn-block mb-1">
+                                    <a href="https://explorer.xinfin.network/" target="_blank">
+                                        <button class="btn-hover color-1">XDCScan MainNet</button>
+                                    </a>
+                                    <a href="https://explorer.apothem.network/home" target="_blank"><button class="btn-hover color-3">XDCScan TestNet</button></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 col-md-pull-6">
+                            <div class="">
+                                <img src="assets/images/xdcscan.jpg" class="img-responsive img-shadow">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row mt-6">
+                        <div class="col-md-12">
+                            <div style="height: 1px; width: 100%; border-top: 1px solid rgba(0, 0, 0, 0.2);"></div>
+                        </div>
+                    </div>
+					
+					<div class="flex-row mt-6 align-items-center">
                         <div class="col-md-6">
                             <div class="content-box">
                                 <div class="mb-2">
