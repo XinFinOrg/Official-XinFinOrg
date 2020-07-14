@@ -60,7 +60,7 @@ include('inc/header.php') ?>
 
                                 <div class="row">
                                     <div class="col" id="download-icon-boxes">
-                                        <a href="wallet.xinfin.network" target="_blank">
+                                        <a href="https://wallet.xinfin.network/" target="_blank">
                                             <div><img src="assets/images/web-wallet-icon.png" /><span>Web Wallet</span></div>
                                         </a>
                                     </div>
