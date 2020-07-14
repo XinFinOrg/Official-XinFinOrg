@@ -80,7 +80,7 @@ include('inc/header.php') ?>
                                         </a>
                                     </div>
                                     <div class="col" id="download-icon-boxes">
-                                        <a href="https://apothem.network/#masternode" target="_blank">
+                                        <a href="https://xinfin.network/#masternode" target="_blank">
                                             <div><img src="assets/images/become-masternode-icon.png" /><span>Become a Master Node/Validator</span></div>
                                         </a>
                                     </div>
