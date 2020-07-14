@@ -102,7 +102,7 @@ include('inc/header.php') ?>
                                         </a>
                                     </div>
                                     <div class="col" id="download-icon-boxes">
-                                        <a href="wallet.apothem.network" target="_blank">
+                                        <a href="https://wallet.apothem.network/" target="_blank">
                                             <div><img src="assets/images/web-wallet-icon.png" /><span>Web Wallet</span></div>
                                         </a>
                                     </div>
@@ -112,7 +112,7 @@ include('inc/header.php') ?>
                                         </a>
                                     </div>
                                     <div class="col" id="download-icon-boxes">
-                                        <a href="https://xinfin.network/#explorer" target="_blank">
+                                        <a href="https://explorer.apothem.network/home" target="_blank">
                                             <div><img src="assets/images/block-explorer-icon.png" /><span>Block Explorer</span></div>
                                         </a>
                                     </div>
