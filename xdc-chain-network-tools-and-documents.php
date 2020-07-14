@@ -60,7 +60,7 @@ include('inc/header.php') ?>
 
                                 <div class="row">
                                     <div class="col" id="download-icon-boxes">
-                                        <a href="https://xinfin.network/#webWallet" target="_blank">
+                                        <a href="wallet.xinfin.network" target="_blank">
                                             <div><img src="assets/images/web-wallet-icon.png" /><span>Web Wallet</span></div>
                                         </a>
                                     </div>
@@ -102,7 +102,7 @@ include('inc/header.php') ?>
                                         </a>
                                     </div>
                                     <div class="col" id="download-icon-boxes">
-                                        <a href="https://xinfin.network/#webWallet" target="_blank">
+                                        <a href="wallet.apothem.network" target="_blank">
                                             <div><img src="assets/images/web-wallet-icon.png" /><span>Web Wallet</span></div>
                                         </a>
                                     </div>
