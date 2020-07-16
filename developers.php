@@ -107,7 +107,7 @@ include('inc/header.php') ?>
               </div>  <div class="row" style="margin-top:5%">
               <div class="col-md-4"><img src="assets/images/S.png" alt="" ></div>
       <div class="col-md-8 lettercolb blue" ><div class="row"> <h3 class="blue">Support</h3> <div class="col-md-6"><ul><li><a href="https://github.com/XinFinorg" target="_blank">Github</a></li><li><a href="https://launchpass.com/xinfin-public" target="_blank">Slack invite</a></li><li><a href="https://xinfin-public.slack.com/" target="_blank">Slack</a></li><li><a href="https://gitter.im/xinfin-public" target="_blank">Gitter</a></li></ul>  </div>
-      <div class="col-md-6">  <ul><li><a href="https://twitter.com/xinfinf" target="_blank">Twitter</a></li><li><a href="https://www.reddit.com/r/xinfin/" target="_blank">Reddit</a></li><li><a href="https://t.me/xinfintalk" target="_blank">Telegram</a></li><li><a  href="mailto:info@xinfin.org" >Email Support</a></li></ul></div> </div></div>
+      <div class="col-md-6">  <ul><li><a href="https://twitter.com/XinFin_Official" target="_blank">Twitter</a></li><li><a href="https://www.reddit.com/r/xinfin/" target="_blank">Reddit</a></li><li><a href="https://t.me/xinfintalk" target="_blank">Telegram</a></li><li><a  href="mailto:info@xinfin.org" >Email Support</a></li></ul></div> </div></div>
       </div>          
 
 								

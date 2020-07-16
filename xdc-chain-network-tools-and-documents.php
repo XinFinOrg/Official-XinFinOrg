@@ -177,7 +177,7 @@ include('inc/header.php') ?>
                                 </a>
                             </div>-->
                         <div class="col-lg-3 col-md-6 col-sm-6 mt-3 mb-1">
-                            <a href="github.com/xinfinorg/XinFin-Node" target="_blank">
+                            <a href="https://github.com/xinfinorg/XinFin-Node" target="_blank">
                                 <div class="configurationsBox bordered">
                                     <h5 class="heading">XinFin Docker Integration</h5>
                                     <p class="link-break-out">https://github.com/xinfinorg/XinFin-Node</p>

@@ -246,7 +246,7 @@ web3.eth.sendTransaction({
             <p class="link-break-out">Telegram:  <a href="https://t.me/xinfintalk" target="_blank">https://t.me/xinfintalk</a></p>
             <p class="link-break-out">Youtube link: <a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank">https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g</a></p>
             <p class="link-break-out">Coinmarketcap: <a href="https://coinmarketcap.com/currencies/xinfin-network/" target="_blank">https://coinmarketcap.com/currencies/xinfin-network/</a></p>
-            <p class="link-break-out">Twitter: <a href="https://twitter.com/xinfinf" target="_blank">https://twitter.com/xinfinf</a></p>
+            <p class="link-break-out">Twitter: <a href="https://twitter.com/XinFin_Official" target="_blank">https://twitter.com/XinFin_Official</a></p>
             <p class="link-break-out">Reddit Link: <a href="https://www.reddit.com/r/xinfin/" target="_blank">https://www.reddit.com/r/xinfin/</a></p>
             <p class="link-break-out">Slack: <a href="https://xinfin-public.slack.com/" target="_blank">https://xinfin-public.slack.com/</a></p>
             <p class="link-break-out">Etherscan link: <a href="https://etherscan.io/token/0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2?a=" target="_blank">https://etherscan.io/token/0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2?a=</a></p>            

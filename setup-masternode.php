@@ -137,7 +137,7 @@ include('inc/header.php') ?>
                                 <p class="header mb-3">Where to operate? MainNet vs TestNet:</p>
                                 <p>In XinFin, there are two networks where you can run XDC protocol: the MainNet and the TestNet.</p>
                                 <p>The MainNet is used to transact real XDC. The XDC's value is tied to real fiat currency via cryptocurrency exchanges.</p>
-                                <p>As developers, you do not want to run application tests with real money. That is what the TestNet is for. We call the TestNet <a href="http://xinfin.network/" target="_blank">XinFinTestNet</a>.</p>
+                                <p>As developers, you do not want to run application tests with real money. That is what the TestNet is for. We call the TestNet <a href="http://xinfin.network/" target="_blank">XinFin TestNet</a>.</p>
 						  </div>
                        </div>                                
                     </div>
@@ -365,7 +365,7 @@ include('inc/header.php') ?>
                                 <p class="mt-3 mb-1"><strong>Step 3: Start your Node</strong></p>
                                 <p>Run:</p>
                                 <pre>sudo docker-compose -f docker-services.yml up -d</pre>
-                                <p class="link-break-out">You should be able to see your node listed on this page: <a href="http://xinfin.network" target="_blank">http://xinfin.network</a> Select Menu "Switch to TestNet" for TestNetwork and Select "Switch to LiveNet" to check LiveNetwork Stats.</p>
+                                <p class="link-break-out">You should be able to see your node listed on this page: <a href="http://xinfin.network" target="_blank">http://xinfin.network</a> Select Menu "Switch to TestNet" for Test Network and Select "Switch to LiveNet" to check Live Network Stats.</p>
                                 <p>Your coinbase address can be found in xdcchain/coinbase.txt file.</p>
 
                                 <p>To stop the node or if you encounter any issues use:</p>
@@ -556,11 +556,11 @@ sudo docker-compose -f docker-services.yml up -d
                         </div>
 						<div class="panel panel-default">
                             <div class="panel-heading" id="headingFourteen" role="tab">
-                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">14) Is there any test net for XinFin Network ?</a></h4>
+                                <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">14) Is there any TestNet for XinFin Network ?</a></h4>
                             </div>
                             <div class="panel-collapse collapse" id="collapseFourteen" role="tabpanel" aria-labelledby="headingFourteen">
                                 <div class="panel-body pxlr-faq-body">
-                                    <p>Yes You can find the the testnet at <a href="http://apothem.network">http://apothem.network</a>.</p>
+                                    <p>Yes you can find the TestNet at <a href="http://apothem.network">http://apothem.network</a>.</p>
                                 </div>
                             </div>
                         </div>
@@ -590,7 +590,7 @@ sudo docker-compose -f docker-services.yml up -d
                             </div>
                             <div class="panel-collapse collapse" id="collapseSeventeen" role="tabpanel" aria-labelledby="headingSeventeen">
                                 <div class="panel-body pxlr-faq-body">
-                                    <p>XDC wallet can be stored on <a href="https://wallet.xinfin.network/#/">XinFin web Wallet</a>, XinFin E wallet (<a href="https://chrome.google.com/webstore/detail/xinpay/bocpokimicclpaiekenaeelehdjllofo?hl=en">XinPay</a>) or <a href="https://play.google.com/store/apps/details?src=AppAgg.com&amp;id=com.xdcwallet&amp;referrer=utm_source%3DAppAgg.com%26utm_medium%3DAppAgg%26utm_campaign%3DAppAgg">XDC Andriod Wallet</a>.<</p>
+                                    <p>XDC wallet can be stored on <a href="https://wallet.xinfin.network/#/">XinFin web Wallet</a>, XinFin E wallet (<a href="https://chrome.google.com/webstore/detail/xinpay/bocpokimicclpaiekenaeelehdjllofo?hl=en">XinPay</a>) or <a href="https://play.google.com/store/apps/details?src=AppAgg.com&amp;id=com.xdcwallet&amp;referrer=utm_source%3DAppAgg.com%26utm_medium%3DAppAgg%26utm_campaign%3DAppAgg">XDC Android Wallet</a>.<</p>
                                 </div>
                             </div>
                         </div>

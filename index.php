@@ -437,7 +437,7 @@ include('inc/header.php') ?>
                 </div>
 
                 <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.8s">
-                    <a href="https://sotatek.com/news/vietnam-based-sotatek-partners-with-xinfin-network" target="_blank"><img src="assets/images/home/partners/sotatek-logo.png" alt="Sotatek" class="img-responsive logoc"></a>
+                    <a href="http://new.sotatek.com/en/news/vietnam-based-sotatek-partners-with-xinfin-network" target="_blank"><img src="assets/images/home/partners/sotatek-logo.png" alt="Sotatek" class="img-responsive logoc"></a>
                 </div>
 
                 <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.9s">
@@ -445,7 +445,7 @@ include('inc/header.php') ?>
                 </div>
 
                 <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1s">
-                    <a href="https://blog.circle.com/2018/12/19/usdc-ecosystem-spotlight-idcm-crypto-exchange-along-with-alpha-wallet-changenow-loopring-salt-platform-and-xinfin-the-latest-companies-to-support-usdc/" target="_blank"><img src="assets/images/home/partners/circle-logo.png" alt="Circle" class="img-responsive logoc"></a>
+                    <a href="https://www.circle.com/blog/usdc-ecosystem-spotlight-idcm-crypto-exchange-along-with-alphawallet-changenow-loopring-salt-platform-and-xinfin-the-latest-companies-to-support-usdc" target="_blank"><img src="assets/images/home/partners/circle-logo.png" alt="Circle" class="img-responsive logoc"></a>
                 </div>
 
                 <div class="col-md-offset-1 col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.1s">
@@ -482,6 +482,12 @@ include('inc/header.php') ?>
             <div style="margin-top:30px;">
                 <div class="row">
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.6s">
+                        <a href="https://www.marketwatch.com/press-release/xinfin-network-secures-ex-swift-corporate-trade-head-andre-casterman-as-an-advisor-2020-07-16" target="_blank"><img src="assets/images/home/media/marketwatch-logo.png" alt="MarketWatch" class="img-responsive margin-auto-lr"></a>
+                    </div>
+					<div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.6s">
+                        <a href="https://in.finance.yahoo.com/news/buyucoin-becomes-first-indian-cryptocurrency-053950377.html" target="_blank"><img src="assets/images/home/media/in-yahoofinance-logo.png" alt="Yahoo Finance" class="img-responsive margin-auto-lr"></a>
+                    </div>
+					<div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.6s">
                         <a href="http://forbes.com/sites/lukefitzpatrick/2020/05/24/spending-on-blockchain-solutions-could-surpass-16-billion-by-2023/" target="_blank"><img src="assets/images/home/media/forbes-logo.png" alt="Forbes" class="img-responsive margin-auto-lr"></a>
                     </div>
 					<div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.6s">
@@ -533,7 +539,7 @@ include('inc/header.php') ?>
                         <a href="https://www.newsbtc.com/2018/06/28/xinfin-opens-its-blockchain-engineering-and-business-development-lab-at-university-of-california/" target="_blank"><img src="assets/images/home/media/newsbtc-logo.png" alt="NewsBTC" class="img-responsive margin-auto-lr"></a>
                     </div>
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.9s">
-                        <a href="https://cryptorecorder.com/2018/08/17/xinfin-network-xdce-makes-a-major-leap-in-the-u-s-is-china-next/" target="_blank"><img src="assets/images/home/media/cryptorecorder-logo.png" alt="Cryptorecorder" class="img-responsive margin-auto-lr"></a>
+                        <a href="https://www.cryptassets.com/pg/newsfeeds/rss_source/item/62461/xinfin-network-xdce-makes-a-major-leap-in-the-us-is-china-next" target="_blank"><img src="assets/images/home/media/cryptassets-logo.png" alt="CryptAssets" class="img-responsive margin-auto-lr"></a>
                     </div>
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="2s">
                         <a href="https://www.entrepreneur.com/article/317193" target="_blank"><img src="assets/images/home/media/entrepreneurindia-logo.png" alt="Entrepreneur" class="img-responsive margin-auto-lr"></a>

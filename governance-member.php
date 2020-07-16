@@ -40,13 +40,13 @@ include('inc/header.php') ?>
                                 <li>Participate in regional compliance</li>
                                 <li>Participate in whitelisting XDC with regulators</li>
                                 <li>Participate in maintaining healthy liquidity of XDC ecosystem</li>
-                                <li>Participate in growing developer ecosystem and enterprise ecosystem regionally</li>
+                                <li>Participate in the growing developer ecosystem and enterprise ecosystem regionally</li>
                                 <li>Participate in Governance vote of XinFin Network</li>
                             </ul>
                             
                             <p class="mb-1"><strong>Rewards and Benefits:</strong></p>
                             <ul class="mb-3">
-                                <li>Upto 5M XDC / year will be sent as Council rewards from ecosystem pool (Approval of 5M XDC is voting based from masternodes)</li>
+                                <li>Up to 5M XDC / year will be sent as Council rewards from ecosystem pool (Approval of 5M XDC is voting based from masternodes)</li>
                                 <li>The rewards will reduce after every year</li>
                                 <li>Participate in future Roadmap</li>
                             </ul>

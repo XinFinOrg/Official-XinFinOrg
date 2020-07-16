@@ -28,7 +28,7 @@ include('inc/header.php') ?>
 
                         <h1>XinFin Delegated Proof of Stake (XDPOS) Consensus</h1>
                         <p><strong>Self KYC compliant XinFin Delegated Proof of Stake (XDPoS) Consensus on XDC Blockchain</strong></p>
-                        <p>XinFin Delegated Proof of Stake (XDPoS) is the fastest, efficient, decentralized, and flexible consensus model available. XDPoS leverages the power of stakeholder consensus issues in a fair and democratic way. <strong>Self KYC</strong> feature adds more enterpise usecases and regulator friendliness to the Public network.</p>
+                        <p>XinFin Delegated Proof of Stake (XDPoS) is the fastest, efficient, decentralized, and flexible consensus model available. XDPoS leverages the power of stakeholder consensus issues in a fair and democratic way. <strong>Self KYC</strong> feature adds more enterprise usecases and regulator friendliness to the Public network.</p>
                         <p><strong>This document describes the specification for a XDPoS (XinFin Delegated Proof of Stake) network.</strong></p>
                         <p><strong>XinFin Spec</strong></p>                        
                         <ul>

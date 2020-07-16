@@ -87,7 +87,7 @@ include('inc/header.php') ?>
       <p>This section is where you can find updates  on the different announcements made by XinFin. The section will publish all Press Releases and  recent developments along with plans for future innovation.</p>
       <p>Apart from the Press Releases, you can also find out more about events XinFin has both participated and hosted. Any news (digital or otherwise) featuring XinFin will be published in this section.</p>
       <p>It will also inform you regarding any change in the overall structure of the organization and any changes in the current management team.</p>
-      <a href="media-room"><button class="btn-hover color-1 mb-1">Media Room</button></a>
+      <a href="https://howto.xinfin.org/media/articles/" target="_blank"><button class="btn-hover color-1 mb-1">Media Room</button></a>
       
       <p class="header mb-2">Roadmap</p>
       <p>The journey so far, milestones achieved and the roadmap for the year 2020.</p>

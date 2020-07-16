@@ -28,7 +28,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="content">
                             <h3>Developers Bounty for Swap between XDC and XDCE</h3>
-                            <h4 class="highlight">Upto 1 Million XDC</h4>
+                            <h4 class="highlight">Up to 1 Million XDC</h4>
                             <p class="text-muted">Develop a real-time decentralized swap between XDC and XDCE.</p>
 							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
                         </div>
@@ -48,7 +48,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="content">
                             <h3>Deploy Solidity Contract on XinFin MainNet (DSCXM Bounty)</h3>
-                            <h4 class="highlight">Upto 10,000 USD worth XDC</h4>
+                            <h4 class="highlight">Up to 10,000 USD worth XDC</h4>
                             <p class="text-muted">Deploy Solidity Contract on XinFin MainNet and get rewards.</p>
 							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
                         </div>
@@ -68,7 +68,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="content">
                             <h3>XinFin Android Wallet Bug Bounty</h3>
-                            <h4 class="highlight">Upto 200 USD worth XDC</h4>
+                            <h4 class="highlight">Up to 200 USD worth XDC</h4>
                             <p class="text-muted">Explore vulnerabilities in XinFin Android Wallet and get rewards.</p>
 							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
                         </div>
@@ -88,7 +88,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="content">
                             <h3>Bug Bounty Program for testing XinFin Extension Wallet: XinPay</h3>
-                            <h4 class="highlight">Upto 200 USD worth XDC</h4>
+                            <h4 class="highlight">Up to 200 USD worth XDC</h4>
                             <p class="text-muted">Test XinPay for any errors, bugs on XinFin TestNet and provide ideas to enhance eWallet.</p>
 							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
                         </div>
@@ -108,7 +108,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="content">
                             <h3>Masternode Bounty Program: For hosting Masternode</h3>
-                            <h4 class="highlight">Upto 900 USD worth XDC</h4>
+                            <h4 class="highlight">Up to 900 USD worth XDC</h4>
                             <p class="text-muted">Host Masternode and get incentives as well as a special bonus bounty.</p>
 							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
                         </div>
@@ -128,7 +128,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="content">
                             <h3>Masternode Luck User Bounty: To set-up Masternode</h3>
-                            <h4 class="highlight">Upto 2,000,000 XDC</h4>
+                            <h4 class="highlight">Up to 2,000,000 XDC</h4>
                             <p class="text-muted">Set-up a Masternode using the one-click installer guide.</p>
 							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
                         </div>
@@ -148,7 +148,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="content">
                             <h3>XinFin Memes Campaign (Bounty on Memes)</h3>
-                            <h4 class="highlight">Upto 5,000 XDC</h4>
+                            <h4 class="highlight">Up to 5,000 XDC</h4>
                             <p class="text-muted">Participate in XinFin Memes Bounty and get rewards.</p>
 							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status finished pull-right">FINISHED</span></div>
                         </div>
@@ -327,28 +327,28 @@ include('inc/header.php') ?>
                                     <div class="col-md-3 col-sm-3 col-xs-6 mb-2">
                                         <div class="rewardBox">
                                             <h1>Low</h1>
-                                            <p>Upto 50 USD worth XDC</p>
+                                            <p>Up to 50 USD worth XDC</p>
                                         </div>
                                     </div>
 
                                     <div class="col-md-3 col-sm-3 col-xs-6 mb-2">
                                         <div class="rewardBox">
                                             <h1>Medium</h1>
-                                            <p>Upto 100 USD worth XDC</p>
+                                            <p>Up to 100 USD worth XDC</p>
                                         </div>
                                     </div>
 
                                     <div class="col-md-3 col-sm-3 col-xs-6 mb-2">
                                         <div class="rewardBox">
                                             <h1>High</h1>
-                                            <p>Upto 150 USD worth XDC</p>
+                                            <p>Up to 150 USD worth XDC</p>
                                         </div>
                                     </div>
 
                                     <div class="col-md-3 col-sm-3 col-xs-6 mb-2">
                                         <div class="rewardBox">
                                             <h1>Critical</h1>
-                                            <p>Upto 200 USD worth XDC</p>
+                                            <p>Up to 200 USD worth XDC</p>
                                         </div>
                                     </div>
                                 </div>
@@ -415,28 +415,28 @@ include('inc/header.php') ?>
                                     <div class="col-md-3 col-sm-3 col-xs-6 mb-2">
                                         <div class="rewardBox">
                                             <h1>Low</h1>
-                                            <p>Upto 50 USD worth XDC</p>
+                                            <p>Up to 50 USD worth XDC</p>
                                         </div>
                                     </div>
 
                                     <div class="col-md-3 col-sm-3 col-xs-6 mb-2">
                                         <div class="rewardBox">
                                             <h1>Medium</h1>
-                                            <p>Upto 100 USD worth XDC</p>
+                                            <p>Up to 100 USD worth XDC</p>
                                         </div>
                                     </div>
 
                                     <div class="col-md-3 col-sm-3 col-xs-6 mb-2">
                                         <div class="rewardBox">
                                             <h1>High</h1>
-                                            <p>Upto 150 USD worth XDC</p>
+                                            <p>Up to 150 USD worth XDC</p>
                                         </div>
                                     </div>
 
                                     <div class="col-md-3 col-sm-3 col-xs-6 mb-2">
                                         <div class="rewardBox">
                                             <h1>Critical</h1>
-                                            <p>Upto 200 USD worth XDC</p>
+                                            <p>Up to 200 USD worth XDC</p>
                                         </div>
                                     </div>
                                 </div>
