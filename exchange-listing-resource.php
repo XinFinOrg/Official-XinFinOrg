@@ -246,7 +246,7 @@ web3.eth.sendTransaction({
             <p>Token Name: XinFin Network</p>
             <p>Token Symbol: XDCE</p>
             <p>Decimal: 18</p>
-            <p class="link-break-out">Github: <a href="https://github.com/XinFinorg/xdce" target="_blank">https://github.com/XinFinorg/xdce</a></p>
+            <p class="link-break-out">Github: <a href="https://github.com/XinFinorg/" target="_blank">https://github.com/XinFinorg/</a></p>
             <p class="link-break-out">Technical White Paper: <a href="https://www.xinfin.org/docs/whitepaper-tech.pdf" target="_blank">https://www.xinfin.org/docs/whitepaper-tech.pdf</a></p>
             <p class="link-break-out">Business White Paper: <a href="https://www.xinfin.org/docs/whitepaper-business.pdf" target="_blank">https://www.xinfin.org/docs/whitepaper-business.pdf</a></p>
             <p class="link-break-out">Telegram:  <a href="https://t.me/xinfintalk" target="_blank">https://t.me/xinfintalk</a></p>

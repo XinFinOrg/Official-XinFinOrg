@@ -34,7 +34,7 @@ include('inc/header.php') ?>
             </div>
             <p>MyContract.co is a digital asset creation & management Dashboard for any kind of assets like community coins, Bonds, real estate and infrastructure assets. (Asset Tokenization Market) without the need for any programming expertise.</p>
             <div class="btn-block mb-1">
-            	<a href="http://api.mycontract.co:3001/#introduction" target="_blank"><button class="btn-hover color-1"><i class="fa fa-gear"></i> API</button></a>
+            	<a href="https://apidocs.xinfin.network/docs/#xinfin-apis" target="_blank"><button class="btn-hover color-1"><i class="fa fa-gear"></i> API</button></a>
                 <a href="https://www.youtube.com/watch?v=thR-pTpF7Sw&t=3s" target="_blank"><button class="btn-hover color-3"><i class="fa fa-youtube"></i> Watch Video</button></a>
             </div>
             <p class="date">MyContract.co allows you to create your own token in a few minutes by just providing basic token details, such as token name, token symbol, token decimals, total supply and token sale limit in an easy to grasp environment. After providing all the details of the token created and buying the package, payable in XDCE tokens ,  the users can easily get the code of their brand new token. MyContract will allow businesses of all sizes to deploy their own smart-contracts and tokens across industries, with working use cases in Supply Chain and Decentralized Credit applications.</p>
@@ -69,7 +69,7 @@ include('inc/header.php') ?>
             <h3>AlphaEx <span>Livenet</span></h3>
             <div class="btn-block mb-1">
             	<a href="https://alphaex.net/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
-                <a href="https://github.com/XinFinOrg/AlphaEx_v3" target="_blank"><button class="btn-hover color-3"><i class="fa fa-github"></i> Github</button></a>
+                <!--<a href="https://github.com/XinFinOrg/AlphaEx_v3" target="_blank"><button class="btn-hover color-3"><i class="fa fa-github"></i> Github</button></a>-->
             </div>
             <p>Alphaex is a Digital Asset Exchange for trading of cryptocurrencies and other digital assets. XDC is the token of XinFin networks private blockchain and on the platform it has been paired against all major cryptocurrencies.</p>
             <div class="btn-block mb-1">

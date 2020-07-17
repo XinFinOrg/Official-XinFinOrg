@@ -40,7 +40,7 @@ include('inc/header.php') ?>
                             <p class="link-break-out"><strong>[ERP Systems Connector]</strong><br />
                             Github Links to Open Source Repositaries: <a href="https://github.com/openlabs/magento_integration" target="_blank">https://github.com/openlabs/magento_integration</a></p>
                             
-                            <p class="link-break-out"><strong>[SWIFT Connector]:</strong> <a href="https://github.com/C24-Technologies/c24-sample-mule-connector-swift" target="_blank">https://github.com/C24-Technologies/c24-sample-mule-connector-swift</a></p>
+                            <p class="link-break-out"><strong>[SWIFT Connector]:</strong><!-- <a href="https://github.com/C24-Technologies/c24-sample-mule-connector-swift" target="_blank">https://github.com/C24-Technologies/c24-sample-mule-connector-swift</a>--></p>
                             
                             <p class="link-break-out"><strong>[Core Banking System Connector]:</strong> <a href="https://github.com/OpenBankProject" target="_blank">https://github.com/OpenBankProject</a></p>
                             
