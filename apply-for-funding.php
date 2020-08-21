@@ -61,7 +61,7 @@ include('inc/header.php') ?>
 									<div class="flex-layout">
 										<div class="pop-ico"><i class="fa fa-check"></i></div>
 										<div class="pop-ico-content">
-											<div class="pop-ico-title">WHAT MATTERS / Eligibility Criteria</div>
+											<div class="pop-ico-title">WHAT MATTERS/Eligibility Criteria</div>
 											<div class="pop-ico-dsc">
 											<p>What is the problem you are trying to solve using XDC Blockchain Network?</p>
 											</div>
