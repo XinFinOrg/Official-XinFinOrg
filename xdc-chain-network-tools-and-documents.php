@@ -19,6 +19,7 @@ include('inc/header.php') ?>
             </div>
         </div>
     </div>
+</section>
 
     <section id="xdce" class="exchange-listing">
         <div class="container">

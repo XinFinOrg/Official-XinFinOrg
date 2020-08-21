@@ -2426,21 +2426,33 @@ button:focus {outline:0;}
 }
 
 
-.iconst
-{
-  font-size:5px !important; margin-top: -3px;
+.iconst {
+    font-size:5px !important; margin-top: -3px;
     vertical-align: middle;
+}
+
+.input-group-btn .btn-primary {
+    background: #969595;
+    border-color: #969595;
+    line-height: 30px;
+    height: 42px;
+}
+
+.input-group .form-control {
+	padding: 10px 12px;
+	height: 42px;
 }
 
 .form-control {
     border-radius:5px;
     padding: 20px 12px;
-    }
+}
 
-    label {
+label {
     font-weight: 100;
     color: #002752;
     font-size: 16px;
+	line-height: 20px;
     font-family: 'Muli', sans-serif;
     letter-spacing: 0.8px;
 }
@@ -3017,13 +3029,17 @@ color:#1bc3ed!important;
 {
  background: #112b3c;
 }
-#resources-banner
-{
- background: url('../images/xdc-protocol-banner-image2.png') #112b3c;
-     background-repeat: no-repeat;
+#resources-banner {
+	background: url('../images/xdc-protocol-banner-image2.png') #112b3c;
+    background-repeat: no-repeat;
     background-position: bottom right;
 }
-#xdcebanner, #contactbanner, #bountybanner {
+#xdcebanner, #bountybanner {
+	background: url('../images/xdc-protocol-banner-image2.png') #112b3c;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+#contactbanner {
 	background: url('../images/xdc-protocol-banner-image2.png') #112b3c;
     background-repeat: no-repeat;
     background-position: bottom right;
@@ -4900,3 +4916,16 @@ table{width:100%;background-color:#fff}th,td{font-weight:unset;padding-right:10p
 #wto-icc p.action-subtitle {margin-top:0px;text-align: center;margin-bottom:20px;}
 }
 /*-- Homepage WTO css --*/
+
+
+
+
+/* how to Steps 
+.steps-howTo{font-size:14px;line-height:16px}
+.step-description,.step-title{margin:0;display:block;text-align:center}
+.step-title{font-size:16px;line-height:22px;font-weight:700;margin-bottom:10px;margin:15px auto}
+.ste-description{overflow:hidden;line-height:20px}
+.steps-howTo .step{outline:1px dashed rgba(0,128,0,0);margin-bottom:20px}
+.step-milestone{display:block;width:30px;height:30px;background-color:#fff;border:8px solid red;border-radius:50%;margin:15px auto;box-sizing:border-box}
+@media screen and (max-width:678px){.steps-howTo{border-left:2px solid #3498db;margin-left:25px}.steps-howTo .step{margin-left:-25px;display:block;overflow:auto}.step-milestone{float:left;margin-left:10px}.step-description,.step-title{text-align:left;margin-left:60px}}
+@media screen and (min-width:678px){.steps-howTo{border-top:2px solid #3498db;margin-top:50px;margin-left:10%;margin-right:10%;display:-moz-box;display:-ms-flexbox;display:-moz-flex;display:-webkit-flex;display:flex;justify-content:space-between}.steps-howTo .step{margin-top:-30px;-webkit-flex:1;-ms-flex:1;flex:1}}*/

@@ -7,14 +7,14 @@
                 <h1>About XinFin</h1>
                 <!--<p><span>About XinFin</span><br/>-->
                 <p>
-                <a href="about">About Community</a><br/>
-                <a href="xinfin-consensus">Public XDPoS Consensus</a><br/>
-				<a href="resources">Resource Guide</a><br/>
-                <a href="http://xinfin.network/" target="_blank">XinFin Network Status</a><br/>
-                <!--<a href="https://howto.xinfin.org/">Developer Portal</a><br/>-->
-				<a href="exchange-listing-resource">Exchange Listing Resource</a><br />
-				<a href="custody-services-integration">Custody Services Integration</a><br />
-				<a href="https://github.com/XinFinOrg/Open-Hackathon" target="_blank">Online Hackathon</a>
+                    <a href="about">About Community</a><br/>
+                    <a href="xinfin-consensus">Public XDPoS Consensus</a><br/>
+                    <a href="resources">Resource Guide</a><br/>
+                    <a href="http://xinfin.network/" target="_blank">XinFin Network Status</a><br/>
+                    <!--<a href="https://howto.xinfin.org/">Developer Portal</a><br/>-->
+                    <a href="exchange-listing-resource">Exchange Listing Resource</a><br />
+                    <a href="custody-services-integration">Custody Services Integration</a><br />
+                    <a href="https://github.com/XinFinOrg/Open-Hackathon" target="_blank">Online Hackathon</a>
                 </p>
 			</div>
 			
@@ -22,28 +22,29 @@
                 <h1>More..</h1>
                 <!--<p><span>More..</span><br/>-->
                 <p>
-				<a href="setup-masternode">Setup MasterNode</a><br/>
-                <!--<a href="faq.php">Read FAQ</a><br/>-->
-                <a href="xdc-utility">XDC/XDCe Utility</a><br/>
-                <a href="https://howto.xinfin.org/general/faq/" target="_blank">Read FAQ</a><br/>
-                <a href="bounty">Community Bounty Program</a><br/>    
-				<!--<a href="https://github.com/XinFinorg">Source Code on GitHub</a><br/>-->
-				<a href="download">Download Logo</a><br/>               
-                <a href="https://xinfin.io">XDC/XDCE Exchange List</a>
+                    <a href="setup-masternode">Setup MasterNode</a><br/>
+                    <!--<a href="faq.php">Read FAQ</a><br/>-->
+                    <a href="xdc-utility">XDC/XDCe Utility</a><br/>
+                    <a href="https://howto.xinfin.org/general/faq/" target="_blank">Read FAQ</a><br/>
+                    <a href="bounty">Community Bounty Program</a><br/>
+                    <!--<a href="https://github.com/XinFinorg">Source Code on GitHub</a><br/>-->
+                    <a href="download">Download Logo</a><br/>
+                    <a href="https://xinfin.io">XDC/XDCE Exchange List</a><br/>
+                    <a href="apply-for-funding">Apply For Funding</a>
                 </p>
              </div>		
             <div class="col-md-3 col-sm-6 col-xs-12" >
                 <h1>Other Links</h1>
                 <!--<p><span>Other Links</span><br/>-->
                 <p>
-                <a href="https://apidocs.xinfin.network/docs/#xinfin-apis" target="_blank">XinFin API</a><br/>
-				<a href="https://apidocs.xinfin.network/" target="_blank">Swagger API</a><br/>
-				<a href="compliance">Compliance</a><br/>
-				<a href="https://howto.xinfin.org/media/articles/" target="_blank">Media</a><br/>
-                <!--<a href="privacy.php">Privacy Policy</a><br/>
-				<a href="disclaimer.php">Disclaimer</a><br/>-->
-				<a href="contactus">Press Inquiry</a><br/>	
-				<a href="contactus">Contact XinFin</a>
+                    <a href="https://apidocs.xinfin.network/docs/#xinfin-apis" target="_blank">XinFin API</a><br/>
+                    <a href="https://apidocs.xinfin.network/" target="_blank">Swagger API</a><br/>
+                    <a href="compliance">Compliance</a><br/>
+                    <a href="https://howto.xinfin.org/media/articles/" target="_blank">Media</a><br/>
+                    <!--<a href="privacy.php">Privacy Policy</a><br/>
+                    <a href="disclaimer.php">Disclaimer</a><br/>-->
+                    <a href="contactus">Press Inquiry</a><br/>	
+                    <a href="contactus">Contact XinFin</a>
                 </p>
 			</div>
 			

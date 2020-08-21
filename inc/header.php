@@ -218,6 +218,9 @@
               <li class="nav-item">
                 <a href="xdc-chain-network-tools-and-documents">Quick Tools Guide</a>
               </li>
+              <li class="nav-item">
+                <a href="apply-for-funding">Apply For Funding</a>
+              </li>
               
               <!--<li>
                 <div class="m-dropdown">
