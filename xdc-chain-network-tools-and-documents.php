@@ -342,6 +342,12 @@ include('inc/header.php') ?>
         </div>
         <div class="clear"></div>
     </section>
-
-    <?php include('inc/footer.php') ?>
+   
 </section>
+
+<script>
+    var activeUrl = localStorage.getItem("currentUrl");
+    $('.nav.navbar-nav li:nth-child(6)').addClass('active');
+</script>
+
+ <?php include('inc/footer.php') ?>
