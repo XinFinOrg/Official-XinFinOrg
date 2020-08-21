@@ -1,6 +1,6 @@
 <?php
-$title = "Contact Us | XinFin Hybrid Blockchain";
-$desc = "Let your business cross the horizon by using XinFin’s fast and secure XDC tokens. Contact us Now.";
+$title = "Apply for Funding | XinFin Hybrid Blockchain";
+$desc = "How to Fund Your Next Blockchain Project?. Apply for Funding Now.";
 
 include('inc/header.php') ?>
 <style>
@@ -123,8 +123,8 @@ include('inc/header.php') ?>
                                 <label for="email">Contact Number (required)</label>
                                 <input type="text" class="form-control" id="contact_number" name="contact" maxlength="10" minlength="10" onkeypress="return isNumber(event)">
                             </div>
-                            <div class="form-group">
-                            	<label for="supporting-document">Upload your Pitch Deck here * (.PDF, .XLS, .Doc, images upto 5MBmax)</label>
+                            <!--<div class="form-group">
+                            	<label for="supporting-document">Upload your Pitch Deck here <span>(.pdf, .xls, .doc, .ppt, images upto 5MBmax)</span></label>
                                     <div class="input-group">
                                         <span class="input-group-btn">
                                         <span class="btn btn-primary" onClick="$(this).parent().find('input[type=file]').click();">Browse</span>
@@ -134,9 +134,9 @@ include('inc/header.php') ?>
                                     </div>
                                     <label for="supporting-document" style="display:none" class ="error"id="error">Please upload correct file format.</label>
                                     <label for="supporting-document" style="display:none" class="error"id="error1">Images upto 5MB max</label>
-                            </div>
+                            </div>-->
                             <div class="form-group">
-                                <label for="email">Comments</label>
+                                <label for="email">Comments <span>(Pitch Deck URL, Project Document URL Etc.)</span></label>
                                 <textarea class="form-control" id="comments" name="comments"></textarea>
                             </div>
 							<div class="form-group">
