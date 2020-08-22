@@ -29,8 +29,8 @@ include('inc/header.php') ?>
 				
                 <div class="row" style="margin-top: 0%; padding-bottom: 0px;">
                         <div class="col-md-12 col-sm-12 col-xs-12">
-                            <p>Here is the XDC  Ecosystem Co-Builder Plan. XinFin's XDC Network aims at encouraging and supporting XDC Network-based Startups, DApp developers, freelance developers, and Blockchain VC to cobuild the XDC ecosystem, providing them with a platform for long-term communication and cooperation with XinFin Network based Eco System.</p>
-                            <p class="link-break-out"><strong>This Eco System support is only to build and promote using XDC blockchain Network and tools given at link : <a href="https://xinfin.org/xdc-chain-network-tools-and-documents">https://xinfin.org/xdc-chain-network-tools-and-documents</a></strong></p>
+                            <p>Here is the XDC Ecosystem Co-Builder Plan. XinFin's XDC Network aims at encouraging and supporting XDC Network-based Startups, DApp developers, freelance developers, and Blockchain VC to build the XDC ecosystem, providing them with a platform for long-term communication and cooperation with XinFin Network-based EcoSystem.</p>
+                            <p class="link-break-out"><strong>This Eco System support is only to build and promote using XDC blockchain Networks and tools given at the link: <a href="https://xinfin.org/xdc-chain-network-tools-and-documents">https://xinfin.org/xdc-chain-network-tools-and-documents</a></strong></p>
                             <p class="mb-1"><strong>What We Can Offer</strong></p>
                             <ul class="mb-3">
                                 <li>Capital Support</li>
@@ -61,7 +61,7 @@ include('inc/header.php') ?>
 									<div class="flex-layout">
 										<div class="pop-ico"><i class="fa fa-check"></i></div>
 										<div class="pop-ico-content">
-											<div class="pop-ico-title">WHAT MATTERS/Eligibility Criteria</div>
+											<div class="pop-ico-title">WHAT MATTERS / Eligibility Criteria</div>
 											<div class="pop-ico-dsc">
 											<p>What is the problem you are trying to solve using XDC Blockchain Network?</p>
 											</div>
@@ -72,7 +72,7 @@ include('inc/header.php') ?>
 									<div class="flex-layout">
 										<div class="pop-ico"><i class="fa fa-check"></i></div>
 										<div class="pop-ico-content">
-											<div class="pop-ico-title">MVP/DEMO System</div>
+											<div class="pop-ico-title">MVP / DEMO System</div>
 											<div class="pop-ico-dsc">
 											<p>A minimum viable product should be Ready for Demo.</p>
 											</div>
@@ -85,7 +85,7 @@ include('inc/header.php') ?>
 										<div class="pop-ico-content">
 											<div class="pop-ico-title">Team</div>
 											<div class="pop-ico-dsc">
-											<p>Brief Profile about the Founders, Core team Members, Legal team or Advisors.</p>
+											<p>Brief Profile about the founders, core team Members, Legal team, or advisors.</p>
 											</div>
 										</div>
 									</div>
@@ -96,7 +96,7 @@ include('inc/header.php') ?>
 										<div class="pop-ico-content">
 											<div class="pop-ico-title">Projection on Milestones/Financials</div>
 											<div class="pop-ico-dsc">
-											<p>Funding Requirement should be linked with Milestones or Financial goal Achievement.</p>
+											<p>Funding requirements should link with Milestones or Financial goal Achievement.</p>
 											</div>
 										</div>
 									</div>
