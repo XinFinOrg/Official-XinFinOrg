@@ -102,7 +102,7 @@ include('inc/header.php') ?>
       <a href="exchange-listing-resource"><button class="btn-hover color-3 mb-1">Exchange Listing Resource</button></a>
 	  
 	  <p class="header mb-2">Custody Services Integration</p>
-      <p>This section provides you with details required for Custody services integration..</p>
+      <p>This section provides you with details required for Custody services integration.</p>
       <a href="custody-services-integration"><button class="btn-hover color-3 mb-1">Custody Services Integration</button></a>
       
       <p class="header mb-2">Governance Member</p>
