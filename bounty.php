@@ -110,10 +110,10 @@ include('inc/header.php') ?>
                             <h3>Masternode Bounty Program: For hosting Masternode</h3>
                             <h4 class="highlight">Up to 900 USD worth XDC</h4>
                             <p class="text-muted">Host Masternode and get incentives as well as a special bonus bounty.</p>
-							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
+							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status finished pull-right">FINISHED</span></div>
                         </div>
                         <div class="btn-block mb-1">
-                            <a href="https://docs.google.com/forms/d/1sWgbJgVOnAJtxqOWePiAXg9hsIK-e06Jn0KtyoHjcZE" target="_blank">
+                            <a href="#" class="disabled">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
                             <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-6">Detailed Rules</button>
@@ -130,10 +130,10 @@ include('inc/header.php') ?>
                             <h3>Masternode Luck User Bounty: To set-up Masternode</h3>
                             <h4 class="highlight">Up to 2,000,000 XDC</h4>
                             <p class="text-muted">Set-up a Masternode using the one-click installer guide.</p>
-							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
+							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status finished pull-right">FINISHED</span></div>
                         </div>
                         <div class="btn-block mb-1">
-                            <a href="https://docs.google.com/forms/d/1XNrF7Kg7JgmYD3qDN3hZ6B895zeT8ZD2CAg8F9L0h_A" target="_blank">
+                            <a href="#" class="disabled">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
                             <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-7">Detailed Rules</button>
@@ -467,9 +467,9 @@ include('inc/header.php') ?>
                         <div class="modal-body">
                             <div class="bounty">
                                 <p>Every Masternode will be offered incentives as well as a special bonus bounty up to 900 USD worth XDC, for hosting Masternode from 31st January to 31st July 2020 in the specific region Singapore or Japan.</p>
-                                <p>Fill the <a href="https://docs.google.com/forms/d/1sWgbJgVOnAJtxqOWePiAXg9hsIK-e06Jn0KtyoHjcZE/" target="_blank">Google form</a> to claim your bounty.</p>
+                                <p>Fill the <a href="#" class="disabled">Google form</a> to claim your bounty.</p>
                                 <div class="btn-block mt-3 mb-1">
-                                    <a href="https://docs.google.com/forms/d/1sWgbJgVOnAJtxqOWePiAXg9hsIK-e06Jn0KtyoHjcZE/" target="_blank">
+                                    <a href="#" class="disabled">
                                         <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
                                     </a>
                                 </div>
@@ -523,18 +523,19 @@ include('inc/header.php') ?>
                                     </div>
 
                                     <div class="col-md-3 col-sm-3 col-xs-6 mb-2">
-                                        <div class="rewardBox">
+                                        <div class="rewardBox finished">
                                             <h1>12 Months</h1>
                                             <p>2,000,000 XDC</p>
                                             <p class="highlight">* 5 Lucky Winners</p>
                                         </div>
+                                        <div class="bounty-finished-alert"><div class="alert-content">Bounty over</div></div>
                                     </div>
                                 </div>
 
-                                <p>Fill the <a href="https://docs.google.com/forms/d/1XNrF7Kg7JgmYD3qDN3hZ6B895zeT8ZD2CAg8F9L0h_A" target="_blank">Google form</a> to apply for the Rewards.</p>
+                                <p>Fill the <a href="#" class="disabled">Google form</a> to apply for the Rewards.</p>
                                 <p>The Lucky winner will be announced officially by the team in our updates social channels.</p>
                                 <div class="btn-block mt-3 mb-1">
-                                    <a href="https://docs.google.com/forms/d/1XNrF7Kg7JgmYD3qDN3hZ6B895zeT8ZD2CAg8F9L0h_A" target="_blank">
+                                    <a href="#" class="disabled">
                                         <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
                                     </a>
                                 </div>
