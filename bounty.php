@@ -195,8 +195,8 @@ include('inc/header.php') ?>
                                         <li>The best 5 implementations will get 1 Million XDC bounties directly in the wallet.</li>
                                     </ol>
                                 </div>
-                                <p class="mt-3">This bounty is valid till <strong>22 August 2020</strong>.</p>
-                                <!--<div class="btn-block mt-3 mb-1">
+                                <!--<p class="mt-3">This bounty is valid till <strong>22 August 2020</strong>.</p>
+                                <div class="btn-block mt-3 mb-1">
                                     <a href="#" class="disabled">
                                         <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
                                     </a>
