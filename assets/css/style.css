@@ -4920,6 +4920,27 @@ table{width:100%;background-color:#fff}th,td{font-weight:unset;padding-right:10p
 
 
 
+
+/*--XDC/XDCe Exchanges css --*/
+.address-box{display:inline-block;width:100%;padding:20px;border-radius:5px;background-color:#fff;transition:all 0.3s ease-out 0s;-webkit-box-shadow:0px 0px 15px 2px rgba(0,0,0,0.03);-moz-box-shadow:0px 0px 15px 2px rgba(0,0,0,0.03);box-shadow:0px 0px 15px 2px rgba(0,0,0,0.03)}
+.exchange-box{margin-right:auto;margin-left:auto;width:16.66666667%;display:inline-block;padding:10px}
+.exchange-box img{width:100%;max-width:200px}
+.wallet-box{margin-right:auto;margin-left:auto;padding:10px}
+.wallet-box a{margin-right:auto;margin-left:auto}
+.wallet-box a img{margin-right:auto;margin-left:auto;padding:10px}
+.sh-divider-line.doubble{border-bottom:double;line-height:40px}
+.sh-divider-line.margin{padding:5px 0}
+.sh-divider-line.light{border-bottom-color:#e4e4e4!important}
+.sh-divider-line{width:90%;margin-top:25px;margin-right:auto;margin-bottom:25px;margin-left:auto}
+.guarda-wallet-box{display:flex;padding:20px;border-radius:8px;background-color:#fff;transition:all 0.3s ease-out 0s;-webkit-box-shadow:0px 0px 15px 2px rgba(0,0,0,0.03);-moz-box-shadow:0px 0px 15px 2px rgba(0,0,0,0.03);box-shadow:0px 0px 15px 2px rgba(0,0,0,0.03);border:1px solid rgb(223,223,223);align-items:center}
+.guarda-wallet-ico-box{margin:1%;display:inline-block;border-radius:5px;padding:10px 15px;border:1px solid rgb(223, 223, 223)}
+@media (max-width: 991px) and (min-width: 768px){.exchange-box{width:25%}}
+@media (max-width: 767px){.exchange-box{width:46.66666666%}.guarda-wallet-box{display:block;padding:20px 10px}}
+/*--XDC/XDCe Exchanges css --*/
+
+
+
+
 /* how to Steps 
 .steps-howTo{font-size:14px;line-height:16px}
 .step-description,.step-title{margin:0;display:block;text-align:center}

@@ -120,7 +120,7 @@ include('inc/header.php') ?>
         </div>
 		
         <div class="row">
-          <div class="col-md-5 col-sm-4 col-xs-12">
+          <div class="col-md-5 col-sm-5 col-xs-12">
             <h3>XDC</h3>
 			<p>What is XDC? The XDC token is the underlying utility token of the XinFin hybrid blockchain. The XDC token acts
               as a settlement mechanism for dApps built on the XinFin hybrid blockchain. Our first DApp, the TradeFinex platform,
@@ -129,10 +129,10 @@ include('inc/header.php') ?>
               <br/>
               <br/> The XDC token can be currently procured from the AlphaEx exchange.</p>
           </div>
-          <div class="col-md-2 col-sm-4 col-xs-12">
+          <div class="col-md-2 col-sm-2 col-xs-12">
             &nbsp;
           </div>
-          <div class="col-md-5 col-sm-4 col-xs-12">
+          <div class="col-md-5 col-sm-5 col-xs-12">
 			<h3>XDCE</h3>
             <p>- XinFin has launched an Ethereum token, XDCE, that can be traded with XDC utility token on a 1:1 ratio. This
               allows token holder the flexibility to hold tokens in either form for utility.
@@ -150,7 +150,7 @@ include('inc/header.php') ?>
 
 
 
-      <div class="row mt-1">
+      <!--<div class="row mt-1">
         <div class="col-md-5">
           <hr style="margin-top: 35px;">
         </div>
@@ -163,7 +163,7 @@ include('inc/header.php') ?>
       </div>
       <div class="row imgrow">
         <div class="col-md-5 col-sm-4 col-xs-12">
-          <img src="assets/images/xdc-logo.png" alt="" class="img-responsive">
+          <img src="assets/images/xdc-logo.png" alt="" class="img-fluid">
           <p class="small" style="padding-top:10px;padding-bottom:10px;font-weight:600;">Trading now live on</p>
           <a href="https://alphaex.net/" target="_blank">
             <img src="assets/images/alphaex-logo.png" alt="" class="img-responsive">
@@ -265,8 +265,196 @@ include('inc/header.php') ?>
           </div>
           
         </div>
-      </div>
+      </div>-->
 
+
+		
+        
+        
+        
+        
+        
+        
+        
+        <!-- Newly added code -->                
+        <div class="row mt-4">
+                <div class="address-box text-center">            
+                    <div class="col-md-12 center m-b-10">
+                    <h4 style="font-size:24px;color:#096db0;font-weight:600;margin-bottom:25px;">XDC Trading now live on below Exchange</h4></div>
+                    <div class="exchange-box">
+                        <a href="https://alphaex.net" target="_blank"><img src="assets/images/exchanges/alphaex-logo.jpg" class="img-fluid" alt="alphaex.net"></a>
+                    </div>
+					<div class="exchange-box">
+                        <a href="https://www.bitrue.com/trade/xdc_xrp" target="_blank"><img src="assets/images/exchanges/bitrue-logo.jpg" class="img-fluid" alt=".bitrue.com"></a>
+                    </div>
+                    <div class="exchange-box">
+                        <a href="https://www.wbf.live/trade/XDC_DUSD" target="_blank"><img src="assets/images/exchanges/wbf-logo.jpg" class="img-fluid" alt="wbf.live"></a>
+                    </div>
+					<div class="exchange-box">
+                        <a href="https://trade.buyucoin.com/markets?USDT-XDC" target="_blank"><img src="assets/images/exchanges/buyucoin-logo.jpg" class="img-fluid" alt="buyucoin.com"></a>
+                    </div>
+					<div class="exchange-box">
+                        <a href="https://app.stex.com/en/basic-trade/pair/USDT/XDC" target="_blank"><img src="assets/images/exchanges/stex-logo.jpg" class="img-fluid"></a>
+                    </div>										
+					<div class="exchange-box">
+                        <a href="https://www.homiex.com/exchange/XDCM/USDT" target="_blank"><img src="assets/images/exchanges/homiex.jpg" class="img-fluid" alt="homiex.com"></a>
+                    </div>
+					<div class="exchange-box">
+                        <a href="https://mercatox.com/exchange/XDC/BTC" target="_blank"><img src="assets/images/exchanges/mercatox.jpg" class="img-fluid" alt="mercatox.com"></a>
+                    </div>                                       
+                    <div class="exchange-box">
+                        <a href="https://indodax.com/market/XDCIDR" target="_blank"><img src="assets/images/exchanges/indodax.jpg" class="img-fluid" alt="indodax.com"></a>
+                    </div>
+
+                    <div class="clearfix"></div>
+                    <div class="sh-divider-line doubble light  margin"></div>
+
+                    <div class="col-md-12">
+                        <h4 style="font-size:24px;color:#096db0;font-weight:600;margin-bottom:30px;">Wallets Supporting XDC</h4>
+					</div>
+                    <div class="col-md-10 col-md-offset-1">
+                        <div class="row wallets-supporting-xdc">
+						<div class="col col-md-4 col-sm-4 mb-2">
+                            <div>
+                                <a href="https://play.google.com/store/apps/details?id=com.xdcwallet" target="_blank"><img src="assets/images/exchanges/googleplay-logo.png" class="img-fluid"></a>                                
+                            </div>
+                            <p class="text-center mt-1">Android App</p>                            
+                        </div>
+                        <div class="col col-md-4 col-sm-4 mb-2">
+                            <div>
+                                <a href="https://xinfin.network/#webWallet" target="_blank"><img src="assets/images/exchanges/xdc-wallet-logo.png" class="img-fluid"></a>
+                            </div>
+                            <p class="text-center mt-1">XDC Wallet</p>
+                        </div>
+						<div class="col col-md-4 col-sm-4 mb-2">
+                            <div>
+                                <a href="https://chrome.google.com/webstore/detail/xinpay/bocpokimicclpaiekenaeelehdjllofo?hl=en" target="_blank"><img src="assets/images/exchanges/xdc-ewallet.png" class="img-fluid"></a>
+                            </div>
+                            <p class="text-center mt-1">XinPay Wallet</p>
+                        </div>
+						</div>
+                    </div>
+                    
+                    <div class="col-md-10 col-md-offset-1">
+                        <div class="row guarda-wallet-box">
+						<div class="col-lg-2 col-md-3">
+                            <div>
+                                <a href="https://guarda.com/" target="_blank"><img src="assets/images/exchanges/guarda-wallet/guarda-wallet-logo.png" class="img-fluid"></a>
+                            </div>
+                            <p class="text-center mt-0">Guarda Wallet</p>
+                        </div>
+                        <div class="col-lg-10 col-md-9">
+                            <a href="https://guarda.co/app/" target="_blank"><div class="guarda-wallet-ico-box"><img src="assets/images/exchanges/guarda-wallet/wallet.png" class="img-fluid"></div></a>
+                            <a href="https://play.google.com/store/apps/details?id=com.crypto.multiwallet" target="_blank"><div class="guarda-wallet-ico-box"><img src="assets/images/exchanges/guarda-wallet/android.png" class="img-fluid"></div></a>
+                            <a href="https://apps.apple.com/app/guarda-wallet/id1442083982" target="_blank"><div class="guarda-wallet-ico-box"><img src="assets/images/exchanges/guarda-wallet/apple.png" class="img-fluid"></div></a>
+                            <a href="https://guarda.com/desktop" target="_blank"><div class="guarda-wallet-ico-box"><img src="assets/images/exchanges/guarda-wallet/mac-os.png" class="img-fluid"></div></a>
+                            <a href="https://guarda.com/desktop" target="_blank"><div class="guarda-wallet-ico-box"><img src="assets/images/exchanges/guarda-wallet/windows.png" class="img-fluid"></div></a>
+                            <a href="https://guarda.com/desktop" target="_blank"><div class="guarda-wallet-ico-box"><img src="assets/images/exchanges/guarda-wallet/linux.png" class="img-fluid"></div></a>
+                            <a href="https://chrome.google.com/webstore/detail/guarda/hpglfhgfnhbgpjdenjgmdgoeiappafln?hl=en-GB" target="_blank"><div class="guarda-wallet-ico-box"><img src="assets/images/exchanges/guarda-wallet/chrome-extension.png" class="img-fluid"></div></a>
+                        </div>
+						</div>
+                    </div>
+                </div>
+                </div>
+                
+                
+        <div class="row mt-4">
+			<div class="address-box text-center">
+                
+                    <div class="col-md-12 center m-b-10">
+                        <h4 style="font-size:24px;color:#096db0;font-weight:600;margin-bottom:25px;">XDCE Trading now live on below Exchanges</h4>
+					</div>
+					<div class="exchange-box">
+                        <a href="https://1inch.exchange/XDCE#/" target="_blank"><img src="assets/images/exchanges/1inch.jpg" class="img-fluid" alt="1inch.exchange"></a>
+                    </div>
+                    <div class="exchange-box">
+                        <a href="https://bilaxy.com/trade/XDCE_ETH" target="_blank"><img src="assets/images/exchanges/bilaxy.jpg" class="img-fluid" alt="bilaxy.com"></a>
+                    </div>
+					<div class="exchange-box">
+                        <a href="https://www.fatbtc.com/trading?currency=XDCE%2FUSDT&amp;freetab=2&amp;_en" target="_blank"><img src="assets/images/exchanges/fatbtc.jpg" class="img-fluid" alt="fatbtc.com"></a>
+                    </div>
+					<div class="exchange-box">
+                        <a href="https://www.hotbit.io/exchange?symbol=XDCE_BTC" target="_blank"><img src="assets/images/exchanges/hotbit.jpg" class="img-fluid" alt="hotbit.io"></a>
+                    </div>
+                    <div class="exchange-box">
+                        <a href="https://p2pb2b.io/trade/XDCE_BTC" target="_blank"><img src="assets/images/exchanges/p2pb2b.jpg" class="img-fluid" alt="p2pb2b.io"></a>
+                    </div> 
+                    <div class="exchange-box">
+                        <a href="https://latoken.com/exchange/XDCE-BTC" target="_blank"><img src="assets/images/exchanges/latoken.jpg" class="img-fluid" alt="latoken.co"></a>
+                    </div>
+                    <div class="exchange-box">
+                        <a href="http://topbtc.com/home/market/index/market/ETH/coin/XDCE.html" target="_blank"><img src="assets/images/exchanges/topbtc.jpg" class="img-fluid" alt="topbtc.com"></a>
+                    </div>
+                    <div class="exchange-box">
+                        <a href="https://coss.io/c/trade?s=XDCE_ETH" target="_blank"><img src="assets/images/exchanges/coss.jpg" class="img-fluid" alt="coss.io"></a>
+                    </div>                    
+                    <div class="exchange-box">
+                        <a href="https://www.bancor.network/token/XDCE" target="_blank"><img src="assets/images/exchanges/bancor.jpg" class="img-fluid" alt="bancor.network"></a>
+                    </div>
+                    <div class="exchange-box">
+                        <a href="https://idex.market/eth/xdce" target="_blank"><img src="assets/images/exchanges/idex.jpg" class="img-fluid" alt="idex.market"></a>
+                    </div>
+                    <div class="exchange-box">
+                        <a href="https://www.etherflyer.com/trade.html?pairs=XDCE-ETH" target="_blank"><img src="assets/images/exchanges/etherflyer.jpg" class="img-fluid" alt="etherflyer.com"></a>
+                    </div>                    
+                    <div class="exchange-box">
+                        <a href="https://forkdelta.app/#!/trade/XDCE-ETH" target="_blank"><img src="assets/images/exchanges/forkdelta.jpg" class="img-fluid" alt="forkdelta.github.io"></a>
+                    </div>
+                    <div class="exchange-box">
+                        <a href="https://etherdelta.com/#XDCE-ETH" target="_blank"><img src="assets/images/exchanges/etherdelta.jpg" class="img-fluid" alt="etherdelta.com"></a>
+                    </div>
+
+                    <div class="clearfix"></div>
+                    
+                    <div class="sh-divider-line doubble light margin"></div>
+
+                    <div class="col-md-12">
+                        <h4 style="font-size:24px;color:#096db0;font-weight:600;margin-bottom:30px;">Wallets supporting XDCE</h4>
+                    </div>
+                    <div class="col-md-12">
+                    <div class="row">
+                        <div class="col-md-2 col-sm-4 col-xs-6">
+                            <div class="wallet-box">
+                                <a href="https://metamask.io/" target="_blank"><img src="assets/images/exchanges/metamask-logo.png" class="img-fluid"></a>
+                            </div>
+                            <p class="text-center">METAMASK</p>
+                        </div>
+                        <div class="col-md-2 col-sm-4 col-xs-6">
+                            <div class="wallet-box">
+                                <a href="https://www.myetherwallet.com/" target="_blank"><img src="assets/images/exchanges/myetherwallet-logo.png" class="img-fluid"></a>
+                            </div>
+                            <p class="text-center">MyEtherWallet</p>
+                        </div>
+                        <div class="col-md-2 col-sm-4 col-xs-6">
+                            <div class="wallet-box">
+                                <a href="https://eidoo.io/" target="_blank"><img src="assets/images/exchanges/eidoo-logo.png" class="img-fluid"></a>
+                            </div>
+                            <p class="text-center">Eidoo</p>
+                        </div>
+						<div class="col-md-2 col-sm-4 col-xs-6">
+                            <div class="wallet-box">
+                                <a href="https://lumiwallet.com/" target="_blank"><img src="assets/images/exchanges/lumiwallet-logo.png" class="img-fluid"></a>
+                            </div>
+                            <p class="text-center">Lumi Wallet</p>
+                        </div>
+						<div class="col-md-2 col-sm-4 col-xs-6">
+                            <div class="wallet-box">
+                                <a href="https://trustwallet.com/" target="_blank"><img src="assets/images/exchanges/trustwallet-logo.png" class="img-fluid"></a>
+                            </div>
+                            <p class="text-center">Trust Wallet</p>
+                        </div>
+						<div class="col-md-2 col-sm-4 col-xs-6">
+                            <div class="wallet-box">
+                                <a href="https://safepal.io/" target="_blank"><img src="assets/images/exchanges/safePal-logo.png" class="img-fluid"></a>
+                            </div>
+                            <p class="text-center">SafePal</p>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                </div>
+        <!-- Newly added code -->
+        
 
 
     <!--  <div class="row">
