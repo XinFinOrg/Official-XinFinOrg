@@ -21,14 +21,14 @@ include('inc/header.php') ?>
     <section id="protocol" class="bounty">
         <div class="container">
             <div class="row flex-row">
-                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
+                <!--<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
                     <div class="bounty-box">
                         <div class="image-container">
                             <img class="img-responsive" src="assets/images/bounty/standby-masternodes-in-xdc-network.jpg" alt="Standby Node Hosting Bounty">
                         </div>
                         <div class="content">
                             <h3>Standby Masternodes in XDC Network</h3>
-                            <h4 class="highlight small">Up to 900 USD worth XDC for 06 Months</h4>
+                            <h4 class="highlight small">Up to USD 900 worth XDC for 06 Months</h4>
                             <p class="text-muted">Stake 10 Million XDC and keep your node up and running for 06 Months</p>
 							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
                         </div>
@@ -39,7 +39,7 @@ include('inc/header.php') ?>
                             <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1">Detailed Rules</button>
                         </div>
                     </div>
-                </div>
+                </div>-->
                 
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
                     <div class="bounty-box">
@@ -197,7 +197,7 @@ include('inc/header.php') ?>
 			
 			
 
-            <!-- Modal 1 -->
+            <!-- Modal 1 
             <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-1" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered bounty-modal" role="document">
                     <div class="modal-content">
@@ -209,27 +209,15 @@ include('inc/header.php') ?>
                             <div class="bounty">
                                 <p><strong>Standby node hosting bounty</strong></p>
                                 <p>Stake 10 Million XDC and keep your node up and running for 06 Months.</p>
-                                <p><span class="sub-header-small">Rewards :-</span> 900 USD worth XDC for 06 Months.</p>
-                                <p><span class="sub-header-small">Region :-</span> No Restrictions.</p>
+                                <p><span class="sub-header-small">Rewards : </span>USD 900 worth XDC for 06 Months.</p>
+                                <p>Monthly reward Payout from the XDC ecosystem pool.</p>
                                 <p>Bounty Applicable only for 6 months and extension post community approval.</p>
-                                <p>Monthly reward Payout from the ecosystem pool.</p>
-                                <p><span class="sub-header-small">Purpose of bounty :-</span> To make XDC network more robust with bigger backup node support.</p>
-                                <p><span class="sub-header-small">How to setup backup masternode link :-</span> Since XDC network designed for 108 masternode additional nodes will act as backup nodes.</p>
-                                <p><span class="sub-header-small">Purpose of backup node :-</span> Any masternode out of 108 resign or goes out of the network then the backup node will become a validators node.</p>
-
-                                <!--<p class="sub-header-small mb-2">Rules:</p>
-                                <div class="orderList">
-                                    <ol>
-                                        <li>Standby node hosting bounty</li>
-                                        <li>Stake 10 Mil XDC and keep your node up and running for 6 Months</li>
-                                    </ol>
-                                </div>
-                                <p class="mt-3">This bounty is valid till <strong>22 August 2020</strong>.</p>
-                                <div class="btn-block mt-3 mb-1">
-                                    <a href="#" class="disabled">
-                                        <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
-                                    </a>
-                                </div>-->
+                                <p><span class="sub-header-small">Region : </span>No Restrictions.</p>
+                                
+                                
+                                <p><span class="sub-header-small">Purpose of bounty : </span>To make XDC network more robust with bigger backup node support.</p>
+                                <p><span class="sub-header-small">Purpose of backup node : </span>Any masternode out of 108 resign or goes out of the network then the backup node will become a validators node.</p>
+                                <p>Since XDC network designed for 108 masternode additional nodes will act as backup nodes.</p>
                             </div>
                         </div>
                         <div class="modal-footer"></div>
