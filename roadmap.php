@@ -91,7 +91,7 @@ include('inc/header.php') ?>
 					</ul>
                     
                     <br /><br />
-                    <h2 class="text-center">The journey so far, milestones completed and the roadmap for the year 2019.</h2>                    
+                    <h2 class="text-center">The journey so far, milestones completed and the roadmap for the year 2020.</h2>                    
                     </div>
                     
 
@@ -102,15 +102,91 @@ include('inc/header.php') ?>
                                 <div class="frst-labels frst-start-label"> <span>2020</span> </div>
                                 <!-- .frst-start-label -->
                             </div>
-                            <!-- frst-timeline-block -->
-                            <div class="frst-timeline-block frst-even-item" data-animation="slideInUp">
-                                <div class="frst-timeline-img"> <span><i class="fa" aria-hidden="true">Q1</i></span> </div>
+                            
+                            <div class="frst-timeline-block frst-odd-item" data-animation="slideInUp">
+                                <div class="frst-timeline-img"> <span><i class="fa" aria-hidden="true">Q4</i></span> </div>
                                 <!-- frst-timeline-img -->
                                 <div class="frst-timeline-content">
                                     <div class="frst-timeline-content-inner box">
                                         <div class="question">
                                             <ul>
-                                                <li><span style="font-weight:700;">Regulated Custodian Integrations and Partnership for ecosystem development and XDC adoption.</span> Exploring partnership with Custodian Copper.co, Pundix and Fineon Exchange ( fineon.net )</li>
+                                                <li>Hardware Wallet Ledger integration for the XDC Network Coins</li>
+                                                <li>Auto swap for XDC : XDCe using decentralized Network</li>
+                                                <li>Start Invitation to the Local Country specific partners to Start Country specific Stable coin using XDC ecosystem Support</li>
+                                            </ul>
+                                        </div>
+                                        <div class="answer">
+                                            <ul>                                                
+                                                <li>Invitation to the Partners to Start Oracle date/price feed using middleware MyContract.co</li>
+                                                <li><strong>NFT + DiFi initiative:</strong> TradeFinex Live Transaction with Validus (MAS Regulated Firm in Singapore)</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <!-- frst-timeline-content-inner -->
+                                </div>
+                                <!-- frst-timeline-content -->
+                            </div>
+                            
+                            <div class="frst-timeline-block frst-even-item" data-animation="slideInUp">
+                                <div class="frst-timeline-img"> <span><i class="fa" aria-hidden="true">Q3</i></span> </div>
+                                <!-- frst-timeline-img -->
+                                <div class="frst-timeline-content">
+                                    <div class="frst-timeline-content-inner box">
+                                        <div class="question">
+                                            <ul>
+                                                <li>Andre Casterman joined XinFin as an Advisor</li>
+                                                <li>Gaurda Wallet lists XDC mainnet coins</li>
+                                                <li>Indodax to XinFin Mainnet coin XDC from XDCE</li>
+                                            </ul>
+                                        </div>
+                                        <div class="answer">
+                                            <ul>                                                
+                                                <li>XDC listed on Bitrue Exchange</li>
+                                                <li>10 Billion XDCE token burned as XDC utility escalates</li>
+                                                <li>XinFin [XDC] Network Integrates Chainlink Oracles to Power New Trade Finance Use Cases</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <!-- frst-timeline-content-inner -->
+                                </div>
+                                <!-- frst-timeline-content -->
+                            </div>
+                            
+                            <div class="frst-timeline-block frst-odd-item" data-animation="slideInUp">
+                                <div class="frst-timeline-img"> <span><i class="fa" aria-hidden="true">Q2</i></span> </div>
+                                <!-- frst-timeline-img -->
+                                <div class="frst-timeline-content">
+                                    <div class="frst-timeline-content-inner box">
+                                        <div class="question">
+                                            <ul>
+                                                <li>Staking of XDCE on Bancor Network</li>
+                                                <li>XDC MainNet Coin is Live on Copper.co for an Institutional Custody Solution</li>
+                                                <li>Bilaxy Exchange Listed XDCE</li>
+                                                <li>XDC listed on BuyUCoin against a Fait currency INR</li>
+                                            </ul>
+                                        </div>
+                                        <div class="answer">
+                                            <ul>                                                
+                                                <li>Homiex Switch to XinFin MainNet coin XDC from XDCE</li>
+                                                <li>XinFin [XDC] Network joins the International Trade and Forfaiting Association (ITFA)</li>
+                                                <li>Mercatox Switch to XinFin MainNet coin XDC from XDCE</li>
+                                                <li>Crypto Exchange WBF lists XinFin MainNet Coin XDC</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <!-- frst-timeline-content-inner -->
+                                </div>
+                                <!-- frst-timeline-content -->
+                            </div>
+                            
+                            <!-- frst-timeline-block -->
+                            <div class="frst-timeline-block frst-even-item" data-animation="slideInUp">
+                                <div class="frst-timeline-img"> <span><i class="fa" aria-hidden="true">Q1</i></span> </div>
+                                <div class="frst-timeline-content">
+                                    <div class="frst-timeline-content-inner box">
+                                        <div class="question">
+                                            <ul>
+                                                <li><span style="font-weight:700;">Regulated Custodian Integrations and Partnership for ecosystem development and XDC adoption.</span> Exploring partnership with Custodian Copper.co, Pundix and Fineon Exchange (fineon.net)</li>
 												<li><span style="font-weight:700;">TradeFinex Round table</span> - Regional Roundtable for Masternode, governance council, and use case presentation. DEMO TradeFinex Network.</li>
                                                 
                                             </ul>
@@ -123,7 +199,7 @@ include('inc/header.php') ?>
                                                 <li><span style="font-weight:700;">New decentralized mobile wallet</span> with additional chain support (ERC20)</li>
 												<li class="link-break-out"><span style="font-weight:700;">GO Live</span> with TradeFinex Network with the live instrument for distribution. Live Statistics available at <a href="https://www.tradefinex.org/publicv/statistics" target="_blank">https://www.tradefinex.org/publicv/statistics</a></li>
                                                 <li><span style="font-weight:700;">Add More XDC Liquidity Depth.</span> By way of a tie-up with the market maker. Exploring the possibility to list XDC coin with the regulated exchange. Talking to 2 market makers from Singapore, one from Hongkong and one from malta.</li>
-                                                <li><span style="font-weight:700;">XDC Staking / Burning Plan</span> (By way Use case/network utility apps )
+                                                <li><span style="font-weight:700;">XDC Staking / Burning Plan</span> (By way Use case/network utility apps)
                                                     <ul>
                                                       <li class="link-break-out">TradeFinex - Tokenization fees for financial instruments. (20% of the profit)<br />Live Statistics available at <a href="https://www.tradefinex.org/publicv/statistics" target="_blank">https://www.tradefinex.org/publicv/statistics</a></li>
                                                         <li class="link-break-out">Blockdegree.org - Digital Certificates on Blockchain (20% of Profit)<br />Live Statistics available at <a href="https://www.blockdegree.org/statistics" target="_blank">https://www.blockdegree.org/statistics</a></li>
@@ -132,10 +208,11 @@ include('inc/header.php') ?>
                                                 </li>
                                                 <li><span style="font-weight:700;">Add More Exchange.</span> Talking to tier2 and tier3 Exchange to add XDC mainnet (preferably XDC pair with local Fiat currency like KRW, THB, EUR, etc). Also talking to regulated exchanges to list XDC mainnet chain</li>
 												<li><span style="font-weight:700;">When Exchange like Binance, OKex, Liquid, Huobi?</span><br />All Tier1 exchange List token based on community demand, Adoption/use case and based on the current market daily liquidity depth so XinFin Focusing on getting more adoption and liquidity depth to avoid price manipulation by the whales. XinFin also Focusing more to get Local Fiat pairs against XDC to get more liquidity for the TradeFinex use case</li>
+                                                <li>XDC listed on Stex Exchange</li>
+                                                <li>XDCE listed on FatBTC</li>
                                             </ul>
                                         </div>
                                     </div>
-                                    <!-- frst-timeline-content-inner -->
                                 </div>
                                 <!-- frst-timeline-content -->
                             </div>

@@ -28,8 +28,8 @@
   <style>
     #back-to-top {
       position: fixed;
-      bottom: 40px;
-      left: 40px;
+      bottom: 15px;
+      left: 15px;
       z-index: 9999;
       width: 40px;
       height: 40px;
