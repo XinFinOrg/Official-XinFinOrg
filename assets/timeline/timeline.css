@@ -38,7 +38,7 @@ html *{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}*,:a
 	border: 1px solid #4987bb;
 }
 .question .more:hover, .question .more:focus, .question .less:hover, .question .less:focus {
-    background: #b9cfe7;
+    background: rgba(185, 207, 231, 0.3);
     color: #4987bb;
 	text-decoration: none;
 }
