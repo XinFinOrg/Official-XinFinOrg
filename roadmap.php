@@ -136,7 +136,7 @@ include('inc/header.php') ?>
                                             <ul>
                                                 <li>Andre Casterman joined XinFin as an Advisor</li>
                                                 <li>Gaurda Wallet lists XDC mainnet coins</li>
-                                                <li>Indodax to XinFin Mainnet coin XDC from XDCE</li>
+                                                <li>Indodax to Switch from XDCE to XinFin MainNet coin XDC</li>
                                             </ul>
                                         </div>
                                         <div class="answer">
