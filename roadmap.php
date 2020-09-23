@@ -117,7 +117,7 @@ include('inc/header.php') ?>
                                         </div>
                                         <div class="answer">
                                             <ul>                                                
-                                                <li>Invitation to the Partners to Start Oracle date/price feed using middleware MyContract.co</li>
+                                                <li>Invitation to the Partners to Start Oracle date/price feed using middleware <a href="https://MyContract.co/" target="_blank">MyContract.co</a></li>
                                                 <li><strong>NFT + DiFi initiative:</strong> TradeFinex Live Transaction with Validus (MAS Regulated Firm in Singapore)</li>
                                             </ul>
                                         </div>
