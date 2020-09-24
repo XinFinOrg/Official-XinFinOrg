@@ -28,7 +28,7 @@ include('inc/header.php') ?>
                 <div id="roadmap" class="tab-pane fade in active">
                     
                     <div class="roadmap-details">
-                    <p class="sub-header">After XinFin Network Mainnet launch (1st June, 2019), the core focus is on the following points:</p>
+                    <p class="sub-header">After XinFin Network MainNet launch (1st June, 2019), the core focus is on the following points:</p>
                     <p class="title">1. XDC Staking</p>
                     <ul>
 						<li>Masternodes proliferation (10M XDC Staking)</li>
@@ -135,7 +135,7 @@ include('inc/header.php') ?>
                                         <div class="question">
                                             <ul>
                                                 <li>Andre Casterman joined XinFin as an Advisor</li>
-                                                <li>Gaurda Wallet lists XDC mainnet coins</li>
+                                                <li>Gaurda Wallet lists XDC MainNet coins</li>
                                                 <li>Indodax to Switch from XDCE to XinFin MainNet coin XDC</li>
                                             </ul>
                                         </div>
@@ -206,7 +206,7 @@ include('inc/header.php') ?>
 														<li class="link-break-out">Add More Masternode and stake XDC (by way of 10 Million Staking)<br />Live Statistics available at <a href="https://explorer.xinfin.network/home" target="_blank">https://explorer.xinfin.network/home</a></li>
                                                     </ul>
                                                 </li>
-                                                <li><span style="font-weight:700;">Add More Exchange.</span> Talking to tier2 and tier3 Exchange to add XDC mainnet (preferably XDC pair with local Fiat currency like KRW, THB, EUR, etc). Also talking to regulated exchanges to list XDC mainnet chain</li>
+                                                <li><span style="font-weight:700;">Add More Exchange.</span> Talking to tier2 and tier3 Exchange to add XDC MainNet (preferably XDC pair with local Fiat currency like KRW, THB, EUR, etc). Also talking to regulated exchanges to list XDC MainNet chain</li>
 												<li><span style="font-weight:700;">When Exchange like Binance, OKex, Liquid, Huobi?</span><br />All Tier1 exchange List token based on community demand, Adoption/use case and based on the current market daily liquidity depth so XinFin Focusing on getting more adoption and liquidity depth to avoid price manipulation by the whales. XinFin also Focusing more to get Local Fiat pairs against XDC to get more liquidity for the TradeFinex use case</li>
                                                 <li>XDC listed on Stex Exchange</li>
                                                 <li>XDCE listed on FatBTC</li>
@@ -308,7 +308,7 @@ include('inc/header.php') ?>
                                                 <li>TradeFinex 1st regulator and institution round table meeting schedule at ADGM</li>
                                                 <li>Rollout of Live XDC Public Net</li>
                                                 <li>Rollout of Standardize dApps Web Wallet MainNet</li>
-                                                <li>Rollout of Standardize dApps-Mobile Wallet (MainNet)</li>
+                                                <li>Rollout of Standardize dApps Mobile Wallet (MainNet)</li>
                                             </ul>
                                         </div>
                                         <div class="answer">
