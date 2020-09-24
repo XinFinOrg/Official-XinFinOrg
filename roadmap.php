@@ -136,13 +136,13 @@ include('inc/header.php') ?>
                                             <ul>
                                                 <li>Andre Casterman joined XinFin as an Advisor</li>
                                                 <li>Gaurda Wallet lists XDC MainNet coins</li>
-                                                <li>Indodax to Switch from XDCE to XinFin MainNet coin XDC</li>
+                                                <li>Indodax to Switch from XDCe to XinFin MainNet coin XDC</li>
                                             </ul>
                                         </div>
                                         <div class="answer">
                                             <ul>                                                
                                                 <li>XDC listed on Bitrue Exchange</li>
-                                                <li>10 Billion XDCE token burned as XDC utility escalates</li>
+                                                <li>10 Billion XDCe token burned as XDC utility escalates</li>
                                                 <li>XinFin [XDC] Network Integrates Chainlink Oracles to Power New Trade Finance Use Cases</li>
                                             </ul>
                                         </div>
@@ -159,17 +159,17 @@ include('inc/header.php') ?>
                                     <div class="frst-timeline-content-inner box">
                                         <div class="question">
                                             <ul>
-                                                <li>Staking of XDCE on Bancor Network</li>
+                                                <li>Staking of XDCe on Bancor Network</li>
                                                 <li>XDC MainNet Coin is Live on Copper.co for an Institutional Custody Solution</li>
-                                                <li>Bilaxy Exchange Listed XDCE</li>
+                                                <li>Bilaxy Exchange Listed XDCe</li>
                                                 <li>XDC listed on BuyUCoin against a Fait currency INR</li>
                                             </ul>
                                         </div>
                                         <div class="answer">
                                             <ul>                                                
-                                                <li>Homiex Switch to XinFin MainNet coin XDC from XDCE</li>
+                                                <li>Homiex Switch to XinFin MainNet coin XDC from XDCe</li>
                                                 <li>XinFin [XDC] Network joins the International Trade and Forfaiting Association (ITFA)</li>
-                                                <li>Mercatox Switch to XinFin MainNet coin XDC from XDCE</li>
+                                                <li>Mercatox Switch to XinFin MainNet coin XDC from XDCe</li>
                                                 <li>Crypto Exchange WBF lists XinFin MainNet Coin XDC</li>
                                             </ul>
                                         </div>
@@ -209,7 +209,7 @@ include('inc/header.php') ?>
                                                 <li><span style="font-weight:700;">Add More Exchange.</span> Talking to tier2 and tier3 Exchange to add XDC MainNet (preferably XDC pair with local Fiat currency like KRW, THB, EUR, etc). Also talking to regulated exchanges to list XDC MainNet chain</li>
 												<li><span style="font-weight:700;">When Exchange like Binance, OKex, Liquid, Huobi?</span><br />All Tier1 exchange List token based on community demand, Adoption/use case and based on the current market daily liquidity depth so XinFin Focusing on getting more adoption and liquidity depth to avoid price manipulation by the whales. XinFin also Focusing more to get Local Fiat pairs against XDC to get more liquidity for the TradeFinex use case</li>
                                                 <li>XDC listed on Stex Exchange</li>
-                                                <li>XDCE listed on FatBTC</li>
+                                                <li>XDCe listed on FatBTC</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -417,8 +417,8 @@ include('inc/header.php') ?>
                                     <div class="frst-timeline-content-inner pb-20">
                                         <div class="question-1">
                                             <ul>
-                                                <li>TradeFinex Beta Launch & Setup of XDCE</li>
-                                                <li>Listing of XDCE & XDC Token</li>
+                                                <li>TradeFinex Beta Launch & Setup of XDCe</li>
+                                                <li>Listing of XDCe & XDC Token</li>
                                                 <li>Global Expansion of XinFin & TradeFinex</li>
                                             </ul>
                                         </div>
