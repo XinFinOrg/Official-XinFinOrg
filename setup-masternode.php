@@ -114,7 +114,7 @@ include('inc/header.php') ?>
                                 <p class="header mb-3">List of service provider to Setup Masternode</p>
                                 <div class="orderList mb-3">
                                     <ol>
-                                        <li><strong>IndSoft.net</strong></li>
+                                        <li style="font-size:20px;font-weight:700;"><strong>IndSoft.net</strong></li>
                                         <ul>
                                             <li>IPv6 and tor Supported</li>
                                             <li>Global geographical locations</li>
