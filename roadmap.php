@@ -1,5 +1,5 @@
 <?php 
-$title = "Roadmap 2019 | XinFin";
+$title = "XinFin's Road Map";
 $desc = "XinFin use the XDC token on the public state that is identical in functionality to public blockchains. Or set up private networks to run enterprise use cases.";
 
 include('inc/header.php') ?>
