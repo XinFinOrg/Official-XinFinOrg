@@ -1,17 +1,21 @@
 <?php 
-$title = "XDC/XDCe Utility - XinFin Hybrid Blockchain network";
+$title = "XDC Utility - XinFin Hybrid Blockchain network";
 $desc = "Visit this page of XinFin to discuss, code, access documentation, report bugs, get advice and support to make the XDC ecosystem the blockchain for enterprise. ";
 
 include('inc/header.php') ?>
 <link rel='stylesheet' href='assets/css/app-new.css' type='text/css' media='all' />
 
-<section id="banner" style="background: url('assets/images/xdc-protocol-banner-image2.png') #112b3c; background-repeat: no-repeat; background-position: bottom right;">
+<section id="xdc-utility-banner" style="background: url('assets/images/xdc-protocol-banner-image2.png') #112b3c; background-repeat: no-repeat; background-position: bottom right;">
     <div class="container">
         <div class="row">
+            <div class="col-md-12">
             <div class="bannertext">
-                <h1>XDC/XDCE Utility</h1>
-                <p>The XDC token is the underlying utility token that powers XinFin's Hybrid Blockchain. The XDC token acts as a settlement mechanism for DApps built on the XinFin Hybrid Blockchain. XinFin has also launched an Ethereum token called XDCE that can be traded with XDC utility token at a 1:1 ratio. This gives the token holder flexibility to hold tokens in either form for utility. The ERC-20 token can be swapped for the XDC token at a ratio of 1:1. This swap can be facilitated on the AlphaEx exchange. AlphaEx is compatible with all decentralised exchanges and has a presence in liquidity markets and supports XDC liquidity.</p>
+                <!--<h1>XDC/XDCE Utility</h1>-->
+                <h1>XDC Utility</h1>
+                <p>The XDC token is the underlying utility token that powers XinFin's Hybrid Blockchain. The XDC token acts as a settlement mechanism for DApps built on the XinFin Hybrid Blockchain.<!-- XinFin has also launched an Ethereum token called XDCE that can be traded with XDC utility token at a 1:1 ratio. This gives the token holder flexibility to hold tokens in either form for utility. The ERC-20 token can be swapped for the XDC token at a ratio of 1:1. This swap can be facilitated on the AlphaEx exchange. AlphaEx is compatible with all decentralised exchanges and has a presence in liquidity markets and supports XDC liquidity.</p>-->
                 <p>To date, use cases built around XinFin's XDC utility token are: MyContract, TradeFinex, Kramaa, Land Registry, iFactor, Blockdegree and TurantPay.</p>
+                <p>Please read : <a href="phasing-out-xdce">Phasing out XDCe</a></p>
+            </div>
             </div>
         </div>
     </div>

@@ -10,10 +10,10 @@ include('inc/header.php') ?>
     <div class="row">
       <div class="col-md-6 col-sm-6 col-xs-12 bannertext">
         <h1>XinFin Resources and Information</h1>
-        <p>Use the XDC token on the public state that is identical in functionality to public blockchains. Or set up private networks to run enterprise applications.</p>
+        <p class="mb-2">Use the XDC token on the public state that is identical in functionality to public blockchains. Or set up private networks to run enterprise applications.</p>
       </div>
       <div class="col-md-6 col-sm-6 col-xs-12 btxt-img">
-        <img src="assets/images/XDC-Protocol/xdc-protocol-banner-image.png" alt="" class="img-responsive">
+        <img src="assets/images/XDC-Protocol/xdc-protocol-banner-image.png" alt="" class="img-responsive mb-5">
       </div>
      <!-- <div id="scroll"><a href="#resorces" class="smooth-scroll" ><span class="arrow-bounce">↓</span></a></div> -->
 
@@ -79,7 +79,7 @@ include('inc/header.php') ?>
       <a href="bounty"><button class="btn-hover color-1 mb-1">Community Bounty Program</button></a>
       
       <p class="header mb-2">Wallet Support</p>
-      <p>Wallet Support gives you a quick overview of which exchanges XDCE is live-trading on and which wallet partners support XDCE.</p>
+      <p>Wallet Support gives you a quick overview of which exchanges XDC is live-trading on and which wallet partners support XDC.</p>
       <p>For Wallet Support needed, you can reach out to us at <a href="mailto:support@xinfin.io">support@xinfin.io</a></p>
       <a href="https://XinFin.io/" target="_blank"><button class="btn-hover color-3 mb-1">Wallet Support</button></a>
       
@@ -98,7 +98,7 @@ include('inc/header.php') ?>
       <a href="https://howto.xinfin.org/"><button class="btn-hover color-1 mb-1">Developer Portal</button></a>
       
       <p class="header mb-2">Exchange Listing Resource</p>
-      <p>This section provides you with details required to list the XDCE token on exchanges.</p>
+      <p>This section provides you with details required to list the XDC token on exchanges.</p>
       <a href="exchange-listing-resource"><button class="btn-hover color-3 mb-1">Exchange Listing Resource</button></a>
 	  
 	  <p class="header mb-2">Custody Services Integration</p>

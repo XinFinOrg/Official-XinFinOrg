@@ -207,7 +207,7 @@
                 <a href="http://xinfin.network/" target="_blank">XDC Network</a>
               </li>
               <li class="nav-item">
-                <a href="xdc-utility">XDC/XDCE Utility</a>
+                <a href="xdc-utility">XDC Utility</a>
               </li>
               <li class="nav-item">
                 <a href="https://howto.xinfin.org/">Developer Portal</a>

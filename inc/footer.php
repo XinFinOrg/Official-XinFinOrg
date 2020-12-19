@@ -24,12 +24,12 @@
                 <p>
                     <a href="setup-masternode">Setup MasterNode</a><br/>
                     <!--<a href="faq.php">Read FAQ</a><br/>-->
-                    <a href="xdc-utility">XDC/XDCe Utility</a><br/>
+                    <a href="xdc-utility">XDC Utility</a><br/>
                     <a href="https://howto.xinfin.org/general/faq/" target="_blank">Read FAQ</a><br/>
                     <a href="bounty">Community Bounty Program</a><br/>
                     <!--<a href="https://github.com/XinFinorg">Source Code on GitHub</a><br/>-->
                     <a href="download">Download Logo</a><br/>
-                    <a href="https://xinfin.io">XDC/XDCE Exchange List</a><br/>
+                    <a href="https://xinfin.io">XDC Exchange List</a><br/>
                     <a href="apply-for-funding">Apply For Funding</a>
                 </p>
              </div>		

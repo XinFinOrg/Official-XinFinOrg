@@ -11,8 +11,6 @@ include('inc/header.php') ?>
 			<div class="col-md-12 col-sm-12 col-xs-12 bannertext">
 				<h1>XinFin (XDC) Public XDPoS Consensus</h1>
                 <p><strong>Delegated Proof of Stake</strong> (also known as <strong>XDPoS</strong>) is a consensus algorithm used to sustain digital democracy throughout the XinFin (XDC) Hybrid Blockchain Network.</p>
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
 			</div>
 
       		<!-- <div id="scroll"><a href="#xdce" class="smooth-scroll" ><span class="arrow-bounce">↓</span></a></div> -->

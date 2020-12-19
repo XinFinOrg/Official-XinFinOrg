@@ -1,5 +1,5 @@
 <?php
-$title = " Use XinFin  XDC Token and Make Life Much Easier";
+$title = "Use XinFin XDC Token and Make Life Much Easier";
 $desc = "Fed up with the muddle of transferring funds via the regular fund transferring system? Then get a XDC token and make your life much easier.";
 
 include('inc/header.php') ?>
@@ -8,7 +8,7 @@ include('inc/header.php') ?>
   <div class="container">
     <div class="row">
       <div class="bannertext">
-        <h1> XDC / XDCE</h1>
+        <h1>XDC / XDCE</h1>
         <p>Companies and individuals who are looking for real-time cross border financial transactions can use XinFin’s Blockchain
           platform backed integrated wallet solutions. Supported by an advanced XDC protocol, this wallet solution will
           help you and your business to conduct cross-border financial transactions in a secured environment.

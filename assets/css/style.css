@@ -272,12 +272,11 @@ h4
 
 /*banner style*/
 
-#banner
-{
+#banner {
   display: block;
   position: relative;
   background: #112b3c;
-  min-height: 700px;
+  /*min-height: 700px;*/
 }
 
 #banner .bannertext {
@@ -309,13 +308,14 @@ h4
 {
    text-align: left;
    font-size: 30px;
-   padding-left: 65px;
+   /*padding-left: 65px;*/
+   padding-left: 10px;
    font-weight: 500;
 }
 
-.bannertext h2 {color: #ffffff;text-align: left;font-size: 30px;padding-left: 65px;font-weight:600;}
+.bannertext h2 {color: #ffffff;text-align: left;font-size: 30px;/*padding-left: 65px;*/padding-left: 10px;font-weight:600;}
 
-.bannertext h4 {color: #ffffff;font-size: 22px;padding-left: 65px;font-weight:400;text-align:center;}
+.bannertext h4 {color: #ffffff;font-size: 22px;/*padding-left: 65px;*/padding-left: 10px;font-weight:400;text-align:center;}
 
 .bannertext p
 {
@@ -323,8 +323,16 @@ h4
    font-size: 18px;
    font-weight: lighter;
    font-family: 'Muli', sans-serif;
-   padding-left: 65px;
+   /*padding-left: 65px;*/
+   padding-left: 10px;
 
+}
+.bannertext p:last-child {
+  margin-bottom: 75px;
+}
+
+.bannertext p a {
+   color: #42ccd5!important;
 }
 #banner .bannertext1 p
 {    width: 125%;
@@ -337,7 +345,8 @@ h4
 {
    text-align: left;
    font-size: 40px;
-    padding-left: 65px;
+    /*padding-left: 65px;*/
+   padding-left: 10px;
     padding-top: 25%;
 }
 
@@ -347,7 +356,8 @@ h4
    font-size: 18px;
    font-weight: normal;
    font-family: 'Muli', sans-serif;
- padding-left: 65px;
+   /*padding-left: 65px;*/
+   padding-left: 10px;
 }
 
 canvas
@@ -889,7 +899,7 @@ hr {
   display: block;
   position: relative;
   background: #112b3c;
-  min-height:700px;
+  /*min-height:700px;*/
 }
 #xdc-banner .bannertext{
   display: block;
@@ -1101,6 +1111,7 @@ hr {
 .ml-6 {margin-left: 6rem!important;}
 .ml-7 {margin-left: 7rem!important;}
 
+.mb-0 {margin-bottom: 0rem!important;}
 .mb-1 {margin-bottom: 1rem!important;}
 .mb-2 {margin-bottom: 2rem!important;}
 .mb-3 {margin-bottom: 3rem!important;}
@@ -1162,10 +1173,11 @@ hr {
 #setting-up-masterNodes .bannertext img {max-width:80%;margin: 0px auto;}
 
 /*  XDC Utility  */
-#xdc-utility-banner{background: url('../images/xdc-protocol-banner-image2.png') #112b3c;background-repeat: no-repeat;background-position: bottom right;display: block;position: relative;min-height:700px;}
+#xdc-utility-banner{background: url('../images/xdc-protocol-banner-image2.png') #112b3c;background-repeat: no-repeat;background-position: bottom right;display: block;position: relative;}
 #xdc-utility-banner .bannertext{display: block;position: relative;z-index: 99;margin-top: 20%;text-align: left;color: #fff;font-size: 19px;letter-spacing: 0.5px;}
 #xdc-utility-banner h1 {text-align: left;}
 #xdc-utility-banner .bannertext p {text-align: left;font-size: 18px;font-weight: 400;font-family: 'Muli', sans-serif;}
+#xdc-utility-banner .bannertext p:last-child {margin-bottom:75px;}
 .btxt-img{display: block;position: relative;z-index: 99;margin-top: 15%;}
 
 #xdc-utility-banner #scroll{margin-top: 0;bottom: 3%;z-index: 99;}
@@ -1314,10 +1326,10 @@ button.btn-outline-default .fa{margin-right:5px;}
 
 
 /*  Bounty  */
-#bountybanner {display: block;position: relative;background: #112b3c;min-height:600px;}
+#bountybanner {display: block;position: relative;background: #112b3c;/*min-height:600px;*/}
 #bountybanner .bannertext {display: block;position: relative;z-index: 99;margin-top: 25%;text-align: center;color:#fff;font-size:19px;letter-spacing: 0.5px;font-weight: 100;}
 #bountybanner .bannertext a {color: #42ccd5 !important;}
-#bountybanner .bannertext h4 {text-align: left;font-size: 22px;padding-left: 65px;font-weight: 300;margin-top: 0px;margin-bottom: 20px;}
+#bountybanner .bannertext h4 {text-align: left;font-size: 22px;padding-left: 10px;font-weight: 300;margin-top: 0px;margin-bottom: 20px;}
 
 .bounty h1 {font-family: 'Muli', sans-serif;color: #002752;font-size: 25px;font-weight:600;text-align: left;margin-top:0px;padding-bottom: 15px;}
 .bounty ul{font-size:16px;color:#002752;margin-left:20px;}
@@ -1867,7 +1879,6 @@ button.btn-outline-default .fa{margin-right:5px;}
 
 
 
-
 /*xdce*/
 #xdcebanner
 {
@@ -2023,12 +2034,11 @@ button:focus {outline:0;}
 
 
 /*xdce*/
-#contactbanner
-{
+#contactbanner {
   display: block;
   position: relative;
   background: #112b3c;
-  min-height:500px;
+  /*min-height:500px;*/
 }
 
 #contactbanner .bannertext {
@@ -2141,7 +2151,7 @@ button:focus {outline:0;}
 #video-section{padding: 60px 0 50px;display: block;position: relative;/*background: #e4e4e4;min-height:600px;border-top:1px solid #cdcdcd;*/}
 #video-section h1 {color: #00244e;font-size: 40px;font-family: 'Muli', sans-serif;text-transform: capitalize;margin-top:0px;}
 
-    #banner2
+#banner2
 {
   display: block;
   position: relative;
@@ -2149,7 +2159,7 @@ button:focus {outline:0;}
    min-height:600px;
 }
 
-    #banner3
+#banner3
 {
   display: block;
   position: relative;
@@ -2159,7 +2169,7 @@ button:focus {outline:0;}
     border-bottom:1px solid #cdcdcd;
 }
 
- #banner4
+#banner4
 {
   display: block;
   position: relative;
@@ -2223,8 +2233,7 @@ button:focus {outline:0;}
 
 
  #banner3 .bannertext p
-{
-   
+{   
    color:#112b3c;
   /* font-weight:bold !important;*/
        
@@ -3020,14 +3029,10 @@ color:#1bc3ed!important;
 }
 
 
-#banner
-{
- background:  #112b3c;
-  
+#banner {
+ background:  #112b3c;  
 }
-
-#xdc-banner
-{
+#xdc-banner {
  background: #112b3c;
 }
 #resources-banner {
@@ -3056,17 +3061,14 @@ color:#1bc3ed!important;
 #xdc #text{
 display:none;
 }
-#xdc .btn-container{
- 
+#xdc .btn-container{ 
   height:44px;
   width:166.23px;
   font-size: 16px;
-  color:#000;
-  
+  color:#000;  
 }
 
-.btn-container a
-{
+.btn-container a{
   color:#000;
 }
 
@@ -3528,7 +3530,11 @@ display: inline-table;
 
 /* GENERAL MEDIA QUERIES
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-@media screen and (max-width: 599px) {
+@media screen and (max-width: 599px) {  
+#contactbanner .bannertext, #download-xdc-wallet .bannertext, #bountybanner .bannertext, #banner1 .bannertext, #bannerdev .bannertext, #xdcebanner .bannertext, #solbanner .bannertext, #xdc-utility-banner .bannertext {margin-top: 150px!important;}
+}
+
+@media screen and (max-width: 599px) {  
   .timeline ol,
   .timeline ol li {
     width: auto; 
@@ -3672,12 +3678,10 @@ display: inline-table;
 
 .bannertext{text-align:center !important;}
 
-.bannertext p
-{
+.bannertext p {
   padding-left:0;
   text-align: center !important;
 }
-
 #banner2 .bannertext h1 {
     padding-top: 30px;
  

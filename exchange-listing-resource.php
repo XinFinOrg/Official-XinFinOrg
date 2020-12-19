@@ -11,7 +11,7 @@ include('inc/header.php') ?>
             <div class="col-md-12">
 				<div class="bannertext">
 					<h1>Exchange Listing Resource</h1>
-					<p>Details require to list XinFin-XDC (MainNet Chain) and Xinfin-XDCe with exchange.</p>
+					<p>Details require to list XinFin-XDC (MainNet Chain) with exchange.</p>
 				</div>
 			</div>
         </div>
@@ -22,21 +22,19 @@ include('inc/header.php') ?>
 <!--<section id="xdce" class="exchange-listing" style="background: #f3f3f3">-->
 <section id="xdce" class="exchange-listing">
             
-			<div class="container-fluid">
+			<!--<div class="container-fluid">
 			<div class="row">
 				<div class="setup-masternode-row">
-					<!--<div class="container">-->
 						<ul class="nav nav-tabs">
 							<li class="active"><a data-toggle="tab" href="#xinfin-xdc">XDC (MainNet)</a></li>
 							<li><a data-toggle="tab" href="#xinfin-xdce">XDCE</a></li>
 						</ul>
-					<!--</div>-->
 				</div>
 			</div>
-			</div>
+			</div>-->
 			
 			<div class="container">
-                <div class="tab-content">
+                <div class="tab-content pt-0">
                     
 					<div id="xinfin-xdc" class="tab-pane fade in active">
 					<div id="network">
@@ -233,7 +231,9 @@ web3.eth.sendTransaction({
                     </div>
 					</div>
 					
-					<div id="xinfin-xdce" class="tab-pane fade">
+					
+                    
+                    <!--<div id="xinfin-xdce" class="tab-pane fade">
 					<div id="network">
                         <div class="row" style="margin-top:0%;padding-bottom:0px;">
 							<div class="col-md-12">
@@ -278,7 +278,7 @@ web3.eth.sendTransaction({
 							</div>
 						</div>                        
                     </div>
-					</div>										
+					</div>-->
                 </div>
             </div>
             </div>
