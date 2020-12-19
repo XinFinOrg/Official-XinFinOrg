@@ -8,7 +8,7 @@ include('inc/header.php') ?>
 	<div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12 bannertext">
-                <h1>XinFin XDPoS Consensus</h1>   
+                <h1 class="mb-5">XinFin XDPoS Consensus</h1>   
             </div>    
         </div>
     </div>
