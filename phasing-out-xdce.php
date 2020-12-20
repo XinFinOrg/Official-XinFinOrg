@@ -28,7 +28,7 @@ include('inc/header.php') ?>
         <div class="network">
         <div class="row">
             <div class="col-md-12 mb-3">
-                <p>XDCe, ERC20 token which has been pegged to XDC at 1:1 till 6th Dec 12:00 GMT is no more supported by XDC ecosystem. Anyone holding XDCe with Txhash before 6th Dec 12:00 GMT can swap the XDCe to XDC 1:1 alphaex.net subject to the exchange KYC/AML compliance. The deadline of this swap is 31st March 2021.</p>
+                <p>XDCe, ERC20 token which has been pegged to XDC at 1:1 till 6th Dec 5:30 GMT is no more supported by XDC ecosystem. Anyone holding XDCe with Txhash before 6th Dec 5:30 GMT can swap the XDCe to XDC 1:1 alphaex.net subject to the exchange KYC/AML compliance. The deadline of this swap is 31st March 2021.</p>
                 <p>XinFin developer community is working to support an interoperability of XDC mainnet token with Ethereum ecosystem. Community can interact with this tool at their own risk as it is still in alpha testing : <a href="https://bancor.xdc.network/" target="_blank">https://bancor.xdc.network/</a> (It's on apothem.network / Test Network) we are requesting developer community test and provide feedback at <a href="mailto:info@xinfin.org">info@xinfin.org</a></p>
                 <p>Connecting XDC eco system with various wallets, payment gateways and developers tools. We welcome community support to add the XDC Network ecosystem with various tools. Integration and API available at : <a href="https://mycontract.co/" target="_blank">https://mycontract.co/</a></p>
                 <p>Custody services integration for XDC : <a href="https://xinfin.org/custody-services-integration">https://xinfin.org/custody-services-integration</a></p>
