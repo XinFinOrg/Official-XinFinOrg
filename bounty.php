@@ -28,7 +28,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="content">
                             <h3>Crypto Custodian Integration Fees Bounty</h3>
-                            <h4 class="highlight small">Up to 140% of the hardware/software wallet Technical Integration Fees</h4>
+                            <h4 class="highlight small">Up to 140% of the crypto custodian Technical Integration Fees</h4>
                             <p class="text-muted">Want to see XDC listed on your favourite Cryptocurrency asset custodian?</p>
 							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
                         </div>
