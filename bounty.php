@@ -21,15 +21,55 @@ include('inc/header.php') ?>
     <section id="protocol" class="bounty">
         <div class="container">
             <div class="row flex-row">
-                <!--<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
                     <div class="bounty-box">
                         <div class="image-container">
-                            <img class="img-responsive" src="assets/images/bounty/standby-masternodes-in-xdc-network.jpg" alt="Standby Node Hosting Bounty">
+                            <img class="img-responsive" src="assets/images/bounty/crypto-custodian-integration-fees-bounty.jpg" alt="Crypto Custodian Integration Fees Bounty">
                         </div>
                         <div class="content">
-                            <h3>Standby Masternodes in XDC Network</h3>
-                            <h4 class="highlight small">Up to USD 900 worth XDC for 06 Months</h4>
-                            <p class="text-muted">Stake 10 Million XDC and keep your node up and running for 06 Months</p>
+                            <h3>Crypto Custodian Integration Fees Bounty</h3>
+                            <h4 class="highlight small">Up to 140% of the hardware/software wallet Technical Integration Fees</h4>
+                            <p class="text-muted">Want to see XDC listed on your favourite Cryptocurrency asset custodian?</p>
+							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
+                        </div>
+                        <div class="btn-block mb-1">
+                            <a href="#" class="disabled">
+                                <button class="btn-hover color-1">Apply</button>
+                            </a>
+                            <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1b">Detailed Rules</button>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
+                    <div class="bounty-box">
+                        <div class="image-container">
+                            <img class="img-responsive" src="assets/images/bounty/hardware-software-wallet-integration-fees-bounty.jpg" alt="Hardware/Software Wallet Integration Fees Bounty">
+                        </div>
+                        <div class="content">
+                            <h3>Hardware/Software Wallet Integration Fees Bounty</h3>
+                            <h4 class="highlight small">Up to 140% of the hardware/software wallet Technical Integration Fees</h4>
+                            <p class="text-muted">Want to see XDC listed on your favourite hardware/software wallet?</p>
+							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
+                        </div>
+                        <div class="btn-block mb-1">
+                            <a href="#" class="disabled">
+                                <button class="btn-hover color-1">Apply</button>
+                            </a>
+                            <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1a">Detailed Rules</button>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
+                    <div class="bounty-box">
+                        <div class="image-container">
+                            <img class="img-responsive" src="assets/images/bounty/exchange-integration-fees-bounty.jpg" alt="Exchange Integration Fees Bounty">
+                        </div>
+                        <div class="content">
+                            <h3>Exchange Integration Fees Bounty</h3>
+                            <h4 class="highlight small">Up to 140% of the Exchange Technical Integration Fees</h4>
+                            <p class="text-muted">Want to see XDC listed on your favourite Digital Asset Exchange?</p>
 							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
                         </div>
                         <div class="btn-block mb-1">
@@ -39,17 +79,17 @@ include('inc/header.php') ?>
                             <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1">Detailed Rules</button>
                         </div>
                     </div>
-                </div>-->
+                </div>
                 
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
                     <div class="bounty-box">
                         <div class="image-container">
-                            <img class="img-responsive" src="assets/images/bounty/developers-bounty-for-swap.jpg" alt="Developers Bounty For Swap">
+                            <img class="img-responsive" src="assets/images/bounty/developers-bounty-for-swap-between-xdc-eth-coins.jpg" alt="Developers Bounty for Swap between XDC ETH/ERC20 Coins">
                         </div>
                         <div class="content">
-                            <h3>Developers Bounty for Swap between XDC and XDCE</h3>
+                            <h3>Developers Bounty for Swap between XDC ETH/ERC20 Coins</h3>
                             <h4 class="highlight">Up to 1 Million XDC</h4>
-                            <p class="text-muted">Develop a real-time decentralized swap between XDC and XDCE.</p>
+                            <p class="text-muted">Develop a real-time decentralized swap between XDC and ETH or any ERC20 coins.</p>
 							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
                         </div>
                         <div class="btn-block mb-1">
@@ -195,29 +235,90 @@ include('inc/header.php') ?>
 			
 			
 			
+            
+            <!-- Modal 1b -->
+            <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-1b" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered bounty-modal" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                            <h3 class="modal-title" id="exampleModalCenterTitle">Crypto Custodian Integration Fees Bounty</h3>
+                        </div>
+                        <div class="modal-body">
+                            <div class="bounty">
+                                <p>Want to see XDC listed on your favourite Cryptocurrency asset custodian? If you are willing to pay for technical integration fee for the custodian, then you will get upto 140% of the tech integration fees in XDC. I.e. if you incur a cost of USD 20,000 for technical integration with a crypto exchange, then your bounty will be upto USD 28,000 equivalent XDC as per market rate.</p>
+                                <p class="sub-header-small mb-2">Rules:</p>
+                                <div class="orderList">
+                                    <ol>
+                                        <li>The crypto asset custodian should be regulated.</li>
+                                        <li>Should be listed on other top projects.</li>
+                                        <li>Include <a href="mailto:info@xinfin.org">info@xinfin.org</a> in your communication with wallet technical integration team.</li>
+                                        <li>Get an invoice for Tech integration for XDC network.</li>
+                                        <li>You will get upto 140% of the tech integration fees in your wallet.</li>
+                                    </ol>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="modal-footer"></div>
+                    </div>
+                </div>
+            </div>
+            <!-- /. Modal 1b -->
 			
 
-            <!-- Modal 1 
+            
+            <!-- Modal 1a -->
+            <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-1a" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered bounty-modal" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                            <h3 class="modal-title" id="exampleModalCenterTitle">Hardware/Software Wallet Integration Fees Bounty</h3>
+                        </div>
+                        <div class="modal-body">
+                            <div class="bounty">
+                                <p>Want to see XDC listed on your favourite hardware/software wallet? If you are willing to pay for technical integration fee for the wallet, then you will get upto 140% of the tech integration fees in XDC. I.e. if you incur a cost of USD 20,000 for technical integration with a crypto exchange, then your bounty will be upto USD 28,000 equivalent XDC as per market rate.</p>
+                                <p class="sub-header-small mb-2">Rules:</p>
+                                <div class="orderList">
+                                    <ol>
+                                        <li>The wallet should be a credible one 4+ stars in review. Should have 100,000+ in downloads.</li>
+                                        <li>Should be listed on other top projects.</li>
+                                        <li>Include <a href="mailto:info@xinfin.org">info@xinfin.org</a> in your communication with wallet technical integration team.</li>
+                                        <li>Get an invoice for Tech integration for XDC network.</li>
+                                        <li>You will get upto 140% of the tech integration fees in your wallet.</li>
+                                    </ol>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="modal-footer"></div>
+                    </div>
+                </div>
+            </div>
+            <!-- /. Modal 1a -->
+            
+            
+            
+            <!-- Modal 1 -->
             <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-1" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered bounty-modal" role="document">
                     <div class="modal-content">
                         <div class="modal-header">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                            <h3 class="modal-title" id="exampleModalCenterTitle">Standby Masternodes in XDC Network</h3>
+                            <h3 class="modal-title" id="exampleModalCenterTitle">Exchange Integration Fees Bounty</h3>
                         </div>
                         <div class="modal-body">
                             <div class="bounty">
-                                <p><strong>Standby node hosting bounty</strong></p>
-                                <p>Stake 10 Million XDC and keep your node up and running for 06 Months.</p>
-                                <p><span class="sub-header-small">Rewards : </span>USD 900 worth XDC for 06 Months.</p>
-                                <p>Monthly reward Payout from the XDC ecosystem pool.</p>
-                                <p>Bounty Applicable only for 6 months and extension post community approval.</p>
-                                <p><span class="sub-header-small">Region : </span>No Restrictions.</p>
-                                
-                                
-                                <p><span class="sub-header-small">Purpose of bounty : </span>To make XDC network more robust with bigger backup node support.</p>
-                                <p><span class="sub-header-small">Purpose of backup node : </span>Any masternode out of 108 resign or goes out of the network then the backup node will become a validators node.</p>
-                                <p>Since XDC network designed for 108 masternode additional nodes will act as backup nodes.</p>
+                                <p>Want to see XDC listed on your favourite Digital Asset Exchange? If you are willing to pay for technical integration fee for an exchange, then you will get upto 140% of the tech integration fees in XDC. I.e. if you incur a cost of USD 50,000 for technical integration with a crypto exchange, then your bounty will be upto USD 70,000 equivalent XDC as per market rate.</p>
+                                <p class="sub-header-small mb-2">Rules:</p>
+                                <div class="orderList">
+                                    <ol>
+                                        <li>The exchange should be a credible one. Ranked within top 100 on CMC. Regulated exchange is preferable.</li>
+                                        <li>The pairing should be in Fiat currency.</li>
+                                        <li>Include <a href="mailto:info@xinfin.org">info@xinfin.org</a> in your communication with exchange technical integration team.</li>
+                                        <li>Get an invoice for Tech integration for XDC network.</li>
+                                        <li>You will get upto 140% of the tech integration fees in your wallet.</li>
+                                    </ol>
+                                </div>
                             </div>
                         </div>
                         <div class="modal-footer"></div>
@@ -232,16 +333,18 @@ include('inc/header.php') ?>
                     <div class="modal-content">
                         <div class="modal-header">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                            <h3 class="modal-title" id="exampleModalCenterTitle">Developers Bounty for Swap between XDC and XDCE</h3>
+                            <h3 class="modal-title" id="exampleModalCenterTitle">Developers Bounty for Swap between XDC ETH/ERC20 Coins</h3>
                         </div>
                         <div class="modal-body">
                             <div class="bounty">
+                                <p>Develop a real-time decentralized swap between XDC and ETH or any ERC20 coins.</p>
                                 <p class="sub-header-small mb-2">Rules:</p>
                                 <div class="orderList">
                                     <ol>
                                         <li>Create your open-source codebase on Github: <a href="https://github.com/XinFinOrg/atomicSwap" target="_blank">https://github.com/XinFinOrg/atomicSwap</a>.</li>
                                         <li>Tweet in reply to this bounty along with XDC address and tag <strong>@XinFin_Official</strong>.</li>
                                         <li>The best 5 implementations will get 1 Million XDC bounties directly in the wallet.</li>
+                                        <li>Sample integration with XDC Apothem testnet: <a href="https://bancor.xdc.network/" target="_blank">https://bancor.xdc.network/</a></li>
                                     </ol>
                                 </div>
                                 <!--<p class="mt-3">This bounty is valid till <strong>22 August 2020</strong>.</p>
