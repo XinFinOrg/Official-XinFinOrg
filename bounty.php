@@ -24,6 +24,26 @@ include('inc/header.php') ?>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
                     <div class="bounty-box">
                         <div class="image-container">
+                            <img class="img-responsive" src="assets/images/bounty/pre-approved-bounty.jpg" alt="Crypto Custodian Integration Fees Bounty">
+                        </div>
+                        <div class="content">
+                            <h3>Pre-Approved Bounty<br /></h3>
+                            <h4 class="highlight small">Up To 140% XDC of cost incurred</h4>
+                            <p class="text-muted">Apply for any wallet, Custodian or Exchange integration or Building dapps on XDC Blockchain Network.</p>
+							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
+                        </div>
+                        <div class="btn-block mb-1">
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScTlg-U-AfYsycWnB5b5clpAOybBkerR4ZlkoM2nBQoNynzPQ/viewform" target="_blank">
+                                <button class="btn-hover color-1">Apply</button>
+                            </a>
+                            <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1c">Detailed Rules</button>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
+                    <div class="bounty-box">
+                        <div class="image-container">
                             <img class="img-responsive" src="assets/images/bounty/crypto-custodian-integration-fees-bounty.jpg" alt="Crypto Custodian Integration Fees Bounty">
                         </div>
                         <div class="content">
@@ -235,6 +255,35 @@ include('inc/header.php') ?>
 			
 			
 			
+            
+            <!-- Modal 1c -->
+            <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-1c" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered bounty-modal" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                            <h3 class="modal-title" id="exampleModalCenterTitle">Pre-Approved Bounty</h3>
+                        </div>
+                        <div class="modal-body">
+                            <div class="bounty">
+                                <p>Get a quick pre-approval for the Bounty.</p>
+                                <p>Apply for any wallet, Custodian or Exchange integration or Building dapps on XDC Blockchain Network.</p>
+                                <p><b>Program type:</b> Public bug bounty.</p>
+                                <p>Bounty subject to approval by governance community.</p>
+                                <div class="btn-block mt-3 mb-1">
+                                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScTlg-U-AfYsycWnB5b5clpAOybBkerR4ZlkoM2nBQoNynzPQ/viewform" target="_blank">
+                                        <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="modal-footer"></div>
+                    </div>
+                </div>
+            </div>
+            <!-- /. Modal 1c -->
+            
+            
             
             <!-- Modal 1b -->
             <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-1b" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
