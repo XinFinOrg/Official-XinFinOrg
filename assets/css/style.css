@@ -1374,18 +1374,29 @@ button.btn-outline-default .fa{margin-right:5px;}
 .bounty-box .content h3{font-size:20px;font-weight:600;line-height:24px;}
 .bounty-box .content h4.highlight {font-size:18px;color:#096db0;font-style:italic;font-weight:700;line-height: 20px;margin-top: 15px;margin-bottom: 15px;}
 .bounty-box .content h4.highlight.small {font-size:15px;}
-.bounty-box .content p {font-size:14px;line-height:20px;min-height:60px;margin-bottom:15px;}
-.bounty-box .btn-block {padding: 0px 15px;justify-content: space-around;width: 100%;}
+.bounty-box .content p {font-size:14px;line-height:20px;min-height:165px;margin-bottom:15px;}
+.bounty-box .btn-block {padding: 0px 15px;justify-content: space-around;width: 100%;  position: absolute;right: 0;bottom: 5px;left: 0;}
 .bounty-box .btn-block .btn-hover {padding: 8px 0px;flex-grow: 1;width:49.2%;margin: 0px;}
 
-.bounty-box .content .progress-labels {border-top:1px dashed #e3e7ed;border-bottom:1px dashed #e3e7ed;padding:8px;margin-bottom:15px;background:rgba(249, 250, 252, 0.5);}
+/*.bounty-box .content .progress-labels {border-top:1px dashed #e3e7ed;border-bottom:1px dashed #e3e7ed;padding:8px;margin-bottom:15px;background:rgba(249, 250, 252, 0.5);}
 .bounty-box .content .progress-labels .timer{font-size:12px;color:#a2a2a2;font-weight:600;}
 .bounty-box .content .progress-labels .timer img{width:24px;height:24px;margin-right:10px;vertical-align:middle;}
 .bounty-box .content .progress-labels .timer span{vertical-align:middle;}
 .bounty-box .content .progress-labels .status{font-size:13px;color:#24abdf;font-weight:600;}
-.bounty-box .content .progress-labels .status.finished{color:#ff6a00;}
+.bounty-box .content .progress-labels .status.finished{color:#ff6a00;}*/
 .flex-container {padding:0;margin:0;list-style:none;display:flex;}
-.space-between {justify-content:space-between;} 
+.space-between {justify-content:space-between;}
+
+.bounty-box .progress-labels {border-top:1px dashed #e3e7ed;border-bottom:1px dashed #e3e7ed;padding:8px;margin-bottom:15px;background:rgba(249, 250, 252, 0.5);}
+.bounty-box .progress-labels .timer{font-size:12px;color:#a2a2a2;font-weight:600;}
+.bounty-box .progress-labels .timer img{width:24px;height:24px;margin-right:10px;vertical-align:middle;}
+.bounty-box .progress-labels .timer span{vertical-align:middle;}
+.bounty-box .progress-labels .status{font-size:13px;color:#24abdf;font-weight:600;}
+.bounty-box .progress-labels .status.finished{color:#ff6a00;}
+
+
+
+
 
 .modal {padding: 15px!important;}
 .modal-dialog.bounty-modal {max-width: 825px;width:auto;}

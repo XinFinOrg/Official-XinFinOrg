@@ -30,9 +30,10 @@ include('inc/header.php') ?>
                             <h3>Pre-Approved Bounty<br /></h3>
                             <h4 class="highlight small">Up To 140% XDC of cost incurred</h4>
                             <p class="text-muted">Apply for any wallet, Custodian or Exchange integration or Building dapps on XDC Blockchain Network.</p>
-							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
+							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>-->
                         </div>
                         <div class="btn-block mb-1">
+                            <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
                             <a href="https://docs.google.com/forms/d/e/1FAIpQLScTlg-U-AfYsycWnB5b5clpAOybBkerR4ZlkoM2nBQoNynzPQ/viewform" target="_blank">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
@@ -50,9 +51,10 @@ include('inc/header.php') ?>
                             <h3>Crypto Custodian Integration Fees Bounty</h3>
                             <h4 class="highlight small">Up to 140% of the crypto custodian Technical Integration Fees</h4>
                             <p class="text-muted">Want to see XDC listed on your favourite Cryptocurrency asset custodian?</p>
-							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
+							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>-->
                         </div>
                         <div class="btn-block mb-1">
+                            <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
                             <a href="#" class="disabled">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
@@ -70,9 +72,10 @@ include('inc/header.php') ?>
                             <h3>Hardware/Software Wallet Integration Fees Bounty</h3>
                             <h4 class="highlight small">Up to 140% of the hardware/software wallet Technical Integration Fees</h4>
                             <p class="text-muted">Want to see XDC listed on your favourite hardware/software wallet?</p>
-							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
+							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>-->
                         </div>
                         <div class="btn-block mb-1">
+                            <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
                             <a href="#" class="disabled">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
@@ -90,9 +93,10 @@ include('inc/header.php') ?>
                             <h3>Exchange Integration Fees Bounty</h3>
                             <h4 class="highlight small">Up to 140% of the Exchange Technical Integration Fees</h4>
                             <p class="text-muted">Want to see XDC listed on your favourite Digital Asset Exchange?</p>
-							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
+							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>-->
                         </div>
                         <div class="btn-block mb-1">
+                            <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
                             <a href="#" class="disabled">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
@@ -110,9 +114,10 @@ include('inc/header.php') ?>
                             <h3>Developers Bounty for Swap between XDC ETH/ERC20 Coins</h3>
                             <h4 class="highlight">Up to 1 Million XDC</h4>
                             <p class="text-muted">Develop a real-time decentralized swap between XDC and ETH or any ERC20 coins.</p>
-							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
+							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>-->
                         </div>
                         <div class="btn-block mb-1">
+                            <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
                             <a href="#" class="disabled">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
@@ -130,9 +135,10 @@ include('inc/header.php') ?>
                             <h3>Deploy Solidity Contract on XinFin MainNet (DSCXM Bounty)</h3>
                             <h4 class="highlight">Up to 10,000 USD worth XDC</h4>
                             <p class="text-muted">Deploy Solidity Contract on XinFin MainNet and get rewards.</p>
-							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
+							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>-->
                         </div>
                         <div class="btn-block mb-1">
+                            <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
                             <a href="https://docs.google.com/forms/d/1qU9Oel-JgUskpZg8SSo2qDi7NvjhvsTy9p5G8a_9b3o" target="_blank">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
@@ -150,9 +156,10 @@ include('inc/header.php') ?>
                             <h3>XinFin Android Wallet Bug Bounty</h3>
                             <h4 class="highlight">Up to 200 USD worth XDC</h4>
                             <p class="text-muted">Explore vulnerabilities in XinFin Android Wallet and get rewards.</p>
-							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
+							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>-->
                         </div>
                         <div class="btn-block mb-1">
+                            <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
                             <a href="https://docs.google.com/forms/d/1api3woqg6oY4Lk7sRL2fnaBj8etfB-XF6fZNKLU6zFo" target="_blank">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
@@ -170,9 +177,10 @@ include('inc/header.php') ?>
                             <h3>Bug Bounty Program for testing XinFin Extension Wallet: XinPay</h3>
                             <h4 class="highlight">Up to 200 USD worth XDC</h4>
                             <p class="text-muted">Test XinPay for any errors, bugs on XinFin TestNet and provide ideas to enhance eWallet.</p>
-							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
+							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>-->
                         </div>
                         <div class="btn-block mb-1">
+                            <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
                             <a href="https://docs.google.com/forms/d/1SklUqUFpncyj2GqYT48qR6sgC3jYMkvuCBy_UVDLovw" target="_blank">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
@@ -190,9 +198,10 @@ include('inc/header.php') ?>
                             <h3>Masternode Bounty Program: For hosting Masternode</h3>
                             <h4 class="highlight">Up to 900 USD worth XDC</h4>
                             <p class="text-muted">Host Masternode and get incentives as well as a special bonus bounty.</p>
-							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status finished pull-right">FINISHED</span></div>
+							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status finished pull-right">FINISHED</span></div>-->
                         </div>
                         <div class="btn-block mb-1">
+                            <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status finished pull-right">FINISHED</span></div>
                             <a href="#" class="disabled">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
@@ -210,9 +219,10 @@ include('inc/header.php') ?>
                             <h3>Masternode Luck User Bounty: To set-up Masternode</h3>
                             <h4 class="highlight">Up to 2,000,000 XDC</h4>
                             <p class="text-muted">Set-up a Masternode using the one-click installer guide.</p>
-							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status finished pull-right">FINISHED</span></div>
+							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status finished pull-right">FINISHED</span></div>-->
                         </div>
                         <div class="btn-block mb-1">
+                            <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status finished pull-right">FINISHED</span></div>
                             <a href="#" class="disabled">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
@@ -230,9 +240,10 @@ include('inc/header.php') ?>
                             <h3>XinFin Memes Campaign (Bounty on Memes)</h3>
                             <h4 class="highlight">Up to 5,000 XDC</h4>
                             <p class="text-muted">Participate in XinFin Memes Bounty and get rewards.</p>
-							<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status finished pull-right">FINISHED</span></div>
+							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status finished pull-right">FINISHED</span></div>-->
                         </div>
                         <div class="btn-block mb-1">
+                            <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status finished pull-right">FINISHED</span></div>
                             <a href="#" class="disabled">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
