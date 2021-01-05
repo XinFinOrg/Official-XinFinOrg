@@ -981,7 +981,7 @@ sudo docker-compose -f docker-services.yml up -d
 								<p class="link-break-out mb-1"><a href="https://play.google.com/store/apps/details?id=com.xdcwallet" target="_blank">XinFin Mobile Wallet</a></p>
 								
 								<p class="mt-2 mb-1"><strong>Follow XinFin on :</strong></p>
-								<p class="link-break-out mb-1">Twitter : <a href="https://twitter.com/XinFin_Official" target="_blank">( @ ) XinFin_Official</a></p>
+								<p class="link-break-out mb-1">Twitter : <a href="https://twitter.com/XinFin_Official" target="_blank">https://twitter.com/XinFin_Official</a></p>
 								<p class="link-break-out mb-1">LinkedIn : <a href="https://www.linkedin.com/company/xinfin/" target="_blank">https://www.linkedin.com/company/xinfin/</a></p>
 								<p class="link-break-out mb-1">Telegram : <a href="https://t.me/xinfintalk" target="_blank">https://t.me/xinfintalk</a></p>
 								<p class="link-break-out mb-1">Slack : <a href="https://launchpass.com/xinfin-public" target="_blank">https://launchpass.com/xinfin-public</a></p>

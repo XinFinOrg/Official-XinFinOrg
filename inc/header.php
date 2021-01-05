@@ -127,6 +127,7 @@
   </style>
 
   <script src="assets/js/jquery.js"></script>
+  <script src="assets/js/jquery-1.11.3.min.js"></script><!--extra added for CMC widget-->
  
   <script src="assets/js/bootstrap.min.js"></script>
   <script type="text/javascript">
@@ -238,7 +239,7 @@
                     	<a href="about.php">About us</a>
                     </li>
                     <li>
-                    	<a href="xdc-xdce.php">XDC/XDCE</a>
+                    	<a href="xdc.php">XDC</a>
                     </li>
                     <li>
                     	<a href="documentation.php">Documentation</a>

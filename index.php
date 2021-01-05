@@ -280,7 +280,7 @@ include('inc/header.php') ?>
                         <div class="content-box">
                             <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
                                 <!--<h1 class="text-transform-none" style="text-align:left;">XDC/XDCe Utility</h1>-->
-                                <h3>XDC/XDCe Utility is available here. Stake XDC/XDCe & Start Using</h3>
+                                <h3>XDC Utility is available here. Stake XDC & Start Using</h3>
                             </div>
                             <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
                                 <p>XinFin Digital Contract (XDC) is the Digital Asset Powering XinFin Network.</p>

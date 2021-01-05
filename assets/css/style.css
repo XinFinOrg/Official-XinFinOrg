@@ -1154,6 +1154,7 @@ hr {
 .content-box a:hover {text-decoration:none!important;}
 .content-box h1, .content-box p{padding-left:0px!important;}
 .content-box h3{font-size:26px;color:#112b3c;line-height:30px;}
+.content-box p{margin-bottom:0px!important;}
 
 
 .banner-content-box{/*padding-left:65px;*/padding-right:110px;}
