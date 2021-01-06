@@ -299,7 +299,7 @@ include('inc/header.php') ?>
                     </div>
                     
                     <div class="col-md-6 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.7s">
-                        <img src="assets/images/home/dia-03-ani.gif" class="img-responsive" width="100%" alt="XDC/XDCe Utility">
+                        <img src="assets/images/home/dia-03-ani.gif" class="img-responsive" width="100%" alt="XDC Utility">
                     </div>                    
                     
                 </div>

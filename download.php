@@ -1,6 +1,6 @@
 <?php 
 $title = "XinFin: Logo & Brand Asset Downloads";
-$desc = "Download or view all the XinFin brand assets including XDC and XDCe logo.";
+$desc = "Download or view all the XinFin brand assets including XDC logo.";
 
 include('inc/header.php') ?>
 <section id="contactbanner" class="download-banner"> 
@@ -14,7 +14,7 @@ include('inc/header.php') ?>
 		<div>
 			<a  href="assets/images/brand-assets/xinfin-brand-assets.zip" target="_self"><button class="btn-hover color-1">DOWNLOAD ALL ASSETS</button></a>
 		</div><br/>
-        <p>XinFin, XDC and XDCe Logos in PNG & EPS formats</p>
+        <p>XinFin and XDC Logos in PNG & EPS formats</p>
         <br/><br/><br/><br/>
         
       </div>
@@ -82,32 +82,6 @@ include('inc/header.php') ?>
                                 <div class="btn-block">
         							<a href="assets/images/brand-assets/xdc-icon.eps" target="_blank"><button class="btn-blue mb-1">EPS</button></a>
 									<a href="assets/images/brand-assets/xdc-icon.png" target="_blank"><button class="btn-outline mb-1">PNG</button></a>
-	    						</div>
-                            </div>
-                        </div>
-                        
-                        <div class="row">
-                        	<div class="col-md-6 mb-2">
-                            	<div class="brand-assets-logo-border">
-                           	    	<img src="assets/images/brand-assets/xdce-logo.png" class="img-responsive"/>
-                                </div>
-                                <h1>XDCe Primary Logotype</h1>
-                                <p>Use this whenever possible on a white background.</p>
-                                <div class="btn-block">
-        							<a href="assets/images/brand-assets/xdce-logo.eps" target="_blank"><button class="btn-blue mb-1">EPS</button></a>
-									<a href="assets/images/brand-assets/xdce-logo.png" target="_blank"><button class="btn-outline mb-1">PNG</button></a>
-	    						</div>
-                            </div>
-                            
-                            <div class="col-md-6 mb-2">
-                            	<div class="brand-assets-logo-border">
-                           	    	<img src="assets/images/brand-assets/xdce-icon.png" class="img-responsive"/>
-                                </div>
-                                <h1>XDCe Icon</h1>
-                                <p>Use in UI with limited space on a white background.</p>
-                                <div class="btn-block">
-        							<a href="assets/images/brand-assets/xdce-icon.eps" target="_blank"><button class="btn-blue mb-1">EPS</button></a>
-									<a href="assets/images/brand-assets/xdce-icon.png" target="_blank"><button class="btn-outline mb-1">PNG</button></a>
 	    						</div>
                             </div>
                         </div>
