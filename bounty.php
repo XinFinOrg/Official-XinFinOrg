@@ -24,7 +24,28 @@ include('inc/header.php') ?>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
                     <div class="bounty-box">
                         <div class="image-container">
-                            <img class="img-responsive" src="assets/images/bounty/pre-approved-bounty.jpg" alt="Crypto Custodian Integration Fees Bounty">
+                            <img class="img-responsive" src="assets/images/bounty/jurisdiction-specific-legal-opinion-fees-bounty.jpg" alt="Jurisdiction specific Legal Opinion Fees Bounty">
+                        </div>
+                        <div class="content">
+                            <h3>Jurisdiction specific Legal Opinion Fees Bounty</h3>
+                            <h4 class="highlight small">Up to 140% of the legal opinion fees in your jurisdiction</h4>
+                            <p class="text-muted">If you are a financial institution/Fintech or enterprise looking to work with $XDC to ...</p>
+							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>-->
+                        </div>
+                        <div class="btn-block mb-1">
+                            <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
+                            <a href="#" class="disabled">
+                                <button class="btn-hover color-1">Apply</button>
+                            </a>
+                            <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1d">Detailed Rules</button>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
+                    <div class="bounty-box">
+                        <div class="image-container">
+                            <img class="img-responsive" src="assets/images/bounty/pre-approved-bounty.jpg" alt="Pre-Approved Bounty">
                         </div>
                         <div class="content">
                             <h3>Pre-Approved Bounty<br /></h3>
@@ -129,7 +150,7 @@ include('inc/header.php') ?>
 				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
                     <div class="bounty-box">
                         <div class="image-container">
-                            <img class="img-responsive" src="assets/images/bounty/deploy-solidity-smart-contract.jpg" alt="XinFin Android Wallet Bug Bounty">
+                            <img class="img-responsive" src="assets/images/bounty/deploy-solidity-smart-contract.jpg" alt="Deploy Solidity Contract on XinFin MainNet (DSCXM Bounty)">
                         </div>
                         <div class="content">
                             <h3>Deploy Solidity Contract on XinFin MainNet (DSCXM Bounty)</h3>
@@ -266,6 +287,36 @@ include('inc/header.php') ?>
 			
 			
 			
+            
+            <!-- Modal 1d -->
+            <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-1d" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered bounty-modal" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                            <h3 class="modal-title" id="exampleModalCenterTitle">Jurisdiction specific Legal Opinion Fees Bounty</h3>
+                        </div>
+                        <div class="modal-body">
+                            <div class="bounty">
+                                <p>If you are a financial institution/Fintech or enterprise looking to work with $XDC to use it's liquidity or pay platform utility fees, and are looking for legal clarity on the classification of $XDC token? If you are willing to pay for legal/law firm fees before integration with $XDC network, then you will get upto 140% of the legal costs incurred reimbursed in XDC. I.e. if you incur a cost of USD 10,000 for legal opinion with a law firm in a specific jurisdiction, then your bounty will be upto USD 14,000 equivalent XDC as per market rate.</p>
+                                <p class="sub-header-small mb-2">Rules:</p>
+                                <div class="orderList">
+                                    <ol>
+                                        <li>The law firm should be accredited by regulators in the jurisdiction.</li>
+                                        <li>Should have prior experience working in blockchain.</li>
+                                        <li>Include <a href="mailto:info@xinfin.org">info@xinfin.org</a> in your communication with the law firm.</li>
+                                        <li>Get an invoice for legal opinion for XDC network.</li>
+                                        <li>You will get reimbursement for upto 140% of the fees incurred in your wallet.</li>
+                                    </ol>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="modal-footer"></div>
+                    </div>
+                </div>
+            </div>
+            <!-- /. Modal 1d -->
+            
             
             <!-- Modal 1c -->
             <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-1c" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
