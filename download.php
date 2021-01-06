@@ -8,14 +8,13 @@ include('inc/header.php') ?>
 	<div class="container">
 		<div class="row">
 		<div class="col-md-12 col-sm-12 col-xs-12 bannertext text-center">
-		<h1>Brand Assets</h1>
-		<p>If you are looking for the XinFin brand assets you are in the right place. The XinFin logo usage outlined below.<br />If you'd prefer to save some time just download the .zip file below.<br/><br/><br/></p>
+		<h1>BRAND ASSETS</h1>
+		<p>If you are looking for the XinFin brand assets you are in the right place. The XinFin logo usage outlined below.<br />If you'd prefer to save some time just download the .zip file below.</p>
       
-		<div>
+		<div class="pt-2 pb-2">
 			<a  href="assets/images/brand-assets/xinfin-brand-assets.zip" target="_self"><button class="btn-hover color-1">DOWNLOAD ALL ASSETS</button></a>
-		</div><br/>
+		</div>
         <p>XinFin and XDC Logos in PNG & EPS formats</p>
-        <br/><br/><br/><br/>
         
       </div>
 
@@ -88,7 +87,7 @@ include('inc/header.php') ?>
                         
                         <hr class="light">
                         
-                        <h3 class="mt-5 pb-2">Promotional Assets</h3>                        
+                        <h3 class="mt-5 pb-0">Promotional Assets</h3>                        
                         <p class="text-center mb-5"></p>
                         <div class="row pb-0">
                         	<div class="col-md-4 mb-2">
