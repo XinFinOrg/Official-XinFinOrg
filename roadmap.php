@@ -53,7 +53,7 @@ include('inc/header.php') ?>
                             <li>Freewallet: (Integration ongoing)</li>
                             <li><b>Safepal.io:</b> Safepal.io has announced that they will keep XDC <a href="https://twitter.com/iSafePal/status/1343504963956174850" target="_blank" class="link-break-out">Integration on their 2021 roadmap</a>.</li>
                             <li>Exodus, Trust Wallet, Coinswitch: Discussion Phase.
-XDC needs to meet their required criteria for Coinmarketcap rank, technical integration, fees, etc. XDC community members can participate and claim up to a 140% bounty visit:<a href="https://www.xinfin.org/bounty" target="_blank" class="link-break-out">https://www.xinfin.org/bounty</a>
+XDC needs to meet their required criteria for Coinmarketcap rank, technical integration, fees, etc. XDC community members can participate and claim up to a 140% bounty visit: <a href="https://www.xinfin.org/bounty" target="_blank" class="link-break-out">https://www.xinfin.org/bounty</a>
                             </li>
                         </ul>
 
