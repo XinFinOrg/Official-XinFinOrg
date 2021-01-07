@@ -46,14 +46,14 @@ include('inc/header.php') ?>
                     <ul class="lower-alpha">
                         <li class="fw-7 fs-18">Hardware and software wallets</li>
                         <ul class="lower-roman">
-                            <li>Ledger (<a href="https://medium.com/xinfin/how-to-use-ledger-nano-s-with-xdc-network-5d3048401374" target="_blank">Code integration</a> is done, we are awaiting security approvals and upgrade into their firmware in order to be fully supported on Ledger</li>
-                            <li>D'CENT Wallet: Support and integration of XDC has been announced by <a href="https://twitter.com/DCENTwallets/status/1346312434303205376" target="_blank">D'CENT</a></li>
+                            <li>Ledger (<a href="https://medium.com/xinfin/how-to-use-ledger-nano-s-with-xdc-network-5d3048401374" target="_blank" class="link-break">Code integration</a> is done, we are awaiting security approvals and upgrade into their firmware in order to be fully supported on Ledger</li>
+                            <li>D'CENT Wallet: Support and integration of XDC has been announced by <a href="https://twitter.com/DCENTwallets/status/1346312434303205376" target="_blank" class="link-break">D'CENT</a></li>
                             <li>Trezor (Integration is ongoing)</li>
-                            <li>Wallet connect (Live): <a href="https://walletconnect.org/apps/" target="_blank">https://walletconnect.org/apps/</a></li>
+                            <li>Wallet connect (Live): <a href="https://walletconnect.org/apps/" target="_blank" class="link-break">https://walletconnect.org/apps/</a></li>
                             <li>Freewallet: (Integration ongoing)</li>
-                            <li><b>Safepal.io:</b> Safepal.io has announced that they will keep XDC <a href="https://twitter.com/iSafePal/status/1343504963956174850" target="_blank">Integration on their 2021 roadmap</a>.</li>
+                            <li><b>Safepal.io:</b> Safepal.io has announced that they will keep XDC <a href="https://twitter.com/iSafePal/status/1343504963956174850" target="_blank" class="link-break">Integration on their 2021 roadmap</a>.</li>
                             <li>Exodus, Trust Wallet, Coinswitch: Discussion Phase.
-XDC needs to meet their required criteria for Coinmarketcap rank, technical integration, fees, etc. XDC community members can participate and claim up to a 140% bounty visit:<a href="https://www.xinfin.org/bounty" target="_blank">https://www.xinfin.org/bounty</a>
+XDC needs to meet their required criteria for Coinmarketcap rank, technical integration, fees, etc. XDC community members can participate and claim up to a 140% bounty visit:<a href="https://www.xinfin.org/bounty" target="_blank" class="link-break">https://www.xinfin.org/bounty</a>
                             </li>
                         </ul>
 
@@ -63,13 +63,13 @@ XDC needs to meet their required criteria for Coinmarketcap rank, technical inte
                             <li>Onchain custodian - Support is scheduled to start in Q1 of 2021</li>
                             <li>Hex Trust - In negotiations as of Q1 2021</li>
                             <li>Anchorage (backed by Visa)<br />
-                                Other wallet: XDC community members can participate and claim up to 140% bounty visit link: <a href="https://www.xinfin.org/bounty" target="_blank">https://www.xinfin.org/bounty</a>
+                                Other wallet: XDC community members can participate and claim up to 140% bounty visit link: <a href="https://www.xinfin.org/bounty" target="_blank" class="link-break">https://www.xinfin.org/bounty</a>
                             </li>
-                            <p>XDC community members can add support to other  established digital custodian and claim up to 140% of XDC as bounty by submitting integration details at <a href="https://www.xinfin.org/bounty">https://www.xinfin.org/bounty</a> (Fill-in the form provided under pre-approved XDC Bounty)</p>
+                            <p>XDC community members can add support to other  established digital custodian and claim up to 140% of XDC as bounty by submitting integration details at <a href="https://www.xinfin.org/bounty" class="link-break">https://www.xinfin.org/bounty</a> (Fill-in the form provided under pre-approved XDC Bounty)</p>
                         </ul>
 
                         <li class="fw-7 fs-18 pt-2">OpenLaw Integration:<br />
-                            <p class="fw-4">Discussions are in progress and we are awaiting for XDC community members to push them to get quick integration. Up to 140% in XDC Bounty is available for the actual cost borne by XDC community members visit: <a href="https://www.xinfin.org/bounty">https://www.xinfin.org/bounty</a></p>
+                            <p class="fw-4">Discussions are in progress and we are awaiting for XDC community members to push them to get quick integration. Up to 140% in XDC Bounty is available for the actual cost borne by XDC community members visit: <a href="https://www.xinfin.org/bounty" class="link-break">https://www.xinfin.org/bounty</a></p>
                         </li>
 
                         <li class="fw-7 fs-18 pt-2">R3 Cordite Integration:<br />
@@ -77,11 +77,11 @@ XDC needs to meet their required criteria for Coinmarketcap rank, technical inte
                         </li>
 
                         <li class="fw-7 fs-18 pt-2">ExcelTrip Travel Portal XDC Integration:<br />
-                            <p class="fw-4">Integration is in progress and should be completed by Jan 2021. <a href="https://twitter.com/xceltrip/status/1337326935744131072" target="_blank">An announcement</a> has already been released by the ExcelTrip team.</p>
+                            <p class="fw-4">Integration is in progress and should be completed by Jan 2021. <a href="https://twitter.com/xceltrip/status/1337326935744131072" target="_blank" class="link-break">An announcement</a> has already been released by the ExcelTrip team.</p>
                         </li>
 
                         <li class="fw-7 fs-18 pt-2">MultiSig Wallet Facility:<br />
-                            <p class="fw-4">Fork repositories like <a href="https://gnosis-safe.io/" target="_blank">https://gnosis-safe.io/</a> and provide options to use multisig facility on the XDC Network. Up to 140% in XDC Bounty is available for the actual cost borne by XDC community members visit: <a href="https://www.xinfin.org/bounty">https://www.xinfin.org/bounty</a>.</p>
+                            <p class="fw-4">Fork repositories like <a href="https://gnosis-safe.io/" target="_blank" class="link-break">https://gnosis-safe.io/</a> and provide options to use multisig facility on the XDC Network. Up to 140% in XDC Bounty is available for the actual cost borne by XDC community members visit: <a href="https://www.xinfin.org/bounty" class="link-break">https://www.xinfin.org/bounty</a>.</p>
                         </li>
                     </ul>
 
@@ -94,7 +94,7 @@ XDC needs to meet their required criteria for Coinmarketcap rank, technical inte
                             <li>Scaling up Liquidity Pools on TradeFinex</li>
                             <li>Integration with exchanges and custodians who can offer yields to their own stakers</li>
                             <li>Payment obligation and smart contract utilization of XDC</li>
-                            <li><a href="https://forum.makerdao.com/t/tokenized-yield-generating-trade-finance-assets-as-maker-collaterals/1645/11?u=atulkhekade" target="_blank">https://forum.makerdao.com/t/tokenized-yield-generating-trade-finance-assets-as-maker-collaterals/1645/11?u=atulkhekade</a></li>
+                            <li><a href="https://forum.makerdao.com/t/tokenized-yield-generating-trade-finance-assets-as-maker-collaterals/1645/11?u=atulkhekade" target="_blank" class="link-break">https://forum.makerdao.com/t/tokenized-yield-generating-trade-finance-assets-as-maker-collaterals/1645/11?u=atulkhekade</a></li>
                             <p><a href="disclosures-vs-non-disclosures" style="text-decoration: underline !important;">Know More</a></p>
                         </ul>
 
@@ -111,13 +111,13 @@ XDC needs to meet their required criteria for Coinmarketcap rank, technical inte
                         <li class="fw-7 fs-18 pt-2">Blockdegree</li>
                         <ul class="lower-roman">
                             <li>Development of partnerships with institutions to cross-sell education with a 50% profit share</li>
-                            <li>Blockdegree courses will be accredited by Singapore skills future (Please visit <a href="https://blockdegree.org" target="_blank">Blockdgree.org</a>)</li>
+                            <li>Blockdegree courses will be accredited by Singapore skills future (Please visit <a href="https://blockdegree.org" target="_blank" class="link-break">Blockdgree.org</a>)</li>
                         </ul>
 
                         <li class="fw-7 fs-18 pt-2">Mycontract</li>
                         <ul class="lower-roman">
                             <li>Develop enterprise connectivity to blockchain and crypto-asset ecosystems<br /><br />
-                            <p>Drive the development of Dapps on XDC Network with funding and bounty programs for 3rd party developers who can claim up to 140% of their costs borne in XDC as bounty by submitting details at  <a href="https://www.xinfin.org/bounty">https://www.xinfin.org/bounty</a> (Fill-in the form provided under pre-approved XDC Bounty)</p>
+                            <p>Drive the development of Dapps on XDC Network with funding and bounty programs for 3rd party developers who can claim up to 140% of their costs borne in XDC as bounty by submitting details at  <a href="https://www.xinfin.org/bounty" class="link-break">https://www.xinfin.org/bounty</a> (Fill-in the form provided under pre-approved XDC Bounty)</p>
                             </li>
                         </ul>
                     </ul>
@@ -147,7 +147,7 @@ XDC needs to meet their required criteria for Coinmarketcap rank, technical inte
                             <li>US Customers (Proposed, Under Legal opinion)</li>
                             <li>Korean Customers - Fiat (Phase 2)</li>
                             <p><a href="disclosures-vs-non-disclosures" style="text-decoration: underline !important;">Know More</a></p>
-                            <p><span class="fw-7">Other Exchange Integration Fee bounty at:</span> <a href="https://www.xinfin.org/bounty">https://www.xinfin.org/bounty</a></p>
+                            <p><span class="fw-7">Other Exchange Integration Fee bounty at:</span> <a href="https://www.xinfin.org/bounty" class="link-break">https://www.xinfin.org/bounty</a></p>
                         </ul>
                     </ul>
 
@@ -155,7 +155,7 @@ XDC needs to meet their required criteria for Coinmarketcap rank, technical inte
                     <ul class="lower-alpha">
                         <li class="fw-7 fs-18">Community driven third party market making. There are some masternode groups who are running bounties via third party pages.</li>
                         <ul class="lower-roman">
-                            <li><a href="https://ruslanwing100.medium.com/bounty-for-xdc-market-making-6326540e1766" target="_blank">https://ruslanwing100.medium.com/bounty-for-xdc-market-making-6326540e1766</a></li>
+                            <li><a href="https://ruslanwing100.medium.com/bounty-for-xdc-market-making-6326540e1766" target="_blank" class="link-break">https://ruslanwing100.medium.com/bounty-for-xdc-market-making-6326540e1766</a></li>
                         </ul>
                         <li class="fw-7 fs-18 pt-2">Incentives will be paid from the XDC Ecosystem Pool for maintaining liquidity in a self-controlled mm account.</li>
                     </ul>
@@ -173,7 +173,7 @@ XDC needs to meet their required criteria for Coinmarketcap rank, technical inte
                     <ul class="lower-alpha">
                         <li class="fw-7 fs-18">Developers of Bancor and XDC are working with Bancorx integration of XDC with USDC, USDT, and ETH on BancorX</li>
                         <ul class="lower-roman">
-                            <li>Link for alpha product/tool: <a href="https://bancor.xdc.network/" target="_blank">https://bancor.xdc.network/</a> (Link for testing purpose only)</li>
+                            <li>Link for alpha product/tool: <a href="https://bancor.xdc.network/" target="_blank" class="link-break">https://bancor.xdc.network/</a> (Link for testing purpose only)</li>
                         </ul>
                     </ul>
 
@@ -244,7 +244,7 @@ XDC needs to meet their required criteria for Coinmarketcap rank, technical inte
                         <li class="fw-7 fs-18"><a href="disclosures-vs-non-disclosures" style="text-decoration: underline !important;">Know More</a></li>
                     </ul>
 
-                    <p class="pt-4">The XinFin Core Team encourages community members to take part in the development and utilization of the XDC Network.  Efforts to connect with or approach regulated companies that can boost XDC adoption with running systems will be supported through Xinfin Bounty programs. Up to 140% in XDC Bounty is available for any communication, integration, or regulatory cost incurred by XDC Community members. XDC Bounty form at <a href="https://www.xinfin.org/bounty" target="_blank">https://www.xinfin.org/bounty</a> (Fill-in the form provided under pre-approved XDC Bounty)</p>
+                    <p class="pt-4">The XinFin Core Team encourages community members to take part in the development and utilization of the XDC Network.  Efforts to connect with or approach regulated companies that can boost XDC adoption with running systems will be supported through Xinfin Bounty programs. Up to 140% in XDC Bounty is available for any communication, integration, or regulatory cost incurred by XDC Community members. XDC Bounty form at <a href="https://www.xinfin.org/bounty" target="_blank" class="link-break">https://www.xinfin.org/bounty</a> (Fill-in the form provided under pre-approved XDC Bounty)</p>
                 </div>
             </div>
             
@@ -281,7 +281,7 @@ XDC needs to meet their required criteria for Coinmarketcap rank, technical inte
                                     </div>
                                     <div class="answer">
                                         <ul>
-                                            <li>Invitation to the Partners to Start Oracle date/price feed using middleware <a href="https://MyContract.co/" target="_blank">MyContract.co</a></li>
+                                            <li>Invitation to the Partners to Start Oracle date/price feed using middleware <a href="https://MyContract.co/" target="_blank" class="link-break">MyContract.co</a></li>
                                             <li><strong>NFT + DeFi initiative:</strong> TradeFinex Live Transaction with Validus (MAS Regulated Firm in Singapore)</li>
                                         </ul>
                                     </div>
@@ -366,14 +366,14 @@ XDC needs to meet their required criteria for Coinmarketcap rank, technical inte
 
                                     <div class="answer">
                                         <p class="link-break-out">
-                                            Event update available at <a href="https://events.tradefinex.org/" target="_blank">https://events.tradefinex.org/</a><br />
+                                            Event update available at <a href="https://events.tradefinex.org/" target="_blank" class="link-break">https://events.tradefinex.org/</a><br />
                                             Additional to above Regular Meetups for more Adoption of XinFin and TradeFinex Network (online and offline)
                                         </p>
                                         <ul>
                                             <li><span style="font-weight: 700;">New decentralized mobile wallet</span> with additional chain support (ERC20)</li>
                                             <li class="link-break-out">
                                                 <span style="font-weight: 700;">GO Live</span> with TradeFinex Network with the live instrument for distribution. Live Statistics available at
-                                                <a href="https://www.tradefinex.org/publicv/statistics" target="_blank">https://www.tradefinex.org/publicv/statistics</a>
+                                                <a href="https://www.tradefinex.org/publicv/statistics" target="_blank" class="link-break">https://www.tradefinex.org/publicv/statistics</a>
                                             </li>
                                             <li>
                                                 <span style="font-weight: 700;">Add More XDC Liquidity Depth.</span> By way of a tie-up with the market maker. Exploring the possibility to list XDC coin with the regulated exchange. Talking
@@ -384,15 +384,15 @@ XDC needs to meet their required criteria for Coinmarketcap rank, technical inte
                                                 <ul>
                                                     <li class="link-break-out">
                                                         TradeFinex - Tokenization fees for financial instruments. (20% of the profit)<br />
-                                                        Live Statistics available at <a href="https://www.tradefinex.org/publicv/statistics" target="_blank">https://www.tradefinex.org/publicv/statistics</a>
+                                                        Live Statistics available at <a href="https://www.tradefinex.org/publicv/statistics" target="_blank" class="link-break">https://www.tradefinex.org/publicv/statistics</a>
                                                     </li>
                                                     <li class="link-break-out">
                                                         Blockdegree.org - Digital Certificates on Blockchain (20% of Profit)<br />
-                                                        Live Statistics available at <a href="https://www.blockdegree.org/statistics" target="_blank">https://www.blockdegree.org/statistics</a>
+                                                        Live Statistics available at <a href="https://www.blockdegree.org/statistics" target="_blank" class="link-break">https://www.blockdegree.org/statistics</a>
                                                     </li>
                                                     <li class="link-break-out">
                                                         Add More Masternode and stake XDC (by way of 10 Million Staking)<br />
-                                                        Live Statistics available at <a href="https://explorer.xinfin.network/home" target="_blank">https://explorer.xinfin.network/home</a>
+                                                        Live Statistics available at <a href="https://explorer.xinfin.network/home" target="_blank" class="link-break">https://explorer.xinfin.network/home</a>
                                                     </li>
                                                 </ul>
                                             </li>
@@ -549,8 +549,8 @@ XDC needs to meet their required criteria for Coinmarketcap rank, technical inte
                                             <li>Rollout of Standardize dApps Mobile Wallet (TestNet)</li>
                                             <li>Rollout of Demo Version for InFactor</li>
                                             <li>Rollout of Demo Version for Land Registry</li>
-                                            <li>Launch of <a href="https://mycontract.co" target="_blank">MyContract.co</a> API</li>
-                                            <li>Launch of <a href="http://kramaa.com" target="_blank">Kramaa.com</a></li>
+                                            <li>Launch of <a href="https://mycontract.co" target="_blank" class="link-break">MyContract.co</a> API</li>
+                                            <li>Launch of <a href="http://kramaa.com" target="_blank" class="link-break">Kramaa.com</a></li>
                                             <li>Rollout 3 Online courses (with online certification) from XinFin Blockchain Academy</li>
                                         </ul>
                                     </div>
@@ -658,7 +658,7 @@ XDC needs to meet their required criteria for Coinmarketcap rank, technical inte
                                     <div class="question-1">
                                         <ul>
                                             <li>XDC Android Wallet Launched</li>
-                                            <li>Lisiting of XDC on <a href="https://alphaex.net" target="_blank">Alphaex.net</a></li>
+                                            <li>Lisiting of XDC on <a href="https://alphaex.net" target="_blank" class="link-break">Alphaex.net</a></li>
                                             <li>Demonstration of TradeFinex POCs & Hedge Pool</li>
                                         </ul>
                                     </div>
