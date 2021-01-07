@@ -4,7 +4,7 @@ $desc = "XinFin use the XDC token on the public state that is identical in funct
 
 include('inc/header.php') ?>
 
-    <section id="resources-banner">
+<section id="resources-banner">
     <!-- <div id="particle-canvas"></div> -->
     <div class="container">
         <div class="row">
@@ -20,11 +20,21 @@ include('inc/header.php') ?>
     </div>
 </section>
 
-    <section id="resources" class="resources">
-        <div class="container">
-            <div class="tab-content">
+<section id="resources" class="roadmap-seperated">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="setup-masternode-row">
+                <ul class="nav nav-tabs">
+                    <li class="active"><a data-toggle="tab" href="#roadmap-for-2021" aria-expanded="true">Roadmap for 2021</a></li>
+                    <li class=""><a data-toggle="tab" href="#milestones-achieved" aria-expanded="false">Milestones Achieved upto 31st Dec 2020</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
 
-                <div id="roadmap-for-2021" class="tab-pane fade in active">
+    <div class="container">
+        <div class="tab-content">
+            <div id="roadmap-for-2021" class="tab-pane fade in active">
                 <div class="roadmap-details">
                     <p class="sub-header">Roadmap for 2021</p>
                     <p class="fw-7 fs-20 pt-2">Background:</p>
@@ -284,17 +294,13 @@ include('inc/header.php') ?>
                     </p>
                 </div>
             </div>
-            
-            
-            
-            
-            
-            <div id="milestones-achieved" class="tab-pane pt-5 fade in active">
+
+            <div id="milestones-achieved" class="tab-pane fade in">
                 <div class="roadmap-details">
                     <p class="sub-header">The journey so far, Milestones Achieved upto 31st Dec 2020</p>
                 </div>
 
-                <div class="frst-container mb-3">
+                <div class="frst-container">
                     <!-- frst-left-align/frst-right-align/frst-alternate/frst-date-opposite/frst-responsive-right-->
                     <div class="frst-timeline frst-timeline-style-1 frst-alternate">
                         <div class="frst-timeline-block frst-timeline-label-block" data-animation="slideInUp">
@@ -766,68 +772,65 @@ include('inc/header.php') ?>
                     <!-- frst-timeline -->
                 </div>
             </div>
-            
-
-            </div>
-
-            <div class="clear"></div>
-
         </div>
-    </section>
-    
 
-    <!-- TIMELINE CSS & JS -->
-    <link rel="stylesheet" href="./assets/timeline/timeline.css">
-    <script src="./assets/timeline/jquery-1.8.3.js"></script>
-    <script type="text/javascript">
-        $(document).ready(function() {
-            if ($.browser.msie && parseFloat($.browser.version) < 8) { // Check to see if less than IE8 and exit if it is
-                return;
-            }
-            // Create a function to clean any whitespace from within answers
-            jQuery.fn.cleanWhitespace = function() {
-                textNodes = this.contents().filter(
-                        function() {
-                            return (this.nodeType == 3 && !/\S/.test(this.nodeValue));
-                        })
-                    .remove();
-                return this;
-            }
-            $(".answer").cleanWhitespace();
-            $(".answer").children().cleanWhitespace();
+        <div class="clear"></div>
+    </div>
+</section>
 
-            // Remove all empty answers and prevent trigger button on associated questions
-            $(".answer").children(":empty").remove();
-            $(".answer:empty").prev().removeClass();
-            $(".answer:empty").remove();
+<!-- TIMELINE CSS & JS -->
+<link rel="stylesheet" href="./assets/timeline/timeline.css" />
+<script src="./assets/timeline/jquery-1.8.3.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        if ($.browser.msie && parseFloat($.browser.version) < 8) {
+            // Check to see if less than IE8 and exit if it is
+            return;
+        }
+        // Create a function to clean any whitespace from within answers
+        jQuery.fn.cleanWhitespace = function () {
+            textNodes = this.contents()
+                .filter(function () {
+                    return this.nodeType == 3 && !/\S/.test(this.nodeValue);
+                })
+                .remove();
+            return this;
+        };
+        $(".answer").cleanWhitespace();
+        $(".answer").children().cleanWhitespace();
 
-            // style all questions as closed, add a trigger button, and hide answers
-            $(".question").addClass("closed").append(" <a class='more'>More</a>");
-            $(".answer").hide();
+        // Remove all empty answers and prevent trigger button on associated questions
+        $(".answer").children(":empty").remove();
+        $(".answer:empty").prev().removeClass();
+        $(".answer:empty").remove();
 
-            /* show first question
+        // style all questions as closed, add a trigger button, and hide answers
+        $(".question").addClass("closed").append(" <a class='more'>More</a>");
+        $(".answer").hide();
+
+        /* show first question
             $(".question:first").removeClass("closed").addClass("opened"); 
             $(".answer:first").show(); 
             */
 
-            $(".question").click(function() {
-                $(".answer").slideUp("fast");
-                $(".question").removeClass("opened").addClass("closed");
-                $(".question.closed a").replaceWith("<a class='more'>More</a>");
+        $(".question").click(function () {
+            $(".answer").slideUp("fast");
+            $(".question").removeClass("opened").addClass("closed");
+            $(".question.closed a").replaceWith("<a class='more'>More</a>");
 
-                if ($(this).next(".answer").is(":hidden")) {
-                    $(this).next(".answer").slideDown("fast");
-                    $(this).removeClass("closed").addClass("opened");
-                    $(".question.opened a").replaceWith("<a class='less'>Less</a>");
-                }
-            });
+            if ($(this).next(".answer").is(":hidden")) {
+                $(this).next(".answer").slideDown("fast");
+                $(this).removeClass("closed").addClass("opened");
+                $(".question.opened a").replaceWith("<a class='less'>Less</a>");
+            }
         });
-    </script>
-    <!-- TIMELINE CSS & JS -->
+    });
+</script>
+<!-- TIMELINE CSS & JS -->
 
-    <script>
-        var activeUrl = localStorage.getItem("currentUrl");
-        $('.nav.navbar-nav li:nth-child(5)').addClass('active');
-    </script>
+<script>
+    var activeUrl = localStorage.getItem("currentUrl");
+    $(".nav.navbar-nav li:nth-child(5)").addClass("active");
+</script>
 
-    <?php include('inc/footer.php') ?>
+<?php include('inc/footer.php') ?>

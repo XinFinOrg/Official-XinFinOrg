@@ -3548,15 +3548,15 @@ display: inline-table;
 
 /* GENERAL MEDIA QUERIES
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.fs-20 {font-size:20px;}
-.fs-24 {font-size:24px;}
-.fs-28 {font-size:28px;}
-.fs-32 {font-size:32px;}
+.fs-20 {font-size:20px!important;}
+.fs-24 {font-size:24px!important;}
+.fs-28 {font-size:28px!important;}
+.fs-32 {font-size:32px!important;}
 
-.fw-4 {font-weight:400;}
-.fw-5 {font-weight:500;}
-.fw-6 {font-weight:600;}
-.fw-7 {font-weight:700;}
+.fw-4 {font-weight:400!important;}
+.fw-5 {font-weight:500!important;}
+.fw-6 {font-weight:600!important;}
+.fw-7 {font-weight:700!important;}
 
 ul.lower-alpha {list-style-type:lower-alpha;}
 ul.lower-roman {list-style-type:lower-roman;}
