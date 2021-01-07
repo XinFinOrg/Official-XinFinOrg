@@ -27,9 +27,9 @@ include('inc/header.php') ?>
             <div class="row">
                 <div class="setup-masternode-row">
                     <ul class="nav nav-tabs">
-                        <li class="active"><a data-toggle="tab" href="#10" aria-expanded="true">Roadmap for 2021</a></li>
-                        <li class=""><a data-toggle="tab" href="#20" aria-expanded="false">Core Focus Since Mainnet Launch</a></li>
-                        <li class=""><a data-toggle="tab" href="#30" aria-expanded="false">Milestones Achieved</a></li>
+                        <li class="active"><a data-toggle="tab" href="#roadmap-for-2021" aria-expanded="true">Roadmap for 2021</a></li>
+                        <li class=""><a data-toggle="tab" href="#core-focus-since-mainnet-launch" aria-expanded="false">Core Focus Since MainNet Launch</a></li>
+                        <li class=""><a data-toggle="tab" href="#milestones-achieved" aria-expanded="false">Milestones Achieved</a></li>
                     </ul>
                 </div>
             </div>
@@ -39,7 +39,7 @@ include('inc/header.php') ?>
         <div class="container">
             <div class="tab-content">
 
-                <div id="10" class="tab-pane fade in active">                    
+                <div id="roadmap-for-2021" class="tab-pane fade in active">                    
                     <div class="roadmap-details">
                     	<p class="sub-header">Roadmap for 2021</p>
                         <p class="fw-7 fs-20 pt-2">Background:</p>
@@ -261,7 +261,7 @@ include('inc/header.php') ?>
                 
                 
                 
-                <div id="20" class="tab-pane fade in">                    
+                <div id="core-focus-since-mainnet-launch" class="tab-pane fade in">                    
                     <div class="roadmap-details">                        
                     <p class="sub-header">After XinFin Network MainNet launch (1st June, 2019), the core focus is on the following points:</p>
                     <p class="title">1. XDC Staking</p>
@@ -332,7 +332,7 @@ include('inc/header.php') ?>
                 
                 
                 
-                <div id="30" class="tab-pane fade in">                    
+                <div id="milestones-achieved" class="tab-pane fade in">                    
                     <div class="roadmap-details">
                         <p class="sub-header">The journey so far, Milestones Achieved</p>                
                     </div>
