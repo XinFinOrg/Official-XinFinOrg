@@ -10,9 +10,9 @@ include('inc/header.php') ?>
             <div class="row">
                 <div class="col-md-6 col-sm-6 col-xs-12 bannertext">
                     <h1>Roadmap</h1>
-                    <p>Use the XDC token on the public state that is identical in functionality to public blockchains. Or set up private networks to run enterprise use cases.</p>
+                    <p class="mb-1">Use the XDC token on the public state that is identical in functionality to public blockchains. Or set up private networks to run enterprise use cases.</p>
                 </div>
-                <div class="col-md-6 col-sm-6 col-xs-12 btxt-img">
+                <div class="col-md-6 col-sm-6 col-xs-12 btxt-img roadmap-banner-img">
                     <img src="assets/images/XDC-Protocol/xdc-protocol-banner-image.png" alt="" class="img-responsive">
                 </div>
                 <!-- <div id="scroll"><a href="#resorces" class="smooth-scroll" ><span class="arrow-bounce">↓</span></a></div> -->
@@ -21,13 +21,248 @@ include('inc/header.php') ?>
         </div>
     </section>
 
-    <section id="resources" class="resources">
+    <section id="resources" class="roadmap-seperated">
+        
+        <div class="container-fluid">
+            <div class="row">
+                <div class="setup-masternode-row">
+                    <ul class="nav nav-tabs">
+                        <li class="active"><a data-toggle="tab" href="#10" aria-expanded="true">Roadmap for 2021</a></li>
+                        <li class=""><a data-toggle="tab" href="#20" aria-expanded="false">Core Focus Since Mainnet Launch</a></li>
+                        <li class=""><a data-toggle="tab" href="#30" aria-expanded="false">Milestones Achieved</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        
         <div class="container">
             <div class="tab-content">
 
-                <div id="roadmap" class="tab-pane fade in active">
-                    
+                <div id="10" class="tab-pane fade in active">                    
                     <div class="roadmap-details">
+                    	<p class="sub-header">Roadmap for 2021</p>
+                        <p class="fw-7 fs-20 pt-2">Background:</p>
+                        <p><b>Bitcoin's phenomenal rise</b> backed by institutional adoption confirms the appetite for <b>digital assets by mainstream markets and investors</b>. Bitcoin is positioned as a <b>scarce digital asset with very high liquidity</b>. Bitcoin's liquidity, mining and adoption is managed in a fairly decentralised manner by community members.</p>
+                        <p><b>XDC is positioned to connect real world finance origination to DeFi markets</b>. We want to set <b>XDC as a de-facto standard for recording payment obligations</b> from institutions which includes <b>buyers, suppliers, governments and banks</b>. Payment obligations can also be recorded for employer-employee which can potentially open up the  payday loans, mortgages, auto loans on XDC Network. <b>Governments raise billions through bonds</b> which are essentially payment obligations. Currently this space is empty and there is no platform which focuses on this particular feature. Enabling this brings a massive opportunity to bring <b>DeFi backed by real world assets on top of XDC network</b>. <b>Central banks pour liquidity in financial markets</b> to make liquidity reach at <b>grassroots level at MSMEs</b>. XDC is positioned to absorb such liquidity and then distribute it via originators that connect to TradeFinex on <b>$XDC</b>.</p>
+                        <p>We are expecting a third party developer company to deliver payment obligations on XDC network which will be used by it's <b>initial 2 integrations Validus and Funding societies</b>. There is an ongoing discussion with regulated financial institutions <b>(Know More-Link to Disclosures Vs. Non-disclosures page below)</b> to bring their payment obligations for instruments such as <b>letters of credits, invoices and receivables</b> on to XDC network.</p>
+                        <p>While the core team is looking to focus on the adoption, it is clear that XDC community participation is greatly required to mainly achieve the following objectives:</p>
+                        <ul class="lower-alpha">
+                            <li>XDC Integrations across hardware, software wallets, digital asset custodians and crypto exchanges.</li>
+                            <li>XDC liquidity to support trade finance liquidity.</li>
+                            <li>XDC adoption through marketing, awareness about its protocol and features.</li>
+                        </ul>
+                        
+                        <p class="fs-20 pt-2">We are happy to share this roadmap with core community members so that we can collectively grow the XDC project bigger and stronger in 2021.</p>
+                        
+                        <p class="title big-title">1. Robust Support infrastructure for XDC mainnet Chain</p>
+                        <ul class="lower-alpha">
+                            <li class="fw-7 fs-18">Hardware/software wallets</li>
+                        	<ul class="lower-roman">
+                            	<li>Ledger (<a href="https://medium.com/xinfin/how-to-use-ledger-nano-s-with-xdc-network-5d3048401374" target="_blank">Code integration done</a>, awaiting upgrade in their firmware to go live)</li>
+                                <li>Trezor (integration ongoing)</li>
+                                <li>Wallet connect (Live) : <a href="https://walletconnect.org/apps/" target="_blank">https://walletconnect.org/apps/</a></li>
+                                <li>Freewallet : (Integration ongoing)</li>
+                                <li><b>Safepal.io</b> : They already announced that they will keep XDC <a href="https://twitter.com/iSafePal/status/1343504963956174850" target="_blank">Integration with 2021 roadmap</a>. </li>
+                          <li>Exodus, Trust Wallet, Coinswitch : Discussion Phase.<br />
+                        XDC to meet criteria like position in coinmarketcap, technical integration fees etc. XDC Community member can participate and claim upto 140% bounty from link : <a href="https://www.xinfin.org/bounty" target="_blank">https://www.xinfin.org/bounty</a></li>
+                        	</ul>
+                            
+                            <li class="fw-7 fs-18 pt-2">Digital Asset custodians</li>
+                            <ul class="lower-roman">
+                            	<li>Copper.co - Already done</li>
+                                <li>Onchain custodian - Expected Jan/Feb 2021</li>
+                                <li>Hex trust - Negotiating</li>
+                                <li>Anchorage (backed by Visa)<br />
+                                Other wallet : XDC Community member can participate and claim upto 140% bounty from link : <a href="https://www.xinfin.org/bounty" target="_blank">https://www.xinfin.org/bounty</a></li>
+                                <p>XDC community member can add support to other famous Digital Custodian and claim upto 140% of XDC as bounty by submitting integration details at : <a href="https://www.xinfin.org/bounty">https://www.xinfin.org/bounty</a> (Fill up form given under Pre-approved XDC Bounty)</p>
+                        	</ul>                            
+                            
+                            <li class="fw-7 fs-18 pt-2">OpenLaw Integration:<br />
+                            <p class="fw-4">Discussion in progress and awaiting for XDC community members to push them to get quick integration. Upto 140% of XDC Bounty available for the actual cost bear by the XDC Community member.</p></li>
+                            
+                            <li class="fw-7 fs-18 pt-2">R3 Cordite Integration:<br />
+                            <p class="fw-4">Cordite society has been engaged to run third-party Corda network nodes for XinFin and provide interoperability among the Corda network and XinFin network.</p></li>
+                            
+                            <li class="fw-7 fs-18 pt-2">ExcelTrip Travel Portal XDC Integration:<br />
+                            <p class="fw-4">Integration in progress and should be done by Jan, 2021. <a href="https://twitter.com/xceltrip/status/1337326935744131072" target="_blank">Announcement</a> already done by ExcelTrip team members.</p></li>
+                            
+                            <li class="fw-7 fs-18 pt-2">MultiSig Wallet Facility:<br />
+                            <p class="fw-4">Fork repository like <a href="https://gnosis-safe.io/" target="_blank">https://gnosis-safe.io/</a> and provide options to use multisig facility on XDC Network. Upto 140% XDC Bounty available for the actual cost bear by the XDC Community member from: <a href="https://www.xinfin.org/bounty">https://www.xinfin.org/bounty</a></p></li>
+                        </ul>
+                        
+                        
+                        <p class="title big-title pt-2">2. Enabling rapid adoption of XDC with its Dapps</p>
+                        <ul class="lower-alpha">
+                            <li class="fw-7 fs-18">TradeFinex</li>
+                        	<ul class="lower-roman">
+                            	<li>Currently live with SGD 50,000 worth of staking coming from XDC directly ported to Validus</li>
+                                <li>Integration with more originators</li>
+                                <li>Scaling up Liquidity pools on TradeFinex</li>
+                                <li>Integration with exchanges and custodians who can offer this yield to their own stakers</li>
+                                <li>Payment obligation smart contract utilisation on XDC</li>
+                          		<li><a href="https://forum.makerdao.com/t/tokenized-yield-generating-trade-finance-assets-as-maker-collaterals/1645/11?u=atulkhekade" target="_blank">https://forum.makerdao.com/t/tokenized-yield-generating-trade-finance-assets-as-maker-collaterals/1645/11?u=atulkhekade</a></li>
+                                <p><a href="disclosures-vs-non-disclosures" style="text-decoration:underline!important;">Know More</a></p>
+                        	</ul>
+                            
+                            <li class="fw-7 fs-18 pt-2">Globiance</li>
+                            <ul class="lower-roman">
+                            	<li>Boost adoption of SGDg, EURg</li>
+                                <ul class="lower-alpha">
+                                	<p class="fw-7">Target:</p>
+                                    <li>Scale up issuance on SGDg and EURg</li>
+                                    <li>Scale up daily volume of SGDg and EURg</li>
+                                </ul>
+                        	</ul>                            
+                            
+                            <li class="fw-7 fs-18 pt-2">Blockdegree</li>
+                            <ul class="lower-roman">
+                            	<li>Partnership with institutions cross sell education with 50% profit share?</li>
+                                <li>The courses will be accredited by Singapore skills future (Please visit <a href="https://blockdegree.org" target="_blank">Blockdgree.org</a>)</li>
+                        	</ul>
+                            
+                            <li class="fw-7 fs-18 pt-2">Mycontract</li>
+                            <ul class="lower-roman">
+                            	<li>Enterprise connectivity to blockchain and crypto assets ecosystem<br /><br />
+                                <p>Develop Dapps on XDC Network and claim upto 140% of XDC as bounty by submitting details at: <a href="https://www.xinfin.org/bounty">https://www.xinfin.org/bounty</a> (Fill up form given under Pre-approved XDC Bounty)</p></li>
+                        	</ul>
+                        </ul>
+                        
+                        
+                        <p class="title big-title pt-2">3. Exchange listings</p>
+                        <ul class="lower-alpha">
+                            <li class="fw-7 fs-18">Tier 1 Exchange Listing (In Legal clearance)</li>
+                        	<ul class="lower-roman">
+                            	<li>Non-US Customers (Phase 1)</li>
+                                <li>US Customers - FIAT pairs (Phase 2)</li>
+                        	</ul>
+                            
+                            <li class="fw-7 fs-18 pt-2">Tier 1 Exchange Listing (Proposal Received)</li>
+                        	<ul class="lower-roman">
+                            	<li>Non-japan customers (Phase 1)</li>
+                                <li>Japan customers - Fiat Pairs (Phase 2)</li>
+                        	</ul>
+                            
+                            <li class="fw-7 fs-18 pt-2">Tier 1 exchange listing (Proposed)</li>
+                        	<ul class="lower-roman">
+                            	<li>Non-Korean Customers (Phase 1)</li>
+                                <li>Koream Customers - Fiat (Phase 2)</li>
+                        	</ul>
+                            
+                            <li class="fw-7 fs-18 pt-2">Tier 1 exchange listing (Proposed)</li>
+                        	<ul class="lower-roman">
+                            	<li>US Customers (Proposed, Under Legal opinion)</li>
+                                <li>Koream Customers - Fiat (Phase 2)</li>
+                                <p><a href="disclosures-vs-non-disclosures" style="text-decoration:underline!important;">Know More</a></p>
+                                <p><span class="fw-7">Other Exchange Integration Fee bounty at</span> : <a href="https://www.xinfin.org/bounty">https://www.xinfin.org/bounty</a></p>
+                        	</ul>                            
+                        </ul>
+                        
+                        
+                        <p class="title big-title pt-2">4. Market making + Liquidity push by incentivising market makers</p>
+                        <ul class="lower-alpha">
+                            <li class="fw-7 fs-18">Community driven third party market making. There are some masternode groups who are running bounties via third party pages.</li>
+                        	<ul class="lower-roman">
+                            	<li><a href="https://ruslanwing100.medium.com/bounty-for-xdc-market-making-6326540e1766" target="_blank">https://ruslanwing100.medium.com/bounty-for-xdc-market-making-6326540e1766</a></li>
+                        	</ul> 
+                            <li class="fw-7 fs-18 pt-2">Incentives from xdc ecosystem pool for maintaining liquidity in self controlled mm account.</li>                          
+                        </ul>
+                        
+                        
+                        <p class="title big-title pt-2">5. Global awareness + PR</p>
+                        <ul class="lower-alpha">
+                            <li class="fw-7 fs-18">Received proposal from Market Across PR firm.</li>
+                        	<ul class="lower-roman">
+                            	<li>This is a PR firm for top projects.</li>
+                        	</ul> 
+                            <li class="fw-7 fs-18 pt-2">Can the community help in decentralization of this task?</li>                          
+                        </ul>
+                        
+                        
+                        <p class="title big-title pt-2">6. Interoperability of XDC with Ethereum ecosystem</p>
+                        <ul class="lower-alpha">
+                            <li class="fw-7 fs-18">Developers of Bancor and XDC are working with Bancorx integration of XDC with USDC, USDT and ETH on BancorX</li>
+                        	<ul class="lower-roman">
+                            	<li>Link for alpha product/tool : <a href="https://bancor.xdc.network/" target="_blank">https://bancor.xdc.network/</a> (Link for testing purpose only)</li>
+                        	</ul>
+                        </ul>
+                        
+                        
+                        
+                        <p class="title big-title pt-2">7. Legal Clarity on XDC Network and token</p>
+                        <ul class="lower-alpha">
+                            <li class="fw-7 fs-18">Singapore</li>
+                        	<ul class="lower-roman">
+                            	<li>law firm has already issued it's legal opinion that XDC is a utility payment token and not a security.</li>
+                        	</ul>
+                            
+                            <li class="fw-7 fs-18 pt-2">UK</li>
+                        	<ul class="lower-roman">
+                            	<li>law firm has already issued it's legal opinion that XDC is a utility payment token and not a security.</li>
+                        	</ul>
+                            
+                            <li class="fw-7 fs-18 pt-2">Liechtenstein</li>
+                        	<ul class="lower-roman">
+                            	<li>Legal opinion underway.</li>
+                        	</ul>
+                            
+                            <li class="fw-7 fs-18 pt-2">US - SEC</li>
+                        	<ul class="lower-roman">
+                            	<li>Can we work with a US law firm along with US community members to issue a legal opinion on this?</li>
+                        	</ul>
+                            
+                            <li class="fw-7 fs-18 pt-2">Japan</li>
+                        	<ul class="lower-roman">
+                            	<li>To be engaged after liquid.com listing for enabling fiat pairs.</li>
+                        	</ul>
+                            
+                            <li class="fw-7 fs-18 pt-2">UAE</li>
+                        	<ul class="lower-roman">
+                            	<li>Working through TradeFinex tech Ltd. (Reglab already issued)</li>
+                                <p><a href="disclosures-vs-non-disclosures" style="text-decoration:underline!important;">Know More</a></p>
+                        	</ul>
+                        </ul>
+                        
+                        
+                        <p class="title big-title pt-2">8. <span class="fw-7">Hackathon & internship</span> to promote XDC Adoption and More Dapps Integration.</p>
+                        
+                        
+                        <p class="sub-header fw-7 pt-4">Inorganic Growth through third party project integrations:</p>
+                        <ul class="lower-decimal">
+                            <li class="fw-7 fs-18">European Index provider -  (will be publicly announced in January end or February)</li>
+                        	<ul class="lower-alpha">
+                            	<li>XDC index to launch in January end or February. <a href="disclosures-vs-non-disclosures" style="text-decoration:underline!important;">Know More</a></li>
+                        	</ul>
+                            
+                            <li class="fw-7 fs-18 pt-2">A Fintech firm integrated with 17 banks</li>
+                        	<ul class="lower-alpha">
+                            	<li><a href="disclosures-vs-non-disclosures" style="text-decoration:underline!important;">Know More</a></li>
+                                <li>Integration of banking partners with TradeFinex over XDC liquidity pools for alternative investor.</li>
+                        	</ul>
+                            
+                            <li class="fw-7 fs-18 pt-2">Tier 1 Bank - <a href="disclosures-vs-non-disclosures" style="text-decoration:underline!important;">Know More</a></li>
+                            
+                            <li class="fw-7 fs-18 pt-2">DeFi Project on XDC - <a href="disclosures-vs-non-disclosures" style="text-decoration:underline!important;">Know More</a></li>
+                            
+                            <li class="fw-7 fs-18 pt-2">Trade Finance Digitisation Project</li>
+                        	<ul class="lower-alpha">
+                            	<li>Integration with XDC</li>
+                        	</ul>
+                            
+                            <li class="fw-7 fs-18"><a href="disclosures-vs-non-disclosures" style="text-decoration:underline!important;">Know More</a></li>
+                        </ul>
+                        
+                        <p class="pt-4">We are requesting community members to connect or to approach regulated companies  which can boost XDC adoption with running systems. Upto 140% XDC Bounty available for any communication, integration or Regulation cost incurred by the XDC Community member. XDC Bounty form at: <a href="https://www.xinfin.org/bounty" target="_blank">https://www.xinfin.org/bounty</a> (Fill up Bounty form given under Pre-approved XDC Bounty)</p>                 
+                    </div>
+                </div>
+                
+                
+                
+                
+                
+                
+                <div id="20" class="tab-pane fade in">                    
+                    <div class="roadmap-details">                        
                     <p class="sub-header">After XinFin Network MainNet launch (1st June, 2019), the core focus is on the following points:</p>
                     <p class="title">1. XDC Staking</p>
                     <ul>
@@ -88,13 +323,20 @@ include('inc/header.php') ?>
                                 <li>All members of GFIN Regulators</li>
                             </ol>
                         </li>
-					</ul>
-                    
-                    <br /><br />
-                    <h2 class="text-center">The journey so far, milestones completed and the roadmap for the year 2020.</h2>                    
+					</ul>         
+                    </div>
+                </div>
+                
+                
+                
+                
+                
+                
+                <div id="30" class="tab-pane fade in">                    
+                    <div class="roadmap-details">
+                        <p class="sub-header">The journey so far, Milestones Achieved</p>                
                     </div>
                     
-
                     <div class="frst-container">
                         <!-- frst-left-align/frst-right-align/frst-alternate/frst-date-opposite/frst-responsive-right-->
                         <div class="frst-timeline frst-timeline-style-1 frst-alternate">
@@ -510,6 +752,7 @@ include('inc/header.php') ?>
                     </div>
 
                 </div>
+                
 
             </div>
 

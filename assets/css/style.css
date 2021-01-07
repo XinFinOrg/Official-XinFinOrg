@@ -1306,8 +1306,9 @@ button.btn-outline-default .fa{margin-right:5px;}
 
 /*  Download Assets  */
 .download-banner{}
-.download-banner h1{text-align:center;padding-left: 0px;}
-.download-banner p{text-align:center;padding-left: 0px;}
+.download-banner .bannertext h1{text-align:center;padding-left: 0px;}
+.download-banner .bannertext p{text-align:center;padding-left: 0px;}
+.download-banner .bannertext p:last-child{margin-bottom: 75px!important;}
 
 .downloads .brand-assets-logo-border{border:1px solid #d7d7d7;background-color:#FFFFFF;padding:40px;text-align:center;}
 .downloads .brand-assets-logo-border img{max-width:100px;display:block;margin:auto;}
@@ -1320,8 +1321,8 @@ button.btn-outline-default .fa{margin-right:5px;}
 
 .downloads .promotional-assets-border{border:1px solid #d7d7d7;padding:5px;text-align:center;}
 .downloads .promotional-assets-border img{width:100%;display:block;margin:auto;}
-.downloads button.btn-blue{line-height: 22px;padding-top: 6px;!important;}
-.downloads button.btn-outline{line-height: 22px;padding-top: 6px;!important;}
+.downloads button.btn-blue{line-height: 22px;padding-top: 6px!important;}
+.downloads button.btn-outline{line-height: 22px;padding-top: 6px!important;}
 /*  Download Assets  */
 
 
@@ -1598,6 +1599,14 @@ button.btn-outline-default .fa{margin-right:5px;}
     font-size: 18px;
     line-height: 22px;
 }
+#resources .roadmap-details .title.big-title {
+    color: #096db0;
+	text-align: left;
+	margin-top: 30px;
+	margin-bottom: 20px;
+    font-size: 23px;
+    line-height: 28px;
+}
 #resources .roadmap-details ul{font-size:16px;color:#002752;margin-left:20px;}
 #resources .roadmap-details ul li{margin-left:17px;}
 
@@ -1611,6 +1620,11 @@ button.btn-outline-default .fa{margin-right:5px;}
     border-top: 1px solid #dfdee2;
     font-size: 26px;
     line-height: 28px;
+}
+
+
+#resources.roadmap-seperated .tab-content {
+    padding-top: 60px;
 }
 
 
@@ -3319,7 +3333,6 @@ width: 94.5%; padding-left:30px;
 
 /* TIMELINE
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-
 .timeline {
   white-space: nowrap;
   overflow-x: hidden;
@@ -3449,7 +3462,6 @@ display: inline-table;
  cursor: pointer;
 }
 
-
 .timeline ol li:nth-child(1) div::before {
   border:none !important;
 }
@@ -3529,15 +3541,40 @@ display: inline-table;
   opacity: .5;
 }
 
-.timeline .arrows img {
-  width: 45px;
-  height: 45px;
-}
+.timeline .arrows img {width: 45px;height: 45px;}
 
-.arrowsst
-{
-  background-color:#112b3c; width:40px; height:40px; border-radius: 25px; padding:10px;  margin-top: 10px; 
-}
+.arrowsst {background-color:#112b3c; width:40px; height:40px; border-radius: 25px; padding:10px; margin-top: 10px;}
+
+
+/* GENERAL MEDIA QUERIES
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.fs-20 {font-size:20px;}
+.fs-24 {font-size:24px;}
+.fs-28 {font-size:28px;}
+.fs-32 {font-size:32px;}
+
+.fw-4 {font-weight:400;}
+.fw-5 {font-weight:500;}
+.fw-6 {font-weight:600;}
+.fw-7 {font-weight:700;}
+
+ul.lower-alpha {list-style-type:lower-alpha;}
+ul.lower-roman {list-style-type:lower-roman;}
+ul.lower-decimal {list-style-type:decimal;}
+
+ul.lower-alpha li p.fw-4, ul.lower-roman li p.fw-4 {font-weight:400;}
+ul.lower-alpha li.fw-7, ul.lower-roman li.fw-7 {font-weight:700;}
+ul.lower-alpha li.fs-18, ul.lower-roman li.fs-18 {font-size:18px;}
+ul.lower-alpha li. fs-16, ul.lower-roman li. fs-16 {font-size:16px;}
+
+ul.lower-alpha li, ul.lower-roman li {margin-bottom:6px;}
+
+/* GENERAL MEDIA QUERIES
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+
+
+
 
 
 /* GENERAL MEDIA QUERIES
@@ -3653,8 +3690,7 @@ display: inline-table;
 }
 
 
-@media only screen and (max-width:768px)
-{
+@media only screen and (max-width:768px) {
   .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
     border-color: #101010;
 	background: #112b3c;
@@ -3748,6 +3784,8 @@ display: inline-table;
 {
 text-align: center !important;
 }
+
+.roadmap-banner-img {margin-top: 25px!important; margin-bottom: 50px!important;}
 }
 
 .e-button
