@@ -174,7 +174,7 @@ include('inc/header.php') ?>
                         <li class="fw-7 fs-18 pt-2">Tier 1 exchange listing (Proposed)</li>
                         <ul class="lower-roman">
                             <li>US Customers (Proposed, Under Legal opinion)</li>
-                            <li>Koream Customers - Fiat (Phase 2)</li>
+                            <li>Korean Customers - Fiat (Phase 2)</li>
                             <p><a href="disclosures-vs-non-disclosures" style="text-decoration: underline !important;">Know More</a></p>
                             <p><span class="fw-7">Other Exchange Integration Fee bounty at</span> : <a href="https://www.xinfin.org/bounty">https://www.xinfin.org/bounty</a></p>
                         </ul>
@@ -225,7 +225,7 @@ include('inc/header.php') ?>
 
                         <li class="fw-7 fs-18 pt-2">US - SEC</li>
                         <ul class="lower-roman">
-                            <li>Xinfin is currently in the process of engaging legal council in the United States to create a legal opinion for the XDC Network and the XDC token.</li>
+                            <li>Xinfin is currently in the process of engaging legal counsel in the United States to create a legal opinion for the XDC Network and the XDC token.</li>
                         </ul>
 
                         <li class="fw-7 fs-18 pt-2">Japan</li>
@@ -392,7 +392,7 @@ include('inc/header.php') ?>
                                                 <span style="font-weight: 700;">Regulated Custodian Integrations and Partnership for ecosystem development and XDC adoption.</span> Exploring partnership with Custodian Copper.co, Pundix and
                                                 Fineon Exchange (fineon.net)
                                             </li>
-                                            <li><span style="font-weight: 700;">TradeFinex Round table</span> - Regional Roundtable for Masternode, governance council, and use case presentation. DEMO TradeFinex Network.</li>
+                                            <li><span style="font-weight: 700;">TradeFinex Round table</span> - Regional Roundtable for Masternode, governance counsel, and use case presentation. DEMO TradeFinex Network.</li>
                                         </ul>
                                     </div>
 
