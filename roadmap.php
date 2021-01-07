@@ -64,7 +64,7 @@ include('inc/header.php') ?>
                             <li><b>Safepal.io</b> : They already announced that they will keep XDC <a href="https://twitter.com/iSafePal/status/1343504963956174850" target="_blank">Integration with 2021 roadmap</a>.</li>
                             <li>
                                 Exodus, Trust Wallet, Coinswitch : Discussion Phase.<br />
-                                XDC to meet criteria like position in coinmarketcap, technical integration fees etc. XDC Community member can participate and claim upto 140% bounty from link :
+                                XDC to meet criteria like position in coinmarketcap, technical integration fees etc. XDC Community member can participate and claim up to 140% bounty from link :
                                 <a href="https://www.xinfin.org/bounty" target="_blank">https://www.xinfin.org/bounty</a>
                             </li>
                         </ul>
@@ -76,10 +76,10 @@ include('inc/header.php') ?>
                             <li>Hex trust - Negotiating</li>
                             <li>
                                 Anchorage (backed by Visa)<br />
-                                Other wallet : XDC Community member can participate and claim upto 140% bounty from link : <a href="https://www.xinfin.org/bounty" target="_blank">https://www.xinfin.org/bounty</a>
+                                Other wallet : XDC Community member can participate and claim up to 140% bounty from link : <a href="https://www.xinfin.org/bounty" target="_blank">https://www.xinfin.org/bounty</a>
                             </li>
                             <p>
-                                XDC community member can add support to other famous Digital Custodian and claim upto 140% of XDC as bounty by submitting integration details at :
+                                XDC community member can add support to other famous Digital Custodian and claim up to 140% of XDC as bounty by submitting integration details at :
                                 <a href="https://www.xinfin.org/bounty">https://www.xinfin.org/bounty</a> (Fill up form given under Pre-approved XDC Bounty)
                             </p>
                         </ul>
@@ -145,13 +145,8 @@ include('inc/header.php') ?>
 
                         <li class="fw-7 fs-18 pt-2">Mycontract</li>
                         <ul class="lower-roman">
-                            <li>
-                                Enterprise connectivity to blockchain and crypto assets ecosystem<br />
-                                <br />
-                                <p>
-                                    Develop Dapps on XDC Network and claim upto 140% of XDC as bounty by submitting details at: <a href="https://www.xinfin.org/bounty">https://www.xinfin.org/bounty</a> (Fill up form given under Pre-approved
-                                    XDC Bounty)
-                                </p>
+                            <li>Enterprise connectivity to blockchain and crypto assets ecosystem<br /><br />
+                            <p>Develop Dapps on XDC Network and claim up to 140% of XDC as bounty by submitting details at: <a href="https://www.xinfin.org/bounty">https://www.xinfin.org/bounty</a> (Fill up form given under Pre-approved XDC Bounty)</p>
                             </li>
                         </ul>
                     </ul>
@@ -173,7 +168,7 @@ include('inc/header.php') ?>
                         <li class="fw-7 fs-18 pt-2">Tier 1 exchange listing (Proposed)</li>
                         <ul class="lower-roman">
                             <li>Non-Korean Customers (Phase 1)</li>
-                            <li>Koream Customers - Fiat (Phase 2)</li>
+                            <li>Korean Customers - Fiat (Phase 2)</li>
                         </ul>
 
                         <li class="fw-7 fs-18 pt-2">Tier 1 exchange listing (Proposed)</li>
@@ -230,12 +225,12 @@ include('inc/header.php') ?>
 
                         <li class="fw-7 fs-18 pt-2">US - SEC</li>
                         <ul class="lower-roman">
-                            <li>Can we work with a US law firm along with US community members to issue a legal opinion on this?</li>
+                            <li>Xinfin is currently in the process of engaging legal council in the United States to create a legal opinion for the XDC Network and the XDC token.</li>
                         </ul>
 
                         <li class="fw-7 fs-18 pt-2">Japan</li>
                         <ul class="lower-roman">
-                            <li>To be engaged after liquid.com listing for enabling fiat pairs.</li>
+                            <li>To be engaged after listing with Tier 1 Exchange for enabling fiat pairs.</li>
                         </ul>
 
                         <li class="fw-7 fs-18 pt-2">UAE</li>
@@ -291,7 +286,7 @@ include('inc/header.php') ?>
             
             <div id="milestones-achieved" class="tab-pane pt-1 fade in active">
                 <div class="roadmap-details">
-                    <p class="sub-header fs-28">The journey so far, Milestones Achieved upto 31st Dec 2020</p>
+                    <p class="sub-header fs-28">The journey so far, Milestones Achieved up to 31st Dec 2020</p>
                 </div>
 
                 <div class="frst-container mb-3">
