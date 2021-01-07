@@ -1554,7 +1554,7 @@ button.btn-outline-default .fa{margin-right:5px;}
   display: block;
   position: relative;
   background: #112b3c;
-  min-height:700px;
+  /*min-height:700px;*/
 }
 #resources-banner .bannertext{
   display: block;
@@ -1579,7 +1579,7 @@ button.btn-outline-default .fa{margin-right:5px;}
 }
 
 #resources .roadmap-details {
-	margin-bottom: 75px;
+	margin-bottom: 25px;
 }
 #resources .roadmap-details .sub-header {
     color: #096db0!important;
