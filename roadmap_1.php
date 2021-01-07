@@ -5,21 +5,20 @@ $desc = "XinFin use the XDC token on the public state that is identical in funct
 include('inc/header.php') ?>
 
     <section id="resources-banner">
-        <!-- <div id="particle-canvas"></div> -->
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 col-sm-6 col-xs-12 bannertext">
-                    <h1>Roadmap</h1>
-                    <p>Use the XDC token on the public state that is identical in functionality to public blockchains. Or set up private networks to run enterprise use cases.</p>
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-12 btxt-img">
-                    <img src="assets/images/XDC-Protocol/xdc-protocol-banner-image.png" alt="" class="img-responsive">
-                </div>
-                <!-- <div id="scroll"><a href="#resorces" class="smooth-scroll" ><span class="arrow-bounce">↓</span></a></div> -->
-
+    <!-- <div id="particle-canvas"></div> -->
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 col-xs-12 bannertext">
+                <h1>Roadmap</h1>
+                <p class="mb-2">Use the XDC token on the public state that is identical in functionality to public blockchains. Or set up private networks to run enterprise use cases.</p>
             </div>
+            <div class="col-md-6 col-sm-6 col-xs-12 btxt-img">
+                <img src="assets/images/XDC-Protocol/xdc-protocol-banner-image.png" alt="" class="img-responsive mb-5" />
+            </div>
+            <!-- <div id="scroll"><a href="#resorces" class="smooth-scroll" ><span class="arrow-bounce">↓</span></a></div> -->
         </div>
-    </section>
+    </div>
+</section>
 
     <section id="resources" class="resources">
         <div class="container">
