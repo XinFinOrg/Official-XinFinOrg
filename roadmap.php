@@ -289,7 +289,7 @@ include('inc/header.php') ?>
             
             
             
-            <div id="milestones-achieved" class="tab-pane pt-5 fade in active">
+            <div id="milestones-achieved" class="tab-pane pt-1 fade in active">
                 <div class="roadmap-details">
                     <p class="sub-header fs-28">The journey so far, Milestones Achieved upto 31st Dec 2020</p>
                 </div>
