@@ -34,7 +34,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="btn-block mb-1">
                             <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
-                            <a href="#" class="disabled">
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScTlg-U-AfYsycWnB5b5clpAOybBkerR4ZlkoM2nBQoNynzPQ/viewform" target="_blank">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
                             <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1e">Detailed Rules</button>
@@ -55,7 +55,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="btn-block mb-1">
                             <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
-                            <a href="#" class="disabled">
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScTlg-U-AfYsycWnB5b5clpAOybBkerR4ZlkoM2nBQoNynzPQ/viewform" target="_blank">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
                             <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1d">Detailed Rules</button>
@@ -97,7 +97,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="btn-block mb-1">
                             <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
-                            <a href="#" class="disabled">
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScTlg-U-AfYsycWnB5b5clpAOybBkerR4ZlkoM2nBQoNynzPQ/viewform" target="_blank">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
                             <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1b">Detailed Rules</button>
@@ -118,7 +118,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="btn-block mb-1">
                             <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
-                            <a href="#" class="disabled">
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScTlg-U-AfYsycWnB5b5clpAOybBkerR4ZlkoM2nBQoNynzPQ/viewform" target="_blank">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
                             <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1a">Detailed Rules</button>
@@ -139,7 +139,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="btn-block mb-1">
                             <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
-                            <a href="#" class="disabled">
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScTlg-U-AfYsycWnB5b5clpAOybBkerR4ZlkoM2nBQoNynzPQ/viewform" target="_blank">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
                             <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1">Detailed Rules</button>
@@ -160,7 +160,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="btn-block mb-1">
                             <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
-                            <a href="#" class="disabled">
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScTlg-U-AfYsycWnB5b5clpAOybBkerR4ZlkoM2nBQoNynzPQ/viewform" target="_blank">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
                             <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-2">Detailed Rules</button>
@@ -330,6 +330,11 @@ include('inc/header.php') ?>
                                         <li>You will get reimbursement for up to 200% of the fees incurred in your wallet.</li>
                                     </ol>
                                 </div>
+                                <div class="btn-block mt-3 mb-1">
+                                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScTlg-U-AfYsycWnB5b5clpAOybBkerR4ZlkoM2nBQoNynzPQ/viewform" target="_blank">
+                                        <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                         <div class="modal-footer"></div>
@@ -361,6 +366,11 @@ include('inc/header.php') ?>
                                         <li>Get an invoice for legal opinion for XDC network.</li>
                                         <li>You will get reimbursement for upto 140% of the fees incurred in your wallet.</li>
                                     </ol>
+                                </div>
+                                <div class="btn-block mt-3 mb-1">
+                                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScTlg-U-AfYsycWnB5b5clpAOybBkerR4ZlkoM2nBQoNynzPQ/viewform" target="_blank">
+                                        <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -421,6 +431,11 @@ include('inc/header.php') ?>
                                         <li>You will get upto 140% of the tech integration fees in your wallet.</li>
                                     </ol>
                                 </div>
+                                <div class="btn-block mt-3 mb-1">
+                                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScTlg-U-AfYsycWnB5b5clpAOybBkerR4ZlkoM2nBQoNynzPQ/viewform" target="_blank">
+                                        <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                         <div class="modal-footer"></div>
@@ -451,6 +466,11 @@ include('inc/header.php') ?>
                                         <li>Get an invoice for Tech integration for XDC network.</li>
                                         <li>You will get upto 140% of the tech integration fees in your wallet.</li>
                                     </ol>
+                                </div>
+                                <div class="btn-block mt-3 mb-1">
+                                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScTlg-U-AfYsycWnB5b5clpAOybBkerR4ZlkoM2nBQoNynzPQ/viewform" target="_blank">
+                                        <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -483,6 +503,11 @@ include('inc/header.php') ?>
                                         <li>You will get upto 140% of the tech integration fees in your wallet.</li>
                                     </ol>
                                 </div>
+                                <div class="btn-block mt-3 mb-1">
+                                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScTlg-U-AfYsycWnB5b5clpAOybBkerR4ZlkoM2nBQoNynzPQ/viewform" target="_blank">
+                                        <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                         <div class="modal-footer"></div>
@@ -510,6 +535,11 @@ include('inc/header.php') ?>
                                         <li>The best 5 implementations will get 1 Million XDC bounties directly in the wallet.</li>
                                         <li>Sample integration with XDC Apothem testnet: <a href="https://bancor.xdc.network/" target="_blank">https://bancor.xdc.network/</a></li>
                                     </ol>
+                                </div>
+                                <div class="btn-block mt-3 mb-1">
+                                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScTlg-U-AfYsycWnB5b5clpAOybBkerR4ZlkoM2nBQoNynzPQ/viewform" target="_blank">
+                                        <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
+                                    </a>
                                 </div>
                                 <!--<p class="mt-3">This bounty is valid till <strong>22 August 2020</strong>.</p>
                                 <div class="btn-block mt-3 mb-1">
