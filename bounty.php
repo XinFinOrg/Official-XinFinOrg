@@ -24,6 +24,27 @@ include('inc/header.php') ?>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
                     <div class="bounty-box">
                         <div class="image-container">
+                            <img class="img-responsive" src="assets/images/bounty/special-projects-bounty.jpg" alt="Special Projects Bounty">
+                        </div>
+                        <div class="content">
+                            <h3>Special Projects Bounty</h3>
+                            <h4 class="highlight small">Up to 200% of the project fees</h4>
+                            <p class="text-muted">Are you a software development company working with Government, Central Banks, or Fortune 500 institutions?</p>
+							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>-->
+                        </div>
+                        <div class="btn-block mb-1">
+                            <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
+                            <a href="#" class="disabled">
+                                <button class="btn-hover color-1">Apply</button>
+                            </a>
+                            <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1e">Detailed Rules</button>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
+                    <div class="bounty-box">
+                        <div class="image-container">
                             <img class="img-responsive" src="assets/images/bounty/jurisdiction-specific-legal-opinion-fees-bounty.jpg" alt="Jurisdiction specific Legal Opinion Fees Bounty">
                         </div>
                         <div class="content">
@@ -284,6 +305,38 @@ include('inc/header.php') ?>
 
                 </div>
             </div>
+            
+            
+            
+            <!-- Modal 1e -->
+            <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-1e" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered bounty-modal" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                            <h3 class="modal-title" id="exampleModalCenterTitle">Special Projects Bounty</h3>
+                        </div>
+                        <div class="modal-body">
+                            <div class="bounty">
+                                <p>Are you a software development company working with Government, Central Banks, or Fortune 500 institutions? If you choose to build your solution on XDC Network & qualify for a special project then you can secure up to 200% reimbursement on your project fees in XDC. i.e. if you incur a cost of USD 25,000 for the project working with Central banks, Governments, or Fortune 500 companies, then your bounty will be up to USD 50,000 equivalent to XDC as per market rate.</p>
+                                <p class="sub-header-small mb-2">Rules:</p>
+                                <div class="orderList">
+                                    <ol>
+                                        <li>The project should be directed for Central banks, Governments, regulators, or Fortune 500 companies.</li>
+                                        <li>The project should be publicly visible to XDC community.</li>
+                                        <li>The project should preferably be open source.</li>
+                                        <li>Include <a href="mailto:info@xinfin.org">info@xinfin.org</a> in your communication with the customers.</li>
+                                        <li>Share estimate budget for the project with XinFin team and get pre-approval on the budget.</li>
+                                        <li>You will get reimbursement for up to 200% of the fees incurred in your wallet.</li>
+                                    </ol>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="modal-footer"></div>
+                    </div>
+                </div>
+            </div>
+            <!-- /. Modal 1e -->
 			
 			
 			
