@@ -36,13 +36,75 @@ include('inc/header.php') ?>
                         <div class="row">
                         	<div class="col-md-6 mb-2">
                             	<div class="brand-assets-logo-border">
+                           	    	<img src="assets/images/brand-assets/xdc-logo.png" class="img-responsive"/>
+                                </div>
+                                <h1>XDC Primary Logotype</h1>
+                                <p>Use this whenever possible on a white background.</p>
+                                <div class="btn-block">
+        							<a href="assets/images/brand-assets/xdc-logo.ai" target="_blank"><button class="btn-outline mb-1">.AI</button></a>
+                                    <a href="assets/images/brand-assets/xdc-logo.eps" target="_blank"><button class="btn-outline mb-1">.EPS</button></a>
+                                    <a href="assets/images/brand-assets/xdc-logo.svg" target="_blank"><button class="btn-outline mb-1">.SVG</button></a>
+									<a href="assets/images/brand-assets/xdc-logo.png" target="_blank"><button class="btn-outline mb-1">.PNG</button></a>
+	    						</div>
+                            </div>
+                            
+                            <div class="col-md-6 mb-2">
+                            	<div class="brand-assets-logo">
+                           	    	<img src="assets/images/brand-assets/xdc-logo_white.png" class="img-responsive"/>
+                                </div>
+                                <h1>XDC Primary Logotype</h1>
+                                <p>Use this whenever possible on a dark background.</p>
+                                <div class="btn-block">
+        							<a href="assets/images/brand-assets/xdc-logo_white.ai" target="_blank"><button class="btn-outline mb-1">.AI</button></a>
+                                    <a href="assets/images/brand-assets/xdc-logo_white.eps" target="_blank"><button class="btn-outline mb-1">.EPS</button></a>
+                                    <a href="assets/images/brand-assets/xdc-logo_white.svg" target="_blank"><button class="btn-outline mb-1">.SVG</button></a>
+									<a href="assets/images/brand-assets/xdc-logo_white.png" target="_blank"><button class="btn-outline mb-1">.PNG</button></a>
+	    						</div>
+                            </div>                            
+                        </div>
+                        
+                        <div class="row mb-3">
+                        	<div class="col-md-6 mb-2">
+                            	<div class="brand-assets-logo-border">
+                           	    	<img src="assets/images/brand-assets/xdc-icon.png" class="img-responsive"/>
+                                </div>
+                                <h1>XDC Icon</h1>
+                                <p>Use this whenever possible on a white background.</p>
+                                <div class="btn-block">
+        							<a href="assets/images/brand-assets/xdc-icon.ai" target="_blank"><button class="btn-outline mb-1">.AI</button></a>
+                                    <a href="assets/images/brand-assets/xdc-icon.eps" target="_blank"><button class="btn-outline mb-1">.EPS</button></a>
+                                    <a href="assets/images/brand-assets/xdc-icon.svg" target="_blank"><button class="btn-outline mb-1">.SVG</button></a>
+									<a href="assets/images/brand-assets/xdc-icon.png" target="_blank"><button class="btn-outline mb-1">.PNG</button></a>
+	    						</div>
+                            </div>
+                            
+                            <div class="col-md-6 mb-2">
+                            	<div class="brand-assets-logo">
+                           	    	<img src="assets/images/brand-assets/xdc-icon_white.png" class="img-responsive"/>
+                                </div>
+                                <h1>XDC Icon</h1>
+                                <p>Use this whenever possible on a dark background.</p>
+                                <div class="btn-block">
+        							<a href="assets/images/brand-assets/xdc-icon_white.ai" target="_blank"><button class="btn-outline mb-1">.AI</button></a>
+                                    <a href="assets/images/brand-assets/xdc-icon_white.eps" target="_blank"><button class="btn-outline mb-1">.EPS</button></a>
+                                    <a href="assets/images/brand-assets/xdc-icon_white.svg" target="_blank"><button class="btn-outline mb-1">.SVG</button></a>
+									<a href="assets/images/brand-assets/xdc-icon_white.png" target="_blank"><button class="btn-outline mb-1">.PNG</button></a>
+	    						</div>
+                            </div>
+                        </div>
+                        
+                        <hr class="light">
+                        
+                        <div class="row mt-5">
+                        	<div class="col-md-6 mb-2">
+                            	<div class="brand-assets-logo-border">
                            	    	<img src="assets/images/brand-assets/xinfin-primary-logo-light-background.png" class="img-responsive"/>
                                 </div>
                                 <h1>XinFin Primary Logotype</h1>
                                 <p>Use this whenever possible on a white background.</p>
                                 <div class="btn-block">
-        							<a href="assets/images/brand-assets/xinfin-primary-logo-light-background.eps" target="_blank"><button class="btn-blue mb-1">EPS</button></a>
-									<a href="assets/images/brand-assets/xinfin-primary-logo-light-background.png" target="_blank"><button class="btn-outline mb-1">PNG</button></a>
+        							<a href="assets/images/brand-assets/xinfin-primary-logo-light-background.eps" target="_blank"><button class="btn-outline mb-1">.EPS</button></a>
+									<a href="assets/images/brand-assets/xinfin-primary-logo-light-background.png" target="_blank"><button class="btn-outline mb-1">.PNG</button></a>
 	    						</div>
                             </div>
                             
@@ -53,34 +115,8 @@ include('inc/header.php') ?>
                                 <h1>XinFin Primary Logotype</h1>
                                 <p>Use this whenever possible on a dark background.</p>
                                 <div class="btn-block">
-        							<a href="assets/images/brand-assets/xinfin-primary-logo-dark-background.eps" target="_blank"><button class="btn-blue mb-1">EPS</button></a>
-									<a href="assets/images/brand-assets/xinfin-primary-logo-dark-background.png" target="_blank"><button class="btn-outline mb-1">PNG</button></a>
-	    						</div>
-                            </div>
-                        </div>
-                        
-                       <div class="row">
-                        	<div class="col-md-6 mb-2">
-                            	<div class="brand-assets-logo-border">
-                           	    	<img src="assets/images/brand-assets/xdc-logo.png" class="img-responsive"/>
-                                </div>
-                                <h1>XDC Primary Logotype</h1>
-                                <p>Use this whenever possible on a white background.</p>
-                                <div class="btn-block">
-        							<a href="assets/images/brand-assets/xdc-logo.eps" target="_blank"><button class="btn-blue mb-1">EPS</button></a>
-									<a href="assets/images/brand-assets/xdc-logo.png" target="_blank"><button class="btn-outline mb-1">PNG</button></a>
-	    						</div>
-                            </div>
-                            
-                            <div class="col-md-6 mb-2">
-                            	<div class="brand-assets-logo-border">
-                           	    	<img src="assets/images/brand-assets/xdc-icon.png" class="img-responsive"/>
-                                </div>
-                                <h1>XDC Icon</h1>
-                                <p>Use in UI with limited space on a white background.</p>
-                                <div class="btn-block">
-        							<a href="assets/images/brand-assets/xdc-icon.eps" target="_blank"><button class="btn-blue mb-1">EPS</button></a>
-									<a href="assets/images/brand-assets/xdc-icon.png" target="_blank"><button class="btn-outline mb-1">PNG</button></a>
+        							<a href="assets/images/brand-assets/xinfin-primary-logo-dark-background.eps" target="_blank"><button class="btn-outline mb-1">.EPS</button></a>
+									<a href="assets/images/brand-assets/xinfin-primary-logo-dark-background.png" target="_blank"><button class="btn-outline mb-1">.PNG</button></a>
 	    						</div>
                             </div>
                         </div>
@@ -94,21 +130,21 @@ include('inc/header.php') ?>
                             	<div class="promotional-assets-border">
                            	    	<img src="assets/images/brand-assets/standee.jpg" class="img-responsive"/>
                                 </div>
-                                <h1>Standee <span style="float:right;"><a href="assets/images/brand-assets/standee-900x2000mm.pdf" target="_blank"><button class="btn-blue mb-1">PDF</button></a></span></h1>
+                                <h1>Standee <span style="float:right;"><a href="assets/images/brand-assets/standee-900x2000mm.pdf" target="_blank"><button class="btn-blue mb-1">.PDF</button></a></span></h1>
                             </div>
                             
                             <div class="col-md-4 mb-2">
                             	<div class="promotional-assets-border">
                            	    	<img src="assets/images/brand-assets/flyers.jpg" class="img-responsive"/>
                                 </div>
-                                <h1>Flyers <span style="float:right;"><a href="assets/images/brand-assets/flyers.pdf" target="_blank"><button class="btn-blue mb-1">PDF</button></a></span></h1>
+                                <h1>Flyers <span style="float:right;"><a href="assets/images/brand-assets/flyers.pdf" target="_blank"><button class="btn-blue mb-1">.PDF</button></a></span></h1>
                             </div>
                             
                             <div class="col-md-4 mb-2">
                             	<div class="promotional-assets-border">
                            	    	<img src="assets/images/brand-assets/stickers.jpg" class="img-responsive"/>
                                 </div>
-                                <h1>Stickers <span style="float:right;"><a href="assets/images/brand-assets/stickers.pdf" target="_blank"><button class="btn-blue mb-1">PDF</button></a></span></h1>
+                                <h1>Stickers <span style="float:right;"><a href="assets/images/brand-assets/stickers.pdf" target="_blank"><button class="btn-blue mb-1">.PDF</button></a></span></h1>
                             </div>
                         </div>
                         
