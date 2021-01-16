@@ -193,8 +193,11 @@ include('inc/header.php') ?>
                             <p class="text-muted">Deploy Solidity Contract on XinFin MainNet and get rewards.</p>
                         </div>
                         <div class="btn-block mb-1">
-                            <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
-                            <a href="https://docs.google.com/forms/d/1qU9Oel-JgUskpZg8SSo2qDi7NvjhvsTy9p5G8a_9b3o" target="_blank">
+                            <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status finished pull-right">RUNNING</span></div>
+                            <!--<a href="https://docs.google.com/forms/d/1qU9Oel-JgUskpZg8SSo2qDi7NvjhvsTy9p5G8a_9b3o" target="_blank">
+                                <button class="btn-hover color-1">Apply</button>
+                            </a>-->
+                            <a href="#" class="disabled">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
                             <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-4">Detailed Rules</button>
@@ -672,7 +675,7 @@ include('inc/header.php') ?>
                                 </ul>
                                 <p class="mt-3">This bounty is valid till <strong>31 August 2020</strong>.</p>
                                 <div class="btn-block mt-3 mb-1">
-                                    <a href="https://docs.google.com/forms/d/1qU9Oel-JgUskpZg8SSo2qDi7NvjhvsTy9p5G8a_9b3o" target="_blank">
+                                    <a href="#" class="disabled">
                                         <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>
                                     </a>
                                 </div>
