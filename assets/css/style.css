@@ -1379,6 +1379,7 @@ button.btn-outline-default .fa{margin-right:5px;}
 .bounty-box .content p {font-size:14px;line-height:20px;min-height:165px;margin-bottom:15px;}
 .bounty-box .btn-block {padding: 0px 15px;justify-content: space-around;width: 100%;  position: absolute;right: 0;bottom: 5px;left: 0;}
 .bounty-box .btn-block .btn-hover {padding: 8px 0px;flex-grow: 1;width:49.2%;margin: 0px;}
+.btn-block.no-width {width: inherit;}
 
 /*.bounty-box .content .progress-labels {border-top:1px dashed #e3e7ed;border-bottom:1px dashed #e3e7ed;padding:8px;margin-bottom:15px;background:rgba(249, 250, 252, 0.5);}
 .bounty-box .content .progress-labels .timer{font-size:12px;color:#a2a2a2;font-weight:600;}

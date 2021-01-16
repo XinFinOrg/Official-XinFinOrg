@@ -24,13 +24,33 @@ include('inc/header.php') ?>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
                     <div class="bounty-box">
                         <div class="image-container">
+                            <img class="img-responsive" src="assets/images/bounty/introduction-distribution-bounty.jpg" alt="Special Projects Bounty">
+                        </div>
+                        <div class="content">
+                            <h3>Introduction/Distribution Bounty</h3>
+                            <h4 class="highlight small">Up to 10% of the bounty distribution</h4>
+                            <p class="text-muted">Are you a XinFin (XDC) Network community member looking to introduce the bounties to the right institutions?</p>
+							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>-->
+                        </div>
+                        <div class="btn-block mb-1">
+                            <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
+                            <a href="https://docs.google.com/forms/d/1J3Vpfv3ocVoiyZ7S9doPPOp84zPYJ_KzuSV0KCGvuJQ" target="_blank">
+                                <button class="btn-hover color-1">Apply</button>
+                            </a>
+                            <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1f">Detailed Rules</button>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
+                    <div class="bounty-box">
+                        <div class="image-container">
                             <img class="img-responsive" src="assets/images/bounty/special-projects-bounty.jpg" alt="Special Projects Bounty">
                         </div>
                         <div class="content">
                             <h3>Special Projects Bounty</h3>
                             <h4 class="highlight small">Up to 200% of the project fees</h4>
                             <p class="text-muted">Are you a software development company working with Government, Central Banks, or Fortune 500 institutions?</p>
-							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>-->
                         </div>
                         <div class="btn-block mb-1">
                             <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
@@ -50,8 +70,7 @@ include('inc/header.php') ?>
                         <div class="content">
                             <h3>Jurisdiction specific Legal Opinion Fees Bounty</h3>
                             <h4 class="highlight small">Up to 140% of the legal opinion fees in your jurisdiction</h4>
-                            <p class="text-muted">If you are a financial institution/Fintech or enterprise looking to work with $XDC to ...</p>
-							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>-->
+                            <p class="text-muted">If you are a financial institution/Fintech or enterprise looking to work with XDC to ...</p>
                         </div>
                         <div class="btn-block mb-1">
                             <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
@@ -72,7 +91,6 @@ include('inc/header.php') ?>
                             <h3>Pre-Approved Bounty<br /></h3>
                             <h4 class="highlight small">Up To 140% XDC of cost incurred</h4>
                             <p class="text-muted">Apply for any wallet, Custodian or Exchange integration or Building dapps on XDC Blockchain Network.</p>
-							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>-->
                         </div>
                         <div class="btn-block mb-1">
                             <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
@@ -93,7 +111,6 @@ include('inc/header.php') ?>
                             <h3>Crypto Custodian Integration Fees Bounty</h3>
                             <h4 class="highlight small">Up to 140% of the crypto custodian Technical Integration Fees</h4>
                             <p class="text-muted">Want to see XDC listed on your favourite Cryptocurrency asset custodian?</p>
-							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>-->
                         </div>
                         <div class="btn-block mb-1">
                             <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
@@ -114,7 +131,6 @@ include('inc/header.php') ?>
                             <h3>Hardware/Software Wallet Integration Fees Bounty</h3>
                             <h4 class="highlight small">Up to 140% of the hardware/software wallet Technical Integration Fees</h4>
                             <p class="text-muted">Want to see XDC listed on your favourite hardware/software wallet?</p>
-							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>-->
                         </div>
                         <div class="btn-block mb-1">
                             <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
@@ -135,7 +151,6 @@ include('inc/header.php') ?>
                             <h3>Exchange Integration Fees Bounty</h3>
                             <h4 class="highlight small">Up to 140% of the Exchange Technical Integration Fees</h4>
                             <p class="text-muted">Want to see XDC listed on your favourite Digital Asset Exchange?</p>
-							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>-->
                         </div>
                         <div class="btn-block mb-1">
                             <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
@@ -156,7 +171,6 @@ include('inc/header.php') ?>
                             <h3>Developers Bounty for Swap between XDC ETH/ERC20 Coins</h3>
                             <h4 class="highlight">Up to 1 Million XDC</h4>
                             <p class="text-muted">Develop a real-time decentralized swap between XDC and ETH or any ERC20 coins.</p>
-							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>-->
                         </div>
                         <div class="btn-block mb-1">
                             <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
@@ -177,7 +191,6 @@ include('inc/header.php') ?>
                             <h3>Deploy Solidity Contract on XinFin MainNet (DSCXM Bounty)</h3>
                             <h4 class="highlight">Up to 10,000 USD worth XDC</h4>
                             <p class="text-muted">Deploy Solidity Contract on XinFin MainNet and get rewards.</p>
-							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>-->
                         </div>
                         <div class="btn-block mb-1">
                             <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
@@ -198,7 +211,6 @@ include('inc/header.php') ?>
                             <h3>XinFin Android Wallet Bug Bounty</h3>
                             <h4 class="highlight">Up to 200 USD worth XDC</h4>
                             <p class="text-muted">Explore vulnerabilities in XinFin Android Wallet and get rewards.</p>
-							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>-->
                         </div>
                         <div class="btn-block mb-1">
                             <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
@@ -219,7 +231,6 @@ include('inc/header.php') ?>
                             <h3>Bug Bounty Program for testing XinFin Extension Wallet: XinPay</h3>
                             <h4 class="highlight">Up to 200 USD worth XDC</h4>
                             <p class="text-muted">Test XinPay for any errors, bugs on XinFin TestNet and provide ideas to enhance eWallet.</p>
-							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>-->
                         </div>
                         <div class="btn-block mb-1">
                             <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
@@ -240,7 +251,6 @@ include('inc/header.php') ?>
                             <h3>Masternode Bounty Program: For hosting Masternode</h3>
                             <h4 class="highlight">Up to 900 USD worth XDC</h4>
                             <p class="text-muted">Host Masternode and get incentives as well as a special bonus bounty.</p>
-							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status finished pull-right">FINISHED</span></div>-->
                         </div>
                         <div class="btn-block mb-1">
                             <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status finished pull-right">FINISHED</span></div>
@@ -261,7 +271,6 @@ include('inc/header.php') ?>
                             <h3>Masternode Luck User Bounty: To set-up Masternode</h3>
                             <h4 class="highlight">Up to 2,000,000 XDC</h4>
                             <p class="text-muted">Set-up a Masternode using the one-click installer guide.</p>
-							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status finished pull-right">FINISHED</span></div>-->
                         </div>
                         <div class="btn-block mb-1">
                             <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status finished pull-right">FINISHED</span></div>
@@ -282,7 +291,6 @@ include('inc/header.php') ?>
                             <h3>XinFin Memes Campaign (Bounty on Memes)</h3>
                             <h4 class="highlight">Up to 5,000 XDC</h4>
                             <p class="text-muted">Participate in XinFin Memes Bounty and get rewards.</p>
-							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status finished pull-right">FINISHED</span></div>-->
                         </div>
                         <div class="btn-block mb-1">
                             <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status finished pull-right">FINISHED</span></div>
@@ -308,6 +316,42 @@ include('inc/header.php') ?>
             
             
             
+            <!-- Modal 1f -->
+            <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-1f" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered bounty-modal" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                            <h3 class="modal-title" id="exampleModalCenterTitle">Introduction/Distribution Bounty</h3>
+                        </div>
+                        <div class="modal-body">
+                            <div class="bounty">
+                                <p>Are you a XinFin (XDC) Network community member looking to introduce the bounties to the right institutions? If you introduce the bounties to eligible institutions and get pre-approval or qualify for successful distribution of the bounties to the institutions, you will get 10% of the bounty distributed.</p>
+                                <p class="sub-header-small mb-2">Rules:</p>
+                                <div class="orderList">
+                                    <ol>
+                                        <li>The introduction and potential distribution partner should be pre-approved.</li>
+                                        <li>The institution should be strategic in expanding the adoption of XDC Network.</li>
+                                        <li>Include <a href="mailto:info@xinfin.org">info@xinfin.org</a> in your communication with the partners</li>
+                                        <li>XDC Governance Committee reserves the right to accept or reject bounty distribution.</li>
+                                    </ol>
+                                </div>
+                                <p class="text-small">e.g. If you introduce an institution that is willing to take up legal opinion and listing of XDC in an exchange by paying for technical integration fees, then the institution gets up to 140% reimbursement on the fees and the one who introduces the institution will get 10% of the entire bounty distributed. E.g. the institution that you introduced paid USD 50,000 for technical integration + legal fees, then they get USD 70,000 worth XDC and you get USD 7000 worth XDC.</p>
+                                <div class="btn-block mt-3 mb-1">
+                                    <a href="https://docs.google.com/forms/d/1J3Vpfv3ocVoiyZ7S9doPPOp84zPYJ_KzuSV0KCGvuJQ" target="_blank">
+                                        <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="modal-footer"></div>
+                    </div>
+                </div>
+            </div>
+            <!-- /. Modal 1f -->
+            
+            
+            
             <!-- Modal 1e -->
             <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-1e" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered bounty-modal" role="document">
@@ -318,7 +362,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="modal-body">
                             <div class="bounty">
-                                <p>Are you a software development company working with Government, Central Banks, or Fortune 500 institutions? If you choose to build your solution on XDC Network & qualify for a special project then you can secure up to 200% reimbursement on your project fees in XDC. i.e. if you incur a cost of USD 25,000 for the project working with Central banks, Governments, or Fortune 500 companies, then your bounty will be up to USD 50,000 equivalent to XDC as per market rate.</p>
+                                <p>Are you a software development company working with Government, Central Banks, or Fortune 500 institutions? If you choose to build your solution on XDC Network & qualify for a special project then you can secure up to 200% reimbursement on your project fees in XDC. I.e. if you incur a cost of USD 25,000 for the project working with Central banks, Governments, or Fortune 500 companies, then your bounty will be up to USD 50,000 equivalent to XDC as per market rate.</p>
                                 <p class="sub-header-small mb-2">Rules:</p>
                                 <div class="orderList">
                                     <ol>
@@ -332,7 +376,7 @@ include('inc/header.php') ?>
                                 </div>
                                 <div class="btn-block mt-3 mb-1">
                                     <a href="https://docs.google.com/forms/d/1EKm-XCPCin-3oPF00Y7aWkSL4JrxDWcFcNBidU_NkoA" target="_blank">
-                                        <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
+                                        <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>
                                     </a>
                                 </div>
                             </div>
@@ -356,7 +400,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="modal-body">
                             <div class="bounty">
-                                <p>If you are a financial institution/Fintech or enterprise looking to work with $XDC to use it's liquidity or pay platform utility fees, and are looking for legal clarity on the classification of $XDC token? If you are willing to pay for legal/law firm fees before integration with $XDC network, then you will get upto 140% of the legal costs incurred reimbursed in XDC. I.e. if you incur a cost of USD 10,000 for legal opinion with a law firm in a specific jurisdiction, then your bounty will be upto USD 14,000 equivalent XDC as per market rate.</p>
+                                <p>If you are a financial institution/Fintech or enterprise looking to work with XDC to use its liquidity or pay platform utility fees and are looking for legal clarity on the classification of XDC token? If you are willing to pay for legal/law firm fees before integration with the XDC network, then you will get up to 140% of the legal costs incurred reimbursed in XDC. I.e. if you incur a cost of USD 10,000 for legal opinion with a law firm in a specific jurisdiction, then your bounty will be up to USD 14,000 equivalent XDC as per market rate.</p>
                                 <p class="sub-header-small mb-2">Rules:</p>
                                 <div class="orderList">
                                     <ol>
@@ -369,7 +413,7 @@ include('inc/header.php') ?>
                                 </div>
                                 <div class="btn-block mt-3 mb-1">
                                     <a href="https://docs.google.com/forms/d/1b8PSanZ2amQwNRe1E6FrF5JMtchhuI422rIGGxskj80" target="_blank">
-                                        <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
+                                        <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>
                                     </a>
                                 </div>
                             </div>
@@ -397,7 +441,7 @@ include('inc/header.php') ?>
                                 <p>Bounty subject to approval by governance community.</p>
                                 <div class="btn-block mt-3 mb-1">
                                     <a href="https://docs.google.com/forms/d/e/1FAIpQLScTlg-U-AfYsycWnB5b5clpAOybBkerR4ZlkoM2nBQoNynzPQ/viewform" target="_blank">
-                                        <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
+                                        <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>
                                     </a>
                                 </div>
                             </div>
@@ -420,7 +464,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="modal-body">
                             <div class="bounty">
-                                <p>Want to see XDC listed on your favourite Cryptocurrency asset custodian? If you are willing to pay for technical integration fee for the custodian, then you will get upto 140% of the tech integration fees in XDC. I.e. if you incur a cost of USD 20,000 for technical integration with a crypto exchange, then your bounty will be upto USD 28,000 equivalent XDC as per market rate.</p>
+                                <p>Want to see XDC listed on your favorite Cryptocurrency asset custodian? If you are willing to pay for technical integration fee for the custodian, then you will get upto 140% of the tech integration fees in XDC. I.e. if you incur a cost of USD 20,000 for technical integration with a crypto exchange, then your bounty will be upto USD 28,000 equivalent XDC as per market rate.</p>
                                 <p class="sub-header-small mb-2">Rules:</p>
                                 <div class="orderList">
                                     <ol>
@@ -433,7 +477,7 @@ include('inc/header.php') ?>
                                 </div>
                                 <div class="btn-block mt-3 mb-1">
                                     <a href="https://docs.google.com/forms/d/1UD_tFroa3HBFv9WAPddTO9WXg00KKEvrRpXgGnbz-Ug" target="_blank">
-                                        <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
+                                        <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>
                                     </a>
                                 </div>
                             </div>
@@ -456,7 +500,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="modal-body">
                             <div class="bounty">
-                                <p>Want to see XDC listed on your favourite hardware/software wallet? If you are willing to pay for technical integration fee for the wallet, then you will get upto 140% of the tech integration fees in XDC. I.e. if you incur a cost of USD 20,000 for technical integration with a crypto exchange, then your bounty will be upto USD 28,000 equivalent XDC as per market rate.</p>
+                                <p>Want to see XDC listed on your favorite hardware/software wallet? If you are willing to pay for technical integration fee for the wallet, then you will get up to 140% of the tech integration fees in XDC. I.e. if you incur a cost of USD 20,000 for technical integration with a crypto exchange, then your bounty will be up to USD 28,000 equivalent XDC as per market rate.</p>
                                 <p class="sub-header-small mb-2">Rules:</p>
                                 <div class="orderList">
                                     <ol>
@@ -469,7 +513,7 @@ include('inc/header.php') ?>
                                 </div>
                                 <div class="btn-block mt-3 mb-1">
                                     <a href="https://docs.google.com/forms/d/15qhx0EdAr6vfVDZCSg5dCRGr9nsVc_BQIzLHt8M0Yio" target="_blank">
-                                        <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
+                                        <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>
                                     </a>
                                 </div>
                             </div>
@@ -492,7 +536,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="modal-body">
                             <div class="bounty">
-                                <p>Want to see XDC listed on your favourite Digital Asset Exchange? If you are willing to pay for technical integration fee for an exchange, then you will get upto 140% of the tech integration fees in XDC. I.e. if you incur a cost of USD 50,000 for technical integration with a crypto exchange, then your bounty will be upto USD 70,000 equivalent XDC as per market rate.</p>
+                                <p>Want to see XDC listed on your favorite Digital Asset Exchange? If you are willing to pay for technical integration fee for an exchange, then you will get up to 140% of the tech integration fees in XDC. I.e. if you incur a cost of USD 50,000 for technical integration with a crypto exchange, then your bounty will be up to USD 70,000 equivalent XDC as per market rate.</p>
                                 <p class="sub-header-small mb-2">Rules:</p>
                                 <div class="orderList">
                                     <ol>
@@ -505,7 +549,7 @@ include('inc/header.php') ?>
                                 </div>
                                 <div class="btn-block mt-3 mb-1">
                                     <a href="https://docs.google.com/forms/d/1uTpIOmjc35b_KKpzXGDoEkcNdTBpe8ON7d7kUEi3pF0" target="_blank">
-                                        <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
+                                        <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>
                                     </a>
                                 </div>
                             </div>
@@ -538,13 +582,13 @@ include('inc/header.php') ?>
                                 </div>
                                 <div class="btn-block mt-3 mb-1">
                                     <a href="https://docs.google.com/forms/d/e/1FAIpQLScTlg-U-AfYsycWnB5b5clpAOybBkerR4ZlkoM2nBQoNynzPQ/viewform" target="_blank">
-                                        <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
+                                        <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>
                                     </a>
                                 </div>
                                 <!--<p class="mt-3">This bounty is valid till <strong>22 August 2020</strong>.</p>
                                 <div class="btn-block mt-3 mb-1">
                                     <a href="#" class="disabled">
-                                        <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
+                                        <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>
                                     </a>
                                 </div>-->
                             </div>
@@ -565,7 +609,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="modal-body">
                             <div class="bounty">
-                                <p>To support the innovation of Community, XinFin Plans to run memes bounty. Meme needs to be informative and attractive. The memes getting the maximum number of like share and retweets will be awarded XDC. Every participant needs to fill the bounty form to claim their rewards. Only the top 10 users will receive 5000 XDC each.</p>
+                                <p>To support the innovation of the Community, XinFin Plans to run memes bounty. Meme needs to be informative and attractive. The memes getting the maximum number of likes, shares, and retweets will be awarded XDC. Every participant needs to fill the bounty form to claim their rewards. Only the top 10 users will receive 5000 XDC each.</p>
                                 <p class="sub-header-small mb-2">Bounty Terms:</p>
                                 <div class="orderList">
                                     <ol>
@@ -585,7 +629,7 @@ include('inc/header.php') ?>
                                 <p class="mt-3">This bounty is valid till <strong>30 June 2020</strong>.</p>
                                 <div class="btn-block mt-3 mb-1">
                                     <a href="#" class="disabled">
-                                        <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
+                                        <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>
                                     </a>
                                 </div>
                             </div>
@@ -629,7 +673,7 @@ include('inc/header.php') ?>
                                 <p class="mt-3">This bounty is valid till <strong>31 August 2020</strong>.</p>
                                 <div class="btn-block mt-3 mb-1">
                                     <a href="https://docs.google.com/forms/d/1qU9Oel-JgUskpZg8SSo2qDi7NvjhvsTy9p5G8a_9b3o" target="_blank">
-                                        <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
+                                        <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>
                                     </a>
                                 </div>
                             </div>
@@ -702,7 +746,7 @@ include('inc/header.php') ?>
                                 <!--<p>Above bounties ends on <strong>30 May 2020</strong>.</p>-->
                                 <div class="btn-block mt-3 mb-1">
                                     <a href="https://docs.google.com/forms/d/1api3woqg6oY4Lk7sRL2fnaBj8etfB-XF6fZNKLU6zFo" target="_blank">
-                                        <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
+                                        <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>
                                     </a>
                                 </div>
                             </div>
@@ -791,7 +835,7 @@ include('inc/header.php') ?>
                                 <!--<p>Above bounties ends on <strong>31 March 2020</strong>.</p>-->
                                 <div class="btn-block mt-3 mb-1">
                                     <a href="https://docs.google.com/forms/d/1SklUqUFpncyj2GqYT48qR6sgC3jYMkvuCBy_UVDLovw" target="_blank">
-                                        <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
+                                        <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>
                                     </a>
                                 </div>
                             </div>
@@ -816,7 +860,7 @@ include('inc/header.php') ?>
                                 <p>Fill the <a href="#" class="disabled">Google form</a> to claim your bounty.</p>
                                 <div class="btn-block mt-3 mb-1">
                                     <a href="#" class="disabled">
-                                        <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
+                                        <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>
                                     </a>
                                 </div>
                             </div>
@@ -837,7 +881,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="modal-body">
                             <div class="bounty">
-                                <p>XinFin invites you all whether you are a <strong>financial institution, a federal agency a developer or an individual</strong>, you can easily set-up a masternode using the one-click installer guide. XinFin invites its existing as well as new global users to set-up masternode using one-click installer function, and make an impact in the world of decentralized trade and finance. So, <a href="https://medium.com/xinfin/steps-to-setup-masternode-on-xinfin-mainnet-bf66dda3ea1c" target="_blank">Setup Masternode</a> now and be a part of XinFin ecosystem.</p>
+                                <p>XinFin invites you all whether you are a <strong>financial institution, a federal agency a developer, or an individual</strong>, you can easily set-up a masternode using the one-click installer guide. XinFin invites its existing as well as new global users to set-up masternode using a one-click installer function, and make an impact in the world of decentralized trade and finance. So, <a href="https://medium.com/xinfin/steps-to-setup-masternode-on-xinfin-mainnet-bf66dda3ea1c" target="_blank">Setup Masternode</a> now and be a part of XinFin ecosystem.</p>
                                 <p class="sub-header-small mt-3">Airdrop Table</p>
 
                                 <div class="flex-row mt-1 rewards">
@@ -882,7 +926,7 @@ include('inc/header.php') ?>
                                 <p>The Lucky winner will be announced officially by the team in our updates social channels.</p>
                                 <div class="btn-block mt-3 mb-1">
                                     <a href="#" class="disabled">
-                                        <button class="btn-hover color-1 btn-block">Apply For Bounty</button>
+                                        <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>
                                     </a>
                                 </div>
                             </div>
