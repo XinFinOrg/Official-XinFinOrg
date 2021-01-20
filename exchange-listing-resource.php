@@ -47,6 +47,7 @@ include('inc/header.php') ?>
             <p class="link-break-out">Project website: <a href="https://xinfin.org">https://xinfin.org</a></p>
             <p>Token Name: XDC Mainnet</p>
             <p>Token Symbol: XDC</p>
+            <p class="link-break-out">XDC3 SDK: <a href="https://www.npmjs.com/package/xdc3" target="_blank">https://www.npmjs.com/package/xdc3</a></p>
             <p class="link-break-out">Blockchain endpoint: <a href="https://rpc.xinfin.network/" target="_blank">https://rpc.xinfin.network</a></p>
             <p class="link-break-out">Github: <a href="https://github.com/XinFinOrg/XinFin-Node" target="_blank">https://github.com/XinFinOrg/XinFin-Node</a></p>
             <p class="link-break-out">Technical White Paper: <a href="https://www.xinfin.org/docs/whitepaper-tech.pdf" target="_blank">https://www.xinfin.org/docs/whitepaper-tech.pdf</a></p>
