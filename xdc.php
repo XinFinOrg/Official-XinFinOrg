@@ -226,6 +226,39 @@ include('inc/header.php') ?>
                         </div>
 						</div>
                     </div>
+                    
+                    <div class="col-md-10 col-md-offset-1">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 mt-3">
+                                <div class="row guarda-wallet-box">
+                                <div class="col-lg-5 col-md-5 col-sm-6">
+                                    <div>
+                                        <a href="https://dcentwallet.com/MobileApp" target="_blank"><img src="assets/images/exchanges/dcent-wallet/dcent-wallet-logo.png" class="img-fluid"></a>
+                                    </div>
+                                    <p class="text-center mt-0">D'CENT Wallet</p>
+                                </div>
+                                <div class="col-lg-8 col-md-8 col-sm-6">
+                                    <a href="https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet&utm_source=dcent_medium&utm_campaign=xdc_support" target="_blank"><div class="guarda-wallet-ico-box"><img src="assets/images/exchanges/guarda-wallet/android.png" class="img-fluid"></div></a>
+                                    <a href="https://apps.apple.com/kr/app/dcent-hardware-wallet/id1447206611" target="_blank"><div class="guarda-wallet-ico-box"><img src="assets/images/exchanges/guarda-wallet/apple.png" class="img-fluid"></div></a>                        </div>
+                                </div>
+                            </div>
+                            
+                            <div class="col-lg-5 col-md-5 col-md-offset-1 mt-3">
+                                <div class="row guarda-wallet-box">
+                                <div class="col-lg-5 col-md-6 col-sm-6">
+                                    <div>
+                                        <a href="https://dcentwallet.com/products/BiometricWallet" target="_blank"><img src="assets/images/exchanges/dcent-wallet/dcentwallet.png" class="img-fluid"></a>
+                                    </div>                            
+                                </div>
+                                <div class="col-lg-7 col-md-6 col-sm-6">
+                                    <a href="https://dcentwallet.com/products/BiometricWallet" target="_blank"><div class="guarda-wallet-ico-box"><b>D'CENT Hardware Wallet</b></div></a>
+        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
                     <div class="clearfix"></div>
                     <div class="sh-divider-line doubble light margin"></div>
                     <div class="col-md-12">

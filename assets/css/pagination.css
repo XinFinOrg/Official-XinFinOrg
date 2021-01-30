@@ -244,9 +244,9 @@
 
 @media screen and (min-width:320px) and (max-width: 991px)
 {
-	.tab-content .row {
+	/*.tab-content .row {
 	    padding-bottom: 0px;
-	}
+	}*/
 	.slides_content p.date {
     	margin-bottom: 30px;
 	}
