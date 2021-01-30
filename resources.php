@@ -62,9 +62,9 @@ include('inc/header.php') ?>
       <p>The XinFin Explorer is an explorer for XDC tokens and brings you a synopsis of recent XDC transactions.</p>
       <a href="https://explorer.xinfin.network/home" target="_blank"><button class="btn-hover color-1 mb-1">XinFin Explorer</button></a>
       
-      <p class="header mb-2">XDCe Explorer (ERC20)</p>
+      <!--<p class="header mb-2">XDCe Explorer (ERC20)</p>
       <p>XDCe Explorer gives you a summary of total supply, price, holders and transfers of the XDCE token. The ERC-20 Token Tracker also allows you to look at recent XinFin XDCE Token transactions.</p>
-      <a href="https://etherscan.io/token/0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2?a=" target="_blank"><button class="btn-hover color-3 mb-1">XDCe Explorer (ERC20)</button></a>
+      <a href="https://etherscan.io/token/0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2?a=" target="_blank"><button class="btn-hover color-3 mb-1">XDCe Explorer (ERC20)</button></a>-->
 	  
 	  <p class="header mb-2">XDC Chain Network Tools and Documents</p>
       <p>Download tools and Documentation resource.</p>
