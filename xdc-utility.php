@@ -29,6 +29,20 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/globiance-logo.jpg" alt="globiance.com">
+            </div>
+            <h3>Globiance stable coins <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://globiance.com/stable-coins/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            </div>
+            <p class="mb-3">Starting with SGDG and EURG, Globiance plans to add more stable coins like GBPG, HKDG, CNYG, JPYG, USDG, and KRWG in the near future. Globiance will cater to all major European, Asian, African, and American currencies, to provide native currency payments and trading to clients globally. SGDG and EURG are stable coins pegged to the Singapore Dollar and Euro, convertible at a 1:1 rate. It is issued on XinFin's XDC blockchains to leverage the speed, near-zero gas fees, and 2 seconds transaction time.</p>
+            <p class="date">The stable coins are fully compliant with KYC/AML and CFT regulations. Every user will be required to pass Globiance KYC/AML checks before starting to trade.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/xceltrip-logo.jpg" alt="xceltrip.com">
             </div>
             <h3>XcelTrip <span>Livenet</span></h3>
@@ -37,8 +51,6 @@ include('inc/header.php') ?>
             </div>
             <p class="mb-3">XcelTrip is a next-gen, blockchain-based, and decentralized solution, designed with the intent to disrupt the trillion-dollar travel industry. Alongside an expanding partner base of over 1.5 million hotels and 400 airline companies, the platform strives to democratize use-cases within the blockchain and cryptocurrency domain.</p>
             <p class="date">Leveraging the platform's web, android, and iOS applications, XcelTrip users can pay for their travel needs using Bitcoin, Ethereum, etc., and is now integrated the XDC token.</p>
-            
-            
         </div>
     </div>
     
