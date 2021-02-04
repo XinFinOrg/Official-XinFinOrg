@@ -69,7 +69,7 @@ include('inc/header.php') ?>
             	<a href="https://apidocs.xinfin.network/docs/#xinfin-apis" target="_blank"><button class="btn-hover color-1"><i class="fa fa-gear"></i> API</button></a>
                 <a href="https://www.youtube.com/watch?v=thR-pTpF7Sw&t=3s" target="_blank"><button class="btn-hover color-3"><i class="fa fa-youtube"></i> Watch Video</button></a>
             </div>
-            <p class="date">MyContract.co allows you to create your own token in a few minutes by just providing basic token details, such as token name, token symbol, token decimals, total supply and token sale limit in an easy to grasp environment. After providing all the details of the token created and buying the package, payable in XDCE tokens ,  the users can easily get the code of their brand new token. MyContract will allow businesses of all sizes to deploy their own smart-contracts and tokens across industries, with working use cases in Supply Chain and Decentralized Credit applications.</p>
+            <p class="date">MyContract.co allows you to create your own token in a few minutes by just providing basic token details, such as token name, token symbol, token decimals, total supply and token sale limit in an easy to grasp environment. After providing all the details of the token created and buying the package, payable in XDC tokens , the users can easily get the code of their brand new token. MyContract will allow businesses of all sizes to deploy their own smart-contracts and tokens across industries, with working use cases in Supply Chain and Decentralized Credit applications.</p>
             <!--<div class="title">Nov 21st 2018</div>-->
         </div>
     </div>
