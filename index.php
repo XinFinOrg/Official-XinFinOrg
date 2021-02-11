@@ -502,18 +502,18 @@ include('inc/header.php') ?>
 					<div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.6s">
                         <a href="https://finance.yahoo.com/news/xinfin-appoints-copper-institutional-crypto-200004056.html" target="_blank"><img src="assets/images/home/media/yahoofinance-logo.png" alt="Yahoo Finance" class="img-responsive margin-auto-lr"></a>
                     </div>
-					<div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
+					<!--<div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
                         <a href="https://blockfolio.com/coin/XDCE" target="_blank"><img src="assets/images/home/media/blockfolio-logo.png" alt="Blockfolio" class="img-responsive margin-auto-lr"></a>
-                    </div>
+                    </div>-->
 					<div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
                         <a href="https://www.techradar.com/news/have-you-heard-of-the-xinfin-hybrid-blockchain-heres-why-you-should-get-involved" target="_blank"><img src="assets/images/home/media/techradar-logo.png" alt="TechRadar" class="img-responsive margin-auto-lr"></a>
                     </div>
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.6s">
                         <a href="https://finance.yahoo.com/news/xinfin-org-launches-first-kind-200000968.html" target="_blank"><img src="assets/images/home/media/yahoofinance-logo.png" alt="Yahoo Finance" class="img-responsive margin-auto-lr"></a>
                     </div>
-                    <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                    <!--<div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.7s">
                         <a href="https://globalcoinreport.com/xinfin-xdce-cryptocurrency-surges/" target="_blank"><img src="assets/images/home/media/globalcoin-logo.png" alt="GlobalCoinReport" class="img-responsive margin-auto-lr"></a>
-                    </div>
+                    </div>-->
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.8s">
                         <a href="https://e27.co/tradefinex-aims-minimise-global-infra-deficit-blockchain-powered-p2p-marketplace-20171219/" target="_blank"><img src="assets/images/home/media/e27-logo.png" alt="e27" class="img-responsive margin-auto-lr"></a>
                     </div>
@@ -529,9 +529,9 @@ include('inc/header.php') ?>
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.2s">
                         <a href="https://icobench.com/thebench-post/21-how-can-stock-exchange-industry-benefit-from-using-blockchain-technology" target="_blank"><img src="assets/images/home/media/icobench-logo.png" alt="ICOBench" class="img-responsive margin-auto-lr"></a>
                     </div>
-                    <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.3s">
+                    <!--<div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.3s">
                         <a href="https://bitcoinist.com/xinfin-ties-up-with-koinok-com-gets-its-utility-token-xdce-listed-on-one-of-indias-top-exchange/" target="_blank"><img src="assets/images/home/media/bitcoinist-logo.png" alt="Bitcoinist" class="img-responsive margin-auto-lr"></a>
-                    </div>
+                    </div>-->
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.4s">
                         <a href="https://news.bitcoin.com/pr-former-head-of-strategy-operations-consulting-at-kpmg-joins-xinfin-platform/" target="_blank"><img src="assets/images/home/media/bitcoincom-logo.png" alt="Bitcoin.com" class="img-responsive margin-auto-lr"></a>
                     </div>
@@ -547,9 +547,9 @@ include('inc/header.php') ?>
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.8s">
                         <a href="https://www.newsbtc.com/2018/06/28/xinfin-opens-its-blockchain-engineering-and-business-development-lab-at-university-of-california/" target="_blank"><img src="assets/images/home/media/newsbtc-logo.png" alt="NewsBTC" class="img-responsive margin-auto-lr"></a>
                     </div>
-                    <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.9s">
+                    <!--<div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.9s">
                         <a href="https://www.cryptassets.com/pg/newsfeeds/rss_source/item/62461/xinfin-network-xdce-makes-a-major-leap-in-the-us-is-china-next" target="_blank"><img src="assets/images/home/media/cryptassets-logo.png" alt="CryptAssets" class="img-responsive margin-auto-lr"></a>
-                    </div>
+                    </div>-->
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="2s">
                         <a href="https://www.entrepreneur.com/article/317193" target="_blank"><img src="assets/images/home/media/entrepreneurindia-logo.png" alt="Entrepreneur" class="img-responsive margin-auto-lr"></a>
                     </div>
