@@ -482,6 +482,9 @@ include('inc/header.php') ?>
             <div style="margin-top:30px;">
                 <div class="row">
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.6s">
+                        <a href="https://newsbit.nl/xinfin-roadmap-voor-2021-wallet-custodian-integratie-xdc-snelle-adoptie/" target="_blank"><img src="assets/images/home/media/newsbit-logo.png" alt="Newsbit" class="img-responsive margin-auto-lr"></a>
+                    </div>
+                    <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.6s">
                         <a href="https://thecurrencyanalytics.com/19326/xinfins-mycontract-co-expands-chainlinks-oracles-beyond-trade-finance/" target="_blank"><img src="assets/images/home/media/the-currency-analytics-logo.png" alt="The Currency Analytics" class="img-responsive margin-auto-lr"></a>
                     </div>
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.6s">
