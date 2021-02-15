@@ -39,38 +39,27 @@ include('inc/header.php') ?>
                         <div class="row" style="margin-top: 0%; padding-bottom: 0px;">
                             <div class="col-md-12 col-sm-12 col-xs-12">
                                 <p class="header mt-0 mb-3">About XinFin Masternode</p>
-                                <p>XinFin's token XDC supplants proof-of-work consensus algorithm (popularly linked with mining) with proof-of-stake consensus algorithm, fundamentally using the concept of "validators".</p>
+                                <p>XinFin's token XDC supplants the proof-of-work consensus algorithm (popularly linked with mining) with a proof-of-stake consensus algorithm, fundamentally using the concept of "validators".</p>
                                 <p>
-                                    Validators are special nodes used in the XDPoS consensus algorithm which validate each transaction occurring on the blockchain network. The result of this validation is to finally append the transaction
-                                    on the blockchain. A transaction may be accepted by the validator or rejected. (<strong>Important:</strong> There can be multiple validator nodes in each network.)
+                                    Validators are special nodes used in the XDPoS consensus algorithm which validate each transaction occurring on the blockchain network. The result of this validation is to finally append the transaction on the blockchain. A transaction may be accepted by the validator or rejected. (<strong>Important:</strong> There can be multiple validator nodes in each network.)
                                 </p>
                                 <p>
-                                    Decisions made by these validator nodes are broadcasted through the network as messages which are signed (attested) using validated cryptographic public key. Every validator node running XDC protocol in
-                                    the RCL network is responsible for deciding its Unique Node List (UNL). This list holds information about which regular nodes does the validator care about.
+                                    Decisions made by these validator nodes are broadcasted through the network as messages which are signed (attested) using a validated cryptographic public key. Every validator node running XDC protocol in the RCL network is responsible for deciding its Unique Node List (UNL). This list holds information about which regular nodes does the validator care about.
                                 </p>
                                 <p>
-                                    <strong>
-                                        To set up a Masternode, make sure your XDC protocol running node is publicly identified and has gone through the compliance process. Every Node Holder need to upload KYC document and this detail will
-                                        be visible to the public network.
-                                    </strong>
+                                    <strong>To set up a Masternode, make sure your XDC protocol running node is publicly identified and has gone through the compliance process. Every Node Holder needs to upload a KYC document and this detail will be visible to the public network.</strong>
                                 </p>
 
                                 <p class="sub-header mb-3">Why set up a Masternode at all?</p>
-                                <p>
-                                    It is necessary to set up a Masternode to operate on XDC protocol because Masternodes make the decentralised blockchain network self-sustainable. Deploying Masternode is conducive to trusted, scalable
-                                    decentralised network infrastructure. Such an environment facilitates greater stability and reliability on the network.
-                                </p>
+                                <p>It is necessary to set up a Masternode to operate on XDC protocol because Masternodes make the decentralized blockchain network self-sustainable. Deploying Masternode is conducive to trusted, scalable decentralized network infrastructure. Such an environment facilitates greater stability and reliability on the network.</p>
 
                                 <p class="sub-header mb-3">Functions of Masternode</p>
-                                <p>
-                                    In XDPoS blockchain environment, Masternode concept is cardinal to the functioning. A Masternode validates each (or segment of transaction depending upon UNL) transaction and is also responsible for
-                                    writing the transaction onto the truth ledger: the blockchain. As a consequence, this makes decentralised governance of the network possible.
-                                </p>
+                                <p>In the XDPoS blockchain environment, the Masternode concept is cardinal to the functioning. A Masternode validates each (or segment of the transaction depending upon UNL) transaction and is also responsible for writing the transaction onto the truth ledger: the blockchain. As a consequence, this makes decentralized governance of the network possible.</p>
 
-                                <p class="sub-header mb-3">Restrictions on nodes which aspire to become Masternodes</p>
-                                <p class="mb-1">Nodes which possess any of the below mentioned characteristics may not qualify to become Masternodes:</p>
+                                <p class="sub-header mb-3">Restrictions on nodes that aspire to become Masternodes</p>
+                                <p class="mb-1">Nodes that possess any of the below-mentioned characteristics may not qualify to become Masternodes:</p>
                                 <ul>
-                                    <li>Anonymous entity on the network.</li>
+                                    <li>An anonymous entity on the network.</li>
                                     <li>Intentions to fork XDC Software.</li>
                                     <li>Entity or Individual with Criminal record in past.</li>
                                     <li>Entity or Individual which does not comply with local law of land.</li>
@@ -80,12 +69,12 @@ include('inc/header.php') ?>
                                 <p class="mb-1">Several reasons why setting up a Masternode is useful are:</p>
                                 <ul class="mb-2">
                                     <li>Reputation building within the network community.</li>
-                                    <li>Trust Factor enhances for your node particularly since network relies on your node.</li>
-                                    <li>More Incentive gain as your node pushes more transactions on network.</li>
-                                    <li>Private blockchain is capable of running its own use case.</li>
+                                    <li>Trust Factor enhances your node particularly since the network relies on your node.</li>
+                                    <li>More Incentive gain as your node pushes more transactions on the network.</li>
+                                    <li>A private blockchain is capable of running its own use case.</li>
                                 </ul>
-                                <p class="mb-1"><strong>Important:</strong> Max number of Master node allowed in the network is 5000.</p>
-                                <p class="mb-1"><strong>Special incentives for 18th validator node:</strong> Information required Depends on No's of Block created by validator node (incentive In terms of XDC)</p>
+                                <p class="mb-1"><strong>Important:</strong> Max number of Master nodes allowed in the network is 5000.</p>
+                                <p class="mb-1"><strong>Special incentives for the 18th validator node:</strong> Information required Depends on No's of Block created by the validator node (incentive In terms of XDC)</p>
                                 <p class="mb-1"><strong>Reward Cycle:</strong> Every Epoch.</p>
                             </div>
                         </div>
@@ -103,7 +92,7 @@ include('inc/header.php') ?>
                                         <li>100% network uptime by IDC network.</li>
                                         <li>Minimum tier 3+ IDC environment.</li>
                                         <li>(Optional, but highly recommended) Virtual Private Server (VPS).</li>
-                                        <li>For cloud based services, Amazon EC2's m3.large VM size would be appropriate. Similar configuration is applicable for Microsoft Azure Cloud network.</li>
+                                        <li>For cloud-based services, Amazon EC2's m3.large VM size would be appropriate. A similar configuration is applicable for the Microsoft Azure Cloud network.</li>
                                     </ol>
                                 </div>
                             </div>
@@ -111,7 +100,8 @@ include('inc/header.php') ?>
                             <div class="col-md-12 col-xs-12 mt-4">
                                 <p class="mb-1"><strong>Troubleshooting</strong></p>
                                 <p>If you are having problems with Setup, the first step is to collect more information to accurately characterize the problem. From there, it can be easier to figure out a root cause and a fix.</p>
-                                <p class="link-break-out">Please drop message with all possible detail and screen shot at Community Support forum: <a href="http://xinfin.Net" target="_blank">http://xinfin.Net</a></p>
+                                <p class="link-break-out">Please drop a message with all possible detail and screenshot at</p>
+                                <p class="link-break-out">Community Support forum: <a href="http://xinfin.Net" target="_blank">http://xinfin.Net</a></p>
                                 <p class="link-break-out">Telegram Community: <a href="https://t.me/XinFinDevelopers" target="_blank">https://t.me/XinFinDevelopers</a></p>
                                 <p class="link-break-out">Slack Community: <a href="https://xinfin-public.slack.com/messages/CELR2M831/" target="_blank">https://xinfin-public.slack.com/messages/CELR2M831/</a></p>
 
@@ -148,7 +138,7 @@ include('inc/header.php') ?>
                                 <p class="header mb-3">Where to operate? MainNet vs TestNet:</p>
                                 <p>In XinFin, there are two networks where you can run XDC protocol: the MainNet and the TestNet.</p>
                                 <p>The MainNet is used to transact real XDC. The XDC's value is tied to real fiat currency via cryptocurrency exchanges.</p>
-                                <p>As developers, you do not want to run application tests with real money. That is what the TestNet is for. We call the TestNet <a href="http://xinfin.network/" target="_blank">XinFin TestNet</a>.</p>
+                                <p>As a developer, you do not want to run application tests with real money. That is what the TestNet is for. We call the TestNet <a href="http://xinfin.network/" target="_blank">XinFin TestNet</a>.</p>
                             </div>
                         </div>
                     </div>
