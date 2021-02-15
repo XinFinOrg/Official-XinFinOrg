@@ -10,8 +10,8 @@ include('inc/header.php') ?>
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12 bannertext">
                 <h1>Guide To Set Up XinFin Master Node</h1>
-                <p class="mb-2">XinFin offers the first and only genuinely one-click Masternode deployment. Our Masternode One-Click Installer has been heralded by many as the easiest solution for setting up a Masternode and earning XDC.</p>
-                <p>You can download the latest 64-bit stable release of XinFin - One Click Installer for our primary platforms below. Packages for all supported platforms, as well as develop builds, can be found further down the page.</p>
+                <p class="mb-2">XinFin offers the first and only genuinely One-Click Masternode deployment. Our Masternode One-Click Installer has been heralded by many as the easiest solution for setting up a Masternode and earning XDC.</p>
+                <p>You can download the latest 64-bit stable release of XinFin One-Click Installer for our primary platforms below. Packages for all supported platforms, as well as development builds, can be found further down the page.</p>
             </div>
         </div>
     </div>
@@ -158,7 +158,7 @@ include('inc/header.php') ?>
                     <div id="network">
                         <div class="row" style="margin-top: 0%; padding-bottom: 0px;">
                             <div class="col-md-12 col-sm-12 col-xs-12">
-                                <p class="header small mb-3">Download XinFin One Click Installer (to setup Masternode) for Windows and Linux</p>
+                                <p class="header small mb-3">Download XinFin One-Click Installer (to setup Masternode) for Windows and Linux</p>
                                 <div class="flex-row">
                                     <div class="col-md-4 col-sm-4 col-xs-12 mb-2">
                                         <div class="configurationsBox text-center">
@@ -337,7 +337,7 @@ include('inc/header.php') ?>
                                     </div>
                                 </div>
 
-                                <p class="header mb-3">Hands on guide: How to Setup Masternode</p>
+                                <p class="header mb-3">Hands-on guide: How to Setup Masternode</p>
                                 <p class="mb-1">There are two methods to choose from to set up the Masternode:</p>
                                 <div class="orderList">
                                     <ol>
@@ -360,7 +360,7 @@ include('inc/header.php') ?>
                                 <p class="mt-3 mb-1"><strong>Step 2: Update .env file with details</strong></p>
                                 <p class="text-left link-break-out">Create <code>.env</code> file by using the sample - <code>.env.example</code></p>
                                 <p class="link-break-out">Enter your node name in the INSTANCE_NAME field.</p>
-                                <p class="link-break-out">Enter your email address in CONTACT_DETAILS field.</p>
+                                <p class="link-break-out">Enter your email address in the CONTACT_DETAILS field.</p>
                                 <pre>cp env.example .env<br />nano .env</pre>
 
                                 <p class="mt-3 mb-1"><strong>Step 3: Start your Node</strong></p>
@@ -370,7 +370,7 @@ include('inc/header.php') ?>
                                     You should be able to see your node listed on this page: <a href="http://xinfin.network" target="_blank">http://xinfin.network</a> Select Menu "Switch to TestNet" for Test Network and Select "Switch to
                                     LiveNet" to check Live Network Stats.
                                 </p>
-                                <p>Your coinbase address can be found in xdcchain/coinbase.txt file.</p>
+                                <p>Your Coinbase address can be found in xdcchain/coinbase.txt file.</p>
 
                                 <p>To stop the node or if you encounter any issues use:</p>
                                 <pre>sudo docker-compose -f docker-services.yml down</pre>
@@ -384,7 +384,7 @@ sudo docker-compose -f docker-services.yml up -d
 
                                 <p class="mb-1"><strong>Troubleshooting</strong></p>
                                 <p>If you are having problems with Setup, the first step is to collect more information to accurately characterize the problem. From there, it can be easier to figure out a root cause and a fix.</p>
-                                <p class="link-break-out">Please drop message with all possible detail and screen shot at Community Support forum: <a href="http://xinfin.Net" target="_blank">http://xinfin.Net</a></p>
+                                <p class="link-break-out">Please drop a message with all possible detail and screenshot at the Community Support forum: <a href="http://xinfin.Net" target="_blank">http://xinfin.Net</a></p>
                                 <p class="link-break-out">Telegram Community: <a href="https://t.me/XinFinDevelopers" target="_blank">https://t.me/XinFinDevelopers</a></p>
                                 <p class="link-break-out">Slack Community: <a href="https://xinfin-public.slack.com/messages/CELR2M831/" target="_blank">https://xinfin-public.slack.com/messages/CELR2M831/</a></p>
 
@@ -395,7 +395,7 @@ sudo docker-compose -f docker-services.yml up -d
                                     Please exercise discretion when using third-party services.
                                 </p>
 
-                                <p class="header mb-3">List of service provider to Setup Masternode</p>
+                                <p class="header mb-3">List of the service provider to Setup Masternode</p>
                                 <div class="orderList mb-3">
                                     <ol>
                                         <li>IndSoft.net</li>
@@ -435,7 +435,7 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-collapse collapse" id="collapseOne" role="tabpanel" aria-labelledby="headingOne">
                                                             <div class="panel-body pxlr-faq-body">
                                                                 <p>
-                                                                    You can set up master on windows server with one click installer or using docker compose file for more details please visit
+                                                                    You can set up master on windows server with one click installer or using docker-compose file for more details please visit
                                                                     <a href="setup-masternode">XinFin Masternode setup page</a>.
                                                                 </p>
                                                             </div>
@@ -452,8 +452,7 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-collapse collapse" id="collapseTwo" role="tabpanel" aria-labelledby="headingTwo">
                                                             <div class="panel-body pxlr-faq-body">
                                                                 <p>
-                                                                    No it's not necessary to run a Masternode on server but we recommended to <strong>host the Masternode</strong> on server. Setting Up Masternode by staking coin gives
-                                                                    opportunity to mint additional coin as validators rewards.
+                                                                    No, it's not necessary to run a Masternode on the server but we recommended hosting <strong>the Masternode</strong> on the server. Setting Up Masternode by staking coin gives the opportunity to mint additional coin as validators rewards.
                                                                 </p>
                                                             </div>
                                                         </div>
@@ -468,7 +467,7 @@ sudo docker-compose -f docker-services.yml up -d
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseThree" role="tabpanel" aria-labelledby="headingThree">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>Yes you can run the <a href="setup-masternode">Masternode</a> on you Local machine but your node must have 100% up time and must have facing direct internet connection.</p>
+                                                                <p>Yes, you can run the <a href="setup-masternode">Masternode</a> on your Local machine but your node must have 100% uptime and must have a facing direct internet connection.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -476,7 +475,7 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingFour" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                                    04) How much Masternode can i run at one time ?
+                                                                    04) How much Masternode can I run at one time?
                                                                 </a>
                                                             </h4>
                                                         </div>
@@ -493,13 +492,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingFive" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                                                    05) Where can i find the XDPos code ?
+                                                                    05) Where can i find the XDPoS code ?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseFive" role="tabpanel" aria-labelledby="headingFive">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>You can find the <strong>XDPos</strong> code on <a href="https://github.com/XinFinOrg/XDPoS-TestNet-Apothem">XinFin github</a>.</p>
+                                                                <p>You can find the <strong>XDPoS</strong> code on <a href="https://github.com/XinFinOrg/XDPoS-TestNet-Apothem">XinFin github</a>.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -507,14 +506,14 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingSix" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                                                                    06) What is the difference between coinbase Address and Masternode owner address ?
+                                                                    06) What is the difference between Coinbase Address and Masternode owner address?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseSix" role="tabpanel" aria-labelledby="headingSix">
                                                             <div class="panel-body pxlr-faq-body">
                                                                 <p>
-                                                                    <strong>Coinbase address</strong> is the <strong>Masternode address</strong> and Masternode owner address is the address of wallet which you have proposed 10 million xdc.
+                                                                    <strong>Coinbase address</strong> is the <strong>Masternode address</strong> and Masternode owner address is the address of wallet which you have proposed 10 million XDC.
                                                                 </p>
                                                             </div>
                                                         </div>
@@ -523,13 +522,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingSeven" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-                                                                    07) On XinFin Network, which address i will receive my rewards ?
+                                                                    07) On XinFin Network, which address i will receive my rewards?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseSeven" role="tabpanel" aria-labelledby="headingSeven">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>The rewards will be received on wallet which is Masternode owner address.</p>
+                                                                <p>The rewards will be received on the wallet which is the Masternode owner's address.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -537,13 +536,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingEight" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-                                                                    08) When are the rewards paid out for hosting XinFin Masternode ?
+                                                                    08) When are the rewards paid out for hosting XinFin Masternode?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseEight" role="tabpanel" aria-labelledby="headingEight">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>Rewards are distributed to Masternode owner after ever epoch.</p>
+                                                                <p>Rewards are distributed to Masternode owner after every epoch.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -551,7 +550,7 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingNine" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-                                                                    09) How many blocks are mine in epoch of XinFin Network ?
+                                                                    09) How many blocks are mined in the epoch of XinFin Network?
                                                                 </a>
                                                             </h4>
                                                         </div>
@@ -565,7 +564,7 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingTen" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
-                                                                    10) how much time it takes to mine for an epoch ?
+                                                                    10) How much time does it take to mine for an epoch?
                                                                 </a>
                                                             </h4>
                                                         </div>
@@ -579,13 +578,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingEleven" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
-                                                                    11) How much rewards are paid to Masternode on XinFin Network ?
+                                                                    11) How many rewards are paid to Masternode on XinFin Network?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseEleven" role="tabpanel" aria-labelledby="headingEleven">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>Rewards for the masternde come approx 10 %pa rewards for running Masternode. If the number of Masternode increases, the rewards will be reduced.</p>
+                                                                <p>Rewards for the Masternode come approx 10 %pa rewards for running Masternode. If the number of Masternode increases, the rewards will be reduced.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -593,13 +592,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingTwelve" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
-                                                                    12) How are the 108 Masternode selected ?
+                                                                    12) How are the 108 Masternode selected?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseTwelve" role="tabpanel" aria-labelledby="headingTwelve">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>108 Masternode are selected randomly with round robin algorithm.</p>
+                                                                <p>108 Masternode are selected randomly with a round-robin algorithm.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -607,13 +606,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingThirteen" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
-                                                                    13) what is the TPS of XinFin network ?
+                                                                    13) What is the TPS of XinFin Network?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseThirteen" role="tabpanel" aria-labelledby="headingThirteen">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>Currently Xinfin network supports 2000+ tps.</p>
+                                                                <p>Currently, the Xinfin Network supports 2000+ tps.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -621,13 +620,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingFourteen" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
-                                                                    14) Is there any TestNet for XinFin Network ?
+                                                                    14) Is there any TestNet for XinFin Network?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseFourteen" role="tabpanel" aria-labelledby="headingFourteen">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>Yes you can find the TestNet at <a href="http://apothem.network">http://apothem.network</a>.</p>
+                                                                <p>Yes, you can find the TestNet at <a href="http://apothem.network">http://apothem.network</a>.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -635,7 +634,7 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingFifteen" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFifteen" aria-expanded="false" aria-controls="collapseFifteen">
-                                                                    15) How much time it takes to mine block on XinFin Network ?
+                                                                    15) How much time does it take to mine block on XinFin Network?
                                                                 </a>
                                                             </h4>
                                                         </div>
@@ -666,19 +665,18 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingSeventeen" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSeventeen" aria-expanded="false" aria-controls="collapseSeventeen">
-                                                                    17) Where can i store xdc ?
+                                                                    17) Where can I store XDC?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseSeventeen" role="tabpanel" aria-labelledby="headingSeventeen">
                                                             <div class="panel-body pxlr-faq-body">
                                                                 <p>
-                                                                    XDC wallet can be stored on <a href="https://wallet.xinfin.network/#/">XinFin web Wallet</a>, XinFin E wallet (
-                                                                    <a href="https://chrome.google.com/webstore/detail/xinpay/bocpokimicclpaiekenaeelehdjllofo?hl=en">XinPay</a>) or
+                                                                    XDC wallet can be stored on <a href="https://wallet.xinfin.network/#/">XinFin web Wallet</a>, XinFin E-wallet (
+                                                                    <a href="https://chrome.google.com/webstore/detail/xinpay/bocpokimicclpaiekenaeelehdjllofo?hl=en">XinPay</a>), or
                                                                     <a href="https://play.google.com/store/apps/details?src=AppAgg.com&amp;id=com.xdcwallet&amp;referrer=utm_source%3DAppAgg.com%26utm_medium%3DAppAgg%26utm_campaign%3DAppAgg">
                                                                         XDC Android Wallet
-                                                                    </a>
-                                                                    .<
+                                                                    </a>.
                                                                 </p>
                                                             </div>
                                                         </div>
@@ -687,13 +685,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingEighteen" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEighteen" aria-expanded="false" aria-controls="collapseEighteen">
-                                                                    18) Is there hardware support for XinFin web wallet ?
+                                                                    18) Is there hardware support for the XinFin web wallet?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseEighteen" role="tabpanel" aria-labelledby="headingEighteen">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>For now XinFin doesn't support hardware wallet but it will support soon.</p>
+                                                                <p>For now, XinFin doesn't support hardware wallets but it will support them soon.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -720,13 +718,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingTwenty" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwenty" aria-expanded="false" aria-controls="collapseTwenty">
-                                                                    20) Can I store my token on Masternode address on XinFin Network ?
+                                                                    20) Can I store my token on the Masternode address on XinFin Network?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseTwenty" role="tabpanel" aria-labelledby="headingTwenty">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>No you can not store your token on Masternode address on XinFin Network.</p>
+                                                                <p>No, you can not store your token on the Masternode address on XinFin Network.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -734,13 +732,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingTwentyone" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwentyone" aria-expanded="false" aria-controls="collapseTwentyone">
-                                                                    21) Is it necessary to take the backup of your coinbase address ?
+                                                                    21) Is it necessary to take the backup of your Coinbase address?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseTwentyone" role="tabpanel" aria-labelledby="headingTwentyone">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>Yes it is necessary to take the backup of your coinbase address.</p>
+                                                                <p>Yes, it is necessary to take the backup of your Coinbase address.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -748,13 +746,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingTwentytwo" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwentytwo" aria-expanded="false" aria-controls="collapseTwentytwo">
-                                                                    22) What will happen if I lost my coinbase address ?
+                                                                    22) What will happen if I lost my Coinbase address?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseTwentytwo" role="tabpanel" aria-labelledby="headingTwentytwo">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>If you lost your coinbase address your node will be down and you need to resign from the Masternode.</p>
+                                                                <p>If you lost your Coinbase address your node will be down and you need to resign from the Masternode.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -762,13 +760,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingTwentythree" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwentythree" aria-expanded="false" aria-controls="collapseTwentythree">
-                                                                    23) What will happen if i lost my keystore of wallet ?
+                                                                    23) What will happen if I lost my keystore wallet?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseTwentythree" role="tabpanel" aria-labelledby="headingTwentythree">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>All your funds will get lock and you will not be able to receive rewards and your 10 million xdc will also get lost. So its always advisable to backup your keystore.</p>
+                                                                <p>All your funds will get the lock and you will not be able to receive rewards and your 10 million XDC will also get lost. So it's always advisable to backup your Keystore.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -776,13 +774,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingTwentyfour" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwentyfour" aria-expanded="false" aria-controls="collapseTwentyfour">
-                                                                    24) Can team recover my token ?
+                                                                    24) Can the team recover my token?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseTwentyfour" role="tabpanel" aria-labelledby="headingTwentyfour">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>XinFin network is decentralized and no center place to store date so there is no chance to recover your token.</p>
+                                                                <p>XinFin Network is decentralized and no central place to store data so there is no chance to recover your token.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -790,14 +788,14 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingTwentyfive" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwentyfive" aria-expanded="false" aria-controls="collapseTwentyfive">
-                                                                    25) Can I deploy smart contract on XinFin network ?
+                                                                    25) Can I deploy a smart contract on the XinFin Network?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseTwentyfive" role="tabpanel" aria-labelledby="headingTwentyfive">
                                                             <div class="panel-body pxlr-faq-body">
                                                                 <p>
-                                                                    Yes you can deploy your smart contract on xinfin network with
+                                                                    Yes, you can deploy your smart contract on the XinFin Betwork with 
                                                                     <a href="https://medium.com/xinfin/deploy-smart-contract-on-xinfin-testnet-through-xinfin-remix-and-xinpay-dfbbf9dcc3f7">remix or web wallet</a>.
                                                                 </p>
                                                             </div>
@@ -807,13 +805,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingTwentysix" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwentysix" aria-expanded="false" aria-controls="collapseTwentysix">
-                                                                    26) Can I deploy ethereum smart contract on XinFin network ?
+                                                                    26) Can I deploy an ethereum smart contract on XinFin Network?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseTwentysix" role="tabpanel" aria-labelledby="headingTwentysix">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>Yes <strong>XinFin network is Ethereum compatible</strong>, so you can deploy any smart contract on xinfin.network.</p>
+                                                                <p>Yes, <strong>the XinFin Network is Ethereum compatible</strong>, so you can deploy any smart contract on XinFin Network.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -828,8 +826,8 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-collapse collapse" id="collapseTwentyseven" role="tabpanel" aria-labelledby="headingTwentyseven">
                                                             <div class="panel-body pxlr-faq-body">
                                                                 <p>
-                                                                    Yes you can create your own token on XinFin network with Mycontract.<br />
-                                                                    Read :
+                                                                    Yes, you can create your own token on the XinFin Network with MyContract.<br />
+                                                                    Read:
                                                                     <a href="https://medium.com/xinfin/a-step-by-step-guide-to-issue-your-own-token-on-xinfin-network-in-a-few-minutes-b03aeae3be69">
                                                                         How to Deploy own token on XinFin Network
                                                                     </a>
@@ -853,13 +851,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingTwentyeight" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion1" href="#collapseTwentyeight" aria-expanded="false" aria-controls="collapseTwentyeight">
-                                                                    01) What is the recommended way to access your wallet ?
+                                                                    01) What is the recommended way to access your wallet?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseTwentyeight" role="tabpanel" aria-labelledby="headingTwentyeight">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>The recommended way to access wallet is with keystore.</p>
+                                                                <p>The recommended way to access the wallet is with Keystore.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -867,13 +865,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingTwentynine" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion1" href="#collapseTwentynine" aria-expanded="false" aria-controls="collapseTwentynine">
-                                                                    02) Where can i find my Private key ?
+                                                                    02) Where can I find my Private key?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseTwentynine" role="tabpanel" aria-labelledby="headingTwentynine">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>Below your address just click on the print button you will find you private key.</p>
+                                                                <p>Below your address just click on the print button you will find your private key.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -881,13 +879,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingThirty" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion1" href="#collapseThirty" aria-expanded="false" aria-controls="collapseThirty">
-                                                                    03) Does XinFin web wallet supports Hardware wallet ?
+                                                                    03) Does XinFin web wallet support Hardware wallet?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseThirty" role="tabpanel" aria-labelledby="headingThirty">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>For now XinFin doesn't support hardware wallet support but it's under development and it will support soon.</p>
+                                                                <p>For now, XinFin doesn't support hardware wallet support but it's under development and it will support soon.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -909,13 +907,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingThirtytwo" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion1" href="#collapseThirtytwo" aria-expanded="false" aria-controls="collapseThirtytwo">
-                                                                    05) Unable to find my private key when signed up with Mnemonic phase ?
+                                                                    05) Unable to find my private key when signed up with Mnemonic phase?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseThirtytwo" role="tabpanel" aria-labelledby="headingThirtytwo">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>As Mnemonic phase doesn't support private key so you will not get private key.</p>
+                                                                <p>As the Mnemonic phase doesn't support a private key so you will not get a private key.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -923,13 +921,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingThirtythree" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion1" href="#collapseThirtythree" aria-expanded="false" aria-controls="collapseThirtythree">
-                                                                    06) What if I lost my private key and keystore ?
+                                                                    06) What if I lost my private key and keystore?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseThirtythree" role="tabpanel" aria-labelledby="headingThirtythree">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>The recommended way to access wallet is with keystore.</p>
+                                                                <p>The recommended way to access the wallet is with Keystore.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -937,13 +935,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingThirtyfour" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion1" href="#collapseThirtyfour" aria-expanded="false" aria-controls="collapseThirtyfour">
-                                                                    07) Can we deploy contract on Xinfin Network with web wallet ?
+                                                                    07) Can we deploy the contract on XinFin Network with a web wallet?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseThirtyfour" role="tabpanel" aria-labelledby="headingThirtyfour">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>Yes you can deploy your token on xinfin network with web wallet.</p>
+                                                                <p>Yes, you can deploy your token on the XinFin network with a web wallet.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -951,13 +949,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingThirtyfive" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion1" href="#collapseThirtyfive" aria-expanded="false" aria-controls="collapseThirtyfive">
-                                                                    08) Does web wallet supports offline functions ?
+                                                                    08) Does web wallet support offline functions?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseThirtyfive" role="tabpanel" aria-labelledby="headingThirtyfive">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>Yes XinFin web wallet supports offline access.</p>
+                                                                <p>Yes, XinFin web wallet supports offline access.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -965,13 +963,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingThirtysix" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion1" href="#collapseThirtysix" aria-expanded="false" aria-controls="collapseThirtysix">
-                                                                    09) What is the gas price for transaction ?
+                                                                    09) What is the gas price for a transaction?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseThirtysix" role="tabpanel" aria-labelledby="headingThirtysix">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>The default gas price for transaction is 0.00021 XDC.</p>
+                                                                <p>The default gas price for a transaction is 0.00021 XDC.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -979,13 +977,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingThirtyseven" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion1" href="#collapseThirtyseven" aria-expanded="false" aria-controls="collapseThirtyseven">
-                                                                    10) what is the gas price for deploying smart contract on xinfin network ?
+                                                                    10) What is the gas price for deploying a smart contract on the XinFin Network?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseThirtyseven" role="tabpanel" aria-labelledby="headingThirtyseven">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>The default gas price used for deploying Smart Contract on XinFin network is 0.00021 XDC.</p>
+                                                                <p>The default gas price used for deploying Smart Contract on the XinFin network is 0.00021 XDC.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1005,7 +1003,7 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingThirtyeight" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseThirtyeight" aria-expanded="false" aria-controls="collapseThirtyeight">
-                                                                    01) Which account should i used to login Masternode app ?
+                                                                    01) Which account should I use to login Masternode app?
                                                                 </a>
                                                             </h4>
                                                         </div>
@@ -1019,13 +1017,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingThirtynine" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseThirtynine" aria-expanded="false" aria-controls="collapseThirtynine">
-                                                                    02) Is it compulsory to upload kyc ?
+                                                                    02) Is it compulsory to upload KYC?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseThirtynine" role="tabpanel" aria-labelledby="headingThirtynine">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>Yes it is compulsory to upload a kyc.</p>
+                                                                <p>Yes, it is compulsory to upload a KYC.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1033,13 +1031,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingFourty" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseFourty" aria-expanded="false" aria-controls="collapseFourty">
-                                                                    03) In which format do i need to upload kyc ?
+                                                                    03) In which format do I need to upload KYC?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseFourty" role="tabpanel" aria-labelledby="headingFourty">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>It is compulsory to upload kyc in pdf format.</p>
+                                                                <p>It is compulsory to upload KYC in pdf format.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1047,13 +1045,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingFourtyone" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseFourtyone" aria-expanded="false" aria-controls="collapseFourtyone">
-                                                                    04) What is the format for uploading kyc ?
+                                                                    04) What is the format for uploading KYC?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseFourtyone" role="tabpanel" aria-labelledby="headingFourtyone">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>The format for uploading kyc can be found on Masternode app just click on become candidate you will find the format.</p>
+                                                                <p>The format for uploading KYC can be found on the Masternode app just click on a become candidate you will find the format.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1061,7 +1059,7 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingFourtythree" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseFourtythree" aria-expanded="false" aria-controls="collapseFourtythree">
-                                                                    05) What is coinbase address ?
+                                                                    05) What is Coinbase address?
                                                                 </a>
                                                             </h4>
                                                         </div>
@@ -1075,13 +1073,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingFourtyfour" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseFourtyfour" aria-expanded="false" aria-controls="collapseFourtyfour">
-                                                                    06) What if user upload a wrong kyc detail ?
+                                                                    06) What if the user uploads a wrong KYC detail?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseFourtyfour" role="tabpanel" aria-labelledby="headingFourtyfour">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>If user uploads the wrong kyc 10 million xdc token will get locked and hs account will be resigned.</p>
+                                                                <p>If the user uploads the wrong KYC 10 Million XDC token will get locked and his account will be resigned.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1089,7 +1087,7 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingFourtyfive" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseFourtyfive" aria-expanded="false" aria-controls="collapseFourtyfive">
-                                                                    07) After uploading kyc and lock the 10 million xdc how much time it takes to become Masternode ?
+                                                                    07) After uploading KYC and lock the 10 Million XDC how much time it takes to become Masternode?
                                                                 </a>
                                                             </h4>
                                                         </div>
@@ -1103,13 +1101,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingFourtysix" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseFourtysix" aria-expanded="false" aria-controls="collapseFourtysix">
-                                                                    08) How many days it will take if i resign my node ?
+                                                                    08) How many days it will take if I resign my node?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseFourtysix" role="tabpanel" aria-labelledby="headingFourtysix">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>If user resign from Masternode it takes 30 days to get your 10 million XDC.</p>
+                                                                <p>If the user resign from Masternode it takes 30 days to get your 10 Million XDC.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1117,7 +1115,7 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingFourtyseven" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseFourtyseven" aria-expanded="false" aria-controls="collapseFourtyseven">
-                                                                    09) Why i see my node as slashed ?
+                                                                    09) Why do I see my node as slashed?
                                                                 </a>
                                                             </h4>
                                                         </div>
@@ -1131,13 +1129,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingFourtyeight" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseFourtyeight" aria-expanded="false" aria-controls="collapseFourtyeight">
-                                                                    10) My node is now up But it shows me slashed ?
+                                                                    10) My node is now up But it shows me slashed?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseFourtyeight" role="tabpanel" aria-labelledby="headingFourtyeight">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>It will check for 3 epoch and after that you will become a Masternode.</p>
+                                                                <p>It will check for 3 epochs and after that, you will become a Masternode.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1145,13 +1143,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingFourtynine" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseFourtynine" aria-expanded="false" aria-controls="collapseFourtynine">
-                                                                    11) Where can i see the rewards ?
+                                                                    11) Where can I see the rewards?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseFourtynine" role="tabpanel" aria-labelledby="headingFourtynine">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>You can see your rewards on you Masternode owner address or on xinfin explorer.</p>
+                                                                <p>You can see your rewards on your Masternode owner address or XinFin explorer.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1159,13 +1157,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingFifty" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseFifty" aria-expanded="false" aria-controls="collapseFifty">
-                                                                    12) What if i forgot my private key ?
+                                                                    12) What if I forgot my private key?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseFifty" role="tabpanel" aria-labelledby="headingFifty">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>All your tokens will be lock. So we alwas say to back up your private key.</p>
+                                                                <p>All your tokens will be locked. So we always say to back up your private key.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1173,13 +1171,13 @@ sudo docker-compose -f docker-services.yml up -d
                                                         <div class="panel-heading" id="headingFiftyOne" role="tab">
                                                             <h4 class="panel-title">
                                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseFiftyOne" aria-expanded="false" aria-controls="collapseFiftyOne">
-                                                                    13) What is the recommended way to access your wallet ?
+                                                                    13) What is the recommended way to access your wallet?
                                                                 </a>
                                                             </h4>
                                                         </div>
                                                         <div class="panel-collapse collapse" id="collapseFiftyOne" role="tabpanel" aria-labelledby="headingFiftyOne">
                                                             <div class="panel-body pxlr-faq-body">
-                                                                <p>The recommended way to access wallet is with keystore.</p>
+                                                                <p>The recommended way to access the wallet is with Keystore.</p>
                                                             </div>
                                                         </div>
                                                     </div>
