@@ -24,7 +24,7 @@ include('inc/header.php') ?>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
                     <div class="bounty-box">
                         <div class="image-container">
-                            <img class="img-responsive" src="assets/images/bounty/introduction-distribution-bounty.jpg" alt="Special Projects Bounty">
+                            <img class="img-responsive" src="assets/images/bounty/introduction-distribution-bounty.jpg" alt="Introduction/Distribution Bounty">
                         </div>
                         <div class="content">
                             <h3>Introduction/Distribution Bounty</h3>
@@ -34,7 +34,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="btn-block mb-1">
                             <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
-                            <a href="https://docs.google.com/forms/d/1J3Vpfv3ocVoiyZ7S9doPPOp84zPYJ_KzuSV0KCGvuJQ" target="_blank">
+                            <a href="https://forms.gle/e8EyGLLpBPw29WnC8" target="_blank">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
                             <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1f">Detailed Rules</button>
@@ -54,7 +54,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="btn-block mb-1">
                             <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
-                            <a href="https://docs.google.com/forms/d/1EKm-XCPCin-3oPF00Y7aWkSL4JrxDWcFcNBidU_NkoA" target="_blank">
+                            <a href="https://forms.gle/e8EyGLLpBPw29WnC8" target="_blank">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
                             <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1e">Detailed Rules</button>
@@ -74,7 +74,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="btn-block mb-1">
                             <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
-                            <a href="https://docs.google.com/forms/d/1b8PSanZ2amQwNRe1E6FrF5JMtchhuI422rIGGxskj80" target="_blank">
+                            <a href="https://forms.gle/e8EyGLLpBPw29WnC8" target="_blank">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
                             <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1d">Detailed Rules</button>
@@ -94,7 +94,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="btn-block mb-1">
                             <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScTlg-U-AfYsycWnB5b5clpAOybBkerR4ZlkoM2nBQoNynzPQ/viewform" target="_blank">
+                            <a href="https://forms.gle/e8EyGLLpBPw29WnC8" target="_blank">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
                             <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1c">Detailed Rules</button>
@@ -114,7 +114,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="btn-block mb-1">
                             <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
-                            <a href="https://docs.google.com/forms/d/1UD_tFroa3HBFv9WAPddTO9WXg00KKEvrRpXgGnbz-Ug" target="_blank">
+                            <a href="https://forms.gle/e8EyGLLpBPw29WnC8" target="_blank">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
                             <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1b">Detailed Rules</button>
@@ -134,7 +134,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="btn-block mb-1">
                             <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
-                            <a href="https://docs.google.com/forms/d/15qhx0EdAr6vfVDZCSg5dCRGr9nsVc_BQIzLHt8M0Yio" target="_blank">
+                            <a href="https://forms.gle/e8EyGLLpBPw29WnC8" target="_blank">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
                             <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1a">Detailed Rules</button>
@@ -154,7 +154,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="btn-block mb-1">
                             <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
-                            <a href="https://docs.google.com/forms/d/1uTpIOmjc35b_KKpzXGDoEkcNdTBpe8ON7d7kUEi3pF0" target="_blank">
+                            <a href="https://forms.gle/e8EyGLLpBPw29WnC8" target="_blank">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
                             <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1">Detailed Rules</button>
@@ -174,7 +174,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="btn-block mb-1">
                             <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScTlg-U-AfYsycWnB5b5clpAOybBkerR4ZlkoM2nBQoNynzPQ/viewform" target="_blank">
+                            <a href="https://forms.gle/e8EyGLLpBPw29WnC8" target="_blank">
                                 <button class="btn-hover color-1">Apply</button>
                             </a>
                             <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-2">Detailed Rules</button>
@@ -341,7 +341,7 @@ include('inc/header.php') ?>
                                 </div>
                                 <p class="text-small">e.g. If you introduce an institution that is willing to take up legal opinion and listing of XDC in an exchange by paying for technical integration fees, then the institution gets up to 140% reimbursement on the fees and the one who introduces the institution will get 10% of the entire bounty distributed. E.g. the institution that you introduced paid USD 50,000 for technical integration + legal fees, then they get USD 70,000 worth XDC and you get USD 7000 worth XDC.</p>
                                 <div class="btn-block mt-3 mb-1">
-                                    <a href="https://docs.google.com/forms/d/1J3Vpfv3ocVoiyZ7S9doPPOp84zPYJ_KzuSV0KCGvuJQ" target="_blank">
+                                    <a href="https://forms.gle/e8EyGLLpBPw29WnC8" target="_blank">
                                         <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>
                                     </a>
                                 </div>
@@ -378,7 +378,7 @@ include('inc/header.php') ?>
                                     </ol>
                                 </div>
                                 <div class="btn-block mt-3 mb-1">
-                                    <a href="https://docs.google.com/forms/d/1EKm-XCPCin-3oPF00Y7aWkSL4JrxDWcFcNBidU_NkoA" target="_blank">
+                                    <a href="https://forms.gle/e8EyGLLpBPw29WnC8" target="_blank">
                                         <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>
                                     </a>
                                 </div>
@@ -415,7 +415,7 @@ include('inc/header.php') ?>
                                     </ol>
                                 </div>
                                 <div class="btn-block mt-3 mb-1">
-                                    <a href="https://docs.google.com/forms/d/1b8PSanZ2amQwNRe1E6FrF5JMtchhuI422rIGGxskj80" target="_blank">
+                                    <a href="https://forms.gle/e8EyGLLpBPw29WnC8" target="_blank">
                                         <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>
                                     </a>
                                 </div>
@@ -443,7 +443,7 @@ include('inc/header.php') ?>
                                 <p><b>Program type:</b> Public bug bounty.</p>
                                 <p>Bounty subject to approval by governance community.</p>
                                 <div class="btn-block mt-3 mb-1">
-                                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScTlg-U-AfYsycWnB5b5clpAOybBkerR4ZlkoM2nBQoNynzPQ/viewform" target="_blank">
+                                    <a href="https://forms.gle/e8EyGLLpBPw29WnC8" target="_blank">
                                         <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>
                                     </a>
                                 </div>
@@ -479,7 +479,7 @@ include('inc/header.php') ?>
                                     </ol>
                                 </div>
                                 <div class="btn-block mt-3 mb-1">
-                                    <a href="https://docs.google.com/forms/d/1UD_tFroa3HBFv9WAPddTO9WXg00KKEvrRpXgGnbz-Ug" target="_blank">
+                                    <a href="https://forms.gle/e8EyGLLpBPw29WnC8" target="_blank">
                                         <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>
                                     </a>
                                 </div>
@@ -515,7 +515,7 @@ include('inc/header.php') ?>
                                     </ol>
                                 </div>
                                 <div class="btn-block mt-3 mb-1">
-                                    <a href="https://docs.google.com/forms/d/15qhx0EdAr6vfVDZCSg5dCRGr9nsVc_BQIzLHt8M0Yio" target="_blank">
+                                    <a href="https://forms.gle/e8EyGLLpBPw29WnC8" target="_blank">
                                         <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>
                                     </a>
                                 </div>
@@ -551,7 +551,7 @@ include('inc/header.php') ?>
                                     </ol>
                                 </div>
                                 <div class="btn-block mt-3 mb-1">
-                                    <a href="https://docs.google.com/forms/d/1uTpIOmjc35b_KKpzXGDoEkcNdTBpe8ON7d7kUEi3pF0" target="_blank">
+                                    <a href="https://forms.gle/e8EyGLLpBPw29WnC8" target="_blank">
                                         <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>
                                     </a>
                                 </div>
@@ -584,7 +584,7 @@ include('inc/header.php') ?>
                                     </ol>
                                 </div>
                                 <div class="btn-block mt-3 mb-1">
-                                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScTlg-U-AfYsycWnB5b5clpAOybBkerR4ZlkoM2nBQoNynzPQ/viewform" target="_blank">
+                                    <a href="https://forms.gle/e8EyGLLpBPw29WnC8" target="_blank">
                                         <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>
                                     </a>
                                 </div>
