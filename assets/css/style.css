@@ -970,6 +970,120 @@ hr {
 }
 
 
+
+
+#wallet-supports {
+	
+}
+#wallet-supports h1 {
+	color: #00244e;
+    font-size: 40px;
+    font-family: 'Muli', sans-serif;
+    text-transform: capitalize;
+    margin-top: 0px;
+	text-align: left;
+}
+#wallet-supports .wallet-supports_block {
+	padding: 1rem 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
+
+.wallet-supports_block .item {
+    display: flex;
+}
+.wallet-supports_block .item .logo-wrapper {
+	/*background: rgba(243, 243, 243, 0.6);*/
+	background: linear-gradient(135deg,#f0f2fd,#dce1f8);
+	border-radius: 15px;
+	padding: 12px;
+    text-align: center;
+	width: 100px;
+    height: 100px;
+	line-height: 60px;
+}
+.wallet-supports_block .item .logo-wrapper img {
+    opacity: .9;
+	vertical-align: middle;
+}
+.wallet-supports_block .item .logo-wrapper:hover img {
+    opacity: 1;
+}
+.wallet-supports_block .item .content-wrapper {
+    float: left;
+	padding-left: 20px;
+}
+.wallet-supports_block .item .content-wrapper .text_top {
+    font-weight: 600;
+    font-size: 2.3rem;
+    line-height: 2.5rem;
+    color: #5064fb;
+}
+.wallet-supports_block .item .content-wrapper .text_list {
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    margin-top: 30px;
+}
+.wallet-supports_block .item .content-wrapper .text_list a {
+	padding: 2px;
+	margin-left: 5px;
+}
+.wallet-supports_block .item .content-wrapper .text_list a:first-child {
+	padding: 2px;
+	margin-left: 0px;
+}
+.wallet-supports_block .item .content-wrapper .text_list a img {
+	width: 40px;
+	height: auto;
+	padding: 3px;
+}
+
+/* tooltip success */
+*[data-toggle="tooltip"][data-color="success"] + .tooltip .tooltip-inner
+{
+  background-color: #f0f2fd;
+  color: #65717f;
+}
+*[data-toggle="tooltip"][data-color="success"] + .tooltip.top .tooltip-arrow
+{
+  border-top-color: #f0f2fd;
+}
+*[data-toggle="tooltip"][data-color="success"] + .tooltip.bottom .tooltip-arrow
+{
+  border-bottom-color: #f0f2fd;
+}
+*[data-toggle="tooltip"][data-color="success"] + .tooltip.left .tooltip-arrow
+{
+  border-left-color: #f0f2fd;
+}
+*[data-toggle="tooltip"][data-color="success"] + .tooltip.right .tooltip-arrow
+{
+  border-right-color: #f0f2fd;
+}
+
+
+.custodian_block {
+	padding-right: 100px;
+}
+
+
+
+
+
+
 #download-xdc-wallet {}
 #download-xdc-wallet .bannertext {
     text-align: left!important;
@@ -1793,6 +1907,11 @@ button.btn-outline-default .fa{margin-right:5px;}
     padding: 60px 0 50px;
     /*background: #ececec;*/
 	background:#f6f6f6;
+}
+
+.contact-home_block {
+	padding-left: 100px;
+	border-left: 1px solid #d4d1d1;
 }
 
 #partners {
@@ -3130,7 +3249,7 @@ display:none;
   display: block;
   position: relative;
   /*min-height: 500px;*/
-  min-height: 600px;
+  min-height: 625px;
   background-size: cover;
 }
 
@@ -3139,7 +3258,7 @@ display:none;
     position: relative;
     z-index: 99;
     /*margin-top: 12%;*/
-	margin-top: 15%;
+	margin-top: 18%;
     text-align: center;
     color:#fff;
        font-size: 18px;
@@ -3658,6 +3777,18 @@ ul.lower-alpha li, ul.lower-roman li {margin-bottom:6px;}
   .timeline ol li:nth-child(22) {
    width: 100%; 
   }
+  .wallet-supports_block .item {display: block;}
+  .wallet-supports_block .item .content-wrapper {padding-left: 0px;padding-top: 15px;}
+  .wallet-supports_block .item .content-wrapper .text_list {margin-top: 10px;}
+  .wallet-supports_block .item .logo-wrapper {
+    padding: 6px;
+	width: 75px;
+    height: 75px;
+    line-height:60px;
+  }
+  .wallet-supports_block .item .logo-wrapper img {
+    max-width: 55px;
+  }
 }
 
 
@@ -3681,6 +3812,19 @@ ul.lower-alpha li, ul.lower-roman li {margin-bottom:6px;}
  .tooltip3 .tooltiptext
     {
     visibility:hidden !important;
+}
+#wallet-supports p {
+	padding-bottom: 25px;
+}
+.contact-home_block {
+	padding-left: 0px;
+	padding-top: 50px;
+	border-top: 1px solid #d4d1d1;
+	border-left: none;
+}
+.custodian_block {
+    padding-right: 0px;
+	padding-bottom: 50px;
 }
 }
 

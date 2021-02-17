@@ -387,3 +387,13 @@ function set_ele(set_element)
         $('.preloader-wrap').fadeOut(300);
       }, time);
     </script>
+    
+    
+    
+    
+    
+<script>
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
+</script>

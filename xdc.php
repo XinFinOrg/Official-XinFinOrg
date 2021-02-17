@@ -190,7 +190,7 @@ include('inc/header.php') ?>
                             <div>
                                 <a href="https://play.google.com/store/apps/details?id=com.xdcwallet" target="_blank"><img src="assets/images/exchanges/googleplay-logo.png" class="img-fluid"></a>                                
                             </div>
-                            <p class="text-center mt-1">XDC Mobile Wallet (Android App)</p>                            
+                            <p class="text-center mt-1">Open Source Wallet (Android App)</p>                            
                         </div>
                         <div class="col col-md-4 col-sm-4 mb-2">
                             <div>

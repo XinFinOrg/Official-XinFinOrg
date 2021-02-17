@@ -16,8 +16,8 @@ include('inc/header.php') ?>
                                     <h1 style="text-align:left;" class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">Enterprise Ready Hybrid Blockchain For Global Trade and Finance</h1>
                                     <p style="text-align: left;text-transform:none;" class="wow fadeInDown" data-wow-duration="0.7s" data-wow-delay="0.7s">Combining the power of Public & Private blockchains with Interoperable Smart Contracts</p>
                                     <div class="btn-block mt-4 mb-1 playTriggerBlock wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
-                                        <a href="setup-masternode"><button class="btn-hover color-1">JOIN THE NETWORK</button></a>
-                                        <a href="https://play.google.com/store/apps/details?id=com.xdcwallet" target="_blank"><button class="btn-hover color-3">DOWNLOAD WALLET</button></a>
+                                        <a href="setup-masternode"><button class="btn-hover color-1">JOIN AS NETWORK NODE</button></a>
+                                        <a href="https://play.google.com/store/apps/details?id=com.xdcwallet" target="_blank"><button class="btn-hover color-3">Open Source Wallet</button></a>
                                     </div>
 
                                 </div>
@@ -79,7 +79,7 @@ include('inc/header.php') ?>
 						
                         <div class="btn-block mb-1 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
                             <a href="setup-masternode">
-                                <button class="btn-hover color-1">JOIN THE NETWORK</button>
+                                <button class="btn-hover color-1">JOIN AS NETWORK NODE</button>
                             </a>
                         </div>
                     </div>
@@ -618,7 +618,7 @@ include('inc/header.php') ?>
         </div>
     </section>
 	
-	<section id="download-xdc-wallet" class="home-page-sections small-padd">
+	<!--<section id="download-xdc-wallet" class="home-page-sections small-padd">
         <div class="container">
             <div class="bannertext">
                 <div class="flex-row align-items-center">
@@ -629,11 +629,11 @@ include('inc/header.php') ?>
                             </div>
                             <div class="mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
                                 <ul class="list_check">
-									<li>Securely send and receive XDC and XDCE anytime and anywhere</li>
+									<li>Securely send and receive XDC anytime and anywhere</li>
 									<li>User-friendly and clear UI/UX</li>
-									<li>Send and receive XDC and XDCE rapidly using XinFin Network</li>
+									<li>Send and receive XDC rapidly using XinFin Network</li>
 									<li>Maintain the balance record easily using dashboard</li>
-									<li>Supports both the tokens: XDC and XDCE</li>
+									<li>Supports XDC token</li>
 									<li>A decentralized and highly secure wallet</li>
 								</ul>
                             </div>
@@ -646,18 +646,123 @@ include('inc/header.php') ?>
                     
                     <div class="col-md-6">
                         <img src="assets/images/home/xdc-android-wallet.png" class="img-responsive wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.7s" width="100%" alt="XDC Android Wallet">
-						<!--<div class="screen-couple-left wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.7s">
-							<img class="screen above" src="assets/images/home/screen_couple_above.png" alt="" height="550" width="290" />
-							<img class="screen beyond wow fadeInRight" data-wow-delay="1s" src="assets/images/home/screen_couple_beyond.png" alt="" height="500" width="251" />
-						</div>-->
                     </div>
 
                 </div>
             </div>
         </div>
+    </section>-->
+    
+    <section id="wallet-supports" class="home-page-sections small-padd">
+        <div class="container">             
+                <div class="flex-row align-items-center">
+                    <div class="col-md-6">
+                    	<h1 class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.2s">Supporting Wallets</h1>
+                        <p class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.4s">Download wallets supporting XDC.</p>
+                    </div>
+                    <div class="col-md-6">
+                    	<div class="wallet-supports_block wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.6s">
+                            <div class="item">
+                                <a href="https://guarda.com/" target="_blank">
+                                    <div class="logo-wrapper">
+                                        <img src="assets/images/exchanges/guarda-wallet/guarda-wallet-logo.png" alt="Gaurda Wallet" class="logo-wrapper_top" />
+                                    </div>
+                                </a>
+                                <div class="content-wrapper">
+                                    <div class="text_top"><a href="https://guarda.com/" target="_blank">Guarda Wallet</a></div>
+                                    <div class="text_list">
+                                        <a href="https://guarda.co/app/" target="_blank" class="list-item has-tooltip" data-toggle="tooltip" data-placement="bottom" data-color="success" title="Web Wallet">
+                                            <img src="assets/images/exchanges/guarda-wallet/wallet.png" class="icon" />
+                                        </a>
+                                        <a href="https://play.google.com/store/apps/details?id=com.crypto.multiwallet" target="_blank" class="list-item has-tooltip" data-toggle="tooltip" data-placement="bottom" data-color="success" title="Android Wallet">
+                                            <img src="assets/images/exchanges/guarda-wallet/android.png" class="icon" />
+                                        </a>
+                                        <a href="https://apps.apple.com/app/guarda-wallet/id1442083982" target="_blank" class="list-item has-tooltip" data-toggle="tooltip" data-placement="bottom" data-color="success" title="iOS Wallet">
+                                            <img src="assets/images/exchanges/guarda-wallet/apple.png" class="icon" />
+                                        </a>
+                                        <a href="https://guarda.com/desktop/" target="_blank" class="list-item has-tooltip" data-toggle="tooltip" data-placement="bottom" data-color="success" title="MacOS">
+                                            <img src="assets/images/exchanges/guarda-wallet/mac-os.png" class="icon" />
+                                        </a>
+                                        <a href="https://guarda.com/desktop/" target="_blank" class="list-item has-tooltip" data-toggle="tooltip" data-placement="bottom" data-color="success" title="Windows 32">
+                                            <img src="assets/images/exchanges/guarda-wallet/windows.png" class="icon" />
+                                        </a>
+                                        <a href="https://guarda.com/desktop/" target="_blank" class="list-item has-tooltip" data-toggle="tooltip" data-placement="bottom" data-color="success" title="Ubuntu">
+                                            <img src="assets/images/exchanges/guarda-wallet/ubuntu.png" class="icon" />
+                                        </a>
+                                        <a href="https://guarda.com/chrome-extension/" target="_blank" class="list-item has-tooltip" data-toggle="tooltip" data-placement="bottom" data-color="success" title="Chrome Extension">
+                                            <img src="assets/images/exchanges/guarda-wallet/chrome-extension.png" class="icon" />
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="wallet-supports_block mt-5 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.8s">
+                            <div class="item">
+                                <a href="https://dcentwallet.com/MobileApp" target="_blank">
+                                    <div class="logo-wrapper">
+                                        <img src="assets/images/exchanges/dcent-wallet/dcent-wallet-logo.png" alt="D'CENT Wallet" class="logo-wrapper_top" />
+                                    </div>
+                                </a>
+                                <div class="content-wrapper">
+                                    <div class="text_top"><a href="https://dcentwallet.com/MobileApp" target="_blank">D'CENT Wallet</a></div>
+                                    <div class="text_list">
+                                       <a href="https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet&utm_source=dcent_medium&utm_campaign=xdc_support" target="_blank" class="list-item has-tooltip" data-toggle="tooltip" data-placement="bottom" data-color="success" title="Android Wallet">
+                                            <img src="assets/images/exchanges/guarda-wallet/android.png" class="icon" />
+                                        </a>
+                                        <a href="https://apps.apple.com/kr/app/dcent-hardware-wallet/id1447206611" target="_blank" class="list-item has-tooltip" data-toggle="tooltip" data-placement="bottom" data-color="success" title="iOS Wallet">
+                                            <img src="assets/images/exchanges/guarda-wallet/apple.png" class="icon" />
+                                        </a>
+                                        <a href="https://dcentwallet.com/products/BiometricWallet" target="_blank" class="list-item has-tooltip" data-toggle="tooltip" data-placement="bottom" data-color="success" title="Hardware Wallet">
+                                            <img src="assets/images/exchanges/dcent-wallet/hardware-wallet.png" class="icon" />
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>                        
+                    </div>
+                </div>
+        </div>
     </section>
-
+    
+    
+    
+    
     <section id="contact-home" class="bg-light-grey">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <div class="custodian_block">
+                        <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                            <h1>Institutional Custodian</h1>
+                        </div>
+                        <div class="text-center wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
+                            <a href="https://copper.co/" target="_blank"><img src="assets/images/copper-logo.png" class="img-fluid" /></a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <div class="contact-home_block">
+                        <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                            <h1>Contact us</h1>
+                        </div>
+                        <div class="text-center wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                            <p>Come build dApps, learn more about XinFin and the XDC Hybrid Blockchain, host a Masternode, or speak to our team.</p>
+                        </div>
+                        <div class="text-center wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
+                            <a href="contactus.php">
+                                <button class="btn-hover color-1">CONTACT NOW</button>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br/>
+            <div class="clear"></div>
+        </div>
+    </section>
+    
+    <!--<section id="contact-home" class="bg-light-grey">
         <div class="container">
             <div class="row">
                 <div class="col-md-offset-2 col-md-8 col-md-offset-2">
@@ -665,7 +770,7 @@ include('inc/header.php') ?>
                         <h1>Contact us</h1>
                     </div>
                     <div class="text-center wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
-                        <p>Come build dApps, learn more about XinFin and the XDC Hybrid Blockchain, host a masternode, or speak to our team.</p>
+                        <p>Come build dApps, learn more about XinFin and the XDC Hybrid Blockchain, host a Masternode, or speak to our team.</p>
                     </div>
                     <div class="text-center wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
                         <a href="contactus.php">
@@ -677,7 +782,8 @@ include('inc/header.php') ?>
             <br/>
             <div class="clear"></div>
         </div>
-    </section>
+    </section>-->
+    
 
     <style>
         .logoc {
