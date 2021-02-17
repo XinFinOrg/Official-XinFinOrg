@@ -3777,7 +3777,7 @@ ul.lower-alpha li, ul.lower-roman li {margin-bottom:6px;}
   .timeline ol li:nth-child(22) {
    width: 100%; 
   }
-  .wallet-supports_block .item {display: block;}
+  .wallet-supports_block .item {display: block;border:1px solid #f6f6f6;border-radius:10px;padding:5px;}
   .wallet-supports_block .item .content-wrapper {padding-left: 0px;padding-top: 15px;}
   .wallet-supports_block .item .content-wrapper .text_list {margin-top: 10px;}
   .wallet-supports_block .item .logo-wrapper {
@@ -3789,6 +3789,9 @@ ul.lower-alpha li, ul.lower-roman li {margin-bottom:6px;}
   .wallet-supports_block .item .logo-wrapper img {
     max-width: 55px;
   }
+  #wallet-supports .wallet-supports_block {padding: 0px;}
+  .wallet-supports_block .item .content-wrapper .text_list a {padding: 1px;margin-left: 3px;}
+  .wallet-supports_block .item .content-wrapper .text_list a img {width: 35px;}
 }
 
 

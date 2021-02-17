@@ -661,7 +661,7 @@ include('inc/header.php') ?>
                         <p class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.4s">Download wallets supporting XDC.</p>
                     </div>
                     <div class="col-md-6">
-                    	<div class="wallet-supports_block wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.6s">
+                    	<div class="wallet-supports_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.6s">
                             <div class="item">
                                 <a href="https://guarda.com/" target="_blank">
                                     <div class="logo-wrapper">
@@ -696,7 +696,7 @@ include('inc/header.php') ?>
                                 </div>
                             </div>
                         </div>
-                        <div class="wallet-supports_block mt-5 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.8s">
+                        <div class="wallet-supports_block mt-4 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.8s">
                             <div class="item">
                                 <a href="https://dcentwallet.com/MobileApp" target="_blank">
                                     <div class="logo-wrapper">
@@ -735,7 +735,7 @@ include('inc/header.php') ?>
                         <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
                             <h1>Institutional Custodian</h1>
                         </div>
-                        <div class="text-center wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.9s">
+                        <div class="text-center wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.9s">
                             <a href="https://copper.co/" target="_blank"><img src="assets/images/copper-logo.png" class="img-fluid" /></a>
                         </div>
                     </div>
