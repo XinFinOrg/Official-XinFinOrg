@@ -24,6 +24,27 @@ include('inc/header.php') ?>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
                     <div class="bounty-box">
                         <div class="image-container">
+                            <img class="img-responsive" src="assets/images/bounty/masternode-one-click-node-setup-bounty.jpg" alt="Masternode (One click node setup) Bounty">
+                        </div>
+                        <div class="content">
+                            <h3>Masternode (One-click node setup) Bounty</h3>
+                            <h4 class="highlight small">Up to 140% of technical integration cost</h4>
+                            <p class="text-muted">One-click node setup on AWS, Azure, Oracle Cloud, IBM cloud.</p>
+							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>-->
+                        </div>
+                        <div class="btn-block mb-1">
+                            <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
+                            <a href="https://forms.gle/e8EyGLLpBPw29WnC8" target="_blank">
+                                <button class="btn-hover color-1">Apply</button>
+                            </a>
+                            <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1g">Detailed Rules</button>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
+                    <div class="bounty-box">
+                        <div class="image-container">
                             <img class="img-responsive" src="assets/images/bounty/introduction-distribution-bounty.jpg" alt="Introduction/Distribution Bounty">
                         </div>
                         <div class="content">
@@ -317,6 +338,32 @@ include('inc/header.php') ?>
                 </div>
             </div>
             
+            
+            
+            <!-- Modal 1g -->
+            <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-1g" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered bounty-modal" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                            <h3 class="modal-title" id="exampleModalCenterTitle">Masternode (One-click node setup) Bounty</h3>
+                        </div>
+                        <div class="modal-body">
+                            <div class="bounty">
+                                <p>One-click node setup on AWS, Azure, Oracle Cloud, IBM cloud.</p>
+                                <p>This would also include analysis related to information security and safety of store of value.</p>
+                                <div class="btn-block mt-3 mb-1">
+                                    <a href="https://forms.gle/e8EyGLLpBPw29WnC8" target="_blank">
+                                        <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="modal-footer"></div>
+                    </div>
+                </div>
+            </div>
+            <!-- /. Modal 1g -->
             
             
             <!-- Modal 1f -->
