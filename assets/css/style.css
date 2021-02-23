@@ -973,7 +973,7 @@ hr {
 
 
 #wallet-supports {
-	
+	padding-bottom: 175px;
 }
 #wallet-supports h1 {
 	color: #00244e;
@@ -1078,6 +1078,16 @@ hr {
 .custodian_block {
 	padding-right: 100px;
 }
+
+.custodian-box_block {
+	padding: 35px 25px;
+	margin-top: -140px;
+	background: #FFFFFF;
+	border-radius: 6px;
+	-webkit-box-shadow: 0 2px 5px 3px rgba(12, 21, 46, 0.1);
+    box-shadow: 0 2px 5px 3px rgba(12, 21, 46, 0.1)
+}
+
 
 
 
@@ -5144,7 +5154,97 @@ table{width:100%;background-color:#fff}th,td{font-weight:unset;padding-right:10p
 /*--XDC/XDCe Exchanges css --*/
 
 
+/*-- Get started with CDC network css --*/
+#get-started-with {
+    padding: 60px 0 50px;
+}
+#get-started-with h1 {
+    color: #00244e;
+    font-size: 40px;
+    font-family: 'Muli', sans-serif;
+    text-transform: capitalize;
+    margin-top: 0px;
+}
+#get-started-with .services-block {
+    position: relative;
+	background: #fff;
+    background-color: #fff;
+    border: solid 1px rgba(136, 168, 199, 0.4);
+    border-radius: 4px;
+    -webkit-box-shadow: 0 2px 5px -3px rgb(12 21 46 / 8%);
+    box-shadow: 0 2px 5px -3px rgb(12 21 46 / 8%);
+    padding: 16px 18px;
+	height: 100%;
+}
+#get-started-with .services-block:hover {
+    border: solid 1px rgba(136, 168, 199, 0.6);
+    -webkit-box-shadow: 0 5px 15px 0 rgb(12 21 46 / 4%);
+    box-shadow: 0 5px 15px 0 rgb(12 21 46 / 4%);
+}
+#get-started-with .services-block .inner-box {
+    position: relative;
+    padding: 0px!important;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: start;
+    align-items: flex-start;
+}
+#get-started-with .services-block .inner-box .icon-img-box {
+    width: 35px!important;
+    min-width: 35px!important;
+    max-width: 35px!important;
+    margin-right: 15px;
+}
+#get-started-with .services-block .inner-box .icon-img-box img {
+	max-width: 100%;
+    height: auto;
+}
+#get-started-with .services-block .inner-box .media-body h3 {
+    position: relative;
+    font-size: 18px;
+	color: #112b3c;
+	font-weight: 600;
+    text-transform: inherit;    
+    margin-top: 0px;
+	margin-bottom: 5px;
+}
+#get-started-with .services-block .inner-box .media-body p {
+    font-size: 14px;
+	color: #646464;
+	line-height: 20px;
+	text-align: left;
+    margin-bottom: 0px;
+}
+#get-started-with .row-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+#get-started-with .custodian-box_block h1 {
+	font-size: 32px;
+	color: #47525f;
+}
+#get-started-with .custodian-box_block h1 {
+	font-size: 32px;
+	color: #47525f;
+}
+#get-started-with .custodian-box_block .img-responsive {
+	margin: 0px auto;
+}
+@media screen and (max-width:768px){
+#get-started-with .row-flex {
+    display: inherit;
+    flex-wrap: wrap;
+}
+#get-started-with .custodian-box_block h1 {
+	font-size: 28px;
+	margin-bottom: 25px!important;
+}
+}
+/*-- Get started with CDC network css --*/
 
+@media screen and (max-width:576px) {
+	#partners h1, #featured-in h1, #video-section h1, #video-section h1, #wallet-supports h1, #get-started-with h1 {font-size: 30px;}
+}
 
 /* how to Steps 
 .steps-howTo{font-size:14px;line-height:16px}

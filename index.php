@@ -727,7 +727,7 @@ include('inc/header.php') ?>
     
     
     
-    <section id="contact-home" class="bg-light-grey">
+    <!--<section id="contact-home" class="bg-light-grey">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-6">
@@ -760,7 +760,128 @@ include('inc/header.php') ?>
             <br/>
             <div class="clear"></div>
         </div>
-    </section>
+    </section>-->
+        
+        
+        
+        <section id="get-started-with" class="bg-light-grey">
+            <div class="container">
+                <div class="row mb-5">
+                <div class="col-lg-10 col-lg-offset-1">
+                    <div class="custodian-box_block">
+                        <div class="flex-row align-items-center">
+                            <div class="col-lg-6">
+                                <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                                    <h1 class="pb-0 mb-0">Institutional Custodian</h1>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="text-center wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.9s">
+                                    <a href="https://copper.co/" target="_blank"><img src="assets/images/copper-logo.png" class="img-responsive" /></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </div>
+                <div class="pt-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                    <h1>Get Started With</h1>
+                </div>
+                <div class="row row-flex">
+                    <div class="col-lg-4 col-md-4 col-sm-6 col-sm-12 px-1 mt-1 mb-1">
+                        <a href="https://github.com/xinfinorg/Wallet" target="_blank">
+                            <div class="services-block wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.2s">
+                                <div class="inner-box">
+                                    <div class="icon-img-box align-self-center">
+                                        <img src="assets/images/get-started-icons/setup-wallet.png">
+                                    </div>
+                                    <div class="media-body align-self-center">
+                                        <h3>Setup Wallet</h3>
+                                        <p>How to Setup Wallet Apps on XDC Network.</p>
+                                    </div>                                
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-6 col-sm-12 px-1 mt-1 mb-1">
+                        <a href="https://github.com/xinfinorg/XDCScan" target="_blank">
+                            <div class="services-block wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.4s">
+                                <div class="inner-box">
+                                    <div class="icon-img-box align-self-center">
+                                        <img src="assets/images/get-started-icons/setup-explorer.png">
+                                    </div>
+                                    <div class="media-body align-self-center">
+                                        <h3>Setup Explorer</h3>
+                                        <p>How to Setup Explorer on XDC Network.</p>
+                                    </div>                                
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-6 col-sm-12 px-1 mt-1 mb-1">
+                        <a href="https://mycontract.co" target="_blank">
+                            <div class="services-block wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.6s">
+                                <div class="inner-box">
+                                    <div class="icon-img-box align-self-center">
+                                        <img src="assets/images/get-started-icons/decentralized-oracle.png">
+                                    </div>
+                                    <div class="media-body align-self-center">
+                                        <h3>Decentralized Oracle</h3>
+                                        <p>How to Setup Decentralized Oracle Network on XDC Network.</p>
+                                    </div>                                
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-6 col-sm-12 px-1 mt-1 mb-1">
+                        <a href="https://mycontract.co" target="_blank">
+                            <div class="services-block wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.8s">
+                                <div class="inner-box">
+                                    <div class="icon-img-box align-self-center">
+                                        <img src="assets/images/get-started-icons/build-dapps.png">
+                                    </div>
+                                    <div class="media-body align-self-center">
+                                        <h3>Build DApps</h3>
+                                        <p>How to Build DApps on XDC Network.</p>
+                                    </div>                                
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-6 col-sm-12 px-1 mt-1 mb-1">
+                        <a href="https://github.com/xinfinorg/XinFin-Node" target="_blank">
+                            <div class="services-block wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="1s">
+                                <div class="inner-box">
+                                    <div class="icon-img-box align-self-center">
+                                        <img src="assets/images/get-started-icons/institutional-rpc.png">
+                                    </div>
+                                    <div class="media-body align-self-center">
+                                        <h3>Institutional RPC</h3>
+                                        <p>Institutional RPC and node setup through AWS, Azure, IBM cloud...<!-- , oracle cloud etc or any other hosting provider including indsoft.--></p>
+                                    </div>                                
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-6 col-sm-12 px-1 mt-1 mb-1">
+                        <a href="https://xinfin.org/custody-services-integration" target="_blank">
+                            <div class="services-block wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="1.2s">
+                                <div class="inner-box">
+                                    <div class="icon-img-box align-self-center">
+                                        <img src="assets/images/get-started-icons/wallets-custodians.png">
+                                    </div>
+                                    <div class="media-body align-self-center">
+                                        <h3>Wallets & Custodians</h3>
+                                        <p>How to connect various decentralized wallets, custodians for XDC.</p>
+                                    </div>                                
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
     
     <!--<section id="contact-home" class="bg-light-grey">
         <div class="container">
