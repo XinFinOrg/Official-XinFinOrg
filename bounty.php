@@ -29,7 +29,7 @@ include('inc/header.php') ?>
                         <div class="content">
                             <h3>Masternode (One-click node setup) Bounty</h3>
                             <h4 class="highlight small">Up to 140% of technical integration cost</h4>
-                            <p class="text-muted">One-click node setup on AWS, Azure, Oracle Cloud, IBM cloud.</p>
+                            <p class="text-muted">Create easy One-click XinFin-Node setup on AWS, Azure, Oracle Cloud, IBM cloud.</p>
 							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>-->
                         </div>
                         <div class="btn-block mb-1">
@@ -350,8 +350,76 @@ include('inc/header.php') ?>
                         </div>
                         <div class="modal-body">
                             <div class="bounty">
-                                <p>One-click node setup on AWS, Azure, Oracle Cloud, IBM cloud.</p>
-                                <p>This would also include analysis related to information security and safety of store of value.</p>
+                                <p class="mb-0"><strong>Purpose:</strong> To Create an easy One-click XinFin-Node setup on AWS, Azure, Oracle Cloud, IBM cloud. <span class="vsmall">(From the command-based Masternode setup method. Reference steps after the instruction)</span></p>
+                                <p class="sub-header-small mt-3 mb-2">Function covered under one click XinFin Node setup:</p>
+                                <p><strong>STEP 1:</strong> Add or Copy Updated XinFin-Node Docker file to the Cloud provider like AWS, Azure, Oracle, or IBM.</p>
+                                <p>Clone repository command:</p>
+                                <pre><code>git clone https://github.com/XinFinOrg/XinFin-Node.git</code></pre>
+                                <p><strong>Step 2.</strong> Install XinFin-Node using command:</p>
+                                <pre><code>sudo ./install_docker.sh</code></pre>
+                                <p><strong>Step 3:</strong> Ask for required information like Node_Name and email.</p>
+                                <p><strong>Step 4:</strong> Start node using command:</p>
+                                <pre>sudo docker-compose -f docker-services.yml up -d</pre>
+                                
+                                <p class="sub-header-small no-color mt-3 mb-2">Reference shell scripts for the XinFin-Node:</p>
+                                <p><a href="https://github.com/XinFinOrg/XinFin-Node/blob/master/install_docker.sh" target="_blank" class="fw-4">install_docker.sh</a></p>
+                                <p><a href="https://github.com/XinFinOrg/XinFin-Node/blob/master/start-node.sh" target="_blank" class="fw-4">Start Node</a></p>
+                                <p><a href="https://github.com/XinFinOrg/XinFin-Node/blob/master/bootstrap.sh" target="_blank" class="fw-4">bootstrap</a></p>
+                                
+                                <p class="link-break-out mt-3"><span class="sub-header-small no-color">Docker file, Commands, Howto steps, .sh script available at:</span> <a href="https://github.com/XinFinOrg/XinFin-Node" target="_blank" class="fw-4">https://github.com/XinFinOrg/XinFin-Node</a></p>
+                                
+                                <p class="sub-header-small no-color mt-3">Reference Steps:</p>
+                                <p>Cloud provider IndSoft.net already setup One-click XinFin-Node setup. ( <a href="https://indsoft.net/blog/deploy-a-nodejs-and-expressjs-app-on-indsoft-system-cloud-with-nginx/" target="_blank" class="fw-4">ref URL</a> and <a href="https://www.youtube.com/watch?v=_NbwZs5muaY&feature=youtu.be" target="_blank" class="fw-4">ref video</a> )</p>
+                                
+                                <p class="sub-header-small no-color mt-3">Reference:</p>
+                                <p>Website and information resource to setup masternode: <a href="https://xinfin.org/setup-masternode" target="_blank" class="fw-4">https://xinfin.org/setup-masternode</a></p>
+                                
+                                <p class="sub-header-small no-color mt-3">Other tip:</p>
+                                <p>Add XinFin-Node Dockers file to the marketplace like <a href="https://aws.amazon.com/marketplace/search/results?x=0&y=0&searchTerms=blockchain+" target="_blank" class="fw-4">AWS Marketplace</a>. This option allows an easy Drag and Drop option to setup masternode.</p>
+                                
+                                
+                                <p class="sub-header mt-5 mb-3">Command Method to Setup Masternode environment</p>
+
+                                <p class="sub-header-small no-color pb-3">CentOS or RedHat Enterprise Linux (latest release) or Ubuntu (15.04+) supported</h3>
+                                <p class="mb-1"><strong>Clone repository</strong></p>
+                                <pre><code>git clone https://github.com/XinFinOrg/XinFin-Node.git</code></pre>
+                                <p>Enter <code>XinFin-Node</code> directory</p>
+                                <pre><code>cd XinFin-Node</code></pre>
+
+                                <p class="mt-3 mb-1"><strong>Step 1: Install docker & docker-compose</strong></p>
+                                <pre><code>sudo ./install_docker.sh</code></pre>
+
+                                <p class="mt-3 mb-1"><strong>Step 2: Update .env file with details</strong></p>
+                                <p class="text-left link-break-out">Create <code>.env</code> file by using the sample - <code>.env.example</code></p>
+                                <p class="link-break-out">Enter your node name in the INSTANCE_NAME field.</p>
+                                <p class="link-break-out">Enter your email address in the CONTACT_DETAILS field.</p>
+                                <pre>cp env.example .env<br />nano .env</pre>
+
+                                <p class="mt-3 mb-1"><strong>Step 3: Start your Node</strong></p>
+                                <p>Run:</p>
+                                <pre>sudo docker-compose -f docker-services.yml up -d</pre>
+                                <p class="link-break-out">
+                                    You should be able to see your node listed on this page: <a href="http://xinfin.network" target="_blank" class="fw-4">http://xinfin.network</a> Select Menu "Switch to TestNet" for Test Network and Select "Switch to
+                                    LiveNet" to check Live Network Stats.
+                                </p>
+                                <p>Your Coinbase address can be found in xdcchain/coinbase.txt file.</p>
+
+                                <p>To stop the node or if you encounter any issues use:</p>
+                                <pre>sudo docker-compose -f docker-services.yml down</pre>
+
+                                <p class="mb-1"><strong>Upgrade</strong></p>
+                                <p>To upgrade please use the following commands</p>
+                                <pre><code>sudo docker-compose -f docker-services.yml down
+sudo ./upgrade.sh
+sudo docker-compose -f docker-services.yml up -d
+</code></pre>
+
+                                <p class="mb-1"><strong>Troubleshooting</strong></p>
+                                <p>If you are having problems with Setup, the first step is to collect more information to accurately characterize the problem. From there, it can be easier to figure out a root cause and a fix.</p>
+                                <p class="link-break-out">Please drop a message with all possible detail and screenshot at the Community Support forum: <a href="http://xinfin.Net" target="_blank" class="fw-4">http://xinfin.Net</a></p>
+                                <p class="link-break-out">Telegram Community: <a href="https://t.me/XinFinDevelopers" target="_blank" class="fw-4">https://t.me/XinFinDevelopers</a></p>
+                                <p class="link-break-out">Slack Community: <a href="https://xinfin-public.slack.com/messages/CELR2M831/" target="_blank" class="fw-4">https://xinfin-public.slack.com/messages/CELR2M831/</a></p>
+                                
                                 <div class="btn-block mt-3 mb-1">
                                     <a href="https://forms.gle/e8EyGLLpBPw29WnC8" target="_blank">
                                         <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>

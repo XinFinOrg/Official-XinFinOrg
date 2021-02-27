@@ -1474,13 +1474,14 @@ button.btn-outline-default .fa{margin-right:5px;}
 .bounty .sub-header {color:#096db0!important;padding-bottom: 10px;margin-top: 50px;text-align: left;border-bottom: 1px solid #b9b9b9;font-size: 25px;line-height:29px;}
 .bounty .sub-header.text-center {text-align:center;}
 .bounty .sub-header-small {color: #096db0!important;margin-bottom: 0px!important;padding-bottom: 10px;margin-top:0px; text-align: left;font-size: 20px;line-height: 24px;}
+.bounty .sub-header-small.no-color {color: inherit!important;font-weight:600;}
 .references-box{/*background:#f0f0f0;*/background:#FFFFFF;padding:30px;margin-top:30px;border-radius:5px;-webkit-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);-moz-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);}
 .bounty .references-box .sub-header{margin-top:0px;}
 .bounty a{/*color:#002752;*/text-decoration:underline;}
 .bounty a:hover{/*color:#096db0;*/color: #337ab7;text-decoration:none;}
 .bounty .text-bg-grey{/*background-color:#f2f2f2;*/background-color:#e9f0f7;padding:5px;font-size:14px;}
 
-.bounty .rewardBox{/*background:#f6f6f6;*/background:#FFFFFF;-webkit-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);-moz-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);padding:20px 15px 20px 15px;height:100%;}
+.bounty .rewardBox{/*background:#f6f6f6;*/border:1px solid #eae8e8;border-radius:4px;background:#FFFFFF;-webkit-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);-moz-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);padding:20px 15px 20px 15px;height:100%;}
 .bounty .rewardBox h1{font-size:20px;color:#c88b30;font-weight:500;text-align:center;text-transform:none;margin-top:0px;margin-bottom:10px;padding-bottom:10px;border-bottom:2px solid #FFFFFF;}
 .bounty .rewardBox p{text-align:center;margin-bottom:0px!important;}
 .bounty .rewardBox p.highlight{font-size:14px;text-align:center;margin-bottom:0px!important;background-color:#f6f6f6;margin-top:15px;padding:4px;color:#096db0!important;line-height:16px;}
@@ -1503,7 +1504,7 @@ button.btn-outline-default .fa{margin-right:5px;}
 .bounty-box .content p {font-size:14px;line-height:20px;min-height:165px;margin-bottom:15px;}
 .bounty-box .btn-block {padding: 0px 15px;justify-content: space-around;width: 100%;  position: absolute;right: 0;bottom: 5px;left: 0;}
 .bounty-box .btn-block .btn-hover {padding: 8px 0px;flex-grow: 1;width:49.2%;margin: 0px;}
-.btn-block.no-width {width: inherit;}
+.btn-block.no-width {width: inherit;display: inline;}
 
 /*.bounty-box .content .progress-labels {border-top:1px dashed #e3e7ed;border-bottom:1px dashed #e3e7ed;padding:8px;margin-bottom:15px;background:rgba(249, 250, 252, 0.5);}
 .bounty-box .content .progress-labels .timer{font-size:12px;color:#a2a2a2;font-weight:600;}
@@ -1529,7 +1530,7 @@ button.btn-outline-default .fa{margin-right:5px;}
 .modal-dialog.bounty-modal {max-width: 825px;width:auto;}
 .modal-dialog.bounty-modal .modal-title {line-height: 30px;padding-right: 25px;}
 .modal .bounty-modal button.close {font-size: 28px;color:#25aae1;margin-right: 0px;}
-.modal .bounty-modal .modal-body {background: #f6f6f6;padding: 15px 25px;overflow-x: hidden;overflow-y: auto;max-height: 425px;}
+.modal .bounty-modal .modal-body {background: #fbfafa;padding: 15px 25px;overflow-x: hidden;overflow-y: auto;max-height: 425px;}
 .modal .bounty-modal .modal-body a {font-weight:700;}
 .modal .bounty-modal .modal-body .bounty p {margin: 0 0 15px;}
 .modal .bounty-modal .modal-body .bounty .linkbox {padding:15px;background: rgba(48, 117, 238, 0.1);margin-bottom:15px;}
@@ -2087,12 +2088,11 @@ button.btn-outline-default .fa{margin-right:5px;}
     padding-bottom: 0px; 
   }
 
-  .exsmall
-  {font-size: 14px !important}
-.small, small {
-    font-size: 100%;
-}
-  .smcol
+.vsmall {font-size: 12px !important}
+.exsmall {font-size: 14px !important}
+.small, small {font-size: 100%;}
+
+.smcol
   {
     padding:0;
     text-align: center;
