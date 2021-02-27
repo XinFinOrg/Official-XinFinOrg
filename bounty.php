@@ -378,7 +378,7 @@ include('inc/header.php') ?>
                                 <p>Add XinFin-Node Dockers file to the marketplace like <a href="https://aws.amazon.com/marketplace/search/results?x=0&y=0&searchTerms=blockchain+" target="_blank" class="fw-4">AWS Marketplace</a>. This option allows an easy Drag and Drop option to setup masternode.</p>
                                 
                                 
-                                <p class="sub-header mt-5 mb-3">Command Method to Setup Masternode environment</p>
+                                <p class="sub-header mt-5 mb-3">Understand detail step by step command method to setup masternode</p>
 
                                 <p class="sub-header-small no-color pb-3">CentOS or RedHat Enterprise Linux (latest release) or Ubuntu (15.04+) supported</h3>
                                 <p class="mb-1"><strong>Clone repository</strong></p>
