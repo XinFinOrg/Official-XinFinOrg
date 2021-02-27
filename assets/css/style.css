@@ -2088,8 +2088,8 @@ button.btn-outline-default .fa{margin-right:5px;}
     padding-bottom: 0px; 
   }
 
-.vsmall {font-size: 12px !important}
-.exsmall {font-size: 14px !important}
+.vsmall {font-size: 12px !important;line-height: 14px!important;}
+.exsmall {font-size: 14px !important;}
 .small, small {font-size: 100%;}
 
 .smcol

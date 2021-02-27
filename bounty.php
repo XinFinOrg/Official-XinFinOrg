@@ -29,7 +29,7 @@ include('inc/header.php') ?>
                         <div class="content">
                             <h3>Masternode (One-click node setup) Bounty</h3>
                             <h4 class="highlight small">Up to 140% of technical integration cost</h4>
-                            <p class="text-muted">Create easy One-click XinFin-Node setup on AWS, Azure, Oracle Cloud, IBM cloud.</p>
+                            <p class="text-muted">Create easy One-click XinFin-Node setup on AWS, Azure, Google Cloud, Oracle Cloud, IBM Cloud.</p>
 							<!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>-->
                         </div>
                         <div class="btn-block mb-1">
@@ -350,12 +350,12 @@ include('inc/header.php') ?>
                         </div>
                         <div class="modal-body">
                             <div class="bounty">
-                                <p class="mb-0"><strong>Purpose:</strong> To Create an easy One-click XinFin-Node setup on AWS, Azure, Oracle Cloud, IBM cloud. <span class="vsmall">(From the command-based Masternode setup method. Reference steps after the instruction)</span></p>
+                                <p class="text-left mb-0"><strong>Purpose:</strong> To Create an easy One-click XinFin-Node setup on AWS, Azure, Google Cloud, Oracle Cloud, IBM Cloud. <span class="vsmall">(From the command-based Masternode setup method. Reference steps after the instruction)</span></p>
                                 <p class="sub-header-small mt-3 mb-2">Function covered under one click XinFin Node setup:</p>
-                                <p><strong>STEP 1:</strong> Add or Copy Updated XinFin-Node Docker file to the Cloud provider like AWS, Azure, Oracle, or IBM.</p>
+                                <p><strong>STEP 1:</strong> Add or Copy Updated XinFin-Node Docker file to the Cloud provider like AWS, Azure, Google, Oracle, or IBM.</p>
                                 <p>Clone repository command:</p>
                                 <pre><code>git clone https://github.com/XinFinOrg/XinFin-Node.git</code></pre>
-                                <p><strong>Step 2.</strong> Install XinFin-Node using command:</p>
+                                <p class="text-left"><strong>Step 2.</strong> Install XinFin-Node using command:</p>
                                 <pre><code>sudo ./install_docker.sh</code></pre>
                                 <p><strong>Step 3:</strong> Ask for required information like Node_Name and email.</p>
                                 <p><strong>Step 4:</strong> Start node using command:</p>
@@ -372,7 +372,7 @@ include('inc/header.php') ?>
                                 <p>Cloud provider IndSoft.net already setup One-click XinFin-Node setup. ( <a href="https://indsoft.net/blog/deploy-a-nodejs-and-expressjs-app-on-indsoft-system-cloud-with-nginx/" target="_blank" class="fw-4">ref URL</a> and <a href="https://www.youtube.com/watch?v=_NbwZs5muaY&feature=youtu.be" target="_blank" class="fw-4">ref video</a> )</p>
                                 
                                 <p class="sub-header-small no-color mt-3">Reference:</p>
-                                <p>Website and information resource to setup masternode: <a href="https://xinfin.org/setup-masternode" target="_blank" class="fw-4">https://xinfin.org/setup-masternode</a></p>
+                                <p class="text-left">Website and information resource to setup masternode: <a href="https://xinfin.org/setup-masternode" target="_blank" class="fw-4">https://xinfin.org/setup-masternode</a></p>
                                 
                                 <p class="sub-header-small no-color mt-3">Other tip:</p>
                                 <p>Add XinFin-Node Dockers file to the marketplace like <a href="https://aws.amazon.com/marketplace/search/results?x=0&y=0&searchTerms=blockchain+" target="_blank" class="fw-4">AWS Marketplace</a>. This option allows an easy Drag and Drop option to setup masternode.</p>
@@ -386,7 +386,7 @@ include('inc/header.php') ?>
                                 <p>Enter <code>XinFin-Node</code> directory</p>
                                 <pre><code>cd XinFin-Node</code></pre>
 
-                                <p class="mt-3 mb-1"><strong>Step 1: Install docker & docker-compose</strong></p>
+                                <p class="text-left mt-3 mb-1"><strong>Step 1: Install docker & docker-compose</strong></p>
                                 <pre><code>sudo ./install_docker.sh</code></pre>
 
                                 <p class="mt-3 mb-1"><strong>Step 2: Update .env file with details</strong></p>
@@ -398,9 +398,7 @@ include('inc/header.php') ?>
                                 <p class="mt-3 mb-1"><strong>Step 3: Start your Node</strong></p>
                                 <p>Run:</p>
                                 <pre>sudo docker-compose -f docker-services.yml up -d</pre>
-                                <p class="link-break-out">
-                                    You should be able to see your node listed on this page: <a href="http://xinfin.network" target="_blank" class="fw-4">http://xinfin.network</a> Select Menu "Switch to TestNet" for Test Network and Select "Switch to
-                                    LiveNet" to check Live Network Stats.
+                                <p class="link-break-out">You should be able to see your node listed on this page: <a href="http://xinfin.network" target="_blank" class="fw-4">http://xinfin.network</a> Select Menu "Switch to TestNet" for Test Network and Select "Switch to LiveNet" to check Live Network Stats.
                                 </p>
                                 <p>Your Coinbase address can be found in xdcchain/coinbase.txt file.</p>
 
