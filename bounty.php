@@ -434,14 +434,14 @@ include('inc/header.php') ?>
                                 
                                 <p class="text-left"><code>patchBlocks</code> If the patch is set to true, the amount of block specified will be check from the latest one.</p>
                                 
-                                <p class="sub-header-small no-color mt-3 mb-2">Run</p>
+                                <p class="sub-header-small no-color mt-3 mb-2">Run:</p>
                                 
                                 <p class="text-left">The below will start both the web-GUI and sync.js (which populates MongoDB with blocks/transactions). <code>npm start</code></p>
                                 
                                 <p class="text-left">You can leave sync.js running without app.js and it will sync and grab blocks based on config.json parameters node <code>./tools/sync.js</code></p>
                                 <p class="text-left">You can configure intervals (how often a new data point is pulled) and range (how many blocks to go back) with the following: <code>RESCAN=1000:100000 node tools/stats.js</code> (New data point every 1,000 blocks. Go back 100,000 blocks).</p>
                                 
-                                <p class="sub-header-small no-color mt-3 mb-2">Troubleshooting</p>                                
+                                <p class="sub-header-small no-color mt-3 mb-2">Troubleshooting</p>
                                 <p>If you are having problems with Setup, the first step is to collect more information to accurately characterize the problem. From there, it can be easier to figure out a root cause and a fix.</p>
                                 
                                 <p class="link-break-out">Please drop a message with all possible detail and screenshot at the Community Support forum: <a href="http://xinfin.Net" target="_blank" class="fw-4">http://xinfin.Net</a></p>
@@ -556,7 +556,7 @@ sudo ./upgrade.sh
 sudo docker-compose -f docker-services.yml up -d
 </code></pre>
 
-                                <p class="mb-1"><strong>Troubleshooting</strong></p>
+                                <p class="sub-header-small no-color mt-3 mb-2">Troubleshooting</p>
                                 <p>If you are having problems with Setup, the first step is to collect more information to accurately characterize the problem. From there, it can be easier to figure out a root cause and a fix.</p>
                                 <p class="link-break-out">Please drop a message with all possible detail and screenshot at the Community Support forum: <a href="http://xinfin.Net" target="_blank" class="fw-4">http://xinfin.Net</a></p>
                                 <p class="link-break-out">Telegram Community: <a href="https://t.me/XinFinDevelopers" target="_blank" class="fw-4">https://t.me/XinFinDevelopers</a></p>
