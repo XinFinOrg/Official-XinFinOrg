@@ -28,7 +28,7 @@ include('inc/header.php') ?>
                         </div>
                         <div class="content">
                             <h3>Create XDC Explorer Bounty</h3>
-                            <!--<h4 class="highlight small">Up to 140% of technical integration cost</h4>-->
+                            <h4 class="highlight small">Up to 140% of technical integration cost</h4>
                             <p class="text-muted">Purpose: To Create Multiple XDC Network Explorer.</p>
                         </div>
                         <div class="btn-block mb-1">
