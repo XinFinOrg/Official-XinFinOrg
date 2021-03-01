@@ -24,7 +24,27 @@ include('inc/header.php') ?>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
                     <div class="bounty-box">
                         <div class="image-container">
-                            <img class="img-responsive" src="assets/images/bounty/masternode-one-click-node-setup-bounty.jpg" alt="Masternode (One click node setup) Bounty">
+                            <img class="img-responsive" src="assets/images/bounty/create-xdc-explorer-bounty.jpg" alt="Create XDC Explorer Bounty">
+                        </div>
+                        <div class="content">
+                            <h3>Create XDC Explorer Bounty</h3>
+                            <!--<h4 class="highlight small">Up to 140% of technical integration cost</h4>-->
+                            <p class="text-muted">Purpose: To Create Multiple XDC Network Explorer.</p>
+                        </div>
+                        <div class="btn-block mb-1">
+                            <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>
+                            <a href="https://forms.gle/e8EyGLLpBPw29WnC8" target="_blank">
+                                <button class="btn-hover color-1">Apply</button>
+                            </a>
+                            <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1h">Detailed Rules</button>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
+                    <div class="bounty-box">
+                        <div class="image-container">
+                            <img class="img-responsive" src="assets/images/bounty/masternode-one-click-node-setup-bounty.jpg" alt="Masternode (One-click node setup) Bounty">
                         </div>
                         <div class="content">
                             <h3>Masternode (One-click node setup) Bounty</h3>
@@ -337,6 +357,130 @@ include('inc/header.php') ?>
 
                 </div>
             </div>
+            
+            
+            
+            <!-- Modal 1h -->
+            <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-1h" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered bounty-modal" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                            <h3 class="modal-title" id="exampleModalCenterTitle">Create XDC Explorer Bounty</h3>
+                        </div>
+                        <div class="modal-body">
+                            <div class="bounty">
+                                <p class="text-left mb-0"><strong>Purpose:</strong> To Create Multiple XDC Network Explorer.</p>
+                              <p class="sub-header-small no-color mt-3 mb-2">What is Blockchain Explorer?</p>
+                                <p>A <strong>blockchain explorer</strong> is a piece of software that uses API and <strong>blockchain</strong> nodes to draw various data from a <strong>blockchain</strong> and then uses a database to arrange the searched data and to present the data to the user in a searchable format. (<a href="https://www.softwaretestinghelp.com/blockchain-explorer-tutorial/" target="_blank">ref</a>)</p>
+                                <p>XinFin.Network Explorer allows you to explore and search the XDC blockchain for transactions, addresses, tokens, prices, smart contracts, and other activities taking place on XinFin Network (XDC).</p>
+                                <p><a href="https://coinmarketcap.com/guides/blockexplorer#guide-main" target="_blank" class="fw-4">Coinmarketcap digital guide on Blockchain Explorer <i class="fa fa-external-link"></i></a></p>
+                                
+                              <p class="sub-header-small no-color mt-3 mb-2">Reference website:</p>
+                              <p class="link-break-out mb-0 pb-1"><a href="https://explorer.xinfin.network" target="_blank" class="fw-4">https://explorer.xinfin.network</a></p>
+                              <p class="link-break-out mb-0 pb-1"><a href="https://www.blockchain.com/explorer" target="_blank" class="fw-4">https://www.blockchain.com/explorer</a></p>
+                              <p class="link-break-out mb-0 pb-1"><a href="https://etherscan.io" target="_blank" class="fw-4">https://etherscan.io</a></p>
+                              <p class="link-break-out mb-0 pb-1"><a href="https://www.blockchain.com/explorer" target="_blank" class="fw-4">https://www.blockchain.com/explorer</a></p>
+                                
+                                <p class="sub-header-small no-color mt-3 mb-2">Function should be covered under the XDC Blockchain Explorer?</p>
+                                <p>Setup Explorer Website: Create a new website with various search features like wallet address, token address, transaction reference with the ability to display transactions or smart contracts details of XinFin Network. All features should be accessible using various XDC Network node API or frontend API.</p>
+                                
+                              <p class="text-left link-break-out"><strong>XDC Network's Node HTTP API, SDK Frontend APIs and Developer tool kit:</strong> <a href="https://mycontract.co/" target="_blank" class="fw-4">https://mycontract.co/</a></p>
+                                
+                                <p class="text-left link-break-out"><strong>Basic Explorer Installation process:</strong> <a href="https://github.com/XinFinOrg/XDCScan" target="_blank" class="fw-4">Clone the repo</a></p>
+                                
+                                <p class="text-left">Download <a href="https://docs.npmjs.com/downloading-and-installing-node-js-and-npm" target="_blank" class="fw-4">Nodejs and npm</a> if you don't have them.</p>
+                                
+                                <p class="text-left"><a href="https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/" target="_blank" class="fw-4">Install mongodb</a> or other backend Database System.</p>
+                                
+                                <p class="text-left">This will fetch and parse the entire blockchain.</p>
+                                
+                                <p class="text-left">Setup your configuration file: <code>cp config.example.json config.json</code></p>
+                                
+                                <p class="text-left">Edit <code>config.json</code> as you wish</p>
+                                
+                                <p class="text-left mt-3 mb-1"><strong>Basic settings:</strong></p>
+                                <pre><code>{
+    "nodeAddr":     "localhost",
+    "gethPort":     8545,
+    "startBlock":   0,
+    "endBlock":     "latest",
+    "quiet":        true,
+    "syncAll":      true,
+    "patch":        true,
+    "patchBlocks":  100,
+    "CMCKey":  abcd,
+    "settings": {
+        "symbol": "XDC",
+        "name": "XDC Network",
+        "title": "XDC Network Block Explorer",
+        "author": "XDC Network"
+    }
+}</code></pre>
+                                
+                                <p class="text-left"><code>nodeAddr</code> Your node API RPC address.</p>
+                                
+                                <p class="text-left"><code>gethPort</code> Your node API RPC port.</p>
+                                
+                                <p class="text-left"><code>startBlock</code> This is the start block of the blockchain, should always be 0 if you want to sync the whole CLO blockchain.</p>
+                                
+                                <p class="text-left"><code>endBlock</code> This is usually the 'latest'/'newest' block in the blockchain, this value gets updated automatically, and will be used to patch missing blocks if the whole app goes down.</p>
+                                
+                                <p class="text-left"><code>quiet</code> Suppress some messages. (admittedly still not quiet)</p>
+                                
+                                <p class="text-left"><code>syncAll</code> If this is set to true at the start of the app, the sync will start syncing all blocks from lastSync, and if lastSync is 0 it will start from whatever the endBlock or latest block in the blockchain is.</p>
+                                
+                                <p class="text-left"><code>patch</code> If set to true and below value is set, a sync will be iterated through the # of blocks specified.</p>
+                                
+                                <p class="text-left"><code>patchBlocks</code> If the patch is set to true, the amount of block specified will be check from the latest one.</p>
+                                
+                                <p class="sub-header-small no-color mt-3 mb-2">Run</p>
+                                
+                                <p class="text-left">The below will start both the web-GUI and sync.js (which populates MongoDB with blocks/transactions). <code>npm start</code></p>
+                                
+                                <p class="text-left">You can leave sync.js running without app.js and it will sync and grab blocks based on config.json parameters node <code>./tools/sync.js</code></p>
+                                <p class="text-left">You can configure intervals (how often a new data point is pulled) and range (how many blocks to go back) with the following: <code>RESCAN=1000:100000 node tools/stats.js</code> (New data point every 1,000 blocks. Go back 100,000 blocks).</p>
+                                
+                                <p class="sub-header-small no-color mt-3 mb-2">Troubleshooting</p>                                
+                                <p>If you are having problems with Setup, the first step is to collect more information to accurately characterize the problem. From there, it can be easier to figure out a root cause and a fix.</p>
+                                
+                                <p class="link-break-out">Please drop a message with all possible detail and screenshot at the Community Support forum: <a href="http://xinfin.Net" target="_blank" class="fw-4">http://xinfin.Net</a></p>
+                                <p class="link-break-out">Telegram Community: <a href="https://t.me/XinFinDevelopers" target="_blank" class="fw-4">https://t.me/XinFinDevelopers</a></p>
+                                <p class="link-break-out">Slack Community: <a href="https://xinfin-public.slack.com/messages/CELR2M831/" target="_blank" class="fw-4">https://xinfin-public.slack.com/messages/CELR2M831/</a></p>
+                                
+                                <p class="link-break-out">Reference source code: <a href="https://github.com/XinFinOrg/XDCScan" target="_blank" class="fw-4">https://github.com/XinFinOrg/XDCScan</a></p>
+                                
+                                <p class="sub-header-small no-color mt-3 mb-2">Reference website:</p>
+                                
+                                <p class="link-break-out mb-0 pb-1"><a href="https://github.com/binance-chain/bsc-explorer" target="_blank" class="fw-4">https://github.com/binance-chain/bsc-explorer</a></p>
+                                <p class="link-break-out mb-0 pb-1"><a href="https://github.com/poanetwork/chain-explorer" target="_blank" class="fw-4">https://github.com/poanetwork/chain-explorer</a></p>
+                                <p class="link-break-out mb-0 pb-1"><a href="https://github.com/bing-chou/etherscan-explorer" target="_blank" class="fw-4">https://github.com/bing-chou/etherscan-explorer</a></p>
+                                <p class="link-break-out mb-0 pb-1"><a href="https://github.com/nebulasio/explorer/tree/develop/explorer-front" target="_blank" class="fw-4">https://github.com/nebulasio/explorer/tree/develop/explorer-front</a></p>
+                                <p class="link-break-out mb-0 pb-1"><a href="https://github.com/hyperledger/blockchain-explorer" target="_blank" class="fw-4">https://github.com/hyperledger/blockchain-explorer</a></p>
+                                
+                                <p class="sub-header-small no-color mt-3 mb-2">Bounty:</p>
+                                <p class="text-left">Please fill up the bounty form and pre-approve your bounty budget from the link: <a href="https://xinfin.org/bounty" target="_blank" class="fw-4">https://xinfin.org/bounty</a></p>
+                                
+                                <p class="sub-header-small no-color mt-3 mb-2">Revenue Steam:</p>
+                                <div class="orderList">
+                                <ol>
+                                	<li>Weekly or Monthly fixed Advertisement income from the XDC Network's ecosystem tokens or DApps like TradeFinex, MyContract.co, Blockdegree, XcelTrip, etc.</li>
+                                    <li>Pay per view based advertisement revenue.</li>
+                                </ol>
+                                </div>
+                                
+                                <div class="btn-block mt-3 mb-1">
+                                    <a href="https://forms.gle/e8EyGLLpBPw29WnC8" target="_blank">
+                                        <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="modal-footer"></div>
+                    </div>
+                </div>
+            </div>
+            <!-- /. Modal 1g -->
             
             
             

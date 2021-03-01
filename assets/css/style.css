@@ -1533,6 +1533,7 @@ button.btn-outline-default .fa{margin-right:5px;}
 .modal .bounty-modal .modal-body {background: #fbfafa;padding: 15px 25px;overflow-x: hidden;overflow-y: auto;max-height: 425px;}
 .modal .bounty-modal .modal-body a {font-weight:700;}
 .modal .bounty-modal .modal-body .bounty p {margin: 0 0 15px;}
+.modal .bounty-modal .modal-body .bounty p i {font-size: 12px;margin-left: 5px;}
 .modal .bounty-modal .modal-body .bounty .linkbox {padding:15px;background: rgba(48, 117, 238, 0.1);margin-bottom:15px;}
 .modal .bounty-modal .modal-body .bounty .linkbox p {text-align:center;font-weight:600;font-size:20px;}
 	
