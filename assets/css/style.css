@@ -385,8 +385,8 @@ canvas
     border-bottom: 0;
     margin: 0 auto!important;
     text-align: center;
-    display: table;
-    font-size: 16px;
+    /*display: table;*/
+    font-size: 17px;
     /*text-transform: uppercase;*/
 	font-family: 'Muli', sans-serif;
     color:#72a8bc;
@@ -403,20 +403,26 @@ canvas
 }*/
 .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
     cursor: default;
-    color: #ffffff; 
+    color: #096db0;
     border-left: 0;
     border-right: 0;
-    background: #2b8ac0 !important;
+    /*background: #f9f9f9;*/
+	border-bottom: 4px solid #2b8ac0 !important;
     border-top:none;
     border-radius: 0;
 }
+.nav-tabs>li {
+	margin-bottom: 0px!important;
+}
 .nav-tabs>li>a {
-    margin-right: 2px;
+    font-size: 18px;
+	margin-right: 2px;
     line-height: 1.42857143;
     border: none; 
     border-radius: 4px 4px 0 0;
-    color: #096db0;
-	padding: 20px 20px;
+    color: #001e46;
+	padding: 20px 20px;	
+	border-bottom: 4px solid transparent;
 }
 
 #bannerdev .tab-content, #solbanner .tab-content
@@ -1619,7 +1625,7 @@ button.btn-outline-default .fa{margin-right:5px;}
 }
 
 @media (min-width: 768px) and (max-width: 991px) {.exchange-listing .exchange-box {width: 32.5%;}}
-@media (max-width: 767px){.exchange-listing .exchange-box {width: 32.6%;}.setup-masternode-row .nav-tabs{display: inline;}.setup-masternode-row .nav-tabs>li {float: none;}.setup-masternode-row .nav-tabs>li a{padding: 10px 10px;margin-right: 0px;}}
+@media (max-width: 767px){.exchange-listing .exchange-box {width: 32.6%;}.setup-masternode-row .nav-tabs{display: inline;}.setup-masternode-row .nav-tabs>li {float: none;}.nav-tabs>li {border-bottom: 2px solid #f6f6f6;}.nav-tabs>li a {border-bottom: 4px solid #FFFFFF;}.setup-masternode-row .nav-tabs>li a{padding: 10px 10px;margin-right: 0px;}}
 @media (max-width: 481px){
 #homebanner .bannertext h1 {font-size: 20px!important;}
 #homebanner .bannertext p {font-size: 15px!important;margin-top: 0px!important;}
@@ -5242,6 +5248,104 @@ table{width:100%;background-color:#fff}th,td{font-weight:unset;padding-right:10p
 }
 }
 /*-- Get started with CDC network css --*/
+
+
+
+/*-- Ecosystem Partners css --*/
+#ecosystem-partners {
+    padding: 70px 0 70px;
+    background: #ffffff;
+}
+#ecosystem-partners h1 {
+    color: #00244e;
+    font-size: 36px;
+	font-weight: 600;
+    font-family: muli,sans-serif;
+    text-transform: capitalize;
+    margin-top: 0;
+    text-align: left;
+}
+#ecosystem-partners p {
+    font-size: 18px;
+    font-family: muli,sans-serif;
+    color: #646464;
+	text-align: left;
+}
+.ecosystem-partners-row {
+    background-color: rgba(246, 246, 246, 0.5);
+	border-top: 1px solid #f6f6f6;
+	border-bottom: 2px solid #f6f6f6;
+}
+#ecosystem-partners .tab-content {
+    padding-top: 50px;
+}
+.tab-content .ecosystem-partners-block h3 {
+    color: #646464;
+    font-size: 26px!important;
+	font-weight: 700;
+    font-family: muli,sans-serif;
+    text-transform: capitalize;
+    margin-top: 0;
+	margin-bottom: 0px;
+    text-align: left;
+}
+.tab-content .ecosystem-partners-block .orderList {
+    font-size: 16px;
+    color: #646464;
+}
+.tab-content .ecosystem-partners-block .orderList ol {
+    margin-left: 20px;
+}
+.tab-content .ecosystem-partners-block .orderList ol li {
+    margin-bottom: 5px;
+}
+
+
+.partner-logo_block {
+    /*display: flex;
+    text-align: center;
+    vertical-align: middle;
+    justify-content: space-around;*/
+	margin-top: 40px;
+}
+.partner-logo_block .logo {
+	/*width: 25%;*/
+	text-align: center;
+	height: 100%;
+}
+.partner-logo {
+    height: auto !important;
+	position: relative;
+    margin: 1rem;
+}
+.partner-logo_block .partner-logo .img-responsive {
+    margin: 0 auto;
+}
+.partner-logo_block img {
+    width: 175px;
+	height: auto;
+}
+.partner-logo_block h6 {
+    vertical-align: bottom;
+}
+.partner-logo_desc {
+    color: #b1b1b1;
+	margin: .75rem 0 3.5rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+    line-height: 1.4;
+	letter-spacing: 0.5px;
+}
+.ecosystem-partners-row .nav-tabs>li.active>a {background-color: transparent;}
+@media screen and (max-width:767px) {
+.partner-logo_block .logo {width: 50%;float: left;}.partner-logo_block {display: flex;}.ecosystem-partners-row .nav-tabs>li {float: none;}.nav-tabs>li.active>a {background-color:transparent;}.ecosystem-partners-row .nav-tabs>li {border-bottom: 2px solid #ffffff;}.ecosystem-partners-row .nav-tabs>li a {border-bottom: 4px solid transparent;}
+}
+@media screen and (max-width:576px) {
+	.partner-logo_block .logo {width: 100%;}.partner-logo_block {display: block;}
+}
+/*-- Ecosystem Partners css --*/
+
+
 
 @media screen and (max-width:576px) {
 	#partners h1, #featured-in h1, #video-section h1, #video-section h1, #wallet-supports h1, #get-started-with h1 {font-size: 30px;}

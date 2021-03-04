@@ -32,12 +32,12 @@ include('inc/header.php') ?>
 <div class="container-fluid">
 	<div class="row">
 		<div class="about-tab-row">
-			<!--<div class="container">-->
+			<div class="container">
 				<ul class="nav nav-tabs">
-					<li class="active"><a data-toggle="tab" href="#xinfin">ABOUT XinFin</a></li>
-				    <li><a data-toggle="tab" href="#team">ABOUT THE TEAM</a></li>
+					<li class="active"><a data-toggle="tab" href="#xinfin">About XinFin</a></li>
+				    <li><a data-toggle="tab" href="#team">About The Team</a></li>
 				</ul>
-			<!--<div class="container">-->
+			</div>
 		</div>
 	</div>
 </div>
