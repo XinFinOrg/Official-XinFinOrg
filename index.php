@@ -790,7 +790,7 @@ include('inc/header.php') ?>
                 <div class="row row-flex">
                     <div class="col-lg-4 col-md-4 col-sm-6 col-sm-12 px-1 mt-1 mb-1">
                         <a href="https://github.com/xinfinorg/Wallet" target="_blank">
-                            <div class="services-block wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.2s">
+                            <div class="services-block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.2s">
                                 <div class="inner-box">
                                     <div class="icon-img-box align-self-center">
                                         <img src="assets/images/get-started-icons/setup-wallet.png">
@@ -805,7 +805,7 @@ include('inc/header.php') ?>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-sm-12 px-1 mt-1 mb-1">
                         <a href="https://github.com/xinfinorg/XDCScan" target="_blank">
-                            <div class="services-block wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.4s">
+                            <div class="services-block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.4s">
                                 <div class="inner-box">
                                     <div class="icon-img-box align-self-center">
                                         <img src="assets/images/get-started-icons/setup-explorer.png">
@@ -820,7 +820,7 @@ include('inc/header.php') ?>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-sm-12 px-1 mt-1 mb-1">
                         <a href="https://mycontract.co" target="_blank">
-                            <div class="services-block wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.6s">
+                            <div class="services-block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.6s">
                                 <div class="inner-box">
                                     <div class="icon-img-box align-self-center">
                                         <img src="assets/images/get-started-icons/decentralized-oracle.png">
@@ -835,7 +835,7 @@ include('inc/header.php') ?>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-sm-12 px-1 mt-1 mb-1">
                         <a href="https://mycontract.co" target="_blank">
-                            <div class="services-block wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.8s">
+                            <div class="services-block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.8s">
                                 <div class="inner-box">
                                     <div class="icon-img-box align-self-center">
                                         <img src="assets/images/get-started-icons/build-dapps.png">
@@ -850,7 +850,7 @@ include('inc/header.php') ?>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-sm-12 px-1 mt-1 mb-1">
                         <a href="https://github.com/xinfinorg/XinFin-Node" target="_blank">
-                            <div class="services-block wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="1s">
+                            <div class="services-block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1s">
                                 <div class="inner-box">
                                     <div class="icon-img-box align-self-center">
                                         <img src="assets/images/get-started-icons/institutional-rpc.png">
@@ -865,7 +865,7 @@ include('inc/header.php') ?>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-sm-12 px-1 mt-1 mb-1">
                         <a href="https://xinfin.org/custody-services-integration" target="_blank">
-                            <div class="services-block wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="1.2s">
+                            <div class="services-block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.2s">
                                 <div class="inner-box">
                                     <div class="icon-img-box align-self-center">
                                         <img src="assets/images/get-started-icons/wallets-custodians.png">
