@@ -22,7 +22,22 @@ include('inc/header.php') ?>
 </section>
 
 <section id="protocol" class="bounty">
+<div class="container-fluid">
+            <div class="row">
+                <div class="setup-masternode-row">
+                    <div class="container">
+                    <ul class="nav nav-tabs">
+                        <li class="active"><a data-toggle="tab" href="#running-bounty">Running Bounty</a></li>
+                        <li><a data-toggle="tab" href="#completed-bounty">Completed Bounty</a></li>
+                    </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
     <div class="container">
+        <div class="tab-content">
+                <div id="running-bounty" class="tab-pane fade in active">
         <div class="row flex-row">
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
                 <div class="bounty-box">
@@ -382,6 +397,91 @@ include('inc/header.php') ?>
                         </div>
                     </div>
                 </div>-->
+        </div>
+        </div>
+        
+        <div id="completed-bounty" class="tab-pane fade">
+        <div class="row flex-row">
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
+                    <div class="bounty-box">
+                        <div class="image-container">
+                            <img class="img-responsive" src="assets/images/bounty/deploy-solidity-smart-contract.jpg" alt="Deploy Solidity Contract on XinFin MainNet (DSCXM Bounty)">
+                        </div>
+                        <div class="content">
+                            <h3>Deploy Solidity Contract on XinFin MainNet (DSCXM Bounty)</h3>
+                            <h4 class="highlight">Up to 10,000 USD worth XDC</h4>
+                            <p class="text-muted">Deploy Solidity Contract on XinFin MainNet and get rewards.</p>
+                        </div>
+                        <div class="btn-block mb-1">
+                            <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status finished pull-right">FINISHED</span></div>
+                            <a href="#" class="disabled">
+                                <button class="btn-hover color-1">Apply</button>
+                            </a>
+                            <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-4">Detailed Rules</button>
+                        </div>
+                    </div>
+                </div>
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
+                    <div class="bounty-box">
+                        <div class="image-container">
+                            <img class="img-responsive" src="assets/images/bounty/masternode-bounty-program.jpg" alt="Masternode Bounty Program: For hosting Masternode">
+                        </div>
+                        <div class="content">
+                            <h3>Masternode Bounty Program: For hosting Masternode</h3>
+                            <h4 class="highlight">Up to 900 USD worth XDC</h4>
+                            <p class="text-muted">Host Masternode and get incentives as well as a special bonus bounty.</p>
+                        </div>
+                        <div class="btn-block mb-1">
+                            <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status finished pull-right">FINISHED</span></div>
+                            <a href="#" class="disabled">
+                                <button class="btn-hover color-1">Apply</button>
+                            </a>
+                            <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-7">Detailed Rules</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
+                    <div class="bounty-box">
+                        <div class="image-container">
+                            <img class="img-responsive" src="assets/images/bounty/masternode-luck-user-bounty.jpg" alt="Masternode Luck User Bounty: To set-up Masternode">
+                        </div>
+                        <div class="content">
+                            <h3>Masternode Luck User Bounty: To set-up Masternode</h3>
+                            <h4 class="highlight">Up to 2,000,000 XDC</h4>
+                            <p class="text-muted">Set-up a Masternode using the one-click installer guide.</p>
+                        </div>
+                        <div class="btn-block mb-1">
+                            <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status finished pull-right">FINISHED</span></div>
+                            <a href="#" class="disabled">
+                                <button class="btn-hover color-1">Apply</button>
+                            </a>
+                            <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-8">Detailed Rules</button>
+                        </div>
+                    </div>
+                </div>
+				
+				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
+                    <div class="bounty-box">
+                        <div class="image-container">
+                            <img class="img-responsive" src="assets/images/bounty/memes-bounty.jpg" alt="XinFin Android Wallet Bug Bounty">
+                        </div>
+                        <div class="content">
+                            <h3>XinFin Memes Campaign (Bounty on Memes)</h3>
+                            <h4 class="highlight">Up to 5,000 XDC</h4>
+                            <p class="text-muted">Participate in XinFin Memes Bounty and get rewards.</p>
+                        </div>
+                        <div class="btn-block mb-1">
+                            <div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status finished pull-right">FINISHED</span></div>
+                            <a href="#" class="disabled">
+                                <button class="btn-hover color-1">Apply</button>
+                            </a>
+                            <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-3">Detailed Rules</button>
+                        </div>
+                    </div>
+                </div>
+        </div>
+        </div>
         </div>
 
         <div class="row">
@@ -1306,7 +1406,7 @@ sudo docker-compose -f docker-services.yml up -d
             </div>
         </div>
     
-        <div class="row">
+        <div class="row desktop_view_ecosystem-partners">
             <div class="col-lg-12">
                 <div class="ecosystem-partners-row">
                     <ul class="nav nav-tabs">
@@ -1316,24 +1416,19 @@ sudo docker-compose -f docker-services.yml up -d
                     </ul>
                 </div>
             </div>
-        </div>
-	</div>
-    
-    <div class="container">
-        <div class="row">
+            
             <div class="col-lg-12">
                 <div class="tab-content">
                     <div id="CLD" class="tab-pane fade in active">
                         <div class="ecosystem-partners-block">
                             <h3>Core Level Developers</h3>
                             <div class="orderList">
-                                <ol>
+                                <ul>
                                     <li>Network Consensus, Network upgrades, Network tools</li>
                                     <li>Security and Stress testing</li>
-                                </ol>
+                                </ul>
                             </div>
-    
-                            <div class="container">
+                            
                                 <div class="row flex-row partner-logo_block">
                                     <div class="col-lg-3 col-md-3 col-sm-4 logo">
                                         <a href="https://4irelabs.com/" target="_blank">
@@ -1348,7 +1443,6 @@ sudo docker-compose -f docker-services.yml up -d
                                         </a>
                                     </div>
                                 </div>
-                            </div>
                         </div>
                     </div>
                     
@@ -1356,13 +1450,12 @@ sudo docker-compose -f docker-services.yml up -d
                         <div class="ecosystem-partners-block">
                             <h3>Infrastructure Integration Level Developers</h3>
                             <div class="orderList">
-                                <ol>
+                                <ul>
                                     <li>Wallet Connectors, Exchange Connectors, Custodian Connectors</li>
                                     <li>Security and Stress testing</li>
-                                </ol>
+                                </ul>
                             </div>
-    
-                            <div class="container">
+                            
                                 <div class="row flex-row partner-logo_block">
                                     <div class="col-lg-3 col-md-3 col-sm-4 logo">
                                         <a href="https://4irelabs.com/" target="_blank">
@@ -1377,24 +1470,32 @@ sudo docker-compose -f docker-services.yml up -d
                                         </a>
                                     </div>
                                 </div>
-                            </div>
                         </div>
                     </div>
                     
                     <div id="ALD" class="tab-pane fade">
                         <div class="ecosystem-partners-block">
                             <h3>Application Level Developers</h3>
-                            <div class="orderList">
-                                <ol>
-                                    <li>Smart contracts</li>
-                                    <li>Middleware</li>
-                                    <li>Oracles and Price Feeds</li>
-                                    <li>Cross-chain bridge</li>
-                                    <li>Security and Stress testing</li>
-                                </ol>
+                            <div class="row">
+                                <div class="col-lg-4 col-md-4">
+                                    <div class="orderList">
+                                        <ul>
+                                            <li>Smart contracts</li>
+                                            <li>Middleware</li>
+                                            <li>Oracles and Price Feeds</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-4">
+                                    <div class="orderList">
+                                        <ul>
+                                            <li>Cross-chain bridge</li>
+                                            <li>Security and Stress testing</li>
+                                        </ul>
+                                    </div>
+                                </div>
                             </div>
-    
-                            <div class="container">
+                            
                                 <div class="row flex-row partner-logo_block">
                                     <div class="col-lg-3 col-md-3 col-sm-4 logo">
                                         <a href="https://cordite.foundation/" target="_blank">
@@ -1451,13 +1552,164 @@ sudo docker-compose -f docker-services.yml up -d
                                         </a>
                                     </div>
                                 </div>
-                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+	</div>
+    
+    
+    <div class="container">
+    	<div class="row mobile_view_ecosystem-partners">
+            <div class="col-lg-12">
+                <div class="accordion js-accordion">
+                    <div class="accordion__item js-accordion-item">
+                        <div class="accordion-header js-accordion-header"><p>Core Level Developers</p> <span><i class="fa fa-chevron-down"></i></span></div>
+                        <div class="accordion-body js-accordion-body">
+                            <div class="accordion-body__contents">
+                                <div class="ecosystem-partners-block">
+                            <h3>Core Level Developers</h3>
+                            <div class="orderList">
+                                <ul>
+                                    <li>Network Consensus, Network upgrades, Network tools</li>
+                                    <li>Security and Stress testing</li>
+                                </ul>
+                            </div>
+                            
+                                <div class="row flex-row partner-logo_block">
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://4irelabs.com/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/4ireLabs_logo.png" alt="4ireLabs" /></div>
+                                            <h6 class="partner-logo_desc">4IRE LABS</h6>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://sotatek.com/en" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/sotatek_logo.png" alt="SotaTek" /></div>
+                                            <h6 class="partner-logo_desc">SotaTek</h6>
+                                        </a>
+                                    </div>
+                                </div>
+                        </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="accordion__item js-accordion-item">
+                        <div class="accordion-header js-accordion-header align-items-center">Infrastructure Integration Level Developers <span><i class="fa fa-chevron-down"></i></span></div>
+                        <div class="accordion-body js-accordion-body">
+                            <div class="accordion-body__contents">
+                                    <div class="ecosystem-partners-block">
+                            <h3>Infrastructure Integration Level Developers</h3>
+                            <div class="orderList">
+                                <ul>
+                                    <li>Wallet Connectors, Exchange Connectors, Custodian Connectors</li>
+                                    <li>Security and Stress testing</li>
+                                </ul>
+                            </div>
+                            
+                                <div class="row flex-row partner-logo_block">
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://4irelabs.com/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/gitcoin_logo.png" alt="Gitcoin.co" /></div>
+                                            <h6 class="partner-logo_desc">Gitcoin.co</h6>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://sotatek.com/en" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/iotrust_logo.png" alt="IoTrust" /></div>
+                                            <h6 class="partner-logo_desc">IoTrust (Makers of D'cent Wallet)</h6>
+                                        </a>
+                                    </div>
+                                </div>
+                        </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="accordion__item js-accordion-item">
+                        <div class="accordion-header js-accordion-header"><p>Application Level Developers</p> <span><i class="fa fa-chevron-down"></i></span></div>
+                        <div class="accordion-body js-accordion-body">
+                            <div class="accordion-body__contents">
+                                    <div class="ecosystem-partners-block">
+                            <h3>Application Level Developers</h3>
+                            <div class="orderList">
+                                        <ul>
+                                            <li>Smart contracts</li>
+                                            <li>Middleware</li>
+                                            <li>Oracles and Price Feeds</li>
+                                            <li>Cross-chain bridge</li>
+                                            <li>Security and Stress testing</li>
+                                        </ul>
+                                    </div>
+                            
+                                <div class="row flex-row partner-logo_block">
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://cordite.foundation/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/cordite-foundation_logo.png" class="img-responsive" alt="Cordite Foundation" /></div>
+                                            <h6 class="partner-logo_desc">Lab5577 (Cordite Society)</h6>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://zubi.io/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/zubi_logo.png" class="img-responsive" alt="Zubi.io" /></div>
+                                            <h6 class="partner-logo_desc">Zubi.io</h6>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://yodaplus.com/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/yodaplus_logo.png" class="img-responsive" alt="Yodaplus" /></div>
+                                            <h6 class="partner-logo_desc">Yodaplus</h6>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://www.tracefinancial.com/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/tracefinancial_logo.png" class="img-responsive" alt="Trace Financial" /></div>
+                                            <h6 class="partner-logo_desc">Trace Financial (ISO20022 - Financial Messaging Integration)</h6>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://www.tradeteq.com/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/tradeteq_logo.png" class="img-responsive" alt="TradeTeq" /></div>
+                                            <h6 class="partner-logo_desc">TradeTeq (Notes Tokenization for Banks and Non-Bank Originators)</h6>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://chain.link/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/chainlink_logo.png" class="img-responsive" alt="Chainlink" /></div>
+                                            <h6 class="partner-logo_desc">Chainlink (Oracles and Price Feeds)</h6>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://razor.network/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/razor-network_logo.png" class="img-responsive" alt="Razor Network" /></div>
+                                            <h6 class="partner-logo_desc">Razor Network (Oracles and Price Feeds)</h6>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://jelly.market/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/jelly-swap_logo.png" class="img-responsive" alt="JellySwap" /></div>
+                                            <h6 class="partner-logo_desc">JellySwap (Cross-chain DEX)</h6>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://meherett.github.io" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/meheret_logo.png" class="img-responsive" alt="Meherett" /></div>
+                                            <h6 class="partner-logo_desc">Meherett</h6>
+                                        </a>
+                                    </div>
+                                </div>
+                        </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>        
     </div>
+    
+    
     
     <div class="container">
         <div class="row">
@@ -1508,3 +1760,58 @@ sudo docker-compose -f docker-services.yml up -d
         }
     });
 </script>
+
+
+
+
+
+
+<!-- Mobile view Accordion -->
+<script>
+    var accordion = (function() {
+        var $accordion = $('.js-accordion');
+        var $accordion_header = $accordion.find('.js-accordion-header');
+        var $accordion_item = $('.js-accordion-item');
+        // default settings 
+        var settings = {
+            // animation speed
+            speed: 400,
+            // close all other accordion items if true
+            oneOpen: false
+        };
+        return {
+            // pass configurable object literal
+            init: function($settings) {
+                $accordion_header.on('click', function() {
+                    accordion.toggle($(this));
+                });
+                $.extend(settings, $settings);
+                // ensure only one accordion is active if oneOpen is true
+                if (settings.oneOpen && $('.js-accordion-item.active').length > 1) {
+                    $('.js-accordion-item.active:not(:first)').removeClass('active');
+                }
+                // reveal the active accordion bodies
+                $('.js-accordion-item.active').find('> .js-accordion-body').show();
+            },
+            toggle: function($this) {
+                if (settings.oneOpen && $this[0] != $this.closest('.js-accordion').find('> .js-accordion-item.active > .js-accordion-header')[0]) {
+                    $this.closest('.js-accordion')
+                        .find('> .js-accordion-item')
+                        .removeClass('active')
+                        .find('.js-accordion-body')
+                        .slideUp()
+                }
+                // show/hide the clicked accordion item
+                $this.closest('.js-accordion-item').toggleClass('active');
+                $this.next().stop().slideToggle(settings.speed);
+            }
+        }
+    })();
+    $(document).ready(function() {
+        accordion.init({
+            speed: 300,
+            oneOpen: true
+        });
+    });
+</script>
+<!-- Ends Mobile view Accordion -->
