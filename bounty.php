@@ -1597,7 +1597,7 @@ sudo docker-compose -f docker-services.yml up -d
                     </div>
                     
                     <div class="accordion__item js-accordion-item">
-                        <div class="accordion-header js-accordion-header align-items-center">Infrastructure Integration Level Developers <span><i class="fa fa-chevron-down"></i></span></div>
+                        <div class="accordion-header js-accordion-header align-items-center"><p>Infrastructure Integration Level Developers</p> <span><i class="fa fa-chevron-down"></i></span></div>
                         <div class="accordion-body js-accordion-body">
                             <div class="accordion-body__contents">
                                     <div class="ecosystem-partners-block">
