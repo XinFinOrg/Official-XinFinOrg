@@ -1504,7 +1504,7 @@ button.btn-outline-default .fa{margin-right:5px;}
 .bounty-box .image-container {display: -ms-flexbox;display: flex;text-align: center;-ms-flex-align: center;align-items: center;font: 0/0 a;border: 1px solid transparent;}
 .bounty-box .image-container img {margin: auto;width: 100%;max-height: 100%;-o-object-fit: contain;object-fit: contain;}
 .bounty-box .content {padding: 0px 15px;min-height:190px;}
-.bounty-box .content h3{font-size:20px;font-weight:600;line-height:24px;}
+.bounty-box .content h3{font-size:20px!important;font-weight:600;line-height:24px;text-align: left;}
 .bounty-box .content h4.highlight {font-size:18px;color:#096db0;font-style:italic;font-weight:700;line-height: 20px;margin-top: 15px;margin-bottom: 15px;}
 .bounty-box .content h4.highlight.small {font-size:15px;}
 .bounty-box .content p {font-size:14px;line-height:20px;min-height:165px;margin-bottom:15px;}
@@ -1529,7 +1529,7 @@ button.btn-outline-default .fa{margin-right:5px;}
 .bounty-box .progress-labels .status.finished{color:#ff6a00;}
 
 
-
+.bounty .tab-content {padding-top: 60px;}
 
 
 .modal {padding: 15px!important;}
