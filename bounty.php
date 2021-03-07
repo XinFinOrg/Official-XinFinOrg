@@ -1521,12 +1521,12 @@ sudo docker-compose -f docker-services.yml up -d
                                             <h6 class="partner-logo_desc">Trace Financial (ISO20022 - Financial Messaging Integration)</h6>
                                         </a>
                                     </div>
-                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                    <!--<div class="col-lg-3 col-md-3 col-sm-4 logo">
                                         <a href="https://www.tradeteq.com/" target="_blank">
                                             <div class="partner-logo"><img src="assets/images/ecosystem-partners/tradeteq_logo.png" class="img-responsive" alt="TradeTeq" /></div>
                                             <h6 class="partner-logo_desc">TradeTeq (Notes Tokenization for Banks and Non-Bank Originators)</h6>
                                         </a>
-                                    </div>
+                                    </div>-->
                                     <div class="col-lg-3 col-md-3 col-sm-4 logo">
                                         <a href="https://chain.link/" target="_blank">
                                             <div class="partner-logo"><img src="assets/images/ecosystem-partners/chainlink_logo.png" class="img-responsive" alt="Chainlink" /></div>
