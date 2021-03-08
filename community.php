@@ -342,12 +342,14 @@ include('inc/header.php') ?>
                         <li class="mb-1">Learn about XinFin at <a href="howto.xinfin.org" target="_blank" class="link-after-icon">howto.xinfin.org</a></li>
                         <li class="mb-1">Find <a href="https://xinfin.org/bounty">Community Bounty</a>, Contribute to the XinFin Blockchain Ecosystem, and earn rewards!</li>
                         <li class="mb-1">Get expose to XinFin's Opensource repositories on <a href="https://github.com/XinFinorg" target="_blank" class="link-after-icon">GitHub</a></li>
+                        <li>Create your <a href="https://mycontract.co/" target="_blank" class="link-after-icon">Smart Contract</a> Without Coding and deploy on XinFin XDC Network</li>
+                        <li class="mb-1">A collection holding all the XinFin Network <a href="https://apidocs.xinfin.network/" target="_blank" class="link-after-icon">JSON​ RPC API calls</a></li>                        
                         <li class="mb-1">Join the <a href="https://github.com/XinFinOrg/Open-Hackathon" target="_blank" class="link-after-icon">Online Hackathon</a> on XinFin Network and get rewarded with XDC!</li>
-                        <li class="mb-1">Join the XinFin Community Forum at <a href="https://bitcointalk.org/index.php?topic=1989818.0" target="_blank" class="link-after-icon">bitcointalk.org</a></li>
-                        <li class="mb-1">Interact with XinFin XDC Network developers directly on <a href="https://t.me/XinFinDevelopers" target="_blank" class="link-after-icon">Telegram at Development Community</a>.</li>
-                        <li class="mb-1">Welcome to the Public Slack Channel of XinFin at <a href="https://xinfin-public.slack.com/messages/CELR2M831/" target="_blank" class="link-after-icon">xinfin-public.slack.com</a></li>                        
-                        <li class="mb-1">A collection holding all the XinFin Network <a href="https://apidocs.xinfin.network/" target="_blank" class="link-after-icon">JSON​ RPC API calls</a></li>
-                        <li>Create your <a href="https://mycontract.co/" target="_blank" class="link-after-icon">Smart Contract</a> Without Coding and deploy on XinFin XDC Network.</li>
+                        <li class="mb-1">Join the XinFin Community Forum at <a href="https://bitcointalk.org/index.php?topic=1989818.0" target="_blank" class="link-after-icon">bitcointalk.org</a></li>                        
+                        <li class="mb-1">Welcome to the Public Slack Channel of XinFin at <a href="https://xinfin-public.slack.com/messages/CELR2M831/" target="_blank" class="link-after-icon">xinfin-public.slack.com</a></li>
+                        <li class="mb-1">Interact with XinFin XDC Network developers directly on <a href="https://t.me/XinFinDevelopers" target="_blank" class="link-after-icon">Telegram</a> at Development Community</li>
+                        <li class="mb-1">Join our <a href="https://www.reddit.com/r/xinfin/" target="_blank" class="link-after-icon">Reddit Community</a></li>
+                        <li class="mb-1">Join the <a href="https://discord.gg/ZD3DNukcPf" target="_blank" class="link-after-icon">Discord</a> Server of XinFin</li>
                     </ul>
                 </div>
             </div>
