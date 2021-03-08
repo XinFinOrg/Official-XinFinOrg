@@ -869,7 +869,7 @@ hr {
 
   .footer a{
     color:rgba(255,255,255,0.6);
-    font-size: 13px;
+    font-size: 14px;
 	font-weight:400;
   }
   .footer a:hover
@@ -886,7 +886,7 @@ hr {
 }
 .footer-bottom .copyright {
     color: rgba(255,255,255,0.6);
-    font-size: 13px;
+    font-size: 14px;
     float: none;
     line-height: 20px;
 	text-align: left;
@@ -5309,6 +5309,10 @@ table{width:100%;background-color:#fff}th,td{font-weight:unset;padding-right:10p
 #ecosystem-partners .orderList ul li,
 .ecosystem-partners-block .orderList ul li {
     margin-bottom: 5px;
+}
+#ecosystem-partners .orderList li::marker, .ecosystem-partners-block .orderList li::marker {
+    font-size: 17px;
+    font-weight: 700;
 }
 
 .partner-logo_block {
