@@ -7,7 +7,8 @@
                 <h1>About XinFin</h1>
                 <!--<p><span>About XinFin</span><br/>-->
                 <p>
-                    <a href="about">About Community</a><br/>
+                    <a href="about">About XinFin</a><br/>
+                    <a href="community">Community</a><br/>
                     <a href="xinfin-consensus">Public XDPoS Consensus</a><br/>
                     <a href="resources">Resource Guide</a><br/>
                     <a href="http://xinfin.network/" target="_blank">XinFin Network Status</a><br/>
