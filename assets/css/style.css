@@ -147,6 +147,7 @@ h4
 .navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
     color:  #42ffef !important;
     transition: 0.25s all linear;
+	text-decoration: none!important;
 }
 
 .navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
@@ -423,6 +424,9 @@ canvas
     color: #001e46;
 	padding: 20px 20px;	
 	border-bottom: 4px solid transparent;
+}
+.nav-tabs>li>a:hover {
+	text-decoration:none!important;
 }
 
 #bannerdev .tab-content, #solbanner .tab-content
@@ -859,7 +863,7 @@ hr {
 }
 
 .footer .col-md-3
-{
+  {
     padding-top: 31px;
   }
 
@@ -871,7 +875,7 @@ hr {
   .footer a:hover
   {
     color:#FFFFFF;
-    text-decoration:none;
+    text-decoration:none!important;
   }
 
 .footer-bottom {
@@ -1608,7 +1612,7 @@ button.btn-outline-default .fa{margin-right:5px;}
 .exchange-listing .header {color:#096db0!important;padding-bottom: 6px;margin-top: 50px;text-align: left;border-bottom: 1px solid #b9b9b9;font-size:26px;line-height:32px;}
 .exchange-listing .sub-header-border {font-weight:bold;color:#096db0!important;margin-bottom:0px!important;padding-bottom:5px;margin-top:30px;text-align:left;font-size:20px;line-height:26px;}
 .exchange-listing .sub-header-border {border-bottom:double;border-color:#b9b9b9;font-size:20px;line-height:26px;}
-.exchange-listing .sub-header {font-weight:bold;color:#096db0!important;margin-bottom:0px!important;padding-bottom:5px;margin-top:30px;text-align:left;font-size:20px;line-height:26px;}
+.exchange-listing .sub-header {font-weight:700;color:#00244e!important;margin-bottom:0px!important;padding-bottom:5px;margin-top:30px;padding-bottom: 10px;text-align:left;font-size:28px;line-height:26px;}
 .exchange-listing .logo-box img{margin-top:20px!important;margin-bottom:15px!important;display:block;margin:auto;}
 
 .exchange-listing ul li {margin-bottom:10px;}
@@ -1647,7 +1651,8 @@ button.btn-outline-default .fa{margin-right:5px;}
 .exchange-listing .subTitle {font-size: 20px;line-height:24px!important;}
 .exchange-listing .video-frame {border: 2px solid rgba(0,0,0,0.2);}
 .exchange-listing .configurationsBox {background: #FFFFFF;border-radius: 5px;padding: 25px 20px;height: 100%;-webkit-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);-moz-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);}
-.exchange-listing .configurationsBox:hover {-webkit-box-shadow: 0px 5px 15px 0px rgba(72, 117, 178, 0.25);-moz-box-shadow: 0px 5px 15px 0px rgba(72, 117, 178, 0.25);box-shadow: 0px 5px 15px 0px rgba(72, 117, 178, 0.25);}
+.exchange-listing .configurationsBox:hover {-webkit-box-shadow: 0px 5px 15px 0px rgba(72, 117, 178, 0.25);-moz-box-shadow: 0px 5px 15px 0px rgba(72, 117, 178, 0.25);box-shadow: 0px 5px 15px 0px rgba(72, 117, 178, 0.25);text-decoration:none;}
+a.cfb:hover {text-decoration:none!important;}
 .exchange-listing .configurationsBox.bordered {border: 1px solid #e8ebec!important;display:block;}
 .exchange-listing .configurationsBox.bordered:hover h5.heading {color:#007BFF;}
 .exchange-listing .configurationsBox p {color:#696969;text-align:left;margin-bottom:12px!important;line-height: 20px;}
@@ -5253,8 +5258,8 @@ table{width:100%;background-color:#fff}th,td{font-weight:unset;padding-right:10p
 
 /*-- Ecosystem Partners css --*/
 #ecosystem-partners {
-    padding: 70px 0 70px;
-    background: #ffffff;
+    padding: 50px 0 50px;
+    background: #f6f6f6;
 }
 #ecosystem-partners h1 {
     color: #00244e;
@@ -5266,7 +5271,7 @@ table{width:100%;background-color:#fff}th,td{font-weight:unset;padding-right:10p
     text-align: left;
 }
 #ecosystem-partners p {
-    font-size: 18px;
+    font-size: 16px;
     font-family: muli,sans-serif;
     color: #646464;
 	text-align: left;
@@ -5291,13 +5296,17 @@ table{width:100%;background-color:#fff}th,td{font-weight:unset;padding-right:10p
 	margin-bottom: 0px;
     text-align: left;
 }
+#ecosystem-partners .orderList,
 .ecosystem-partners-block .orderList {
     font-size: 16px;
     color: #646464;
 }
+#ecosystem-partners .orderList ul,
 .ecosystem-partners-block .orderList ul {
-    margin-left: 20px;
+    margin-left: 17px;
+	color: #646464;
 }
+#ecosystem-partners .orderList ul li,
 .ecosystem-partners-block .orderList ul li {
     margin-bottom: 5px;
 }
@@ -5313,6 +5322,9 @@ table{width:100%;background-color:#fff}th,td{font-weight:unset;padding-right:10p
 	/*width: 25%;*/
 	text-align: center;
 	height: 100%;
+}
+.partner-logo_block .logo a:focus, .partner-logo_block .logo a:hover {
+	color: #969696;
 }
 .partner-logo {
     height: auto !important;
@@ -5330,7 +5342,7 @@ table{width:100%;background-color:#fff}th,td{font-weight:unset;padding-right:10p
     vertical-align: bottom;
 }
 .partner-logo_desc {
-    color: #b1b1b1;
+    color: #969696;
 	margin: .75rem 0 3.5rem;
     font-size: 1.2rem;
     font-weight: 600;
@@ -5342,10 +5354,13 @@ table{width:100%;background-color:#fff}th,td{font-weight:unset;padding-right:10p
 }
 #ecosystem-partners .pop-section {
     margin: 40px 0 0px;
-    /*background-color: #fafafa;*/
-	border: 2px solid #f6f6f6;
+    background-color: #ffffff;
     border-radius: 5px;
     padding: 30px;
+    height: 100%;
+    -webkit-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);
+    -moz-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);
+    box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);
 }
 #ecosystem-partners .pop-section p {
     font-size: 14px;
@@ -5354,6 +5369,31 @@ table{width:100%;background-color:#fff}th,td{font-weight:unset;padding-right:10p
 }
 #ecosystem-partners .pop-section p:last-child {
 	margin-bottom:0px;
+}
+
+#ecosystem-partners .sub-header {
+    color: #00244e;
+    padding-bottom: 10px;
+    margin-top: 50px;
+    text-align: left;
+    font-size: 28px;
+    line-height: 29px;
+	font-weight: 700;
+}
+.anchorlinking-margin::before {
+    content: "";
+    display: block;
+    height: 120px;
+    margin-top: -120px;
+    visibility: hidden;
+}
+.link-after-icon::after {
+    margin-left: 0.125em;
+    margin-right: 0.3em;
+    display: inline;
+    content: "↗";
+    transition: all 0.1s ease-in-out 0s;
+    font-style: normal;
 }
 @media screen and (max-width:767px) {
 .partner-logo_block .logo {width: 50%;float: left;}.partner-logo_block {display: flex;}.ecosystem-partners-row .nav-tabs>li {float: none;}.nav-tabs>li.active>a {background-color:transparent;}.ecosystem-partners-row .nav-tabs>li {border-bottom: 2px solid #ffffff;}.ecosystem-partners-row .nav-tabs>li a {border-bottom: 4px solid transparent;}#ecosystem-partners h1 {font-size: 30px;}#ecosystem-partners p {font-size: 16px;}
@@ -5366,13 +5406,13 @@ table{width:100%;background-color:#fff}th,td{font-weight:unset;padding-right:10p
 
 /*-- Ecosystem Partners Mobileview UI css --*/
 .accordion-header,.accordion-body {background: white;}
-.accordion-header {padding: 0.90em 1.5em;background: rgb(246 246 246);color: #333;cursor: pointer;font-size: 16px;font-weight:600;transition: all .3s;border-radius: 4px!important;display: flex;}
+.accordion-header {padding: 0.90em 1.5em;background: rgba(255, 255, 255, 1);color: #333;cursor: pointer;font-size: 16px;font-weight:600;transition: all .3s;border-radius: 4px!important;display: flex;}
 .accordion-header p {padding-right: 30px;margin-bottom:0px;}
 .accordion__item {border-bottom: 1px solid transparent;}
 .js-accordion .accordion__item {margin-bottom:10px;}
 .js-accordion .accordion__item:last-child {margin-bottom:0px;}
 .accordion__item .accordion__item {border-bottom: 1px solid rgba(0, 0, 0, 0.08);}
-.accordion-body {background: rgba(246, 246, 246, 0.4);color: #353535;display: none;border-bottom: 1px solid rgba(52, 152, 219, 1);border-bottom-left-radius: 4px!important;border-bottom-right-radius: 4px!important;}
+.accordion-body {background: rgba(255, 255, 255, 1);color: #353535;display: none;border-bottom: 1px solid rgba(52, 152, 219, 1);border-bottom-left-radius: 4px!important;border-bottom-right-radius: 4px!important;}
 .accordion-body__contents {padding: 1.5em 1.5em;}
 .accordion__item.active:last-child .accordion-header {border-radius: none;}
 .accordion:first-child > .accordion__item > .accordion-header {border-bottom: 1px solid transparent;}

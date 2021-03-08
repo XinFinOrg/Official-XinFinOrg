@@ -154,7 +154,7 @@ include('inc/header.php') ?>
                 <div id="network" class="tab-pane fade in active">
                     <div class="flex-row">
                         <div class="col-lg-3 col-md-6 col-sm-6 mt-3 mb-1">
-                            <a href="https://www.npmjs.com/package/xdc3" target="_blank">
+                            <a href="https://www.npmjs.com/package/xdc3" target="_blank" class="cfb">
                                 <div class="configurationsBox bordered">
                                     <h5 class="heading">XDC3</h5>
                                     <p>This is the XinFin JavaScript API which connects to the Generic JSON RPC spec</p>
@@ -162,7 +162,7 @@ include('inc/header.php') ?>
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-6 mt-3 mb-1">
-                            <a href="https://github.com/XinFinOrg/XDPoSChain" target="_blank">
+                            <a href="https://github.com/XinFinOrg/XDPoSChain" target="_blank" class="cfb">
                                 <div class="configurationsBox bordered">
                                     <h5 class="heading">Github</h5>
                                     <p class="link-break-out">Source code available at https://github.com/XinFinOrg/XDPoSChain</p>
@@ -178,7 +178,7 @@ include('inc/header.php') ?>
                                 </a>
                             </div>-->
                         <div class="col-lg-3 col-md-6 col-sm-6 mt-3 mb-1">
-                            <a href="https://github.com/xinfinorg/XinFin-Node" target="_blank">
+                            <a href="https://github.com/xinfinorg/XinFin-Node" target="_blank" class="cfb">
                                 <div class="configurationsBox bordered">
                                     <h5 class="heading">XinFin Docker Integration</h5>
                                     <p class="link-break-out">https://github.com/xinfinorg/XinFin-Node</p>
@@ -186,7 +186,7 @@ include('inc/header.php') ?>
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-6 mt-3 mb-1">
-                            <a href="exchange-listing-resource">
+                            <a href="exchange-listing-resource" class="cfb">
                                 <div class="configurationsBox bordered">
                                     <h5 class="heading">Integration Code</h5>
                                     <p class="link-break-out">Example: https://xinfin.org/exchange-listing-resource</p>
