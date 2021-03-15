@@ -5193,6 +5193,9 @@ table{width:100%;background-color:#fff}th,td{font-weight:unset;padding-right:10p
     -webkit-box-shadow: 0 5px 15px 0 rgb(12 21 46 / 4%);
     box-shadow: 0 5px 15px 0 rgb(12 21 46 / 4%);
 }
+#get-started-with a:focus, #get-started-with a:hover {
+    text-decoration: none;
+}
 #get-started-with .services-block .inner-box {
     position: relative;
     padding: 0px!important;
