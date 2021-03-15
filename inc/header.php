@@ -29,7 +29,7 @@
     #back-to-top {
       position: fixed;
       bottom: 15px;
-      left: 15px;
+      right: 15px;
       z-index: 9999;
       width: 40px;
       height: 40px;
