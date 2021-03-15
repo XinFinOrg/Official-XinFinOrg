@@ -653,7 +653,7 @@ include('inc/header.php') ?>
                             <p><strong>STEP 1:</strong> Add or Copy Updated XinFin-Node Docker file to the Cloud provider like AWS, Azure, Google, Oracle, or IBM.</p>
                             <p>Clone repository command:</p>
                             <pre><code>git clone https://github.com/XinFinOrg/XinFin-Node.git</code></pre>
-                            <p class="text-left"><strong>Step 2.</strong> Install XinFin-Node using command:</p>
+                            <p class="text-left"><strong>Step 2:</strong> Install XinFin-Node using command:</p>
                             <pre><code>sudo ./install_docker.sh</code></pre>
                             <p><strong>Step 3:</strong> Ask for required information like Node_Name and email.</p>
                             <p><strong>Step 4:</strong> Start node using command:</p>
