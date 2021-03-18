@@ -148,7 +148,7 @@ include('inc/header.php') ?>
                     <div class="col-md-12 center m-b-10">
                     <h4 style="font-size:24px;color:#096db0;font-weight:600;margin-bottom:25px;">XDC Trading now live on below Exchange</h4></div>
                     <div class="exchange-box">
-                        <a href="https://alphaex.net" target="_blank"><img src="assets/images/exchanges/alphaex-logo.jpg" class="img-fluid" alt="alphaex.net"></a>
+                        <a href="https://app.liquid.com/exchange/XDCUSDT" target="_blank"><img src="assets/images/exchanges/liquid.jpg" class="img-fluid" alt="liquid.com"></a>
                     </div>
                     <div class="exchange-box">
                         <a href="https://www.bitfinex.com/t/XDC:USD" target="_blank"><img src="assets/images/exchanges/bitfinex_logo.jpg" class="img-fluid" alt="bitfinex.com"></a>
