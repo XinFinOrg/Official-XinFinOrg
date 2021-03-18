@@ -71,13 +71,21 @@ include('inc/header.php') ?>
 						<div class="contact-info">
 						
                         <p class="contactpara">CONTACT INFO</p>
-                        <hr style="margin-top: 0px; ">
+                        <hr class="mb-1" style="margin-top: 0px;">
                         <p style="margin: 0 auto; text-align: center;"><a href="mailto:info@xinfin.org" style="font-size: 18px; color: #002752">info@xinfin.org</a></p>
 
                     	<p class="contact-info-gap"></p>
 					
+                        <p class="contactpara" style="line-height:30px;">Join the Discord to get Community Support</p>
+                        <hr class="mb-1" style="margin-top: 0px;">
+                        <p class="socialicons1 mb-0">
+                            <a href="https://discord.com/invite/KZdD6pkFxp" target="_blank"><i class="fab fa-discord"></i></a>
+                        </p>
+                        
+                        <p class="contact-info-gap"></p>
+                        
                         <p class="contactpara">CONNECT WITH US</p>
-                        <hr style="margin-top: 0px; ">
+                        <hr class="mb-1" style="margin-top: 0px;">
                         <p class="socialicons1">
                             <a href="https://t.me/xinfintalk" target="_blank"><i class="fa fa-paper-plane"></i></a>
                             <a href="https://www.linkedin.com/company/xinfin/" target="_blank"><i class="fa fa-linkedin"></i></a>

@@ -1034,6 +1034,9 @@ hr {
     line-height: 2.5rem;
     color: #5064fb;
 }
+.wallet-supports_block .item .content-wrapper .text_top a:hover {
+    text-decoration: none;
+}
 .wallet-supports_block .item .content-wrapper .text_list {
     display: -webkit-inline-box;
     display: -ms-inline-flexbox;
@@ -2293,7 +2296,7 @@ button:focus {outline:0;}
 	border: 0.1px solid #112b3c; height:120px;
 }
 
-.contact-info-gap {min-height:50px;}
+.contact-info-gap {min-height:25px;}
 
 
 
@@ -4025,7 +4028,8 @@ margin-top:20px;
 margin: 0 auto; text-align: center;
 }
 
-.socialicons1 .fa{
+.socialicons1 .fa,
+.socialicons1 .fab {
      font-size: 18px ;
     border-radius: 25px;
     border:1px solid  #112b3c;
@@ -4038,7 +4042,8 @@ margin: 0 auto; text-align: center;
    margin-bottom: 10px;margin-top: 5px;
 }
 
-.socialicons1 .fa:hover{  
+.socialicons1 .fa:hover,
+.socialicons1 .fab:hover {  
     background:  #112b3c;
     border:1px solid  #112b3c;
     color: #fff;

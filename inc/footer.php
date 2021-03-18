@@ -63,6 +63,7 @@
                         <a href="https://www.reddit.com/r/xinfin/" target="_blank"><i class="fa fa-reddit"></i></a>
 						<a href="https://www.meetup.com/members/270624533/" target="_blank"><i class="fa fa-meetup"></i></a>
 						<a href="https://medium.com/xinfin" target="_blank"><i class="fa fa-medium"></i></a>
+                        <!--<a href="https://discord.com/invite/KZdD6pkFxp" target="_blank"><i class="fab fa-discord"></i></a>-->
                     </span>
                 </p>
             </div>

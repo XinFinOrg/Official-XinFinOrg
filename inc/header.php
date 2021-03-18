@@ -22,7 +22,9 @@
   <link rel="stylesheet" media="screen" href="assets/css/style.css">
   <!-- <link rel="stylesheet" media="screen" href="assets/css/style.scss"> -->
   <link href="assets/css/pagination.css" rel="stylesheet">
+  <link href="assets/css/fontawesome-v5.9.0/all.css" rel="stylesheet">
   <link href="assets/css/font-awesome.min.css" rel="stylesheet">
+  
   <link href="assets/css/animate.css" rel="stylesheet">
 
   <style>

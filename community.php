@@ -349,7 +349,7 @@ include('inc/header.php') ?>
                         <li class="mb-1">Welcome to the Public Slack Channel of XinFin at <a href="https://xinfin-public.slack.com/messages/CELR2M831/" target="_blank" class="link-after-icon">xinfin-public.slack.com</a></li>
                         <li class="mb-1">Interact with XinFin XDC Network developers directly on <a href="https://t.me/XinFinDevelopers" target="_blank" class="link-after-icon">Telegram</a> at Development Community</li>
                         <li class="mb-1">Join our <a href="https://www.reddit.com/r/xinfin/" target="_blank" class="link-after-icon">Reddit Community</a></li>
-                        <li class="mb-1">Join the <a href="https://discord.gg/ZD3DNukcPf" target="_blank" class="link-after-icon">Discord</a> Server of XinFin</li>
+                        <li class="mb-1">Join the <a href="https://discord.com/invite/KZdD6pkFxp" target="_blank" class="link-after-icon">Discord</a> Server of XinFin</li>
                     </ul>
                 </div>
             </div>

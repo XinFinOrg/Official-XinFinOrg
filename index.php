@@ -704,7 +704,7 @@ include('inc/header.php') ?>
                                     </div>
                                 </a>
                                 <div class="content-wrapper">
-                                    <div class="text_top"><a href="https://dcentwallet.com/MobileApp" target="_blank">D'CENT Wallet</a></div>
+                                    <div class="text_top"><a href="https://dcentwallet.com/MobileApp" target="_blank">Biometric Hardware Wallet (D'CENT)</a></div>
                                     <div class="text_list">
                                        <a href="https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet&utm_source=dcent_medium&utm_campaign=xdc_support" target="_blank" class="list-item has-tooltip" data-toggle="tooltip" data-placement="bottom" data-color="success" title="Android Wallet">
                                             <img src="assets/images/exchanges/guarda-wallet/android.png" class="icon" />
