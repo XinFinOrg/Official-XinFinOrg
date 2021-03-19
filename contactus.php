@@ -30,7 +30,7 @@ include('inc/header.php') ?>
                     <div class="col-md-12">
                         <h3>GET IN TOUCH WITH US</h3>
 						<h4>We appreciate you taking the time to get in touch.</h4>
-                        <h4 class="visible-md visible-lg">Send us your Query. We will Respond Promptly.</h4>
+                        <h4 class="visible-md visible-lg">Post your query and get community Support.</h4>
                     </div>
                 </div>
                 
@@ -44,11 +44,11 @@ include('inc/header.php') ?>
 
                     	<p class="contact-info-gap"></p>
 					
-                        <p class="contactpara" style="line-height:30px;">Join the Discord or Reddit to get Community Support</p>
+                        <p class="contactpara">Join the Discord or Reddit to get Community Support</p>
                         <hr class="mb-1" style="margin-top: 0px;">
                         <p class="socialicons1 mb-0">
                             <a href="https://discord.com/invite/KZdD6pkFxp" target="_blank"><i class="fab fa-discord"></i></a>
-                            <a href="https://www.reddit.com/r/xinfin/" target="_blank"><i class="fa fa-reddit"></i></a>
+                            <a href="https://www.reddit.com/r/xinfin/" target="_blank"><i class="fa fa-reddit-square"></i></a>
                         </p>
                         
                         <p class="contact-info-gap"></p>
@@ -67,7 +67,7 @@ include('inc/header.php') ?>
 						</div>
                   </div>
                   <div class="col-md-6 col-md-pull-6">
-                  		<h4 class="visible-xs visible-sm">Send us your Query. We will Respond Promptly.</h4>
+                  		<h4 class="visible-xs visible-sm">Post your query and get community Support</h4>
                         <br/>
                         <form action="#" method="" id="contactForm">
                             <div class="form-group">

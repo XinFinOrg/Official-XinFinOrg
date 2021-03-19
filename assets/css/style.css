@@ -2680,9 +2680,10 @@ label span{color:#096db0;font-size:12px;line-height:10px;}
 {
   color:#002752;
   font-size:25px;
+  line-height: 30px;
   display: block;
-       margin: 0 auto;
-    text-align: center;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .devstyle
@@ -4028,29 +4029,43 @@ text-align: center !important;
 
 
 .socialicons1{
-margin-top:20px;
-margin: 0 auto; text-align: center;
+	margin-top:20px;
+	margin: 0 auto;
+	text-align: center;
 }
-
+.socialicons1 a{
+	font-size: 26px ;
+	text-align: center;
+	color: #969696;
+    transition: linear 0.2s all;
+    padding: 6px;
+    margin-bottom: 10px;
+	margin: 5px 5px 12px 5px;
+	display: inline-block;
+}
 .socialicons1 .fa,
 .socialicons1 .fab {
-     font-size: 18px ;
-    border-radius: 25px;
+    font-size: 26px ;
+    /*border-radius: 25px;
     border:1px solid  #112b3c;
     width:40px;
-    height:40px;
+    height:40px;*/
     text-align: center;
-    color: #112b3c;
+    color: #969696;
     transition: linear 0.2s all;
-    padding: 10px;
-   margin-bottom: 10px;margin-top: 5px;
+    /*padding: 6px;
+    margin-bottom: 10px;
+	margin: 5px;*/
 }
 
 .socialicons1 .fa:hover,
 .socialicons1 .fab:hover {  
-    background:  #112b3c;
-    border:1px solid  #112b3c;
-    color: #fff;
+    /*background:  #112b3c;
+    border:1px solid  #112b3c;*/
+	color: #0dd1ad;
+    background: -webkit-linear-gradient(#0dd1ad, #25aae0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 .largepara
 {
@@ -4901,7 +4916,7 @@ margin-left:20px;
 
 }
 
-@media (max-width: 576px) {.contactpara {font-size: 20px;}}
+@media (max-width: 576px) {.contact-info{padding: 30px 25px 10px;}.contactpara {font-size: 20px;line-height: 24px;}}
 
 
 
