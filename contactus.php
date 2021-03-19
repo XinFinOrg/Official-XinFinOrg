@@ -30,7 +30,7 @@ include('inc/header.php') ?>
                     <div class="col-md-12">
                         <h3>GET IN TOUCH WITH US</h3>
 						<h4>We appreciate you taking the time to get in touch.</h4>
-                        <h4>Send us your Query. We will Respond Promptly.</h4>
+                        <h4 class="visible-md visible-lg">Send us your Query. We will Respond Promptly.</h4>
                     </div>
                 </div>
                 
@@ -38,7 +38,7 @@ include('inc/header.php') ?>
                   <div class="col-md-5 col-md-offset-1 col-md-push-6">
                   	<div class="contact-info">
 						
-                        <p class="contactpara">CONTACT INFO</p>
+                        <p class="contactpara">Contact Info</p>
                         <hr class="mb-1" style="margin-top: 0px;">
                         <p style="margin: 0 auto; text-align: center;"><a href="mailto:info@xinfin.org" style="font-size: 18px; color: #002752">info@xinfin.org</a></p>
 
@@ -53,7 +53,7 @@ include('inc/header.php') ?>
                         
                         <p class="contact-info-gap"></p>
                         
-                        <p class="contactpara">CONNECT WITH US</p>
+                        <p class="contactpara">Connect With Us</p>
                         <hr class="mb-1" style="margin-top: 0px;">
                         <p class="socialicons1">
                             <a href="https://t.me/xinfintalk" target="_blank"><i class="fa fa-paper-plane"></i></a>
@@ -67,8 +67,7 @@ include('inc/header.php') ?>
 						</div>
                   </div>
                   <div class="col-md-6 col-md-pull-6">
-                  	<!--<h4>We appreciate you taking the time to get in touch.</h4>
-                        <h4>Send us your Query. We will Respond Promptly.</h4>-->
+                  		<h4 class="visible-xs visible-sm">Send us your Query. We will Respond Promptly.</h4>
                         <br/>
                         <form action="#" method="" id="contactForm">
                             <div class="form-group">

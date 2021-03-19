@@ -2271,7 +2271,7 @@ button:focus {outline:0;}
 .contact-info {
     border-radius: 5px;
 	background: #FFFFFF;
-    padding: 50px 30px 20px;
+    padding: 40px 30px 15px;
     min-height: 350px;
     color: #fff;
     top: 0;
@@ -4872,7 +4872,7 @@ nav li:hover li a:hover {
 }
 
 .contactpara {
-  margin-top:10px;
+  margin-top:1px;
 }
 
 .noHeight .contactpara {
@@ -4901,7 +4901,7 @@ margin-left:20px;
 
 }
 
-
+@media (max-width: 576px) {.contactpara {font-size: 20px;}}
 
 
 
