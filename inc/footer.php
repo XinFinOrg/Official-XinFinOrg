@@ -1,7 +1,7 @@
 <section>
 <footer class="footer">
 	<div class="container">
-		<div class="row">
+		<div class="row flex-row">
 			<div class="col-md-3 col-sm-6 col-xs-12" style="text-align: left">
                 <!-- <a href="index.php"><img src="assets/images/logo.png" width="65"></a><br/><br/> -->
                 <h1>About XinFin</h1>

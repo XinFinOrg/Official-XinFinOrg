@@ -33,9 +33,41 @@ include('inc/header.php') ?>
                         <h4>Send us your Query. We will Respond Promptly.</h4>
                     </div>
                 </div>
+                
                 <div class="row">
-                    <div class="col-md-6">
-                        <!--<h4>We appreciate you taking the time to get in touch.</h4>
+                  <div class="col-md-5 col-md-offset-1 col-md-push-6">
+                  	<div class="contact-info">
+						
+                        <p class="contactpara">CONTACT INFO</p>
+                        <hr class="mb-1" style="margin-top: 0px;">
+                        <p style="margin: 0 auto; text-align: center;"><a href="mailto:info@xinfin.org" style="font-size: 18px; color: #002752">info@xinfin.org</a></p>
+
+                    	<p class="contact-info-gap"></p>
+					
+                        <p class="contactpara" style="line-height:30px;">Join the Discord or Reddit to get Community Support</p>
+                        <hr class="mb-1" style="margin-top: 0px;">
+                        <p class="socialicons1 mb-0">
+                            <a href="https://discord.com/invite/KZdD6pkFxp" target="_blank"><i class="fab fa-discord"></i></a>
+                            <a href="https://www.reddit.com/r/xinfin/" target="_blank"><i class="fa fa-reddit"></i></a>
+                        </p>
+                        
+                        <p class="contact-info-gap"></p>
+                        
+                        <p class="contactpara">CONNECT WITH US</p>
+                        <hr class="mb-1" style="margin-top: 0px;">
+                        <p class="socialicons1">
+                            <a href="https://t.me/xinfintalk" target="_blank"><i class="fa fa-paper-plane"></i></a>
+                            <a href="https://www.linkedin.com/company/xinfin/" target="_blank"><i class="fa fa-linkedin"></i></a>
+                            <a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><i class="fa fa-youtube"></i></a>
+                            <a href="https://twitter.com/XinFin_Official" target="_blank"><i class="fa fa-twitter"></i></a>
+                            <a href="https://www.facebook.com/XinFinHybridBlockchain/" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <a href="https://github.com/XinFinorg" target="_blank"><i class="fa fa-github"></i></a>                            
+                            <a href="https://xinfin-public.slack.com/" target="_blank"><i class="fa fa-slack"></i></a>
+                        </p>
+						</div>
+                  </div>
+                  <div class="col-md-6 col-md-pull-6">
+                  	<!--<h4>We appreciate you taking the time to get in touch.</h4>
                         <h4>Send us your Query. We will Respond Promptly.</h4>-->
                         <br/>
                         <form action="#" method="" id="contactForm">
@@ -65,67 +97,11 @@ include('inc/header.php') ?>
                             <!--<button type="button" id="contactBtn" class="btn btn-default submitbtn">Submit</button>-->
                             <button type="button" id="contactBtn" class="btn-hover color-1 submitbtn">Submit</button>
                         </form>
-                    </div>
-					
-					<div class="col-md-5 col-md-offset-1 text-left">
-						<div class="contact-info">
-						
-                        <p class="contactpara">CONTACT INFO</p>
-                        <hr class="mb-1" style="margin-top: 0px;">
-                        <p style="margin: 0 auto; text-align: center;"><a href="mailto:info@xinfin.org" style="font-size: 18px; color: #002752">info@xinfin.org</a></p>
-
-                    	<p class="contact-info-gap"></p>
-					
-                        <p class="contactpara" style="line-height:30px;">Join the Discord to get Community Support</p>
-                        <hr class="mb-1" style="margin-top: 0px;">
-                        <p class="socialicons1 mb-0">
-                            <a href="https://discord.com/invite/KZdD6pkFxp" target="_blank"><i class="fab fa-discord"></i></a>
-                        </p>
-                        
-                        <p class="contact-info-gap"></p>
-                        
-                        <p class="contactpara">CONNECT WITH US</p>
-                        <hr class="mb-1" style="margin-top: 0px;">
-                        <p class="socialicons1">
-                            <a href="https://t.me/xinfintalk" target="_blank"><i class="fa fa-paper-plane"></i></a>
-                            <a href="https://www.linkedin.com/company/xinfin/" target="_blank"><i class="fa fa-linkedin"></i></a>
-                            <a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><i class="fa fa-youtube"></i></a>
-                            <a href="https://twitter.com/XinFin_Official" target="_blank"><i class="fa fa-twitter"></i></a>
-                            <a href="https://www.facebook.com/XinFinHybridBlockchain/" target="_blank"><i class="fa fa-facebook"></i></a>
-                            <a href="https://github.com/XinFinorg" target="_blank"><i class="fa fa-github"></i></a>
-                            <a href="https://www.reddit.com/r/xinfin/" target="_blank"><i class="fa fa-reddit"></i></a>
-                            <a href="https://xinfin-public.slack.com/" target="_blank"><i class="fa fa-slack"></i></a>
-                        </p>
-						</div>
-					  </div>
-					
-					<!--<div class="col-md-offset-2 col-md-8 col-md-offset-2">
-                        <h4>We appreciate you taking the time to get in touch.</h4>
-                        <h4>Send us your Query. We will Respond Promptly.</h4>
-                        <br/><br/>
-                        <form action="#" method="" id="contactForm">
-                            <div class="form-group">
-                                <label for="email">Name (required)</label>
-                                <input type="text" class="form-control" id="name" name="name" required>
-                            </div>
-                            <div class="form-group">
-                                <label for="email">Email (required)</label>
-                                <input type="email" class="form-control" id="email" name="email" required>
-                            </div>
-                            <div class="form-group">
-                                <label for="email">Contact Number (required)</label>
-                                <input type="text" class="form-control" id="contact_number" name="contact" maxlength="10" minlength="10" onkeypress="return isNumber(event)">
-                            </div>
-                            <div class="form-group">
-                                <label for="email">Comments</label>
-                                <textarea class="form-control" id="comments" name="comments"></textarea>
-                            </div>
-                            <br/>
-                            <button type="button" id="contactBtn" class="btn-hover color-1 submitbtn">Submit</button>
-                        </form>
-                    </div>-->
-					
+                  </div>
                 </div>
+                
+                
+                
 
                 <br/><br/>
 
