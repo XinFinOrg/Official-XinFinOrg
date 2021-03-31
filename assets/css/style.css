@@ -5147,236 +5147,57 @@ table{width:100%;background-color:#fff}th,td{font-weight:unset;padding-right:10p
 /*-- Homepage Compare Chart css --*/
 
 
-.compare_btc_eth_xdc {
-  max-width:940px;
-  margin:0 auto;
-  font-family: 'Muli', sans-serif;
-  letter-spacing: 1px;
-  text-align:center;
-  padding:10px;
-}
-
-.compare_btc_eth_xdc table {
-  width:100%;
-  border-collapse: collapse;
-  border-spacing: 0;
-  table-layout: fixed;
-  border-bottom:1px solid #296e8e;
-  background: transparent;
-}
-
-.compare_btc_eth_xdc td, .compare_btc_eth_xdc th {
-  border-right:1px solid #296e8e;
-  border-bottom:1px solid #296e8e;
-  empty-cells: show;
-  padding:10px;
-}
-
-.compare-heading {
-  font-size:18px;
-  font-weight:bold !important;
-  border-bottom:0 !important;
-  padding-top:10px !important;
-}
-
-.compare_btc_eth_xdc tbody tr:nth-child(odd) {
-  display:none;
-}
-
-.compare_btc_eth_xdc .compare-row .description-head {
-  color: #FFFFFF;
-  font-size: 11px;
-  line-height: 16px;
-  padding: 10px 10px;
-  border-left: 1px solid #296e8e;
-}
-
-.compare_btc_eth_xdc .compare-row {
-  /*background:#F5F5F5;*/
-}
-
-.compare_btc_eth_xdc .compare-row .bg_xdc {
-  background:rgba(37, 170, 225, 0.2);
-}
-
-.compare_btc_eth_xdc .description-details {
-	font-size: 13px;
-	color: rgba(255, 255, 255, 0.5);
-}
-
-.compare_btc_eth_xdc .description-details strong {
-    font-weight: 600;
-    font-size: 16px;
-	color: rgba(255, 255, 255, 0.6);
-}
-
-.compare_btc_eth_xdc th {
-  font-weight:normal;
-  text-align: center;
-  padding:0;
-  border-bottom:1px solid #296e8e;
-}
-
-.compare_btc_eth_xdc tr td:first-child {
-  text-align:left;
-}
-  
-.compare_btc_eth_xdc .qbse, .compare_btc_eth_xdc .qbo, .compare_btc_eth_xdc .tl {
-  color:#FFF;
-  padding:10px;
-  font-size:13px;
-  border-right:1px solid #296e8e;
-  border-bottom:0;
-}
-
-.compare_btc_eth_xdc .tl2 {
-  border-right:0;
-  border-left: 0px;
-  border-top-left-radius: 3px;
-  background: rgba(37, 170, 225, 0.1);
-}
-
-.compare_btc_eth_xdc .first {
-  color: #FFFFFF;
-  font-size: 12px;
-  line-height: 18px;
-  background: rgba(37, 170, 225, 0.3);
-  border:0px;
-  border-left-color:  rgba(37, 170, 225, 0.3);
-  padding: 10px 5px;
-}
-.compare_btc_eth_xdc .first span {font-weight: 700;}
-
-.compare_btc_eth_xdc .second {
-  color: #FFFFFF;
-  font-size: 12px;
-  line-height: 18px;
-  background: rgba(37, 170, 225, 0.6);
-  border-top-right-radius: 3px;
-  border:0px;
-  padding: 10px 5px;
-  border-radius: 0px;
-}
-.compare_btc_eth_xdc .second span {font-weight: 700;}
-
-.compare_btc_eth_xdc .third {
-  color: #FFFFFF;
-  font-size: 12px;
-  line-height: 18px;
-  background: rgba(37, 170, 225, 0.9);
-  border-top-right-radius: 3px;
-  border-right-color: rgba(37, 170, 225, 0.6);
-  border: none;
-  padding: 10px 5px;
-}
-.compare_btc_eth_xdc .third span {font-weight: 700;}
-
-.compare_btc_eth_xdc .criteria-info {
-  padding:5px 15px 5px 15px;
-}
-.compare_btc_eth_xdc .criteria-head {
-	color: #FFFFFF;
-	background: rgba(37, 170, 225, 0.1);
-	padding: 5px 15px 30px 15px;
-}
-.compare_btc_eth_xdc .criteria-info.bg_xdc {background: rgba(37, 170, 225, 0.2);}
-
-.compare_btc_eth_xdc .criteria-logo img {
-    max-width: 50px;
-    max-height: 50px;
-    margin: 5px auto;
-    z-index: 1;
-    display: block;
-    position: relative;
-}
-
-.compare_btc_eth_xdc .criteria-logo, .compare_btc_eth_xdc .criteria-logo span {
-  color:#ff5406;
-}
-
-.compare_btc_eth_xdc .criteria-logo span {
-  font-size:32px;
-}
-
-.compare_btc_eth_xdc .price-small {
-    font-size: 18px !important;
-    position: relative;
-    top: -11px;
-    left: 2px;
-}
-
-.compare_btc_eth_xdc .criteria-logo_desc {
-  font-size:13px;
-  color: rgba(255, 255, 255, 0.7);
-}
-
-.compare_btc_eth_xdc .criteria-logo_desc a {
-  color:#202020;
-}
-
+/*-- Homepage Comparison Table New css --*/
+.compare_btc_eth_xdc{max-width:940px;margin:0 auto;font-family:Muli,sans-serif;letter-spacing:1px;text-align:center;padding:10px}
+.compare_btc_eth_xdc table{width:100%;border-collapse:collapse;border-spacing:0;table-layout:fixed;border-bottom:1px solid #296e8e;background:0 0}
+.compare_btc_eth_xdc td,.compare_btc_eth_xdc th{border-right:1px solid #296e8e;border-bottom:1px solid #296e8e;empty-cells:show;padding:10px}
+.compare-heading{font-size:18px;font-weight:700!important;border-bottom:0!important;padding-top:10px!important}
+.compare_btc_eth_xdc tbody tr:nth-child(odd){display:none}
+.compare_btc_eth_xdc .compare-row .description-head{color:#fff;font-size:11px;line-height:16px;padding:10px 10px;border-left:1px solid #296e8e}
+.compare_btc_eth_xdc .compare-row .bg_xdc{background:rgba(37,170,225,.2)}
+.compare_btc_eth_xdc .description-details{font-size:13px;color:rgba(255,255,255,.5)}
+.compare_btc_eth_xdc .description-details strong{font-weight:600;font-size:16px;color:rgba(255,255,255,.6)}
+.compare_btc_eth_xdc th{font-weight:400;text-align:center;padding:0;border-bottom:1px solid #296e8e}
+.compare_btc_eth_xdc tr td:first-child{text-align:left}
+.compare_btc_eth_xdc .qbo,.compare_btc_eth_xdc .qbse,.compare_btc_eth_xdc .tl{color:#fff;padding:10px;font-size:13px;border-right:1px solid #296e8e;border-bottom:0}
+.compare_btc_eth_xdc .tl2{border-right:0;border-left:0;border-top-left-radius:3px;background:rgba(37,170,225,.1)}
+.compare_btc_eth_xdc .first{color:#fff;font-size:12px;line-height:18px;background:rgba(37,170,225,.3);border:0;border-left-color:rgba(37,170,225,.3);padding:10px 5px}
+.compare_btc_eth_xdc .first span{font-weight:700}
+.compare_btc_eth_xdc .second{color:#fff;font-size:12px;line-height:18px;background:rgba(37,170,225,.6);border-top-right-radius:3px;border:0;padding:10px 5px;border-radius:0}
+.compare_btc_eth_xdc .second span{font-weight:700}
+.compare_btc_eth_xdc .third{color:#fff;font-size:12px;line-height:18px;background:rgba(37,170,225,.9);border-top-right-radius:3px;border-right-color:rgba(37,170,225,.6);border:none;padding:10px 5px}
+.compare_btc_eth_xdc .third span{font-weight:700}
+.compare_btc_eth_xdc .criteria-info{padding:5px 15px 5px 15px}
+.compare_btc_eth_xdc .criteria-head{color:#fff;background:rgba(37,170,225,.1);padding:5px 15px 30px 15px}
+.compare_btc_eth_xdc .criteria-info.bg_xdc{background:rgba(37,170,225,.2)}
+.compare_btc_eth_xdc .criteria-logo img{max-width:50px;max-height:50px;margin:5px auto;z-index:1;display:block;position:relative}
+.compare_btc_eth_xdc .criteria-logo,.compare_btc_eth_xdc .criteria-logo span{color:#ff5406}
+.compare_btc_eth_xdc .criteria-logo span{font-size:32px}
+.compare_btc_eth_xdc .price-small{font-size:18px!important;position:relative;top:-11px;left:2px}
+.compare_btc_eth_xdc .criteria-logo_desc{font-size:13px;color:rgba(255,255,255,.7)}
+.compare_btc_eth_xdc .criteria-logo_desc a{color:#202020}
 @media (max-width: 767px) {
-  .compare_btc_eth_xdc {margin-top: 50px;}
-  .compare_btc_eth_xdc td:first-child, .compare_btc_eth_xdc th:first-child {
-    display: none;
-  }
-  .compare_btc_eth_xdc tbody tr:nth-child(odd) {
-    display:table-row;
-   /* background:#F7F7F7;*/
-   color: #FFFFFF;
-  }
-  .compare_btc_eth_xdc .row {
-    background:#FFF;
-  }
-  .compare_btc_eth_xdc td, .compare_btc_eth_xdc th {
-    border:1px solid #296e8e;
-	line-height: 20px;
-  }
-  .criteria-info {
-  border-top:0 !important;  
-  }
-  .compare_btc_eth_xdc .description-head {
-    background: rgba(37, 170, 225, 0.2);
-  }
-  .compare_btc_eth_xdc .criteria-info.bg_xdc {
-    background: transparent;
-  }
-  .compare_btc_eth_xdc .compare-row .bg_xdc {
-    background: transparent;
-  }
-  
+  .compare_btc_eth_xdc{margin-top:50px}
+  .compare_btc_eth_xdc td:first-child,.compare_btc_eth_xdc th:first-child{display:none}
+  .compare_btc_eth_xdc tbody tr:nth-child(odd){display:table-row;color:#fff}
+  .compare_btc_eth_xdc .row{background:#fff}
+  .compare_btc_eth_xdc td,.compare_btc_eth_xdc th{border:1px solid #296e8e;line-height:20px}
+  .criteria-info{border-top:0!important}
+  .compare_btc_eth_xdc .description-head{background:rgba(37,170,225,.2)}
+  .compare_btc_eth_xdc .criteria-info.bg_xdc{background:0 0}
+  .compare_btc_eth_xdc .compare-row .bg_xdc{background:0 0}
 }
-
 @media (max-width: 639px) {
-  .compare_btc_eth_xdc .price-buy {
-    padding:5px 10px;
-  }
-  .compare_btc_eth_xdc td, .compare_btc_eth_xdc th {
-    padding:10px 5px;
-  }
-  .compare_btc_eth_xdc .hide-mobile {
-    display:none;
-  }
-  .compare_btc_eth_xdc .criteria-logo span {
-  font-size:16px;
+  .compare_btc_eth_xdc .price-buy {padding:5px 10px;}
+  .compare_btc_eth_xdc td, .compare_btc_eth_xdc th {padding:10px 5px;}
+  .compare_btc_eth_xdc .hide-mobile {display:none;}
+  .compare_btc_eth_xdc .criteria-logo span {font-size:16px;}
+  .compare_btc_eth_xdc .price-small {font-size: 16px !important;top: 0;left: 0;}
+  .compare_btc_eth_xdc .qbse, .compare_btc_eth_xdc .qbo {font-size:12px;padding:10px 5px;}
+  .compare_btc_eth_xdc .price-buy {margin-top:10px;}
+  .compare-heading {font-size:13px;}
 }
-
-.compare_btc_eth_xdc .price-small {
-    font-size: 16px !important;
-    top: 0;
-    left: 0;
-}
-  .compare_btc_eth_xdc .qbse, .compare_btc_eth_xdc .qbo {
-    font-size:12px;
-    padding:10px 5px;
-  }
-  .compare_btc_eth_xdc .price-buy {
-    margin-top:10px;
-  }
-  .compare-heading {
-  font-size:13px;
-}
-}
-
+/*-- Homepage Comparison Table New css --*/
 
 /*-- Homepage WTO css --*/
 #wto-icc {background: #003663;}
