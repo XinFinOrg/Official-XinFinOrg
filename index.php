@@ -67,13 +67,13 @@ include('inc/header.php') ?>
     </section>
     
 
-    <section id="compare-chart" class="home-page-sections small-padd">
-        <div class="compare">
-            <div class="compare-wrapper">
-                <div class="compare-left">
-                    <div class="compare-content">
+    <section id="comparison-chart" class="home-page-sections small-padd">
+        <div class="comparison">
+            <div class="comparison-wrapper">
+                <div class="comparison-left">
+                    <div class="comparison-content">
                         <h2 class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">XinFin XDPoS Hybrid Network, Powered by XDC Protocol</h2>
-                        <div class="compare-content-body mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                        <div class="comparison-content-body mb-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.7s">
 							<p>Interoperable Blockchain Network for <a href="https://www.tradefinex.org/" target="_blank" style="color:#25aae1;font-weight:600;">Global Trade & Finance</a> which enables Digitization, Tokenization and instant settlement of trade transactions, increases efficiency and reduces reliance on complex FX infrastructures, allowing for increased flexibility in liquidity management for financial institutions.</p>
 						</div>
 						
@@ -84,92 +84,182 @@ include('inc/header.php') ?>
                         </div>
                     </div>
                 </div>
-                <div class="compare-right">
-                    <div class="compare-chart">
-                        <div class="compare-chart-wrapper">
-                            <div class="spacer compare-gen-0 compare-row-1"></div>
-                            <div class="compare-divider compare-divider-1 compare-gen-0 compare-row-2"><span><p>Transactions<br>per second</p></span></div>
-                            <div class="compare-divider compare-divider-2 compare-gen-0 compare-row-3"><span><p>average<br>fee</p></span></div>
-                            <div class="compare-divider compare-divider-3 compare-gen-0 compare-row-4"><span><p>transaction<br>confirmation</p></span></div>
+                <div class="comparison-right">
+                    
+                    <div class="compare_btc_eth_xdc">
+                          <table>
+                            <thead>
+                              <tr>
+                                <th class="tl tl2"></th>
+                                <th class="first"><span>1ST</span> GENERATION</th>
+                                <th class="second"><span>2ND</span> GENERATION</th>
+                                <th class="third"><span>3RD</span> GENERATION</th>
+                              </tr>
+                              <!--<tr>
+                                <th class="tl"></th>
+                                <th class="compare-heading">BTC</th>
+                                <th class="compare-heading">ETH</th>
+                                <th class="compare-heading">XDC</th>
+                              </tr>-->
+                              <tr>
+                                <th class="criteria-head">COMPARISON CRITERIA</th>
+                                <th class="criteria-info">
+                                  <div class="criteria-logo"><img src="assets/images/comparison/bitcoin_logo.png"></div>
+                                  <div class="criteria-logo_desc"><span class="hide-mobile">Bitcoin</span> BTC</div>
+                                </th>
+                                <th class="criteria-info">
+                                  <div class="criteria-logo"><img src="assets/images/comparison/ethereum_logo.png"></div>
+                                  <div class="criteria-logo_desc"><span class="hide-mobile">Ethereum</span> ETH</div>
+                                </th>
+                                <th class="criteria-info bg_xdc">
+                                  <div class="criteria-logo"><img src="assets/images/brand-assets/xdc-icon.png"></div>
+                                  <div class="criteria-logo_desc"><span class="hide-mobile">XinFin</span> XDC</div>
+                                </th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                              <tr>
+                                <td></td>
+                                <td class="description-head" colspan="3">TRANSACTIONS PER SECOND</td>
+                              </tr>
+                              <tr class="compare-row">
+                                <td class="description-head">TRANSACTIONS PER SECOND</td>
+                                <td><span class="description-details"><strong>3-6</strong> TPS</span></td>
+                                <td><span class="description-details"><strong>12-16</strong> TPS</span></td>
+                                <td class="bg_xdc"><span class="description-details"><strong>2000+</strong> TPS</span></td>
+                              </tr>
+                              <tr>
+                                <td>&nbsp;</td>
+                                <td class="description-head" colspan="3">AVERAGE FEE</td>
+                              </tr>
+                              <tr class="compare-row">
+                                <td class="description-head">AVERAGE FEE</td>
+                                <td><span class="description-details"><strong>$15</strong> USD</span></td>
+                                <td><span class="description-details"><strong>$10</strong> USD</span></td>
+                                <td class="bg_xdc"><span class="description-details"><strong>$0.00001</strong> USD</span></td>
+                              </tr>
+                              <tr>
+                                <td>&nbsp;</td>
+                                <td class="description-head" colspan="3">TRANSACTION CONFIRMATION</td>
+                              </tr>
+                              <tr class="compare-row">
+                                <td class="description-head">TRANSACTION CONFIRMATION</td>
+                                <td><span class="description-details"><strong>10-60</strong> MINUTES</span></td>
+                                <td><span class="description-details"><strong>10-20</strong> SECONDS</span></td>
+                                <td class="bg_xdc"><span class="description-details"><strong>2</strong> SECONDS (w/finality)</span></td>
+                              </tr>
+                              <tr>
+                                <td>&nbsp;</td>
+                                <td class="description-head" colspan="3">SMART CONTRACT SUPPORT</td>
+                              </tr>
+                              <tr class="compare-row">
+                                <td class="description-head">SMART CONTRACT SUPPORT</td>
+                                <td><span class="description-details"><strong>NO</strong></span></td>
+                                <td><span class="description-details"><strong>YES</strong></span></td>
+                                <td class="bg_xdc"><span class="description-details"><strong>YES</strong></span></td>
+                              </tr>
+                              <tr>
+                                <td>&nbsp;</td>
+                                <td class="description-head" colspan="3">ENERGY CONSUMPTION</td>
+                              </tr>
+                              <tr class="compare-row">
+                                <td class="description-head">ENERGY CONSUMPTION</td>
+                                <td><span class="description-details"><strong>71.12</strong> TWh</span></td>
+                                <td><span class="description-details"><strong>20.61</strong> TWh</span></td>
+                                <td class="bg_xdc"><span class="description-details"><strong>0.0000074</strong> TWh</span></td>
+                              </tr>
+                            </tbody>
+                          </table>
+                    </div>
 
-                            <div class="compare-gen-1 compare-row-1">
-                                <div class="compare-column-title">
+                    
+                    
+                    
+                    <!--<div class="comparison-chart">
+                        <div class="comparison-chart-wrapper">
+                            <div class="spacer comparison-column-0 comparison-row-1"></div>
+                            <div class="comparison-divider comparison-divider-1 comparison-column-0 comparison-row-2"><span><p>Transactions<br>per second</p></span></div>
+                            <div class="comparison-divider comparison-divider-2 comparison-column-0 comparison-row-3"><span><p>average<br>fee</p></span></div>
+                            <div class="comparison-divider comparison-divider-3 comparison-column-0 comparison-row-4"><span><p>transaction<br>confirmation</p></span></div>
+
+                            <div class="comparison-column-1 comparison-row-1">
+                                <div class="comparison-column-title">
                                     <p><strong>1st</strong>
                                         <br>Generation</p>
                                 </div>
                                 <img src="assets/images/bitcoin_logo.png">
-                                <div class="compare-subtitle">
+                                <div class="comparison-subtitle">
                                     <p>Bitcoin</p>
                                 </div>
-                                <div class="compare-nickname">
+                                <div class="comparison-nickname">
                                     <p>BTC</p>
                                 </div>
                             </div>
-                            <div class="compare-gen-1 compare-row-2">
+                            <div class="comparison-column-1 comparison-row-2">
                                 <p>3+</p>
                                 <span><p>TPS</p></span>
                             </div>
-                            <div class="compare-gen-1 compare-row-3">
+                            <div class="comparison-column-1 comparison-row-3">
                                 <p>$0.20</p>
                                 <span><p>usd</p></span>
                             </div>
-                            <div class="compare-gen-1 compare-row-4">
+                            <div class="comparison-column-1 comparison-row-4">
                                 <p>10-60</p>
                                 <span><p>minutes</p></span>
                             </div>
-                            <div class="compare-gen-2 compare-row-1">
-                                <div class="compare-column-title">
+                            <div class="comparison-column-2 comparison-row-1">
+                                <div class="comparison-column-title">
                                     <p><strong>2nd</strong>
                                         <br>Generation</p>
                                 </div>
                                 <img src="assets/images/ethereum_logo.png">
-                                <div class="compare-subtitle">
+                                <div class="comparison-subtitle">
                                     <p>Ethereum</p>
                                 </div>
-                                <div class="compare-nickname">
+                                <div class="comparison-nickname">
                                     <p>ETH</p>
                                 </div>
                             </div>
-                            <div class="compare-gen-2 compare-row-2">
+                            <div class="comparison-column-2 comparison-row-2">
                                 <p>12+</p>
                                 <span><p>TPS</p></span>
                             </div>
-                            <div class="compare-gen-2 compare-row-3">
+                            <div class="comparison-column-2 comparison-row-3">
                                 <p>$0.13</p>
                                 <span><p>usd</p></span>
                             </div>
-                            <div class="compare-gen-2 compare-row-4">
+                            <div class="comparison-column-2 comparison-row-4">
                                 <p>10-20</p>
                                 <span><p>seconds</p></span>
                             </div>
-                            <div class="compare-gen-3 compare-row-1">
-                                <div class="compare-column-title">
+                            <div class="comparison-column-3 comparison-row-1">
+                                <div class="comparison-column-title">
                                     <p><strong>3rd</strong>
                                         <br><strong>Generation</strong></p>
                                 </div>
                                 <img src="assets/images/brand-assets/xdc-icon.png">
-                                <div class="compare-subtitle">
+                                <div class="comparison-subtitle">
                                     <p>XinFin</p>
                                 </div>
-                                <div class="compare-nickname">
+                                <div class="comparison-nickname">
                                     <p>XDC</p>
                                 </div>
                             </div>
-                            <div class="compare-gen-3 compare-row-2">
+                            <div class="comparison-column-3 comparison-row-2">
                                 <p>2,000+</p>
                                 <span><p>TPS</p></span>
                             </div>
-                            <div class="compare-gen-3 compare-row-3">
+                            <div class="comparison-column-3 comparison-row-3">
                                 <p>$0.0001</p>
                                 <span><p>usd</p></span>
                             </div>
-                            <div class="compare-gen-3 compare-row-4">
+                            <div class="comparison-column-3 comparison-row-4">
                                 <p>2</p>
                                 <span><p>Seconds</p>
 								<p>(w/finality)<br></p></span>
                             </div>
                         </div>
-                    </div>
+                    </div>-->
                 </div>
             </div>
 
