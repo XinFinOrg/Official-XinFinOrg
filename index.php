@@ -572,6 +572,9 @@ include('inc/header.php') ?>
             <div style="margin-top:30px;">
                 <div class="row">
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.6s">
+                        <a href="https://www.coindesk.com/r3-corda-now-has-a-bridge-to-public-blockchains-with-arrival-of-ethereum-based-xdc" target="_blank"><img src="assets/images/home/media/coindesk-logo.png" alt="Coindesk" class="img-responsive margin-auto-lr"></a>
+                    </div>
+                    <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.6s">
                         <a href="https://newsbit.nl/xinfin-roadmap-voor-2021-wallet-custodian-integratie-xdc-snelle-adoptie/" target="_blank"><img src="assets/images/home/media/newsbit-logo.png" alt="Newsbit" class="img-responsive margin-auto-lr"></a>
                     </div>
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.6s">
