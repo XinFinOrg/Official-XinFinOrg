@@ -11,9 +11,9 @@ include('inc/header.php') ?>
             <div class="col-md-12 col-sm-12 col-xs-12 bannertext">
                 <h1>XinFin Bounty Program</h1>
                 <h4>Contribute to the XinFin Blockchain Ecosystem and earn rewards!</h4>
-                <p>XinFin is launching a Bounty Program for Community on Launch of Mainnet! We Invite our Community and all bug bounty hunters to participate in the bounty program and win lots of rewards.</p>
+                <p>XinFin is launching a Bounty Program for the XDC community on launch of the XDC mainnet! We invite our community and all bug bounty hunters to participate in the bounty program and earn rewards.</p>
                 <p>
-                    Check out the <a href="https://howto.xinfin.org/" target="_blank">Developer Information Center</a> for technical documentation and
+                    Check out the <a href="https://howto.xinfin.org/" target="_blank">Developer Information Center</a> for technical documentation and the
                     <a href="https://t.me/XinFinDevelopers" target="_blank">Official Telegram Developer Channel</a> to find the development resources.
                 </p>
             </div>
