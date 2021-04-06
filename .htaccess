@@ -5,6 +5,4 @@ RewriteCond %{SCRIPT_FILENAME} !-d
 RewriteCond %{SCRIPT_FILENAME} !-f
 RewriteRule ^([A-Za-z0-9-\/&_]+)/?$ index?etc=$1 [L]
 </IfModule>
-
-
 ErrorDocument 404 https://xinfin.org/404
