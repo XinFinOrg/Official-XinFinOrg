@@ -1454,6 +1454,12 @@ button.btn-outline-default .fa{margin-right:5px;}
 .downloads .brand-assets-logo{background:#112b3c;padding:40px;text-align:center;}
 .downloads .brand-assets-logo img{max-width:100px;display:block;margin:auto;}
 
+.downloads .brand-assets-logo-border.np-tb{padding:0px 40px;}
+.downloads .brand-assets-logo-border.np-tb img{max-width:172px;}
+
+.downloads .brand-assets-logo.np-tb{padding:0px 40px;}
+.downloads .brand-assets-logo.np-tb img{max-width:172px;}
+
 .downloads h1{color:#002752;font-size:24px;text-align:left;text-transform:none;margin-top:15px;margin-bottom:0px;padding-bottom:10px;}
 .downloads p{text-align:left;}
 
