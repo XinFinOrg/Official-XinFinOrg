@@ -30,14 +30,18 @@ color:#000;
 }*/
 </style>
 
-<section id="contactbanner">
+<section id="banner-404">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 col-sm-12 col-xs-12 bannertext">
-				<h1>404</h1>
-                <h1>PAGE NOT FOUND</h1>
-				<p>The page you were looking for doesn't exist.<br />
-Click the button below to go back to the homepage.</p>
+				<div class="content">
+                  <div class="error-text">
+                  	<h1>4<span><i class="fas fa-ghost"></i></span>4</h1>
+                  	<h2>Page not found!</h2>
+                  	<p>The page you were looking for doesn't exist.<br />Click the button below to go back to the homepage.</p>
+                    <a href="https://xinfin.org"><button class="btn-hover color-1 mb-1">BACK TO HOME</button></a>
+                  </div>
+                </div>
 			</div>
 		</div>
 	</div>
