@@ -35,6 +35,38 @@ include('inc/header.php') ?>
                         
                         <div class="row">
                         	<div class="col-md-6 mb-2">
+                            	<div class="brand-assets-logo-border np-tb">
+                           	    	<img src="assets/images/brand-assets/xinfin-(xdc)-network-logo.png" class="img-responsive"/>
+                                </div>
+                                <h1>XinFin (XDC) Network Primary Logotype</h1>
+                                <p>Use this whenever possible on a white background.</p>
+                                <div class="btn-block">
+        							<a href="assets/images/brand-assets/xinfin-(xdc)-network-logo.ai" target="_blank"><button class="btn-outline mb-1">.AI</button></a>
+                                    <a href="assets/images/brand-assets/xinfin-(xdc)-network-logo.eps" target="_blank"><button class="btn-outline mb-1">.EPS</button></a>
+                                    <a href="assets/images/brand-assets/xinfin-(xdc)-network-logo.svg" target="_blank"><button class="btn-outline mb-1">.SVG</button></a>
+									<a href="assets/images/brand-assets/xinfin-(xdc)-network-logo.png" target="_blank"><button class="btn-outline mb-1">.PNG</button></a>
+	    						</div>
+                            </div>
+                            
+                            <div class="col-md-6 mb-2">
+                            	<div class="brand-assets-logo np-tb">
+                           	    	<img src="assets/images/brand-assets/xinfin-(xdc)-network-logo_white.png" class="img-responsive"/>
+                                </div>
+                                <h1>XinFin (XDC) Network Primary Logotype</h1>
+                                <p>Use this whenever possible on a dark background.</p>
+                                <div class="btn-block">
+        							<a href="assets/images/brand-assets/xinfin-(xdc)-network-logo_white.ai" target="_blank"><button class="btn-outline mb-1">.AI</button></a>
+                                    <a href="assets/images/brand-assets/xinfin-(xdc)-network-logo_white.eps" target="_blank"><button class="btn-outline mb-1">.EPS</button></a>
+                                    <a href="assets/images/brand-assets/xinfin-(xdc)-network-logo_white.svg" target="_blank"><button class="btn-outline mb-1">.SVG</button></a>
+									<a href="assets/images/brand-assets/xinfin-(xdc)-network-logo_white.png" target="_blank"><button class="btn-outline mb-1">.PNG</button></a>
+	    						</div>
+                            </div>                            
+                        </div>
+                        
+                        <hr class="light">
+                        
+                        <div class="row mt-5 mb-3">
+                        	<div class="col-md-6 mb-2">
                             	<div class="brand-assets-logo-border">
                            	    	<img src="assets/images/brand-assets/xdc-logo.png" class="img-responsive"/>
                                 </div>

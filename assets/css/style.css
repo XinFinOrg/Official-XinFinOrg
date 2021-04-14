@@ -1454,6 +1454,12 @@ button.btn-outline-default .fa{margin-right:5px;}
 .downloads .brand-assets-logo{background:#112b3c;padding:40px;text-align:center;}
 .downloads .brand-assets-logo img{max-width:100px;display:block;margin:auto;}
 
+.downloads .brand-assets-logo-border.np-tb{padding:0px 40px;}
+.downloads .brand-assets-logo-border.np-tb img{max-width:172px;}
+
+.downloads .brand-assets-logo.np-tb{padding:0px 40px;}
+.downloads .brand-assets-logo.np-tb img{max-width:172px;}
+
 .downloads h1{color:#002752;font-size:24px;text-align:left;text-transform:none;margin-top:15px;margin-bottom:0px;padding-bottom:10px;}
 .downloads p{text-align:left;}
 
@@ -5511,8 +5517,80 @@ table{width:100%;background-color:#fff}th,td{font-weight:unset;padding-right:10p
 }
 /*-- Ecosystem Partners Mobileview UI css --*/
 
+/*-- 404 css --*/
+#banner-404 {
+  display: block;
+  position: relative;
+  background: #112b3c;
+  background: url('../images/xdc-protocol-banner-image2.png') #112b3c;
+  background-repeat: no-repeat;
+  background-position: bottom right;
+}
+#banner-404 .content {
+    display: block;
+    position: relative;
+    z-index: 99;
+    margin: 175px 0px 140px 0px;
+    text-align: center;
+    color: #fff;
+    font-size: 19px;
+    letter-spacing: 0.5px;
+    font-weight: 100;
+}
+#banner-404 .content .error-text {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
 
-
+#banner-404 .content .error-text h1 {
+  font-size: 12.5rem;
+  letter-spacing: .10em;
+  text-shadow: .05em .05em 0 rgba(0,0,0,.25);
+  white-space: nowrap;
+}
+#banner-404 .content .error-text h1 span {
+    -webkit-animation: spooky 2s alternate infinite linear;
+    animation: spooky 2s alternate infinite linear;
+    color: #25ace0;
+    display: inline-block;
+}
+#banner-404 .content .error-text h2 {
+    font-size: 30px;
+    font-weight: 600;
+	text-align: center;
+	padding: 0px;
+	text-transform: uppercase;
+}
+#banner-404 .content .error-text p {
+    text-align: center;
+    font-size: 18px;
+	line-height: 30px;
+    font-weight: lighter;
+    font-family: 'Muli', sans-serif;
+    padding: 0px;
+	margin-bottom:25px;
+}
+#banner-404 .content .error-text a {
+    text-align: center;
+    font-size: 18px;
+	line-height: 30px;
+    font-weight: lighter;
+    font-family: 'Muli', sans-serif;
+    padding: 0px;
+}
+@keyframes spooky {
+  from {
+    transform: translatey(.15em) scaley(.95);
+  }
+  
+  to {
+    transform: translatey(-.15em);
+  }
+}
+/*-- 404 css --*/
 
 @media screen and (max-width:576px) {
 	#partners h1, #featured-in h1, #video-section h1, #video-section h1, #wallet-supports h1, #get-started-with h1 {font-size: 30px;}

@@ -55,7 +55,18 @@ color:#000;
                     	</div>
 						
 						<div class="contact-info noHeight">				
-							<p class="contactpara">CONNECT WITH US</p>
+							<p class="contact-info-gap"></p>
+					
+                            <p class="contactpara">Join the Discord or Reddit to get Community Support</p>
+                            <hr class="mb-1" style="margin-top: 0px;">
+                            <p class="socialicons1 mb-0">
+                                <a href="https://discord.com/invite/KZdD6pkFxp" target="_blank"><i class="fab fa-discord"></i></a>
+                                <a href="https://www.reddit.com/r/xinfin/" target="_blank"><i class="fa fa-reddit-square"></i></a>
+                            </p>
+                            
+                            <p class="contact-info-gap"></p>
+                            
+                            <p class="contactpara">CONNECT WITH US</p>
 							<hr style="margin-top: 0px; ">
 							<p class="socialicons1">
 								<a href="https://t.me/xinfintalk" target="_blank"><i class="fa fa-paper-plane"></i></a>

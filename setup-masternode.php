@@ -285,7 +285,7 @@ include('inc/header.php') ?>
                         <div class="row" style="margin-top: 0%; padding-bottom: 0px;">
                             <div class="col-md-12 col-sm-12 col-xs-12">
                                 <p class="header mt-0 mb-3">This guide will cater to the following system configurations:</p>
-                                <div class="flex-row">
+                                <div class="flex-row pb-3">
                                     <div class="col-md-6 col-sm-6 col-xs-12 mb-2">
                                         <div class="configurationsBox">
                                             <img src="assets/images/masternode/os-icon.png" class="img-responsive" />
@@ -326,8 +326,25 @@ include('inc/header.php') ?>
                                         </div>
                                     </div>
                                 </div>
+                                
+                                
+                                <div class="row mt-3">
+                                    <div class="col-md-6 col-lg-6 mb-5">
+                                        <h2 class="">Xinfin Masternode Setup on MainNet using BootStrap (on AWS)</h2>
+                                        <div class="embed-responsive embed-responsive-16by9 embed-div mt-2">
+											<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/lWXfo42daSU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+										</div>
+                                    </div>
+                                    <div class="col-md-6 col-lg-6 mb-5">
+                                        <h2 class="">XinFin Masternode Setup on MainNet using Docker (on AWS)</h2>
+                                        <div class="embed-responsive embed-responsive-16by9 embed-div mt-2">
+											<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/gtV6PrSe5BA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+										</div>
+                                    </div>
+                                </div>
+                                
 
-                                <p class="header mb-3">Hands-on guide: How to Setup Masternode</p>
+                                <p class="header mt-2 mb-3">Hands-on guide: How to Setup Masternode</p>
                                 <p class="mb-1">There are two methods to choose from to set up the Masternode:</p>
                                 <div class="orderList">
                                     <ol>
