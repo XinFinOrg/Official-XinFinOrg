@@ -74,7 +74,7 @@
             <div class="container">
                 <div class="row footer-bottom">
                     <div class="col-md-7 col-sm-7">
-                        <div class="copyright">Copyright &copy; <script>document.write(new Date().getFullYear())</script> XinFin Network. All rights reserved.</div>
+                        <div class="copyright">Copyright &copy; <span id="year"></span> XinFin Network. All rights reserved.</div>
                     </div>
                     <div class="col-md-5 col-sm-5">
                         <div class="copyright pull-right"><a href="privacy">Privacy Policy</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="disclaimer">Disclaimer</a></div>
@@ -106,8 +106,11 @@
     }
   });
 });
-</script>
- 	
+</script> 	
+
+<!-- Get full year -->
+<script>document.getElementById("year").innerHTML = new Date().getFullYear();</script>
+
 </div>
  	
 </body>
