@@ -30,7 +30,7 @@
                     <a href="bounty">Community Bounty Program</a><br/>
                     <!--<a href="https://github.com/XinFinorg">Source Code on GitHub</a><br/>-->
                     <a href="download">Download Logo</a><br/>
-                    <a href="https://xinfin.io" target="_blank">XDC Exchange List</a><br/>
+                    <a href="xdc">XDC Exchange List</a><br/>
                     <a href="apply-for-funding">Apply For Funding</a>
                 </p>
              </div>		
