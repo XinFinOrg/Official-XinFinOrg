@@ -68,6 +68,12 @@ include('inc/header.php') ?>
                 <div class="text-center">
                     <div class="exchange-box">
                         <div class="logo-box">
+                        	<a href="https://hitbtc.com/xdc-to-usdt" target="_blank"><img src="assets/images/exchanges/changelly.png" class="img-fluid" alt="https://pro.changelly.com/" /></a>                            
+                        </div>
+                        <div class="pairs"><a href="https://pro.changelly.com/xdc-to-btc" target="_blank">BTC</a>, <a href="https://pro.changelly.com/xdc-to-usdt" target="_blank">USDT</a></div>
+                    </div>
+                    <div class="exchange-box">
+                        <div class="logo-box">
                         	<a href="https://hitbtc.com/xdc-to-usdt" target="_blank"><img src="assets/images/exchanges/hitbtc.png" class="img-fluid" alt="liquid.com" /></a>                            
                         </div>
                         <div class="pairs"><a href="https://hitbtc.com/xdc-to-btc" target="_blank">BTC</a>, <a href="https://hitbtc.com/xdc-to-usdt" target="_blank">USDT</a></div>
