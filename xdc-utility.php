@@ -25,7 +25,7 @@ include('inc/header.php') ?>
 
 <section id="xdc-utility">
   <div class="container">
-  	<div class="row flex-row">
+  	<div class="row flex-row">    
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
@@ -51,6 +51,20 @@ include('inc/header.php') ?>
             </div>
             <p class="mb-3">XcelTrip is a next-gen, blockchain-based, and decentralized solution, designed with the intent to disrupt the trillion-dollar travel industry. Alongside an expanding partner base of over 1.5 million hotels and 400 airline companies, the platform strives to democratize use-cases within the blockchain and cryptocurrency domain.</p>
             <p class="date">Leveraging the platform's web, android, and iOS applications, XcelTrip users can pay for their travel needs using Bitcoin, Ethereum, etc., and is now integrated the XDC token.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/travala-logo.jpg" alt="travala.com">
+            </div>
+            <h3>Travala <span>Coming Soon!</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://www.travala.com" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            </div>
+            <p class="mb-3">Travala.com is the most epic cryptocurrency-friendly travel booking service with 2.2 million properties, over 400k activities in 230 countries, and 600 airlines globally. Travala.com is a champion of cryptocurrency adoption, accepting more than 50 leading cryptocurrencies along with traditional payment methods.</p>
+            <p class="date">Travala.com's vision is to align travel booking with the ethos of decentralized technology.</p>
         </div>
     </div>
     
