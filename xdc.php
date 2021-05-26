@@ -239,6 +239,28 @@ include('inc/header.php') ?>
                             </div>
                         </div>
                     </div>
+                    
+                    <div class="col-md-10 col-md-offset-1 mt-3">
+                        <div class="row guarda-wallet-box">
+                            <div class="col-lg-2 col-md-3">
+                                <div>
+                                    <a href="https://freewallet.org/#wallets" target="_blank"><img src="assets/images/exchanges/freewallet/freewallet-logo.png" class="img-fluid" /></a>
+                                </div>
+                                <p class="text-center mt-0">Freewallet</p>
+                            </div>
+                            <div class="col-lg-10 col-md-9 text-left">
+                                <a href="https://app.freewallet.org/auth/registration" target="_blank">
+                                    <div class="guarda-wallet-ico-box"><img src="assets/images/exchanges/guarda-wallet/wallet.png" class="img-fluid" /></div>
+                                </a>
+                                <a href="https://play.google.com/store/apps/details?id=mw.org.freewallet.app" target="_blank">
+                                    <div class="guarda-wallet-ico-box"><img src="assets/images/exchanges/guarda-wallet/android.png" class="img-fluid" /></div>
+                                </a>
+                                <a href="https://apps.apple.com/us/app/id1274003898?mt=8" target="_blank">
+                                    <div class="guarda-wallet-ico-box"><img src="assets/images/exchanges/guarda-wallet/apple.png" class="img-fluid" /></div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="clearfix"></div>
                     <div class="sh-divider-line doubble light margin"></div>

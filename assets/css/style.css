@@ -1014,12 +1014,13 @@ hr {
 	border-radius: 15px;
 	padding: 12px;
     text-align: center;
-	width: 100px;
-    height: 100px;
+	width: 94px;
+    height: 94px;
 	line-height: 60px;
 }
-.wallet-supports_block .item .logo-wrapper img {
-    opacity: .9;
+.wallet-supports_block .item .logo-wrapper img {    
+    max-width: 70px;
+	opacity: .9;
 	vertical-align: middle;
 }
 .wallet-supports_block .item .logo-wrapper:hover img {
@@ -5271,6 +5272,7 @@ table{width:100%;background-color:#fff}th,td{font-weight:unset;padding-right:10p
 .sh-divider-line{width:90%;margin-top:25px;margin-right:auto;margin-bottom:25px;margin-left:auto}
 .guarda-wallet-box{display:flex;padding:20px;border-radius:8px;background-color:#fff;transition:all 0.3s ease-out 0s;-webkit-box-shadow:0px 0px 15px 2px rgba(0,0,0,0.03);-moz-box-shadow:0px 0px 15px 2px rgba(0,0,0,0.03);box-shadow:0px 0px 15px 2px rgba(0,0,0,0.03);border:1px solid rgb(223,223,223);align-items:center}
 .guarda-wallet-box p{font-size:14px;}
+.guarda-wallet-box a:hover, .guarda-wallet-box a:focus {text-decoration: none;}
 .guarda-wallet-ico-box{margin:1%;display:inline-block;border-radius:5px;padding:10px 15px;border:1px solid rgb(223, 223, 223)}
 .guarda-wallet-ico-box:hover{background: rgba(243, 243, 243, 0.6);}
 @media (max-width: 991px) and (min-width: 768px){.exchange-box{width:33%!important;}}

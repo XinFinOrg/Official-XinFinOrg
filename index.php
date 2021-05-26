@@ -789,7 +789,7 @@ include('inc/header.php') ?>
                                 </div>
                             </div>
                         </div>
-                        <div class="wallet-supports_block mt-4 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.8s">
+                        <div class="wallet-supports_block mt-3 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.8s">
                             <div class="item">
                                 <a href="https://dcentwallet.com/MobileApp" target="_blank">
                                     <div class="logo-wrapper">
@@ -811,7 +811,30 @@ include('inc/header.php') ?>
                                     </div>
                                 </div>
                             </div>
-                        </div>                        
+                        </div>
+                        <div class="wallet-supports_block mt-3 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1s">
+                            <div class="item">
+                                <a href="https://freewallet.org/#wallets" target="_blank">
+                                    <div class="logo-wrapper">
+                                        <img src="assets/images/exchanges/freewallet/freewallet-logo.png" alt="Freewallet" class="logo-wrapper_top" />
+                                    </div>
+                                </a>
+                                <div class="content-wrapper">
+                                    <div class="text_top"><a href="https://freewallet.org/#wallets" target="_blank">Freewallet</a></div>
+                                    <div class="text_list">
+                                       <a href="https://play.google.com/store/apps/details?id=mw.org.freewallet.app" target="_blank" class="list-item has-tooltip" data-toggle="tooltip" data-placement="bottom" data-color="success" title="Android Wallet">
+                                            <img src="assets/images/exchanges/freewallet/android.png" class="icon" />
+                                        </a>
+                                        <a href="https://apps.apple.com/us/app/id1274003898?mt=8" target="_blank" class="list-item has-tooltip" data-toggle="tooltip" data-placement="bottom" data-color="success" title="iOS Wallet">
+                                            <img src="assets/images/exchanges/freewallet/apple.png" class="icon" />
+                                        </a>
+                                        <a href="https://app.freewallet.org/auth/registration" target="_blank" class="list-item has-tooltip" data-toggle="tooltip" data-placement="bottom" data-color="success" title="Web Wallet">
+                                            <img src="assets/images/exchanges/freewallet/wallet.png" class="icon" />
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
         </div>
