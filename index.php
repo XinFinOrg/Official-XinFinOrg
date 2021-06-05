@@ -746,14 +746,22 @@ include('inc/header.php') ?>
         </div>
     </section>-->
     
+    
+    
     <section id="wallet-supports" class="home-page-sections small-padd">
         <div class="container">             
-                <div class="flex-row align-items-center">
-                    <div class="col-md-6">
-                    	<h1 class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.2s">Supporting Wallets</h1>
-                        <p class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.4s">Download wallets supporting XDC.</p>
+                <div class="row">
+                <div class="col-md-offset-2 col-md-8 col-md-offset-2">
+                    <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 0.5s; animation-delay: 0.5s; animation-name: fadeInDown;">
+                        <h1>Supporting Wallets</h1>
                     </div>
-                    <div class="col-md-6">
+                    <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 0.5s; animation-delay: 0.7s; animation-name: fadeInDown;">
+                        <p class="text-center">Download wallets supporting XDC.</p>
+                    </div>
+                </div>
+            </div>
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-6">
                     	<div class="wallet-supports_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.6s">
                             <div class="item">
                                 <a href="https://guarda.com/" target="_blank">
@@ -789,6 +797,8 @@ include('inc/header.php') ?>
                                 </div>
                             </div>
                         </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6">                    	
                         <div class="wallet-supports_block mt-3 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.8s">
                             <div class="item">
                                 <a href="https://dcentwallet.com/MobileApp" target="_blank">
@@ -812,6 +822,8 @@ include('inc/header.php') ?>
                                 </div>
                             </div>
                         </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6">
                         <div class="wallet-supports_block mt-3 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1s">
                             <div class="item">
                                 <a href="https://freewallet.org/#wallets" target="_blank">
@@ -830,6 +842,28 @@ include('inc/header.php') ?>
                                         </a>
                                         <a href="https://app.freewallet.org/auth/registration" target="_blank" class="list-item has-tooltip" data-toggle="tooltip" data-placement="bottom" data-color="success" title="Web Wallet">
                                             <img src="assets/images/exchanges/freewallet/wallet.png" class="icon" />
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6">
+                        <div class="wallet-supports_block mt-3 wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.2s">
+                            <div class="item">
+                                <a href="https://xcelpay.io/" target="_blank">
+                                    <div class="logo-wrapper">
+                                        <img src="assets/images/exchanges/xcelpay/xcelpay-logo.png" alt="Freewallet" class="logo-wrapper_top" />
+                                    </div>
+                                </a>
+                                <div class="content-wrapper">
+                                    <div class="text_top"><a href="https://xcelpay.io/" target="_blank">XcelPay</a></div>
+                                    <div class="text_list">
+                                       <a href="https://play.google.com/store/apps/details?id=com.XcelTrip.XcelPay" target="_blank" class="list-item has-tooltip" data-toggle="tooltip" data-placement="bottom" data-color="success" title="Android Wallet">
+                                            <img src="assets/images/exchanges/freewallet/android.png" class="icon" />
+                                        </a>
+                                        <a href="https://apps.apple.com/us/app/xcelpay-secure-crypto-wallet/id1461215417" target="_blank" class="list-item has-tooltip" data-toggle="tooltip" data-placement="bottom" data-color="success" title="iOS Wallet">
+                                            <img src="assets/images/exchanges/freewallet/apple.png" class="icon" />
                                         </a>
                                     </div>
                                 </div>

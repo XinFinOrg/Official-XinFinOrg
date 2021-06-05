@@ -246,15 +246,24 @@ include('inc/header.php') ?>
                         </div>
                     </div>
                     
-                    <div class="col-md-10 col-md-offset-1 mt-3">
-                        <div class="row guarda-wallet-box">
-                            <div class="col-lg-2 col-md-3">
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    <div class="col-md-10 col-md-offset-1">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 mt-3">
+                                <div class="row guarda-wallet-box">
+                            <div class="col-lg-3 col-md-3">
                                 <div>
                                     <a href="https://freewallet.org/#wallets" target="_blank"><img src="assets/images/exchanges/freewallet/freewallet-logo.png" class="img-fluid" /></a>
                                 </div>
                                 <p class="text-center mt-0">Freewallet</p>
                             </div>
-                            <div class="col-lg-10 col-md-9 text-left">
+                            <div class="col-lg-9 col-md-9 text-left">
                                 <a href="https://app.freewallet.org/auth/registration" target="_blank">
                                     <div class="guarda-wallet-ico-box"><img src="assets/images/exchanges/guarda-wallet/wallet.png" class="img-fluid" /></div>
                                 </a>
@@ -266,7 +275,30 @@ include('inc/header.php') ?>
                                 </a>
                             </div>
                         </div>
+                            </div>
+
+                            <div class="col-lg-5 col-md-5 col-md-offset-1 mt-3">
+                                <div class="row guarda-wallet-box">
+                                    <div class="col-lg-5 col-md-5 col-sm-6">
+                                        <div>
+                                            <a href="https://xcelpay.io/" target="_blank"><img src="assets/images/exchanges/xcelpay/xcelpay-logo.png" class="img-fluid" /></a>
+                                        </div>
+                                        <p class="text-center mt-0">XcelPay</p>
+                                    </div>
+                                    <div class="col-lg-8 col-md-8 col-sm-6">
+                                        <a href="https://play.google.com/store/apps/details?id=com.XcelTrip.XcelPay" target="_blank">
+                                            <div class="guarda-wallet-ico-box"><img src="assets/images/exchanges/xcelpay/android.png" class="img-fluid" /></div>
+                                        </a>
+                                        <a href="https://apps.apple.com/us/app/xcelpay-secure-crypto-wallet/id1461215417" target="_blank">
+                                            <div class="guarda-wallet-ico-box"><img src="assets/images/exchanges/xcelpay/apple.png" class="img-fluid" /></div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
+                    
+                    
 
                     <div class="clearfix"></div>
                     <div class="sh-divider-line doubble light margin"></div>

@@ -992,7 +992,7 @@ hr {
     font-family: 'Muli', sans-serif;
     text-transform: capitalize;
     margin-top: 0px;
-	text-align: left;
+	/*text-align: left;*/
 }
 #wallet-supports .wallet-supports_block {
 	padding: 1rem 0;
@@ -3760,6 +3760,9 @@ ul.lower-alpha li, ul.lower-roman li {margin-bottom:6px;}
 
 /* GENERAL MEDIA QUERIES
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+@media screen and (max-width: 1199px) and (min-width: 992px) {
+	.wallet-supports_block .item .content-wrapper .text_top {font-size: 1.9rem;}
+}
 @media screen and (max-width: 599px) {  
 #contactbanner .bannertext, #download-xdc-wallet .bannertext, #bountybanner .bannertext, #banner1 .bannertext, #bannerdev .bannertext, #xdcebanner .bannertext, #solbanner .bannertext, #xdc-utility-banner .bannertext {margin-top: 150px!important;}
 }
@@ -3838,9 +3841,10 @@ ul.lower-alpha li, ul.lower-roman li {margin-bottom:6px;}
   .timeline ol li:nth-child(22) {
    width: 100%; 
   }
-  .wallet-supports_block .item {display: block;border:1px solid #f6f6f6;border-radius:10px;padding:5px;}
-  .wallet-supports_block .item .content-wrapper {padding-left: 0px;padding-top: 15px;}
-  .wallet-supports_block .item .content-wrapper .text_list {margin-top: 10px;}
+  .wallet-supports_block .item {/*display: block;padding:5px;border-radius:10px;*/border:1px solid #f6f6f6;border-radius:20px;padding:10px;}
+  .wallet-supports_block .item .content-wrapper {/*padding-left: 0px;padding-top: 15px;*/}
+  .wallet-supports_block .item .content-wrapper .text_top {font-size: 2rem;}
+  .wallet-supports_block .item .content-wrapper .text_list {margin-top: 10px;display:block;}
   .wallet-supports_block .item .logo-wrapper {
     padding: 6px;
 	width: 75px;
