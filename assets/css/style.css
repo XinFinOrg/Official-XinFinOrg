@@ -1756,7 +1756,7 @@ a.cfb:hover {text-decoration:none!important;}
     font-size: 23px;
     line-height: 28px;
 }
-#resources .roadmap-details ul{font-size:16px;color:#002752;margin-left:20px;}
+#resources .roadmap-details ul{font-size:16px;color:#333333;margin-left:20px;}
 #resources .roadmap-details ul li{margin-left:22px;}
 
 #resources .roadmap-details ul ol {list-style-type: lower-roman;margin-left:5px;}
