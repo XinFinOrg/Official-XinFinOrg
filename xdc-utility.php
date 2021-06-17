@@ -29,7 +29,25 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/globiance-logo.jpg" alt="globiance.com">
+            	<img class="img-responsive" src="assets/images/utility/storx-logo.png" alt="storx.tech">
+            </div>
+            <h3>StorX <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://www.storx.tech" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+                <a href="https://github.com/storxnetwork/" target="_blank"><button class="btn-hover color-3"><i class="fa fa-github"></i> Github</button></a>
+            </div>
+            <p>StorX is a decentralized cloud storage network, Which empowers users to store their data securely on the cloud. Each file uploaded on StorX is split and encrypted into multiple fragments to autonomous storage nodes operated by individual operators across the world.</p>
+            <div class="btn-block mb-1">
+                <a href="https://www.youtube.com/watch?v=GX-0egZEZ0Y" target="_blank"><button class="btn-hover color-3"><i class="fa fa-youtube"></i> Watch Video</button></a>
+            </div>
+            <p class="date">Designed as the collection of autonomous storage networks, no individual operator has complete access to the data. StorX is faster than legacy centralized storage providers and enables users to save costs compared to a centralized cloud. StorX also enables users with spare storage capacity to lease space and earn fabulous returns.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/globiance-logo.png" alt="globiance.com">
             </div>
             <h3>Globiance stable coins <span>Livenet</span></h3>
             <div class="btn-block mb-1">
@@ -43,7 +61,7 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/xceltrip-logo.jpg" alt="xceltrip.com">
+            	<img class="img-responsive" src="assets/images/utility/xceltrip-logo.png" alt="xceltrip.com">
             </div>
             <h3>XcelTrip <span>Livenet</span></h3>
             <div class="btn-block mb-1">
@@ -57,7 +75,7 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/travala-logo.jpg" alt="travala.com">
+            	<img class="img-responsive" src="assets/images/utility/travala-logo.png" alt="travala.com">
             </div>
             <h3>Travala <span>Coming Soon!</span></h3>
             <div class="btn-block mb-1">
@@ -71,7 +89,7 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/mycontract-logo.jpg" alt="mycontract.co">
+            	<img class="img-responsive" src="assets/images/utility/mycontract-logo.png" alt="mycontract.co">
             </div>
             <h3>MyContract <span>Livenet</span></h3>
             <div class="btn-block mb-1">
@@ -91,7 +109,7 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/tradefinex-logo.jpg" alt="tradefinex.org">
+            	<img class="img-responsive" src="assets/images/utility/tradefinex-logo.png" alt="tradefinex.org">
             </div>
             <h3>TradeFinex <span>Livenet</span></h3>
             <div class="btn-block mb-1">
@@ -110,7 +128,7 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/alphaex-logo.jpg" alt="alphaex.net">
+            	<img class="img-responsive" src="assets/images/utility/alphaex-logo.png" alt="alphaex.net">
             </div>
             <h3>AlphaEx <span>Livenet</span></h3>
             <div class="btn-block mb-1">
@@ -129,7 +147,7 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/dcb-bank-logo.jpg" alt="DCB Bank">
+            	<img class="img-responsive" src="assets/images/utility/dcb-bank-logo.png" alt="DCB Bank">
             </div>
             <h3 class="mb-2">DCB Bank Ltd. <span>Livenet</span></h3>
             <p class="mb-3">DCB Bank Ltd., a private sector scheduled commercial bank selected XinFin as their blockchain partner to streamline Insurance systems using Blockchain.</p>
@@ -140,7 +158,7 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/kramaa-logo.jpg" alt="kramaa.com">
+            	<img class="img-responsive" src="assets/images/utility/kramaa-logo.png" alt="kramaa.com">
             </div>
             <h3>Kramaa <span>Testnet</span></h3>
             <div class="btn-block mb-1">
@@ -159,7 +177,7 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/blockdegree-logo.jpg" alt="blockdegree.org">
+            	<img class="img-responsive" src="assets/images/utility/blockdegree-logo.png" alt="blockdegree.org">
             </div>
             <h3>Blockdegree <span>Livenet</span></h3>
             <div class="btn-block mb-1">
@@ -179,7 +197,7 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/turantPay-logo.jpg" alt="TurantPay">
+            	<img class="img-responsive" src="assets/images/utility/turantPay-logo.png" alt="TurantPay">
             </div>
             <h3>TurantPay <span>Testnet</span></h3>
             <div class="btn-block mb-1">
@@ -197,7 +215,7 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/land-registry-logo.jpg" alt="Land Registry">
+            	<img class="img-responsive" src="assets/images/utility/land-registry-logo.png" alt="Land Registry">
             </div>
             <h3>Land Registry <span>Testnet PoC</span></h3>
             <div class="btn-block mb-1">
@@ -216,7 +234,7 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/inFactor-logo.jpg" alt="infactor.io">
+            	<img class="img-responsive" src="assets/images/utility/inFactor-logo.png" alt="infactor.io">
             </div>
             <h3>InFactor <span>Testnet PoC</span></h3>
             <div class="btn-block mb-1">
@@ -235,7 +253,7 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/airnetz-logo.jpg" alt="airnetzcharter.com">
+            	<img class="img-responsive" src="assets/images/utility/airnetz-logo.png" alt="airnetzcharter.com">
             </div>
             <h3>Airnetz <span>Livenet Pilot</span></h3>
             <div class="btn-block mb-1">
@@ -250,7 +268,7 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container mb-2">
-            	<img class="img-responsive" src="assets/images/utility/setup-loyalty-dapp-logo.jpg" alt="Setup Loyalty dApp">
+            	<img class="img-responsive" src="assets/images/utility/setup-loyalty-dapp-logo.png" alt="Setup Loyalty dApp">
             </div>
             <p class="mb-2">Do you have Need to set up a blockchain loyalty dApp but find the whole thing confusing? You're not alone. We created this guide to setting up a loyalty token on our blockchain loyalty platform to make life that little bit easier for our community.</p>
             <p class="mb-2">Setting up a Blockchain Loyalty App – A Step-By-Step Guide.</p>
@@ -263,7 +281,7 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">            
             <div class="image-container mb-2">
-            	<img class="img-responsive" src="assets/images/utility/your-application-logo.jpg" alt="List your Application">
+            	<img class="img-responsive" src="assets/images/utility/your-application-logo.png" alt="List your Application">
             </div>
             <p class="mb-2">Do you have an application built around the XDC Network that you want to see listed on our webpage?</p>
             <p class="mb-2">It's quick and simple.</p>

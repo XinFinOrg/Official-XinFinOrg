@@ -60,7 +60,7 @@ include('inc/header.php') ?>
             <!-- Newly added code -->
             <div class="row mt-1">
                 <div class="col-md-12 text-center m-b-10">
-                    <h3 style="font-size: 24px; color: #096db0; font-weight: 600; margin-bottom: 25px;">XDC Trading now live on below Exchanges</h3>
+                    <h3 style="font-size: 24px; color: #096db0; font-weight: 600; margin-bottom: 20px;">XDC Trading now live on below Exchanges</h3>
                 </div>
             </div>
             <div class="row mt-2">
@@ -68,7 +68,34 @@ include('inc/header.php') ?>
                 <div class="text-center">
                     <div class="exchange-box">
                         <div class="logo-box">
-                        	<a href="https://hitbtc.com/xdc-to-usdt" target="_blank"><img src="assets/images/exchanges/changelly.png" class="img-fluid" alt="https://pro.changelly.com/" /></a>                            
+                        	<a href="https://exchange.bitcoin.com/xdc-to-usdt" target="_blank"><img src="assets/images/exchanges/bitcoin-exchange.png" class="img-fluid" alt="exchange.bitcoin.com" /></a>                            
+                        </div>
+                        <div class="pairs"><a href="https://exchange.bitcoin.com/xdc-to-btc" target="_blank">BTC</a>, <a href="https://exchange.bitcoin.com/xdc-to-eth" target="_blank">ETH</a>, <a href="https://exchange.bitcoin.com/xdc-to-usdt" target="_blank">USDT</a></div>
+                    </div>
+                    
+                    
+                    
+                    
+                    
+                    <div class="exchange-box">
+                        <div class="logo-box">
+                        	<a href="https://jelly.market/" target="_blank"><img src="assets/images/exchanges/jellyswap.png" class="img-fluid" alt="jelly.market" /></a>                            
+                        </div>
+                        <div class="pairs"><a href="https://jelly.market/" target="_blank">BTC</a>, <a href="https://jelly.market/" target="_blank">ETH</a></div>
+                    </div>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    <div class="exchange-box">
+                        <div class="logo-box">
+                        	<a href="https://pro.changelly.com/xdc-to-usdt" target="_blank"><img src="assets/images/exchanges/changelly.png" class="img-fluid" alt="changelly.com"></a>
                         </div>
                         <div class="pairs"><a href="https://pro.changelly.com/xdc-to-btc" target="_blank">BTC</a>, <a href="https://pro.changelly.com/xdc-to-usdt" target="_blank">USDT</a></div>
                     </div>
@@ -291,6 +318,26 @@ include('inc/header.php') ?>
                                         </a>
                                         <a href="https://apps.apple.com/us/app/xcelpay-secure-crypto-wallet/id1461215417" target="_blank">
                                             <div class="guarda-wallet-ico-box"><img src="assets/images/exchanges/xcelpay/apple.png" class="img-fluid" /></div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="col-md-10 col-md-offset-1">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 mt-3">
+                                <div class="row guarda-wallet-box">
+                                    <div class="col-lg-5 col-md-6 col-sm-6">
+                                        <div>
+                                            <a href="https://bitfi.com/" target="_blank"><img src="assets/images/exchanges/bitfi/bitfiwallet.png" class="img-fluid" /></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-7 col-md-6 col-sm-6">
+                                        <a href="https://bitfi.com/order" target="_blank">
+                                            <div class="guarda-wallet-ico-box"><b>Bitfi Hardware Wallet</b></div>
                                         </a>
                                     </div>
                                 </div>

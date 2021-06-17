@@ -760,7 +760,101 @@ include('inc/header.php') ?>
                     </div>
                 </div>
             </div>
-                <div class="row align-items-center">
+            
+            
+            <div class="row flex-row">
+        <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+        	<div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+            	<a href="#" class="wallet-item">
+                    <div class="wallet-logo-container">
+                        <img src="assets/images/exchanges/guarda-wallet/guarda-wallet.png" alt="Gaurda Wallet" class="img-responsive" />
+                    </div>
+				</a>
+                <div class="wallet-text">
+                <h5>Guarda Wallet</h5>
+                	<div class="wallet-apps">
+                        <a href="https://guarda.co/app/" target="_blank" title="Web Wallet"><span class="wallet-apps-tag mobile">Web</span></a>
+                        <a href="https://play.google.com/store/apps/details?id=com.crypto.multiwallet" target="_blank" title="Android Wallet"><span class="wallet-apps-tag mobile">Android</span></a>
+                        <a href="https://apps.apple.com/app/guarda-wallet/id1442083982" target="_blank" title="iOS Wallet"><span class="wallet-apps-tag mobile">iOS</span></a>
+                        <a href="https://guarda.com/desktop/" target="_blank" title="MacOS"><span class="wallet-apps-tag mobile">MacOS</span></a>
+                        <a href="https://guarda.com/desktop/" target="_blank" title="Windows 32"><span class="wallet-apps-tag mobile">Windows</span></a>
+                        <a href="https://guarda.com/desktop/" target="_blank" title="Ubuntu"><span class="wallet-apps-tag mobile">Ubuntu</span></a>
+                        <a href="https://guarda.com/chrome-extension/" target="_blank" title="Chrome Extension"><span class="wallet-apps-tag mobile">Chrome</span></a>
+                	</div>
+            	</div>
+        	</div>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+        	<div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.8s">
+            	<a href="#" class="wallet-item">
+                    <div class="wallet-logo-container">
+                        <img src="assets/images/exchanges/freewallet/freewallet.png" alt="Freewallet" class="img-responsive" />
+                    </div>
+				</a>
+                <div class="wallet-text">
+                <h5>Freewallet</h5>
+                	<div class="wallet-apps">
+                        <a href="https://app.freewallet.org/auth/registration" target="_blank" title="Web Wallet"><span class="wallet-apps-tag mobile">Web</span></a>
+                        <a href="https://play.google.com/store/apps/details?id=mw.org.freewallet.app" target="_blank" title="Android Wallet"><span class="wallet-apps-tag mobile">Android</span></a>
+                        <a href="https://apps.apple.com/us/app/id1274003898?mt=8" target="_blank" title="iOS Wallet"><span class="wallet-apps-tag mobile">iOS</span></a>
+                                        
+                	</div>
+            	</div>
+        	</div>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+        	<div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.9s">
+            	<a href="#" class="wallet-item">
+                    <div class="wallet-logo-container">
+                        <img src="assets/images/exchanges/xcelpay/xcelpay.png" alt="XcelPay" class="img-responsive" />
+                    </div>
+				</a>
+                <div class="wallet-text">
+                <h5>XcelPay</h5>
+                	<div class="wallet-apps">
+                        <a href="https://play.google.com/store/apps/details?id=com.XcelTrip.XcelPay" target="_blank" title="Android Wallet"><span class="wallet-apps-tag mobile">Android</span></a>
+                        <a href="https://apps.apple.com/us/app/xcelpay-secure-crypto-wallet/id1461215417" target="_blank" title="iOS Wallet"><span class="wallet-apps-tag mobile">iOS</span></a>            
+                	</div>
+            	</div>
+        	</div>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+        	<div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1s">
+            	<a href="#" class="wallet-item">
+                    <div class="wallet-logo-container">
+                        <img src="assets/images/exchanges/dcent-wallet/dcent-wallet.png" alt="D'CENT Wallet" class="img-responsive" />
+                    </div>
+				</a>
+                <div class="wallet-text">
+                <h5>D'CENT Wallet</h5>
+                	<div class="wallet-apps">
+                        <a href="https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet&utm_source=dcent_medium&utm_campaign=xdc_support" target="_blank" title="Android Wallet"><span class="wallet-apps-tag mobile">Android</span></a>
+                        <a href="https://apps.apple.com/kr/app/dcent-hardware-wallet/id1447206611" target="_blank" title="iOS Wallet"><span class="wallet-apps-tag mobile">iOS</span></a>
+                        <a href="https://dcentwallet.com/products/BiometricWallet" target="_blank" title="Biometric Hardware Wallet"><span class="wallet-apps-tag mobile">Hardware</span></a>
+                	</div>
+            	</div>
+        	</div>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+        	<div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.1s">
+            	<a href="https://bitfi.com/" class="wallet-item">
+                    <div class="wallet-logo-container">
+                        <img src="assets/images/exchanges/bitfi/bitfi.png" alt="Bitfi Wallet" class="img-responsive" />
+                    </div>
+				</a>
+                <div class="wallet-text">
+                <h5>Bitfi Wallet</h5>
+                	<div class="wallet-apps">
+                        <a href="https://bitfi.com/order" target="_blank" title="Biometric Hardware Wallet"><span class="wallet-apps-tag mobile">Hardware</span></a>
+                	</div>
+            	</div>
+        	</div>
+        </div>
+      </div>
+                
+                
+                
+                <!--<div class="row align-items-center">
                     <div class="col-lg-6 col-md-6">
                     	<div class="wallet-supports_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.6s">
                             <div class="item">
@@ -870,7 +964,7 @@ include('inc/header.php') ?>
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>-->
         </div>
     </section>
     

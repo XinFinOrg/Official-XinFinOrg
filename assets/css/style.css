@@ -982,9 +982,9 @@ hr {
 
 
 
-
+/* wallet supports */
 #wallet-supports {
-	padding-bottom: 175px;
+	padding-bottom: 150px;
 }
 #wallet-supports h1 {
 	color: #00244e;
@@ -1065,6 +1065,89 @@ hr {
 	height: auto;
 	padding: 3px;
 }
+
+
+/* wallet supports new tabbed */
+a.wallet-item:focus, a.wallet-item:hover, a.wallet-item:visited {
+	text-decoration: none;
+}
+.wallet-item_block {
+	border-radius: 5px;
+    display: block;
+    position: relative;
+    padding: 15px;
+    background-color: #f8f9fa;
+    height: 100%;
+}
+.wallet-logo-container {
+    text-align: center;
+	padding: 10px 0px 20px 0px;
+    border-bottom: 1px solid #eaecee;
+}
+.wallet-text {
+    padding: 15px 0px 5px 0px;
+	text-align: center;
+}
+.wallet-text h5 {
+    font-weight: 600;
+    font-size: 2.1rem;
+    line-height: 2.5rem;
+    color: #112b3c;
+	margin-bottom: 15px;
+}
+.wallet-apps {
+    justify-content: center;
+}
+.wallet-apps-tag {
+    align-items: center;
+	padding: 1px 10px;
+    margin: 0px 1px 5px 1px;
+    border-radius: 50px;
+    font-size: 11px;
+    font-weight: 700;
+    display: inline-block;
+    background: #e4edf2;
+    color: #868686;
+}
+#wallet-supports .col-md-3 {
+	width: 20%;
+	padding-right: 5px;
+    padding-left: 5px;
+}
+@media (max-width:991px) {
+	#wallet-supports .col-md-3 {
+		width: 33.33333333%;
+		padding-right: 10px;
+    	padding-left: 10px;
+	}
+	#wallet-supports .flex-row {
+    	display: flex;
+	}
+}
+@media only screen and (max-width: 625px) {
+	#wallet-supports .col-md-3 {
+		width: 50%;
+	}
+	#wallet-supports .flex-row {
+    	display: flex;
+	}
+	#wallet-supports .wallet-logo-container img {
+		max-width: 75%;
+		margin: auto;
+	}
+	.wallet-text {
+		padding-top: 5px;
+	}
+	.wallet-text h5 {
+    	font-size: 1.9rem;
+	}
+}
+@media only screen and (max-width: 425px) {
+	#wallet-supports .col-md-3 {
+		width: 100%;
+	}
+}
+
 
 /* tooltip success */
 *[data-toggle="tooltip"][data-color="success"] + .tooltip .tooltip-inner
@@ -1325,9 +1408,9 @@ hr {
 	background:#f6f6f6;}
 
 .usecase-box {border-radius: 5px;display: block;position: relative;padding:15px;background-color:#FFFFFF;height:100%;-webkit-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);-moz-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);}
-.usecase-box .image-container {display: -ms-flexbox;display: flex;text-align: center;-ms-flex-align: center;align-items: center;font: 0/0 a;border: 1px solid transparent;}
+.usecase-box .image-container {display: -ms-flexbox;display: flex;text-align: center;-ms-flex-align: center;align-items: center;font: 0/0 a;border-bottom: 1px solid #eaecee;padding: 50px 25px;margin-bottom: 15px;}
 .usecase-box .image-container img {margin: auto;width: 100%;max-height: 100%;-o-object-fit: contain;object-fit: contain;}
-.usecase-box h3{font-size:22px;}
+.usecase-box h3{font-size:22px;margin-bottom: 15px;}
 .usecase-box h3 span{font-size:18px;color:#096db0;}
 .usecase-box .githublink {font-size: 16px;font-weight: 500;margin: 8px 0px;color: #3490E6;overflow-wrap: break-word;word-wrap: break-word;-ms-word-break: break-all;word-break: break-all;-ms-hyphens: auto;-moz-hyphens: auto;-webkit-hyphens: auto;hyphens: auto;}
 .usecase-box .githublink i {font-size: 16px;color: #a5b2bf;}
@@ -5259,8 +5342,8 @@ table{width:100%;background-color:#fff}th,td{font-weight:unset;padding-right:10p
 
 /*--XDC/XDCe Exchanges css --*/
 .address-box{display:inline-block;width:100%;padding:20px;border-radius:5px;background-color:#fff;transition:all 0.3s ease-out 0s;-webkit-box-shadow:0px 0px 15px 2px rgba(0,0,0,0.03);-moz-box-shadow:0px 0px 15px 2px rgba(0,0,0,0.03);box-shadow:0px 0px 15px 2px rgba(0,0,0,0.03)}
-.exchange-box{margin-right:auto;margin-left:auto;width:19%;display:inline-block;padding: 10px 10px 35px 10px;}
-.exchange-box .logo-box {background: rgba(255, 255, 255, 1);padding: 25px 20px;border-radius: 6px;border: 1px solid rgb(223,223,223);}
+.exchange-box{margin-right:auto;margin-left:auto;width:19%;display:inline-block;padding: 10px 10px 30px 10px;}
+.exchange-box .logo-box {background: rgba(255, 255, 255, 1);padding: 20px 20px;border-radius: 6px;border: 1px solid rgb(223,223,223);}
 .exchange-box .logo-box a {display: block;}
 .exchange-box .pairs {padding-top: 10px;font-size: 15px;font-weight: 500;}
 .exchange-box .pairs a {color: #696969!important;padding-left: 6px;}
