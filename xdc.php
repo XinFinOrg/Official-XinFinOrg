@@ -72,27 +72,12 @@ include('inc/header.php') ?>
                         </div>
                         <div class="pairs"><a href="https://exchange.bitcoin.com/xdc-to-btc" target="_blank">BTC</a>, <a href="https://exchange.bitcoin.com/xdc-to-eth" target="_blank">ETH</a>, <a href="https://exchange.bitcoin.com/xdc-to-usdt" target="_blank">USDT</a></div>
                     </div>
-                    
-                    
-                    
-                    
-                    
                     <div class="exchange-box">
                         <div class="logo-box">
                         	<a href="https://jelly.market/" target="_blank"><img src="assets/images/exchanges/jellyswap.png" class="img-fluid" alt="jelly.market" /></a>                            
                         </div>
                         <div class="pairs"><a href="https://jelly.market/" target="_blank">BTC</a>, <a href="https://jelly.market/" target="_blank">ETH</a></div>
                     </div>
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
                     <div class="exchange-box">
                         <div class="logo-box">
                         	<a href="https://pro.changelly.com/xdc-to-usdt" target="_blank"><img src="assets/images/exchanges/changelly.png" class="img-fluid" alt="changelly.com"></a>
@@ -104,6 +89,12 @@ include('inc/header.php') ?>
                         	<a href="https://hitbtc.com/xdc-to-usdt" target="_blank"><img src="assets/images/exchanges/hitbtc.png" class="img-fluid" alt="liquid.com" /></a>                            
                         </div>
                         <div class="pairs"><a href="https://hitbtc.com/xdc-to-btc" target="_blank">BTC</a>, <a href="https://hitbtc.com/xdc-to-usdt" target="_blank">USDT</a></div>
+                    </div>
+                    <div class="exchange-box">
+                        <div class="logo-box">
+                        	<a href="https://xdcbridge.web.app/" target="_blank"><img src="assets/images/exchanges/xdc-bsc-eth-bridge.png" class="img-fluid" alt="exchange.bitcoin.com" /></a>                            
+                        </div>
+                        <div class="pairs"><a href="https://xdcbridge.web.app/" target="_blank">ETH</a>, <a href="https://xdcbridge.web.app/" target="_blank">BSC</a>, <a href="https://xdcbridge.web.app/" target="_blank">XDC</a></div>
                     </div>
                     <div class="exchange-box">
                         <div class="logo-box">
