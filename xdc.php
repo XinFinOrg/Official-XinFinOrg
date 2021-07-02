@@ -68,6 +68,12 @@ include('inc/header.php') ?>
                 <div class="text-center">
                     <div class="exchange-box">
                         <div class="logo-box">
+                        	<a href="https://www.coinspot.com.au/buy/xdc" target="_blank"><img src="assets/images/exchanges/coinspot.png" class="img-fluid" alt="coinspot.com" /></a>                            
+                        </div>
+                        <div class="pairs"><a href="https://www.coinspot.com.au/buy/xdc" target="_blank">BUY</a>, <a href="https://www.coinspot.com.au/sell/xdc" target="_blank">SELL</a>, <a href="https://www.coinspot.com.au/swap/xdc" target="_blank">SWAP</a></div>
+                    </div>
+                    <div class="exchange-box">
+                        <div class="logo-box">
                         	<a href="https://exchange.bitcoin.com/xdc-to-usdt" target="_blank"><img src="assets/images/exchanges/bitcoin-exchange.png" class="img-fluid" alt="exchange.bitcoin.com" /></a>                            
                         </div>
                         <div class="pairs"><a href="https://exchange.bitcoin.com/xdc-to-btc" target="_blank">BTC</a>, <a href="https://exchange.bitcoin.com/xdc-to-eth" target="_blank">ETH</a>, <a href="https://exchange.bitcoin.com/xdc-to-usdt" target="_blank">USDT</a></div>
