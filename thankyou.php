@@ -69,7 +69,7 @@ color:#000;
                             <p class="contactpara">CONNECT WITH US</p>
 							<hr style="margin-top: 0px; ">
 							<p class="socialicons1">
-								<a href="https://t.me/xinfintalk" target="_blank"><i class="fa fa-paper-plane"></i></a>
+								<a href="https://t.me/xinfin" target="_blank"><i class="fa fa-paper-plane"></i></a>
 								<a href="https://www.linkedin.com/company/xinfin/" target="_blank"><i class="fa fa-linkedin"></i></a>
 								<a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><i class="fa fa-youtube"></i></a>
 								<a href="https://twitter.com/XinFin_Official" target="_blank"><i class="fa fa-twitter"></i></a>

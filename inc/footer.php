@@ -59,7 +59,7 @@
                         <a href="https://bitcointalk.org/index.php?topic=1989818.0" target="_blank"><i class="fa fa-btc"></i></a>
                         <a href="https://www.linkedin.com/company/xinfin/" target="_blank"><i class="fa fa-linkedin"></i></a><br/>
                         <a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><i class="fa fa-youtube"></i></a>
-                        <a href="https://t.me/xinfintalk" target="_blank"><i class="fa fa-paper-plane"></i></a>
+                        <a href="https://t.me/xinfin" target="_blank"><i class="fa fa-paper-plane"></i></a>
                         <a href="https://www.reddit.com/r/xinfin/" target="_blank"><i class="fa fa-reddit"></i></a>
 						<a href="https://www.meetup.com/members/270624533/" target="_blank"><i class="fa fa-meetup"></i></a>
 						<a href="https://medium.com/xinfin" target="_blank"><i class="fa fa-medium"></i></a>

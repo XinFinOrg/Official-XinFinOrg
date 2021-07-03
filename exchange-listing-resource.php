@@ -53,7 +53,7 @@ include('inc/header.php') ?>
             <p class="link-break-out">Github: <a href="https://github.com/XinFinOrg/XinFin-Node" target="_blank">https://github.com/XinFinOrg/XinFin-Node</a></p>
             <p class="link-break-out">Technical White Paper: <a href="https://www.xinfin.org/docs/whitepaper-tech.pdf" target="_blank">https://www.xinfin.org/docs/whitepaper-tech.pdf</a></p>
             <p class="link-break-out">Business White Paper: <a href="https://www.xinfin.org/docs/whitepaper-business.pdf" target="_blank">https://www.xinfin.org/docs/whitepaper-business.pdf</a></p>
-            <p class="link-break-out">Telegram:  <a href="https://t.me/xinfintalk" target="_blank">https://t.me/xinfintalk</a></p>
+            <p class="link-break-out">Telegram:  <a href="https://t.me/xinfin" target="_blank">https://t.me/xinfin</a></p>
             <p class="link-break-out">Youtube link: <a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank">https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g</a></p>
             <p class="link-break-out">Twitter: <a href="https://twitter.com/XinFin_Official" target="_blank">https://twitter.com/XinFin_Official</a></p>
             <p class="link-break-out">Reddit Link: <a href="https://www.reddit.com/r/xinfin/" target="_blank">https://www.reddit.com/r/xinfin/</a></p>
@@ -251,7 +251,7 @@ web3.eth.sendTransaction({
             <p class="link-break-out">Github: <a href="https://github.com/XinFinorg/" target="_blank">https://github.com/XinFinorg/</a></p>
             <p class="link-break-out">Technical White Paper: <a href="https://www.xinfin.org/docs/whitepaper-tech.pdf" target="_blank">https://www.xinfin.org/docs/whitepaper-tech.pdf</a></p>
             <p class="link-break-out">Business White Paper: <a href="https://www.xinfin.org/docs/whitepaper-business.pdf" target="_blank">https://www.xinfin.org/docs/whitepaper-business.pdf</a></p>
-            <p class="link-break-out">Telegram:  <a href="https://t.me/xinfintalk" target="_blank">https://t.me/xinfintalk</a></p>
+            <p class="link-break-out">Telegram:  <a href="https://t.me/xinfin" target="_blank">https://t.me/xinfin</a></p>
             <p class="link-break-out">Youtube link: <a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank">https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g</a></p>
             <p class="link-break-out">Coinmarketcap: <a href="https://coinmarketcap.com/currencies/xinfin-network/" target="_blank">https://coinmarketcap.com/currencies/xinfin-network/</a></p>
             <p class="link-break-out">Twitter: <a href="https://twitter.com/XinFin_Official" target="_blank">https://twitter.com/XinFin_Official</a></p>
