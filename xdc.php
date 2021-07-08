@@ -98,6 +98,12 @@ include('inc/header.php') ?>
                     </div>
                     <div class="exchange-box">
                         <div class="logo-box">
+                        	<a href="https://instaswap.io/" target="_blank"><img src="assets/images/exchanges/instaswap.png" class="img-fluid" alt="instaswap.io" /></a>
+                        </div>
+                        <div class="pairs"><a href="https://instaswap.io/" target="_blank">Instant Swap</a></div>
+                    </div>
+                    <div class="exchange-box">
+                        <div class="logo-box">
                         	<a href="https://xdcbridge.web.app/" target="_blank"><img src="assets/images/exchanges/xdc-bsc-eth-bridge.png" class="img-fluid" alt="exchange.bitcoin.com" /></a>                            
                         </div>
                         <div class="pairs"><a href="https://xdcbridge.web.app/" target="_blank">ETH</a>, <a href="https://xdcbridge.web.app/" target="_blank">BSC</a>, <a href="https://xdcbridge.web.app/" target="_blank">XDC</a></div>
