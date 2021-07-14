@@ -68,6 +68,18 @@ include('inc/header.php') ?>
                 <div class="text-center">
                     <div class="exchange-box">
                         <div class="logo-box">
+                        	<a href="https://global.bittrex.com/Market/Index?MarketName=USDT-XDC" target="_blank"><img src="assets/images/exchanges/bittrex.png" class="img-fluid" alt="global.bittrex.com" /></a>
+                        </div>
+                        <div class="pairs"><a href="https://global.bittrex.com/Market/Index?MarketName=BTC-XDC" target="_blank">BTC</a>, <a href="https://global.bittrex.com/Market/Index?MarketName=USDT-XDC" target="_blank">USDT</a></div>
+                    </div>
+                    <div class="exchange-box">
+                        <div class="logo-box">
+                        	<a href="https://www.bitmart.com/trade/en?symbol=XDC_USDT&layout=basic" target="_blank"><img src="assets/images/exchanges/bitmart.png" class="img-fluid" alt="bitmart.com" /></a>                            
+                        </div>
+                        <div class="pairs"><a href="https://www.bitmart.com/trade/en?symbol=XDC_USDT&layout=basic" target="_blank">USDT</a></div>
+                    </div>
+                    <div class="exchange-box">
+                        <div class="logo-box">
                         	<a href="https://www.coinspot.com.au/buy/xdc" target="_blank"><img src="assets/images/exchanges/coinspot.png" class="img-fluid" alt="coinspot.com" /></a>                            
                         </div>
                         <div class="pairs"><a href="https://www.coinspot.com.au/buy/xdc" target="_blank">BUY</a>, <a href="https://www.coinspot.com.au/sell/xdc" target="_blank">SELL</a>, <a href="https://www.coinspot.com.au/swap/xdc" target="_blank">SWAP</a></div>
