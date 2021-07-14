@@ -430,23 +430,6 @@ include('inc/header.php') ?>
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12">
                   <div class="white">
-                    <h4>Aakash Kakkad</h4>
-                    <h6>Compliance Officer</h6>
-                    <p>Aakash has a very strong base in the fields of liasoning and compliance management. With an extensive
-                      experience in the domain of high profile client management, for a financial service firm, Aakash has
-                      a good grasp over the skills like client management and communication. After starting his career in
-                      a web infrastructure firm, Aakash showed his determination for obtaining knowledge by pursuing the
-                      Masters in Business Administration. Currently he is a CFA L3 candidate from the CFA Institute USA.
-                      At XinFin, Aakash has taken up the responsibility of global regularity compliance management and will
-                      actively take part in the liasoning activities.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="white">
                     <h4>Afrikanus Kofi Akosah</h4>
                     <h6>Business Development and Core Community Member, XinFin Africa</h6>
                     <p>As a Free Market activist from Ghana, Kofi is the face of XinFin’s mission in Africa. With his expertise
@@ -663,23 +646,6 @@ include('inc/header.php') ?>
                     <p>With more than 2 years of experience in blockchain development on Ethereum platform, Jack is a part of
                       XinFin XDC’s development project. As a prolific Blockchain Engineer, Jack has the knack of giving terrific
                       inputs towards the overall development process and the techniques.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="white">
-                    <h4>Murphy John</h4>
-                    <h6>Operations Team</h6>
-                    <p>As a serial entrepreneur for 15 years, Murphy has managed portfolios of various Fortune 500 clients,
-                      on behalf of his several businesses. Murphy’s innovative mindset gets reflected in the fact that he
-                      got a mention in Limca Book of Records for starting the first E-Magazine in India. His expertise in
-                      the field of cloud hosting space has enabled him to successfully operate many of his start-ups in the
-                      consequent years followed by the last 4 years which he devoted to Blockchain development and support.
-                      At XinFin, he looks after Technology Operation and provides strategic guidance on real world application
-                      of Blockchain.
                     </p>
                   </div>
                 </div>
