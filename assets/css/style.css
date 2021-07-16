@@ -1581,9 +1581,10 @@ button.btn-outline-default .fa{margin-right:5px;}
 .bounty .sub-header-small.no-color {color: inherit!important;font-weight:600;}
 .references-box{/*background:#f0f0f0;*/background:#FFFFFF;padding:30px;margin-top:30px;border-radius:5px;-webkit-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);-moz-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);}
 .bounty .references-box .sub-header{margin-top:0px;}
-.bounty a{/*color:#002752;*/text-decoration:underline;}
-.bounty a:hover{/*color:#096db0;*/color: #337ab7;text-decoration:none;}
+.modal-body .bounty a, .bounty .link-break-out a{/*color:#002752;*/text-decoration:underline;}
+.modal-body .bounty a:hover, .bounty .link-break-out a:hover{/*color:#096db0;*/color: rgb(28, 28, 225);text-decoration:none;}
 .bounty .text-bg-grey{/*background-color:#f2f2f2;*/background-color:#e9f0f7;padding:5px;font-size:14px;}
+.modal-body .bounty .btn-block a {text-decoration:none;}
 
 .bounty .rewardBox{/*background:#f6f6f6;*/border:1px solid #eae8e8;border-radius:4px;background:#FFFFFF;-webkit-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);-moz-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);padding:20px 15px 20px 15px;height:100%;}
 .bounty .rewardBox h1{font-size:20px;color:#c88b30;font-weight:500;text-align:center;text-transform:none;margin-top:0px;margin-bottom:10px;padding-bottom:10px;border-bottom:2px solid #FFFFFF;}
