@@ -762,10 +762,10 @@ include('inc/header.php') ?>
             </div>
             
             
-            <div class="row flex-row">
+        <div class="row flex-row">
         <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
         	<div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
-            	<a href="#" class="wallet-item">
+            	<a href="https://guarda.com/" class="wallet-item">
                     <div class="wallet-logo-container">
                         <img src="assets/images/exchanges/guarda-wallet/guarda-wallet.png" alt="Gaurda Wallet" class="img-responsive" />
                     </div>
@@ -786,7 +786,7 @@ include('inc/header.php') ?>
         </div>
         <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
         	<div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.8s">
-            	<a href="#" class="wallet-item">
+            	<a href="https://freewallet.org/" class="wallet-item">
                     <div class="wallet-logo-container">
                         <img src="assets/images/exchanges/freewallet/freewallet.png" alt="Freewallet" class="img-responsive" />
                     </div>
@@ -804,7 +804,7 @@ include('inc/header.php') ?>
         </div>
         <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
         	<div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.9s">
-            	<a href="#" class="wallet-item">
+            	<a href="https://xcelpay.io/" class="wallet-item">
                     <div class="wallet-logo-container">
                         <img src="assets/images/exchanges/xcelpay/xcelpay.png" alt="XcelPay" class="img-responsive" />
                     </div>
@@ -820,7 +820,7 @@ include('inc/header.php') ?>
         </div>
         <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
         	<div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1s">
-            	<a href="#" class="wallet-item">
+            	<a href="https://dcentwallet.com/products/BiometricWallet" class="wallet-item">
                     <div class="wallet-logo-container">
                         <img src="assets/images/exchanges/dcent-wallet/dcent-wallet.png" alt="D'CENT Wallet" class="img-responsive" />
                     </div>
@@ -850,7 +850,7 @@ include('inc/header.php') ?>
             	</div>
         	</div>
         </div>
-      </div>
+       </div>
                 
                 
                 

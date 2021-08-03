@@ -99,16 +99,6 @@ include('inc/header.php') ?>
                             <p><a href="disclosures-vs-non-disclosures">Know More</a></p>
                         </ul>
 
-                        <li class="fw-7 fs-18 pt-2">Globiance</li>
-                        <ul class="lower-roman">
-                            <li>Boost adoption of SGDg, EURg</li>
-                            <ul class="lower-alpha">
-                                <p class="fw-7">Target:</p>
-                                <li>Scale-up issuance of SGDg and EURg</li>
-                                <li>Scale-up the daily volume of SGDg and EURg</li>
-                            </ul>
-                        </ul>
-
                         <li class="fw-7 fs-18 pt-2">Blockdegree</li>
                         <ul class="lower-roman">
                             <li>Development of partnerships with institutions to cross-sell education with a 50% profit share</li>

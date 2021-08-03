@@ -63,6 +63,7 @@ require 'mail/PHPMailerAutoload.php';
 		$mail->addReplyTo($email, $name);
 		//Set who the message is to be sent to
 		/* $mail->addAddress('amey@futureadymedia.com', 'Admin'); */
+		//$mail->addAddress('info@xinfin.org', 'Admin');
 		$mail->addAddress('info@xinfin.org', 'Admin');
 		
 		//Set the subject line
