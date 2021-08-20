@@ -138,6 +138,8 @@ include('inc/header.php') ?>
         </div>
         <div class="clear"></div>
     </section>
+    
+    
 
     <section id="xdce" class="bg-white exchange-listing">
         <div class="container">
@@ -153,7 +155,15 @@ include('inc/header.php') ?>
             <div class="tab-content pt-2">
                 <div id="network" class="tab-pane fade in active">
                     <div class="flex-row">
-                        <div class="col-lg-3 col-md-6 col-sm-6 mt-3 mb-1">
+                        <div class="col-lg-6 col-md-6 col-sm-6 mt-3 mb-1">
+                            <a href="https://www.npmjs.com/package/xdc-connect" target="_blank" class="cfb">
+                                <div class="configurationsBox bordered">
+                                    <h5 class="heading">XDC Connect</h5>
+                                    <p>A library which lets your application connect to major XDC wallet providers - hardware as well as software, interact with the wallets & send transactions.</p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 mt-3 mb-1">
                             <a href="https://www.npmjs.com/package/xdc3" target="_blank" class="cfb">
                                 <div class="configurationsBox bordered">
                                     <h5 class="heading">XDC3</h5>
@@ -161,7 +171,7 @@ include('inc/header.php') ?>
                                 </div>
                             </a>
                         </div>
-                        <div class="col-lg-3 col-md-6 col-sm-6 mt-3 mb-1">
+                        <div class="col-lg-4 col-md-4 col-sm-4 mt-3 mb-1">
                             <a href="https://github.com/XinFinOrg/XDPoSChain" target="_blank" class="cfb">
                                 <div class="configurationsBox bordered">
                                     <h5 class="heading">Github</h5>
@@ -177,7 +187,7 @@ include('inc/header.php') ?>
                                     </div>
                                 </a>
                             </div>-->
-                        <div class="col-lg-3 col-md-6 col-sm-6 mt-3 mb-1">
+                        <div class="col-lg-4 col-md-4 col-sm-4 mt-3 mb-1">
                             <a href="https://github.com/xinfinorg/XinFin-Node" target="_blank" class="cfb">
                                 <div class="configurationsBox bordered">
                                     <h5 class="heading">XinFin Docker Integration</h5>
@@ -185,7 +195,7 @@ include('inc/header.php') ?>
                                 </div>
                             </a>
                         </div>
-                        <div class="col-lg-3 col-md-6 col-sm-6 mt-3 mb-1">
+                        <div class="col-lg-4 col-md-4 col-sm-4 mt-3 mb-1">
                             <a href="exchange-listing-resource" class="cfb">
                                 <div class="configurationsBox bordered">
                                     <h5 class="heading">Integration Code</h5>
