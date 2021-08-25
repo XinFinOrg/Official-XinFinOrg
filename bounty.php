@@ -489,7 +489,8 @@ include('inc/header.php') ?>
                 <p class="sub-header">Help/Questions?</p>
                 <p class="link-break-out"><strong>Telegram Channel:</strong> <a href="https://t.me/XinFinDevelopers" target="_blank">https://t.me/XinFinDevelopers</a></p>
                 <p class="link-break-out"><strong>Slack Channel:</strong> <a href="https://xinfin-public.slack.com/messages/CELR2M831/" target="_blank">https://xinfin-public.slack.com/messages/CELR2M831/</a></p>
-                <p class="link-break-out"><strong>Forum:</strong> <a href="http://XinFin.net" target="_blank">http://XinFin.net</a></p>
+                <!--<p class="link-break-out"><strong>Forum:</strong> <a href="http://XinFin.net" target="_blank">http://XinFin.net</a></p>-->
+                <p class="link-break-out"><strong>Email Us:</strong> <a href="mailto:bounty@xinfin.org">bounty@xinfin.org</a></p>
             </div>
         </div>
 
@@ -595,7 +596,7 @@ include('inc/header.php') ?>
                             <p class="sub-header-small no-color mt-3 mb-2">Troubleshooting</p>
                             <p>If you are having problems with Setup, the first step is to collect more information to accurately characterize the problem. From there, it can be easier to figure out a root cause and a fix.</p>
 
-                            <p class="link-break-out">Please drop a message with all possible detail and screenshot at the Community Support forum: <a href="http://xinfin.Net" target="_blank" class="fw-4">http://xinfin.Net</a></p>
+                            <p class="link-break-out">Please drop a message with all possible detail and screenshot at the Community Support. <!--forum: <a href="http://xinfin.Net" target="_blank" class="fw-4">http://xinfin.Net</a>--></p>
                             <p class="link-break-out">Telegram Community: <a href="https://t.me/XinFinDevelopers" target="_blank" class="fw-4">https://t.me/XinFinDevelopers</a></p>
                             <p class="link-break-out">Slack Community: <a href="https://xinfin-public.slack.com/messages/CELR2M831/" target="_blank" class="fw-4">https://xinfin-public.slack.com/messages/CELR2M831/</a></p>
 
@@ -724,7 +725,7 @@ sudo docker-compose -f docker-services.yml up -d
 
                             <p class="sub-header-small no-color mt-3 mb-2">Troubleshooting</p>
                             <p>If you are having problems with Setup, the first step is to collect more information to accurately characterize the problem. From there, it can be easier to figure out a root cause and a fix.</p>
-                            <p class="link-break-out">Please drop a message with all possible detail and screenshot at the Community Support forum: <a href="http://xinfin.Net" target="_blank" class="fw-4">http://xinfin.Net</a></p>
+                            <p class="link-break-out">Please drop a message with all possible detail and screenshot at the Community Support. <!--forum: <a href="http://xinfin.Net" target="_blank" class="fw-4">http://xinfin.Net</a>--></p>
                             <p class="link-break-out">Telegram Community: <a href="https://t.me/XinFinDevelopers" target="_blank" class="fw-4">https://t.me/XinFinDevelopers</a></p>
                             <p class="link-break-out">Slack Community: <a href="https://xinfin-public.slack.com/messages/CELR2M831/" target="_blank" class="fw-4">https://xinfin-public.slack.com/messages/CELR2M831/</a></p>
 
