@@ -5358,7 +5358,8 @@ table{width:100%;background-color:#fff}th,td{font-weight:unset;padding-right:10p
 .exchange-box .pairs {padding-top: 10px;font-size: 15px;font-weight: 500;}
 .exchange-box .pairs a {color: #696969!important;padding-left: 6px;}
 .exchange-box .pairs a:first-child {padding-left: 0px;}
-.exchange-box .pairs a:focus, .exchange-box .pairs a:hover {color: rgb(28, 28, 225)!important;text-decoration: underline;}
+.exchange-box .pairs a:hover {color: rgb(28, 28, 225)!important;text-decoration: underline!important;}
+.exchange-box .pairs a:focus {color: #696969;text-decoration: none;}
 .exchange-box img{width:100%;max-width:200px}
 .wallet-box{margin-right:auto;margin-left:auto;padding:10px}
 .wallet-box a{margin-right:auto;margin-left:auto}
