@@ -1084,8 +1084,13 @@ a.wallet-item:focus, a.wallet-item:hover, a.wallet-item:visited {
 	padding: 10px 0px 20px 0px;
     border-bottom: 1px solid #eaecee;
 }
+.wallet-logo-container img {
+    max-width: 250px;
+	height: auto;
+	margin: 0 auto;
+}
 .wallet-text {
-    padding: 15px 0px 5px 0px;
+    padding: 7px 0px 5px 0px;
 	text-align: center;
 }
 .wallet-text h5 {
@@ -1108,6 +1113,10 @@ a.wallet-item:focus, a.wallet-item:hover, a.wallet-item:visited {
     display: inline-block;
     background: #e4edf2;
     color: #868686;
+}
+.wallet-apps-tag:hover {
+    background: #dbe9f1;
+    color: #777777;
 }
 #wallet-supports .col-md-3 {
 	width: 20%;
