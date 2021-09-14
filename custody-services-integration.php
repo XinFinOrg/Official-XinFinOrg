@@ -46,13 +46,17 @@ include('inc/header.php') ?>
                                     <p>Block Finality: 32 Blocks</p>
                                     <p class="link-break-out">XDC3 SDK: <a href="https://www.npmjs.com/package/xdc3" target="_blank">https://www.npmjs.com/package/xdc3</a></p>
             						<p class="link-break-out">Blockchain endpoint: <a href="https://rpc.xinfin.network/" target="_blank">https://rpc.xinfin.network</a></p>
+                                    <p class="link-break-out">Mainnet Blockchain endpoint: <a href="https://rpc.xinfin.network" target="_blank">https://rpc.xinfin.network</a></p>
+                                    <p class="link-break-out">Testnet Blockchain endpoint: <a href="https://rpc.apothem.network" target="_blank">https://rpc.apothem.network</a></p>
+                                    <p class="link-break-out">Devnet Blockchain endpoint: <a href="https://devnetrpc.apothem.network" target="_blank">https://devnetrpc.apothem.network</a></p>
+                                    
                                     <p class="link-break-out">Github: <a href="https://github.com/XinFinOrg/XinFin-Node" target="_blank">https://github.com/XinFinOrg/XinFin-Node</a></p>
                                     <p class="link-break-out">Technical White Paper: <a href="https://www.xinfin.org/docs/whitepaper-tech.pdf" target="_blank">https://www.xinfin.org/docs/whitepaper-tech.pdf</a></p>
                                     <p class="link-break-out">Business White Paper: <a href="https://www.xinfin.org/docs/whitepaper-business.pdf" target="_blank">https://www.xinfin.org/docs/whitepaper-business.pdf</a></p>
                                     <p class="link-break-out">Telegram: <a href="https://t.me/xinfin" target="_blank">https://t.me/xinfin</a></p>
-                                    <p class="link-break-out">Youtube link: <a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank">https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g</a></p>
+                                    <p class="link-break-out">Youtube: <a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank">https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g</a></p>
                                     <p class="link-break-out">Twitter: <a href="https://twitter.com/XinFin_Official" target="_blank">https://twitter.com/XinFin_Official</a></p>
-                                    <p class="link-break-out">Reddit Link: <a href="https://www.reddit.com/r/xinfin/" target="_blank">https://www.reddit.com/r/xinfin/</a></p>
+                                    <p class="link-break-out">Reddit: <a href="https://www.reddit.com/r/xinfin/" target="_blank">https://www.reddit.com/r/xinfin/</a></p>
                                     <p class="link-break-out">Slack: <a href="https://xinfin-public.slack.com/" target="_blank">https://xinfin-public.slack.com/</a></p>
 
                                     <div class="col-md-12">

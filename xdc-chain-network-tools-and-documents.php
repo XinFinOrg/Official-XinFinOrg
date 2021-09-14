@@ -155,7 +155,7 @@ include('inc/header.php') ?>
             <div class="tab-content pt-2">
                 <div id="network" class="tab-pane fade in active">
                     <div class="flex-row">
-                        <div class="col-lg-6 col-md-6 col-sm-6 mt-3 mb-1">
+                        <div class="col-lg-4 col-md-4 col-sm-4 mt-3 mb-1">
                             <a href="https://www.npmjs.com/package/xdc-connect" target="_blank" class="cfb">
                                 <div class="configurationsBox bordered">
                                     <h5 class="heading">XDC Connect</h5>
@@ -163,7 +163,7 @@ include('inc/header.php') ?>
                                 </div>
                             </a>
                         </div>
-                        <div class="col-lg-6 col-md-6 col-sm-6 mt-3 mb-1">
+                        <div class="col-lg-4 col-md-4 col-sm-4 mt-3 mb-1">
                             <a href="https://www.npmjs.com/package/xdc3" target="_blank" class="cfb">
                                 <div class="configurationsBox bordered">
                                     <h5 class="heading">XDC3</h5>
@@ -191,7 +191,7 @@ include('inc/header.php') ?>
                             <a href="https://github.com/xinfinorg/XinFin-Node" target="_blank" class="cfb">
                                 <div class="configurationsBox bordered">
                                     <h5 class="heading">XinFin Docker Integration</h5>
-                                    <p class="link-break-out">https://github.com/xinfinorg/XinFin-Node</p>
+                                    <p class="link-break-out">Source code available at https://github.com/xinfinorg/XinFin-Node</p>
                                 </div>
                             </a>
                         </div>
@@ -199,7 +199,15 @@ include('inc/header.php') ?>
                             <a href="exchange-listing-resource" class="cfb">
                                 <div class="configurationsBox bordered">
                                     <h5 class="heading">Integration Code</h5>
-                                    <p class="link-break-out">Example: https://xinfin.org/exchange-listing-resource</p>
+                                    <p class="link-break-out">https://xinfin.org/exchange-listing-resource</p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 mt-3 mb-1">
+                            <a href="https://howto.xinfin.org/general/networks/" target="_blank" class="cfb">
+                                <div class="configurationsBox bordered">
+                                    <h5 class="heading">XinFin Network</h5>
+                                    <p class="link-break-out">https://howto.xinfin.org/general/networks</p>
                                 </div>
                             </a>
                         </div>
