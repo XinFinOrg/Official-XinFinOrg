@@ -5355,7 +5355,7 @@ table{width:100%;background-color:#fff}th,td{font-weight:unset;padding-right:10p
 .exchange-box{margin-right:auto;margin-left:auto;width:19%;display:inline-block;padding: 10px 10px 30px 10px;}
 .exchange-box .logo-box {background: rgba(255, 255, 255, 1);padding: 20px 20px;border-radius: 6px;border: 1px solid rgb(223,223,223);}
 .exchange-box .logo-box a {display: block;}
-.exchange-box .pairs {padding-top: 10px;font-size: 15px;font-weight: 500;}
+.exchange-box .pairs {padding-top: 10px;font-size: 14px;font-weight: 500;}
 .exchange-box .pairs a {color: #696969!important;padding-left: 6px;}
 .exchange-box .pairs a:first-child {padding-left: 0px;}
 .exchange-box .pairs a:hover {color: rgb(28, 28, 225)!important;text-decoration: underline!important;}

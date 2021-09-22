@@ -154,7 +154,7 @@ include('inc/header.php') ?>
                         <div class="logo-box">
                         	<a href="https://www.bitrue.com/trade/xdc_xrp" target="_blank"><img src="assets/images/exchanges/bitrue.png" class="img-fluid" alt=".bitrue.com" /></a>
                         </div>
-                        <div class="pairs"><a href="https://www.bitrue.com/trade/xdc_eth" target="_blank">ETH</a>, <a href="https://www.bitrue.com/trade/xdc_xrp" target="_blank">XRP</a>, <a href="https://www.bitrue.com/trade/xdc_usdt" target="_blank">USDT</a></div>
+                        <div class="pairs"><a href="https://www.bitrue.com/trade/xdc_eth" target="_blank">ETH</a>, <a href="https://www.bitrue.com/trade/xdc_xrp" target="_blank">XRP</a>, <a href="https://www.bitrue.com/trade/xdc_usdc" target="_blank">USDC</a>, <a href="https://www.bitrue.com/trade/xdc_usdt" target="_blank">USDT</a></div>
                     </div>
                     <div class="exchange-box">
                         <div class="logo-box">
