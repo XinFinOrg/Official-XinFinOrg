@@ -65,7 +65,7 @@ include('inc/header.php') ?>
       	<div class="col-md-4"><img src="assets/images/about-us-icon.jpg" class="img-responsive" align="center" style="text-align: center; margin:0 auto;" alt=""></div>
       	<div class="col-md-4"><hr style="margin-top:35px"></div>
       </div> -->
-        <p>XINFIN Foundation is a non-profit organization which liaises with different international governments in order to
+        <p>XinFin Foundation is a non-profit organization which liaises with different international governments in order to
           reduce the existing gap in global infrastructure. According to XinFin, the lack of government sponsored financing
           hinders the possibility of many infrastructure projects around the globe.
           <br/>
@@ -166,6 +166,17 @@ include('inc/header.php') ?>
                   </div>
                 </div>
               </div>
+              
+              <div class="col-md-4 padd-lr-0 mb-1" id="wrapper1">
+                <img src="assets/images/team/advisors/tadshi-yoshida.jpg" alt="" class="img-responsive team2">
+                <div class="overlay1">
+                  <div class="text1">
+                    <h4>Tadashi Yoshida</h4>
+                    <p class="coo">Ecosystem Development, Japan</p>
+                    <p class="text-content">A specialist in developing and managing startup support programs including accelerator and incubation program, Tadashi initiated and operated the Japan's first govt. managed accelerator program at SME support Japan. Having extended support to several new startups development in Japan, he has gained extensive experience in providing consultation and ideation of business ideas across the globe.</p>
+                  </div>
+                </div>
+              </div>
             </div>
           <!--</div>-->
         <!-- Advisors end -->
@@ -188,20 +199,16 @@ include('inc/header.php') ?>
             <div class="carousel-inner">
               <div class="item active">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/team/core-team/ankit-patel.jpg" alt="" class="img-responsive" width="100%">
+                  <img src="assets/images/team/core-team/roland-jones.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
                     <div class="text2">
-                      <h4>Ankit Patel
-                        <a href="https://www.linkedin.com/in/ankit-patel333" target="_blank">
+                      <h4>Roland Q. Jones
+                        <a href="https://www.linkedin.com/in/r-quincy-jones-456b97160/" target="_blank">
                           <i class="fa fa-linkedin" aria-hidden="true"></i>
                         </a>
                       </h4>
-                      <p class="cto">Director</p>
-                      <p class="text-content">Ankit, an young and ingenious talent with a knack of research and innovation has contributed immensely
-                        as a Java Developer. His area of expertise is XDC’s research and development. Despite of limited
-                        countable years of experience, he has gained proficiency in blockchain technology and is currently
-                        working on cross border payments through XDC. He aims to master the blockchain technology and create
-                        a world class sensational product.</p>
+                      <p class="cto">Software Developer</p>
+                      <p class="text-content">Roland graduated from Arizona State University with a degree in Computer Programming in 2020. Shortly thereafter, he began working as a software programmer and developer. Known in the blockchain space as Quincy Jones, he became somewhat of a "crypto celebrity" from sharing his knowledge and skill on social media and YouTube. His ability to educate and articulate has contributed to his popularity in the crypto space.</p>
                     </div>
                   </div>
                 </div>
@@ -217,29 +224,12 @@ include('inc/header.php') ?>
                           <i class="fa fa-linkedin" aria-hidden="true"></i>
                         </a>
                       </h4>
-                      <p class="cto">Early Investor & Ecosystem Development</p>
+                      <p class="cto">Co-Founder, Technology & Ecosystem Development</p>
                       <p class="text-content">With over 14 years of experience in the technology field, Atul has played a crucial role in conceptualizing and demonstrating the first permissioned Blockchain system for the consortium of Top Asian banks. He has also co-founded Multi-Million Dollar Revenue company dedicated to the business of Airline Chartering. He is dedicated towards developing alliances and investor management, and aims to bridge the $5 trillion Government infrastructure gap, using XinFin's Blockchain applications.</p>
                     </div>
                   </div>
                 </div>
-              </div>     
-              
-              <!--<div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/team/core-team/chris-neill.jpg" alt="" class="img-responsive" width="100%">
-                  <div class="overlay2">
-                    <div class="text2">
-                      <h4>Chris Neill
-                        <a href="https://www.linkedin.com/in/neillchristopher" target="_blank">
-                          <i class="fa fa-linkedin" aria-hidden="true"></i>
-                        </a>
-                      </h4>
-                      <p class="cto">Head of American Development</p>
-                      <p class="text-content">Chris Neill is the Head of American Development. Chris has a background in investing, business management and team development. Chris is also the Founder of Black Tier Solutions for blockchain consultancy.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>-->
+              </div>
               
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
@@ -251,11 +241,8 @@ include('inc/header.php') ?>
                           <i class="fa fa-linkedin" aria-hidden="true"></i>
                         </a>
                       </h4>
-                      <p class="cto">Co-Founder, Blockchain Strategist</p>
-                      <p class="text-content">As a serial entrepreneur working on the ideation and development of a Cloud hosting and a web infrastructure
-                        company, Ritesh's work has been recognized by the likes of Microsoft and BBC. Over past 20 years,
-                        Ritesh has accumulated extensive experience in the fields of Cloud Hosting, Cloud Setup and Internet-Infrastructure.
-                        Ritesh is now leveraging his experience at XinFin in the areas of Blockchain and protocol setup.</p>
+                      <p class="cto">Co-Founder, Early Investor, Blockchain Strategist</p>
+                      <p class="text-content">As a serial entrepreneur working on the ideation and development of a Cloud hosting and a web infrastructure company, Ritesh's work has been recognized by the likes of Microsoft and BBC. Over the past 20 years, Ritesh has accumulated extensive experience in the fields of Cloud Hosting, Cloud Setup and Internet-Infrastructure. Ritesh is now leveraging his experience at XinFin in the areas of Blockchain and protocol setup.</p>
                     </div>
                   </div>
                 </div>
@@ -281,40 +268,6 @@ include('inc/header.php') ?>
               
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/team/core-team/emerson-samfilippo.jpg" alt="" class="img-responsive" width="100%">
-                  <div class="overlay2">
-                    <div class="text2">
-                      <h4>Emerson Samfilippo
-                        <a href="https://www.linkedin.com/in/emerson-samfilippo-2b1862104/" target="_blank">
-                          <i class="fa fa-linkedin" aria-hidden="true"></i>
-                        </a>
-                      </h4>
-                      <p class="cto">Early Supporter</p>
-                      <p class="text-content">Based in America, Emerson has been working professionally in the field of finance throughout his collegiate career via internships and student government positions. Recognizing the potential Blockchain has to disrupt his chosen field, Emerson took notice of XinFin organization during its pre-ICO phase and became an early backer. Joining and supporting the online Telegram community near its beginning, Emerson is now a proud Community Manager for XinFin's chat room.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              
-              <!--<div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/team/core-team/joseph.jpg" alt="" class="img-responsive" width="100%">
-                  <div class="overlay2">
-                    <div class="text2">
-                      <h4>Joseph M. Appalsamy
-                        <a href="https://www.linkedin.com/in/joseph-appalsamy-1918065b" target="_blank">
-                          <i class="fa fa-linkedin" aria-hidden="true"></i>
-                        </a>
-                      </h4>
-                      <p class="cto">Head of Business Development</p>
-                      <p class="text-content">Joseph is the Head of Business Development and responsible for strategic accounts in global trade and finance, collaboration on commercial projects leveraging XinFin's XDC protocol and working with global institutions adopting and migrating to enterprise Blockchain. Prior to joining XinFin, Joseph served as the MD for Perennis Capital Inc. He was the director of social ventures for DreamFund Holdings and was co-founder of ECCMOX Inc., a sustainability consultancy to global engineering firms and Government Services Canada.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>-->
-              
-              <div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
                   <img src="assets/images/team/core-team/meenu-sarin.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
                     <div class="text2">
@@ -332,16 +285,67 @@ include('inc/header.php') ?>
               
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/team/core-team/tadashi-yoshida.jpg" alt="" class="img-responsive" width="100%">
+                  <img src="assets/images/team/core-team/bill-sebell.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
                     <div class="text2">
-                      <h4>Tadashi Yoshida
-                        <a href="https://www.linkedin.com/in/tadashi-yoshida-9936365/" target="_blank">
+                      <h4>Bill Sebell
+                        <a href="https://www.linkedin.com/in/bill-sebell-a928663/" target="_blank">
                           <i class="fa fa-linkedin" aria-hidden="true"></i>
                         </a>
                       </h4>
-                      <p class="cto">Ecosystem Development, Japan</p>
-                      <p class="text-content">A specialist in developing and managing startup support programs including accelerator and incubation program, Tadashi initiated and operated the Japan's first govt. managed accelerator program at SME support Japan. Having extended support to several new startups development in Japan, he has gained extensive experience in providing consultation and ideation of business ideas across the globe. Associated with International Associations and Universities, he will be leveraging his experence to bring out the word about XinFin Blockchain Techhnology.</p>
+                      <p class="cto">Director of Ecosystem Development, North America</p>
+                      <p class="text-content">Graduating from the University of Massachusetts with a degree in Operations Management, Bill has spent much of his career in leadership and management. Bill specializes in executive coaching, management consulting, and lean implementation. He also has extensive experience helping small to medium sized businesses create new strategic initiatives, improve operational efficiencies, and drive workforce development. His skill and knowledge make him the perfect fit to develop the XDC ecosystem.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+              <div class="item">
+                <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
+                  <img src="assets/images/team/core-team/andre-casterman.jpg" alt="" class="img-responsive" width="100%">
+                  <div class="overlay2">
+                    <div class="text2">
+                      <h4>André Casterman
+                        <a href="https://www.linkedin.com/in/andrecasterman/" target="_blank">
+                          <i class="fa fa-linkedin" aria-hidden="true"></i>
+                        </a>
+                      </h4>
+                      <p class="cto">Advisory and Market Engagement</p>
+                      <p class="text-content">Andre is currently the Founder and Director of Casterman Advisory. His focus is on strategy and business development in transaction banking and decentralised finance (DeFi). He Specializes in designing and commercialising advanced payments, trade finance and capital markets innovations through institutional & commercial partnerships with fintech companies. His work has also focused on institutional investors benefit from two alternative asset classes: trade finance and digital assets. Andre has over 30 years of experience in the financial sector, including nearly 25 years at SWIFT.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+              <div class="item">
+                <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
+                  <img src="assets/images/team/core-team/parv-aggarwal.jpg" alt="" class="img-responsive" width="100%">
+                  <div class="overlay2">
+                    <div class="text2">
+                      <h4>Parv Aggarwal
+                        <a href="https://www.linkedin.com/in/parvaggmib/" target="_blank">
+                          <i class="fa fa-linkedin" aria-hidden="true"></i>
+                        </a>
+                      </h4>
+                      <p class="cto">Business Development Lead</p>
+                      <p class="text-content">Parv received his BA from Duke University, as well as an MA from Tufts Fletcher School. He has 10 years of financial institution business development, enterprise blockchain solutions architecture, and programmable CBDC design experience. His knowledge with CBDC's and payment rails, financial procedures and blockchain technology give him the experience needed to develop business in the XDC Ecosystem.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+              <div class="item">
+                <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
+                  <img src="assets/images/team/core-team/andrea-frosinini.jpg" alt="" class="img-responsive" width="100%">
+                  <div class="overlay2">
+                    <div class="text2">
+                      <h4>Andrea Frosinini
+                        <a href="https://www.linkedin.com/in/andreafrosinini/" target="_blank">
+                          <i class="fa fa-linkedin" aria-hidden="true"></i>
+                        </a>
+                      </h4>
+                      <p class="cto">Senior Enterprise Analyst</p>
+                      <p class="text-content">Andrea is a Senior Enterprise Analyst and Trade Finance specialist with a passion for innovation. At Hyperledger, Andrea contributed to industry modernization and development of new products on blockchain and DLT. He is also a Mentor of ITFA Martin Ashtrust Trade Finance Mentoring Scheme, an Honorary Member of the Canadian Blockchain Supply Chain Association. Andrea Frosinini graduated from the University of Florence with a degree in Foreign Languages and Literature.</p>
                     </div>
                   </div>
                 </div>
@@ -359,23 +363,6 @@ include('inc/header.php') ?>
                       </h4>
                       <p class="cto">Ecosystem Development, Africa</p>
                       <p class="text-content">A cryptocurrency enthusiast, Confidence has been educating people & spreading the adoption of Blockchain technology across African Continent. A software & blockchain developer with Aftica's biggest exchanges called Golix & Bitpaya, he is also a Community Manager at HouseAfrica. A member of The Internet Society & the Bitcoin Community, he is also a blogger on Steemit. His experience with cryptocurrencies including Bitcoin, Dash, Smartcash & Steemit will help him create awareness about XinFin XDC & its use cases across local African community.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              
-              <div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/team/core-team/alan-lai.jpg" alt="" class="img-responsive" width="100%">
-                  <div class="overlay2">
-                    <div class="text2">
-                      <h4>Alan Lai
-                        <a href="https://www.linkedin.com/in/confidencenyirenda/" target="_blank">
-                          <i class="fa fa-linkedin" aria-hidden="true"></i>
-                        </a>
-                      </h4>
-                      <p class="cto">Blockchain Engineer, UC Berkeley, California</p>
-                      <p class="text-content">With more than one year of experience in blockchain technology, Alan Lai currently serves as Blockchain Developer at UC Berkeley, one of the world's top research universities. Alan who seeks to change the world with technology will be using his technological skills and knowledge to build blockchain applications on XDC protocol. His prowess with smart contracts and Solidity will bring immense value to XinFin Organization.</p>
                     </div>
                   </div>
                 </div>
@@ -411,138 +398,6 @@ include('inc/header.php') ?>
               <div class="item active">
                 <div class="col-md-4 col-sm-12 col-xs-12">
                   <div class="white">
-                    <h4>Omkar Nene</h4>
-                    <h6>Business & Ecosystem Development</h6>
-                    <p>With over 8 years of professional experience with TCS in Financial Services & Technology industry, Omkar
-                      has worked with various top European and Global banking clients across the full spectrum of sales &
-                      business development, pre-sales, large account management and project delivery. His experience of working
-                      and developing business with various global international clients in the world of finance, naturally
-                      led his foray into Fintech.
-                      <br/>
-                      <br/> An MBA from HEC Paris, Omkar brings in a dynamic mix of business, finance and technology skills to
-                      help develop the business and ecosystem for XinFin. He intends to make XinFin a robust finance mechanism
-                      that helps bridge the current deficits in international trade and finance.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="white">
-                    <h4>Afrikanus Kofi Akosah</h4>
-                    <h6>Business Development and Core Community Member, XinFin Africa</h6>
-                    <p>As a Free Market activist from Ghana, Kofi is the face of XinFin’s mission in Africa. With his expertise
-                      in the fields of Bitcoin or Blockhain based technology, Kofi engages in associating with the different
-                      African Governments in order to secure the pilot projects for public infrastructure development. Since
-                      2011, he has been engaged in the process of spreading Bitcoin and Blockchain technologies in Ghana
-                      via his Liberty and Entrepreneurship Camps. As a progressive thinker, Kofi believes that Blockchain
-                      technologies are the answer to all the malaise faced by Africa.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="white">
-                    <h4>Matt Goldrich</h4>
-                    <h6>Business Development and Core Community Member, XinFin Philippines</h6>
-                    <p>Matt is XinFin’s face in South East Asian market. As a core part of the Bitcoin Association of Asia,
-                      Matt is currently looking after the process of liasoning with Government of Philippines, in order to
-                      secure pilot projects for the overall public infrastructure development project.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="white">
-                    <h4>Adams Caleb</h4>
-                    <h6>Producer</h6>
-                    <p>As the head of the production unit for XinFin, Adams is based in South Africa. He has a vast experience
-                      in developing creative visualizations and digital content for many companies in Africa and abroad.
-                      Adams’s creative knack and aptitude in the fields of digital designing and conceptualization, makes
-                      him the ideal choice as a producer for XinFin.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="white">
-                    <h4>Alex Mathbeck</h4>
-                    <h6>Marketing Head</h6>
-                    <p>Alex’s extensive experience and prowess in the fields of team liasoning and handling socially driven
-                      infrastructure development project, makes him the ideal man to head XinFin’s marketing strategy. His
-                      profound background in this field is justified by his association with a Fortune 500 firm in their
-                      venture of liasoning with more than 8 Asian countries. Apart from that, Alex singlehandedly led and
-                      initiated several social initiatives and executed several infrastructure based projects.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="white">
-                    <h4>Tola Jeds</h4>
-                    <h6>Market Research & Reporting</h6>
-                    <p>As a skilled digital marketer and a frontrunner in the fields of market research and integrated marketing,
-                      Tola is associated with XinFin as a consultant. He deals with market research, reporting and growth
-                      marketing. His expertise in the fields of inbound marketing has also helped many companies before.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="white">
-                    <h4>Andrew Hung</h4>
-                    <h6>Public Relations and Liasoning</h6>
-                    <p>It is very rare to come across someone who possesses extensive experience in public relations in the
-                      blockchain and crypto currency industry. Andrew is really that gem which helps XinFin to glow. As a
-                      public relations and liasoning expert, Andrew is a brilliant torchbearer of XinFin in the global scale.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="white">
-                    <h4>Pramod Mishra</h4>
-                    <h6>Public Infrastructure Consultant, XinFin, Ex-World Banker</h6>
-                    <p>Pramod comes from a prestigious background of working in the World Bank and financing over $5 billion
-                      in public infrastructure projects for 3 major Asian countries. His knowledge and experience in the
-                      fields of public infrastructure financing makes him the ideal choice as XinFin’s consultant. As an
-                      ex-world banker, Pramod is definitely right person to lead the strategy and development at XinFin Organization.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="white">
-                    <h4>Nakul Shah</h4>
-                    <h6>Consultant</h6>
-                    <p>Having started his career at State Street Corporation in Boston, Nakul is the Founder and Director of
-                      State Development-India’s leading cryptocurrency and Blockchain Company. With first-hand experience
-                      in consulting nonprofit organization on the policies of 42 largest banks across Europe and Asia, Nakul
-                      is the ideal candidate to establish association with international Governments, dealing with public
-                      infrastructure projects.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="white">
                     <h4>Ruchi Kakkad</h4>
                     <h6>Legal Consultant</h6>
                     <p>With 7 years of experience in corporate law, Ruchi is handling the legal affairs of XinFin. Her background
@@ -572,80 +427,12 @@ include('inc/header.php') ?>
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12">
                   <div class="white">
-                    <h4>Kavita Gupta</h4>
-                    <h6>Corporate Communications</h6>
-                    <p>Having worked with some of the top brands as a content writer and as their social media manager, Kavita
-                      has gained a significant exposure in creating brand awareness and increasing engagement on all the
-                      social media channels. When it comes to social media networking and promotions, her strategic skills
-                      and brand-generation insights are proven to be effective and results-driven—something that makes her
-                      a perfect fit for XinFin.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="white">
                     <h4>Dayna Plummer</h4>
                     <h6>Content Writer</h6>
                     <p>As an experienced ESL teacher in Canada Dayna’s grasp on English language and literature is majestic.
                       Equipped with a double BA in psychology and sociology from Wilfrid Laurier University in Waterloo,
                       Ontario, Dayna creates unique content for XinFin. Her creativity and her way with the words make her
                       the ideal choice as a content writer for XinFin.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="white">
-                    <h4>Himanshu Pandey</h4>
-                    <h6>Blockchain Engineer Architect</h6>
-                    <p>Himanshu’s research oriented approach towards Blockchain application reflects on his aptitude for knowledge
-                      and programming. As a B.Tech in Electronics and Telecommunication, he has been a Blockchain programmer
-                      on Ethereum platform since its inception. As a core member of the Asset Registry Platform and ICO Exchange,
-                      Himanshu is deeply engaged in the wallet development project of XinFin.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="white">
-                    <h4>Ravi Arya</h4>
-                    <h6>Blockchain Engineer</h6>
-                    <p>Looking after the development and security of the wallet, for XinFin, Ravi has a good 9 years of experience
-                      in the fields of information technology. As a senior member of the Blockchain Engineering team at XinFin
-                      XDC, Ravi brings a lot to the table as far as Blockchain application platforms are concerned.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="white">
-                    <h4>Ian Mascowitz</h4>
-                    <h6>Blockchain Engineer</h6>
-                    <p>With his extensive expertise in the fields of blockchain programming on Ethereum platform, Ian is a core
-                      member of XinFin XDC’s Blockchain Engineering team. His position as the lead of the XinFin XDC’s development
-                      team is backed by his 3.5 years of experience of working in the same technology.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="white">
-                    <h4>Jack Corby</h4>
-                    <h6>Blockchain Engineer</h6>
-                    <p>With more than 2 years of experience in blockchain development on Ethereum platform, Jack is a part of
-                      XinFin XDC’s development project. As a prolific Blockchain Engineer, Jack has the knack of giving terrific
-                      inputs towards the overall development process and the techniques.
                     </p>
                   </div>
                 </div>
@@ -676,21 +463,6 @@ include('inc/header.php') ?>
                       platforms at XinFin. Currently, Anil is working on the fields of mobile wallets and identity technology
                       for Ethereum based Quorum technology. He started working on the Ethereum blockchain few months back
                       and before that he has spent 2 years developing security SDKs & intellectual property.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="white">
-                    <h4>Rahulraj Nair</h4>
-                    <h6>Software Developer</h6>
-                    <p>As a software developer, Rahul has knowledge and experience in dealing with web application based coding
-                      languages. Backed by his deep understanding of the concepts of operations and logistics, he singlehandedly
-                      designed a GPS tracker based web Application for vehicle tracking and other vital informations . At
-                      XinFin he deals with all web application and interface based coding and provides his valuable inputs
-                      in the processes of debugging and enhancing interface designs.
                     </p>
                   </div>
                 </div>

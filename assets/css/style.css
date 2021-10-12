@@ -520,7 +520,7 @@ canvas
  {
   background: #FFFFFF;
   padding: 20px;
-  min-height: 520px;
+  min-height: 380px;
  }
 
 .white p
@@ -733,14 +733,13 @@ hr {
   color: #b7b6b6;
 }
 
-
 .multi-item-carousel1 .carousel-control{
     width: unset;
     opacity: 1;
   }
 .multi-item-carousel1 .carousel-control.right, .multi-item-carousel1 .carousel-control.left{
-  top: 44%;
-  bottom: 47%;
+  top: 43.5%;
+  bottom: 44%;
   padding: 10px 14px;
   background: #ffffffd4;
   border-radius: 50%;
