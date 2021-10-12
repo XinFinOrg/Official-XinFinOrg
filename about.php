@@ -59,7 +59,7 @@ include('inc/header.php') ?>
 
     <div class="tab-content">
       <div id="xinfin" class="tab-pane fade in active">
-        <h3>ABOUT XINFIN</h3>
+        <h3>ABOUT XinFin</h3>
         <!-- <div class="row">
       	<div class="col-md-4"><hr style="margin-top:35px"></div>
       	<div class="col-md-4"><img src="assets/images/about-us-icon.jpg" class="img-responsive" align="center" style="text-align: center; margin:0 auto;" alt=""></div>
@@ -118,31 +118,6 @@ include('inc/header.php') ?>
                   </div>
                 </div>
               </div>
-              
-              <div class="col-md-4 padd-lr-0 mb-1" id="wrapper1">
-                <img src="assets/images/team/advisors/jason-butcher.jpg" alt="" class="img-responsive team2">
-                <div class="overlay1">
-                  <div class="text1">
-                    <h4>Jason Butcher</h4>
-                    <p class="coo">Co-Founder - BlockChain Hub, COO - Coinpayments</p>
-                    <p class="text-content">A seasoned professional with nearly three decades of hands on experience starting businesses globally.
-                      Jason Is the COO of CoinPayments which is the oldest and largest Crypto currency payment platforms
-                      and he is actively involved as an advisor with the Canadian Blockchain Association.</p>
-                  </div>
-                </div>
-              </div>
-              
-              <!--<div class="col-md-4 padd-lr-0 mb-1" id="wrapper1">
-                <img src="assets/images/team/advisors/david-freuden.jpg" alt="" class="img-responsive team2">
-                <div class="overlay1">
-                  <div class="text1">
-                    <h4>David Freuden</h4>
-                    <p class="coo" style="text-align: left">Blockchain Advisor & Consultant</p>
-                    <p class="text-content">Based in Sydney Australia, David is a serial entrepreneur, investor and advisor with hands-on experience
-                      in starting and growing businesses.</p>
-                  </div>
-                </div>
-              </div>-->
 
               <div class="col-md-4 padd-lr-0 mb-1" id="wrapper1">
                 <img src="assets/images/team/advisors/sydney-ifergan.jpg" alt="" class="img-responsive team2">
@@ -243,24 +218,6 @@ include('inc/header.php') ?>
                       </h4>
                       <p class="cto">Co-Founder, Early Investor, Blockchain Strategist</p>
                       <p class="text-content">As a serial entrepreneur working on the ideation and development of a Cloud hosting and a web infrastructure company, Ritesh's work has been recognized by the likes of Microsoft and BBC. Over the past 20 years, Ritesh has accumulated extensive experience in the fields of Cloud Hosting, Cloud Setup and Internet-Infrastructure. Ritesh is now leveraging his experience at XinFin in the areas of Blockchain and protocol setup.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              
-              <div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/team/core-team/sameer-dharap.jpg" alt="" class="img-responsive" width="100%">
-                  <div class="overlay2">
-                    <div class="text2">
-                      <h4>Sameer Dharap
-                        <a href="https://www.linkedin.com/in/sameer-dharap-5314472/" target="_blank">
-                          <i class="fa fa-linkedin" aria-hidden="true"></i>
-                        </a>
-                      </h4>
-                      <p class="cto">Vice President, Blockchain Application</p>
-                      <p class="text-content">
-                        With over 13 years of experience in Management Consulting & Deal Advisory with KPMG & PwC, Sameer has led consulting engagements in the area of Strategy, Supply Chain, Operations Improvement and Deal Advisory for fortune 500 clients, PE players and the government establishments. Having worked across over 20+ industries, His eye for details, project management skills and ability to comprehend the strategic goals will help XinFin to form a strong foundation for its application oriented based business model.</p>
                     </div>
                   </div>
                 </div>
@@ -427,20 +384,6 @@ include('inc/header.php') ?>
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12">
                   <div class="white">
-                    <h4>Dayna Plummer</h4>
-                    <h6>Content Writer</h6>
-                    <p>As an experienced ESL teacher in Canada Dayna’s grasp on English language and literature is majestic.
-                      Equipped with a double BA in psychology and sociology from Wilfrid Laurier University in Waterloo,
-                      Ontario, Dayna creates unique content for XinFin. Her creativity and her way with the words make her
-                      the ideal choice as a content writer for XinFin.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                  <div class="white">
                     <h4>Omkar Mestry</h4>
                     <h6>Team Leader, Core Tech</h6>
                     <p>After playing a critical role in setting up the GDS for the General Aviation at Airnetz, Omkar has joined
@@ -457,12 +400,8 @@ include('inc/header.php') ?>
                 <div class="col-md-4 col-sm-12 col-xs-12">
                   <div class="white">
                     <h4>Anil Chinchawale</h4>
-                    <h6>Team Leader, Core Tech</h6>
-                    <p>As a software developer, Anil has an experience of more than 5 years in the fields of cloud based technology.
-                      As a result, he brings in the knowledge of the mechanics and the interactions necessary to build internet
-                      platforms at XinFin. Currently, Anil is working on the fields of mobile wallets and identity technology
-                      for Ethereum based Quorum technology. He started working on the Ethereum blockchain few months back
-                      and before that he has spent 2 years developing security SDKs & intellectual property.
+                    <h6>Sr. Blockchain Engineer</h6>
+                    <p>As a software developer, Anil has more than five years of experience in the fields of cloud based technology. As a result, he brings in the knowledge of the mechanics and the interactions necessary to build internet platforms at XinFin. Currently, Anil is working on the fields of mobile wallets and identity technology for Ethereum based Quorum technology. He has spent two years developing security SDKs & intellectual property and supports the XDC Network protocol.
                     </p>
                   </div>
                 </div>
