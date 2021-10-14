@@ -1084,7 +1084,8 @@ a.wallet-item:focus, a.wallet-item:hover, a.wallet-item:visited {
     border-bottom: 1px solid #eaecee;
 }
 .wallet-logo-container img {
-    max-width: 250px;
+    width: 100%;
+	max-width: 250px;
 	height: auto;
 	margin: 0 auto;
 }
@@ -1117,25 +1118,25 @@ a.wallet-item:focus, a.wallet-item:hover, a.wallet-item:visited {
     background: #dbe9f1;
     color: #777777;
 }
-#wallet-supports .col-md-3 {
+/*#wallet-supports .col-md-3 {
 	width: 20%;
 	padding-right: 5px;
     padding-left: 5px;
-}
+}*/
 @media (max-width:991px) {
-	#wallet-supports .col-md-3 {
+	/*#wallet-supports .col-md-3 {
 		width: 33.33333333%;
 		padding-right: 10px;
     	padding-left: 10px;
-	}
+	}*/
 	#wallet-supports .flex-row {
     	display: flex;
 	}
 }
 @media only screen and (max-width: 625px) {
-	#wallet-supports .col-md-3 {
+	/*#wallet-supports .col-md-3 {
 		width: 50%;
-	}
+	}*/
 	#wallet-supports .flex-row {
     	display: flex;
 	}
@@ -1150,11 +1151,11 @@ a.wallet-item:focus, a.wallet-item:hover, a.wallet-item:visited {
     	font-size: 1.9rem;
 	}
 }
-@media only screen and (max-width: 425px) {
+/*@media only screen and (max-width: 425px) {
 	#wallet-supports .col-md-3 {
 		width: 100%;
 	}
-}
+}*/
 
 
 /* tooltip success */

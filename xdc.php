@@ -369,6 +369,20 @@ include('inc/header.php') ?>
                                     </div>
                                 </div>
                             </div>
+                            <div class="col-lg-6 col-md-6 mt-3">
+                                <div class="row guarda-wallet-box">
+                                    <div class="col-lg-5 col-md-6 col-sm-6">
+                                        <div>
+                                            <a href="https://www.ellipal.com/" target="_blank"><img src="assets/images/exchanges/ellipal-wallet/ellipal-hardware-wallet.png" class="img-fluid" /></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-7 col-md-6 col-sm-6">
+                                        <a href="https://www.ellipal.com/" target="_blank">
+                                            <div class="guarda-wallet-ico-box"><b>Ellipal Hardware Wallet</b></div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                     

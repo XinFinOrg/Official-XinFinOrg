@@ -763,7 +763,7 @@ include('inc/header.php') ?>
             
             
 		<div class="row flex-row">
-            <div class="col-md-4 col-sm-6 col-xs-12 mt-1 mb-1">
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
                 <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
                     <a href="https://guarda.com/" class="wallet-item">
                         <div class="wallet-logo-container">
@@ -784,7 +784,7 @@ include('inc/header.php') ?>
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 col-xs-12 mt-1 mb-1">
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
                 <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.8s">
                     <a href="https://freewallet.org/" class="wallet-item">
                         <div class="wallet-logo-container">
@@ -802,7 +802,7 @@ include('inc/header.php') ?>
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 col-xs-12 mt-1 mb-1">
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
                 <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.9s">
                     <a href="https://xcelpay.io/" class="wallet-item">
                         <div class="wallet-logo-container">
@@ -818,8 +818,8 @@ include('inc/header.php') ?>
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 col-xs-12 mt-1 mb-1">
-                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.1s">
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1s">
                     <a href="https://lumiwallet.com/" class="wallet-item">
                         <div class="wallet-logo-container">
                             <img src="assets/images/exchanges/lumi-wallet/lumi-wallet.png" alt="Lumi Wallet" class="img-responsive" />
@@ -834,8 +834,8 @@ include('inc/header.php') ?>
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 col-xs-12 mt-1 mb-1">
-                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1s">
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.1s">
                     <a href="https://dcentwallet.com/products/BiometricWallet" class="wallet-item">
                         <div class="wallet-logo-container">
                             <img src="assets/images/exchanges/dcent-wallet/dcent-wallet.png" alt="D'CENT Wallet" class="img-responsive" />
@@ -851,8 +851,8 @@ include('inc/header.php') ?>
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 col-xs-12 mt-1 mb-1">
-                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.1s">
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.2s">
                     <a href="https://bitfi.com/" class="wallet-item">
                         <div class="wallet-logo-container">
                             <img src="assets/images/exchanges/bitfi/bitfi.png" alt="Bitfi Wallet" class="img-responsive" />
@@ -865,7 +865,22 @@ include('inc/header.php') ?>
                         </div>
                     </div>
                 </div>
-            </div>            
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.3s">
+                    <a href="https://www.ellipal.com/" class="wallet-item">
+                        <div class="wallet-logo-container">
+                            <img src="assets/images/exchanges/ellipal-wallet/ellipal-wallet.png" alt="ELLIPAL Cold Wallet" class="img-responsive" />
+                        </div>
+                    </a>
+                    <div class="wallet-text">
+                    <h5>Ellipal Wallet</h5>
+                        <div class="wallet-apps">
+                            <a href="https://www.ellipal.com/" target="_blank" title="ELLIPAL Cold Wallet"><span class="wallet-apps-tag mobile">Hardware</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>         
 		</div>
                 
                 
