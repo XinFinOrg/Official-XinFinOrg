@@ -42,6 +42,29 @@ include('inc/header.php') ?>
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
                 <div class="bounty-box">
                     <div class="image-container">
+                        <img class="img-responsive" src="assets/images/bounty/foundation-bounty.jpg" alt="Foundation Bounty" />
+                    </div>
+                    <div class="content">
+                        <h3>XDC Foundation Bounties</h3>
+                        <h4 class="highlight small">From 150% to 200% as per category applied</h4>
+                        <p class="text-muted">If you are working for XDC Foundation CI team, please claim bounties here.</p>
+                    </div>
+                    <div class="btn-block mb-1">
+                        <div class="progress-labels flex-container space-between">
+                            <div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div>
+                            <span class="status pull-right">RUNNING</span>
+                        </div>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSceMXhsXOYoHjNdKDWZ4BgLBfskNn9Tce3v3U034yChB08WqA/viewform" target="_blank">
+                            <button class="btn-hover color-1">Apply</button>
+                        </a>
+                        <button class="btn-hover color-3 disabled">Detailed Rules</button>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
+                <div class="bounty-box">
+                    <div class="image-container">
                         <img class="img-responsive" src="assets/images/bounty/create-xdc-explorer-bounty.jpg" alt="Create XDC Explorer Bounty" />
                     </div>
                     <div class="content">
