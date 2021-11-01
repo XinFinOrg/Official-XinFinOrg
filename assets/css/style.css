@@ -1417,7 +1417,7 @@ a.wallet-item:focus, a.wallet-item:hover, a.wallet-item:visited {
 	background:#f6f6f6;}
 
 .usecase-box {border-radius: 5px;display: block;position: relative;padding:15px;background-color:#FFFFFF;height:100%;-webkit-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);-moz-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);}
-.usecase-box .image-container {display: -ms-flexbox;display: flex;text-align: center;-ms-flex-align: center;align-items: center;font: 0/0 a;border-bottom: 1px solid #eaecee;padding: 50px 25px;margin-bottom: 15px;}
+.usecase-box .image-container {display: -ms-flexbox;display: flex;text-align: center;-ms-flex-align: center;align-items: center;font: 0/0 a;border-bottom: 1px solid #eaecee;padding: 35px 25px 50px 25px;margin-bottom: 15px;}
 .usecase-box .image-container img {margin: auto;width: 100%;max-height: 100%;-o-object-fit: contain;object-fit: contain;}
 .usecase-box h3{font-size:22px;margin-bottom: 15px;}
 .usecase-box h3 span{font-size:18px;color:#096db0;}

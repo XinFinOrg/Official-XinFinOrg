@@ -29,6 +29,52 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/goplugin-logo.png" alt="goplugin.co">
+            </div>
+            <h3>Plugin <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://goplugin.co/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+                <a href="https://github.com/goplugin" target="_blank"><button class="btn-hover color-3"><i class="fa fa-github"></i> Github</button></a>
+            </div>
+            <p>Plugin, a decentralized oracle platform, provides cost-effective solutions for any smart contract on the XinFin ecosystem.</p>
+            <div class="btn-block mb-1">
+                <a href="https://www.youtube.com/watch?v=Caz6Nv9Jc84" target="_blank"><button class="btn-hover color-3"><i class="fa fa-youtube"></i> Watch Video</button></a>
+            </div>
+            <p class="date">The plugin collects data from different external sources, consolidates, and makes sure the correct value is provided to its users at any point in time. This is the most crucial part for any decentralized oracle provider that is highly trusted by all its users.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/ledgermail-logo.png" alt="ledgermail.io">
+            </div>
+            <h3>LedgerMail <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://ledgermail.io/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            </div>
+            <p class="mb-3">LedgerMail is the Pingala Software powered, most prominent, and world's first Decentralized Email Service that combines the power of blockchain, XDPoS consensus, cryptographic algorithms, and zero trust mechanism with a mission of Protecting the Digital Rights of Email users in a decentralized manner. The ever-growing LedgerMail platform will replace traditional email transfer protocols like IMAP/SMTP.</p>
+            <p class="date">However, LedgerMail uses blockchain technology in which cryptographically encrypted messages & attachments are stored on shared blockchain ledgers. In detail, each email transferred is confirmed and validated like a blockchain transaction. In order to bring the utmost level of security and create a tamper-proof decentralized email environment.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/blocksscan-logo.png" alt="blocksscan.io">
+            </div>
+            <h3>BlocksScan <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://blocksscan.io/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            </div>
+            <p class="mb-3">BlocksScan is a Block Explorer and Analytics Platform for XDC, ETH decentralized smart contracts platform. BlocksScan.io on a mission to provide best Search experience to all the users with different Blockchain Network under a single roof. BlocksScan.io focused on making decentralized information accessible for end-users.</p>
+            <p class="date">We made this possible for blockchains with features of NFT, De-Fi, Examining all blocks, transactions, finality, smart contracts, token information with user-friendly interface.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/storx-logo.png" alt="storx.tech">
             </div>
             <h3>StorX <span>Livenet</span></h3>
