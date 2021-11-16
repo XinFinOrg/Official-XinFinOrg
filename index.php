@@ -880,8 +880,35 @@ include('inc/header.php') ?>
                         </div>
                     </div>
                 </div>
-            </div>         
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.4s">
+                    <a href="https://trezor.io/" class="wallet-item">
+                        <div class="wallet-logo-container">
+                            <img src="assets/images/exchanges/trezor-wallet/trezor-wallet.png" alt="Trezor Hardware Wallet" class="img-responsive" />
+                        </div>
+                    </a>
+                    <div class="wallet-text">
+                    <h5>Trezor Wallet</h5>
+                        <div class="wallet-apps">
+                            <a href="https://trezor.io/" target="_blank" title="Trezor Hardware Wallet"><span class="wallet-apps-tag mobile">Hardware</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>       
 		</div>
+        
+        
+        <div class="row mt-3">
+                <div class="col-md-12">
+                    <div class="wow fadeIn" data-wow-duration="1.5s" data-wow-delay="1.4s">
+                        <p>Disclaimer for Links to External, Third-Party Web Sites</p>
+                        <p class="vsmall">Links to external or third-party Web sites are provided solely for visitors' convenience. When you access an external Web site, keep in mind that xinfin.org has no control over its content. Links taken to other sites are done at your own risk, and xinfin.org accepts no liability for any linked sites or their content.</p>
+                        <p class="vsmall">Any link from xinfin.org to an external Web site does not imply or mean that xinfin.org endorses or accepts any responsibility for the content or the use of such Web site. xinfin.org does not give any representation regarding the quality, safety, suitability, or reliability of any external Web sites or any of the content or materials contained in them. It is essential for users to take necessary precautions, especially to ensure appropriate safety from viruses, worms, Trojan horses, and other potentially destructive items.</p>
+                        <p class="vsmall">When visiting external Web sites, users should review those Websites' privacy policies and other terms of use to learn more about what, why, and how they collect and use personally identifiable information.</p>
+                    </div>
+                </div>
+            </div>
                 
                 
                 
