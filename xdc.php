@@ -98,9 +98,9 @@ include('inc/header.php') ?>
                     </div>
                     <div class="exchange-box">
                         <div class="logo-box">
-                        	<a href="https://exchange.bitcoin.com/xdc-to-usdt" target="_blank"><img src="assets/images/exchanges/bitcoin-exchange.png" class="img-fluid" alt="exchange.bitcoin.com" /></a>                            
+                        	<a href="https://fmfw.io/xdc-to-usdt" target="_blank"><img src="assets/images/exchanges/fmfw.png" class="img-fluid" alt="fmfw.io" /></a>                            
                         </div>
-                        <div class="pairs"><a href="https://exchange.bitcoin.com/xdc-to-btc" target="_blank">BTC</a>, <a href="https://exchange.bitcoin.com/xdc-to-eth" target="_blank">ETH</a>, <a href="https://exchange.bitcoin.com/xdc-to-usdt" target="_blank">USDT</a></div>
+                        <div class="pairs"><a href="https://fmfw.io/xdc-to-btc" target="_blank">BTC</a>, <a href="https://fmfw.io/xdc-to-eth" target="_blank">ETH</a>, <a href="https://fmfw.io/xdc-to-usdt" target="_blank">USDT</a></div>
                     </div>
                     <div class="exchange-box">
                         <div class="logo-box">
