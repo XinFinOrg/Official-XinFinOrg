@@ -68,6 +68,16 @@ include('inc/header.php') ?>
                 <div class="text-center">
                     <div class="exchange-box">
                         <div class="logo-box">
+                        	<a href="https://www.gate.io/trade/XDC_USDT" target="_blank"><img src="assets/images/exchanges/gate-io.png" class="img-fluid" alt="gate.io" /></a>
+                        </div>
+                        <div class="pairs"><a href="https://www.gate.io/trade/XDC_USDT" target="_blank">USDT</a></div>
+                    </div>
+                    
+                    
+                    
+                    
+                    <div class="exchange-box">
+                        <div class="logo-box">
                         	<a href="https://www.probit.com/app/exchange/XDC-USDT" target="_blank"><img src="assets/images/exchanges/probit.png" class="img-fluid" alt="probit.com" /></a>
                         </div>
                         <div class="pairs"><a href="https://www.probit.com/app/exchange/XDC-ETH" target="_blank">ETH</a>, <a href="https://www.probit.kr/app/exchange/XDC-KRW" target="_blank">KRW</a>, <a href="https://www.probit.com/app/exchange/XDC-USDT" target="_blank">USDT</a></div>
