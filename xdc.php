@@ -72,10 +72,6 @@ include('inc/header.php') ?>
                         </div>
                         <div class="pairs"><a href="https://www.gate.io/trade/XDC_USDT" target="_blank">USDT</a></div>
                     </div>
-                    
-                    
-                    
-                    
                     <div class="exchange-box">
                         <div class="logo-box">
                         	<a href="https://www.probit.com/app/exchange/XDC-USDT" target="_blank"><img src="assets/images/exchanges/probit.png" class="img-fluid" alt="probit.com" /></a>
