@@ -68,6 +68,12 @@ include('inc/header.php') ?>
                 <div class="text-center">
                     <div class="exchange-box">
                         <div class="logo-box">
+                        	<a href="https://www.lbank.info/exchange/xdc/usdt" target="_blank"><img src="assets/images/exchanges/lbank.png" class="img-fluid" alt="gate.io" /></a>
+                        </div>
+                        <div class="pairs"><a href="https://www.lbank.info/exchange/xdc/usdt" target="_blank">USDT</a></div>
+                    </div>
+                    <div class="exchange-box">
+                        <div class="logo-box">
                         	<a href="https://www.gate.io/trade/XDC_USDT" target="_blank"><img src="assets/images/exchanges/gate-io.png" class="img-fluid" alt="gate.io" /></a>
                         </div>
                         <div class="pairs"><a href="https://www.gate.io/trade/XDC_USDT" target="_blank">USDT</a></div>
@@ -211,7 +217,7 @@ include('inc/header.php') ?>
                     <div class="col-md-12">
                         <h3 style="font-size: 24px; color: #096db0; font-weight: 600; margin-bottom: 50px;">Wallets Supporting XDC</h3>
                     </div>
-                    <div class="col-md-10 col-md-offset-1">
+                    <!--<div class="col-md-10 col-md-offset-1">
                         <div class="row wallets-supporting-xdc">
                             <div class="col col-md-4 col-sm-4 mb-2">
                                 <div>
@@ -306,24 +312,17 @@ include('inc/header.php') ?>
                         </div>
                     </div>
                     
-                    
-                    
-                    
-                    
-                    
-                    
-                    
                     <div class="col-md-10 col-md-offset-1">
                         <div class="row">
                             <div class="col-lg-6 col-md-6 mt-3">
                                 <div class="row guarda-wallet-box">
-                            <div class="col-lg-3 col-md-3">
+                            <div class="col-lg-3 col-md-3 col-sm-6">
                                 <div>
                                     <a href="https://freewallet.org/#wallets" target="_blank"><img src="assets/images/exchanges/freewallet/freewallet-logo.png" class="img-fluid" /></a>
                                 </div>
                                 <p class="text-center mt-0">Freewallet</p>
                             </div>
-                            <div class="col-lg-9 col-md-9 text-left">
+                            <div class="col-lg-9 col-md-9 col-sm-6">
                                 <a href="https://app.freewallet.org/auth/registration" target="_blank">
                                     <div class="guarda-wallet-ico-box"><img src="assets/images/exchanges/guarda-wallet/wallet.png" class="img-fluid" /></div>
                                 </a>
@@ -375,14 +374,14 @@ include('inc/header.php') ?>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-6 col-md-6 mt-3">
+                            <div class="col-lg-5 col-md-5 col-md-offset-1 mt-3">
                                 <div class="row guarda-wallet-box">
-                                    <div class="col-lg-5 col-md-6 col-sm-6">
+                                    <div class="col-lg-4 col-md-6 col-sm-6">
                                         <div>
                                             <a href="https://www.ellipal.com/" target="_blank"><img src="assets/images/exchanges/ellipal-wallet/ellipal-hardware-wallet.png" class="img-fluid" /></a>
                                         </div>
                                     </div>
-                                    <div class="col-lg-7 col-md-6 col-sm-6">
+                                    <div class="col-lg-8 col-md-6 col-sm-6">
                                         <a href="https://www.ellipal.com/" target="_blank">
                                             <div class="guarda-wallet-ico-box"><b>Ellipal Hardware Wallet</b></div>
                                         </a>
@@ -390,7 +389,172 @@ include('inc/header.php') ?>
                                 </div>
                             </div>
                         </div>
+                    </div>-->
+                    
+                    
+                    <div class="col-md-12">
+                        <div class="row wallets-supporting-xdc">
+                            <div class="col col-md-4 col-sm-4 mb-2">
+                                <div>
+                                    <a href="https://play.google.com/store/apps/details?id=com.xdcwallet" target="_blank"><img src="assets/images/exchanges/googleplay-logo.png" class="img-fluid" /></a>
+                                </div>
+                                <p class="text-center mt-1">Open Source Wallet (Android App)</p>
+                            </div>
+                            <div class="col col-md-4 col-sm-4 mb-2">
+                                <div>
+                                    <a href="https://xinfin.network/#webWallet" target="_blank"><img src="assets/images/exchanges/xdc-wallet-logo.png" class="img-fluid" /></a>
+                                </div>
+                                <p class="text-center mt-1">XDC Web Wallet</p>
+                            </div>
+                            <div class="col col-md-4 col-sm-4 mb-2">
+                                <div>
+                                    <a href="https://chrome.google.com/webstore/detail/xinpay/bocpokimicclpaiekenaeelehdjllofo?hl=en" target="_blank"><img src="assets/images/exchanges/xdc-ewallet.png" class="img-fluid" /></a>
+                                </div>
+                                <p class="text-center mt-1">XinPay (XDC Extension Wallet)</p>
+                            </div>
+                        </div>
                     </div>
+                    
+                    <div class="clearfix"></div>
+                    <div class="sh-divider-line doubble light margin"></div>
+                    
+                    <div class="col-md-12 mt-4">
+                    <div class="row flex-row">
+            		<div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+                	<div class="wallet-item_block">
+                    <a href="https://guarda.com/" class="wallet-item">
+                        <div class="wallet-logo-container">
+                            <img src="assets/images/exchanges/guarda-wallet/guarda-wallet.png" alt="Gaurda Wallet" class="img-responsive" />
+                        </div>
+                    </a>
+                    <div class="wallet-text">
+                    <h5>Guarda Wallet</h5>
+                        <div class="wallet-apps">
+                            <a href="https://guarda.co/app/" target="_blank" title="Web Wallet"><span class="wallet-apps-tag mobile">Web</span></a>
+                            <a href="https://play.google.com/store/apps/details?id=com.crypto.multiwallet" target="_blank" title="Android Wallet"><span class="wallet-apps-tag mobile">Android</span></a>
+                            <a href="https://apps.apple.com/app/guarda-wallet/id1442083982" target="_blank" title="iOS Wallet"><span class="wallet-apps-tag mobile">iOS</span></a>
+                            <a href="https://guarda.com/desktop/" target="_blank" title="MacOS"><span class="wallet-apps-tag mobile">MacOS</span></a>
+                            <a href="https://guarda.com/desktop/" target="_blank" title="Windows 32"><span class="wallet-apps-tag mobile">Windows</span></a>
+                            <a href="https://guarda.com/desktop/" target="_blank" title="Ubuntu"><span class="wallet-apps-tag mobile">Ubuntu</span></a>
+                            <a href="https://guarda.com/chrome-extension/" target="_blank" title="Chrome Extension"><span class="wallet-apps-tag mobile">Chrome</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+                <div class="wallet-item_block">
+                    <a href="https://freewallet.org/" class="wallet-item">
+                        <div class="wallet-logo-container">
+                            <img src="assets/images/exchanges/freewallet/freewallet.png" alt="Freewallet" class="img-responsive" />
+                        </div>
+                    </a>
+                    <div class="wallet-text">
+                    <h5>Freewallet</h5>
+                        <div class="wallet-apps">
+                            <a href="https://app.freewallet.org/auth/registration" target="_blank" title="Web Wallet"><span class="wallet-apps-tag mobile">Web</span></a>
+                            <a href="https://play.google.com/store/apps/details?id=mw.org.freewallet.app" target="_blank" title="Android Wallet"><span class="wallet-apps-tag mobile">Android</span></a>
+                            <a href="https://apps.apple.com/us/app/id1274003898?mt=8" target="_blank" title="iOS Wallet"><span class="wallet-apps-tag mobile">iOS</span></a>
+                                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+                <div class="wallet-item_block">
+                    <a href="https://xcelpay.io/" class="wallet-item">
+                        <div class="wallet-logo-container">
+                            <img src="assets/images/exchanges/xcelpay/xcelpay.png" alt="XcelPay" class="img-responsive" />
+                        </div>
+                    </a>
+                    <div class="wallet-text">
+                    <h5>XcelPay</h5>
+                        <div class="wallet-apps">
+                            <a href="https://play.google.com/store/apps/details?id=com.XcelTrip.XcelPay" target="_blank" title="Android Wallet"><span class="wallet-apps-tag mobile">Android</span></a>
+                            <a href="https://apps.apple.com/us/app/xcelpay-secure-crypto-wallet/id1461215417" target="_blank" title="iOS Wallet"><span class="wallet-apps-tag mobile">iOS</span></a>            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+                <div class="wallet-item_block">
+                    <a href="https://lumiwallet.com/" class="wallet-item">
+                        <div class="wallet-logo-container">
+                            <img src="assets/images/exchanges/lumi-wallet/lumi-wallet.png" alt="Lumi Wallet" class="img-responsive" />
+                        </div>
+                    </a>
+                    <div class="wallet-text">
+                    <h5>Lumi Wallet</h5>
+                        <div class="wallet-apps">
+                            <a href="https://web.lumiwallet.com/" target="_blank" title="Web Wallet"><span class="wallet-apps-tag mobile">Web</span></a>
+                            <a href="https://play.google.com/store/apps/details?id=com.lumiwallet.android" target="_blank" title="Android Wallet"><span class="wallet-apps-tag mobile">Android</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+                <div class="wallet-item_block">
+                    <a href="https://dcentwallet.com/products/BiometricWallet" class="wallet-item">
+                        <div class="wallet-logo-container">
+                            <img src="assets/images/exchanges/dcent-wallet/dcent-wallet.png" alt="D'CENT Wallet" class="img-responsive" />
+                        </div>
+                    </a>
+                    <div class="wallet-text">
+                    <h5>D'CENT Wallet</h5>
+                        <div class="wallet-apps">
+                            <a href="https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet&utm_source=dcent_medium&utm_campaign=xdc_support" target="_blank" title="Android Wallet"><span class="wallet-apps-tag mobile">Android</span></a>
+                            <a href="https://apps.apple.com/kr/app/dcent-hardware-wallet/id1447206611" target="_blank" title="iOS Wallet"><span class="wallet-apps-tag mobile">iOS</span></a>
+                            <a href="https://dcentwallet.com/products/BiometricWallet" target="_blank" title="Biometric Hardware Wallet"><span class="wallet-apps-tag mobile">Hardware</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+                <div class="wallet-item_block">
+                    <a href="https://bitfi.com/" class="wallet-item">
+                        <div class="wallet-logo-container">
+                            <img src="assets/images/exchanges/bitfi/bitfi.png" alt="Bitfi Wallet" class="img-responsive" />
+                        </div>
+                    </a>
+                    <div class="wallet-text">
+                    <h5>Bitfi Wallet</h5>
+                        <div class="wallet-apps">
+                            <a href="https://bitfi.com/order" target="_blank" title="Biometric Hardware Wallet"><span class="wallet-apps-tag mobile">Hardware</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+                <div class="wallet-item_block">
+                    <a href="https://www.ellipal.com/" class="wallet-item">
+                        <div class="wallet-logo-container">
+                            <img src="assets/images/exchanges/ellipal-wallet/ellipal-wallet.png" alt="ELLIPAL Cold Wallet" class="img-responsive" />
+                        </div>
+                    </a>
+                    <div class="wallet-text">
+                    <h5>Ellipal Wallet</h5>
+                        <div class="wallet-apps">
+                            <a href="https://www.ellipal.com/" target="_blank" title="ELLIPAL Cold Wallet"><span class="wallet-apps-tag mobile">Hardware</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+                <div class="wallet-item_block">
+                    <a href="https://trezor.io/" class="wallet-item">
+                        <div class="wallet-logo-container">
+                            <img src="assets/images/exchanges/trezor-wallet/trezor-wallet.png" alt="Trezor Hardware Wallet" class="img-responsive" />
+                        </div>
+                    </a>
+                    <div class="wallet-text">
+                    <h5>Trezor Wallet</h5>
+                        <div class="wallet-apps">
+                            <a href="https://trezor.io/" target="_blank" title="Trezor Hardware Wallet"><span class="wallet-apps-tag mobile">Hardware</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>       
+		</div>
+        </div>
                     
                     
 
