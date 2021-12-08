@@ -66,6 +66,12 @@ include('inc/header.php') ?>
             <div class="row mt-2">
                 <!--<div class="address-box text-center">-->
                 <div class="text-center">
+                    <!--<div class="exchange-box">
+                        <div class="logo-box">
+                        	<a href="https://big.one/en/trade/XDC-USDT" target="_blank"><img src="assets/images/exchanges/bigone.png" class="img-fluid" alt="big.one" /></a>
+                        </div>
+                        <div class="pairs"><a href="https://big.one/en/trade/XDC-USDT" target="_blank">USDT</a></div>
+                    </div>-->
                     <div class="exchange-box">
                         <div class="logo-box">
                         	<a href="https://www.lbank.info/exchange/xdc/usdt" target="_blank"><img src="assets/images/exchanges/lbank.png" class="img-fluid" alt="gate.io" /></a>
@@ -552,7 +558,22 @@ include('inc/header.php') ?>
                         </div>
                     </div>
                 </div>
-            </div>       
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+                <div class="wallet-item_block">
+                    <a href="https://simplehold.io/" class="wallet-item">
+                        <div class="wallet-logo-container">
+                            <img src="assets/images/exchanges/simplehold-wallet/simplehold-wallet.png" alt="SimpleHold Wallet" class="img-responsive" />
+                        </div>
+                    </a>
+                    <div class="wallet-text">
+                    <h5>SimpleHold Wallet</h5>
+                        <div class="wallet-apps">
+                            <a href="https://simplehold.io/" target="_blank" title="Trezor Hardware Wallet"><span class="wallet-apps-tag mobile">Browser Extension Wallet</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
 		</div>
         </div>
                     

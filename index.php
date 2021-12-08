@@ -895,9 +895,23 @@ include('inc/header.php') ?>
                         </div>
                     </div>
                 </div>
-            </div>       
-		</div>
-        
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.5s">
+                    <a href="https://simplehold.io/" class="wallet-item">
+                        <div class="wallet-logo-container">
+                            <img src="assets/images/exchanges/simplehold-wallet/simplehold-wallet.png" alt="SimpleHold Wallet" class="img-responsive" />
+                        </div>
+                    </a>
+                    <div class="wallet-text">
+                    <h5>SimpleHold Wallet</h5>
+                        <div class="wallet-apps">
+                            <a href="https://simplehold.io/" target="_blank" title="Trezor Hardware Wallet"><span class="wallet-apps-tag mobile">Browser Extension Wallet</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>      
+		</div>        
         
         <div class="row mt-3">
                 <div class="col-md-12">
