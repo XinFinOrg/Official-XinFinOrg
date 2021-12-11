@@ -66,12 +66,12 @@ include('inc/header.php') ?>
             <div class="row mt-2">
                 <!--<div class="address-box text-center">-->
                 <div class="text-center">
-                    <!--<div class="exchange-box">
+                    <div class="exchange-box">
                         <div class="logo-box">
                         	<a href="https://big.one/en/trade/XDC-USDT" target="_blank"><img src="assets/images/exchanges/bigone.png" class="img-fluid" alt="big.one" /></a>
                         </div>
                         <div class="pairs"><a href="https://big.one/en/trade/XDC-USDT" target="_blank">USDT</a></div>
-                    </div>-->
+                    </div>
                     <div class="exchange-box">
                         <div class="logo-box">
                         	<a href="https://www.lbank.info/exchange/xdc/usdt" target="_blank"><img src="assets/images/exchanges/lbank.png" class="img-fluid" alt="gate.io" /></a>
