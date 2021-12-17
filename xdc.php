@@ -68,11 +68,40 @@ include('inc/header.php') ?>
                 <div class="text-center">
                     <div class="exchange-box">
                         <div class="logo-box">
+                        	<a href="https://www.bkex.com/trade/XDC_USDT" target="_blank"><img src="assets/images/exchanges/bkex.png" class="img-fluid" alt="bkex.com" /></a>
+                        </div>
+                        <div class="pairs"><a href="https://www.bkex.com/trade/XDC_USDT" target="_blank">USDT</a></div>
+                    </div>
+                    <div class="exchange-box">
+                        <div class="logo-box">
+                        	<a href="https://changenow.io/?from=usdt&to=xdc" target="_blank"><img src="assets/images/exchanges/changenow.png" class="img-fluid" alt="changenow.io" /></a>
+                        </div>
+                        <div class="pairs"><a href="https://changenow.io/?from=usdt&to=xdc" target="_blank">Instant Swap</a></div>
+                    </div>
+                    <div class="exchange-box">
+                        <div class="logo-box">
+                        	<a href="https://www.digifinex.com/en-ww/trade/USDT/XDC" target="_blank"><img src="assets/images/exchanges/digifinex.png" class="img-fluid" alt="digifinex.com" /></a>
+                        </div>
+                        <div class="pairs"><a href="https://www.digifinex.com/en-ww/trade/BTC/XDC" target="_blank">BTC</a>, <a href="https://www.digifinex.com/en-ww/trade/ETH/XDC" target="_blank">ETH</a>, <a href="https://www.digifinex.com/en-ww/trade/USDT/XDC" target="_blank">USDT</a></div>
+                    </div>
+                    <div class="exchange-box">
+                        <div class="logo-box">
+                        	<a href="https://www.coinw.com/front/fastTrading?symbol=734" target="_blank"><img src="assets/images/exchanges/coinw.png" class="img-fluid" alt="coinw.com" /></a>
+                        </div>
+                        <div class="pairs"><a href="https://www.coinw.com/front/fastTrading?symbol=734" target="_blank">USDT</a></div>
+                    </div>
+                    
+                    
+                    
+                    
+                    
+                    
+                    <div class="exchange-box">
+                        <div class="logo-box">
                         	<a href="https://www.xt.com/tradePro/xdc_usdt" target="_blank"><img src="assets/images/exchanges/xtcom.png" class="img-fluid" alt="xt.com" /></a>
                         </div>
                         <div class="pairs"><a href="https://www.xt.com/tradePro/xdc_usdt" target="_blank">USDT</a></div>
-                    </div>
-                    
+                    </div>                    
                     <div class="exchange-box">
                         <div class="logo-box">
                         	<a href="https://big.one/en/trade/XDC-USDT" target="_blank"><img src="assets/images/exchanges/bigone.png" class="img-fluid" alt="big.one" /></a>
