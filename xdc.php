@@ -68,6 +68,13 @@ include('inc/header.php') ?>
                 <div class="text-center">
                     <div class="exchange-box">
                         <div class="logo-box">
+                        	<a href="https://www.xt.com/tradePro/xdc_usdt" target="_blank"><img src="assets/images/exchanges/xtcom.png" class="img-fluid" alt="xt.com" /></a>
+                        </div>
+                        <div class="pairs"><a href="https://www.xt.com/tradePro/xdc_usdt" target="_blank">USDT</a></div>
+                    </div>
+                    
+                    <div class="exchange-box">
+                        <div class="logo-box">
                         	<a href="https://big.one/en/trade/XDC-USDT" target="_blank"><img src="assets/images/exchanges/bigone.png" class="img-fluid" alt="big.one" /></a>
                         </div>
                         <div class="pairs"><a href="https://big.one/en/trade/XDC-USDT" target="_blank">USDT</a></div>
