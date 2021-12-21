@@ -803,6 +803,23 @@ include('inc/header.php') ?>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.6s">
+                    <a href="https://crypterium.com/" class="wallet-item">
+                        <div class="wallet-logo-container">
+                            <img src="assets/images/exchanges/crypterium-wallet/crypterium-wallet.png" alt="Crypterium Wallet" class="img-responsive" />
+                        </div>
+                    </a>
+                    <div class="wallet-text">
+                    <h5>Crypterium Wallet</h5>
+                        <div class="wallet-apps">
+                            <a href="https://app.crypterium.com/sign-up" target="_blank" title="Android Wallet"><span class="wallet-apps-tag mobile">Web</span></a>
+                            <a href="https://play.google.com/store/apps/details?id=com.crypterium" target="_blank" title="iOS Wallet"><span class="wallet-apps-tag mobile">Android</span></a>
+                            <a href="https://apps.apple.com/app/crypterium-bitcoin-wallet/id1360632912" target="_blank" title="Biometric Hardware Wallet"><span class="wallet-apps-tag mobile">iOS</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
                 <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.9s">
                     <a href="https://xcelpay.io/" class="wallet-item">
                         <div class="wallet-logo-container">
@@ -910,16 +927,16 @@ include('inc/header.php') ?>
                         </div>
                     </div>
                 </div>
-            </div>      
+            </div>
 		</div>        
         
         <div class="row mt-3">
                 <div class="col-md-12">
                     <div class="wow fadeIn" data-wow-duration="1.5s" data-wow-delay="1.4s">
                         <p>Disclaimer for Links to External, Third-Party Web Sites</p>
-                        <p class="vsmall">Links to external or third-party Web sites are provided solely for visitors' convenience. When you access an external Web site, keep in mind that xinfin.org has no control over its content. Links taken to other sites are done at your own risk, and xinfin.org accepts no liability for any linked sites or their content.</p>
-                        <p class="vsmall">Any link from xinfin.org to an external Web site does not imply or mean that xinfin.org endorses or accepts any responsibility for the content or the use of such Web site. xinfin.org does not give any representation regarding the quality, safety, suitability, or reliability of any external Web sites or any of the content or materials contained in them. It is essential for users to take necessary precautions, especially to ensure appropriate safety from viruses, worms, Trojan horses, and other potentially destructive items.</p>
-                        <p class="vsmall">When visiting external Web sites, users should review those Websites' privacy policies and other terms of use to learn more about what, why, and how they collect and use personally identifiable information.</p>
+                        <p class="vsmall pb-1 mb-1">Links to external or third-party Web sites are provided solely for visitors' convenience. When you access an external Web site, keep in mind that xinfin.org has no control over its content. Links taken to other sites are done at your own risk, and xinfin.org accepts no liability for any linked sites or their content.</p>
+                        <p class="vsmall pb-1 mb-1">Any link from xinfin.org to an external Web site does not imply or mean that xinfin.org endorses or accepts any responsibility for the content or the use of such Web site. xinfin.org does not give any representation regarding the quality, safety, suitability, or reliability of any external Web sites or any of the content or materials contained in them. It is essential for users to take necessary precautions, especially to ensure appropriate safety from viruses, worms, Trojan horses, and other potentially destructive items.</p>
+                        <p class="vsmall pb-1 mb-1">When visiting external Web sites, users should review those Websites' privacy policies and other terms of use to learn more about what, why, and how they collect and use personally identifiable information.</p>
                     </div>
                 </div>
             </div>
@@ -1083,7 +1100,7 @@ include('inc/header.php') ?>
         <section id="get-started-with" class="bg-light-grey">
             <div class="container">
                 <div class="row mb-5">
-                <div class="col-lg-10 col-lg-offset-1">
+                <div class="col-lg-12">
                     <div class="custodian-box_block">
                         <div class="flex-row align-items-center">
                             <div class="col-lg-6">
@@ -1091,9 +1108,14 @@ include('inc/header.php') ?>
                                     <h1 class="pb-0 mb-0">Institutional Custodian</h1>
                                 </div>
                             </div>
-                            <div class="col-lg-6">
-                                <div class="text-center wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.9s">
+                            <div class="col-lg-3">
+                                <div class="text-center wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
                                     <a href="https://copper.co/" target="_blank"><img src="assets/images/copper-logo.png" class="img-responsive" /></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-3">
+                                <div class="text-center wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.9s">
+                                    <a href="https://www.trustology.io/" target="_blank"><img src="assets/images/trustology-logo.png" class="img-responsive" /></a>
                                 </div>
                             </div>
                         </div>
@@ -1135,7 +1157,7 @@ include('inc/header.php') ?>
                         </a>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-sm-12 px-1 mt-1 mb-1">
-                        <a href="https://mycontract.co" target="_blank">
+                        <a href="https://www.goplugin.co/" target="_blank">
                             <div class="services-block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.6s">
                                 <div class="inner-box">
                                     <div class="icon-img-box align-self-center">

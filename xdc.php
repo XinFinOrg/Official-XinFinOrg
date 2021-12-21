@@ -503,6 +503,23 @@ include('inc/header.php') ?>
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
                 <div class="wallet-item_block">
+                    <a href="https://crypterium.com/" class="wallet-item">
+                        <div class="wallet-logo-container">
+                            <img src="assets/images/exchanges/crypterium-wallet/crypterium-wallet.png" alt="Crypterium Wallet" class="img-responsive" />
+                        </div>
+                    </a>
+                    <div class="wallet-text">
+                    <h5>Crypterium Wallet</h5>
+                        <div class="wallet-apps">
+                            <a href="https://app.crypterium.com/sign-up" target="_blank" title="Android Wallet"><span class="wallet-apps-tag mobile">Web</span></a>
+                            <a href="https://play.google.com/store/apps/details?id=com.crypterium" target="_blank" title="iOS Wallet"><span class="wallet-apps-tag mobile">Android</span></a>
+                            <a href="https://apps.apple.com/app/crypterium-bitcoin-wallet/id1360632912" target="_blank" title="Biometric Hardware Wallet"><span class="wallet-apps-tag mobile">iOS</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+                <div class="wallet-item_block">
                     <a href="https://xcelpay.io/" class="wallet-item">
                         <div class="wallet-logo-container">
                             <img src="assets/images/exchanges/xcelpay/xcelpay.png" alt="XcelPay" class="img-responsive" />
@@ -622,9 +639,14 @@ include('inc/header.php') ?>
                     </div>
                     <div class="col-md-10 col-md-offset-1 mb-4">
                         <div class="row wallets-supporting-xdc">
-                            <div class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4 col-sm-offset-3">
+                            <div class="col-lg-4 col-lg-offset-2 col-md-4 col-md-offset-2">
                                 <div>
                                     <a href="https://copper.co/" target="_blank"><img src="assets/images/exchanges/copper-logo.png" class="img-responsive" /></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div>
+                                    <a href="https://www.trustology.io/" target="_blank"><img src="assets/images/trustology-logo.png" class="img-responsive" /></a>
                                 </div>
                             </div>
                         </div>
