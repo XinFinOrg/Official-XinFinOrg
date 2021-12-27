@@ -51,7 +51,7 @@ include('inc/header.php') ?>
             <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/eurostratis-logo.png" alt="stasis.net">
             </div>
-            <h3>EuroStatis <span>Coming Soon!</span></h3>
+            <h3>EuroStasis <span>Coming Soon!</span></h3>
             <div class="btn-block mb-1">
             	<a href="https://stasis.net/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
                 <a href="https://github.com/stasisnet" target="_blank"><button class="btn-hover color-3"><i class="fa fa-github"></i> Github</button></a>
