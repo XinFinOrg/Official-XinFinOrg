@@ -31,7 +31,7 @@ include('inc/header.php') ?>
             <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/xswap-logo.png" alt="xspswap.finance">
             </div>
-            <h3>EuroStatis <span>Coming Soon!</span></h3>
+            <h3>XSwap <span>Coming Soon!</span></h3>
             <div class="btn-block mb-1">
             	<a href="https://xspswap.finance/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
                 <a href="https://github.com/XSwapProtocol" target="_blank"><button class="btn-hover color-3"><i class="fa fa-github"></i> Github</button></a>
@@ -467,17 +467,8 @@ include('inc/header.php') ?>
     $('.nav.navbar-nav li:nth-child(3)').addClass('active');
 </script>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script>
-/**
- *  Read More JS
- *  truncates text via specfied character length with more/less actions.
- *  Maintains original format of pre truncated text.
- *  @author stephen scaff
- *  @todo   Add destroy method for ajaxed content support.
- *
- */
- const ReadMore = (() => {
+const ReadMore = (() => {
    let s;
 
    return {
@@ -500,31 +491,12 @@ include('inc/header.php') ?>
      bindEvents() {
        ReadMore.truncateText();
      },
-
-     /**
-      * Count Words
-      * Helper to handle word count.
-      * @param {string} str - Target content string.
-      */
      countWords(str) {
        return str.split(/\s+/).length;
      },
-
-     /**
-      * Ellpise Content
-      * @param {string} str - content string.
-      * @param {number} wordsNum - Number of words to show before truncation.
-      */
      ellipseContent(str, wordsNum) {
        return str.split(/\s+/).slice(0, wordsNum).join(' ') + '...';
      },
-
-     /**
-      * Truncate Text
-      * Truncate and ellipses contented content
-      * based on specified word count.
-      * Calls createLink() and handleClick() methods.
-      */
      truncateText() {
 
        for (let i = 0; i < s.content.length; i++) {
@@ -545,12 +517,6 @@ include('inc/header.php') ?>
        }
        ReadMore.handleClick(s.content);
      },
-
-     /**
-      * Create Link
-      * Creates and Inserts Read More Link
-      * @param {number} index - index reference of looped item
-      */
      createLink(index) {
        const linkWrap = document.createElement('span');
 
@@ -562,15 +528,9 @@ include('inc/header.php') ?>
                                 ${s.moreLink}
                             </a>`;
 
-       // Inset created link
        s.content[index].parentNode.insertBefore(linkWrap, s.content[index].nextSibling);
 
      },
-
-     /**
-      * Handle Click
-      * Toggle Click eve
-      */
      handleClick(el) {
        const readMoreLink = document.querySelectorAll('.read-more__link');
 
@@ -595,12 +555,6 @@ include('inc/header.php') ?>
          });
        }
      },
-
-     /**
-      * Open All
-      * Method to expand all instances on the page.
-      * Will probably be useful with a destroy method.
-      */
      openAll() {
        const instances = document.querySelectorAll('.read-more__link');
          for (let i = 0; i < instances.length; i++) {
@@ -610,10 +564,6 @@ include('inc/header.php') ?>
        }
      }
  })();
-
-
-//export default ReadMore;
-
 ReadMore.init();
 </script>
 

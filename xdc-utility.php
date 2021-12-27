@@ -31,7 +31,7 @@ include('inc/header.php') ?>
             <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/xswap-logo.png" alt="xspswap.finance">
             </div>
-            <h3>EuroStatis <span>Coming Soon!</span></h3>
+            <h3>XSwap <span>Coming Soon!</span></h3>
             <div class="btn-block mb-1">
             	<a href="https://xspswap.finance/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
                 <a href="https://github.com/XSwapProtocol" target="_blank"><button class="btn-hover color-3"><i class="fa fa-github"></i> Github</button></a>
