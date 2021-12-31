@@ -68,6 +68,12 @@ include('inc/header.php') ?>
                 <div class="text-center">
                     <div class="exchange-box">
                         <div class="logo-box">
+                        	<a href="https://www.bybit.com/en-US/trade/spot/XDC/USDT" target="_blank"><img src="assets/images/exchanges/bybit.png" class="img-fluid" alt="bybit.com" /></a>
+                        </div>
+                        <div class="pairs"><a href="https://www.bybit.com/en-US/trade/spot/XDC/USDT" target="_blank">USDT</a></div>
+                    </div>
+                    <div class="exchange-box">
+                        <div class="logo-box">
                         	<a href="https://bitkan.pro/trade/xdc_usdt" target="_blank"><img src="assets/images/exchanges/bitkan.png" class="img-fluid" alt="bitkan.pro" /></a>
                         </div>
                         <div class="pairs"><a href="https://bitkan.pro/trade/xdc_usdt" target="_blank">USDT</a></div>
