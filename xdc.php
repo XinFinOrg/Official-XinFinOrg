@@ -65,7 +65,13 @@ include('inc/header.php') ?>
             </div>
             <div class="row mt-2">
                 <!--<div class="address-box text-center">-->
-                <div class="text-center">
+                <div class="text-center">                    
+                    <div class="exchange-box">
+                        <div class="logo-box">
+                        	<a href="https://whitebit.com/trade/XDC-USDT" target="_blank"><img src="assets/images/exchanges/whitebit.png" class="img-fluid" alt="whitebit.com" /></a>
+                        </div>
+                        <div class="pairs"><a href="https://whitebit.com/trade/XDC-ETH" target="_blank">ETH</a>, <a href="https://whitebit.com/trade/XDC-USDT" target="_blank">USDT</a></div>
+                    </div>
                     <div class="exchange-box">
                         <div class="logo-box">
                         	<a href="https://www.bybit.com/en-US/trade/spot/XDC/USDT" target="_blank"><img src="assets/images/exchanges/bybit.png" class="img-fluid" alt="bybit.com" /></a>
@@ -102,12 +108,6 @@ include('inc/header.php') ?>
                         </div>
                         <div class="pairs"><a href="https://www.coinw.com/front/fastTrading?symbol=734" target="_blank">USDT</a></div>
                     </div>
-                    
-                    
-                    
-                    
-                    
-                    
                     <div class="exchange-box">
                         <div class="logo-box">
                         	<a href="https://www.xt.com/tradePro/xdc_usdt" target="_blank"><img src="assets/images/exchanges/xtcom.png" class="img-fluid" alt="xt.com" /></a>
@@ -245,12 +245,6 @@ include('inc/header.php') ?>
                         	<a href="https://app.stex.com/en/basic-trade/pair/USDT/XDC" target="_blank"><img src="assets/images/exchanges/stex.png" class="img-fluid" /></a>
                         </div>
                         <div class="pairs"><a href="https://app.stex.com/en/basic-trade/pair/USDT/XDC" target="_blank">USDT</a></div>
-                    </div>
-                    <div class="exchange-box">
-                        <div class="logo-box">
-                        	<a href="https://www.homiex.com/exchange/XDCM/USDT" target="_blank"><img src="assets/images/exchanges/homiex.png" class="img-fluid" alt="homiex.com" /></a>
-                        </div>
-                        <div class="pairs"><a href="https://www.homiex.com/exchange/XDCM/USDT" target="_blank">USDT</a></div>
                     </div>
                     <div class="exchange-box">
                         <div class="logo-box">
