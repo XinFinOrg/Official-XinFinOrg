@@ -1102,20 +1102,25 @@ include('inc/header.php') ?>
                 <div class="row mb-5">
                 <div class="col-lg-12">
                     <div class="custodian-box_block">
-                        <div class="flex-row align-items-center">
-                            <div class="col-lg-6">
+                        <div class="row align-items-center">
+                            <div class="col-lg-12">
                                 <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                                    <h1 class="pb-0 mb-0">Institutional Custodian</h1>
+                                    <h1 class="pb-0 mb-2">Institutional Custodian</h1>
                                 </div>
                             </div>
-                            <div class="col-lg-3">
+                            <div class="col-lg-4 col-md-4 col-sm-4">
                                 <div class="text-center wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
                                     <a href="https://copper.co/" target="_blank"><img src="assets/images/copper-logo.png" class="img-responsive" /></a>
                                 </div>
                             </div>
-                            <div class="col-lg-3">
+                            <div class="col-lg-4 col-md-4 col-sm-4">
                                 <div class="text-center wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.9s">
                                     <a href="https://www.trustology.io/" target="_blank"><img src="assets/images/trustology-logo.png" class="img-responsive" /></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4 col-sm-4">
+                                <div class="text-center wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.1s">
+                                    <a href="https://www.propine.com/" target="_blank"><img src="assets/images/propine-logo.png" class="img-responsive" /></a>
                                 </div>
                             </div>
                         </div>

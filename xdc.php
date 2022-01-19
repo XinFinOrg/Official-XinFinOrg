@@ -645,7 +645,7 @@ include('inc/header.php') ?>
                     </div>
                     <div class="col-md-10 col-md-offset-1 mb-4">
                         <div class="row wallets-supporting-xdc">
-                            <div class="col-lg-4 col-lg-offset-2 col-md-4 col-md-offset-2">
+                            <div class="col-lg-4 col-md-4">
                                 <div>
                                     <a href="https://copper.co/" target="_blank"><img src="assets/images/exchanges/copper-logo.png" class="img-responsive" /></a>
                                 </div>
@@ -653,6 +653,11 @@ include('inc/header.php') ?>
                             <div class="col-lg-4 col-md-4">
                                 <div>
                                     <a href="https://www.trustology.io/" target="_blank"><img src="assets/images/trustology-logo.png" class="img-responsive" /></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div>
+                                    <a href="https://www.propine.com/" target="_blank"><img src="assets/images/propine-logo.png" class="img-responsive" /></a>
                                 </div>
                             </div>
                         </div>
