@@ -320,6 +320,12 @@ include('inc/header.php') ?>
                                             <h6 class="partner-logo_desc">Meherett</h6>
                                         </a>
                                     </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://www.dimo.finance/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/dimo_logo.png" class="img-responsive" alt="Dimo Finance" /></div>
+                                            <h6 class="partner-logo_desc">Dimo Finance</h6>
+                                        </a>
+                                    </div>
                                 </div>
                         </div>
                             </div>
