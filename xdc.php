@@ -17,8 +17,7 @@ include('inc/header.php') ?>
                     Fed up with the muddle of transferring funds via the regular fund transferring system? Thinking of how to bypass the hurdles? XinFin brings a proper and reliable solution.
                     <br />
                     <br />
-                    So, if you are skeptical about the authenticity and the hassles of a regular international fund transfer then get a XDC token and make your life much easier. Let your business cross the horizon by using XinFin's fast and
-                    secure XDC tokens.
+                    So, if you are skeptical about the authenticity and the hassles of a regular international fund transfer then get a XDC token and make your life much easier. Let your business cross the horizon by using XinFin's fast and secure XDC tokens.
                 </p>
             </div>
 
@@ -44,12 +43,10 @@ include('inc/header.php') ?>
                     <div class="col-md-12">
                         <h3 class="text-left">XDC</h3>
                         <p>
-                            What is XDC? The XDC token is the underlying utility token of the XinFin hybrid blockchain. The XDC token acts as a settlement mechanism for dApps built on the XinFin hybrid blockchain. Our first DApp, the
-                            TradeFinex platform, uses this settlement layer to finance infrastructure projects and other procurements. Efforts are ongoing at getting the XDC token listed on larger exchanges.
+                            What is XDC? The XDC token is the underlying utility token of the XinFin hybrid blockchain. The XDC token acts as a settlement mechanism for dApps built on the XinFin hybrid blockchain. Our first DApp, the TradeFinex platform, uses this settlement layer to finance infrastructure projects and other procurements. Efforts are ongoing at getting the XDC token listed on larger exchanges.
+                          <br />
                             <br />
-                            <br />
-                            The XDC token can be currently procured from the AlphaEx exchange.
-                        </p>
+                        The XDC token can be currently procured from the various exchanges like <a href="https://www.kucoin.com/trade/XDC-USDT" target="_blank" style="color:#002752;">Kucoin</a>, <a href="https://www.gate.io/trade/XDC_USDT" target="_blank" style="color:#002752;">Gate.io</a>, <a href="https://trading.bitfinex.com/t/XDC:USD?type=exchange" target="_blank" style="color:#002752;">Bitfinex</a>, <a href="https://www.bitrue.com/trade/xdc_usdt" target="_blank" style="color:#002752;">Bitrue</a>, <a href="https://global.bittrex.com/Market/Index?MarketName=USDT-XDC" target="_blank" style="color:#002752;">Bittrex</a>, <a href="https://app.liquid.com/exchange/XDCUSDT" target="_blank" style="color:#002752;">Liquid</a> and more 40+ Exchanges. </p>
                     </div>
                     <div class="col-md-2 col-sm-2 col-xs-12">
                         &nbsp;
