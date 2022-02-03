@@ -91,7 +91,7 @@ include('inc/header.php') ?>
                         <div class="logo-box">
                         	<a href="https://bequant.io/xdc-to-usdt" target="_blank"><img src="assets/images/exchanges/bequant.png" class="img-fluid" alt="bequant.io" /></a>
                         </div>
-                        <div class="pairs"><a href="https://bequant.io/xdc-to-usdt" target="_blank">USDT</a></div>
+                        <div class="pairs"><a href="https://bequant.io/xdc-to-btc" target="_blank">BTC</a>, <a href="https://bequant.io/xdc-to-usdt" target="_blank">USDT</a></div>
                     </div>
                     <div class="exchange-box">
                         <div class="logo-box">
