@@ -538,13 +538,13 @@ include('inc/header.php') ?>
                     <a href="https://www.circle.com/blog/usdc-ecosystem-spotlight-idcm-crypto-exchange-along-with-alphawallet-changenow-loopring-salt-platform-and-xinfin-the-latest-companies-to-support-usdc" target="_blank"><img src="assets/images/home/partners/circle-logo.png" alt="Circle" class="img-responsive logoc"></a>
                 </div>
 
-                <div class="col-md-offset-1 col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.1s">
+                <!--<div class="col-md-offset-1 col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.1s">
                     <a href="https://www.tp.edu.sg/about-tp/media-centre/press-releases/tp-infotech-day-2018" target="_blank"><img src="assets/images/home/partners/temasek-logo.png" alt="Temasek" class="img-responsive logoc"></a>
                 </div>
-                <!--<div class="col-md-offset-1 col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1s">
+                <div class="col-md-offset-1 col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1s">
           <a href="https://www.prweb.com/releases/2018/01/prweb15141717.htm" target="_blank"><img src="assets/images/home/partners/enterprise-logo.png" alt="Enterprise" class="img-responsive logoc"></a>
       </div>-->
-                <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.2s">
+                <div class="col-md-offset-2 col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.2s">
                     <a href="https://www.ramco.com/newsroom/press/releases/feb-18/ramco-partners-with-xinfin-to-provide-blockchain-solutions/" target="_blank"><img src="assets/images/home/partners/ramco-logo.png" alt="Ramco" class="img-responsive logoc"></a>
                 </div>
                 <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.3s">
@@ -646,7 +646,7 @@ include('inc/header.php') ?>
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="2.1s">
                         <a href="https://www.ccn.com/xinfin-botswana-government-discuss-blockchain-solution-infrastructure-deficit/" target="_blank"><img src="assets/images/home/media/ccn-logo.png" alt="CCN" class="img-responsive margin-auto-lr"></a>
                     </div>
-                    <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="2.2s">
+                    <div class="col-md-offset-4 col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="2.2s">
                         <a href="https://www.prnewswire.com/news-releases/xinfin-kick-starts-blockchain-engineering-and-business-development-lab-at-university-of-california-berkeley-usa-685819171.html" target="_blank"><img src="assets/images/home/media/prncision-logo.png" alt="PR Newswire" class="img-responsive margin-auto-lr"></a>
                     </div>
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="2.2s">
