@@ -208,7 +208,7 @@ include('inc/header.php') ?>
             <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/travala-logo.png" alt="travala.com">
             </div>
-            <h3>Travala <span>Coming Soon!</span></h3>
+            <h3>Travala <span>Livenet</span></h3>
             <div class="btn-block mb-1">
             	<a href="https://www.travala.com" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
             </div>
