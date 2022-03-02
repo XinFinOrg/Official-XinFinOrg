@@ -29,6 +29,22 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/xdsea-logo.png" alt="xdsea.com">
+            </div>
+            <h3>XDSea <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://xdsea.com/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            </div>
+            <p><span class="fw-7">Utility:</span> NFT Marketplace</p>
+            <p>XDSea is the world's first and largest peer-to-peer decentralized marketplace for buying and selling NFTs built on the XDC Network (XRC) blockchain. NFTs stand for unique Non-Fungible Tokens collectible digital items such as in-game assets, avatars, trading cards, and art.</p>
+            <p>A non-fungible token, or NFT, is a new digital product that we're thrilled about at XDSea.</p>
+            <p>NFTs offer some intriguing new properties: they're one-of-a-kind, provably scarce, tradeable, and applicable to various applications.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/xswap-logo.png" alt="xspswap.finance">
             </div>
             <h3>XSwap <span>Coming Soon!</span></h3>
