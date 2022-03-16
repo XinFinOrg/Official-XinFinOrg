@@ -51,7 +51,7 @@ color:#000;
 						<h4>Your query is received and we will contact you soon.</h4>
                         <h4>In case of no communication please submit same form after 7 working days.</h4>
 						<div class="text-center mt-5 mb-3">
-                        	<a href="index"><button class="btn-hover color-1">BACK TO HOME</button></a>
+                        	<a href="https://xinfin.org/"><button class="btn-hover color-1">BACK TO HOME</button></a>
                     	</div>
 						
 						<div class="contact-info noHeight">				
