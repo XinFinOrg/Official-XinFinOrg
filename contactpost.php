@@ -64,8 +64,8 @@ require 'mail/PHPMailerAutoload.php';
 		//Set who the message is to be sent to
 		/* $mail->addAddress('amey@futureadymedia.com', 'Admin'); */
 		//$mail->addAddress('info@xinfin.org', 'Admin');
-		$mail->addAddress('dattatrayh@gmail.com', 'Admin');
-		$mail->addAddress('dummyweblog@gmail.com', 'Admin');
+		$mail->addAddress('rik@xinfin.org', 'Admin');
+		$mail->addAddress('atul@xinfin.org', 'Admin');
 		
 		//Set the subject line
 		$mail->Subject = $subject;
