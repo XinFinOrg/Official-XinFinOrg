@@ -22,7 +22,7 @@ require 'mail/PHPMailerAutoload.php';
         $message_to_user = "<div>
 		<p style='font-weight: normal;'>Hello, $name</p>
 		<p style='font-weight: normal;'>Thank you for contacting us! We will get back to you soon.</p>
-		<p style='font-weight: normal;'>Team Xinfin</p>
+		<p style='font-weight: 600;'>Team XinFin</p>
 	</div>";
 	
 	//Create a new PHPMailer instance
@@ -64,7 +64,7 @@ require 'mail/PHPMailerAutoload.php';
 		//Set who the message is to be sent to
 		/* $mail->addAddress('amey@futureadymedia.com', 'Admin'); */
 		//$mail->addAddress('info@xinfin.org', 'Admin');
-		$mail->addAddress('info@xinfin.org', 'Admin');
+		$mail->addAddress('dattatrayh@gmail.com', 'Admin');
 		
 		//Set the subject line
 		$mail->Subject = $subject;
