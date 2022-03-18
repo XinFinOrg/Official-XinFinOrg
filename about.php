@@ -95,7 +95,7 @@ include('inc/header.php') ?>
         <!--<div class="row" style="margin: 0px; ">
           <div class="col-md-6">-->
             <div class="row" style="margin: 0px;">
-              <div class="col-md-4 padd-lr-0 mb-1" id="wrapper1">
+              <!--<div class="col-md-4 padd-lr-0 mb-1" id="wrapper1">
                 <img src="assets/images/team/advisors/roger-ver.jpg" alt="" class="img-responsive team2">
                 <div class="overlay1">
                   <div class="text1">
@@ -104,7 +104,7 @@ include('inc/header.php') ?>
                     <p class="text-content">Take a look at any Who's Who in Bitcoin list and you'll find Roger Ver near the top of that list. Dubbed 'Bitcoin Jesus', Ver is a pioneer for Bitcoin adoption around the world. In 2011, Ver's company, MemoryDealers.com, became the first mainstream company to accept Bitcoin as a payment option.</p>
                   </div>
                 </div>
-              </div>
+              </div>-->
               
               <div class="col-md-4 padd-lr-0 mb-1" id="wrapper1">
                 <img src="assets/images/team/advisors/mate-tokay.jpg" alt="" class="img-responsive team2">
