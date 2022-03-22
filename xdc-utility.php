@@ -84,7 +84,7 @@ include('inc/header.php') ?>
             	<a href="https://metabloqs.com/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
             </div>
             <p><span class="fw-7">Utility:</span> Metaverse</p>
-            <p>Metabloqs is a virtual world powered by XDC Network that fits in with users' diverse needs whether you want to pick a skillset, engage into networking, or enjoy some time playing. Creating a unique ecosystem in the process, Metabloqs rolls out a world where users can create, own, and monetize their experiences using their token, the native utility token.</p>
+            <p>Metabloqs is a virtual world powered by XDC Network that fits in with users diverse needs whether you want to pick a skillset, engage into networking, or enjoy some time playing. Creating a unique ecosystem in the process, Metabloqs rolls out a world where users can create, own, and monetize their experiences using their token, the native utility token.</p>
             <p>Citizens of Metabloqs are provided with a unique passport to enter the metaverse and can purchase land and rare goods as NFTs and create their dream projects.</p>
         </div>
     </div>
