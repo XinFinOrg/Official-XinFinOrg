@@ -25,7 +25,7 @@ include('inc/header.php') ?>
 
 <section id="xdc-utility">
   <div class="container">
-  	<div class="row flex-row">
+  	<div class="row flex-row">    
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
@@ -39,89 +39,6 @@ include('inc/header.php') ?>
             <p>XDSea is the world's first and largest peer-to-peer decentralized marketplace for buying and selling NFTs built on the XDC Network (XRC) blockchain. NFTs stand for unique Non-Fungible Tokens collectible digital items such as in-game assets, avatars, trading cards, and art.</p>
             <p>A non-fungible token, or NFT, is a new digital product that we're thrilled about at XDSea.</p>
             <p>NFTs offer some intriguing new properties: they're one-of-a-kind, provably scarce, tradeable, and applicable to various applications.</p>
-        </div>
-    </div>
-    
-    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
-        <div class="usecase-box">
-            <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/xswap-logo.png" alt="xspswap.finance">
-            </div>
-            <h3>XSwap <span>Coming Soon!</span></h3>
-            <div class="btn-block mb-1">
-            	<a href="https://xspswap.finance/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
-                <a href="https://github.com/XSwapProtocol" target="_blank"><button class="btn-hover color-3"><i class="fa fa-github"></i> Github</button></a>
-            </div>
-            <p><span class="fw-7">Utility:</span> Decentralized Exchange for XRC20 tokens</p>
-            <p>XSwap protocol is an automated market maker for XRC20 tokens built on the Xinfin Network (XDC).</p>
-            <p>XSWAP is focused on building the challenger of BSC-based PancakeSwap (CAKE) and Ethereum-based Uniswap (UNI). As such, empowering crypto enthusiasts with secure, fast, and resource-efficient instruments for the peer-to-peer exchange of digital assets is its primary focuses.</p>
-            <p>Released on top of the XinFin XDC Network, XSWAP facilitates exchange between XRC-20 tokens (standard similar to ERC-20 on Ethereum and TRC-20 on Tron).</p>
-            <p>Besides a reliable exchange and liquidity ecosystem, XSWAP will also be a gateway to crypto markets for early-stage products of all sorts.</p>
-        </div>
-    </div>
-    
-    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
-        <div class="usecase-box">
-            <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/eurostratis-logo.png" alt="stasis.net">
-            </div>
-            <h3>EuroStasis <span>Coming Soon!</span></h3>
-            <div class="btn-block mb-1">
-            	<a href="https://stasis.net/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
-                <a href="https://github.com/stasisnet" target="_blank"><button class="btn-hover color-3"><i class="fa fa-github"></i> Github</button></a>
-            </div>
-            <p><span class="fw-7">Token Type:</span> Stable Coin EURO</p>
-            <p>Produced by STASIS, EURS was developed to tokenize the traditional fiat asset known around the world as the Euro. EURS mirrors the value of the Euro on the blockchain and is said to be supported by liquidity assurance mechanisms combining the benefits of a global fiat with the transparency, immutability, and efficiency of the blockchain.</p>
-            <p>According to their website, all tokens are fully backed by 1:1 collateral reserves. The company aims to promote transparency by providing daily statements from account providers along with weekly verifications and quarterly audits by a top 5 global accounting firm.</p>
-        </div>
-    </div>    
-    
-    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
-        <div class="usecase-box">
-            <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/usnota-logo.png" alt="usnota.com">
-            </div>
-            <h3>USNota <span>Livenet</span></h3>
-            <div class="btn-block mb-1">
-            	<a href="https://www.usnota.com/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
-            </div>
-            <p><span class="fw-7">Token Type:</span> Stable Coin USD</p>
-            <p>A digital token backed by fiat currency provides individuals and organizations with a robust and decentralized method of exchanging value while using a familiar accounting unit.</p>
-            <p>The innovation of blockchains is an auditable and cryptographically secured global ledger.</p>
-            <p>Asset-­backed token issuers and other market participants can take advantage of blockchain technology, along with embedded consensus systems, to transact in familiar, less volatile currencies and assets.</p>
-            <p>In order to maintain accountability and to ensure stability in exchange price, we propose a method to maintain a one-to­one reserve ratio between a cryptocurrency token, called USNOTA, and its associated real­world asset, fiat currency.</p>
-            <p>This method uses the XinFin Network (XDC) blockchain, Proof of Reserves, and other audit methods to prove that issued tokens are fully backed and reserved at all times.</p>
-        </div>
-    </div>    
-    
-    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
-        <div class="usecase-box">
-            <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/globiancedex-logo.png" alt="dex.globiance.com">
-            </div>
-            <h3>GlobianceDEX <span>Livenet</span></h3>
-            <div class="btn-block mb-1">
-            	<a href="https://dex.globiance.com/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
-            </div>
-            <p><span class="fw-7">Utility:</span> Decentralized Exchange for XRC20 tokens</p>
-            <p>GlobianceDEX is the first decentralized exchange built on the leading XDC (XinFin) blockchain. Developed as an Automated-market-maker ( AMM ) on XDC, where a collection of smart contracts are used to create liquidity pools, provide liquidity, and swap XRC-20 tokens. Globiance DEX offers incentives and rewards to all players as well as effective speediness, reduced costs, and enhanced performance.</p>
-            <p class="date">The goal of GlobianceDEX is to become a launchpad for all XRC20 tokens, offer cross-chain solutions, and provide a base for XDC based NFTs as an NFT marketplace.</p>
-        </div>
-    </div>
-    
-    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
-        <div class="usecase-box">
-            <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/gbex-logo.png" alt="eu.globiance.com/gbex-token">
-            </div>
-            <h3>GBEX <span>Livenet</span></h3>
-            <div class="btn-block mb-1">
-            	<a href="https://eu.globiance.com/gbex-token" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
-                <a href="https://explorer.xinfin.network/tokens/xdc34514748f86a8da01ef082306b6d6e738f777f5a" target="_blank"><button class="btn-hover color-3"><i class="fas fa-coins"></i> Token</button></a>
-            </div>
-            <p><span class="fw-7">Token Type:</span> Exchange utility token</p>
-            <p>Globiance is a group of regulated/licensed exchanges and financial institutions. GBEX is the house token of Globiance and is used on a daily basis on all Globiance Platforms worldwide.</p>
-            <p class="date">GBEX is a 3rd generation Exchange token with inbuilt functionalities which includes deflationary tokenomics, anti whale/dump protection, auto-rewarding holders.</p>
         </div>
     </div>
     
@@ -156,6 +73,104 @@ include('inc/header.php') ?>
             <p class="date">However, LedgerMail uses blockchain technology in which cryptographically encrypted messages & attachments are stored on shared blockchain ledgers. In detail, each email transferred is confirmed and validated like a blockchain transaction. In order to bring the utmost level of security and create a tamper-proof decentralized email environment.</p>
         </div>
     </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/metabloqs-logo.png" alt="metabloqs.com">
+            </div>
+            <h3>Metabloqs <span>Coming Soon!</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://metabloqs.com/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            </div>
+            <p><span class="fw-7">Utility:</span> Metaverse</p>
+            <p>Metabloqs is a virtual world powered by XDC Network that fits in with users' diverse needs whether you want to pick a skillset, engage into networking, or enjoy some time playing. Creating a unique ecosystem in the process, Metabloqs rolls out a world where users can create, own, and monetize their experiences using their token, the native utility token.</p>
+            <p>Citizens of Metabloqs are provided with a unique passport to enter the metaverse and can purchase land and rare goods as NFTs and create their dream projects.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/xswap-logo.png" alt="xspswap.finance">
+            </div>
+            <h3>XSwap <span>Coming Soon!</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://xspswap.finance/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+                <a href="https://github.com/XSwapProtocol" target="_blank"><button class="btn-hover color-3"><i class="fa fa-github"></i> Github</button></a>
+            </div>
+            <p><span class="fw-7">Utility:</span> Decentralized Exchange for XRC20 tokens</p>
+            <p>XSwap protocol is an automated market maker for XRC20 tokens built on the Xinfin Network (XDC).</p>
+            <p>XSwap is focused on building the challenger of BSC-based PancakeSwap (CAKE) and Ethereum-based Uniswap (UNI). As such, empowering crypto enthusiasts with secure, fast, and resource-efficient instruments for the peer-to-peer exchange of digital assets is its primary focuses.</p>
+            <p>Released on top of the XinFin XDC Network, XSwap facilitates exchange between XRC-20 tokens (standard similar to ERC-20 on Ethereum and TRC-20 on Tron).</p>
+            <p>Besides a reliable exchange and liquidity ecosystem, XSwap will also be a gateway to crypto markets for early-stage products of all sorts.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/eurostratis-logo.png" alt="stasis.net">
+            </div>
+            <h3>EuroStasis <span>Coming Soon!</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://stasis.net/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+                <a href="https://github.com/stasisnet" target="_blank"><button class="btn-hover color-3"><i class="fa fa-github"></i> Github</button></a>
+            </div>
+            <p><span class="fw-7">Token Type:</span> Stable Coin EURO</p>
+            <p>Produced by STASIS, EURS was developed to tokenize the traditional fiat asset known around the world as the Euro. EURS mirrors the value of the Euro on the blockchain and is said to be supported by liquidity assurance mechanisms combining the benefits of a global fiat with the transparency, immutability, and efficiency of the blockchain.</p>
+            <p>According to their website, all tokens are fully backed by 1:1 collateral reserves. The company aims to promote transparency by providing daily statements from account providers along with weekly verifications and quarterly audits by a top 5 global accounting firm.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/usnota-logo.png" alt="usnota.com">
+            </div>
+            <h3>USNota <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://www.usnota.com/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            </div>
+            <p><span class="fw-7">Token Type:</span> Stable Coin USD</p>
+            <p>A digital token backed by fiat currency provides individuals and organizations with a robust and decentralized method of exchanging value while using a familiar accounting unit.</p>
+            <p>The innovation of blockchains is an auditable and cryptographically secured global ledger.</p>
+            <p>Asset-­backed token issuers and other market participants can take advantage of blockchain technology, along with embedded consensus systems, to transact in familiar, less volatile currencies and assets.</p>
+            <p>In order to maintain accountability and to ensure stability in exchange price, we propose a method to maintain a one-to­one reserve ratio between a cryptocurrency token, called USNOTA, and its associated real­world asset, fiat currency.</p>
+            <p>This method uses the XinFin Network (XDC) blockchain, Proof of Reserves, and other audit methods to prove that issued tokens are fully backed and reserved at all times.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/globiancedex-logo.png" alt="dex.globiance.com">
+            </div>
+            <h3>GlobianceDEX <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://dex.globiance.com/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            </div>
+            <p><span class="fw-7">Utility:</span> Decentralized Exchange for XRC20 tokens</p>
+            <p>GlobianceDEX is the first decentralized exchange built on the leading XDC (XinFin) blockchain. Developed as an Automated-market-maker ( AMM ) on XDC, where a collection of smart contracts are used to create liquidity pools, provide liquidity, and swap XRC-20 tokens. Globiance DEX offers incentives and rewards to all players as well as effective speediness, reduced costs, and enhanced performance.</p>
+            <p class="date">The goal of GlobianceDEX is to become a launchpad for all XRC20 tokens, offer cross-chain solutions, and provide a base for XDC based NFTs as an NFT marketplace.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/gbex-logo.png" alt="eu.globiance.com/gbex-token">
+            </div>
+            <h3>GBEX <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://eu.globiance.com/gbex-token" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+                <a href="https://explorer.xinfin.network/tokens/xdc34514748f86a8da01ef082306b6d6e738f777f5a" target="_blank"><button class="btn-hover color-3"><i class="fas fa-coins"></i> Token</button></a>
+            </div>
+            <p><span class="fw-7">Token Type:</span> Exchange utility token</p>
+            <p>Globiance is a group of regulated/licensed exchanges and financial institutions. GBEX is the house token of Globiance and is used on a daily basis on all Globiance Platforms worldwide.</p>
+            <p class="date">GBEX is a 3rd generation Exchange token with inbuilt functionalities which includes deflationary tokenomics, anti whale/dump protection, auto-rewarding holders.</p>
+        </div>
+    </div>    
     
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
