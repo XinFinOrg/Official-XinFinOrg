@@ -642,6 +642,22 @@ include('inc/header.php') ?>
                     </div>
                 </div>
             </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+                <div class="wallet-item_block">
+                    <a href="https://infinitywallet.io/" class="wallet-item">
+                        <div class="wallet-logo-container">
+                            <img src="assets/images/exchanges/infinity-wallet/infinity-wallet.png" alt="Infinity Wallet" class="img-responsive" />
+                        </div>
+                    </a>
+                    <div class="wallet-text">
+                    <h5>Infinity Wallet</h5>
+                        <div class="wallet-apps">
+                            <a href="https://infinitywallet.io/download/" target="_blank" title="Web Wallet"><span class="wallet-apps-tag mobile">Web</span></a>
+                            <!--<a href="https://infinitywallet.io/download/" target="_blank" title="Android Wallet"><span class="wallet-apps-tag mobile">Android</span></a>-->
+                        </div>
+                    </div>
+                </div>
+            </div>
 		</div>
         </div>
                     

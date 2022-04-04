@@ -759,7 +759,7 @@ include('inc/header.php') ?>
             </div>
             
             
-		<div class="row flex-row">
+		<div class="row flex-row">            
             <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
                 <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
                     <a href="https://guarda.com/" class="wallet-item">
@@ -921,6 +921,22 @@ include('inc/header.php') ?>
                     <h5>SimpleHold Wallet</h5>
                         <div class="wallet-apps">
                             <a href="https://simplehold.io/" target="_blank" title="Trezor Hardware Wallet"><span class="wallet-apps-tag mobile">Browser Extension Wallet</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                    <a href="https://infinitywallet.io/" class="wallet-item">
+                        <div class="wallet-logo-container">
+                            <img src="assets/images/exchanges/infinity-wallet/infinity-wallet.png" alt="Infinity Wallet" class="img-responsive" />
+                        </div>
+                    </a>
+                    <div class="wallet-text">
+                    <h5>Infinity Wallet</h5>
+                        <div class="wallet-apps">
+                            <a href="https://infinitywallet.io/download/" target="_blank" title="Web Wallet"><span class="wallet-apps-tag mobile">Web</span></a>
+                            <!--<a href="https://infinitywallet.io/download/" target="_blank" title="Android Wallet"><span class="wallet-apps-tag mobile">Android</span></a>-->
                         </div>
                     </div>
                 </div>
