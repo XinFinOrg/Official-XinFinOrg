@@ -46,7 +46,7 @@ include('inc/header.php') ?>
                     </div>
                     <div class="content">
                         <h3>XDC Foundation Bounties</h3>
-                        <h4 class="highlight small">From 10% to 200% as per category applied</h4>
+                        <h4 class="highlight small">From 10% to 200% XDC as per category applied</h4>
                         <p class="text-muted">If you are working for XDC Foundation CI team, please claim bounties here.</p>
                     </div>
                     <div class="btn-block mb-1">
@@ -69,7 +69,7 @@ include('inc/header.php') ?>
                     </div>
                     <div class="content">
                         <h3>Create XDC Explorer Bounty</h3>
-                        <h4 class="highlight small">Up to 140% of technical integration cost</h4>
+                        <h4 class="highlight small">Up to 140% XDC of technical integration cost</h4>
                         <p class="text-muted">Purpose: To Create Multiple XDC Network Explorer.</p>
                     </div>
                     <div class="btn-block mb-1">
@@ -92,7 +92,7 @@ include('inc/header.php') ?>
                     </div>
                     <div class="content">
                         <h3>Masternode (One-click node setup) Bounty</h3>
-                        <h4 class="highlight small">Up to 140% of technical integration cost</h4>
+                        <h4 class="highlight small">Up to 140% XDC of technical integration cost</h4>
                         <p class="text-muted">Create easy One-click XinFin-Node setup on AWS, Azure, Google Cloud, Oracle Cloud, IBM Cloud.</p>
                         <!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>-->
                     </div>
@@ -116,7 +116,7 @@ include('inc/header.php') ?>
                     </div>
                     <div class="content">
                         <h3>Introduction/Distribution Bounty</h3>
-                        <h4 class="highlight small">Up to 10% of the bounty distribution</h4>
+                        <h4 class="highlight small">Up to 10% XDC of the bounty distribution</h4>
                         <p class="text-muted">Are you a XinFin (XDC) Network community member looking to introduce the bounties to the right institutions?</p>
                         <!--<div class="progress-labels flex-container space-between"><div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div><span class="status pull-right">RUNNING</span></div>-->
                     </div>
@@ -140,7 +140,7 @@ include('inc/header.php') ?>
                     </div>
                     <div class="content">
                         <h3>Special Projects Bounty</h3>
-                        <h4 class="highlight small">Up to 200% of the project fees</h4>
+                        <h4 class="highlight small">Up to 140% XDC of the project fees</h4>
                         <p class="text-muted">Are you a software development company working with Government, Central Banks, or Fortune 500 institutions?</p>
                     </div>
                     <div class="btn-block mb-1">
@@ -163,7 +163,7 @@ include('inc/header.php') ?>
                     </div>
                     <div class="content">
                         <h3>Jurisdiction specific Legal Opinion Fees Bounty</h3>
-                        <h4 class="highlight small">Up to 140% of the legal opinion fees in your jurisdiction</h4>
+                        <h4 class="highlight small">Up to 140% XDC of the legal opinion fees in your jurisdiction</h4>
                         <p class="text-muted">If you are a financial institution/Fintech or enterprise looking to work with XDC to ...</p>
                     </div>
                     <div class="btn-block mb-1">
@@ -186,7 +186,7 @@ include('inc/header.php') ?>
                     </div>
                     <div class="content">
                         <h3>Pre-Approved Bounty<br /></h3>
-                        <h4 class="highlight small">Up To 140% XDC of cost incurred</h4>
+                        <h4 class="highlight small">Up to 140% XDC of cost incurred</h4>
                         <p class="text-muted">Apply for any wallet, Custodian or Exchange integration or Building dapps on XDC Blockchain Network.</p>
                     </div>
                     <div class="btn-block mb-1">
@@ -209,7 +209,7 @@ include('inc/header.php') ?>
                     </div>
                     <div class="content">
                         <h3>Crypto Custodian Integration Fees Bounty</h3>
-                        <h4 class="highlight small">Up to 140% of the crypto custodian Technical Integration Fees</h4>
+                        <h4 class="highlight small">Up to 140% XDC of the Crypto custodian Technical Iintegration fees</h4>
                         <p class="text-muted">Want to see XDC listed on your favourite Cryptocurrency asset custodian?</p>
                     </div>
                     <div class="btn-block mb-1">
@@ -233,7 +233,7 @@ include('inc/header.php') ?>
                     </div>
                     <div class="content">
                         <h3>Hardware/Software Wallet Integration Fees Bounty</h3>
-                        <h4 class="highlight small">Up to 140% of the hardware/software wallet Technical Integration Fees</h4>
+                        <h4 class="highlight small">Up to 140% XDC of the hardware/software wallet Technical Integration fees</h4>
                         <p class="text-muted">Want to see XDC listed on your favourite hardware/software wallet?</p>
                     </div>
                     <div class="btn-block mb-1">
@@ -256,7 +256,7 @@ include('inc/header.php') ?>
                     </div>
                     <div class="content">
                         <h3>Exchange Integration Fees Bounty</h3>
-                        <h4 class="highlight small">Up to 140% of the Exchange Technical Integration Fees</h4>
+                        <h4 class="highlight small">Up to 140% XDC of the Exchange Technical Integration fees</h4>
                         <p class="text-muted">Want to see XDC listed on your favourite Digital Asset Exchange?</p>
                     </div>
                     <div class="btn-block mb-1">
@@ -786,6 +786,7 @@ sudo docker-compose -f docker-services.yml up -d
                                     <li>The institution should be strategic in expanding the adoption of XDC Network.</li>
                                     <li>Include <a href="mailto:info@xinfin.org">info@xinfin.org</a> in your communication with the partners</li>
                                     <li>XDC Governance Committee reserves the right to accept or reject bounty distribution.</li>
+                                    <li>Post on any social media about your tasks and bounty applied in detail. Add the link of your social media post in the (Description & Proof Links or Google Drive Link with all possible details)</li>
                                 </ol>
                             </div>
                             <p class="text-small">
@@ -816,11 +817,7 @@ sudo docker-compose -f docker-services.yml up -d
                     </div>
                     <div class="modal-body">
                         <div class="bounty">
-                            <p>
-                                Are you a software development company working with Government, Central Banks, or Fortune 500 institutions? If you choose to build your solution on XDC Network & qualify for a special project then you can
-                                secure up to 200% reimbursement on your project fees in XDC. I.e. if you incur a cost of USD 25,000 for the project working with Central banks, Governments, or Fortune 500 companies, then your bounty will be
-                                up to USD 50,000 equivalent to XDC as per market rate.
-                            </p>
+                            <p>Are you a software development company working with Government, Central Banks, or Fortune 500 institutions? If you choose to build your solution on XDC Network & qualify for a special project then you can secure up to 140% reimbursement on your project fees in XDC. I.e. if you incur a cost of USD 25,000 for the project working with Central banks, Governments, or Fortune 500 companies, then your bounty will be up to USD 35,000 equivalent to XDC as per market rate.</p>
                             <p class="sub-header-small mb-2">Rules:</p>
                             <div class="orderList">
                                 <ol>
@@ -829,7 +826,8 @@ sudo docker-compose -f docker-services.yml up -d
                                     <li>The project should preferably be open source.</li>
                                     <li>Include <a href="mailto:info@xinfin.org">info@xinfin.org</a> in your communication with the customers.</li>
                                     <li>Share estimate budget for the project with XinFin team and get pre-approval on the budget.</li>
-                                    <li>You will get reimbursement for up to 200% of the fees incurred in your wallet.</li>
+                                    <li>You will get reimbursement for up to 140% of the fees incurred in your wallet.</li>
+                                    <li>Post on any social media about your tasks and bounty applied in detail. Add the link of your social media post in the (Description & Proof Links or Google Drive Link with all possible details)</li>
                                 </ol>
                             </div>
                             <div class="btn-block mt-3 mb-1">
@@ -868,6 +866,7 @@ sudo docker-compose -f docker-services.yml up -d
                                     <li>Include <a href="mailto:info@xinfin.org">info@xinfin.org</a> in your communication with the law firm.</li>
                                     <li>Get an invoice for legal opinion for XDC network.</li>
                                     <li>You will get reimbursement for upto 140% of the fees incurred in your wallet.</li>
+                                    <li>Post on any social media about your tasks and bounty applied in detail. Add the link of your social media post in the (Description & Proof Links or Google Drive Link with all possible details)</li>
                                 </ol>
                             </div>
                             <div class="btn-block mt-3 mb-1">
@@ -932,6 +931,7 @@ sudo docker-compose -f docker-services.yml up -d
                                     <li>Include <a href="mailto:info@xinfin.org">info@xinfin.org</a> in your communication with wallet technical integration team.</li>
                                     <li>Get an invoice for Tech integration for XDC network.</li>
                                     <li>You will get upto 140% of the tech integration fees in your wallet.</li>
+                                    <li>Post on any social media about your tasks and bounty applied in detail. Add the link of your social media post in the (Description & Proof Links or Google Drive Link with all possible details)</li>
                                 </ol>
                             </div>
                             <div class="btn-block mt-3 mb-1">
@@ -969,6 +969,7 @@ sudo docker-compose -f docker-services.yml up -d
                                     <li>Include <a href="mailto:info@xinfin.org">info@xinfin.org</a> in your communication with wallet technical integration team.</li>
                                     <li>Get an invoice for Tech integration for XDC network.</li>
                                     <li>You will get upto 140% of the tech integration fees in your wallet.</li>
+                                    <li>Post on any social media about your tasks and bounty applied in detail. Add the link of your social media post in the (Description & Proof Links or Google Drive Link with all possible details)</li>
                                 </ol>
                             </div>
                             <div class="btn-block mt-3 mb-1">
@@ -1006,6 +1007,7 @@ sudo docker-compose -f docker-services.yml up -d
                                     <li>Include <a href="mailto:info@xinfin.org">info@xinfin.org</a> in your communication with exchange technical integration team.</li>
                                     <li>Get an invoice for Tech integration for XDC network.</li>
                                     <li>You will get upto 140% of the tech integration fees in your wallet.</li>
+                                    <li>Post on any social media about your tasks and bounty applied in detail. Add the link of your social media post in the (Description & Proof Links or Google Drive Link with all possible details)</li>
                                 </ol>
                             </div>
                             <div class="btn-block mt-3 mb-1">
@@ -1039,6 +1041,7 @@ sudo docker-compose -f docker-services.yml up -d
                                     <li>Tweet in reply to this bounty along with XDC address and tag <strong>@XinFin_Official</strong>.</li>
                                     <li>The best 5 implementations will get 1 Million XDC bounties directly in the wallet.</li>
                                     <li>Sample integration with XDC Apothem testnet: <a href="https://bancor.xdc.network/" target="_blank">https://bancor.xdc.network/</a></li>
+                                    <li>Post on any social media about your tasks and bounty applied in detail. Add the link of your social media post in the (Description & Proof Links or Google Drive Link with all possible details)</li>
                                 </ol>
                             </div>
                             <div class="btn-block mt-3 mb-1">
@@ -1083,6 +1086,7 @@ sudo docker-compose -f docker-services.yml up -d
                                     <li>Priority for the people following XinFin (10 points).</li>
                                     <li>Community members will be allowed to take help from Meme Generator site like <a href="https://imgflip.com/memegenerator" target="_blank">https://imgflip.com/memegenerator</a> etc.</li>
                                     <li>Committee Team Reserves to reject any Bounty entry.</li>
+                                    <li>Post on any social media about your tasks and bounty applied in detail. Add the link of your social media post in the (Description & Proof Links or Google Drive Link with all possible details)</li>
                                 </ol>
                             </div>
 
@@ -1128,6 +1132,7 @@ sudo docker-compose -f docker-services.yml up -d
                                     <li>The committee reserves all rights to reject a bounty claim.</li>
                                     <li>The team will reject the application if the same candidate applies multiple times.</li>
                                     <li>Bounty will be given as an XDC coin</li>
+                                    <li>Post on any social media about your tasks and bounty applied in detail. Add the link of your social media post in the (Description & Proof Links or Google Drive Link with all possible details)</li>
                                 </ol>
                             </div>
 
@@ -1255,10 +1260,8 @@ sudo docker-compose -f docker-services.yml up -d
                                     <li>When duplicates occur, we only award the first report that was received.</li>
                                     <li>Multiple vulnerabilities caused by one underlying issue will be awarded one bounty.</li>
                                     <li>Phishing, Vishing, Smishing is prohibited.</li>
-                                    <li>
-                                        Make a good faith effort to avoid privacy violations, destruction of data, and interruption or degradation of our service. Only interact with accounts you own or with explicit permission of the
-                                        account holder.
-                                    </li>
+                                    <li>Make a good faith effort to avoid privacy violations, destruction of data, and interruption or degradation of our service. Only interact with accounts you own or with explicit permission of the account holder.</li>
+                                    <li>Post on any social media about your tasks and bounty applied in detail. Add the link of your social media post in the (Description & Proof Links or Google Drive Link with all possible details)</li>
                                 </ol>
                             </div>
 
