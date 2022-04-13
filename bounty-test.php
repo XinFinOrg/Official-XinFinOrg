@@ -322,7 +322,7 @@ include('inc/header.php') ?>
                     </div>
                     <div class="content">
                         <h3>XinFin Android Wallet Bug Bounty</h3>
-                        <h4 class="highlight">Up to 200 XDC</h4>
+                        <h4 class="highlight">Up to 200 USD worth XDC</h4>
                         <p class="text-muted">Explore vulnerabilities in XinFin Android Wallet and get rewards.</p>
                     </div>
                     <div class="btn-block mb-1">
@@ -345,7 +345,7 @@ include('inc/header.php') ?>
                     </div>
                     <div class="content">
                         <h3>Bug Bounty Program for testing XinFin Extension Wallet: XinPay</h3>
-                        <h4 class="highlight">Up to 200 XDC</h4>
+                        <h4 class="highlight">Up to 200 USD worth XDC</h4>
                         <p class="text-muted">Test XinPay for any errors, bugs on XinFin TestNet and provide ideas to enhance eWallet.</p>
                     </div>
                     <div class="btn-block mb-1">
