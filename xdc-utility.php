@@ -77,24 +77,9 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/metabloqs-logo.png" alt="metabloqs.com">
-            </div>
-            <h3>Metabloqs <span>Coming Soon!</span></h3>
-            <div class="btn-block mb-1">
-            	<a href="https://metabloqs.com/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
-            </div>
-            <p><span class="fw-7">Utility:</span> Metaverse</p>
-            <p>Metabloqs is a virtual world powered by XDC Network that fits in with users diverse needs whether you want to pick a skillset, engage into networking, or enjoy some time playing. Creating a unique ecosystem in the process, Metabloqs rolls out a world where users can create, own, and monetize their experiences using their token, the native utility token.</p>
-            <p>Citizens of Metabloqs are provided with a unique passport to enter the metaverse and can purchase land and rare goods as NFTs and create their dream projects.</p>
-        </div>
-    </div>
-    
-    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
-        <div class="usecase-box">
-            <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/xswap-logo.png" alt="xspswap.finance">
             </div>
-            <h3>XSwap <span>Coming Soon!</span></h3>
+            <h3>XSwap <span>Livenet</span></h3>
             <div class="btn-block mb-1">
             	<a href="https://xspswap.finance/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
                 <a href="https://github.com/XSwapProtocol" target="_blank"><button class="btn-hover color-3"><i class="fa fa-github"></i> Github</button></a>
@@ -104,6 +89,21 @@ include('inc/header.php') ?>
             <p>XSwap is focused on building the challenger of BSC-based PancakeSwap (CAKE) and Ethereum-based Uniswap (UNI). As such, empowering crypto enthusiasts with secure, fast, and resource-efficient instruments for the peer-to-peer exchange of digital assets is its primary focuses.</p>
             <p>Released on top of the XinFin XDC Network, XSwap facilitates exchange between XRC-20 tokens (standard similar to ERC-20 on Ethereum and TRC-20 on Tron).</p>
             <p>Besides a reliable exchange and liquidity ecosystem, XSwap will also be a gateway to crypto markets for early-stage products of all sorts.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/metabloqs-logo.png" alt="metabloqs.com">
+            </div>
+            <h3>Metabloqs <span>Coming Soon!</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://metabloqs.com/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            </div>
+            <p><span class="fw-7">Utility:</span> Metaverse</p>
+            <p>Metabloqs is a virtual world powered by XDC Network that fits in with users diverse needs whether you want to pick a skillset, engage into networking, or enjoy some time playing. Creating a unique ecosystem in the process, Metabloqs rolls out a world where users can create, own, and monetize their experiences using their token, the native utility token.</p>
+            <p>Citizens of Metabloqs are provided with a unique passport to enter the metaverse and can purchase land and rare goods as NFTs and create their dream projects.</p>
         </div>
     </div>
     
