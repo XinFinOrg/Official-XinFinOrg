@@ -56,16 +56,16 @@ require 'mail/PHPMailerAutoload.php';
 		//Username to use for SMTP authentication
 		$mail->Username = "xinfinweb@mail-b01.cloudmailbox.in";  /* your username here */
 		//Password to use for SMTP authentication
-		$mail->Password = "M@C@Xf#$842";  /* your password here */
+		$mail->Password = "X!nF@w3bORg#$743";  /* your password here */
 		//Set who the message is to be sent from
 		$mail->setFrom("info@xinfin.org" ,"Contact Enquiry | Xinfin");
 		//Set an alternative reply-to address
 		$mail->addReplyTo($email, $name);
 		//Set who the message is to be sent to
 		/* $mail->addAddress('amey@futureadymedia.com', 'Admin'); */
-		$mail->addAddress('info@xinfin.org', 'Admin');
+		//$mail->addAddress('info@xinfin.org', 'Admin');
 		$mail->addAddress('rik@xinfin.org', 'Admin');
-		//$mail->addAddress('atul@xinfin.org', 'Admin');
+		$mail->addAddress('atul@xinfin.org', 'Admin');
 		
 		//Set the subject line
 		$mail->Subject = $subject;
