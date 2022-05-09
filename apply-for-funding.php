@@ -12,10 +12,15 @@ include('inc/header.php') ?>
 <section id="contactbanner">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-12 col-sm-12 col-xs-12 bannertext">
-				<h1>Apply For Funding</h1>
-				<p>How to Fund Your Next Blockchain Project?</p>
-			</div>
+			<div class="bannertext">
+                <div class="col-lg-9 col-md-8 col-sm-12 col-xs-12">
+                    <h1>Apply For Funding</h1>
+                    <p class="mb-0">How to Fund Your Next Blockchain Project?</p>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-12 col-xs-12">
+                    <p class="sub-header mt-5"><a href="https://forms.gle/AQdrtiR5RPJGEuA36" target="_blank"><button class="btn-hover color-1 btn-xl">Apply For Funding</button></a></p>
+                </div>
+            </div>
 		</div>
 	</div>
 </section>
@@ -30,7 +35,7 @@ include('inc/header.php') ?>
                 <div class="row" style="margin-top: 0%; padding-bottom: 0px;">
                         <div class="col-md-12 col-sm-12 col-xs-12">
                             <p>Here is the XDC Ecosystem Co-Builder Plan. XinFin's XDC Network aims at encouraging and supporting XDC Network-based Startups, DApp developers, freelance developers, and Blockchain VC to build the XDC ecosystem, providing them with a platform for long-term communication and cooperation with XinFin Network-based EcoSystem.</p>
-                            <p class="link-break-out"><strong>This Eco System support is only to build and promote using XDC blockchain Networks and tools given at the link: <a href="https://xinfin.org/xdc-chain-network-tools-and-documents">https://xinfin.org/xdc-chain-network-tools-and-documents</a></strong></p>
+                            <p class="link-break-out"><strong>This Eco System support is only to build and promote using XDC blockchain Network and tools given at the link: <a href="https://xinfin.org/xdc-chain-network-tools-and-documents">https://xinfin.org/xdc-chain-network-tools-and-documents</a></strong></p>
                             <p class="mb-1"><strong>What We Can Offer</strong></p>
                             <ul class="mb-3">
                                 <li>Capital Support</li>
@@ -56,7 +61,7 @@ include('inc/header.php') ?>
 							
 							
 							<div class="row flex-row icons-pop-section">
-								<div class="col-md-12"><p class="sub-header mb-3 text-center">To be considered for funding, please send a full business plan to in this given format:</p></div>
+								<div class="col-md-12"><p class="sub-header mb-3 text-center">To be considered for funding, please send a full business plan in this given format:</p></div>
 								<div class="col-sm-6">
 									<div class="flex-layout">
 										<div class="pop-ico"><i class="fa fa-check"></i></div>
@@ -103,12 +108,12 @@ include('inc/header.php') ?>
 								</div>
 							</div>
 							
-                            <p class="sub-header mt-5">Apply for the Funding:</p>
+                            <h2 class="sub-header text-center mt-5"><a href="https://forms.gle/AQdrtiR5RPJGEuA36" target="_blank"><button class="btn-hover color-1 btn-xl">Apply For Funding</button></a></h2>
 							
                         </div>
                     </div>
                     
-                <div class="row">
+                <!--<div class="row">
                     <div class="col-md-7">
                         <form action="#" method="" id="contactForm">
                             <div class="form-group">
@@ -123,18 +128,18 @@ include('inc/header.php') ?>
                                 <label for="email">Contact Number (required)</label>
                                 <input type="text" class="form-control" id="contact_number" name="contact" maxlength="10" minlength="10" onkeypress="return isNumber(event)">
                             </div>
-                            <!--<div class="form-group">
-                            	<label for="supporting-document">Upload your Pitch Deck here <span>(.pdf, .xls, .doc, .ppt, images upto 5MBmax)</span></label>
-                                    <div class="input-group">
-                                        <span class="input-group-btn">
-                                        <span class="btn btn-primary" onClick="$(this).parent().find('input[type=file]').click();">Browse</span>
-                                        <input name="uploaded_file" id = "uploaded_file"onChange="$(this).parent().parent().find('.form-control').html($(this).val().split(/[\\|/]/).pop());" accept=".pdf" style="display: none;" type="file">
-                                        </span>
-                                        <span class="form-control"></span>
-                                    </div>
-                                    <label for="supporting-document" style="display:none" class ="error"id="error">Please upload correct file format.</label>
-                                    <label for="supporting-document" style="display:none" class="error"id="error1">Images upto 5MB max</label>
-                            </div>-->
+                                            <!--<div class="form-group">
+                                                <label for="supporting-document">Upload your Pitch Deck here <span>(.pdf, .xls, .doc, .ppt, images upto 5MBmax)</span></label>
+                                                    <div class="input-group">
+                                                        <span class="input-group-btn">
+                                                        <span class="btn btn-primary" onClick="$(this).parent().find('input[type=file]').click();">Browse</span>
+                                                        <input name="uploaded_file" id = "uploaded_file"onChange="$(this).parent().parent().find('.form-control').html($(this).val().split(/[\\|/]/).pop());" accept=".pdf" style="display: none;" type="file">
+                                                        </span>
+                                                        <span class="form-control"></span>
+                                                    </div>
+                                                    <label for="supporting-document" style="display:none" class ="error"id="error">Please upload correct file format.</label>
+                                                    <label for="supporting-document" style="display:none" class="error"id="error1">Images upto 5MB max</label>
+                                            </div>
                             <div class="form-group">
                                 <label for="email">Comments <span>(Pitch Deck URL, Project Document URL Etc.)</span></label>
                                 <textarea class="form-control" id="comments" name="comments"></textarea>
@@ -146,7 +151,7 @@ include('inc/header.php') ?>
                             <button type="button" id="contactBtn" class="btn-hover color-1 submitbtn">Submit</button>
                         </form>
                     </div>					
-                </div>
+                </div>-->
                 <br/>
                 <br/>
             </div>

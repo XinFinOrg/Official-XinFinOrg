@@ -62,10 +62,10 @@ require 'mail/PHPMailerAutoload.php';
 		//Set an alternative reply-to address
 		$mail->addReplyTo($email, $name);
 		//Set who the message is to be sent to
-		$mail->addAddress('dattatrayh@gmail.com', 'Admin');
+		//$mail->addAddress('dattatrayh@gmail.com', 'Admin');
 		//$mail->addAddress('info@xinfin.org', 'Admin');
-		//$mail->addAddress('rik@xinfin.org', 'Admin');
-		//$mail->addAddress('atul@xinfin.org', 'Admin');
+		$mail->addAddress('rik@xinfin.org', 'Admin');
+		$mail->addAddress('atul@xinfin.org', 'Admin');
 		
 		//Set the subject line
 		$mail->Subject = $subject;
