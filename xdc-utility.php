@@ -29,6 +29,20 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/impel-logo.png" alt="xdsea.com">
+            </div>
+            <h3>Impel <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://www.impel.global/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            </div>
+            <p>ISO 20022 compliant messaging: Redefining the standard for cross-border payments and financial messaging system on XDC Network.</p>
+            <p>Impel is a fintech innovator that uses blockchain technology to deliver financial messaging, payments, and a bridge to the R3 Corda platform to future-facing banks and fintech. It provides a cost-effective alternative to legacy financial messaging solutions like SWIFT and SEPA. It uses a decentralized, enterprise-ready hybrid blockchain to securely and quickly send financial messages and payments and enable instant settlement.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/xdsea-logo.png" alt="xdsea.com">
             </div>
             <h3>XDSea <span>Livenet</span></h3>
