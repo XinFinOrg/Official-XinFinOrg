@@ -26,7 +26,7 @@ include('inc/header.php') ?>
 
                 <div id="roadmap-for-2021" class="tab-pane fade in active">
                 <div class="roadmap-details">
-                    <p class="fs-20 pt-2 mb-5"><span class="fw-7">Roadmap by XDC Foundation:</span> <a href="https://xdcroadmap.org/">https://xdcroadmap.org/</a></p>
+                    <p class="link-break-out text-left fs-20 mb-4"><span class="fw-7">Roadmap by XDC Foundation:</span> <a href="https://xdcroadmap.org/">https://xdcroadmap.org/</a></p>
                     <p class="sub-header fs-28">Roadmap for 2021</p>
                     <p class="fw-7 fs-20 pt-2">Background:</p>
                     <p><b>Bitcoin's phenomenal rise</b> backed by institutional adoption has confirmed the appetite for <b>digital assets by mainstream markets and investors.</b> Today, Bitcoin is positioned as a <b>scarce digital asset with very high liquidity,</b> and this liquidity, mining, and adoption are managed in a fairly decentralized manner by its community members.</p>
