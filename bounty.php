@@ -46,7 +46,7 @@ include('inc/header.php') ?>
                     </div>
                     <div class="content">
                         <h3>XDC Foundation Bounties</h3>
-                        <h4 class="highlight small">From 10% to 200% XDC as per category applied</h4>
+                        <h4 class="highlight small">From 10% to 40% XDC as per category applied</h4>
                         <p class="text-muted">If you are working for XDC Foundation CI team, please claim bounties here.</p>
                     </div>
                     <div class="btn-block mb-1">
