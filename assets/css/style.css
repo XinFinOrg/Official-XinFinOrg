@@ -68,6 +68,12 @@ p
 h4
 {font-size:16px;}
 
+.col-center {
+	float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 .btn-xl {font-size: 20px!important;}
 
 /* Navbar style*/
@@ -1196,9 +1202,21 @@ a.wallet-item:focus, a.wallet-item:hover, a.wallet-item:visited {
 	-webkit-box-shadow: 0 2px 5px 3px rgba(12, 21, 46, 0.1);
     box-shadow: 0 2px 5px 3px rgba(12, 21, 46, 0.1)
 }
-
-
-
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+.custodian-box_block.mt-30 {margin-top: 50px;}
+@media screen and (max-width: 991px) {
+	.custodian-box_block.mt-30 {margin-top: 30px;}
+}
+@media only screen and (max-width: 768px) {
+	.custodian-box_block .text-left {text-align: center!important;}
+	.vertical-align {
+    	display: block;
+    	align-items: center;
+	}
+}
 
 
 

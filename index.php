@@ -761,7 +761,7 @@ include('inc/header.php') ?>
             
 		<div class="row flex-row">            
             <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
-                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.4s">
                     <a href="https://guarda.com/" class="wallet-item">
                         <div class="wallet-logo-container">
                             <img src="assets/images/exchanges/guarda-wallet/guarda-wallet.png" alt="Gaurda Wallet" class="img-responsive" />
@@ -782,7 +782,7 @@ include('inc/header.php') ?>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
-                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.8s">
+                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.6s">
                     <a href="https://freewallet.org/" class="wallet-item">
                         <div class="wallet-logo-container">
                             <img src="assets/images/exchanges/freewallet/freewallet.png" alt="Freewallet" class="img-responsive" />
@@ -800,7 +800,7 @@ include('inc/header.php') ?>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
-                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.6s">
+                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.8s">
                     <a href="https://crypterium.com/" class="wallet-item">
                         <div class="wallet-logo-container">
                             <img src="assets/images/exchanges/crypterium-wallet/crypterium-wallet.png" alt="Crypterium Wallet" class="img-responsive" />
@@ -817,7 +817,7 @@ include('inc/header.php') ?>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
-                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.9s">
+                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1s">
                     <a href="https://xcelpay.io/" class="wallet-item">
                         <div class="wallet-logo-container">
                             <img src="assets/images/exchanges/xcelpay/xcelpay.png" alt="XcelPay" class="img-responsive" />
@@ -833,7 +833,7 @@ include('inc/header.php') ?>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
-                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1s">
+                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.2s">
                     <a href="https://lumiwallet.com/" class="wallet-item">
                         <div class="wallet-logo-container">
                             <img src="assets/images/exchanges/lumi-wallet/lumi-wallet.png" alt="Lumi Wallet" class="img-responsive" />
@@ -849,7 +849,7 @@ include('inc/header.php') ?>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
-                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.1s">
+                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.4s">
                     <a href="https://dcentwallet.com/products/BiometricWallet" class="wallet-item">
                         <div class="wallet-logo-container">
                             <img src="assets/images/exchanges/dcent-wallet/dcent-wallet.png" alt="D'CENT Wallet" class="img-responsive" />
@@ -866,7 +866,7 @@ include('inc/header.php') ?>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
-                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.2s">
+                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.6s">
                     <a href="https://bitfi.com/" class="wallet-item">
                         <div class="wallet-logo-container">
                             <img src="assets/images/exchanges/bitfi/bitfi.png" alt="Bitfi Wallet" class="img-responsive" />
@@ -881,7 +881,7 @@ include('inc/header.php') ?>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
-                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.3s">
+                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.8s">
                     <a href="https://www.ellipal.com/" class="wallet-item">
                         <div class="wallet-logo-container">
                             <img src="assets/images/exchanges/ellipal-wallet/ellipal-wallet.png" alt="ELLIPAL Cold Wallet" class="img-responsive" />
@@ -896,7 +896,7 @@ include('inc/header.php') ?>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
-                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.4s">
+                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="2s">
                     <a href="https://trezor.io/" class="wallet-item">
                         <div class="wallet-logo-container">
                             <img src="assets/images/exchanges/trezor-wallet/trezor-wallet.png" alt="Trezor Hardware Wallet" class="img-responsive" />
@@ -911,7 +911,7 @@ include('inc/header.php') ?>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
-                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.5s">
+                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="2.2s">
                     <a href="https://simplehold.io/" class="wallet-item">
                         <div class="wallet-logo-container">
                             <img src="assets/images/exchanges/simplehold-wallet/simplehold-wallet.png" alt="SimpleHold Wallet" class="img-responsive" />
@@ -926,7 +926,7 @@ include('inc/header.php') ?>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
-                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="2.4s">
                     <a href="https://infinitywallet.io/" class="wallet-item">
                         <div class="wallet-logo-container">
                             <img src="assets/images/exchanges/infinity-wallet/infinity-wallet.png" alt="Infinity Wallet" class="img-responsive" />
@@ -1113,33 +1113,106 @@ include('inc/header.php') ?>
         <section id="get-started-with" class="bg-light-grey">
             <div class="container">
                 <div class="row mb-5">
-                <div class="col-lg-12">
-                    <div class="custodian-box_block">
-                        <div class="row align-items-center">
-                            <div class="col-lg-12">
-                                <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                                    <h1 class="pb-0 mb-2">Institutional Custodian</h1>
+                    <!--<div class="col-lg-8 col-md-8">
+                        <div class="custodian-box_block">
+                            <div class="row align-items-center">
+                                <div class="col-lg-12">
+                                    <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                                        <h1 class="pb-0 mb-2">Institutional Custodian</h1>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-lg-4 col-md-4 col-sm-4">
-                                <div class="text-center wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
-                                    <a href="https://copper.co/" target="_blank"><img src="assets/images/copper-logo.png" class="img-responsive" /></a>
+                                <div class="col-lg-3 col-md-3 col-sm-66">
+                                    <div class="text-center wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                                        <a href="https://copper.co/" target="_blank"><img src="assets/images/copper-logo.png" class="img-responsive" /></a>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-lg-4 col-md-4 col-sm-4">
-                                <div class="text-center wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.9s">
-                                    <a href="https://www.trustology.io/" target="_blank"><img src="assets/images/trustology-logo.png" class="img-responsive" /></a>
+                                <div class="col-lg-3 col-md-3 col-sm-6">
+                                    <div class="text-center wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.9s">
+                                        <a href="https://www.trustology.io/" target="_blank"><img src="assets/images/trustology-logo.png" class="img-responsive" /></a>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-lg-4 col-md-4 col-sm-4">
-                                <div class="text-center wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.1s">
-                                    <a href="https://www.propine.com/" target="_blank"><img src="assets/images/propine-logo.png" class="img-responsive" /></a>
+                                <div class="col-lg-3 col-md-3 col-sm-6">
+                                    <div class="text-center wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.1s">
+                                        <a href="https://www.propine.com/" target="_blank"><img src="assets/images/propine-logo.png" class="img-responsive" /></a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-3 col-sm-6">
+                                    <div class="text-center wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.1s">
+                                        <a href="https://www.fireblocks.com/" target="_blank"><img src="assets/images/fireblocks-logo.png" class="img-responsive" /></a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                </div>
+                    <div class="col-lg-4 col-md-4">
+                        <div class="custodian-box_block mt-30">
+                            <div class="row align-items-center">
+                                <div class="col-lg-12 text-center">
+                                    <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                                        <h3 class="mt-0 pb-0 mb-2">BlockChain Analysis Available with</h3>
+                                    </div>
+                                </div>
+                                <div class="col-lg-8 col-center">
+                                    <div class="text-center wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                                        <a href="https://blockchaingroup.io/" target="_blank"><img src="assets/images/big-logo.png" class="img-responsive" /></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    </div>-->
+                    
+                    <div class="col-lg-12">
+                        <div class="custodian-box_block">
+                            <div class="row align-items-center">
+                                <div class="col-lg-12">
+                                    <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                                        <h1 class="pb-0 mb-2">Institutional Custodian</h1>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-3 col-sm-6">
+                                    <div class="text-center wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                                        <a href="https://copper.co/" target="_blank"><img src="assets/images/copper-logo.png" class="img-responsive" /></a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-3 col-sm-6">
+                                    <div class="text-center wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.9s">
+                                        <a href="https://www.trustology.io/" target="_blank"><img src="assets/images/trustology-logo.png" class="img-responsive" /></a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-3 col-sm-6">
+                                    <div class="text-center wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.1s">
+                                        <a href="https://www.propine.com/" target="_blank"><img src="assets/images/propine-logo.png" class="img-responsive" /></a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-3 col-sm-6">
+                                    <div class="text-center wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.1s">
+                                        <a href="https://www.fireblocks.com/" target="_blank"><img src="assets/images/fireblocks-logo.png" class="img-responsive" /></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12">
+                        <div class="custodian-box_block mt-30">
+                            <div class="row align-items-center vertical-align">
+                                <div class="col-lg-8 col-md-8 text-left">
+                                    <div class="wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                                        <h1 class="text-left mt-0 pb-0">BlockChain Analysis Available with</h1>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-4">
+                                    <div class="text-center wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.7s">
+                                        <a href="https://blockchaingroup.io/" target="_blank"><img src="assets/images/big-logo.png" class="img-responsive" /></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+
+                
+                
                 <div class="pt-2 wow fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
                     <h1>Get Started With</h1>
                 </div>
