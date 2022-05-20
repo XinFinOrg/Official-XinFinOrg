@@ -26,6 +26,65 @@ include('inc/header.php') ?>
 <section id="xdc-utility">
   <div class="container">
   	<div class="row flex-row">    
+    
+    
+    
+    
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/comtechgold-logo.png" alt="comtechgold.com">
+            </div>
+            <h3>ComTech Gold <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://comtechgold.com/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            </div>
+            <p><span class="fw-7">Utility:</span> Gold backed Cryptocurrency</p>
+            <p>ComTech Gold is redefining the tokenization infrastructure by the digitization of Gold using Blockchain Technology that allows both institutional and retail communities to get access to Gold electronically anywhere across the Globe.</p>
+            <p>ComTech Gold tokens will be 100% backed by physical Gold in the form of  Standardized 1 kg bars of 999 purity stored in a secured physical Vault custodian on a segregated and auditable basis. Working within regulatory frameworks, we aim to create an ecosystem built with integrity, transparency, and efficiency to encourage the financial industry to raise the bar and discover new ways to service the Global community.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/xdcnft-logo.png" alt="xdcnft.com">
+            </div>
+            <h3>XDCNFT <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://www.xdcnft.com/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            </div>
+            <p><span class="fw-7">Utility:</span> NFT Marketplace on the XDC Network</p>
+            <p>XDCNFT is the NFT marketplace on the XinFin Blockchain and is part of BlocksWorkz LTD, a UK-based technology. The XDCNFT Marketplace is one of the quickest, smartest, and most anticipated secure Marketplace on the XRC20 Blockchain. The Gas-fees on the XDC network(XRC20) average at a fraction of 1 USD, and the buyer/seller price fee per NFT is just 1% of the overall value.</p>
+            <p>XDCNFT has no installation fees, making the Marketplace one of the most appealing to NFT Buyers and Sellers worldwide.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/superbullsnft-logo.png" alt="superbullsnft.com">
+            </div>
+            <h3>SuperBullsNFT <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://superbullsnft.com/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            </div>
+            <p><span class="fw-7">Utility:</span> NFT on XDC Network</p>
+            <p>SuperBullsNFT is a team of technology and creative folks who design and build some fantastic blockchain projects. These projects are cross-chain and focus on XinFin, Ethereum, Cardano, and Solana.</p>
+            <p>Over the coming months, their team will be releasing details of the roadmap, including exciting collaborations and special events which SuperBullsNFT holders only are eligible to attend. They aim to provide the NFT holders with a unique collection experience.</p>
+        </div>
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
