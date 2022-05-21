@@ -456,7 +456,7 @@ include('inc/header.php') ?>
             </div>
             <h3>InFactor <span>Testnet PoC</span></h3>
             <div class="btn-block mb-1">
-            	<a href="http://infactor.io/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            	<a href="https://web.archive.org/web/20190519182548if_/https://www.infactor.com/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
                 <a href="https://github.com/XinFinOrg/ifactor-poc" target="_blank"><button class="btn-hover color-3"><i class="fa fa-github"></i> Github</button></a>
             </div>
             <p>InFactor is an online invoice factoring platform where businesses/suppliers can factor their unpaid invoices. InFactor aims to improve security and remove operational inefficiencies in the invoice factoring process by using technology advancements such as blockchain and smart contracts.</p>
