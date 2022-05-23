@@ -74,16 +74,7 @@ include('inc/header.php') ?>
             <p>SuperBullsNFT is a team of technology and creative folks who design and build some fantastic blockchain projects. These projects are cross-chain and focus on XinFin, Ethereum, Cardano, and Solana.</p>
             <p>Over the coming months, their team will be releasing details of the roadmap, including exciting collaborations and special events which SuperBullsNFT holders only are eligible to attend. They aim to provide the NFT holders with a unique collection experience.</p>
         </div>
-    </div>
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    </div>    
     
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
@@ -96,6 +87,32 @@ include('inc/header.php') ?>
             </div>
             <p>ISO 20022 compliant messaging: Redefining the standard for cross-border payments and financial messaging system on XDC Network.</p>
             <p>Impel is a fintech innovator that uses blockchain technology to deliver financial messaging, payments, and a bridge to the R3 Corda platform to future-facing banks and fintech. It provides a cost-effective alternative to legacy financial messaging solutions like SWIFT and SEPA. It uses a decentralized, enterprise-ready hybrid blockchain to securely and quickly send financial messages and payments and enable instant settlement.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/yodaplus-logo.png" alt="yodaplus.com">
+            </div>
+            <h3>Yodaplus Multisig Wallet <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://yodaplus.com/multisig-wallet.html" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            </div>
+            <p>A convenient way to manage all your crypto funds in one place. Yplusvault is one of the most secure wallets that can be trusted for all the new-age digital transactions. The system is built as a decentralized application that doesn't require the need of any intermediary. Yplusvault is best suited for individuals or organizations that would need to do safer transactions at their ends. It has been built upon the Xinfin blockchain platform which is operational for XDCNetwork across the globe.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/yodaplus-logo.png" alt="yodaplus.com">
+            </div>
+            <h3>Yodaplus Trade tokenization <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://yodaplus.com/asset-tokenization.html" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            </div>
+            <p>Asset tokenization is the process of transforming the value of a physical asset into digital asset-backed tokens. The digital tokens are created on a distributed ledger or blockchain platform. Such asset-backed tokens can be conveniently created on an asset tokenization platform, as well as can be traded in the market. The value of the tokens can't be erased, changed, or altered by any single authority due to the decentralized nature of blockchain infrastructure that helps establish trust.</p>
         </div>
     </div>
     
