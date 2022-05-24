@@ -38,7 +38,7 @@ include('inc/header.php') ?>
                     	<div class="contact-us-spprt-txt">
                         	<h2 class="mb-0">Join the Global Community</h2>
                             <p class="mb-3">Join a fast-growing XinFin Community and innovators, connected all over the world. The XinFin community includes people of many different backgrounds and skillsets.</p>
-                            <p><a href="https://xinfin.org/community" target="_blank" class="link-after-icon">Community</a></p>
+                            <p><a href="https://xinfin.org/community" class="link-after-icon">Community</a></p>
                         </div>
                     </div>
                     <div class="col-lg-7 col-md-7">
