@@ -522,7 +522,7 @@ include('inc/header.php') ?>
             <p class="mb-2">It's quick and simple.</p>
             <p class="mb-2">Just click on the link and fill in the form. We will take care of the rest.</p>
             <div class="btn-block mb-1">
-            	<a href="list-application"><button class="btn-hover color-1">List your Application</button></a>
+            	<a href="https://forms.gle/iDMsnGdbqcjm1tgm9" target="_blank"><button class="btn-hover color-1">List your Application</button></a>
             </div>
         </div>
     </div>
