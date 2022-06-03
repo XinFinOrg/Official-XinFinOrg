@@ -31,27 +31,29 @@ include('inc/header.php') ?>
         <div class="tab-content">
             <!--<div class="tab-content" style="background: #fff; margin-top:7%; margin-bottom:10%">-->
             <div id="network">
-                <div class="row">
-                    <div class="col-md-12">
+                <div class="row vertical-align">
+                    <div class="col-lg-7 col-md-6 col-sm-6">
+                        <h3 class="text-left">XDC</h3>
+                        <p>What is XDC? The XDC token is the underlying utility token of the XinFin hybrid blockchain. The XDC token acts as a settlement mechanism for dApps built on the XinFin hybrid blockchain. Our first DApp, the TradeFinex platform, uses this settlement layer to finance infrastructure projects and other procurements. Efforts are ongoing at getting the XDC token listed on larger exchanges.</p>
+                        <p>The XDC token can be currently procured from the various exchanges like <a href="https://www.kucoin.com/trade/XDC-USDT" target="_blank" style="color:#002752;">Kucoin</a>, <a href="https://www.gate.io/trade/XDC_USDT" target="_blank" style="color:#002752;">Gate.io</a>, <a href="https://trading.bitfinex.com/t/XDC:USD?type=exchange" target="_blank" style="color:#002752;">Bitfinex</a>, <a href="https://www.bitrue.com/trade/xdc_usdt" target="_blank" style="color:#002752;">Bitrue</a>, <a href="https://global.bittrex.com/Market/Index?MarketName=USDT-XDC" target="_blank" style="color:#002752;">Bittrex</a>, <a href="https://app.liquid.com/exchange/XDCUSDT" target="_blank" style="color:#002752;">Liquid</a> and more 40+ Exchanges.</p>
+                    </div>
+                    <div class="col-lg-5 col-md-6 col-sm-6">
                         <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
                         <div class="coinmarketcap-currency-widget wbox" data-currencyid="2634" data-base="USD" data-secondary="BTC" style="background-color: #ffffff; border-radius: 10px;"></div>
                     </div>
                 </div>
                 <br />
 
-                <div class="row">
+                <!--<div class="row">
                     <div class="col-md-12">
                         <h3 class="text-left">XDC</h3>
-                        <p>
-                            What is XDC? The XDC token is the underlying utility token of the XinFin hybrid blockchain. The XDC token acts as a settlement mechanism for dApps built on the XinFin hybrid blockchain. Our first DApp, the TradeFinex platform, uses this settlement layer to finance infrastructure projects and other procurements. Efforts are ongoing at getting the XDC token listed on larger exchanges.
-                          <br />
-                            <br />
-                        The XDC token can be currently procured from the various exchanges like <a href="https://www.kucoin.com/trade/XDC-USDT" target="_blank" style="color:#002752;">Kucoin</a>, <a href="https://www.gate.io/trade/XDC_USDT" target="_blank" style="color:#002752;">Gate.io</a>, <a href="https://trading.bitfinex.com/t/XDC:USD?type=exchange" target="_blank" style="color:#002752;">Bitfinex</a>, <a href="https://www.bitrue.com/trade/xdc_usdt" target="_blank" style="color:#002752;">Bitrue</a>, <a href="https://global.bittrex.com/Market/Index?MarketName=USDT-XDC" target="_blank" style="color:#002752;">Bittrex</a>, <a href="https://app.liquid.com/exchange/XDCUSDT" target="_blank" style="color:#002752;">Liquid</a> and more 40+ Exchanges. </p>
+                        <p>What is XDC? The XDC token is the underlying utility token of the XinFin hybrid blockchain. The XDC token acts as a settlement mechanism for dApps built on the XinFin hybrid blockchain. Our first DApp, the TradeFinex platform, uses this settlement layer to finance infrastructure projects and other procurements. Efforts are ongoing at getting the XDC token listed on larger exchanges.</p>
+                        <p>The XDC token can be currently procured from the various exchanges like <a href="https://www.kucoin.com/trade/XDC-USDT" target="_blank" style="color:#002752;">Kucoin</a>, <a href="https://www.gate.io/trade/XDC_USDT" target="_blank" style="color:#002752;">Gate.io</a>, <a href="https://trading.bitfinex.com/t/XDC:USD?type=exchange" target="_blank" style="color:#002752;">Bitfinex</a>, <a href="https://www.bitrue.com/trade/xdc_usdt" target="_blank" style="color:#002752;">Bitrue</a>, <a href="https://global.bittrex.com/Market/Index?MarketName=USDT-XDC" target="_blank" style="color:#002752;">Bittrex</a>, <a href="https://app.liquid.com/exchange/XDCUSDT" target="_blank" style="color:#002752;">Liquid</a> and more 40+ Exchanges.</p>
                     </div>
                     <div class="col-md-2 col-sm-2 col-xs-12">
                         &nbsp;
                     </div>
-                </div>
+                </div>-->
             </div>
 
             <!-- Newly added code -->
@@ -62,13 +64,13 @@ include('inc/header.php') ?>
             </div>
             <div class="row mt-2">
                 <!--<div class="address-box text-center">-->
-                <div class="text-center">                    
+                <div class="text-center">
                     <div class="exchange-box">
                         <div class="logo-box">
                         	<a href="https://www.coinex.com/exchange/xdc-usdt" target="_blank"><img src="assets/images/exchanges/coinex.png" class="img-fluid" alt="coinex.com" /></a>
                         </div>
                         <div class="pairs"><a href="https://www.coinex.com/exchange/xdc-btc" target="_blank">BTC</a>, <a href="https://www.coinex.com/exchange/xdc-usdt" target="_blank">USDT</a></div>
-                    </div>                    
+                    </div>
                     <div class="exchange-box">
                         <div class="logo-box">
                         	<a href="https://whitebit.com/trade/XDC-USDT" target="_blank"><img src="assets/images/exchanges/whitebit.png" class="img-fluid" alt="whitebit.com" /></a>
@@ -98,6 +100,12 @@ include('inc/header.php') ?>
                         	<a href="https://bequant.io/xdc-to-usdt" target="_blank"><img src="assets/images/exchanges/bequant.png" class="img-fluid" alt="bequant.io" /></a>
                         </div>
                         <div class="pairs"><a href="https://bequant.io/xdc-to-btc" target="_blank">BTC</a>, <a href="https://bequant.io/xdc-to-usdt" target="_blank">USDT</a></div>
+                    </div>
+                    <div class="exchange-box">
+                        <div class="logo-box">
+                        	<a href="https://uphold.com/en-gb/prices/crypto/xdc-price" target="_blank"><img src="assets/images/exchanges/uphold.png" class="img-fluid" alt="uphold.com" /></a>
+                        </div>
+                        <div class="pairs"><a href="https://uphold.com/en-gb/prices/crypto/xdc-price" target="_blank">Buy XDC</a></div>
                     </div>
                     <div class="exchange-box">
                         <div class="logo-box">
@@ -666,23 +674,28 @@ include('inc/header.php') ?>
                     <div class="clearfix"></div>
                     <div class="sh-divider-line doubble light margin"></div>
                     <div class="col-md-12">
-                        <h4 style="font-size: 24px; color: #096db0; font-weight: 600; margin-bottom: 30px;">Institutional Custodian</h4>
+                        <h3 style="font-size: 24px; color: #096db0; font-weight: 600; margin-bottom: 30px;">Institutional Custodian</h3>
                     </div>
-                    <div class="col-md-10 col-md-offset-1 mb-4">
+                    <div class="col-md-12 mb-4">
                         <div class="row wallets-supporting-xdc">
-                            <div class="col-lg-4 col-md-4">
+                            <div class="col-lg-3 col-md-3">
                                 <div>
-                                    <a href="https://copper.co/" target="_blank"><img src="assets/images/exchanges/copper-logo.png" class="img-responsive" /></a>
+                                    <a href="https://copper.co/" target="_blank"><img src="assets/images/copper-logo.png" class="img-responsive" /></a>
                                 </div>
                             </div>
-                            <div class="col-lg-4 col-md-4">
+                            <div class="col-lg-3 col-md-3">
                                 <div>
                                     <a href="https://www.trustology.io/" target="_blank"><img src="assets/images/trustology-logo.png" class="img-responsive" /></a>
                                 </div>
                             </div>
-                            <div class="col-lg-4 col-md-4">
+                            <div class="col-lg-3 col-md-3">
                                 <div>
                                     <a href="https://www.propine.com/" target="_blank"><img src="assets/images/propine-logo.png" class="img-responsive" /></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-3">
+                                <div>
+                                    <a href="https://www.fireblocks.com/" target="_blank"><img src="assets/images/fireblocks-logo.png" class="img-responsive"></a>
                                 </div>
                             </div>
                         </div>

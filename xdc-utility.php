@@ -93,6 +93,24 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/primenumbers-logo.png" alt="primenumbers.es">
+            </div>
+            <h3>Prime Numbers <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://www.primenumbers.es" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+                <a href="https://github.com/PrimeNumbersNFT" target="_blank"><button class="btn-hover color-3"><i class="fa fa-github"></i> Github</button></a>
+            </div>
+            <p>Prime Numbers is a DAO that generate scholarships for students and our community through NFTs and DEFI. However, it is much more than that. Ecosystems based on NFTs are coming online at an astonishing rate, but Prime Numbers is uniquely incorporating a staking inside NFTs and a game with their NFTs in 2022.</p>
+            <div class="btn-block mb-1">
+                <a href="https://www.youtube.com/channel/UCzd2cFCFUogwLtxuitKcHag" target="_blank"><button class="btn-hover color-3"><i class="fa fa-youtube"></i> Watch Video</button></a>
+            </div>
+             <p>Prime Numbers is the first DAO, the first NFT project and the first game on XDC Network.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/yodaplus-logo.png" alt="yodaplus.com">
             </div>
             <h3>Yodaplus Multisig Wallet <span>Livenet</span></h3>

@@ -5755,6 +5755,9 @@ table{width:100%;background-color:#fff}th,td{font-weight:unset;padding-right:10p
 	#partners h1, #featured-in h1, #video-section h1, #video-section h1, #wallet-supports h1, #get-started-with h1 {font-size: 30px;}
 }
 
+
+.coinmarketcap-currency-widget div { padding: 5px; }
+
 /* how to Steps 
 .steps-howTo{font-size:14px;line-height:16px}
 .step-description,.step-title{margin:0;display:block;text-align:center}
