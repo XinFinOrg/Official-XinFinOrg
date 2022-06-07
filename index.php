@@ -941,6 +941,23 @@ include('inc/header.php') ?>
                     </div>
                 </div>
             </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="2.6s">
+                    <a href="https://www.opolo.io/" class="wallet-item">
+                        <div class="wallet-logo-container">
+                            <img src="assets/images/exchanges/opolo-wallet/opolo-wallet.png" alt="Opolo Wallet" class="img-responsive" />
+                        </div>
+                    </a>
+                    <div class="wallet-text">
+                    <h5>Opolo Wallet</h5>
+                        <div class="wallet-apps">
+                        	<a href="https://www.opolo.io/download/" target="_blank" title="Desktop Wallet"><span class="wallet-apps-tag mobile">Desktop</span></a>
+                            <a href="https://play.google.com/store/apps/details?id=com.opolo.io" target="_blank" title="Android Wallet"><span class="wallet-apps-tag mobile">Android</span></a>
+                            <a href="https://shop.opolo.io/" target="_blank" title="Hardware Wallet"><span class="wallet-apps-tag mobile">Hardware</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
 		</div>        
         
         <div class="row mt-3">
