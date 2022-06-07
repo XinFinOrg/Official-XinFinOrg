@@ -67,6 +67,12 @@ include('inc/header.php') ?>
                 <div class="text-center">
                     <div class="exchange-box">
                         <div class="logo-box">
+                        	<a href="https://cex.io/xdc-usdt" target="_blank"><img src="assets/images/exchanges/cex.png" class="img-fluid" alt="cex.io" /></a>
+                        </div>
+                        <div class="pairs"><a href="https://cex.io/xdc-eur" target="_blank">EUR</a>, <a href="https://cex.io/xdc-usd" target="_blank">USD</a>, <a href="https://cex.io/xdc-usdt" target="_blank">USDT</a></div>
+                    </div>
+                    <div class="exchange-box">
+                        <div class="logo-box">
                         	<a href="https://www.coinex.com/exchange/xdc-usdt" target="_blank"><img src="assets/images/exchanges/coinex.png" class="img-fluid" alt="coinex.com" /></a>
                         </div>
                         <div class="pairs"><a href="https://www.coinex.com/exchange/xdc-btc" target="_blank">BTC</a>, <a href="https://www.coinex.com/exchange/xdc-usdt" target="_blank">USDT</a></div>
