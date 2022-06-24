@@ -49,6 +49,21 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/cyclebit-logo.png" alt="cyclebit.io">
+            </div>
+            <h3>Cyclebit <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://www.cyclebit.io/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            </div>
+            <p><span class="fw-7">Utility:</span> Infrastructure for Crypto Payment - POS</p>
+            <p>Cyclebit is a tool for retailers to accept digital payments in-store, online, or on the go. From now on, any product can be paid for using $XDC tokens, with the whole transaction taking just a few seconds. Cyclebit is one of the largest POS and payments providers in Eastern Europe and Southeast Asia.</p>
+            <p>Launched in 2012, the company provides in-store and e-commerce solutions to thousands of retailers, transacting over $1,5 billion annually. The senior management of Cyclebit consists of former employees of such companies as PayPal and Citibank.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/xdcnft-logo.png" alt="xdcnft.com">
             </div>
             <h3>XDCNFT <span>Livenet</span></h3>
