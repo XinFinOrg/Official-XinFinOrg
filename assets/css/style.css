@@ -1474,7 +1474,7 @@ button.btn-outline-default .fa{margin-right:5px;}
 
 
 
-.usecase-box-1 {border-radius: 8px;display: block;position: relative;padding:15px;}
+.usecase-box-1 {border-radius: 8px;display: block;position: relative;padding: 0px 10px 20px 10px;}
 .usecase-box-1 .image-container {display: -ms-flexbox;display: flex;text-align: center;-ms-flex-align: center;align-items: center;font: 0/0 a;border-bottom: 1px solid #eaecee;margin-bottom: 15px;border-radius: 6px;background-color:#FFFFFF;-webkit-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);-moz-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);}
 .usecase-box-1 .image-container img {border-radius: 8px;margin: auto;width: 100%;max-height: 100%;-o-object-fit: contain;object-fit: contain;}
 .usecase-box-1 h3{font-size:18px;margin-bottom: 15px;text-align:center;margin-top:0px;}
@@ -5106,6 +5106,8 @@ margin-left:20px;
 
 #playTrigger i.fa.fa-play {font-size: 11px;position: relative;left: 5px;margin-right: 0px;display: inline-block;border-radius: 50%;border: 1px solid #fff;padding: 7px 9px;width: 26px;height: 26px;}
 .playTriggerBlock{text-align:left;}
+
+.xdc-utility-banner-cta{text-align:center;}.xdc-utility-banner-cta .color-3{margin-top:15px;margin-bottom:40px!important;}
 
 /*.btn-block a:nth-child(2) {
     margin-left:10px;

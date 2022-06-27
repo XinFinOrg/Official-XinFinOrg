@@ -67,6 +67,30 @@ include('inc/header.php') ?>
                 <div class="text-center">
                     <div class="exchange-box">
                         <div class="logo-box">
+                        	<a href="https://kriptomat.io/cryptocurrency-prices/xdc-network-xdc-price/" target="_blank"><img src="assets/images/exchanges/kriptomat.png" class="img-fluid" alt="kriptomat.io" /></a>
+                        </div>
+                        <div class="pairs"><a href="https://kriptomat.io/cryptocurrency-prices/xdc-network-xdc-price/" target="_blank">Buy XDC</a></div>
+                    </div>
+                    <div class="exchange-box">
+                        <div class="logo-box">
+                        	<a href="https://coindcx.com/trade/XDCINR" target="_blank"><img src="assets/images/exchanges/coindcx.png" class="img-fluid" alt="kcoindcx.com" /></a>
+                        </div>
+                        <div class="pairs"><a href="https://kriptomat.io/cryptocurrency-prices/xdc-network-xdc-price/" target="_blank">INR</a></div>
+                    </div>                    
+                    <div class="exchange-box">
+                        <div class="logo-box">
+                        	<a href="https://www.huobi.com/en-us/exchange/xdc_usdt" target="_blank"><img src="assets/images/exchanges/huobiglobal.png" class="img-fluid" alt="Huobi.com" /></a>
+                        </div>
+                        <div class="pairs"><a href="https://www.huobi.com/en-us/exchange/xdc_usdt" target="_blank">USDT</a></div>
+                    </div>                    
+                    <div class="exchange-box">
+                        <div class="logo-box">
+                        	<a href="https://changelly.com/" target="_blank"><img src="assets/images/exchanges/changelly.png" class="img-fluid" alt="changelly.com" /></a>
+                        </div>
+                        <div class="pairs"><a href="https://changelly.com/" target="_blank">Instant Swap</a></div>
+                    </div>
+                    <div class="exchange-box">
+                        <div class="logo-box">
                         	<a href="https://cex.io/xdc-usdt" target="_blank"><img src="assets/images/exchanges/cex.png" class="img-fluid" alt="cex.io" /></a>
                         </div>
                         <div class="pairs"><a href="https://cex.io/xdc-eur" target="_blank">EUR</a>, <a href="https://cex.io/xdc-usd" target="_blank">USD</a>, <a href="https://cex.io/xdc-usdt" target="_blank">USDT</a></div>
@@ -85,16 +109,29 @@ include('inc/header.php') ?>
                     </div>
                     <div class="exchange-box">
                         <div class="logo-box">
+                        	<a href="https://exchange.globiance.com/" target="_blank"><img src="assets/images/exchanges/globiance.png" class="img-fluid" alt="exchange.globiance.com" /></a>
+                        </div>
+                        <div class="pairs"><a href="https://exchange.globiance.com/" target="_blank">Globiance International </a></div>
+                    </div>
+                    
+                    <div class="exchange-box">
+                        <div class="logo-box">
+                        	<a href="https://dex.globiance.com/" target="_blank"><img src="assets/images/exchanges/globiancedex.png" class="img-fluid" alt="dex.globiance.com" /></a>
+                        </div>
+                        <div class="pairs"><a href="https://dex.globiance.com/" target="_blank">Globiance DEX</a></div>
+                    </div>
+                    <div class="exchange-box">
+                        <div class="logo-box">
                         	<a href="https://www.bybit.com/en-US/trade/spot/XDC/USDT" target="_blank"><img src="assets/images/exchanges/bybit.png" class="img-fluid" alt="bybit.com" /></a>
                         </div>
                         <div class="pairs"><a href="https://www.bybit.com/en-US/trade/spot/XDC/USDT" target="_blank">USDT</a></div>
                     </div>
-                    <div class="exchange-box">
+                    <!--<div class="exchange-box">
                         <div class="logo-box">
                         	<a href="https://bitkan.pro/trade/xdc_usdt" target="_blank"><img src="assets/images/exchanges/bitkan.png" class="img-fluid" alt="bitkan.pro" /></a>
                         </div>
                         <div class="pairs"><a href="https://bitkan.pro/trade/xdc_usdt" target="_blank">USDT</a></div>
-                    </div>
+                    </div>-->
                     <div class="exchange-box">
                         <div class="logo-box">
                         	<a href="https://www.bkex.com/trade/XDC_USDT" target="_blank"><img src="assets/images/exchanges/bkex.png" class="img-fluid" alt="bkex.com" /></a>
@@ -185,15 +222,15 @@ include('inc/header.php') ?>
                         </div>
                         <div class="pairs"><a href="https://fmfw.io/xdc-to-btc" target="_blank">BTC</a>, <a href="https://fmfw.io/xdc-to-eth" target="_blank">ETH</a>, <a href="https://fmfw.io/xdc-to-usdt" target="_blank">USDT</a></div>
                     </div>
-                    <div class="exchange-box">
+                    <!--<div class="exchange-box">
                         <div class="logo-box">
-                        	<a href="https://jelly.market/" target="_blank"><img src="assets/images/exchanges/jellyswap.png" class="img-fluid" alt="jelly.market" /></a>                            
+                        	<a href="https://jelly.market/" target="_blank"><img src="assets/images/exchanges/jellyswap.png" class="img-fluid" alt="jelly.market" /></a>
                         </div>
                         <div class="pairs"><a href="https://jelly.market/" target="_blank">BTC</a>, <a href="https://jelly.market/" target="_blank">ETH</a></div>
-                    </div>
+                    </div>-->
                     <div class="exchange-box">
                         <div class="logo-box">
-                        	<a href="https://pro.changelly.com/xdc-to-usdt" target="_blank"><img src="assets/images/exchanges/changelly.png" class="img-fluid" alt="changelly.com"></a>
+                        	<a href="https://pro.changelly.com/xdc-to-usdt" target="_blank"><img src="assets/images/exchanges/changellypro.png" class="img-fluid" alt="pro.changelly.com"></a>
                         </div>
                         <div class="pairs"><a href="https://pro.changelly.com/xdc-to-btc" target="_blank">BTC</a>, <a href="https://pro.changelly.com/xdc-to-usdt" target="_blank">USDT</a></div>
                     </div>
@@ -215,12 +252,12 @@ include('inc/header.php') ?>
                         </div>
                         <div class="pairs"><a href="https://simpleswap.io/coins/xinfin-network?utm_source=twitter&utm_medium=social&utm_campaign=launch_xdc_080721" target="_blank">XDC</a></div>
                     </div>
-                    <div class="exchange-box">
+                    <!--<div class="exchange-box">
                         <div class="logo-box">
                         	<a href="https://xdcbridge.web.app/" target="_blank"><img src="assets/images/exchanges/xdc-bsc-eth-bridge.png" class="img-fluid" alt="exchange.bitcoin.com" /></a>                            
                         </div>
                         <div class="pairs"><a href="https://xdcbridge.web.app/" target="_blank">ETH</a>, <a href="https://xdcbridge.web.app/" target="_blank">BSC</a>, <a href="https://xdcbridge.web.app/" target="_blank">XDC</a></div>
-                    </div>
+                    </div>-->
                     <div class="exchange-box">
                         <div class="logo-box">
                         	<a href="https://www.kucoin.com/trade/XDC-USDT" target="_blank"><img src="assets/images/exchanges/kucoin.png" class="img-fluid" alt="liquid.com" /></a>                            
@@ -245,12 +282,12 @@ include('inc/header.php') ?>
                         </div>
                         <div class="pairs"><a href="https://www.bitrue.com/trade/xdc_eth" target="_blank">ETH</a>, <a href="https://www.bitrue.com/trade/xdc_xrp" target="_blank">XRP</a>, <a href="https://www.bitrue.com/trade/xdc_usdc" target="_blank">USDC</a>, <a href="https://www.bitrue.com/trade/xdc_usdt" target="_blank">USDT</a></div>
                     </div>
-                    <div class="exchange-box">
+                    <!--<div class="exchange-box">
                         <div class="logo-box">
                         	<a href="https://www.wbf.live/trade/XDC_DUSD" target="_blank"><img src="assets/images/exchanges/wbf.png" class="img-fluid" alt="wbf.live" /></a>
                         </div>
                         <div class="pairs"><a href="https://www.wbf.live/trade/XDC_DUSD" target="_blank">DUSD</a>, <a href="https://www.wbf.live/trade/XDC_USDT" target="_blank">USDT</a></div>
-                    </div>
+                    </div>-->
                     <div class="exchange-box">
                         <div class="logo-box">
                         	<a href="https://trade.buyucoin.com/trade/XDC-INR" target="_blank"><img src="assets/images/exchanges/buyucoin.png" class="img-fluid" alt="buyucoin.com" /></a>
