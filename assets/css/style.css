@@ -1547,11 +1547,11 @@ button.btn-outline-default .fa{margin-right:5px;}
 	.project-details-flex-row {display: flex;flex-direction: column;}
 	.project__img {width: 160px;height: 160px;margin: 0 auto;}
 	.project__content {margin: 3rem 1.5rem 0rem 1.5rem;width: inherit;}
-	.project__content .short-desc h2, .project__content .short-desc p {text-align: center;}
+	.project__content .short-desc h2 {text-align: center;}
 	.project__content .short-desc .web-visit-btn {display: block;}
 	.project__content .btn-block {display: none;}
 	.project__aside .btn-block.social-media {display: block;}
-	.project__aside .btn-block.social-media button {margin-bottom: 12px;}
+	.project__aside .btn-block.social-media button {width: 100%;margin-bottom: 12px;}
 	.project__aside .web-visit-btn {display: none;}
 	.project__aside {margin: 0px 1.5rem;width: inherit;}
 }
