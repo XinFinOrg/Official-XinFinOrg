@@ -4,6 +4,7 @@
 <html lang="">
 
 <head>
+
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
@@ -18,14 +19,14 @@
 
   <!-- Bootstrap CSS -->
   <!-- Local bootstrap CSS & JS -->
-  <link rel="stylesheet" media="screen" href="assets/css/bootstrap.min.css">
-  <link rel="stylesheet" media="screen" href="assets/css/style.css">
+  <link rel="stylesheet" media="screen" href="<?php echo base_url() ; ?>/assets/css/bootstrap.min.css">
+  <link rel="stylesheet" media="screen" href="<?php echo base_url() ; ?>/assets/css/style.css">
   <!-- <link rel="stylesheet" media="screen" href="assets/css/style.scss"> -->
-  <link href="assets/css/pagination.css" rel="stylesheet">
-  <link href="assets/css/fontawesome-v5.9.0/all.css" rel="stylesheet">
-  <link href="assets/css/font-awesome.min.css" rel="stylesheet">
+  <link href="<?php echo base_url() ; ?>/assets/css/pagination.css" rel="stylesheet">
+  <link href="<?php echo base_url() ; ?>/assets/css/fontawesome-v5.9.0/all.css" rel="stylesheet">
+  <link href="<?php echo base_url() ; ?>/assets/css/font-awesome.min.css" rel="stylesheet">
   
-  <link href="assets/css/animate.css" rel="stylesheet">
+  <link href="<?php echo base_url() ; ?>/assets/css/animate.css" rel="stylesheet">
 
   <style>
     #back-to-top {
@@ -128,10 +129,10 @@
 	/*.navbar>.container {max-width:1000px;}*/
   </style>
 
-  <script src="assets/js/jquery.js"></script>
-  <script src="assets/js/jquery-1.11.3.min.js"></script><!--extra added for CMC widget-->
+  <script src="<?php echo base_url() ; ?>/assets/js/jquery.js"></script>
+  <script src="<?php echo base_url() ; ?>/assets/js/jquery-1.11.3.min.js"></script><!--extra added for CMC widget-->
  
-  <script src="assets/js/bootstrap.min.js"></script>
+  <script src="<?php echo base_url() ; ?>/assets/js/bootstrap.min.js"></script>
   <script type="text/javascript">
     $(window).on("scroll", function () {
       var top_offset = $(window).scrollTop();
@@ -187,8 +188,8 @@
         <div class="container">
           <div class="navbar-header">
             <a class="navbar-brand" href="https://xinfin.org/">
-              <img src="assets/images/logo-white.png" class="logo-white img-responsive" width="60">
-              <img src="assets/images/logo-dark.png" class="logo-sticky img-responsive " width="60">
+              <img src="<?php echo base_url() ; ?>/assets/images/logo-white.png" class="logo-white img-responsive" width="60">
+              <img src="<?php echo base_url() ; ?>/assets/images/logo-dark.png" class="logo-sticky img-responsive " width="60">
             </a>
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbarNavDropdown" aria-expanded="false"
               aria-controls="#navbarNavDropdown">
@@ -216,7 +217,7 @@
                 <a href="https://howto.xinfin.org/">Developer Portal</a>
               </li>              
               <li class="nav-item">
-                <a href="resources">Resource</a>
+                <a href="<?php echo base_url() ; ?>/resources">Resource</a>
               </li>
               <li class="nav-item">
                 <a href="xdc-chain-network-tools-and-documents">Quick Tools Guide</a>
