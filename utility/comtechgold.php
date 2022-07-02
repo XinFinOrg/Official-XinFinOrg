@@ -89,7 +89,7 @@ include('../inc/header.php') ?>
                                     <div class="cat-head d-md-none">Category</div>
                                     <div class="btn-block mt-2 mb-3">
                                         <span class="badge badge-pill">DeFi</span>
-                                        <span class="badge badge-pill">Gold Backed Token</span>
+                                        <span class="badge badge-pill">Gold Backed</span>
                                     </div>
                                 </div>
                         </div>
