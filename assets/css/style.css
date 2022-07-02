@@ -1551,7 +1551,7 @@ button.btn-outline-default .fa{margin-right:5px;}
 	.project__content .short-desc .web-visit-btn {display: block;}
 	.project__content .btn-block {display: none;}
 	.project__aside .btn-block.social-media {display: block;}
-	.project__aside .btn-block.social-media button {width: 100%;margin-bottom: 12px;}
+	.project__aside .btn-block.social-media button {margin-bottom: 12px;}
 	.project__aside .web-visit-btn {display: none;}
 	.project__aside {margin: 0px 1.5rem;width: inherit;}
 }
