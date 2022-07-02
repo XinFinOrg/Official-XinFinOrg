@@ -217,7 +217,7 @@
                 <a href="https://howto.xinfin.org/">Developer Portal</a>
               </li>              
               <li class="nav-item">
-                <a href="<?php echo base_url() ; ?>/resources">Resource</a>
+                <a href="<?php echo base_url() ; ?>resources">Resource</a>
               </li>
               <li class="nav-item">
                 <a href="xdc-chain-network-tools-and-documents">Quick Tools Guide</a>
