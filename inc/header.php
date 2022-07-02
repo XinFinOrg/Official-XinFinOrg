@@ -12,7 +12,7 @@
   <meta name="description" content="<?= $desc?>">
   <meta name="author" content="">
   <meta name="google-site-verification" content="Cyc2Me8vkC1-nEbDuDD4XGU1nBAPkIOkCDGSjWp8Zus" />
-  <link rel="icon" href="assets/images/favicon.ico">
+  <link rel="icon" href="<?php echo base_url() ; ?>/assets/images/favicon.ico">
   <title>
     <?= $title; ?>
   </title>
