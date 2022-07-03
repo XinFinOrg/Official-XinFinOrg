@@ -439,7 +439,7 @@ include('inc/header.php') ?>
             </div>
             <h3>Kramaa <span>Testnet</span></h3>
             <div class="btn-block mb-1">
-            	<a href="https://www.kramaa.com" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            	<a href="https://web.archive.org/web/20200510121437if_/https://kramaa.com/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
                 <a href="https://github.com/XinFinOrg/Kramaa" target="_blank"><button class="btn-hover color-3"><i class="fa fa-github"></i> Github</button></a>
             </div>
             <p>Kramaa is a Singapore based technology company converging latest technologies in blockchain, IoT, and analytics. The Company has created a blockchain based application ("The platform") for IoT identities linked to physical assets on XinFin's proven hybrid blockchain architecture.</p>
