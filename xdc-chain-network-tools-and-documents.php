@@ -255,7 +255,7 @@ include('inc/header.php') ?>
                             <div class="content-box">
                                 <div class="mb-2">
                                     <h1>XDCPay</h1>
-                                    <p>XDCPay is a self-hosted wallet to store, send and receive XDC and XRC20. It allows you to control your funds as it is an HD wallet that provides a mnemonic phrase that you can keep as a backup.</p>
+                                    <p>XDCPay is a bridge that allows you to visit the distributed web of tomorrow in your browser today. It allows you to run XDC dApps right in your browser without running a full XDC node. XDCPay is a self-hosted wallet to store, send and receive XDC and XRC20 tokens.</p>
                                 </div>
                                 <div class="btn-block mb-1">
                                     <a href="https://chrome.google.com/webstore/detail/xdcpay/bocpokimicclpaiekenaeelehdjllofo" target="_blank">
