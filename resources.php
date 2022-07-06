@@ -68,7 +68,11 @@ include('inc/header.php') ?>
 	  
 	  <p class="header mb-2">XDC Chain Network Tools and Documents</p>
       <p>Download tools and Documentation resource.</p>
-      <a href="xdc-chain-network-tools-and-documents"><button class="btn-hover color-1 mb-1">XDC Chain Network Tools and Documents</button></a>
+      <a href="xdc-chain-network-tools-and-documents"><button class="btn-hover color-3 mb-1">XDC Chain Network Tools and Documents</button></a>
+      
+      <p class="header mb-2">Developers Forum</p>
+      <p>Developers Forum for XinFin XDC Network is a community of amazing users.</p>
+      <a href="https://www.xdc.dev/" target="_blank"><button class="btn-hover color-1 mb-1">Developers Forum</button></a>
       
       <p class="header mb-2">Community Forum</p>
       <p>Managed by our active community members, the XinFin Community Forum will bring you the latest updates, developments and answers to your questions in a proper documented form.</p>
@@ -80,7 +84,7 @@ include('inc/header.php') ?>
       
       <p class="header mb-2">Wallet Support</p>
       <p>Wallet Support gives you a quick overview of which exchanges XDC is live-trading on and which wallet partners support XDC.</p>
-      <p>For Wallet Support needed, you can reach out to us at <a href="mailto:support@xinfin.io">support@xinfin.io</a></p>
+      <p>For Wallet Support needed, you can visit <a href="https://www.xdc.dev/" target="_blank">Developers Forum</a>.</p>
       <a href="https://XinFin.io/" target="_blank"><button class="btn-hover color-3 mb-1">Wallet Support</button></a>
       
       <p class="header mb-2">Media Room</p>

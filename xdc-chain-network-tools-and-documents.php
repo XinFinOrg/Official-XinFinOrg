@@ -9,8 +9,7 @@ include('inc/header.php') ?>
         <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12 bannertext">
                 <h1>XDC Chain Network Tools and Documents</h1>
-                <p>
-                    Download tools and Documentation resource
+                <p>Download tools and Documentation resource
                     <br />
                     <br />
                     <br />
@@ -255,21 +254,21 @@ include('inc/header.php') ?>
                         <div class="col-md-6">
                             <div class="content-box">
                                 <div class="mb-2">
-                                    <h1>XinPay</h1>
-                                    <p>XinPay is a self-hosted wallet to store, send and receive XDC and XRC20. It allows you to control your funds as it is an HD wallet that provides a mnemonic phrase that you can keep as a backup.</p>
+                                    <h1>XDCPay</h1>
+                                    <p>XDCPay is a self-hosted wallet to store, send and receive XDC and XRC20. It allows you to control your funds as it is an HD wallet that provides a mnemonic phrase that you can keep as a backup.</p>
                                 </div>
                                 <div class="btn-block mb-1">
-                                    <a href="https://chrome.google.com/webstore/detail/xinpay/bocpokimicclpaiekenaeelehdjllofo" target="_blank">
+                                    <a href="https://chrome.google.com/webstore/detail/xdcpay/bocpokimicclpaiekenaeelehdjllofo" target="_blank">
                                         <button class="btn-hover color-1">Download Now</button>
                                     </a>
-                                    <a href="https://medium.com/xinfin/get-started-with-xinpay-crypto-asset-bbd817e1ed46" target="_blank"><button class="btn-hover color-3">How To Use XinPay?</button></a>
+                                    <a href="https://docs.xdc.org/xdc-tools/xdc-pay" target="_blank"><button class="btn-hover color-3">How To Use XDCPay?</button></a>
                                 </div>
                             </div>
                         </div>
 
                         <div class="col-md-6">
                             <div class="">
-                                <img src="assets/images/xinpay-extension.jpg" class="img-responsive img-shadow">
+                                <img src="assets/images/xdcpay-extension.jpg" class="img-responsive img-shadow">
                             </div>
                         </div>
                     </div>
@@ -284,19 +283,17 @@ include('inc/header.php') ?>
                         <div class="col-md-6 col-md-push-6">
                             <div class="content-box cb-alt">
                                 <div class="mb-2">
-                                    <h1>XinFin Remix</h1>
+                                    <h1>XDC Network Remix</h1>
                                     <p>
-                                        XinFin Remix, previously known as Browser Solidity, is a web browser-based IDE that allows you to write solidity smart contracts, then deploy and run the smart contract. The advantage of running
-                                        XinFin Remix from your local computer is that it can communicate with a XinFin node client running on your local machine via the XinFin API. You can then execute your smart contracts in XinFin Remix
-                                        while connected to your local development blockchain, the TestNet blockchain or the MainNet blockchain.
+                                        XDC Network Remix, previously known as Browser Solidity, is a web browser-based IDE that allows you to write solidity smart contracts, then deploy and run the smart contract. The advantage of running XDC Network Remix from your local computer is that it can communicate with a XDC Network node client running on your local machine via the XDC Network API. You can then execute your smart contracts in XDC Network Remix while connected to your local development blockchain, the TestNet blockchain or the MainNet blockchain.
                                     </p>
                                 </div>
                                 <div class="btn-block mb-1">
                                     <a href="https://remix.xinfin.network" target="_blank">
                                         <button class="btn-hover color-1">Explore More</button>
                                     </a>
-                                    <a href="https://medium.com/xinfin/deploy-smart-contract-on-xinfin-testnet-through-xinfin-remix-and-xinpay-dfbbf9dcc3f7" target="_blank">
-                                        <button class="btn-hover color-3">How To Use XinFin Remix?</button>
+                                    <a href="https://docs.xdc.org/xdc-tools/xdc-remix" target="_blank">
+                                        <button class="btn-hover color-3">How To Use XDC Network Remix?</button>
                                     </a>
                                 </div>
                             </div>
@@ -304,7 +301,7 @@ include('inc/header.php') ?>
 
                         <div class="col-md-6 col-md-pull-6">
                             <div class="">
-                                <img src="assets/images/xinfin-remix.jpg" class="img-responsive img-shadow">
+                                <img src="assets/images/xdc-network-remix.jpg" class="img-responsive img-shadow">
                             </div>
                         </div>
                     </div>
