@@ -958,6 +958,23 @@ include('inc/header.php') ?>
                     </div>
                 </div>
             </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="2.8s">
+                    <a href="https://onto.app/en/" class="wallet-item">
+                        <div class="wallet-logo-container">
+                            <img src="assets/images/exchanges/onto-wallet/onto-wallet.png" alt="Onto Wallet" class="img-responsive" />
+                        </div>
+                    </a>
+                    <div class="wallet-text">
+                    <h5>ONTO Wallet</h5>
+                        <div class="wallet-apps">
+                        	<a href="https://play.google.com/store/apps/details?id=com.github.ontio.onto" target="_blank" title="Android Wallet"><span class="wallet-apps-tag mobile">Android</span></a>
+                            <a href="https://apps.apple.com/us/app/onto-an-ontology-dapp/id1436009823" target="_blank" title="Hardware Wallet"><span class="wallet-apps-tag mobile">iOS</span></a>
+                            <a href="https://chrome.google.com/webstore/detail/onto-wallet/ifckdpamphokdglkkdomedpdegcjhjdp?" target="_blank" title="Desktop Wallet"><span class="wallet-apps-tag mobile">Chrome</span></a>                            
+                        </div>
+                    </div>
+                </div>
+            </div>
 		</div>        
         
         <div class="row mt-3">
