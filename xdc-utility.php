@@ -269,7 +269,6 @@ include('inc/header.php') ?>
             <p>The innovation of blockchains is an auditable and cryptographically secured global ledger.</p>
             <p>Asset-­backed token issuers and other market participants can take advantage of blockchain technology, along with embedded consensus systems, to transact in familiar, less volatile currencies and assets.</p>
             <p>In order to maintain accountability and to ensure stability in exchange price, we propose a method to maintain a one-to­one reserve ratio between a cryptocurrency token, called USNOTA, and its associated real­world asset, fiat currency.</p>
-            <p>This method uses the XinFin Network (XDC) blockchain, Proof of Reserves, and other audit methods to prove that issued tokens are fully backed and reserved at all times.</p>
         </div>
     </div>
     
