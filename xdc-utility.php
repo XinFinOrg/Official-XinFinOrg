@@ -258,23 +258,6 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/usnota-logo.png" alt="usnota.com">
-            </div>
-            <h3>USNota <span>Livenet</span></h3>
-            <div class="btn-block mb-1">
-            	<a href="https://www.usnota.com/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
-            </div>
-            <p><span class="fw-7">Token Type:</span> Stable Coin USD</p>
-            <p>A digital token backed by fiat currency provides individuals and organizations with a robust and decentralized method of exchanging value while using a familiar accounting unit.</p>
-            <p>The innovation of blockchains is an auditable and cryptographically secured global ledger.</p>
-            <p>Asset-­backed token issuers and other market participants can take advantage of blockchain technology, along with embedded consensus systems, to transact in familiar, less volatile currencies and assets.</p>
-            <p>In order to maintain accountability and to ensure stability in exchange price, we propose a method to maintain a one-to­one reserve ratio between a cryptocurrency token, called USNOTA, and its associated real­world asset, fiat currency.</p>
-        </div>
-    </div>
-    
-    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
-        <div class="usecase-box">
-            <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/globiancedex-logo.png" alt="dex.globiance.com">
             </div>
             <h3>GlobianceDEX <span>Livenet</span></h3>
