@@ -29,6 +29,23 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/crypterium-logo.png" alt="crypterium.com">
+            </div>
+            <h3>Crypterium <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://crypterium.com/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            </div>
+            <p>Get your free wallet for Bitcoin or other 19 cryptocurrencies. Buy XDC, BTC, ETH, and other cryptos with your bank card, or instantly get your own free Visa card to withdraw worldwide. Earn interest, exchange on the best rates and stay safe with banking class security.</p>
+            <div class="btn-block mb-1">
+                <a href="https://www.youtube.com/c/Crypterium/featured" target="_blank"><button class="btn-hover color-3"><i class="fa fa-youtube"></i> Watch Video</button></a>
+            </div>
+            <p>The Crypterium wallet combines traditional finances and digital assets with an unlimited amount of wallets to buy, cash out and earn crypto. It supports XDC, BTC, ETH, and many more. Transfer your crypto with just a phone number or wallet address worldwide for free.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/comtechgold-logo.png" alt="comtechgold.com">
             </div>
             <h3>ComTech Gold <span>Livenet</span></h3>

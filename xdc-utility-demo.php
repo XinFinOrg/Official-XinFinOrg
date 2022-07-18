@@ -43,6 +43,17 @@ include('inc/header.php') ?>
                     </div>
                     <div class="utility-col col-lg-3 col-md-3 col-sm-4 col-xs-4">
                         <div class="usecase-box-1">
+                            <a href="utility/crypterium">
+                                <div class="image-container">
+                                    <img class="img-responsive" src="assets/images/utility/crypterium-icon.png" alt="crypterium.com" />
+                                </div>
+                                <h3>Crypterium</h3>
+                            </a>
+                        </div>
+                    </div>
+                    
+                    <div class="utility-col col-lg-3 col-md-3 col-sm-4 col-xs-4">
+                        <div class="usecase-box-1">
                             <a href="utility/comtechgold">
                                 <div class="image-container">
                                     <img class="img-responsive" src="assets/images/utility/comtechgold-icon.png" alt="comtechgold.com" />
@@ -59,17 +70,6 @@ include('inc/header.php') ?>
                                     <img class="img-responsive" src="assets/images/utility/impel-icon.png" alt="impel.global" />
                                 </div>
                                 <h3>Impel</h3>
-                            </a>
-                        </div>
-                    </div>
-
-                    <div class="utility-col col-lg-3 col-md-3 col-sm-4 col-xs-4">
-                        <div class="usecase-box-1">
-                            <a href="">
-                                <div class="image-container">
-                                    <img class="img-responsive" src="assets/images/utility/usnota-icon.png" alt="usnota.com" />
-                                </div>
-                                <h3>USNota</h3>
                             </a>
                         </div>
                     </div>

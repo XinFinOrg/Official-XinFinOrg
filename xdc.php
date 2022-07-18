@@ -504,21 +504,21 @@ include('inc/header.php') ?>
                         <div class="row wallets-supporting-xdc">
                             <div class="col col-md-4 col-sm-4 mb-2">
                                 <div>
-                                    <a href="https://play.google.com/store/apps/details?id=com.xdcwallet" target="_blank"><img src="assets/images/exchanges/googleplay-logo.png" class="img-fluid" /></a>
+                                    <a href="https://play.google.com/store/apps/details?id=com.xdcwallet" target="_blank"><img src="assets/images/exchanges/xdc-wallets/xdc-androidapp.png" class="img-fluid webwallet-img" /></a>
                                 </div>
-                                <p class="text-center mt-1">Open Source Wallet (Android App)</p>
+                                <p class="text-center mt-2">Open Source Wallet (Android App)</p>
                             </div>
                             <div class="col col-md-4 col-sm-4 mb-2">
                                 <div>
-                                    <a href="https://xinfin.network/#webWallet" target="_blank"><img src="assets/images/exchanges/xdc-wallet-logo.png" class="img-fluid" /></a>
+                                    <a href="https://xinfin.network/#webWallet" target="_blank"><img src="assets/images/exchanges/xdc-wallets/xdc-webwallet.png" class="img-fluid webwallet-img" /></a>
                                 </div>
-                                <p class="text-center mt-1">XDC Web Wallet</p>
+                                <p class="text-center mt-2">XDC Web Wallet</p>
                             </div>
                             <div class="col col-md-4 col-sm-4 mb-2">
                                 <div>
-                                    <a href="https://chrome.google.com/webstore/detail/xinpay/bocpokimicclpaiekenaeelehdjllofo?hl=en" target="_blank"><img src="assets/images/exchanges/xdc-ewallet.png" class="img-fluid" /></a>
+                                    <a href="https://chrome.google.com/webstore/detail/xdcpay/bocpokimicclpaiekenaeelehdjllofo?hl=en" target="_blank"><img src="assets/images/exchanges/xdc-wallets/xdcpay.png" class="img-fluid webwallet-img" /></a>
                                 </div>
-                                <p class="text-center mt-1">XinPay (XDC Extension Wallet)</p>
+                                <p class="text-center mt-2">XDCPay (XDC Extension Wallet)</p>
                             </div>
                         </div>
                     </div>
