@@ -1209,11 +1209,16 @@ include('inc/header.php') ?>
                                         <a href="https://copper.co/" target="_blank"><img src="assets/images/copper-logo.png" class="img-responsive" /></a>
                                     </div>
                                 </div>
-                                <div class="col-lg-3 col-md-3 col-sm-6">
+                                <!--<div class="col-lg-3 col-md-3 col-sm-6">
                                     <div class="text-center wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.9s">
                                         <a href="https://www.trustology.io/" target="_blank"><img src="assets/images/trustology-logo.png" class="img-responsive" /></a>
                                     </div>
-                                </div>
+                                </div>-->
+                                <div class="col-lg-3 col-md-3 col-sm-6">
+                                    <div class="text-center wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.9s">
+                                        <a href="https://custody.bitpanda.com/" target="_blank"><img src="assets/images/bitpanda-logo.png" class="img-responsive" /></a>
+                                    </div>
+                                </div>                                
                                 <div class="col-lg-3 col-md-3 col-sm-6">
                                     <div class="text-center wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.1s">
                                         <a href="https://www.propine.com/" target="_blank"><img src="assets/images/propine-logo.png" class="img-responsive" /></a>

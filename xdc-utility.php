@@ -90,6 +90,48 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/ecoin-logo.png" alt="ecoinofficial.org">
+            </div>
+            <h3>Ecoin <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://ecoinofficial.org/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            </div>
+            <p>Ecoin combines the power of 'Social Mining' and 'Stable-coin banking' and aims to be the biggest crypto ecosystem ever.</p>
+            <p>Ecoin aims to enable mass adoption of Cryptocurrency by bringing Billions of users into Crypto. Ecoin aims to tackle this problem with the help of 'world's first AI-driven proxy identity platform' along with 'world's easiest crypto onboarding' powered by Social Mining, Cashbacks Mining, and Incentivized Mining that will eventually lead to mass adoption of crypto.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/mateico-logo.png" alt="mateico.io">
+            </div>
+            <h3>Mateico <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://mateico.io/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            </div>
+            <p>Mateico creates the Mateico ecosystem that combines art, culture, investments, and charity. The Mateico ecosystem will bring about innovative solutions based on blockchain technology, virtual reality, and augmented reality. The services available on the Mateico platform will help artists and creators in, e.g., obtaining independent sources of income. In one place, an author will be able to accomplish numerous objectives – from exhibiting his or her works to co-creating an active community.</p>
+            <p>The XinFin XDC Network technology allows to minimize the project's negative impact on the environment and reduce its carbon footprint. The Mateico project will allow for more than just the creation of a classic NFT marketplace.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/kinesis-logo.png" alt="kinesis.money">
+            </div>
+            <h3>Kinesis <span>Coming Soon!</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://kinesis.money/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            </div>
+            <p>Kinesis will first list the XDC and XRC20 tokens on the Kinesis Exchange providing XDC holders the ability to trade against precious metals tokens KAU and KAG, which are fully allocated physical gold and silver backed tokens, which hold real world utility for saving, or spending as global currency.<p>
+            <p>There are two separate phases which will develop the partnership. The first aims towards the enablement of minting Kinesis' gold and silver-backed digital currencies (KAU and KAG respectively) on the XDC Network as XRC20 tokens, and integrating XRC20 KAU and XRC20 KAG tokens on the Kinesis Exchange platform for direct use and utility on the XRC20 protocol.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/xdcnft-logo.png" alt="xdcnft.com">
             </div>
             <h3>XDCNFT <span>Livenet</span></h3>

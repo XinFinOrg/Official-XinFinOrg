@@ -152,6 +152,12 @@ include('inc/header.php') ?>
                     </div>
                     <div class="exchange-box">
                         <div class="logo-box">
+                        	<a href="https://swapzone.io/" target="_blank"><img src="assets/images/exchanges/swapzone.png" class="img-fluid" alt="swapzone.io" /></a>
+                        </div>
+                        <div class="pairs"><a href="https://swapzone.io/" target="_blank">Instant Swap</a></div>
+                    </div>
+                    <div class="exchange-box">
+                        <div class="logo-box">
                         	<a href="https://changenow.io/?from=usdt&to=xdc" target="_blank"><img src="assets/images/exchanges/changenow.png" class="img-fluid" alt="changenow.io" /></a>
                         </div>
                         <div class="pairs"><a href="https://changenow.io/?from=usdt&to=xdc" target="_blank">Instant Swap</a></div>
@@ -762,7 +768,7 @@ include('inc/header.php') ?>
                             </div>
                             <div class="col-lg-3 col-md-3">
                                 <div>
-                                    <a href="https://www.trustology.io/" target="_blank"><img src="assets/images/trustology-logo.png" class="img-responsive" /></a>
+                                    <a href="https://custody.bitpanda.com/" target="_blank"><img src="assets/images/bitpanda-logo.png" class="img-responsive" /></a>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-3">
