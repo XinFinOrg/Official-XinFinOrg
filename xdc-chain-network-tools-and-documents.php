@@ -216,8 +216,69 @@ include('inc/header.php') ?>
         </div>
         <div class="clear"></div>
     </section>
-
+    
     <section id="xdce" class="exchange-listing">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="sectionHeading">
+                        <h1>RPC Endpoint</h1>
+                        <p>Get RPC Endpoint for XDC Network</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="tab-content pt-0">
+                <div id="network" class="tab-pane fade in active">
+                    <div class="flex-row">                        
+                        <div class="col-lg-6 col-md-6 col-sm-12 mt-3 mb-1">
+                        <div class="rpcLinkBox bordered">
+                        	<h4 class="heading mt-0 mb-2">XDC MainNet</h4>
+                                <div class="">
+                                    <h5 clas="heading">Archive Node</h5>
+                                    <p><a href="https://arpc.xinfin.network" target="_blank" class="link-break-out">https://arpc.xinfin.network</a></p>
+                                </div>
+                             <hr class="hr-space mt-2 mb-2">
+                                <div class="">
+                                    <h5 class="heading">Full Node</h5>
+                                    <p><a href="https://rpc.xinfin.network" target="_blank" class="link-break-out">https://rpc.xinfin.network</a></p>
+                                </div>
+                             <hr class="hr-space mt-2 mb-2">
+                                <div class="">
+                                    <h5 class="heading">Web Socket</h5>
+                                    <p><a href="wss://ws.xinfin.network" target="_blank" class="link-break-out">wss://ws.xinfin.network</a></p>
+                                </div>
+                        </div>
+                        </div>
+                        
+                        <div class="col-lg-6 col-md-6 col-sm-12 mt-3 mb-1">
+                        <div class="rpcLinkBox bordered">
+                        	<h4 class="heading mt-0 mb-2">XDC Apothem/TesNnet</h4>                            
+                                <div class="">
+                                    <h5 class="heading">Archive Node</h5>
+                                    <p><a href="https://arpc.apothem.network" target="_blank" class="link-break-out">https://arpc.apothem.network</a></p>
+                                </div>                             
+                             <hr class="hr-space mt-2 mb-2">                             
+                                <div class="">
+                                    <h5 class="heading">Full Node</h5>
+                                    <p><a href="https://ws.apothem.network" target="_blank" class="link-break-out">https://ws.apothem.network</a> OR <a href="https://rpc.apothem.network" target="_blank" class="link-break-out">https://rpc.apothem.network</a></p>
+                                </div>                             
+                             <hr class="hr-space mt-2 mb-2">                        	
+                                <div class="">
+                                    <h5 class="heading">Web Socket</h5>
+                                    <p><a href="wss://ws.apothem.network/ws" target="_blank" class="link-break-out">wss://ws.apothem.network/ws</a></p>
+                                </div>                             
+                        </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </section>
+
+    <section id="xdce" class="bg-white exchange-listing">
         <div class="container">
             <div class="tab-content pt-2">
                 <div id="network" class="tab-pane fade in active">
