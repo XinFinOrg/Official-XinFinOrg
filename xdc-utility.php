@@ -29,6 +29,24 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/chainfiles-logo.png" alt="chainfiles.cf">
+            </div>
+            <h3>Chainfiles <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://chainfiles.cf/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a> <a href="https://github.com/melwong/chainfiles" target="_blank"><button class="btn-hover color-3"><i class="fa fa-github"></i> Github</button></a>
+            </div>
+            <p>In global trade and finance, documents are often required to be notarized and authenticated to prevent fraud. This is why the fraud detection and prevention market is worth $20 billion annually. Common documents that need notarization are commercial leases, articles of incorporation, contract, bill of sale, deed of trust, and more.</p>
+            <div class="btn-block mb-1">
+                <a href="https://youtu.be/nsnNvw2FmJs" target="_blank"><button class="btn-hover color-3"><i class="fa fa-youtube"></i> Watch Video</button></a>
+            </div>
+            <p>Thus, ChainFiles aims to be the online notarization service powered by blockchain. Digital notarization is one of blockchain technology's best use cases because of its immutability nature and timestamping accuracy.</p>
+            <p>You may use our site for free on the XDC mainnet by requesting free XDC tokens from us. We are proud to support XDC in its global trade and finance initiatives.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/crypterium-logo.png" alt="crypterium.com">
             </div>
             <h3>Crypterium <span>Livenet</span></h3>
