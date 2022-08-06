@@ -22,10 +22,10 @@ include('inc/header.php') ?>
                 <div class="setup-masternode-row">
                     <div class="container">
                     <ul class="nav nav-tabs">
-                        <li class="active"><a data-toggle="tab" href="#CLD">Core Level Developers</a></li>
+                        <!--<li class="active"><a data-toggle="tab" href="#CLD">Core Level Developers</a></li>-->
+                        <li class="active"><a data-toggle="tab" href="#PL">Protocol Lab</a></li>
                         <li><a data-toggle="tab" href="#IILD">Infrastructure Integration Level Developers</a></li>
                         <li><a data-toggle="tab" href="#ALD">Application Level Developers</a></li>
-                        <li><a data-toggle="tab" href="#PL">Protocol Lab</a></li>
                     </ul>
                     </div>
                 </div>
@@ -38,7 +38,7 @@ include('inc/header.php') ?>
             
             <div class="col-lg-12">
                 <div class="tab-content">
-                    <div id="CLD" class="tab-pane fade in active">
+                    <!--<div id="CLD" class="tab-pane fade in active">
                         <div class="ecosystem-partners-block">
                             <h3>Core Level Developers</h3>
                             <div class="orderList">
@@ -59,6 +59,52 @@ include('inc/header.php') ?>
                                         <a href="https://sotatek.com/en" target="_blank">
                                             <div class="partner-logo"><img src="assets/images/ecosystem-partners/sotatek_logo.png" alt="SotaTek" /></div>
                                             <h6 class="partner-logo_desc">SotaTek</h6>
+                                        </a>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>-->
+                    
+                    <div id="PL" class="tab-pane fade in active">
+                        <div class="ecosystem-partners-block">
+                            <h3>Protocol Lab</h3>
+                            <div class="orderList">
+                            <ul>
+                            	<li>Network Consensus, Network upgrades, Network tools</li>
+                                <li>Research, Development for Network Protocols</li>                                
+                                <li>Security and Stress testing</li>
+                             </ul>
+                                </div>
+                            
+                                <div class="row flex-row partner-logo_block">
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://4irelabs.com/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/4ireLabs_logo.png" alt="4ireLabs" /></div>
+                                            <h6 class="partner-logo_desc">4IRE LABS</h6>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://sotatek.com/en" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/sotatek_logo.png" alt="SotaTek" /></div>
+                                            <h6 class="partner-logo_desc">SotaTek</h6>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://www.hashlabs.com/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/hashlabs_logo.png" class="img-responsive" alt="Hash Labs" /></div>
+                                            <h6 class="partner-logo_desc">Hash Labs</h6>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://www.solulab.com/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/solulab_logo.png" class="img-responsive" alt="SoluLab" /></div>
+                                            <h6 class="partner-logo_desc">SoluLab</h6>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://carry.so/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/carryso-logo.png" class="img-responsive" alt="Carry" /></div>
+                                            <h6 class="partner-logo_desc">Carry.So</h6>
                                         </a>
                                     </div>
                                 </div>
@@ -220,34 +266,7 @@ include('inc/header.php') ?>
                                     </div>
                                 </div>
                         </div>
-                    </div>
-                    
-                    <div id="PL" class="tab-pane fade">
-                        <div class="ecosystem-partners-block">
-                            <h3>Protocol Lab</h3>
-                            <div class="orderList">
-                            <ul>
-                            	<li>Research, Development for Network Protocols</li>
-                                <li>Security and Stress testing</li>
-                             </ul>
-                                </div>
-                            
-                                <div class="row flex-row partner-logo_block">
-                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
-                                        <a href="https://www.hashlabs.com/" target="_blank">
-                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/hashlabs_logo.png" class="img-responsive" alt="Hash Labs" /></div>
-                                            <h6 class="partner-logo_desc">Hash Labs</h6>
-                                        </a>
-                                    </div>
-                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
-                                        <a href="https://www.solulab.com/" target="_blank">
-                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/solulab_logo.png" class="img-responsive" alt="SoluLab" /></div>
-                                            <h6 class="partner-logo_desc">SoluLab</h6>
-                                        </a>
-                                    </div>
-                                </div>
-                        </div>
-                    </div>
+                    </div>                    
                 </div>
             </div>
         </div>
@@ -255,7 +274,7 @@ include('inc/header.php') ?>
         <div class="row mobile_view_ecosystem-partners">
             <div class="col-lg-12">
                 <div class="accordion js-accordion">
-                    <div class="accordion__item js-accordion-item">
+                    <!--<div class="accordion__item js-accordion-item">
                         <div class="accordion-header js-accordion-header"><p>Core Level Developers</p> <span><i class="fa fa-chevron-down"></i></span></div>
                         <div class="accordion-body js-accordion-body">
                             <div class="accordion-body__contents">
@@ -264,6 +283,7 @@ include('inc/header.php') ?>
                             <div class="orderList">
                                 <ul>
                                     <li>Network Consensus, Network upgrades, Network tools</li>
+                                    <li>Research, Development for Network Protocols</li>
                                     <li>Security and Stress testing</li>
                                 </ul>
                             </div>
@@ -279,6 +299,57 @@ include('inc/header.php') ?>
                                         <a href="https://sotatek.com/en" target="_blank">
                                             <div class="partner-logo"><img src="assets/images/ecosystem-partners/sotatek_logo.png" alt="SotaTek" /></div>
                                             <h6 class="partner-logo_desc">SotaTek</h6>
+                                        </a>
+                                    </div>
+                                </div>
+                        </div>
+                            </div>
+                        </div>
+                    </div>-->
+                    
+                    <div class="accordion__item js-accordion-item">
+                        <div class="accordion-header js-accordion-header"><p>Protocol Lab</p> <span><i class="fa fa-chevron-down"></i></span></div>
+                        <div class="accordion-body js-accordion-body">
+                            <div class="accordion-body__contents">
+                                <div class="ecosystem-partners-block">
+                            <h3>Protocol Lab</h3>
+                            <div class="orderList">
+                                <ul>
+                                    <li>Network Consensus, Network upgrades, Network tools</li>
+                                    <li>Research, Development for Network Protocols</li>
+                                    <li>Security and Stress testing</li>
+                                </ul>
+                            </div>
+                            
+                                <div class="row flex-row partner-logo_block">
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://4irelabs.com/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/4ireLabs_logo.png" alt="4ireLabs" /></div>
+                                            <h6 class="partner-logo_desc">4IRE LABS</h6>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://sotatek.com/en" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/sotatek_logo.png" alt="SotaTek" /></div>
+                                            <h6 class="partner-logo_desc">SotaTek</h6>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://www.hashlabs.com/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/hashlabs_logo.png" class="img-responsive" alt="Hash Labs" /></div>
+                                            <h6 class="partner-logo_desc">Hash Labs</h6>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://www.solulab.com/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/solulab_logo.png" class="img-responsive" alt="SoluLab" /></div>
+                                            <h6 class="partner-logo_desc">SoluLab</h6>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://carry.so/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/carryso-logo.png" class="img-responsive" alt="Carry" /></div>
+                                            <h6 class="partner-logo_desc">Carry.So</h6>
                                         </a>
                                     </div>
                                 </div>
@@ -442,38 +513,7 @@ include('inc/header.php') ?>
                         </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="accordion__item js-accordion-item">
-                        <div class="accordion-header js-accordion-header"><p>Protocol Lab</p> <span><i class="fa fa-chevron-down"></i></span></div>
-                        <div class="accordion-body js-accordion-body">
-                            <div class="accordion-body__contents">
-                                <div class="ecosystem-partners-block">
-                            <h3>Protocol Lab</h3>
-                            <div class="orderList">
-                                <ul>
-                                    <li>Research, Development for Network Protocols</li>
-                                    <li>Security and Stress testing</li>
-                                </ul>
-                            </div>
-                            
-                                <div class="row flex-row partner-logo_block">
-                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
-                                        <a href="https://www.hashlabs.com/" target="_blank">
-                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/hashlabs_logo.png" class="img-responsive" alt="Hash Labs" /></div>
-                                            <h6 class="partner-logo_desc">Hash Labs</h6>
-                                        </a>
-                                    </div>
-                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
-                                        <a href="https://www.solulab.com/" target="_blank">
-                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/solulab_logo.png" class="img-responsive" alt="SoluLab" /></div>
-                                            <h6 class="partner-logo_desc">SoluLab</h6>
-                                        </a>
-                                    </div>
-                                </div>
-                        </div>
-                            </div>
-                        </div>
-                    </div>
+                    </div>                    
                 </div>
             </div>
         </div>
