@@ -43,6 +43,17 @@ include('inc/header.php') ?>
                     </div>
                     <div class="utility-col col-lg-3 col-md-3 col-sm-4 col-xs-4">
                         <div class="usecase-box-1">
+                            <a href="utility/chainfiles">
+                                <div class="image-container">
+                                    <img class="img-responsive" src="assets/images/utility/chainfiles-icon.png" alt="chainfiles.cf" />
+                                </div>
+                                <h3>Chainfiles</h3>
+                            </a>
+                        </div>
+                    </div>
+                    
+                    <div class="utility-col col-lg-3 col-md-3 col-sm-4 col-xs-4">
+                        <div class="usecase-box-1">
                             <a href="utility/crypterium">
                                 <div class="image-container">
                                     <img class="img-responsive" src="assets/images/utility/crypterium-icon.png" alt="crypterium.com" />
@@ -407,8 +418,7 @@ include('inc/header.php') ?>
                         <div class="btn-block mb-1">
                             <a href="https://github.com/XinFinOrg/Loyalty-Token" target="_blank"><button class="btn-hover color-1">Setup Loyalty dApp</button></a>
                         </div>
-
-                        <div class="image-container mb-5"></div>
+						<hr class="mt-3 mb-3">
                         <h3 class="fw-7 mb-2">List Your Application</h3>
                         <p class="mb-2">Do you have an application built around the XDC Network that you want to see listed on our webpage?</p>
                         <p class="mb-2">It's quick and simple.</p>

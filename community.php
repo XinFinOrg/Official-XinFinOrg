@@ -25,6 +25,7 @@ include('inc/header.php') ?>
                         <li class="active"><a data-toggle="tab" href="#CLD">Core Level Developers</a></li>
                         <li><a data-toggle="tab" href="#IILD">Infrastructure Integration Level Developers</a></li>
                         <li><a data-toggle="tab" href="#ALD">Application Level Developers</a></li>
+                        <li><a data-toggle="tab" href="#PL">Protocol Lab</a></li>
                     </ul>
                     </div>
                 </div>
@@ -87,6 +88,30 @@ include('inc/header.php') ?>
                                             <h6 class="partner-logo_desc">IoTrust (Makers of D'cent Wallet)</h6>
                                         </a>
                                     </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://mywish.io/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/mywish-logo.png" alt="MyWish" /></div>
+                                            <h6 class="partner-logo_desc">MyWish</h6>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://tatum.io/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/tatum-logo.png" alt="Tatum" /></div>
+                                            <h6 class="partner-logo_desc">Tatum</h6>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://www.wanchain.org/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/wanchain-logo.png" alt="Wanchain" /></div>
+                                            <h6 class="partner-logo_desc">Wanchain</h6>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://unmarshal.io/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/unmarshal-logo.png" alt="Unmarshal" /></div>
+                                            <h6 class="partner-logo_desc">Unmarshal</h6>
+                                        </a>
+                                    </div>
                                 </div>
                         </div>
                     </div>
@@ -121,12 +146,12 @@ include('inc/header.php') ?>
                                             <h6 class="partner-logo_desc">Lab5577 (Cordite Society)</h6>
                                         </a>
                                     </div>
-                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                    <!--<div class="col-lg-3 col-md-3 col-sm-4 logo">
                                         <a href="https://zubi.io/" target="_blank">
                                             <div class="partner-logo"><img src="assets/images/ecosystem-partners/zubi_logo.png" class="img-responsive" alt="Zubi.io" /></div>
                                             <h6 class="partner-logo_desc">Zubi.io</h6>
                                         </a>
-                                    </div>
+                                    </div>-->
                                     <div class="col-lg-3 col-md-3 col-sm-4 logo">
                                         <a href="https://yodaplus.com/" target="_blank">
                                             <div class="partner-logo"><img src="assets/images/ecosystem-partners/yodaplus_logo.png" class="img-responsive" alt="Yodaplus" /></div>
@@ -139,12 +164,18 @@ include('inc/header.php') ?>
                                             <h6 class="partner-logo_desc">Trace Financial (ISO20022 - Financial Messaging Integration)</h6>
                                         </a>
                                     </div>
-                                    <!--<div class="col-lg-3 col-md-3 col-sm-4 logo">
-                                        <a href="https://www.tradeteq.com/" target="_blank">
-                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/tradeteq_logo.png" class="img-responsive" alt="TradeTeq" /></div>
-                                            <h6 class="partner-logo_desc">TradeTeq (Notes Tokenization for Banks and Non-Bank Originators)</h6>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://www.leewayhertz.com" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/leewayhertz-logo.png" class="img-responsive" alt="LeewayHertz" /></div>
+                                            <h6 class="partner-logo_desc">LeewayHertz</h6>
                                         </a>
-                                    </div>-->
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://dasl.io/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/dasl-logo.png" class="img-responsive" alt="DASL" /></div>
+                                            <h6 class="partner-logo_desc">DASL</h6>
+                                        </a>
+                                    </div>
                                     <div class="col-lg-3 col-md-3 col-sm-4 logo">
                                         <a href="https://chain.link/" target="_blank">
                                             <div class="partner-logo"><img src="assets/images/ecosystem-partners/chainlink_logo.png" class="img-responsive" alt="Chainlink" /></div>
@@ -184,7 +215,34 @@ include('inc/header.php') ?>
                                     <div class="col-lg-3 col-md-3 col-sm-4 logo">
                                         <a href="https://rocknblock.io/" target="_blank">
                                             <div class="partner-logo"><img src="assets/images/ecosystem-partners/rocknblock_logo.png" class="img-responsive" alt="Blocksscan" /></div>
-                                            <h6 class="partner-logo_desc">Rock’n’Block</h6>
+                                            <h6 class="partner-logo_desc">Rock'n'Block</h6>
+                                        </a>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+                    
+                    <div id="PL" class="tab-pane fade">
+                        <div class="ecosystem-partners-block">
+                            <h3>Protocol Lab</h3>
+                            <div class="orderList">
+                            <ul>
+                            	<li>Research, Development for Network Protocols</li>
+                                <li>Security and Stress testing</li>
+                             </ul>
+                                </div>
+                            
+                                <div class="row flex-row partner-logo_block">
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://www.hashlabs.com/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/hashlabs_logo.png" class="img-responsive" alt="Hash Labs" /></div>
+                                            <h6 class="partner-logo_desc">Hash Labs</h6>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://www.solulab.com/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/solulab_logo.png" class="img-responsive" alt="SoluLab" /></div>
+                                            <h6 class="partner-logo_desc">SoluLab</h6>
                                         </a>
                                     </div>
                                 </div>
@@ -255,6 +313,30 @@ include('inc/header.php') ?>
                                             <h6 class="partner-logo_desc">IoTrust (Makers of D'cent Wallet)</h6>
                                         </a>
                                     </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://mywish.io/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/mywish-logo.png" alt="MyWish" /></div>
+                                            <h6 class="partner-logo_desc">MyWish</h6>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://tatum.io/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/tatum-logo.png" alt="Tatum" /></div>
+                                            <h6 class="partner-logo_desc">Tatum</h6>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://www.wanchain.org/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/wanchain-logo.png" alt="Wanchain" /></div>
+                                            <h6 class="partner-logo_desc">Wanchain</h6>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://unmarshal.io/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/unmarshal-logo.png" alt="Unmarshal" /></div>
+                                            <h6 class="partner-logo_desc">Unmarshal</h6>
+                                        </a>
+                                    </div>
                                 </div>
                         </div>
                             </div>
@@ -284,12 +366,12 @@ include('inc/header.php') ?>
                                             <h6 class="partner-logo_desc">Lab5577 (Cordite Society)</h6>
                                         </a>
                                     </div>
-                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                    <!--<div class="col-lg-3 col-md-3 col-sm-4 logo">
                                         <a href="https://zubi.io/" target="_blank">
                                             <div class="partner-logo"><img src="assets/images/ecosystem-partners/zubi_logo.png" class="img-responsive" alt="Zubi.io" /></div>
                                             <h6 class="partner-logo_desc">Zubi.io</h6>
                                         </a>
-                                    </div>
+                                    </div>-->
                                     <div class="col-lg-3 col-md-3 col-sm-4 logo">
                                         <a href="https://yodaplus.com/" target="_blank">
                                             <div class="partner-logo"><img src="assets/images/ecosystem-partners/yodaplus_logo.png" class="img-responsive" alt="Yodaplus" /></div>
@@ -302,16 +384,22 @@ include('inc/header.php') ?>
                                             <h6 class="partner-logo_desc">Trace Financial (ISO20022 - Financial Messaging Integration)</h6>
                                         </a>
                                     </div>
-                                    <!--<div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
                                         <a href="https://www.tradeteq.com/" target="_blank">
                                             <div class="partner-logo"><img src="assets/images/ecosystem-partners/tradeteq_logo.png" class="img-responsive" alt="TradeTeq" /></div>
                                             <h6 class="partner-logo_desc">TradeTeq (Notes Tokenization for Banks and Non-Bank Originators)</h6>
                                         </a>
-                                    </div>-->
+                                    </div>
                                     <div class="col-lg-3 col-md-3 col-sm-4 logo">
-                                        <a href="https://chain.link/" target="_blank">
-                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/chainlink_logo.png" class="img-responsive" alt="Chainlink" /></div>
-                                            <h6 class="partner-logo_desc">Chainlink (Oracles and Price Feeds)</h6>
+                                        <a href="https://www.leewayhertz.com" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/leewayhertz-logo.png" class="img-responsive" alt="LeewayHertz" /></div>
+                                            <h6 class="partner-logo_desc">LeewayHertz</h6>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://dasl.io/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/dasl-logo.png" class="img-responsive" alt="DASL" /></div>
+                                            <h6 class="partner-logo_desc">DASL</h6>
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-3 col-sm-4 logo">
@@ -348,6 +436,37 @@ include('inc/header.php') ?>
                                         <a href="https://rocknblock.io/" target="_blank">
                                             <div class="partner-logo"><img src="assets/images/ecosystem-partners/rocknblock_logo.png" class="img-responsive" alt="Blocksscan" /></div>
                                             <h6 class="partner-logo_desc">Rock’n’Block</h6>
+                                        </a>
+                                    </div>
+                                </div>
+                        </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion__item js-accordion-item">
+                        <div class="accordion-header js-accordion-header"><p>Protocol Lab</p> <span><i class="fa fa-chevron-down"></i></span></div>
+                        <div class="accordion-body js-accordion-body">
+                            <div class="accordion-body__contents">
+                                <div class="ecosystem-partners-block">
+                            <h3>Protocol Lab</h3>
+                            <div class="orderList">
+                                <ul>
+                                    <li>Research, Development for Network Protocols</li>
+                                    <li>Security and Stress testing</li>
+                                </ul>
+                            </div>
+                            
+                                <div class="row flex-row partner-logo_block">
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://www.hashlabs.com/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/hashlabs_logo.png" class="img-responsive" alt="Hash Labs" /></div>
+                                            <h6 class="partner-logo_desc">Hash Labs</h6>
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4 logo">
+                                        <a href="https://www.solulab.com/" target="_blank">
+                                            <div class="partner-logo"><img src="assets/images/ecosystem-partners/solulab_logo.png" class="img-responsive" alt="SoluLab" /></div>
+                                            <h6 class="partner-logo_desc">SoluLab</h6>
                                         </a>
                                     </div>
                                 </div>
