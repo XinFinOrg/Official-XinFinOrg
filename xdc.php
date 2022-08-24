@@ -749,6 +749,22 @@ include('inc/header.php') ?>
                     </div>
                 </div>
             </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+                <div class="wallet-item_block">
+                    <a href="https://frontier.xyz/" class="wallet-item">
+                        <div class="wallet-logo-container">
+                            <img src="assets/images/exchanges/frontier-wallet/frontier-wallet.png" alt="Frontier Wallet" class="img-responsive" />
+                        </div>
+                    </a>
+                    <div class="wallet-text">
+                    <h5>Frontier Wallet</h5>
+                        <div class="wallet-apps">
+                        	<!--<a href="https://play.google.com/store/apps/details?id=com.frontierwallet&hl=en_IN&gl=US" target="_blank" title="Android Wallet"><span class="wallet-apps-tag mobile">Android</span></a>-->
+                            <a href="https://apps.apple.com/in/app/frontier-crypto-defi-wallet/id1482380988" target="_blank" title="iOS Wallet"><span class="wallet-apps-tag mobile">iOS</span></a>                         
+                        </div>
+                    </div>
+                </div>
+            </div>
 		</div>
         </div>
                     
