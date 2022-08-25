@@ -407,9 +407,10 @@ include('inc/header.php') ?>
                         <div class="col-md-12 col-sm-12 col-xs-12">
                             <p class="sub-header">Technical Community Support available at:</p>
                             <p class="mt-1 mb-1 link-break-out">Telegram Community: <a href="https://t.me/XinFinDevelopers" target="_blank">https://t.me/XinFinDevelopers</a></p>
-                            <p class="mb-1 link-break-out">Slack Community: <a href="https://xinfin-public.slack.com/messages/CELR2M831/" target="_blank">https://xinfin-public.slack.com/messages/CELR2M831/</a></p>
+                            <p class="mb-1 link-break-out">Slack Community: <a href="https://xinfin-public.slack.com/messages/CELR2M831/" target="_blank">https://xinfin-public.slack.com/messages/CELR2M831</a></p>
                             <p class="mb-1 link-break-out">Slack Invitation Link: <a href="https://launchpass.com/xinfin-public" target="_blank">https://launchpass.com/xinfin-public</a></p>
-                            <p class="mb-1 link-break-out">Technical help Resource: <a href="http://howto.xinfin.org/" target="_blank">http://howto.xinfin.org/</a></p>
+                            <p class="mb-1 link-break-out">Technical help Resource: <a href="http://howto.xinfin.org/" target="_blank">http://howto.xinfin.org</a></p>
+                            <p class="mb-1 link-break-out">Developers Forum: <a href="https://www.xdc.dev/" target="_blank">https://www.xdc.dev</a></p>
                             <p class="link-break-out">Feel free to <a href="contactus">Contact us</a> for any of your queries.</p>
                         </div>
                     </div>
