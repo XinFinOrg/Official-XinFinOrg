@@ -29,6 +29,39 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/xdc-web3-domains-logo.png" alt="xdcdomains.xyz">
+            </div>
+            <h3>XDC Web3 Domains <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://xdcdomains.xyz/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a> <a href="https://github.com/XDCWeb3Domains" target="_blank"><button class="btn-hover color-3"><i class="fa fa-github"></i> Github</button></a>
+            </div>            
+            <p>XDC Web3 Domains - Own Your Blockchain Domains. Building Identity on blockchain with .xdc domains.</p>
+            <p>NFT domain is not only a wallet name, it also has functions of a website address. As a website, the users can type in their NFT domain name in a compatible browser, it will show users the website content that they put there. As a cryptocurrency wallet, they can use that same domain name to send and receive cryptocurrencies.</p>
+            <p>.xdc domains are not centralized, after purchasing them, they are yours for life and you can also control it fully without third parties dictating rules to you.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/xinfin-name-service-logo.png" alt="xinfin.webthreenames.com">
+            </div>
+            <h3>XinFin Name Service <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://xinfin.webthreenames.com/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            </div>
+            <p>XinFin Name Services is a domain name service for the XDC Blockchain.</p>
+            <p>Mint your blockchain domains as NFT assets that will bind the domain to your wallet address. You can also set records for your website, email, twitter, description and even your own avatar.</p>
+        </div>
+    </div>
+    
+    
+    
+    
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/chainfiles-logo.png" alt="chainfiles.cf">
             </div>
             <h3>Chainfiles <span>Livenet</span></h3>

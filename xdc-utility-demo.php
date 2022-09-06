@@ -132,6 +132,28 @@ include('inc/header.php') ?>
                             </a>
                         </div>
                     </div>
+                    
+                    <div class="utility-col col-lg-3 col-md-3 col-sm-4 col-xs-4">
+                        <div class="usecase-box-1">
+                            <a href="utility/xdc-web3-domains">
+                                <div class="image-container">
+                                    <img class="img-responsive" src="assets/images/utility/xdc-web3-domains-icon.png" alt="xdcdomains.xyz" />
+                                </div>
+                                <h3>XDC Web3 Domains</h3>
+                            </a>
+                        </div>
+                    </div>
+                    
+                    <div class="utility-col col-lg-3 col-md-3 col-sm-4 col-xs-4">
+                        <div class="usecase-box-1">
+                            <a href="utility/xinfin-name-service">
+                                <div class="image-container">
+                                    <img class="img-responsive" src="assets/images/utility/xinfin-name-service-icon.png" alt="xinfin.webthreenames.com" />
+                                </div>
+                                <h3>XinFin Name Service</h3>
+                            </a>
+                        </div>
+                    </div>
 
                     <div class="utility-col col-lg-3 col-md-3 col-sm-4 col-xs-4">
                         <div class="usecase-box-1">
