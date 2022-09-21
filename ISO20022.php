@@ -20,7 +20,7 @@ include('inc/header.php') ?>
 
 <section id="protocol" class="bounty">
 	<div class="container">
-        <div class="tab-content">
+        <div class="tab-content pt-0">
             <div id="network" class="tab-pane fade in active">
                 <div class="row" style="margin-top:0%;padding-bottom:0px;">
                     <div class="col-md-12 col-sm-12 col-xs-12">
@@ -30,7 +30,7 @@ include('inc/header.php') ?>
                         
                         <p class="mt-3">Know more about <a href="https://www.iso20022.org" target="_blank">ISO20022 Standard</a>: Disjoint systems and data can now interact using the XDC Protocol and enable themselves with smart-contracts for any kind of business logic thereby eliminating any manual intervention or intermediary driven communication between any two parties.</p>
                         
-                        
+                        <p><a href="https://www.impel.global/"><span class="fw-7">Impel</span></a> is a fintech innovator that uses blockchain technology to deliver financial messaging (ISO 20022) with optional collateral for instant settlement, and a bridge to the R3 Corda platform to future-facing banks and fintechs.</p>
                     
                         <p>To enable cross-platform interaction between your enterprise with any external system with limited data and transaction transparency, you can choose from the following tools.</p>                      
                         
