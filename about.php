@@ -123,7 +123,7 @@ include('inc/header.php') ?>
                 <img src="assets/images/team/advisors/sydney-ifergan.jpg" alt="" class="img-responsive team2">
                 <div class="overlay1">
                   <div class="text1">
-                    <h4>Sydney Ifergan</h4>
+                    <h4 class="fw-6">Sydney Ifergan</h4>
                     <p class="coo">CMO, Crypto & ICO Expert</p>
                     <p class="text-content">Sydney holds a degree in computer science and has 20+ years commercial experience. He has spent the last
                       10 years working in the online marketing arena and was the CMO for a large FX brokerage. </p>
@@ -135,7 +135,7 @@ include('inc/header.php') ?>
                 <img src="assets/images/team/advisors/simon-bowles.jpg" alt="" class="img-responsive team2">
                 <div class="overlay1">
                   <div class="text1">
-                    <h4>Simon Bowles</h4>
+                    <h4 class="fw-6">Simon Bowles</h4>
                     <p class="coo">Blockchain Advisor and Consultant</p>
                     <p class="text-content">Simon has almost 20 years experience across capital markets, fintech and Blockchain. He served as CEO of a leading European digital wallet and he has held other C-level positions within fintech in Malta. </p>
                   </div>
@@ -146,7 +146,7 @@ include('inc/header.php') ?>
                 <img src="assets/images/team/advisors/tadshi-yoshida.jpg" alt="" class="img-responsive team2">
                 <div class="overlay1">
                   <div class="text1">
-                    <h4>Tadashi Yoshida</h4>
+                    <h4 class="fw-6">Tadashi Yoshida</h4>
                     <p class="coo">Ecosystem Development, Japan</p>
                     <p class="text-content">A specialist in developing and managing startup support programs including accelerator and incubation program, Tadashi initiated and operated the Japan's first govt. managed accelerator program at SME support Japan. Having extended support to several new startups development in Japan, he has gained extensive experience in providing consultation and ideation of business ideas across the globe.</p>
                   </div>
@@ -177,7 +177,7 @@ include('inc/header.php') ?>
                   <img src="assets/images/team/core-team/roland-jones.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
                     <div class="text2">
-                      <h4>Roland Q. Jones
+                      <h4 class="fw-6">Roland Q. Jones
                         <a href="https://www.linkedin.com/in/r-quincy-jones-456b97160/" target="_blank">
                           <i class="fa fa-linkedin" aria-hidden="true"></i>
                         </a>
@@ -194,7 +194,7 @@ include('inc/header.php') ?>
                   <img src="assets/images/team/core-team/atul-khekade.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
                     <div class="text2">
-                      <h4>Atul Khekade
+                      <h4 class="fw-6">Atul Khekade
                         <a href="https://www.linkedin.com/in/atul-khekade-9076b36/" target="_blank">
                           <i class="fa fa-linkedin" aria-hidden="true"></i>
                         </a>
@@ -211,13 +211,31 @@ include('inc/header.php') ?>
                   <img src="assets/images/team/core-team/ritesh-kakkad.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
                     <div class="text2">
-                      <h4>Ritesh Kakkad
+                      <h4 class="fw-6">Ritesh Kakkad
                         <a href="https://www.linkedin.com/in/ritesh-kakkad-b65a0a2/" target="_blank">
                           <i class="fa fa-linkedin" aria-hidden="true"></i>
                         </a>
                       </h4>
                       <p class="cto">Co-Founder, Early Investor, Blockchain Strategist</p>
                       <p class="text-content">As a serial entrepreneur working on the ideation and development of a Cloud hosting and a web infrastructure company, Ritesh's work has been recognized by the likes of Microsoft and BBC. Over the past 20 years, Ritesh has accumulated extensive experience in the fields of Cloud Hosting, Cloud Setup and Internet-Infrastructure. Ritesh is now leveraging his experience at XinFin in the areas of Blockchain and protocol setup.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>              
+              
+              <div class="item">
+                <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
+                  <img src="assets/images/team/core-team/sunil-senapati.jpg" alt="" class="img-responsive" width="100%">
+                  <div class="overlay2">
+                    <div class="text2">
+                      <h4 class="fw-6">Sunil Senapati
+                        <a href="https://www.linkedin.com/in/sunilsenapati/" target="_blank">
+                          <i class="fa fa-linkedin" aria-hidden="true"></i>
+                        </a>
+                      </h4>
+                      <p class="cto">Chief Operating Officer – Trade & Payments</p>
+                      <p class="text-content">Sunil is an MBA from UK Northumbria University and brings 25+ years of experience in Technology, Consulting, and Trade. Previously, he worked with companies like Oracle, Maersk, Bolero, and Monetago.</p>
+                      <p class="text-content">Sunil likes to solve business problems with technology and bring the industry together by putting ROI before any project starts. His consulting and outsourcing assignments have saved millions of dollars for his clients. Sunil will nurture and expand the developer ecosystem partners globally for XDC Network.</p>
                     </div>
                   </div>
                 </div>
@@ -228,7 +246,7 @@ include('inc/header.php') ?>
                   <img src="assets/images/team/core-team/meenu-sarin.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
                     <div class="text2">
-                      <h4>Meenu Sarin
+                      <h4 class="fw-6">Meenu Sarin
                         <a href="http://sg.linkedin.com/in/meenusarin/" target="_blank">
                           <i class="fa fa-linkedin" aria-hidden="true"></i>
                         </a>
@@ -245,7 +263,7 @@ include('inc/header.php') ?>
                   <img src="assets/images/team/core-team/bill-sebell.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
                     <div class="text2">
-                      <h4>Bill Sebell
+                      <h4 class="fw-6">Bill Sebell
                         <a href="https://www.linkedin.com/in/bill-sebell-a928663/" target="_blank">
                           <i class="fa fa-linkedin" aria-hidden="true"></i>
                         </a>
@@ -262,7 +280,7 @@ include('inc/header.php') ?>
                   <img src="assets/images/team/core-team/andre-casterman.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
                     <div class="text2">
-                      <h4>André Casterman
+                      <h4 class="fw-6">André Casterman
                         <a href="https://www.linkedin.com/in/andrecasterman/" target="_blank">
                           <i class="fa fa-linkedin" aria-hidden="true"></i>
                         </a>
@@ -276,27 +294,10 @@ include('inc/header.php') ?>
               
               <div class="item">
                 <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
-                  <img src="assets/images/team/core-team/parv-aggarwal.jpg" alt="" class="img-responsive" width="100%">
-                  <div class="overlay2">
-                    <div class="text2">
-                      <h4>Parv Aggarwal
-                        <a href="https://www.linkedin.com/in/parvaggmib/" target="_blank">
-                          <i class="fa fa-linkedin" aria-hidden="true"></i>
-                        </a>
-                      </h4>
-                      <p class="cto">Business Development Lead</p>
-                      <p class="text-content">Parv received his BA from Duke University, as well as an MA from Tufts Fletcher School. He has 10 years of financial institution business development, enterprise blockchain solutions architecture, and programmable CBDC design experience. His knowledge with CBDC's and payment rails, financial procedures and blockchain technology give him the experience needed to develop business in the XDC Ecosystem.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              
-              <div class="item">
-                <div class="col-md-4 col-sm-12 col-xs-12" style="padding: 0px;" id="wrapper2">
                   <img src="assets/images/team/core-team/andrea-frosinini.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
                     <div class="text2">
-                      <h4>Andrea Frosinini
+                      <h4 class="fw-6">Andrea Frosinini
                         <a href="https://www.linkedin.com/in/andreafrosinini/" target="_blank">
                           <i class="fa fa-linkedin" aria-hidden="true"></i>
                         </a>
@@ -313,7 +314,7 @@ include('inc/header.php') ?>
                   <img src="assets/images/team/core-team/confidence-nyirenda.jpg" alt="" class="img-responsive" width="100%">
                   <div class="overlay2">
                     <div class="text2">
-                      <h4>Confidence Nyirenda
+                      <h4 class="fw-6">Confidence Nyirenda
                         <a href="https://www.linkedin.com/in/confidencenyirenda/" target="_blank">
                           <i class="fa fa-linkedin" aria-hidden="true"></i>
                         </a>
