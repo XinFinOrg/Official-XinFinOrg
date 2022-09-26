@@ -610,15 +610,15 @@ include('inc/header.php') ?>
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.9s">
                         <a href="https://www.livebitcoinnews.com/xinfin-unveils-xdc-hybrid-blockchain-protocol-opens-utility-token-sale/" target="_blank"><img src="assets/images/home/media/livebitcoinnews-logo.png" alt="LivebitcoinNews" class="img-responsive margin-auto-lr"></a>
                     </div>
-                    <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1s">
+                    <!--<div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1s">
                         <a href="http://www.digitaljournal.com/pr/3871242" target="_blank"><img src="assets/images/home/media/Digital-Journal-logo.png" alt="DigitalJournal" class="img-responsive margin-auto-lr"></a>
-                    </div>
+                    </div>-->
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.1s">
                         <a href="https://cointelegraph.com/press-releases/bitcoins-roger-ver-and-mate-tokay-join-xinfinio-advisory-board" target="_blank"><img src="assets/images/home/media/cointelegraph-logo.png" alt="CoinTelegraph" class="img-responsive margin-auto-lr"></a>
                     </div>
-                    <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.2s">
+                    <!--<div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.2s">
                         <a href="https://icobench.com/thebench-post/21-how-can-stock-exchange-industry-benefit-from-using-blockchain-technology" target="_blank"><img src="assets/images/home/media/icobench-logo.png" alt="ICOBench" class="img-responsive margin-auto-lr"></a>
-                    </div>
+                    </div>-->
                     <!--<div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="1.3s">
                         <a href="https://bitcoinist.com/xinfin-ties-up-with-koinok-com-gets-its-utility-token-xdce-listed-on-one-of-indias-top-exchange/" target="_blank"><img src="assets/images/home/media/bitcoinist-logo.png" alt="Bitcoinist" class="img-responsive margin-auto-lr"></a>
                     </div>-->
