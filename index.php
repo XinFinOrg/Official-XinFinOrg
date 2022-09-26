@@ -646,7 +646,7 @@ include('inc/header.php') ?>
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="2.1s">
                         <a href="https://www.ccn.com/xinfin-botswana-government-discuss-blockchain-solution-infrastructure-deficit/" target="_blank"><img src="assets/images/home/media/ccn-logo.png" alt="CCN" class="img-responsive margin-auto-lr"></a>
                     </div>
-                    <div class="col-md-offset-4 col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="2.2s">
+                    <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="2.2s">
                         <a href="https://www.prnewswire.com/news-releases/xinfin-kick-starts-blockchain-engineering-and-business-development-lab-at-university-of-california-berkeley-usa-685819171.html" target="_blank"><img src="assets/images/home/media/prncision-logo.png" alt="PR Newswire" class="img-responsive margin-auto-lr"></a>
                     </div>
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="2.2s">
