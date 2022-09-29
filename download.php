@@ -153,6 +153,21 @@ include('inc/header.php') ?>
                         
                         <hr class="light">
                         
+                        <div class="row mt-5">
+                        	<div class="col-md-6 mb-2">
+                            	<div class="brand-assets-logo-border ex-large">
+                           	    	<img src="assets/images/brand-assets/backdrop.jpg" class="img-responsive"/>
+                                </div>
+                                <h1>XDC Network Backdrop</h1>
+                                <p>Use this Backdrop whenever possible for video calls</p>
+                                <div class="btn-block">
+									<a href="assets/images/brand-assets/backdrop.jpg" target="_blank"><button class="btn-outline mb-1">.JPG</button></a>
+	    						</div>
+                            </div>
+                        </div>
+                        
+                        <hr class="light">
+                        
                         <h3 class="mt-5 pb-0">Promotional Assets</h3>                        
                         <p class="text-center mb-5"></p>
                         <div class="row pb-0">

@@ -1697,6 +1697,7 @@ button.btn-outline-default .fa{margin-right:5px;}
 
 .downloads .brand-assets-logo-border{border:1px solid #d7d7d7;background-color:#FFFFFF;padding:40px;text-align:center;}
 .downloads .brand-assets-logo-border img{max-width:100px;display:block;margin:auto;}
+.downloads .brand-assets-logo-border.ex-large img{max-width:90%;display:block;margin:auto;}
 
 .downloads .brand-assets-logo{background:#112b3c;padding:40px;text-align:center;}
 .downloads .brand-assets-logo img{max-width:100px;display:block;margin:auto;}
