@@ -76,7 +76,7 @@ include('inc/header.php') ?>
 
                     <div class="utility-col col-lg-3 col-md-3 col-sm-4 col-xs-4">
                         <div class="usecase-box-1">
-                            <a href="">
+                            <a href="utility/impel">
                                 <div class="image-container">
                                     <img class="img-responsive" src="assets/images/utility/impel-icon.png" alt="impel.global" />
                                 </div>
@@ -87,7 +87,7 @@ include('inc/header.php') ?>
 
                     <div class="utility-col col-lg-3 col-md-3 col-sm-4 col-xs-4">
                         <div class="usecase-box-1">
-                            <a href="">
+                            <a href="utility/tradefinex">
                                 <div class="image-container">
                                     <img class="img-responsive" src="assets/images/utility/tradefinex-icon.png" alt="tradefinex.org" />
                                 </div>
@@ -98,7 +98,7 @@ include('inc/header.php') ?>
 
                     <div class="utility-col col-lg-3 col-md-3 col-sm-4 col-xs-4">
                         <div class="usecase-box-1">
-                            <a href="">
+                           <a href="utility/gbex">
                                 <div class="image-container">
                                     <img class="img-responsive" src="assets/images/utility/gbex-icon.png" alt="eu.globiance.com/gbex-token" />
                                 </div>
@@ -113,7 +113,18 @@ include('inc/header.php') ?>
 
                     <div class="utility-col col-lg-3 col-md-3 col-sm-4 col-xs-4">
                         <div class="usecase-box-1">
-                            <a href="">
+                            <a href="utility/godomains">
+                                <div class="image-container">
+                                    <img class="img-responsive" src="assets/images/utility/godomains-icon.png" alt="godomains.io" />
+                                </div>
+                                <h3>Go Domains</h3>
+                            </a>
+                        </div>
+                    </div>
+                    
+                    <div class="utility-col col-lg-3 col-md-3 col-sm-4 col-xs-4">
+                        <div class="usecase-box-1">
+                            <a href="utility/primenumbers">
                                 <div class="image-container">
                                     <img class="img-responsive" src="assets/images/utility/primenumbers-icon.png" alt="primenumbers.es" />
                                 </div>

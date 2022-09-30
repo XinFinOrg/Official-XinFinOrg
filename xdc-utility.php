@@ -29,6 +29,23 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/godomains-logo.png" alt="godomains.io">
+            </div>
+            <h3>Go Domains <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://godomains.io/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            </div>            
+            <p>GoDomain is a Blockchain-powered domain Registrar to offer .go Domain for registration.</p>
+            <div class="btn-block mb-1">
+                <a href="https://www.youtube.com/channel/UCC2ZBGI-cw5N-tWT5SPzYQQ" target="_blank"><button class="btn-hover color-3"><i class="fa fa-youtube"></i> Watch Video</button></a>
+            </div>
+            <p>GoDomains - The decentralized name service solution offered by Go Domains enables you to generate easily collectible self-owned unique public addresses. With a catchy domain name and a cryptocurrency-focused domain extension, Go Domains can replace your lengthy wallet address. It is possible to utilize names instead of the 37 hexadecimal characters that make up a bitcoin wallet address, such as yourname.go and yournickname.go.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/xdc-web3-domains-logo.png" alt="xdcdomains.xyz">
             </div>
             <h3>XDC Web3 Domains <span>Livenet</span></h3>
