@@ -765,6 +765,23 @@ include('inc/header.php') ?>
                     </div>
                 </div>
             </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="3.2s">
+                    <a href="https://nabox.io/" class="wallet-item">
+                        <div class="wallet-logo-container">
+                            <img src="assets/images/exchanges/nabox/nabox.png" alt="Nabox Wallet" class="img-responsive" />
+                        </div>
+                    </a>
+                    <div class="wallet-text">
+                    <h5>Nabox Wallet</h5>
+                        <div class="wallet-apps">
+                            <a href="https://play.google.com/store/apps/details?id=com.wallet.nabox" target="_blank" title="Android Wallet"><span class="wallet-apps-tag mobile">Android</span></a>
+                            <a href="https://testflight.apple.com/join/Ux18h5Nv" target="_blank" title="iOS Wallet"><span class="wallet-apps-tag mobile">iOS</span></a>
+                            <a href="https://chrome.google.com/webstore/detail/nabox-wallet/nknhiehlklippafakaeklbeglecifhad?hl=en" target="_blank" title="Chrome Extension"><span class="wallet-apps-tag mobile">Chrome</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
 		</div>
         </div>
                     
