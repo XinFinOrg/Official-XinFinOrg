@@ -523,7 +523,7 @@ include('inc/header.php') ?>
                 </div>
 
                 <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.7s">
-                    <a href="https://marketplace.r3.com/directory/xinfin-fintech-pte-ltd-a00119" target="_blank"><img src="assets/images/home/partners/r3Marketplace-logo.png" alt="R3 Marketplace" class="img-responsive logoc"></a>
+                    <a href="https://www.coindesk.com/business/2021/03/30/r3-corda-now-has-a-bridge-to-public-blockchains-with-arrival-of-ethereum-based-xdc/" target="_blank"><img src="assets/images/home/partners/r3Marketplace-logo.png" alt="R3 Marketplace" class="img-responsive logoc"></a>
                 </div>
 
                 <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.8s">
