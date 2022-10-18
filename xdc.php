@@ -694,7 +694,7 @@ include('inc/header.php') ?>
                     <div class="wallet-text">
                     <h5>SimpleHold Wallet</h5>
                         <div class="wallet-apps">
-                            <a href="https://simplehold.io/" target="_blank" title="Trezor Hardware Wallet"><span class="wallet-apps-tag mobile">Browser Extension Wallet</span></a>
+                            <a href="https://simplehold.io/#download" target="_blank" title="Trezor Hardware Wallet"><span class="wallet-apps-tag mobile">Browser Extension Wallet</span></a>
                         </div>
                     </div>
                 </div>
@@ -782,6 +782,23 @@ include('inc/header.php') ?>
                     </div>
                 </div>
             </div>
+            
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="3.4s">
+                    <a href="https://www.ledger.com/" class="wallet-item">
+                        <div class="wallet-logo-container">
+                            <img src="assets/images/exchanges/ledger/ledger.png" alt="Ledger Wallet" class="img-responsive" />
+                        </div>
+                    </a>
+                    <div class="wallet-text">
+                    <h5>Ledger Wallet</h5>
+                        <div class="wallet-apps">
+                            <a href="https://shop.ledger.com/" target="_blank" title="Hardware Wallet"><span class="wallet-apps-tag mobile">Hardware</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
 		</div>
         </div>
                     
