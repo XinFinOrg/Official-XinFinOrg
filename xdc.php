@@ -799,6 +799,23 @@ include('inc/header.php') ?>
                 </div>
             </div>
             
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="3.5s">
+                    <a href="https://mixin.one/messenger" class="wallet-item">
+                        <div class="wallet-logo-container">
+                            <img src="assets/images/exchanges/mixin-wallet/mixin-wallet.png" alt="Mixin Wallet" class="img-responsive" />
+                        </div>
+                    </a>
+                    <div class="wallet-text">
+                    <h5>Mixin Wallet</h5>
+                        <div class="wallet-apps">
+                            <a href="https://play.google.com/store/apps/details?id=one.mixin.messenger" target="_blank" title="Android Wallet"><span class="wallet-apps-tag mobile">Android</span></a>
+                            <a href="https://apps.apple.com/us/app/id1322324266" target="_blank" title="iOS Wallet"><span class="wallet-apps-tag mobile">iOS</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
 		</div>
         </div>
                     
