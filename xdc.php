@@ -766,7 +766,7 @@ include('inc/header.php') ?>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
-                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="3.2s">
+                <div class="wallet-item_block">
                     <a href="https://nabox.io/" class="wallet-item">
                         <div class="wallet-logo-container">
                             <img src="assets/images/exchanges/nabox/nabox.png" alt="Nabox Wallet" class="img-responsive" />
@@ -784,7 +784,7 @@ include('inc/header.php') ?>
             </div>
             
             <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
-                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="3.4s">
+                <div class="wallet-item_block">
                     <a href="https://www.ledger.com/" class="wallet-item">
                         <div class="wallet-logo-container">
                             <img src="assets/images/exchanges/ledger/ledger.png" alt="Ledger Wallet" class="img-responsive" />
@@ -800,7 +800,7 @@ include('inc/header.php') ?>
             </div>
             
             <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
-                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="3.5s">
+                <div class="wallet-item_block">
                     <a href="https://mixin.one/messenger" class="wallet-item">
                         <div class="wallet-logo-container">
                             <img src="assets/images/exchanges/mixin-wallet/mixin-wallet.png" alt="Mixin Wallet" class="img-responsive" />
@@ -817,7 +817,7 @@ include('inc/header.php') ?>
             </div>
             
             <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
-                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="3.6s">
+                <div class="wallet-item_block">
                     <a href="https://www.safepal.com/" class="wallet-item">
                         <div class="wallet-logo-container">
                             <img src="assets/images/exchanges/safepal-wallet/safepal-wallet.png" alt="Safepal Wallet" class="img-responsive" />
