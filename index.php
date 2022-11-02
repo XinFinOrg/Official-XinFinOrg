@@ -1043,6 +1043,25 @@ include('inc/header.php') ?>
                 </div>
             </div>
             
+            <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
+                <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="3.6s">
+                    <a href="https://www.safepal.com/" class="wallet-item">
+                        <div class="wallet-logo-container">
+                            <img src="assets/images/exchanges/safepal-wallet/safepal-wallet.png" alt="Safepal Wallet" class="img-responsive" />
+                        </div>
+                    </a>
+                    <div class="wallet-text">
+                    <h5>Safepal Wallet</h5>
+                        <div class="wallet-apps">
+                            <a href="https://play.google.com/store/apps/details?id=io.safepal.wallet" target="_blank" title="Android Wallet"><span class="wallet-apps-tag mobile">Android</span></a>
+                            <a href="https://apps.apple.com/app/safepal-wallet/id1548297139" target="_blank" title="iOS Wallet"><span class="wallet-apps-tag mobile">iOS</span></a>
+                            <a href="https://www.safepal.com/download" target="_blank" title="Browser Extension Wallet"><span class="wallet-apps-tag mobile">Chrome</span></a>
+                            <a href="https://www.safepal.com/download" target="_blank" title="Hardware Wallet"><span class="wallet-apps-tag mobile">Hardware</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
 		</div>        
         
         <div class="row mt-3">
