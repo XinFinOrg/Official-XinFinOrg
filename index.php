@@ -1055,7 +1055,7 @@ include('inc/header.php') ?>
                         <div class="wallet-apps">
                             <a href="https://play.google.com/store/apps/details?id=io.safepal.wallet" target="_blank" title="Android Wallet"><span class="wallet-apps-tag mobile">Android</span></a>
                             <a href="https://apps.apple.com/app/safepal-wallet/id1548297139" target="_blank" title="iOS Wallet"><span class="wallet-apps-tag mobile">iOS</span></a>
-                            <a href="https://www.safepal.com/download" target="_blank" title="Browser Extension Wallet"><span class="wallet-apps-tag mobile">Chrome</span></a>
+                            <!--<a href="https://www.safepal.com/download" target="_blank" title="Browser Extension Wallet"><span class="wallet-apps-tag mobile">Chrome</span></a>-->
                             <a href="https://www.safepal.com/download" target="_blank" title="Hardware Wallet"><span class="wallet-apps-tag mobile">Hardware</span></a>
                         </div>
                     </div>
