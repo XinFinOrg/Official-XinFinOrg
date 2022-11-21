@@ -162,6 +162,18 @@ include('inc/header.php') ?>
                         </div>
                         <div class="pairs"><a href="https://changenow.io/?from=usdt&to=xdc" target="_blank">Instant Swap</a></div>
                     </div>
+                    
+                    
+                    
+                    <div class="exchange-box">
+                        <div class="logo-box">
+                        	<a href="https://app.xspswap.finance/swap" target="_blank"><img src="assets/images/exchanges/xspswap.png" class="img-fluid" alt="app.xspswap.finance" /></a>
+                        </div>
+                        <div class="pairs"><a href="https://app.xspswap.finance/swap" target="_blank">XSwap DEX</a></div>
+                    </div>
+                    
+                    
+                    
                     <div class="exchange-box">
                         <div class="logo-box">
                         	<a href="https://www.digifinex.com/en-ww/trade/USDT/XDC" target="_blank"><img src="assets/images/exchanges/digifinex.png" class="img-fluid" alt="digifinex.com" /></a>
