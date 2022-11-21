@@ -860,24 +860,24 @@ include('inc/header.php') ?>
                     </div>
                     <div class="col-md-12 mb-4">
                         <div class="row wallets-supporting-xdc">
-                            <div class="col-lg-3 col-md-3">
+                            <div class="col-lg-3 col-md-3 col-sm-6">
                                 <div>
-                                    <a href="https://copper.co/" target="_blank"><img src="assets/images/copper-logo.png" class="img-responsive" /></a>
+                                    <a href="https://copper.co/" target="_blank"><img src="assets/images/copper-logo.png" class="img-responsive d-inline" /></a>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-3">
+                            <div class="col-lg-3 col-md-3 col-sm-6">
                                 <div>
-                                    <a href="https://custody.bitpanda.com/" target="_blank"><img src="assets/images/bitpanda-logo.png" class="img-responsive" /></a>
+                                    <a href="https://custody.bitpanda.com/" target="_blank"><img src="assets/images/bitpanda-logo.png" class="img-responsive d-inline" /></a>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-3">
+                            <div class="col-lg-3 col-md-3 col-sm-6">
                                 <div>
-                                    <a href="https://www.propine.com/" target="_blank"><img src="assets/images/propine-logo.png" class="img-responsive" /></a>
+                                    <a href="https://www.propine.com/" target="_blank"><img src="assets/images/propine-logo.png" class="img-responsive d-inline" /></a>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-3">
+                            <div class="col-lg-3 col-md-3 col-sm-6">
                                 <div>
-                                    <a href="https://www.fireblocks.com/" target="_blank"><img src="assets/images/fireblocks-logo.png" class="img-responsive"></a>
+                                    <a href="https://www.fireblocks.com/" target="_blank"><img src="assets/images/fireblocks-logo.png" class="img-responsive d-inline"></a>
                                 </div>
                             </div>
                         </div>

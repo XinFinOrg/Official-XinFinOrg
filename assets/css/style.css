@@ -5916,6 +5916,8 @@ table{width:100%;background-color:#fff}th,td{font-weight:unset;padding-right:10p
 
 .coinmarketcap-currency-widget div { padding: 5px; }
 
+.d-inline {display: inline-block;}
+
 /* how to Steps 
 .steps-howTo{font-size:14px;line-height:16px}
 .step-description,.step-title{margin:0;display:block;text-align:center}
