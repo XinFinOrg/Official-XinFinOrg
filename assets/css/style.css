@@ -1226,8 +1226,13 @@ a.wallet-item:focus, a.wallet-item:hover, a.wallet-item:visited {
     align-items: center;
 }
 .custodian-box_block.mt-30 {margin-top: 50px;}
+
+.custodian-box_block .col-lg-2 {
+	width: 20%;
+}
 @media screen and (max-width: 991px) {
 	.custodian-box_block.mt-30 {margin-top: 30px;}
+	.custodian-box_block .col-lg-2 {width: 33.3333333333%;}
 }
 @media only screen and (max-width: 768px) {
 	.custodian-box_block .text-left {text-align: center!important;}
@@ -1235,8 +1240,19 @@ a.wallet-item:focus, a.wallet-item:hover, a.wallet-item:visited {
     	display: block;
     	align-items: center;
 	}
+	.custodian-box_block .col-lg-2 {width: inherit;}
 }
 
+
+.wallets-supporting-xdc .col-lg-3 {
+	width: 20%;
+}
+@media screen and (max-width: 991px) {
+	.wallets-supporting-xdc .col-lg-3 {width: 33.3333333333%;}
+}
+@media only screen and (max-width: 768px) {
+	.wallets-supporting-xdc .col-lg-3 {width: inherit;}
+}
 
 
 
@@ -1464,6 +1480,14 @@ a.wallet-item:focus, a.wallet-item:hover, a.wallet-item:visited {
 .usecase-box .githublink i {font-size: 16px;color: #a5b2bf;}
 .usecase-box .title {font-size: 20px;font-weight: 500;color: #000;line-height: 27px;margin-bottom: 10px;}
 .usecase-box p{font-size:15px;line-height:20px;}
+
+.usecase-box .orderList ul {
+    margin-left: 2rem;
+    color: #646464;
+}
+.usecase-box .orderList ul li {
+    margin-bottom: 5px;
+}
 
 .usecase-box .btn-hover {font-size: 14px;padding: 4px 12px;}
 .usecase-box .read-more__link-wrap .read-more__link {text-decoration:underline;moz-transition: all .4s ease-in-out;-o-transition: all .4s ease-in-out;-webkit-transition: all .4s ease-in-out; transition: all .4s ease-in-out;}

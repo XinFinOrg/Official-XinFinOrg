@@ -880,6 +880,11 @@ include('inc/header.php') ?>
                                     <a href="https://www.fireblocks.com/" target="_blank"><img src="assets/images/fireblocks-logo.png" class="img-responsive d-inline"></a>
                                 </div>
                             </div>
+                            <div class="col-lg-3 col-md-3 col-sm-6">
+                                <div>
+                                	<a href="https://www.lmnl.app/" target="_blank"><img src="assets/images/liminal-logo.png" class="img-responsive d-inline" /></a>
+                            	</div>
+                        	</div>
                         </div>
                     </div>
                     </div>
