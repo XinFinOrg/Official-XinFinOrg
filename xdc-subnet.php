@@ -1,6 +1,6 @@
 <?php 
-$title = "XDC - XDC Subnet Price List";
-$desc = "Visit this page of XinFin for XDC Subnet Price List. ";
+$title = "XDC - Create your Subnet using XDC Network";
+$desc = "Visit this page to Create your Subnet using XDC Network. ";
 
 include('inc/header.php') ?>
 <link rel='stylesheet' href='assets/css/app-new.css' type='text/css' media='all' />
