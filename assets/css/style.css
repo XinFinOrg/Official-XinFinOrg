@@ -1488,6 +1488,18 @@ a.wallet-item:focus, a.wallet-item:hover, a.wallet-item:visited {
 .usecase-box .orderList ul li {
     margin-bottom: 5px;
 }
+.usecase-box .orderList ol {
+    margin-left: 2rem;
+    color: #646464;
+}
+.usecase-box .orderList ol li {
+    margin-bottom: 5px;
+}
+.usecase-box.nobordershadow {
+	box-shadow: none;
+	border: none;
+	background: none;
+}
 
 .usecase-box .btn-hover {font-size: 14px;padding: 4px 12px;}
 .usecase-box .read-more__link-wrap .read-more__link {text-decoration:underline;moz-transition: all .4s ease-in-out;-o-transition: all .4s ease-in-out;-webkit-transition: all .4s ease-in-out; transition: all .4s ease-in-out;}

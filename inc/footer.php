@@ -31,7 +31,8 @@
                     <!--<a href="https://github.com/XinFinorg">Source Code on GitHub</a><br/>-->
                     <a href="download">Download Logo</a><br/>
                     <a href="xdc">XDC Exchange List</a><br/>
-                    <a href="apply-for-funding">Apply For Funding</a>
+                    <a href="apply-for-funding">Apply For Funding</a><br/>
+                    <a href="xdc-subnet">XDC Subnet</a>
                 </p>
              </div>		
             <div class="col-md-3 col-sm-6 col-xs-12" >
