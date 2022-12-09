@@ -78,7 +78,13 @@ include('inc/header.php') ?>
         <div class="col-lg-6 col-md-7 col-sm-12 col-xs-12 mb-3">
    	    	<img src="assets/images/xdc-subnet-architecture.jpg" class="img-responsive" />
         </div>
-   </div> 
+   </div>
+   
+   <div class="row">
+   		<div class="col-lg-12 mb-3">
+            <h3 class="fw-7 text-center">For any queries, kindly <a href="https://forms.gle/KQxw5DVbrMYrHv5N9" target="_blank">Contact Us</a></h3>
+        </div>
+   </div>
     
     
     <!--<div class="row">    
