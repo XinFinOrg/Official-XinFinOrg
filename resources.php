@@ -52,7 +52,7 @@ include('inc/header.php') ?>
       
       <p class="header mb-2">XDC Subnet</p>
       <p>Create your Subnet using XDC Network. An XDC mainnet-like network owned by you, further protected by the mainnet with total privacy.</p>
-      <a href="xdc-subnet" target="_blank"><button class="btn-hover color-1 mb-1">Create your Subnet</button></a>
+      <a href="xdc-subnet"><button class="btn-hover color-1 mb-1">Create your Subnet</button></a>
       
       <p class="header mb-2">Apothem Network Status (TestNet)</p>
       <p>Apothem TestNet helps you understand how many nodes are hosted on TestNet Network and provides detailed information such as their up-time, number of active nodes, gas price, gas limit etc. in a visualised manner.</p>
