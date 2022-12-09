@@ -82,7 +82,7 @@ include('inc/header.php') ?>
    
    <div class="row">
    		<div class="col-lg-12 mb-3">
-            <h3 class="fw-7 text-center">For any queries, kindly <a href="https://forms.gle/KQxw5DVbrMYrHv5N9" target="_blank">Contact Us</a></h3>
+            <h3 class="fw-7 fs-18 text-center">For any assistance or queries related to creating your Subnet using XDC Network, Contact Us by submitting this <a href="https://forms.gle/KQxw5DVbrMYrHv5N9" target="_blank">Google Form</a>.</h3>
         </div>
    </div>
     
