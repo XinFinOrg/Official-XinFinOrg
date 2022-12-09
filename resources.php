@@ -50,17 +50,21 @@ include('inc/header.php') ?>
       <p>This section acquaints developers with how to create and customize your Masternode within minutes by installing Docker Nodes.</p>
       <a href="https://github.com/XinFinOrg/XinFin-Node" target="_blank"><button class="btn-hover color-3 mb-1">Setup XinFin Node</button></a>
       
+      <p class="header mb-2">XDC Subnet</p>
+      <p>Create your Subnet using XDC Network. An XDC mainnet-like network owned by you, further protected by the mainnet with total privacy.</p>
+      <a href="xdc-subnet" target="_blank"><button class="btn-hover color-1 mb-1">Create your Subnet</button></a>
+      
       <p class="header mb-2">Apothem Network Status (TestNet)</p>
       <p>Apothem TestNet helps you understand how many nodes are hosted on TestNet Network and provides detailed information such as their up-time, number of active nodes, gas price, gas limit etc. in a visualised manner.</p>
-      <a href="https://apothem.network/" target="_blank"><button class="btn-hover color-1 mb-1">Apothem Network Status (TestNet)</button></a>
+      <a href="https://apothem.network/" target="_blank"><button class="btn-hover color-3 mb-1">Apothem Network Status (TestNet)</button></a>
       
       <p class="header mb-2">XinFin Network Status (Live)</p>
       <p>XinFin LiveNet helps you understand how many nodes are hosted on XinFin Network, and provides detailed information such as their up-time, number of active nodes, gas price, gas limit etc. in a visualised manner.</p>
-      <a href="http://xinfin.network/" target="_blank"><button class="btn-hover color-3 mb-1">XinFin Network Status (Live)</button></a>
+      <a href="http://xinfin.network/" target="_blank"><button class="btn-hover color-1 mb-1">XinFin Network Status (Live)</button></a>
       
       <p class="header mb-2">XinFin Explorer</p>
       <p>The XinFin Explorer is an explorer for XDC tokens and brings you a synopsis of recent XDC transactions.</p>
-      <a href="https://explorer.xinfin.network/home" target="_blank"><button class="btn-hover color-1 mb-1">XinFin Explorer</button></a>
+      <a href="https://explorer.xinfin.network/home" target="_blank"><button class="btn-hover color-3 mb-1">XinFin Explorer</button></a>
       
       <!--<p class="header mb-2">XDCe Explorer (ERC20)</p>
       <p>XDCe Explorer gives you a summary of total supply, price, holders and transfers of the XDCE token. The ERC-20 Token Tracker also allows you to look at recent XinFin XDCE Token transactions.</p>
@@ -68,38 +72,38 @@ include('inc/header.php') ?>
 	  
 	  <p class="header mb-2">XDC Chain Network Tools and Documents</p>
       <p>Download tools and Documentation resource.</p>
-      <a href="xdc-chain-network-tools-and-documents"><button class="btn-hover color-3 mb-1">XDC Chain Network Tools and Documents</button></a>
+      <a href="xdc-chain-network-tools-and-documents"><button class="btn-hover color-1 mb-1">XDC Chain Network Tools and Documents</button></a>
       
       <p class="header mb-2">Developers Forum</p>
       <p>Developers Forum for XinFin XDC Network is a community of amazing users.</p>
-      <a href="https://www.xdc.dev/" target="_blank"><button class="btn-hover color-1 mb-1">Developers Forum</button></a>
+      <a href="https://www.xdc.dev/" target="_blank"><button class="btn-hover color-3 mb-1">Developers Forum</button></a>
       
       <p class="header mb-2">Community Forum</p>
       <p>Managed by our active community members, the XinFin Community Forum will bring you the latest updates, developments and answers to your questions in a proper documented form.</p>
-      <a href="https://bitcointalk.org/index.php?topic=1989818.msg19813005#msg19813005" target="_blank"><button class="btn-hover color-3 mb-1">Community Forum</button></a>
+      <a href="https://bitcointalk.org/index.php?topic=1989818.msg19813005#msg19813005" target="_blank"><button class="btn-hover color-1 mb-1">Community Forum</button></a>
       
       <p class="header mb-2">Community Bounty Program</p>
       <p>The XinFin Community Bounty Program invites developers and all bug bounty hunters to test XDPoS Consensus.</p>
-      <a href="bounty"><button class="btn-hover color-1 mb-1">Community Bounty Program</button></a>
+      <a href="bounty"><button class="btn-hover color-3 mb-1">Community Bounty Program</button></a>
       
       <p class="header mb-2">Wallet Support</p>
       <p>Wallet Support gives you a quick overview of which exchanges XDC is live-trading on and which wallet partners support XDC.</p>
       <p>For Wallet Support needed, you can visit <a href="https://www.xdc.dev/" target="_blank">Developers Forum</a>.</p>
-      <a href="https://XinFin.io/" target="_blank"><button class="btn-hover color-3 mb-1">Wallet Support</button></a>
+      <a href="https://XinFin.io/" target="_blank"><button class="btn-hover color-1 mb-1">Wallet Support</button></a>
       
       <p class="header mb-2">Media Room</p>
       <p>This section is where you can find updates  on the different announcements made by XinFin. The section will publish all Press Releases and  recent developments along with plans for future innovation.</p>
       <p>Apart from the Press Releases, you can also find out more about events XinFin has both participated and hosted. Any news (digital or otherwise) featuring XinFin will be published in this section.</p>
       <p>It will also inform you regarding any change in the overall structure of the organization and any changes in the current management team.</p>
-      <a href="https://howto.xinfin.org/media/articles/" target="_blank"><button class="btn-hover color-1 mb-1">Media Room</button></a>
+      <a href="https://howto.xinfin.org/media/articles/" target="_blank"><button class="btn-hover color-3 mb-1">Media Room</button></a>
       
       <p class="header mb-2">Roadmap</p>
       <p>The journey so far, milestones achieved and the roadmap for the year 2020.</p>
-      <a href="roadmap"><button class="btn-hover color-3 mb-1">Roadmap</button></a>
+      <a href="roadmap"><button class="btn-hover color-1 mb-1">Roadmap</button></a>
       
       <p class="header mb-2">Developer Portal</p>
       <p>Get acclamated with of the fundamentals of XDC, API reference, install and run your own programs on XinFin's Hybrid Blockchain. You can also view FAQ's. The Developer Portal is a one stop shop for all developer related guides and references. We invite developers to join our dev community.</p>
-      <a href="https://howto.xinfin.org/"><button class="btn-hover color-1 mb-1">Developer Portal</button></a>
+      <a href="https://howto.xinfin.org/"><button class="btn-hover color-3 mb-1">Developer Portal</button></a>
       
       <p class="header mb-2">Exchange Listing Resource</p>
       <p>This section provides you with details required to list the XDC token on exchanges.</p>
@@ -107,15 +111,15 @@ include('inc/header.php') ?>
 	  
 	  <p class="header mb-2">Custody Services Integration</p>
       <p>This section provides you with details required for Custody services integration.</p>
-      <a href="custody-services-integration"><button class="btn-hover color-3 mb-1">Custody Services Integration</button></a>
+      <a href="custody-services-integration"><button class="btn-hover color-1 mb-1">Custody Services Integration</button></a>
       
       <p class="header mb-2">Governance Member</p>
       <p>This section provides you with details required to become a Governance Member for XinFin.Network</p>
-      <a href="governance-member"><button class="btn-hover color-1 mb-1">Governance Member</button></a>
+      <a href="governance-member"><button class="btn-hover color-3 mb-1">Governance Member</button></a>
 	  
 	  <p class="header mb-2">XinFin (XDC) Project Source Code</p>
 	  <p>XinFin (XDC) Project Source Code on GitHub.</p>
-	  <a href="https://github.com/XinFinOrg/" target="_blank"><button class="btn-hover color-3 mb-1">XinFin (XDC) Project Source Code</button></a>
+	  <a href="https://github.com/XinFinOrg/" target="_blank"><button class="btn-hover color-1 mb-1">XinFin (XDC) Project Source Code</button></a>
 	  
  	</div>
     
