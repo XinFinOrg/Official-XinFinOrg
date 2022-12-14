@@ -1,5 +1,5 @@
 <?php 
-$title = "XDC - Create your Subnet using XDC Network";
+$title = "XDC Subnet";
 $desc = "Visit this page to Create your Subnet using XDC Network. ";
 
 include('inc/header.php') ?>
