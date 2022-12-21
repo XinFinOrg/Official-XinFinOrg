@@ -42,7 +42,30 @@ include('inc/header.php') ?>
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
                 <div class="bounty-box">
                     <div class="image-container">
-                        <img class="img-responsive" src="assets/images/bounty/foundation-bounty.jpg" alt="Foundation Bounty" />
+                        <img class="img-responsive" src="assets/images/bounty/community-support-bounty.jpg" alt="Community Support Bounty" />
+                    </div>
+                    <div class="content">
+                        <h3>Community Support Bounty</h3>
+                        <h4 class="highlight small">Up to 1 million XDC</h4>
+                        <p class="text-muted">Proposals on XDC.dev with maximum cap of 1 Million XDC request and minimum 100 Participating votes with 75% yes Vote.</p>
+                    </div>
+                    <div class="btn-block mb-1">
+                        <div class="progress-labels flex-container space-between">
+                            <div class="timer pull-left"><img src="assets/images/timer.png" /><span>STATUS</span></div>
+                            <span class="status pull-right">RUNNING</span>
+                        </div>
+                        <a href="https://forms.gle/e8EyGLLpBPw29WnC8" target="_blank">
+                            <button class="btn-hover color-1">Apply</button>
+                        </a>
+                        <button class="btn-hover color-3" data-toggle="modal" data-target="#exampleModalCenter-1i">Detailed Rules</button>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
+                <div class="bounty-box">
+                    <div class="image-container">
+                        <img class="img-responsive" src="assets/images/bounty/foundation-bounty.jpg" alt="XDC Foundation Bounties" />
                     </div>
                     <div class="content">
                         <h3>XDC Foundation Bounties</h3>
@@ -516,6 +539,36 @@ include('inc/header.php') ?>
                 <p class="link-break-out"><strong>Email Us:</strong> <a href="mailto:bounty@xinfin.org">bounty@xinfin.org</a></p>
             </div>
         </div>
+        
+        
+        
+        <!-- Modal 1i -->
+        <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-1i" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered bounty-modal" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h3 class="modal-title" id="exampleModalCenterTitle">Community Support Bounty</h3>
+                    </div>
+                    <div class="modal-body">
+                        <div class="bounty">
+                          <p class="text-left">Proposals on xdc.dev with maximum cap of 1 Million XDC request and minimum 100 Participating votes with 75% yes Vote can now claim the bounty via the following request form.</p>
+                            
+                            <p>Please share <a href="https://www.xdc.dev/" target="_blank">xdc.dev</a> link and link of wayback machine of <a href="https://www.xdc.dev/t/proposal" target="_blank">xdc.dev</a> vote page (generated via Internet Archive: "Wayback Machine" in the supporting documents).</p>
+
+                            <div class="btn-block mt-3 mb-1">
+                                <a href="https://forms.gle/e8EyGLLpBPw29WnC8" target="_blank">
+                                    <button class="btn-hover color-1 btn-block no-width">Apply For Bounty</button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer"></div>
+                </div>
+            </div>
+        </div>
+        <!-- /. Modal 1i -->
+        
 
         <!-- Modal 1h -->
         <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-1h" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
@@ -657,7 +710,7 @@ include('inc/header.php') ?>
                 </div>
             </div>
         </div>
-        <!-- /. Modal 1g -->
+        <!-- /. Modal 1h -->
 
         <!-- Modal 1g -->
         <div class="modal fade bs-example-modal-lg" id="exampleModalCenter-1g" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
