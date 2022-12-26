@@ -81,7 +81,7 @@ include('inc/header.php') ?>
             <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/guarda-logo.png" alt="guarda.com">
             </div>
-            <h3>Guarda Visa card <span>Livenet</span></h3>
+            <h3>Guarda Visa Card <span>Livenet</span></h3>
             <div class="btn-block mb-1">
             	<a href="https://guarda.com/cards/xdc/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a> <a href="https://github.com/guardaco" target="_blank"><button class="btn-hover color-3"><i class="fa fa-github"></i> Github</button></a>
             </div>
