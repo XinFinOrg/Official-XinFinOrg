@@ -61,24 +61,6 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
-            	<img class="img-responsive" src="assets/images/utility/xinfin-name-service-logo.png" alt="xinfin.webthreenames.com">
-            </div>
-            <h3>XinFin Name Service <span>Livenet</span></h3>
-            <div class="btn-block mb-1">
-            	<a href="https://xinfin.webthreenames.com/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
-            </div>
-            <p>XinFin Name Services is a domain name service for the XDC Blockchain.</p>
-            <p>Mint your blockchain domains as NFT assets that will bind the domain to your wallet address. You can also set records for your website, email, twitter, description and even your own avatar.</p>
-        </div>
-    </div>
-    
-    
-    
-    
-    
-    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
-        <div class="usecase-box">
-            <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/chainfiles-logo.png" alt="chainfiles.cf">
             </div>
             <h3>Chainfiles <span>Livenet</span></h3>
@@ -93,6 +75,35 @@ include('inc/header.php') ?>
             <p>You may use our site for free on the XDC mainnet by requesting free XDC tokens from us. We are proud to support XDC in its global trade and finance initiatives.</p>
         </div>
     </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/guarda-logo.png" alt="guarda.com">
+            </div>
+            <h3>Guarda Visa card <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://guarda.com/cards/xdc/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a> <a href="https://github.com/guardaco" target="_blank"><button class="btn-hover color-3"><i class="fa fa-github"></i> Github</button></a>
+            </div>
+            <p>Topup your Guarda Visa card with XDC and use anywhere in the world.</p>
+            <p>Get your own Prepaid Visa Card by Guarda. Top it up using your XDC crypto and use it as a regular bank card anywhere in the world and easily spend XDC. Guarda Visa card is available as a Virtual card or plastic card.</p>
+            <p>Order your visa card on Guarda and start using the card in your daily activity.</p>
+        </div>
+    </div>   
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/xinfin-name-service-logo.png" alt="xinfin.webthreenames.com">
+            </div>
+            <h3>XinFin Name Service <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://xinfin.webthreenames.com/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            </div>
+            <p>XinFin Name Services is a domain name service for the XDC Blockchain.</p>
+            <p>Mint your blockchain domains as NFT assets that will bind the domain to your wallet address. You can also set records for your website, email, twitter, description and even your own avatar.</p>
+        </div>
+    </div> 
     
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
