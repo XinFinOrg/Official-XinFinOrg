@@ -152,6 +152,12 @@ include('inc/header.php') ?>
                     </div>
                     <div class="exchange-box">
                         <div class="logo-box">
+                        	<a href="https://icecreamswap.com" target="_blank"><img src="assets/images/exchanges/icecreamswap.png" class="img-fluid" alt="icecreamswap.com" /></a>
+                        </div>
+                        <div class="pairs"><a href="https://icecreamswap.com/?chainId=50" target="_blank">Instant Swap</a></div>
+                    </div>
+                    <div class="exchange-box">
+                        <div class="logo-box">
                         	<a href="https://swapzone.io/" target="_blank"><img src="assets/images/exchanges/swapzone.png" class="img-fluid" alt="swapzone.io" /></a>
                         </div>
                         <div class="pairs"><a href="https://swapzone.io/" target="_blank">Instant Swap</a></div>
