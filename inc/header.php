@@ -191,10 +191,6 @@
               <img src="<?php echo base_url() ; ?>/assets/images/logo-white.png" class="logo-white img-responsive" width="60">
               <img src="<?php echo base_url() ; ?>/assets/images/logo-dark.png" class="logo-sticky img-responsive" width="60">
             </a>
-            <div class="navbar-brand">
-              <img src="<?php echo base_url() ; ?>/assets/images/merry-christmas.gif" class="logo-white img-responsive" width="135" style="padding-left:20px;padding-top:2px;">
-              <img src="<?php echo base_url() ; ?>/assets/images/santa-deers.gif" class="logo-sticky img-responsive" width="130" style="padding-left:23px;padding-top:19px;">
-            </div>
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbarNavDropdown" aria-expanded="false"
               aria-controls="#navbarNavDropdown">
               <span class="sr-only">Toggle navigation</span>
