@@ -68,6 +68,7 @@ p
 h4
 {font-size:16px;}
 
+.pl-0 {padding-left:0px!important;}
 .col-center {
 	float: none;
     display: block;
@@ -5954,6 +5955,22 @@ table{width:100%;background-color:#fff}th,td{font-weight:unset;padding-right:10p
 .coinmarketcap-currency-widget div { padding: 5px; }
 
 .d-inline {display: inline-block;}
+
+/*-- Career page css --*/
+.career-block h2 {color: #00244e;font-size: 40px;font-family: 'Muli', sans-serif;margin-top: 0px;margin-bottom: 0px;text-align: left;}
+.career-post{background:#FFFFFF;border-radius:5px;padding:25px;height:100%;-webkit-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);-moz-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);}
+.career-post:hover {-webkit-box-shadow: 0px 5px 15px 0px rgba(72, 117, 178, 0.25);-moz-box-shadow: 0px 5px 15px 0px rgba(72, 117, 178, 0.25);box-shadow: 0px 5px 15px 0px rgba(72, 117, 178, 0.25);}
+.career-post h3 {font-size: 24px!important;font-weight: 600;color: #515151;text-align: left!important;margin: 0 0 15px!important;transition: all .3s ease-in-out;}
+.career-post p {font-size: 17px;color: #637097;text-align: left;transition: all .3s ease-in-out;margin-bottom: 0px!important;}
+.career-post .job-duration {display: flex;margin-top: 15px;align-items: center;}
+.career-post .job-duration i {margin-right: 8px;}
+.career-post .job-duration i.green {color: #00cb00!important;}
+.career-post .job-duration p {font-size: 14px!important;}
+.career-post a {padding: 20px 0px 0px 0px;display: inline-block;}
+.career-post .btn-hover {background-image: linear-gradient(to right, #25aae1, #0dd1ae, #01e074, #2bbbad);border: 2px solid transparent;}
+.career-post .btn-hover {font-size: 16px;font-weight: 500;color: #fff;cursor: pointer;padding: 8px 14px;text-align: center;border: none;background-size: 300% 100%;border-radius: 5px;moz-transition: all .4s ease-in-out;-webkit-transition: all .4s ease-in-out;transition: all .4s ease-in-out;}
+/*-- Career page css --*/
+
 
 /* how to Steps 
 .steps-howTo{font-size:14px;line-height:16px}
