@@ -43,8 +43,8 @@
                     <a href="https://apidocs.xinfin.network/" target="_blank">Swagger API</a><br/>
                     <a href="compliance">Compliance</a><br/>
                     <a href="https://howto.xinfin.org/media/articles/" target="_blank">Media</a><br/>
-                    <!--<a href="privacy.php">Privacy Policy</a><br/>
-                    <a href="disclaimer.php">Disclaimer</a><br/>-->
+                    <!--<a href="privacy.php">Privacy Policy</a><br/>-->
+                    <a href="careers">Careers</a><br/>
                     <a href="contactus">Press Inquiry</a><br/>	
                     <a href="contactus">Contact XinFin</a>
                 </p>
