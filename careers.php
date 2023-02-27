@@ -1,6 +1,6 @@
 <?php
-$title = "Contact Us | XinFin Hybrid Blockchain";
-$desc = "Let your business cross the horizon by using XinFin’s fast and secure XDC tokens. Contact us Now.";
+$title = "Careers | XinFin Hybrid Blockchain";
+$desc = "Join the XinFin Team: Powering Global Trade and Finance with Blockchain Technology.";
 
 include('inc/header.php') ?>
 <style>
