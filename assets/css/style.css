@@ -38,8 +38,7 @@
   margin:0;
   padding:0;
 }
-body
-{
+body {
   margin:0;
   padding:0;
   overflow-x: hidden;
@@ -1913,7 +1912,7 @@ button.btn-outline-default .fa{margin-right:5px;}
 .exchange-listing .sub-header {font-weight:700;color:#00244e!important;margin-bottom:0px!important;padding-bottom:5px;margin-top:30px;padding-bottom: 10px;text-align:left;font-size:28px;line-height:26px;}
 .exchange-listing .logo-box img{margin-top:20px!important;margin-bottom:15px!important;display:block;margin:auto;}
 
-.exchange-listing ul li {margin-bottom:10px;}
+.exchange-listing ul li {color: #002752;margin-bottom:10px;}
 
 .exchange-listing .logo-box p{font-size:14px;text-align:center;}
 

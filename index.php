@@ -1409,7 +1409,8 @@ include('inc/header.php') ?>
                         </a>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-sm-12 px-1 mt-1 mb-1">
-                        <a href="https://github.com/xinfinorg/XinFin-Node" target="_blank">
+                        <!--<a href="https://github.com/xinfinorg/XinFin-Node" target="_blank">-->
+                        <a href="institutional-rpc">
                             <div class="services-block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1s">
                                 <div class="inner-box">
                                     <div class="icon-img-box align-self-center">
@@ -1424,7 +1425,7 @@ include('inc/header.php') ?>
                         </a>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-6 col-sm-12 px-1 mt-1 mb-1">
-                        <a href="https://xinfin.org/custody-services-integration" target="_blank">
+                        <a href="https://xinfin.org/custody-services-integration">
                             <div class="services-block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="1.2s">
                                 <div class="inner-box">
                                     <div class="icon-img-box align-self-center">
