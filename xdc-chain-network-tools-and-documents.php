@@ -227,26 +227,32 @@ include('inc/header.php') ?>
                     </div>
                 </div>
             </div>
-
+			
             <div class="tab-content pt-0">
                 <div id="network" class="tab-pane fade in active">
-                    <div class="flex-row">                        
+                    <div class="flex-row">
                         <div class="col-lg-6 col-md-6 col-sm-12 mt-3 mb-1">
                         <div class="rpcLinkBox bordered">
                         	<h4 class="heading mt-0 mb-2">XDC MainNet</h4>
                                 <div class="">
-                                    <h5 clas="heading">Archive Node</h5>
+                                    <h5 class="heading">Archive Node</h5>
                                     <p><a href="https://arpc.xinfin.network" target="_blank" class="link-break-out">https://arpc.xinfin.network</a></p>
                                 </div>
                              <hr class="hr-space mt-2 mb-2">
                                 <div class="">
                                     <h5 class="heading">Full Node</h5>
                                     <p><a href="https://rpc.xinfin.network" target="_blank" class="link-break-out">https://rpc.xinfin.network</a></p>
+                                    <p><a href="https://rpc1.xinfin.network" target="_blank" class="link-break-out">https://rpc1.xinfin.network</a></p>
+                                    <p><a href="https://erpc.xinfin.network" target="_blank" class="link-break-out">https://erpc.xinfin.network</a></p>
+                                    <p><a href="https://appsrpc.xinfin.network" target="_blank" class="link-break-out">https://appsrpc.xinfin.network</a></p>
+                                    <p><a href="https://rpc-xdc.icecreamswap.com" target="_blank" class="link-break-out">https://rpc-xdc.icecreamswap.com</a></p>
                                 </div>
                              <hr class="hr-space mt-2 mb-2">
                                 <div class="">
                                     <h5 class="heading">Web Socket</h5>
                                     <p><a href="wss://ws.xinfin.network" target="_blank" class="link-break-out">wss://ws.xinfin.network</a></p>
+                                    <p><a href="wss://ws1.xinfin.network" target="_blank" class="link-break-out">wss://ws1.xinfin.network</a></p>
+                                    <p><a href="wss://ews.xinfin.network" target="_blank" class="link-break-out">wss://ews.xinfin.network</a></p>
                                 </div>
                         </div>
                         </div>
@@ -261,7 +267,9 @@ include('inc/header.php') ?>
                              <hr class="hr-space mt-2 mb-2">                             
                                 <div class="">
                                     <h5 class="heading">Full Node</h5>
-                                    <p><a href="https://ws.apothem.network" target="_blank" class="link-break-out">https://ws.apothem.network</a> OR <a href="https://rpc.apothem.network" target="_blank" class="link-break-out">https://rpc.apothem.network</a></p>
+                                    <!--<p><a href="https://ws.apothem.network" target="_blank" class="link-break-out">https://ws.apothem.network</a></p>-->
+                                    <p><a href="https://rpc.apothem.network" target="_blank" class="link-break-out">https://rpc.apothem.network</a></p>
+                                    <p><a href="https://erpc.apothem.network" target="_blank" class="link-break-out">https://erpc.apothem.network</a></p>
                                 </div>                             
                              <hr class="hr-space mt-2 mb-2">                        	
                                 <div class="">
