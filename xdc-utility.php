@@ -29,6 +29,23 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/unitap-logo.png" alt="unitap.app">
+            </div>
+            <h3>Unitap <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://unitap.app/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            </div>            
+            <p>Unitap, an onboarding tool for networks and communities, has integrated the XDC Network into its platform.</p>
+            <div class="btn-block mb-1">
+                <a href="https://unitap.app/gas-tap" target="_blank"><button class="btn-hover color-3"><i class="fas fa-gas-pump"></i> Avail Gas</button></a>
+            </div>
+            <p>The XDC Network community and dApp users can now avail the gas fees required through the Unitap platform to onboard their Dapp or to interact with Dapps built on the XDC Network mainnet. This integration is expected to benefit the XDC Network community, particularly regarding onboarding and transaction fees. Unitap can now offer XDC Network users the required gas fees to onboard their Dapps on the mainnet. The XDC Network community can now avail the benefits of a user-friendly and cost-effective onboarding experience.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/godomains-logo.png" alt="godomains.io">
             </div>
             <h3>Go Domains <span>Livenet</span></h3>
