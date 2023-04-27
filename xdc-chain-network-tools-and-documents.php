@@ -245,6 +245,7 @@ include('inc/header.php') ?>
                                     <p><a href="https://rpc1.xinfin.network" target="_blank" class="link-break-out">https://rpc1.xinfin.network</a></p>
                                     <p><a href="https://erpc.xinfin.network" target="_blank" class="link-break-out">https://erpc.xinfin.network</a></p>
                                     <p><a href="https://appsrpc.xinfin.network" target="_blank" class="link-break-out">https://appsrpc.xinfin.network</a></p>
+                                    <p><a href="https://rpc.xdcrpc.com" target="_blank" class="link-break-out">https://rpc.xdcrpc.com</a></p>
                                     <p><a href="https://rpc-xdc.icecreamswap.com" target="_blank" class="link-break-out">https://rpc-xdc.icecreamswap.com</a></p>
                                 </div>
                              <hr class="hr-space mt-2 mb-2">
