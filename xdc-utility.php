@@ -46,6 +46,20 @@ include('inc/header.php') ?>
     <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
         <div class="usecase-box">
             <div class="image-container">
+            	<img class="img-responsive" src="assets/images/utility/blockfund-logo.png" alt="blockfund.world">
+            </div>
+            <h3>BLOCKFUND <span>Livenet</span></h3>
+            <div class="btn-block mb-1">
+            	<a href="https://www.blockfund.world/" target="_blank"><button class="btn-hover color-1"><i class="fa fa-external-link"></i> Visit Website</button></a>
+            </div>            
+            <p>BLOCKFUND is a decentralized application (dApp) that allows nonprofits to pre-program the distribution of donations received on the blockchain that can provide donors with premium benefits by offering them "proof of donation" NFTs.</p>
+            <p>By using blockchain technology, the dApp can ensure the transparency and immutability of the donation process, which can build trust and credibility with donors. When a donor makes a contribution on the blockchain, the dApp will automatically distribute the funds according to the conditions specified in the smart contract. This NFT serves as a digital certificate that verifies the donation and provides evidence of the donor's support for the nonprofit.</p>
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
+        <div class="usecase-box">
+            <div class="image-container">
             	<img class="img-responsive" src="assets/images/utility/godomains-logo.png" alt="godomains.io">
             </div>
             <h3>Go Domains <span>Livenet</span></h3>
