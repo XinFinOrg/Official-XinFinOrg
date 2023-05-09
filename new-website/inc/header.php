@@ -45,7 +45,7 @@
                 <div class="navbar-content">
                     <div class="container d-flex align-items-center justify-content-between">
                         <div class="logo-wrapper">
-                            <a class="navbar-brand" href="https://xinfin.org/">
+                            <a class="navbar-brand" href="#">
                                 <img src="<?php echo base_url() ; ?>/assets/images/xinfin-logo-white.png" class="logo-white img-responsive" width="60">
                                 <img src="<?php echo base_url() ; ?>/assets/images/xinfin-logo-dark.png" class="logo-dark img-responsive" width="60">
                             </a>
