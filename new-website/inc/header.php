@@ -77,12 +77,11 @@
                                                 <li><a href="#">Media</a></li>
                                             </ul>
                                         </li>
-    
                                         <li>
                                             <a href="#">Tools <span class="icon"><i class="fas fa-chevron-down"></i></span></a>
                                             <ul class="sub-menu">
                                                 <li><a href="https://explorer.xinfin.network" target="_blank">Explorer</a></li>
-                                                <li><a href="https://stats1.xinfin.network" target="_blank">Network Network Status</a></li>
+                                                <li><a href="https://stats1.xinfin.network" target="_blank">XDC Network Status</a></li>
                                                 <li><a href="https://faucet.apothem.network" target="_blank">XDC Faucet</a></li>
                                                 <li><a href="https://remix.xinfin.network" target="_blank">XDC Network Remix</a></li> 
                                                 <li><a href="https://chrome.google.com/webstore/detail/xdcpay/bocpokimicclpaiekenaeelehdjllofo" target="_blank">XDCPay</a></li>
