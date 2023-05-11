@@ -15,7 +15,7 @@
                         The Decentralized and Open Source Smart Contract Platform, Driven by Community for Seamless Execution of Enterprise-Friendly Use Cases such as Trade Finance and Payment.
                     </h2>
                     <div class="btn-block mt-4">
-                        <a href="#">
+                        <a href="https://master.xinfin.network" target="_blank">
                             <button class="btn-blue">Become Validator</button>
                         </a>
                         <a href="https://stats1.xinfin.network" target="_blank">

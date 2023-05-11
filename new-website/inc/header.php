@@ -58,7 +58,7 @@
                                         <li>
                                             <a href="#">Developers <span class="icon"><i class="fas fa-chevron-down"></i></span></a>
                                             <ul class="sub-menu">
-                                                <li><a href="#">Documentation</a></li>
+                                                <li><a href="https://howto.xinfin.org/" target="_blank">Documentation</a></li>
                                                 <li><a href="https://howto.xinfin.org" target="_blank">Developer Portal</a></li>
                                                 <li><a href="https://xdc.dev" target="_blank">Developers Forum</a></li>
                                                 <li><a href="#">Bug Bounty</a></li>
@@ -82,7 +82,7 @@
                                             <a href="#">Tools <span class="icon"><i class="fas fa-chevron-down"></i></span></a>
                                             <ul class="sub-menu">
                                                 <li><a href="https://explorer.xinfin.network" target="_blank">Explorer</a></li>
-                                                <li><a href="https://stats1.xinfin.network" target="_blank">Network Status</a></li>
+                                                <li><a href="https://stats1.xinfin.network" target="_blank">Network Network Status</a></li>
                                                 <li><a href="https://faucet.apothem.network" target="_blank">XDC Faucet</a></li>
                                                 <li><a href="https://remix.xinfin.network" target="_blank">XDC Network Remix</a></li> 
                                                 <li><a href="https://chrome.google.com/webstore/detail/xdcpay/bocpokimicclpaiekenaeelehdjllofo" target="_blank">XDCPay</a></li>
