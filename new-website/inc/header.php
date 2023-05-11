@@ -22,12 +22,12 @@
         
         <!-- JS -->
         <script src="<?php echo base_url() ; ?>/assets/bootstrap-5/js/jquery-1.12.4.min.js"></script>
-        <script src="<?php echo base_url() ; ?>/assets/bootstrap-5/js/popper.min.js"></script>
+        <!--<script src="<?php echo base_url() ; ?>/assets/bootstrap-5/js/popper.min.js"></script>-->
         <script src="<?php echo base_url() ; ?>/assets/bootstrap-5/js/bootstrap.js"></script>
-        <script src="<?php echo base_url() ; ?>/assets/bootstrap-5/js/jquery.counterup.min.js"></script>
+        <!--<script src="<?php echo base_url() ; ?>/assets/bootstrap-5/js/jquery.counterup.min.js"></script>-->
         <script src="<?php echo base_url() ; ?>/assets/bootstrap-5/js/metismenu.js"></script>
         <script src="<?php echo base_url() ; ?>/assets/bootstrap-5/js/progresscircle.js"></script>
-        <script src="<?php echo base_url() ; ?>/assets/bootstrap-5/js/active.js"></script>
+        <script src="<?php echo base_url() ; ?>/assets/bootstrap-5/js/active.js"></script>-->
         
         
     </head>
