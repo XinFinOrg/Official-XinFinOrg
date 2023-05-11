@@ -126,6 +126,13 @@ section {
 	padding-top: 200px;
 	padding-bottom: 200px;
 }
+
+@media (max-width: 480px) {
+	.p-5 {
+		padding: 1.75rem!important;
+	}
+}
+
 .br-5 {	
 	border-radius: 5px;
 }
@@ -229,8 +236,8 @@ section {
 }
 @media (max-width: 480px) {
 	.title-l {
-		font-size: 38px;
-		line-height: 46px;
+		font-size: 32px;
+		line-height: 40px;
 	}
 	.title-m {
 		font-size: 28px;
@@ -242,6 +249,10 @@ section {
 	}
 	.title-xs {
 		font-size: 16px;
+		line-height: 24px;
+	}
+	.subtitle-m {
+		font-size: 18px;
 		line-height: 24px;
 	}
 }
