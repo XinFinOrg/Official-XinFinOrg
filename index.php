@@ -581,7 +581,7 @@ include('inc/header.php') ?>
                         <a href="https://thecurrencyanalytics.com/19326/xinfins-mycontract-co-expands-chainlinks-oracles-beyond-trade-finance/" target="_blank"><img src="assets/images/home/media/the-currency-analytics-logo.png" alt="The Currency Analytics" class="img-responsive margin-auto-lr"></a>
                     </div>
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.6s">
-                        <a href="https://hackernoon.com/u/XinFin_Official" target="_blank"><img src="assets/images/home/media/hackernoon.png" alt="Hacker Noon" class="img-responsive margin-auto-lr"></a>
+                        <a href="https://hackernoon.com/u/xinfin" target="_blank"><img src="assets/images/home/media/hackernoon.png" alt="Hacker Noon" class="img-responsive margin-auto-lr"></a>
                     </div>
                     <div class="col-md-2 col-sm-4 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.6s">
                         <a href="https://www.marketwatch.com/press-release/xinfin-network-secures-ex-swift-corporate-trade-head-andre-casterman-as-an-advisor-2020-07-16" target="_blank"><img src="assets/images/home/media/marketwatch-logo.png" alt="MarketWatch" class="img-responsive margin-auto-lr"></a>
