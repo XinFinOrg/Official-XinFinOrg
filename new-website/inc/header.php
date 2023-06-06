@@ -137,8 +137,7 @@
                                         	<li><a href="https://explorer.xinfin.network" target="_blank">Explorer</a></li>
                                             <li><a href="https://stats1.xinfin.network" target="_blank">Network Status</a></li>
                                             <li><a href="https://faucet.apothem.network" target="_blank">XDC Faucet</a></li>
-                                            <li><a href="https://remix.xinfin.network" target="_blank">XDC Network Remix</a></li> 
-                                            <li><a href="https://chrome.google.com/webstore/detail/xdcpay/bocpokimicclpaiekenaeelehdjllofo" target="_blank">XDCPay</a></li>
+                                            <li><a href="https://remix.xinfin.network" target="_blank">XDC Network Remix</a></li>
                                     	</ul>
                                     </li>
                                     <li><a href="#" class="cta"><button class="btn-blue">#BuiltOnXDC</button></a></li>
