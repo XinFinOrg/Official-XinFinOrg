@@ -57,16 +57,16 @@
         $("#mobile-menu").metisMenu();
 
 
- /* Sticky Header */
-    var windows = $(window);
-    $(window).on('scroll', function () {
-        var scrollPos = $(this).scrollTop();
-        if (scrollPos > 50) {
-            $('.sticky-header').addClass('is-sticky');
-        } else {
-            $('.sticky-header').removeClass('is-sticky');
-        }
-    });
+        /* Sticky Header */
+        var windows = $(window);
+        $(window).on('scroll', function () {
+            var scrollPos = $(this).scrollTop();
+            if (scrollPos > 50) {
+                $('.sticky-header').addClass('is-sticky');
+            } else {
+                $('.sticky-header').removeClass('is-sticky');
+            }
+        });
         // PROGRESS BAR
         jQuery(".skillbar").each(function () {
             jQuery(this)
@@ -80,10 +80,7 @@
         });
 
         // COUNTER UP
-        $(".counter-up").counterUp({
-            delay: 10,
-            time: 1000,
-        });
+        $('.counter').countUp();
         
     }); // end document ready function
 })(jQuery); // End jQuery

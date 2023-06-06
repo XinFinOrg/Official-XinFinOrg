@@ -19,18 +19,16 @@
         <link rel="stylesheet" media="screen" href="<?php echo base_url() ; ?>/assets/bootstrap-5/css/metismenu.css">
         <link rel="stylesheet" media="screen" href="<?php echo base_url() ; ?>/assets/bootstrap-5/css/custom.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-        
-       <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
+
         <!-- JS -->
         <script src="<?php echo base_url() ; ?>/assets/bootstrap-5/js/jquery-1.12.4.min.js"></script>
-        <!--<script src="<?php echo base_url() ; ?>/assets/bootstrap-5/js/popper.min.js"></script>-->
+        <script src="<?php echo base_url() ; ?>/assets/bootstrap-5/js/popper.min.js"></script>
         <script src="<?php echo base_url() ; ?>/assets/bootstrap-5/js/bootstrap.js"></script>
         <script src="<?php echo base_url() ; ?>/assets/bootstrap-5/js/jquery.counterup.min.js"></script>
+        <script src="<?php echo base_url() ; ?>/assets/bootstrap-5/js/jquery.waypoints.min.js"></script>
         <script src="<?php echo base_url() ; ?>/assets/bootstrap-5/js/metismenu.js"></script>
         <script src="<?php echo base_url() ; ?>/assets/bootstrap-5/js/progresscircle.js"></script>
         <script src="<?php echo base_url() ; ?>/assets/bootstrap-5/js/custom.js"></script>
-        
         
     </head>
     <body>

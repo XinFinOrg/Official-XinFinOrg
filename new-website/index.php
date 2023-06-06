@@ -45,7 +45,7 @@
                     <div class="card overflow-hidden pt-4 pb-4 px-3 bg-lb br-20 border-0">
                         <div class="card-info">
                             <p class="fw-500">Transactions</p>
-                            <div class="cardHead fw-600 lh-1 counter-up">416,760,859</div>
+                            <div class="cardHead fw-600 lh-1 counter">416,760,859</div>
                             <div class="statsIcon">
                                 <img src="assets/images/icons/transactions.png" class="img-fluid" />
                             </div>
@@ -67,7 +67,7 @@
                     <div class="card overflow-hidden pt-4 pb-4 px-3 bg-lb br-20 border-0">
                         <div class="card-info">
                             <p class="fw-500">Validators/Total Nodes</p>
-                            <div class="cardHead fw-600 lh-1">108/275</div>
+                            <div class="cardHead fw-600 lh-1"><span class="counter">108</span>/<span class="counter">275</span></div>
                             <div class="statsIcon">
                                 <img src="assets/images/icons/validators-nodes.png" class="img-fluid" />
                             </div>
