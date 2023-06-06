@@ -50,7 +50,6 @@
                             <a href="https://stats1.xinfin.network" target="_blank">Network Status</a><br/>
                             <a href="https://faucet.apothem.network" target="_blank">XDC Faucet</a><br/>
                             <a href="https://remix.xinfin.network" target="_blank">XDC Network Remix</a><br/>
-                            <a href="https://chrome.google.com/webstore/detail/xdcpay/bocpokimicclpaiekenaeelehdjllofo" target="_blank">XDCPay</a>                            
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-4 mb-md-4 mb-lg-0">
