@@ -372,7 +372,7 @@ include('inc/header.php') ?>
 
                                 <p class="mt-3 mb-1"><strong>Step 3: Start your Node</strong></p>
                                 <p>Run:</p>
-                                <pre>sudo docker-compose -f docker-services.yml up -d</pre>
+                                <pre>sudo docker-compose -f docker-compose.yml up -d</pre>
                                 <p class="link-break-out">
                                     You should be able to see your node listed on this page: <a href="http://xinfin.network" target="_blank">http://xinfin.network</a> Select Menu "Switch to TestNet" for Test Network and Select "Switch to
                                     LiveNet" to check Live Network Stats.
@@ -380,13 +380,13 @@ include('inc/header.php') ?>
                                 <p>Your Coinbase address can be found in xdcchain/coinbase.txt file.</p>
 
                                 <p>To stop the node or if you encounter any issues use:</p>
-                                <pre>sudo docker-compose -f docker-services.yml down</pre>
+                                <pre>sudo docker-compose -f docker-compose.yml down</pre>
 
                                 <p class="mb-1"><strong>Upgrade</strong></p>
                                 <p>To upgrade please use the following commands</p>
-                                <pre><code>sudo docker-compose -f docker-services.yml down
+                                <pre><code>sudo docker-compose -f docker-compose.yml down
 sudo ./upgrade.sh
-sudo docker-compose -f docker-services.yml up -d
+sudo docker-compose -f docker-compose.yml up -d
 </code></pre>
 
                                 <p class="mb-1"><strong>Troubleshooting</strong></p>
