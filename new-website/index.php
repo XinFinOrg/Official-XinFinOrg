@@ -32,8 +32,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="row items-3 justify-content-center">
-                        <div class="col mt-2 mb-2">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-4 col-md-4 mt-2 mb-2">
                             <div class="bg-lightgray br-20 border-0">
                                 <a href="get-xdc" class="hero-ftr-card pt-4 pb-4 px-3">
                                     <div class="card-info">
@@ -48,7 +48,7 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="col mt-2 mb-2">
+                        <div class="col-lg-4 col-md-4 mt-2 mb-2">
                             <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                 <a href="https://docs.xdc.community/" class="hero-ftr-card">
                                     <div class="card-info">
@@ -63,12 +63,12 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="col mt-2 mb-2">
+                        <div class="col-lg-4 col-md-4 mt-2 mb-2">
                             <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                 <a href="ecosystem-dapps" class="hero-ftr-card">
                                     <div class="card-info">
                                         <div class="card-infoHead mb-3">Use DApp</div>
-                                        <p class="fs-6 mb-0">Dapps are applications powered by Ethereum. See what you can do.</p>
+                                        <p class="fs-6 mb-0">Dapps are applications powered by XDC. See what you can do.</p>
                                     </div>
                                     <div class="hero-ftr-arrow">
                                         <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
