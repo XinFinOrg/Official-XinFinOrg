@@ -1,6 +1,6 @@
 <?php 
-    $title = "Decentralized Smart Contracts Platform";
-    $desc = "The Decentralized and Open Source Smart Contract Platform, Driven by Community for Seamless Execution of Enterprise-Friendly Use Cases such as Trade Finance and Payment.";
+    $title = "Unleash the Power of Digital Assets with XDC Network's Blockchain Ecosystem";
+    $desc = "Experience a seamless and efficient way to manage and transact digital assets with the XDC Network's Blockchain Ecosystem. Say goodbye to traditional intermediaries and enjoy faster, secure, and cost-effective asset transfers.";
     
     include('inc/header.php') ?>
     
@@ -365,16 +365,16 @@
                     </div>
                 </div>
             </div>
-            <div class="row mt-5">
+            <div class="row">
                 <div class="col-lg-12">
                     <div class="dark-merg-gradient p-4 br-20">
                         <div class="row justify-content-center">
-                            <div class="col-lg-4 col-md-12 mt-2 mb-2 px-3">
+                            <div class="col-lg-4 col-md-12 mt-5 mb-2 px-3">
                                 <div class="card-info h-100 d-flex flex-column">
                                     <img src="assets/images/icons/api-light.png" class="img-fluid iconL" />
                                     <img src="assets/images/icons/api.png" class="img-fluid iconD" />
                                     <div class="card-infoHead mt-3 mb-3">XinFin APIs</div>
-                                    <p class="fs-6"><!--<p class="fs-6 text-white-75">-->
+                                    <p class="fs-6 mb-0"><!--<p class="fs-6 text-white-75">-->
                                         Higher interoperability with legacy systems and other blockchain platforms makes XinFin Protocol (XDC) the language of core banking systems, ERP systems and SWIFT systems and many more.
                                     </p>
                                     <a class="btn socialHead-button internalLink mt-auto">
@@ -385,12 +385,12 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-lg-4 col-md-12 mt-2 mb-2 px-3">
+                            <div class="col-lg-4 col-md-12 mt-5 mb-2 px-3">
                                 <div class="card-info h-100 d-flex flex-column">
                                     <img src="assets/images/icons/connect-light.png" class="img-fluid iconL" />
                                     <img src="assets/images/icons/connect.png" class="img-fluid iconD" />
                                     <div class="card-infoHead mt-3 mb-3">XDC Connect</div>
-                                    <p class="fs-6">
+                                    <p class="fs-6 mb-0">
                                         A library which lets your application connect to major XDC wallet providers - hardware as well as software, and send transactions enabling secure and efficient handling of XDC assets.
                                     </p>
                                     <a class="btn socialHead-button internalLink mt-auto">
@@ -401,12 +401,12 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-lg-4 col-md-12 mt-2 mb-2 px-3">
+                            <div class="col-lg-4 col-md-12 mt-5 mb-2 px-3">
                                 <div class="card-info h-100 d-flex flex-column">
                                     <img src="assets/images/icons/smc-light.png" class="img-fluid iconL" />
                                     <img src="assets/images/icons/smc.png" class="img-fluid iconD" />
                                     <div class="card-infoHead mt-3 mb-3">Create Smart Contract</div>
-                                    <p class="fs-6">
+                                    <p class="fs-6 mb-0">
                                         Higher interoperability with legacy systems and other blockchain platforms makes XinFin Protocol (XDC) the language of core banking systems, ERP systems and SWIFT systems and many more.
                                     </p>
                                     <a class="btn socialHead-button internalLink mt-auto">
