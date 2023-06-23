@@ -656,6 +656,14 @@ canvas {
 .hero-ftr {
 	z-index: 9;
 }
+.hero-ftr .card {
+	flex-direction: inherit;
+}
+@media (max-width: 767px) {
+	.hero-ftr .card {
+		flex-direction: column;
+	}
+}
 .hero-ftr-card {
     grid-column-gap: 24px;
     text-align: left;
