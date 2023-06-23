@@ -349,6 +349,10 @@ section {
 		font-size: 18px;
 		line-height: 26px;
 	}
+	.subtitle-s {
+		font-size: 16px;
+		line-height: 22px;
+	}
 	.subtitle-m {
 		font-size: 18px;
 		line-height: 24px;
@@ -1154,6 +1158,9 @@ a .card-infoHead {
 /*---------------------------------------------------------
 	PARTNERSHIPS STYLE
 ---------------------------------------------------------*/
+.partners-item img {
+	width: 100%;
+}
 .partners-item .logoL {
 	display: none;
 }
@@ -1394,6 +1401,9 @@ a .card-infoHead {
   }
 }
 @media screen and (max-width: 479px) {
+  .marquee-horizontal-large {
+    height: 100px;
+  }
   .flex-vertical.marquee-fix {
     margin-top: 15px;
   }
@@ -1405,8 +1415,8 @@ a .card-infoHead {
     height: 15px;
   }
   .icon-container-alt {
-    width: 200px;
-    height: 100px;
+    width: 150px;
+    height: 75px;
   }
 }
 
@@ -1486,7 +1496,7 @@ a .card-infoHead {
 }
 
 .internalLink {
-	font-size: 17px!important;
+	font-size: 16px!important;
 	font-weight: 600;
 }
 .internalLink svg {

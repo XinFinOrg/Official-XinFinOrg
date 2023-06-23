@@ -27,7 +27,7 @@
     </section>
     <!-- Hero Home Ends -->
     
-    <!-- CTA Cards Starts -->
+    <!-- Hero Cards Starts -->
     <section class="px-80 pt-0 hero-ftr">
         <div class="container">
             <div class="row row-flex">
@@ -68,7 +68,7 @@
                                 <a href="ecosystem-dapps" class="hero-ftr-card">
                                     <div class="card-info">
                                         <div class="card-infoHead mb-3">Use DApp</div>
-                                        <p class="fs-6 mb-0">Dapps are applications powered by XDC. See what you can do.</p>
+                                        <p class="fs-6 mb-0">DApps are applications powered by XDC. See what you can do.</p>
                                     </div>
                                     <div class="hero-ftr-arrow">
                                         <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -83,7 +83,7 @@
             </div>
         </div>
     </section>
-    <!-- CTA Cards Ends -->
+    <!-- Hero Cards Ends -->
     
     <!-- Blockchain Comparison Starts -->
     <section class="px-80 pt-0 pb-0 dark-curved">
@@ -369,7 +369,7 @@
                 <div class="col-lg-12">
                     <div class="dark-merg-gradient p-4 br-20">
                         <div class="row justify-content-center">
-                            <div class="col-lg-4 col-md-12 mt-5 mb-2 px-3">
+                            <div class="col-lg-4 col-md-4 mt-5 mb-2 px-3">
                                 <div class="card-info h-100 d-flex flex-column">
                                     <img src="assets/images/icons/api-light.png" class="img-fluid iconL" />
                                     <img src="assets/images/icons/api.png" class="img-fluid iconD" />
@@ -385,7 +385,7 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-lg-4 col-md-12 mt-5 mb-2 px-3">
+                            <div class="col-lg-4 col-md-4 mt-5 mb-2 px-3">
                                 <div class="card-info h-100 d-flex flex-column">
                                     <img src="assets/images/icons/connect-light.png" class="img-fluid iconL" />
                                     <img src="assets/images/icons/connect.png" class="img-fluid iconD" />
@@ -401,7 +401,7 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-lg-4 col-md-12 mt-5 mb-2 px-3">
+                            <div class="col-lg-4 col-md-4 mt-5 mb-2 px-3">
                                 <div class="card-info h-100 d-flex flex-column">
                                     <img src="assets/images/icons/smc-light.png" class="img-fluid iconL" />
                                     <img src="assets/images/icons/smc.png" class="img-fluid iconD" />
@@ -426,7 +426,7 @@
     <!-- Decentralized Solutions Ends -->
     
     <!-- Partnerships Starts -->
-    <section class="px-80 mb-4 bg-lightgray">
+    <section class="px-80 bg-lightgray">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2 mb-0">
