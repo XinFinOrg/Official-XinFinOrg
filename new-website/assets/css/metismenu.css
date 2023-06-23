@@ -161,7 +161,7 @@
 /*-------------------------------------------------------------------------------------------------------------------------*/
 * {
   -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
@@ -220,7 +220,7 @@ li {
 
 .progress-wrap {
   position: fixed;
-  left: 10px;
+  right: 10px;
   bottom: 40px;
   height: 50px;
   width: 50px;
@@ -229,7 +229,7 @@ li {
   border-radius: 50px;
   -webkit-box-shadow: inset 0 0 0 2px #aaaeb9;
   box-shadow: inset 0 0 0 2px #aaaeb9;
-  z-index: 10000;
+  z-index: 99;
   opacity: 0;
   visibility: hidden;
   -webkit-transform: translateY(15px);
@@ -390,25 +390,25 @@ li {
 
 .header-wrapper .main-menu ul > li > a {
   display: inline-block;
-  font-weight: 500;
-  font-size: 16px;
+  font-weight: 400;
+  font-size: 15px;
   text-transform: capitalize;
   color: #001c47;
   line-height: 1;
   overflow: hidden;
-  letter-spacing: 0.5px;
+  letter-spacing: 0.25px;
   padding: 15px;
 }
 
 .header-wrapper .main-menu ul > li > a .btn-blue {
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 500;
   letter-spacing: 0.5px;
-  padding: 4px 14px;	
+  padding: 4px 14px;
 }
 
 .header-wrapper .main-menu ul > li > a.cta {
-  padding: 4px 0px 4px 20px!important;	
+  padding: 4px 0px 4px 20px;	
 }
 
 .header-wrapper .main-menu ul > li .icon {
@@ -418,7 +418,7 @@ li {
 }
 
 .header-wrapper .main-menu ul > li:hover > a {
-  color: #64cbff;
+  color: #64cbff!important;
   -webkit-transition: color 0.3s ease-in-out;
   transition: color 0.3s ease-in-out;
 }
@@ -477,7 +477,7 @@ li {
 }
 
 .header-wrapper .main-menu ul > li > ul li a {
-  font-size: 15px;
+  font-size: 14px;
   display: block;
   color: #ffffff;
   padding: 12px 25px;
@@ -528,17 +528,24 @@ li {
   -webkit-transition: right 0.5s ease-in;
   transition: right 0.5s ease-in;
   background-color: #001c47;
-  padding: 20px;
+  padding: 50px 20px 20px 20px;
   z-index: 9999;
   -webkit-box-shadow: 0 13px 35px -12px rgba(35, 35, 35, 0.15);
           box-shadow: 0 13px 35px -12px rgba(35, 35, 35, 0.15);
   /* Vertical Menu Style */
+  
+  display: flex;
+  flex-direction: column;
 }
 
 @media (max-width: 767px) {
   .mobile-nav-one-wrapper .mobile-nav {
     width: 320px;
-    right: -440px;
+  }
+}
+@media (max-width: 480px) {
+  .mobile-nav-one-wrapper .mobile-nav {
+    width: 100%;
   }
 }
 
@@ -556,8 +563,8 @@ li {
   left: 20px;
   top: 10px;*/
   font-size: 30px;
-  right: 30px;
-  top: 32px;
+  right: 23px;
+  top: 64px;
 }
 
 .mobile-nav-one-wrapper .mobile-nav .sidebar-nav {
@@ -661,23 +668,21 @@ li {
   background: rgba(100, 203, 255, 0.10);
   border-radius: 5px;
 }
- 
 
 
-.navbar-brand .logo-dark {display:none}
+.navbar-brand .logo-white {display:none}
+.navbar-brand .logo-dark {display:block}
 .is-sticky .navbar-brand .logo-white {display:none}
 .is-sticky .navbar-brand .logo-dark {display:block}
-#hamburger {color: #FFFFFF;}
-.is-sticky #hamburger {color: #001c47;}
+#hamburger {color: #001c47;}
+
+.darkTheme #hamburger {color: #FFFFFF;}
 
 .sub-menu li > a {color: #001c47!important;}
 .sub-menu li:hover > a {color: #64cbff!important;}
 
-
-
-
 .header-wrapper .main-menu ul > li > a {
-	color: #FFFFFF;
+	color: #001c47;
 }
 .header-wrapper.is-sticky .main-menu ul > li > a {
 	color: #001c47;
@@ -767,9 +772,21 @@ li {
 
 
 
-
-
-
+.darkTheme .sticky-header:not(.header-submenu).is-sticky {
+    background: hsla(214,15%,16%,0.75);
+    backdrop-filter: saturate(180%) blur(30px);
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+}
+.darkTheme .navbar-brand .logo-white {
+    display: block;
+}
+.darkTheme .header-wrapper .main-menu ul > li > a {
+	color: #FFFFFF;
+}
+.darkTheme .header-wrapper.is-sticky .main-menu ul > li > a {
+	color: #FFFFFF;
+}
+.darkTheme 
 
 
 

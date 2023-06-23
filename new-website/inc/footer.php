@@ -1,5 +1,5 @@
 <section>
-    <footer class="footer">
+    <footer class="footer bg-lightgray">
         <div class="pattern-layer">
 			<div class="pattern-2" style="background-image: url(<?php echo base_url() ; ?>/assets/images/bgCircles.png"></div>
 		</div>            

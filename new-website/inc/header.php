@@ -15,20 +15,23 @@
         
         
         <!-- CSS -->
-        <link rel="stylesheet" media="screen" href="<?php echo base_url() ; ?>/assets/bootstrap-5/css/bootstrap.css">
-        <link rel="stylesheet" media="screen" href="<?php echo base_url() ; ?>/assets/bootstrap-5/css/metismenu.css">
-        <link rel="stylesheet" media="screen" href="<?php echo base_url() ; ?>/assets/bootstrap-5/css/custom.css">
+        <link rel="stylesheet" media="screen" href="<?php echo base_url() ; ?>/assets/css/bootstrap.css">
+        <link rel="stylesheet" media="screen" href="<?php echo base_url() ; ?>/assets/css/metismenu.css">
+        <link rel="stylesheet" media="screen" href="<?php echo base_url() ; ?>/assets/css/custom.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
         <!-- JS -->
-        <script src="<?php echo base_url() ; ?>/assets/bootstrap-5/js/jquery-1.12.4.min.js"></script>
-        <script src="<?php echo base_url() ; ?>/assets/bootstrap-5/js/popper.min.js"></script>
-        <script src="<?php echo base_url() ; ?>/assets/bootstrap-5/js/bootstrap.js"></script>
-        <script src="<?php echo base_url() ; ?>/assets/bootstrap-5/js/jquery.counterup.min.js"></script>
-        <script src="<?php echo base_url() ; ?>/assets/bootstrap-5/js/jquery.waypoints.min.js"></script>
-        <script src="<?php echo base_url() ; ?>/assets/bootstrap-5/js/metismenu.js"></script>
-        <script src="<?php echo base_url() ; ?>/assets/bootstrap-5/js/progresscircle.js"></script>
-        <script src="<?php echo base_url() ; ?>/assets/bootstrap-5/js/custom.js"></script>
+        <script src="<?php echo base_url() ; ?>/assets/js/jquery-1.12.4.min.js"></script>
+        <script src="<?php echo base_url() ; ?>/assets/js/popper.min.js"></script>
+        <script src="<?php echo base_url() ; ?>/assets/js/bootstrap.js"></script>
+        <script src="<?php echo base_url() ; ?>/assets/js/jquery.counterup.min.js"></script>
+        <script src="<?php echo base_url() ; ?>/assets/js/jquery.waypoints.min.js"></script>
+        <script src="<?php echo base_url() ; ?>/assets/js/metismenu.js"></script>
+        <script src="<?php echo base_url() ; ?>/assets/js/progresscircle.js"></script>
+        <script src="<?php echo base_url() ; ?>/assets/js/custom.js"></script>        
+        <!-- Theme Switcher -->
+	    <script src="<?php echo base_url() ; ?>/assets/js/switcher/js.cookie.js"></script>
+        <script src="<?php echo base_url() ; ?>/assets/js/switcher/jquery.style.switcher.js"></script>
         
     </head>
     <body>
@@ -39,7 +42,14 @@
             </svg>
         </div>
         <!-- ============= HEADER ============= -->
-        <header class="header-wrapper sticky-header">
+        <header class="autohide header-wrapper sticky-header">
+            
+            <div class="news-bar">
+            	<p>XDC at Blockchain week 2023 Australia - 26th-30th JUNE, 2023. <a href="https://blockchainweek.com.au/event-schedule/" class="news-bar-button">JOIN US <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg></a></p>
+            	
+				<span class="closeNews"><i class="fas fa-close"></i></span>
+            </div>
+            
             <nav class="navbar">
                 <!--<div class="navbar-content d-flex">-->
                 <div class="navbar-content">
@@ -59,7 +69,7 @@
                                             <a href="#">Developers <span class="icon"><i class="fas fa-chevron-down"></i></span></a>
                                             <ul class="sub-menu">
                                                 <li><a href="https://howto.xinfin.org/" target="_blank">Documentation</a></li>
-                                                <li><a href="https://howto.xinfin.org" target="_blank">Developer Portal</a></li>
+                                                <li><a href="https://docs.xdc.community/" target="_blank">Developer Portal</a></li>
                                                 <li><a href="https://xdc.dev" target="_blank">Developers Forum</a></li>
                                                 <li><a href="#">Bug Bounty</a></li>
                                                 <li><a href="https://github.com/XinFinorg" target="_blank">GitHub</a></li>
@@ -86,7 +96,21 @@
                                                 <li><a href="https://remix.xinfin.network" target="_blank">XDC Network Remix</a></li> 
                                             </ul>
                                         </li>
+                                        
+                                        <li>
+                                        	<a class="cta themeSwitcher ps-0"><!--themeSwitcher Start-->
+                                            <div class="themeSwitcher">
+                                                <button id="theme-toggle" class="btn btn-link btn-sm small" type="button">
+                                                <span class="d-block-light"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" focusable="false" class="chakra-icon css-13otjrl" height="1.5em" width="1.5em" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"></path><path d="M10 2c-1.82 0-3.53.5-5 1.35C7.99 5.08 10 8.3 10 12s-2.01 6.92-5 8.65C6.47 21.5 8.18 22 10 22c5.52 0 10-4.48 10-10S15.52 2 10 2z"></path></svg></span>
+                                                <span class="d-block-dark"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" focusable="false" class="chakra-icon css-13otjrl" height="1.5em" width="1.5em" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"></path><path d="M6.76 4.84l-1.8-1.79-1.41 1.41 1.79 1.79 1.42-1.41zM4 10.5H1v2h3v-2zm9-9.95h-2V3.5h2V.55zm7.45 3.91l-1.41-1.41-1.79 1.79 1.41 1.41 1.79-1.79zm-3.21 13.7l1.79 1.8 1.41-1.41-1.8-1.79-1.4 1.4zM20 10.5v2h3v-2h-3zm-8-5c-3.31 0-6 2.69-6 6s2.69 6 6 6 6-2.69 6-6-2.69-6-6-6zm-1 16.95h2V19.5h-2v2.95zm-7.45-3.91l1.41 1.41 1.79-1.8-1.41-1.41-1.79 1.8z"></path></svg></span>
+                                                </button>
+                                            </div>
+                                            <!--themeSwitcher End-->
+                                            </a>
+                                        </li>
+                                        
                                         <li><a href="#" class="cta"><button class="btn-blue">#BuiltOnXDC</button></a></li>
+                                    
                                     </ul>
                                 </div>
                             </div>
@@ -137,6 +161,22 @@
                                             <li><a href="https://faucet.apothem.network" target="_blank">XDC Faucet</a></li>
                                             <li><a href="https://remix.xinfin.network" target="_blank">XDC Network Remix</a></li>
                                     	</ul>
+                                    </li>
+                                        
+                                </ul>
+                            </nav>
+                            <nav class="sidebar-nav mt-auto">
+                                <ul class="metismenu" id="mobile-menu">
+                                    <li>
+                                    	<a class="cta themeSwitcher ps-0"><!--themeSwitcher Start-->
+                                            <div class="themeSwitcher">
+                                                <button id="theme-toggle-mob" class="btn btn-link btn-sm small" type="button">
+                                                <span class="d-block-light"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" focusable="false" class="chakra-icon css-13otjrl" height="1.5em" width="1.5em" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"></path><path d="M10 2c-1.82 0-3.53.5-5 1.35C7.99 5.08 10 8.3 10 12s-2.01 6.92-5 8.65C6.47 21.5 8.18 22 10 22c5.52 0 10-4.48 10-10S15.52 2 10 2z"></path></svg></span>
+                                                <span class="d-block-dark"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" focusable="false" class="chakra-icon css-13otjrl" height="1.5em" width="1.5em" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"></path><path d="M6.76 4.84l-1.8-1.79-1.41 1.41 1.79 1.79 1.42-1.41zM4 10.5H1v2h3v-2zm9-9.95h-2V3.5h2V.55zm7.45 3.91l-1.41-1.41-1.79 1.79 1.41 1.41 1.79-1.79zm-3.21 13.7l1.79 1.8 1.41-1.41-1.8-1.79-1.4 1.4zM20 10.5v2h3v-2h-3zm-8-5c-3.31 0-6 2.69-6 6s2.69 6 6 6 6-2.69 6-6-2.69-6-6-6zm-1 16.95h2V19.5h-2v2.95zm-7.45-3.91l1.41 1.41 1.79-1.8-1.41-1.41-1.79 1.8z"></path></svg></span>
+                                                </button>
+                                            </div>
+                                            <!--themeSwitcher End-->
+                                    	</a>
                                     </li>
                                     <li><a href="#" class="cta"><button class="btn-blue">#BuiltOnXDC</button></a></li>
                                 </ul>
