@@ -30,12 +30,12 @@
     <!-- CTA Cards Starts -->
     <section class="px-80 pt-0 hero-ftr">
         <div class="container">
-            <div class="row">
+            <div class="row row-flex">
                 <div class="col-lg-12">
                     <div class="row justify-content-center">
                         <div class="col-lg-4 col-md-4 mt-2 mb-2">
-                            <div class="bg-lightgray br-20 border-0">
-                                <a href="get-xdc" class="hero-ftr-card pt-4 pb-4 px-3">
+                            <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                <a href="get-xdc" class="hero-ftr-card">
                                     <div class="card-info">
                                         <div class="card-infoHead mb-3">Get XDC</div>
                                         <p class="fs-6 mb-0">XDC is the currency of XinFin – you can use it in applications.</p>
@@ -49,7 +49,7 @@
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-4 mt-2 mb-2">
-                            <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                            <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                 <a href="https://docs.xdc.community/" class="hero-ftr-card">
                                     <div class="card-info">
                                         <div class="card-infoHead mb-3">Start Building</div>
@@ -64,7 +64,7 @@
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-4 mt-2 mb-2">
-                            <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                            <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                 <a href="ecosystem-dapps" class="hero-ftr-card">
                                     <div class="card-info">
                                         <div class="card-infoHead mb-3">Use DApp</div>
