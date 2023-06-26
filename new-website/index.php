@@ -38,7 +38,8 @@
                                 <a href="get-xdc" class="hero-ftr-card">
                                     <div class="card-info">
                                         <div class="card-infoHead mb-3">Get XDC</div>
-                                        <p class="fs-6 mb-0">XDC is the currency of XinFin – you can use it in applications.</p>
+                                        <!--<p class="fs-6 mb-0">XDC is the currency of XinFin – you can use it in applications.</p>-->
+                                        <p class="fs-6 mb-0">XDC, the currency of XinFin, is your gateway to a world of possibilities.</p>
                                     </div>
                                     <div class="hero-ftr-arrow">
                                         <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -53,7 +54,8 @@
                                 <a href="https://docs.xdc.community/" class="hero-ftr-card">
                                     <div class="card-info">
                                         <div class="card-infoHead mb-3">Start Building</div>
-                                        <p class="fs-6 mb-0">Get access to our documents, and start building.</p>
+                                        <!--<p class="fs-6 mb-0">Get access to our documents, and start building.</p>-->
+                                        <p class="fs-6 mb-0">Comprehensive documents and resources to build on XDC Network.</p>
                                     </div>
                                     <div class="hero-ftr-arrow">
                                         <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -68,7 +70,8 @@
                                 <a href="ecosystem-dapps" class="hero-ftr-card">
                                     <div class="card-info">
                                         <div class="card-infoHead mb-3">Use DApp</div>
-                                        <p class="fs-6 mb-0">DApps are applications powered by XDC. See what you can do.</p>
+                                        <!--<p class="fs-6 mb-0">DApps are applications powered by XDC. See what you can do.</p>-->
+                                        <p class="fs-6 mb-0">Experience the power of decentralized applications (DApps) fueled by XDC.</p>
                                     </div>
                                     <div class="hero-ftr-arrow">
                                         <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
