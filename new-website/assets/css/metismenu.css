@@ -392,7 +392,6 @@ li {
   display: inline-block;
   font-weight: 400;
   font-size: 15px;
-  text-transform: capitalize;
   color: #001c47;
   line-height: 1;
   overflow: hidden;

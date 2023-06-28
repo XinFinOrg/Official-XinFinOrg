@@ -71,7 +71,7 @@
                                                 <li><a href="https://howto.xinfin.org/" target="_blank">Documentation</a></li>
                                                 <li><a href="https://docs.xdc.community/" target="_blank">Developer Portal</a></li>
                                                 <li><a href="https://xdc.dev" target="_blank">Developers Forum</a></li>
-                                                <li><a href="#">Bug Bounty</a></li>
+                                                <li><a href="bug-bounty">Bug Bounty</a></li>
                                                 <li><a href="https://github.com/XinFinorg" target="_blank">GitHub</a></li>
                                             </ul>
                                         </li>
@@ -136,14 +136,14 @@
                                     <li>
                                         <a href="#" class="has-arrow">Developers</a>
                                         <ul class="sub-menu">
-                                        	<li><a href="#">Documentation</a></li>
-                                            <li><a href="https://howto.xinfin.org" target="_blank">Developer Portal</a></li>
+                                        	<li><a href="https://howto.xinfin.org/" target="_blank">Documentation</a></li>
+                                            <li><a href="https://docs.xdc.community/" target="_blank">Developer Portal</a></li>
                                             <li><a href="https://xdc.dev" target="_blank">Developers Forum</a></li>
-                                            <li><a href="#">Bug Bounty</a></li>
+                                            <li><a href="bug-bounty">Bug Bounty</a></li>
                                             <li><a href="https://github.com/XinFinorg" target="_blank">GitHub</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="#">Ecosystem DApps</a></li>
+                                    <a href="ecosystem-dapps">Ecosystem dApps</a>
                                     <li>
                                         <a href="#" class="has-arrow">Community</a>
                                         <ul class="sub-menu">
