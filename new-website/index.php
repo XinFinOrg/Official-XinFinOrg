@@ -95,7 +95,7 @@
                 <div class="col-lg-10 offset-lg-1 mb-2">
                     <h3 class="title-m text-center">Blockchain data</h3>
                     <div class="subtitle subtitle-s text-center">
-                        The XDC Network (Formerly XinFin) is a third-generation blockchain network with a capacity of up to 100,000 transactions per second. It offers high-throughput and low-latency transactions.
+                        The XDC Network (Formerly XinFin Network) is a third-generation blockchain network with a capacity of up to 100,000 transactions per second. It offers high-throughput and low-latency transactions.
                     </div>
                     <div class="btn-block mt-4">
                         <a href="setup-masternode">
@@ -376,7 +376,7 @@
                                 <div class="card-info h-100 d-flex flex-column">
                                     <img src="assets/images/icons/api-light.png" class="img-fluid iconL" />
                                     <img src="assets/images/icons/api.png" class="img-fluid iconD" />
-                                    <div class="card-infoHead mt-3 mb-3">XinFin API Documentation</div>
+                                    <div class="card-infoHead mt-3 mb-3">XinFin - XDC API Documentation</div>
                                     <p class="fs-6 mb-0"><!--<p class="fs-6 text-white-75">-->
                                         Building Decentralized Applications with Ease. Access the XinFin API documentation to unleash the power of the blockchain. Deploy smart contracts, interact with the network, and build innovative dApps using our comprehensive tools and protocols.
                                     </p>
@@ -410,7 +410,7 @@
                                     <img src="assets/images/icons/smc.png" class="img-fluid iconD" />
                                     <div class="card-infoHead mt-3 mb-3">Create Smart Contract</div>
                                     <p class="fs-6 mb-0">
-                                        Seamlessly integrate legacy systems and blockchain platforms with XDC Network (Formerly XinFin). Simplify smart contract deployment and enable interoperability across core banking systems, ERP systems, SWIFT systems, and more.
+                                        Easily integrate legacy systems and blockchain platforms with XDC Network (Formerly XinFin Network). Simplify smart contract deployment and enable interoperability across core banking systems, ERP systems, SWIFT systems, and more.
                                     </p>
                                     <a class="btn socialHead-button internalLink mt-auto">
                                         Deploy Smart Contract
@@ -639,7 +639,7 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2 mb-0">
                     <h3 class="title-m text-center">XDC utility</h3>
-                    <div class="subtitle subtitle-s text-center">Utility tokens from the XDC Network (Formerly XinFin) are made to improve efficiency, security, and transparency of transactions across several industries.</div>
+                    <div class="subtitle subtitle-s text-center">Utility tokens from the XDC Network (Formerly XinFin Network) are made to improve efficiency, security, and transparency of transactions across several industries.</div>
                     <div class="btn-block mt-4">
                         <a href="ecosystem-dapps">
                             <button class="btn-blue">Explore dApps</button>
@@ -666,7 +666,7 @@
                         <div class="row align-items-center">
                             <div class="col-lg-7 col-md-7 mb-4 mb-md-4 mb-lg-0">
                                 <h3 class="title-m text-center text-md-start text-lg-start mb-3">
-                                    XDC Network (Formerly XinFin): 
+                                    XDC Network (Formerly XinFin Network): 
                                     Powered by XDC Protocol
                                 </h3>
                                 <div class="subtitle subtitle-s text-center text-md-start text-lg-start">
@@ -805,7 +805,7 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2 mb-5">
                     <h3 class="title-m text-center">Join the global community</h3>
-                    <div class="subtitle subtitle-s text-center">Join a fast-growing XDC Network (Formerly XinFin) Community and innovators, connected all over the world. The XDC Network (Formerly XinFin) community includes people of many different backgrounds and skill sets.</div>
+                    <div class="subtitle subtitle-s text-center">Join a fast-growing XDC Network (Formerly XinFin Network) Community and innovators, connected all over the world. The XDC Network community includes people of many different backgrounds and skill sets.</div>
                 </div>
             </div>
             <div class="row">

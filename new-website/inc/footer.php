@@ -66,7 +66,7 @@
         <div class="container">
             <div class="row footer-bottom align-items-center">
                 <div class="col-md-7 col-sm-12">
-                    <div class="copyright">&copy; <span id="year"></span> XDC Network (Formerly XinFin). All rights reserved.</div>
+                    <div class="copyright">&copy; <span id="year"></span> XDC Network (Formerly XinFin Network). All rights reserved.</div>
                 </div>
                 <div class="col-md-5 col-sm-12">
                     <div class="copyright pull-right">
