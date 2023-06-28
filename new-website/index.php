@@ -378,7 +378,7 @@
                                     <img src="assets/images/icons/api.png" class="img-fluid iconD" />
                                     <div class="card-infoHead mt-3 mb-3">XinFin - XDC API Documentation</div>
                                     <p class="fs-6 mb-0"><!--<p class="fs-6 text-white-75">-->
-                                        Building Decentralized Applications with Ease. Access the XinFin API documentation to unleash the power of the blockchain. Deploy smart contracts, interact with the network, and build innovative dApps using our comprehensive tools and protocols.
+                                        Building Decentralized Applications with Ease. Access the XinFin - XDC API documentation to unleash the power of the blockchain. Deploy smart contracts, interact with the network, and build innovative dApps using our comprehensive tools and protocols.
                                     </p>
                                     <a class="btn socialHead-button internalLink mt-auto">
                                         Access the APIs
