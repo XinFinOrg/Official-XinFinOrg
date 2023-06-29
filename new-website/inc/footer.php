@@ -39,7 +39,7 @@
                         <div class="colHeader">Community</div>
                             <a href="#">Ecosystem Partners</a><br/>
                             <a href="#">Join Community</a><br/>
-                            <a href="#">Apply for Funding</a><br/>
+                            <a href="#">Apply for Bounty</a><br/>
                             <a href="#">Media</a>
                     </div>
                 </div>
