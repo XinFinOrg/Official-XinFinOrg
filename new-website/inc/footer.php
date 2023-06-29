@@ -46,7 +46,7 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-4 mb-md-4 mb-lg-0">
                     <div class="footer-widget">
                         <div class="colHeader">Tools</div>
-                            <a href="https://explorer.xinfin.network" target="_blank">Explorer</a><br/>
+                            <a href="https://explorer.xinfin.network" target="_blank">XDC Explorer</a><br/>
                             <a href="https://stats1.xinfin.network" target="_blank">XDC Network Status</a><br/>
                             <a href="https://faucet.apothem.network" target="_blank">XDC Faucet</a><br/>
                             <a href="https://remix.xinfin.network" target="_blank">XDC Network Remix</a><br/>
