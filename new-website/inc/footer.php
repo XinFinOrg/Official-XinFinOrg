@@ -9,8 +9,8 @@
                     <div class="footer-widget">
                         <div class="colHeader">Use XDC</div>
                             <a href="#">XDC Token</a><br/>
-                            <a href="#">XDC Utility</a><br/>
-                            <a href="#">Setup Masternode</a><br/>
+                            <a href="ecosystem-dapps">Ecosystem dApps</a><br/>
+                            <a href="setup-masternode">Setup Masternode</a><br/>
                             <a href="#">Exchanges & Wallets</a><br />
                             <a href="#">XDC Subnet</a>
                     </div>
@@ -66,7 +66,7 @@
         <div class="container">
             <div class="row footer-bottom align-items-center">
                 <div class="col-md-7 col-sm-12">
-                    <div class="copyright">&copy; <span id="year"></span> XDC Network (Formerly XinFin Network). All rights reserved.</div>
+                    <div class="copyright">&copy; <span id="year"></span> <span class="fw-600">XDC Network</span> (formerly XinFin Network).<br />Released under an open-source license. Community-driven and collectively maintained.</div>
                 </div>
                 <div class="col-md-5 col-sm-12">
                     <div class="copyright pull-right">

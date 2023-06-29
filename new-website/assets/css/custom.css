@@ -1618,6 +1618,7 @@ footer .pattern-2 {
 .footer-bottom .copyright {
     font-size: 14px;
     color: #626262;
+	line-height: 18px;
 }
 .footer-bottom .copyright.pull-right {
     text-align: right;
