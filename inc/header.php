@@ -26,6 +26,8 @@
   <link href="<?php echo base_url() ; ?>/assets/css/fontawesome-v5.9.0/all.css" rel="stylesheet">
   <link href="<?php echo base_url() ; ?>/assets/css/font-awesome.min.css" rel="stylesheet">
   
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  
   <link href="<?php echo base_url() ; ?>/assets/css/animate.css" rel="stylesheet">
 
   <style>
