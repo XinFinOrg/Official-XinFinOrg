@@ -95,7 +95,7 @@
                 <div class="col-lg-10 offset-lg-1 mb-2">
                     <h3 class="title-m text-center">Blockchain data</h3>
                     <div class="subtitle subtitle-s text-center">
-                        The XDC Network is a third-generation blockchain network with a capacity of up to 100,000 transactions per second. It offers high-throughput and low-latency transactions.
+                        The XDC Network is a third-generation blockchain network with a capacity of up to 2000 transactions per second. It offers high-throughput and low-latency transactions.
                     </div>
                     <div class="btn-block mt-4">
                         <a href="setup-masternode">
