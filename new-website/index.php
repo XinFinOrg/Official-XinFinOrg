@@ -93,7 +93,7 @@
         <div class="container p-relative">
             <div class="row">
                 <div class="col-lg-10 offset-lg-1 mb-2">
-                    <h3 class="title-m text-center">Blockchain data</h3>
+                    <h3 class="title-m text-center">Blockchain Data</h3>
                     <div class="subtitle subtitle-s text-center">
                         The XDC Network is a third-generation blockchain network with a capacity of up to 2000 transactions per second. It offers high-throughput and low-latency transactions.
                     </div>
@@ -356,7 +356,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 offset-lg-1 mb-0">
-                    <h3 class="title-m text-center">Building decentralized solutions</h3>
+                    <h3 class="title-m text-center">Building Decentralized Solutions</h3>
                     <div class="subtitle subtitle-s text-center">A blockchain network for developers to create the next generation of applications.</div>
                     <div class="btn-block mt-4">
                         <a href="https://docs.xdc.community/" target="_blank">
@@ -433,7 +433,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2 mb-0">
-                    <h3 class="title-m text-center">Collaborating for success</h3>
+                    <h3 class="title-m text-center">Collaborating for Success</h3>
                     <div class="subtitle subtitle-s text-center">Our Partnerships, Associations, and Alliances</div>
                 </div>
             </div>
@@ -638,7 +638,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2 mb-0">
-                    <h3 class="title-m text-center">XDC utility</h3>
+                    <h3 class="title-m text-center">XDC Utility</h3>
                     <div class="subtitle subtitle-s text-center">Utility tokens from the XDC Network are made to improve efficiency, security, and transparency of transactions across several industries.</div>
                     <div class="btn-block mt-4">
                         <a href="ecosystem-dapps">
@@ -708,7 +708,7 @@
         <div class="container p-relative">
             <div class="row">
                 <div class="col-lg-10 offset-lg-1 mb-5">
-                    <h3 class="title-m text-center">Network metrics</h3>
+                    <h3 class="title-m text-center">Network Metrics</h3>
                     <div class="subtitle subtitle-s text-center">
                         Mass adoption. Massive distribution.<br />
                         XDC's flexible architecture lets it grow and grow, with no loss of performance.
@@ -804,7 +804,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2 mb-5">
-                    <h3 class="title-m text-center">Join the global community</h3>
+                    <h3 class="title-m text-center">Join the Global Community</h3>
                     <div class="subtitle subtitle-s text-center">Join a fast-growing XDC Network Community and innovators, connected all over the world. The XDC Network community includes people of many different backgrounds and skill sets.</div>
                 </div>
             </div>
