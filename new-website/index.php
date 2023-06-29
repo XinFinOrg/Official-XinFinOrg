@@ -380,7 +380,7 @@
                                     <p class="fs-6 mb-0"><!--<p class="fs-6 text-white-75">-->
                                         Building Decentralized Applications with Ease. Access the XDC API documentation to unleash the power of the blockchain. Deploy smart contracts, interact with the network, and build innovative dApps using our comprehensive tools and protocols.
                                     </p>
-                                    <a class="btn socialHead-button internalLink mt-auto">
+                                    <a href="https://apidocs.xinfin.network/docs/#xinfin-apis" target="_blank" class="btn socialHead-button internalLink mt-auto">
                                         Access the APIs
                                         <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -396,7 +396,7 @@
                                     <p class="fs-6 mb-0">
                                         Seamless Wallet Connection for Secure XDC Asset Handling. Simplify and secure your wallet connections with XDC Connect. Effortlessly send transactions and handle your XDC assets with confidence.
                                     </p>
-                                    <a class="btn socialHead-button internalLink mt-auto">
+                                    <a href="https://github.com/XinFinOrg/xdc-connect" target="_blank" class="btn socialHead-button internalLink mt-auto">
                                         Connect Now
                                         <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -412,7 +412,7 @@
                                     <p class="fs-6 mb-0">
                                         Easily integrate legacy systems and blockchain platforms with XDC Network. Simplify smart contract deployment and enable interoperability across core banking systems, ERP systems, SWIFT systems, and more.
                                     </p>
-                                    <a class="btn socialHead-button internalLink mt-auto">
+                                    <a href="https://origin.xdc.org/" target="_blank" class="btn socialHead-button internalLink mt-auto">
                                         Deploy Smart Contract
                                         <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
