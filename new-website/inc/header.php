@@ -83,7 +83,7 @@
                                             <ul class="sub-menu">
                                                 <li><a href="#">Ecosystem Partners</a></li>
                                                 <li><a href="#">Join Community</a></li>
-                                                <li><a href="#">Apply for Funding</a></li>
+                                                <li><a href="#">Apply for Bounty</a></li>
                                                 <li><a href="#">Media</a></li>
                                             </ul>
                                         </li>
@@ -109,7 +109,7 @@
                                             </a>
                                         </li>
                                         
-                                        <li><a href="#" class="cta"><button class="btn-blue">#BuiltOnXDC</button></a></li>
+                                        <li><a href="#" class="cta"><button class="btn-blue">#BuildOnXDC</button></a></li>
                                     
                                     </ul>
                                 </div>
@@ -149,7 +149,7 @@
                                         <ul class="sub-menu">
                                         	<li><a href="#">Ecosystem Partners</a></li>
                                             <li><a href="#">Join Community</a></li>
-                                            <li><a href="#">Apply for Funding</a></li>
+                                            <li><a href="#">Apply for Bounty</a></li>
                                             <li><a href="#">Media</a></li>
                                     	</ul>
                                     </li>
@@ -178,7 +178,7 @@
                                             <!--themeSwitcher End-->
                                     	</a>
                                     </li>
-                                    <li><a href="#" class="cta"><button class="btn-blue">#BuiltOnXDC</button></a></li>
+                                    <li><a href="#" class="cta"><button class="btn-blue">#BuildOnXDC</button></a></li>
                                 </ul>
                             </nav>
                         </div>
