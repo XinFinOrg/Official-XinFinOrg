@@ -272,8 +272,59 @@ section {
 	background-color: rgba(242,247,251,0.04);
 }
 
-
-
+/*------------ Preloader Starts ------------*/
+.preloader-wrap {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0; 
+  bottom: 0;
+  background: #fff;
+  z-index : 9999; 
+}
+.loader, .percentage{
+  height: 5px;
+  max-width: 100%;
+  font-weight: 300;
+  position: absolute; 
+  top: 0; 
+  bottom: 0; 
+  left: 0; 
+  right: 0;
+  margin : 0 auto; 
+}
+.loader:after,
+.percentage:after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.trackbar {
+  width: 100%;
+  height: 100%;
+  color: #fff;
+  text-align: center;
+  line-height: 10px;
+  overflow: hidden;
+  position: relative;
+  opacity: 0.99;
+}
+.loadbar {
+  width: 0%;
+  height: 100%;
+  background: #42ccd5;
+  box-shadow: 0px 0px 14px 1px #0088cc; 
+  position: absolute;
+  top: 0;
+  left: 0;
+  animation: flicker 5s infinite;
+  overflow: hidden;
+}
+/*------------ Preloader Ends ------------*/
 
 .title-l {
 	font-size: 55px;

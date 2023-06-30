@@ -1,4 +1,4 @@
-// DOMContentLoaded  for scrollup down nav
+// DOMContentLoaded for scrollup down nav
 document.addEventListener("DOMContentLoaded", function(){
   el_autohide = document.querySelector('.autohide');
   
@@ -25,8 +25,7 @@ document.addEventListener("DOMContentLoaded", function(){
   // if
 
 }); 
-// DOMContentLoaded  end
-
+// DOMContentLoaded end for scrollup down nav
 
 
 
@@ -115,16 +114,13 @@ document.addEventListener("DOMContentLoaded", function(){
         });
 
         // COUNTER UP
-        $('.counter').countUp();
-		
+        $('.counter').countUp();		
 		
 		
 		// NEWS BAR
 		$('.closeNews').click(function(){
 			$('div.news-bar').slideUp();
 		});
-		
-		
 		
 		
 		// THEME SWITCHER
@@ -158,8 +154,6 @@ document.addEventListener("DOMContentLoaded", function(){
 			htmlTagMob.setAttribute('class', targetTheme)
 			localStorage.setItem('theme', targetTheme);
 		};
-		
-		
 		
         
     }); // end document ready function

@@ -13,8 +13,8 @@
                     <h1 class="title-m text-center mb-0">Unleash the Power of Digital Assets with XDC Network's Blockchain Ecosystem</h1>
                     <h2 class="subtitle subtitle-m fw-500 text-center mb-0">Experience a seamless and efficient way to manage and transact digital assets with the XDC Network's Blockchain Ecosystem. Say goodbye to traditional intermediaries and enjoy faster, secure, and cost-effective asset transfers.</h2>
                     <div class="btn-block mb-0">
-                        <a href="https://master.xinfin.network" target="_blank">
-                            <button class="btn-blue">Explore XDC</button>
+                        <a href="setup-masternode" target="_blank">
+                            <button class="btn-blue">Become Validator</button>
                         </a>
                     </div>
                 </div>

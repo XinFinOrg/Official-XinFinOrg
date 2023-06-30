@@ -35,17 +35,29 @@
         
     </head>
     <body>
+        
+  		<!--<div class="preloader-wrap">
+            <div class="loader">
+              <div class="trackbar">
+                <div class="loadbar"></div>
+              </div>
+              <div class="glow"></div>
+            </div>
+  		</div>-->
+		
+
         <!-- SCROLL TO TOP -->
         <div class="progress-wrap">
             <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
                 <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
             </svg>
         </div>
+        
         <!-- ============= HEADER ============= -->
         <header class="autohide header-wrapper sticky-header">
             
             <div class="news-bar">
-            	<p>XDC at Blockchain week 2023 Australia - 26th-30th JUNE, 2023. <a href="https://blockchainweek.com.au/event-schedule/" class="news-bar-button">JOIN US <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg></a></p>
+            	<p>XDC Network is Daimond Sponsor at ETHBarcelona - July 5-7, 2023. <a href="https://www.ethbarcelona.com/" class="news-bar-button">JOIN US <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg></a></p>
             	
 				<span class="closeNews"><i class="fas fa-close"></i></span>
             </div>
