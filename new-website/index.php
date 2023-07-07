@@ -720,7 +720,7 @@
                     <div class="card overflow-hidden pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                         <div class="card-info">
                             <p class="fw-500">Transactions</p>
-                            <div class="cardHead fw-600 lh-1"><span class="counter">422.61</span> M</div>
+                            <div class="cardHead fw-600 lh-1"><span class="counter" id="transactionCount">422.61</span></div>
                             <div class="statsIcon">
                                 <img src="assets/images/icons/transactions.png" class="img-fluid" />
                             </div>
@@ -731,7 +731,7 @@
                     <div class="card overflow-hidden pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                         <div class="card-info">
                             <p class="fw-500">Contracts</p>
-                            <div class="cardHead fw-600 lh-1 counter">13,235</div>
+                            <div class="cardHead fw-600 lh-1"><span class="counter" id="contractNumber">13,235</span></div>
                             <div class="statsIcon">
                                 <img src="assets/images/icons/contracts.png" class="img-fluid" />
                             </div>
@@ -742,7 +742,7 @@
                     <div class="card overflow-hidden pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                         <div class="card-info">
                             <p class="fw-500">Validators/Total Nodes</p>
-                            <div class="cardHead fw-600 lh-1"><span class="counter">108</span>/<span class="counter">275</span></div>
+                            <div class="cardHead fw-600 lh-1"><span class="counter" id="masternodes">108</span>/<span class="counter" id="totalnodes">275</span></div>
                             <div class="statsIcon">
                                 <img src="assets/images/icons/validators-nodes.png" class="img-fluid" />
                             </div>
