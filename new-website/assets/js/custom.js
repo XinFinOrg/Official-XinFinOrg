@@ -30,7 +30,44 @@ document.addEventListener("DOMContentLoaded", function () {
   $(document).on("ready", async function () {
     
 	
-	
+	//fetch data via API
+    const numberToReadable = (labelValue) => {
+      return Math.abs(Number(labelValue)) >= 1.0e9
+        ? parseFloat(Math.abs(labelValue) / 1.0e9, 2).toFixed(2) + "B"
+        : // Six Zeroes for Millions
+        Math.abs(Number(labelValue)) >= 1.0e6
+        ? parseFloat(Math.abs(labelValue) / 1.0e6, 2).toFixed(2) + "M"
+        : // Three Zeroes for Thousands
+          Math.abs(Number(labelValue)).toLocaleString("en-US");
+    };
+
+    const data = await fetch(
+      "https://observer-transactions.xdc.org/getTotalTransactions"
+    );
+    const jsonData = await data.json();
+    const readableNumber = numberToReadable(jsonData.responseData);
+	console.log(readableNumber)
+    $("#transactionCount").text(readableNumber);
+
+    const nodeData = await fetch(
+      "https://master.xinfin.network/api/candidates/masternodes"
+    );
+    const nodeDataJson = await nodeData.json();
+    const masternodes = nodeDataJson.activeCandidates;
+    const totalnodes =
+      nodeDataJson.totalResigned + nodeDataJson.totalProposed + masternodes;
+    $("#masternodes").text(masternodes);
+    $("#totalnodes").text(totalnodes);
+
+    const contractData = await fetch(
+      "https://explorer.xinfin.network/api/setting"
+    );
+    const contractDataJson = await contractData.json();
+    const readableContract = numberToReadable(
+      contractDataJson.stats.totalToken
+    );
+    $("#contractNumber").text(readableContract);
+    //end fetch data via API
 	
 	
 	// SCROLL TO TOP
@@ -158,44 +195,7 @@ document.addEventListener("DOMContentLoaded", function () {
     };
 	
 	
-	//fetch data via API
-    const numberToReadable = (labelValue) => {
-      return Math.abs(Number(labelValue)) >= 1.0e9
-        ? parseFloat(Math.abs(labelValue) / 1.0e9, 2).toFixed(2) + "B"
-        : // Six Zeroes for Millions
-        Math.abs(Number(labelValue)) >= 1.0e6
-        ? parseFloat(Math.abs(labelValue) / 1.0e6, 2).toFixed(2) + "M"
-        : // Three Zeroes for Thousands
-          Math.abs(Number(labelValue)).toLocaleString("en-US");
-    };
-
-    const data = await fetch(
-      "https://observer-transactions.xdc.org/getTotalTransactions"
-    );
-    const jsonData = await data.json();
-    const readableNumber = numberToReadable(jsonData.responseData);
-	console.log(readableNumber)
-    $("#transactionCount").text(readableNumber);
-
-    const nodeData = await fetch(
-      "https://master.xinfin.network/api/candidates/masternodes"
-    );
-    const nodeDataJson = await nodeData.json();
-    const masternodes = nodeDataJson.activeCandidates;
-    const totalnodes =
-      nodeDataJson.totalResigned + nodeDataJson.totalProposed + masternodes;
-    $("#masternodes").text(masternodes);
-    $("#totalnodes").text(totalnodes);
-
-    const contractData = await fetch(
-      "https://explorer.xinfin.network/api/setting"
-    );
-    const contractDataJson = await contractData.json();
-    const readableContract = numberToReadable(
-      contractDataJson.stats.totalToken
-    );
-    $("#contractNumber").text(readableContract);
-    //end fetch data via API
+	
 	
 	
   }); // end document ready function
