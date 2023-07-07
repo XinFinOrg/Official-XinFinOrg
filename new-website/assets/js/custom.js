@@ -28,9 +28,7 @@ document.addEventListener("DOMContentLoaded", function () {
 (function ($) {
   "use strict";
   $(document).on("ready", async function () {
-    
-	
-	//fetch data via API
+    //fetch data via API
     const numberToReadable = (labelValue) => {
       return Math.abs(Number(labelValue)) >= 1.0e9
         ? parseFloat(Math.abs(labelValue) / 1.0e9, 2).toFixed(2) + "B"
@@ -46,7 +44,6 @@ document.addEventListener("DOMContentLoaded", function () {
     );
     const jsonData = await data.json();
     const readableNumber = numberToReadable(jsonData.responseData);
-	console.log(readableNumber)
     $("#transactionCount").text(readableNumber);
 
     const nodeData = await fetch(
@@ -70,7 +67,9 @@ document.addEventListener("DOMContentLoaded", function () {
     //end fetch data via API
 	
 	
-	// SCROLL TO TOP
+	
+
+    // SCROLL TO TOP
     var progressPath = document.querySelector(".progress-wrap path");
     var pathLength = progressPath.getTotalLength();
 
@@ -193,11 +192,6 @@ document.addEventListener("DOMContentLoaded", function () {
       htmlTagMob.setAttribute("class", targetTheme);
       localStorage.setItem("theme", targetTheme);
     };
-	
-	
-	
-	
-	
   }); // end document ready function
 })(jQuery); // End jQuery
 
