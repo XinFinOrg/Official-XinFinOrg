@@ -28,15 +28,26 @@ document.addEventListener("DOMContentLoaded", function () {
 (function ($) {
   "use strict";
   $(document).on("ready", async function () {
-    //fetch data via API
+   
+   //fetch data via API
     const numberToReadable = (labelValue) => {
-      return Math.abs(Number(labelValue)) >= 1.0e9
-        ? parseFloat(Math.abs(labelValue) / 1.0e9, 2).toFixed(2) + "B"
-        : // Six Zeroes for Millions
-        Math.abs(Number(labelValue)) >= 1.0e6
-        ? parseFloat(Math.abs(labelValue) / 1.0e6, 2).toFixed(2) + "M"
-        : // Three Zeroes for Thousands
-          Math.abs(Number(labelValue)).toLocaleString("en-US");
+      const num =
+        Math.abs(Number(labelValue)) >= 1.0e9
+          ? parseFloat(Math.abs(labelValue) / 1.0e9, 2).toFixed(2)
+          : // Six Zeroes for Millions
+          Math.abs(Number(labelValue)) >= 1.0e6
+          ? parseFloat(Math.abs(labelValue) / 1.0e6, 2).toFixed(2)
+          : // Three Zeroes for Thousands
+            Math.abs(Number(labelValue)).toLocaleString("en-US");
+      const text =
+        Math.abs(Number(labelValue)) >= 1.0e9
+          ? "B"
+          : // Six Zeroes for Millions
+          Math.abs(Number(labelValue)) >= 1.0e6
+          ? "M"
+          : // Three Zeroes for Thousands
+            "";
+      return { num, text };
     };
 
     const data = await fetch(
@@ -44,7 +55,8 @@ document.addEventListener("DOMContentLoaded", function () {
     );
     const jsonData = await data.json();
     const readableNumber = numberToReadable(jsonData.responseData);
-    $("#transactionCount").text(readableNumber);
+    $("#transactionCount").text(readableNumber.num);
+    $("#transactionText").text(readableNumber.text);
 
     const nodeData = await fetch(
       "https://master.xinfin.network/api/candidates/masternodes"
@@ -63,12 +75,11 @@ document.addEventListener("DOMContentLoaded", function () {
     const readableContract = numberToReadable(
       contractDataJson.stats.totalToken
     );
-    $("#contractNumber").text(readableContract);
+    $("#contractNumber").text(readableContract.num);
+    $("#contractNumberText").text(readableContract.text);
     //end fetch data via API
-	
-	
-	
-
+   
+   
     // SCROLL TO TOP
     var progressPath = document.querySelector(".progress-wrap path");
     var pathLength = progressPath.getTotalLength();

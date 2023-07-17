@@ -720,7 +720,9 @@
                     <div class="card overflow-hidden pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                         <div class="card-info">
                             <p class="fw-500">Transactions</p>
-                            <div class="cardHead fw-600 lh-1"><span class="counter" id="transactionCount">432.24</span></div>
+                            <div class="cardHead fw-600 lh-1">
+                                <span class="counter" id="transactionCount">422.61 </span>
+                                <span id="transactionText"></span></div>
                             <div class="statsIcon">
                                 <img src="assets/images/icons/transactions.png" class="img-fluid" />
                             </div>
@@ -731,7 +733,9 @@
                     <div class="card overflow-hidden pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                         <div class="card-info">
                             <p class="fw-500">Contracts</p>
-                            <div class="cardHead fw-600 lh-1"><span class="counter" id="contractNumber">13,307</span></div>
+                            <div class="cardHead fw-600 lh-1 counter">
+                                <span id="contractNumber">13,235</span>
+                                <span id="contractNumberText"></span></div>
                             <div class="statsIcon">
                                 <img src="assets/images/icons/contracts.png" class="img-fluid" />
                             </div>
