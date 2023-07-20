@@ -62,7 +62,7 @@ include('inc/header.php') ?>
                 </div>
             </div>
             
-            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
+            <!--<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
                 <div class="bounty-box">
                     <div class="image-container">
                         <img class="img-responsive" src="assets/images/bounty/foundation-bounty.jpg" alt="XDC Foundation Bounties" />
@@ -83,7 +83,7 @@ include('inc/header.php') ?>
                         <button class="btn-hover color-3 disabled">Detailed Rules</button>
                     </div>
                 </div>
-            </div>
+            </div>-->
             
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb-3">
                 <div class="bounty-box">
