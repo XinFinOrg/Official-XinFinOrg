@@ -52,7 +52,7 @@
                 <div class="tab-pane fade active show" id="nav-exchanges" role="tabpanel" aria-labelledby="nav-exchanges-tab">
                     <div class="col-lg-12">
                         <div class="row justify-content-center">
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -64,14 +64,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://www.bitrue.com/trade/xdc_eth" target="_blank">ETH</a>, <a href="https://www.bitrue.com/trade/xdc_xrp" target="_blank">XRP</a>, <a href="https://www.bitrue.com/trade/xdc_usdc" target="_blank">USDC</a>, <a href="https://www.bitrue.com/trade/xdc_usdt" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -83,14 +83,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://www.kucoin.com/trade/XDC-ETH" target="_blank">ETH</a>, <a href="https://www.kucoin.com/trade/XDC-USDT" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -102,14 +102,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://www.gate.io/trade/XDC_USDT" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -121,14 +121,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://www.bitfinex.com/t/XDC:USD" target="_blank">USD</a>, <a href="https://www.bitfinex.com/t/XDC:USDT" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -140,14 +140,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://mercatox.com/exchange/XDC/BTC" target="_blank">BTC</a>, <a href="https://mercatox.com/exchange/XDC/ETH" target="_blank">ETH</a>, <a href="https://mercatox.com/exchange/XDC/USDC" target="_blank">USDC</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -159,14 +159,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://cex.io/xdc-eur" target="_blank">EUR</a>, <a href="https://cex.io/xdc-usd" target="_blank">USD</a>, <a href="https://cex.io/xdc-usdt" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -178,14 +178,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://www.huobi.com/en-us/exchange/xdc_usdt" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -197,14 +197,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://www.coinex.com/exchange/xdc-btc" target="_blank">BTC</a>, <a href="https://www.coinex.com/exchange/xdc-usdt" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -216,14 +216,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://whitebit.com/trade/XDC-ETH" target="_blank">ETH</a>, <a href="https://whitebit.com/trade/XDC-USDT" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -235,14 +235,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://kriptomat.io/cryptocurrency-prices/xdc-network-xdc-price/" target="_blank">INR</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -254,14 +254,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://www.bybit.com/en-US/trade/spot/XDC/USDT" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -273,14 +273,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://www.bkex.com/trade/XDC_USDT" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -292,14 +292,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://global.bittrex.com/trade/xdc-btc" target="_blank">BTC</a>, <a href="https://global.bittrex.com/trade/xdc-eur" target="_blank">EUR</a>, <a href="https://global.bittrex.com/trade/xdc-usdt" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -311,14 +311,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://www.bitmart.com/trade/en-US?symbol=XDC_USDT&layout=basic" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -330,14 +330,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://www.coinw.com/frontSpot/spottrade?symbol=734" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -349,14 +349,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://www.digifinex.com/en-ww/trade/BTC/XDC" target="_blank">BTC</a>, <a href="https://www.digifinex.com/en-ww/trade/ETH/XDC" target="_blank">ETH</a>, <a href="https://www.digifinex.com/en-ww/trade/USDT/XDC" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -368,14 +368,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://fmfw.io/xdc-to-btc" target="_blank">BTC</a>, <a href="https://fmfw.io/xdc-to-eth" target="_blank">ETH</a>, <a href="https://fmfw.io/xdc-to-usdt" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -387,14 +387,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://hitbtc.com/xdc-to-btc" target="_blank">BTC</a>, <a href="https://hitbtc.com/xdc-to-usdt" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -406,14 +406,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://indodax.com/market/XDCIDR" target="_blank">IDR</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -425,14 +425,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://trade.buyucoin.com/trade/XDC-INR" target="_blank">INR</a>, <a href="https://trade.buyucoin.com/trade/XDC-USDT" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -444,14 +444,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://wallet.uphold.com/marketDetails?currency=XDC" target="_blank">USD</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -463,14 +463,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://app.liquid.com/exchange/XDCBTC" target="_blank">BTC</a>, <a href="https://app.liquid.com/exchange/XDCSGD" target="_blank">SGD</a>, <a href="https://app.liquid.com/exchange/XDCUSDT" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -482,14 +482,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://bequant.io/xdc-to-btc" target="_blank">BTC</a>, <a href="https://bequant.io/xdc-to-usdt" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -501,14 +501,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://www.probit.com/app/exchange/XDC-ETH" target="_blank">ETH</a>, <a href="https://www.probit.kr/app/exchange/XDC-KRW" target="_blank">KRW</a>, <a href="https://www.probit.com/app/exchange/XDC-USDT" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -520,14 +520,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://www.lbank.info/exchange/xdc/usdt" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -539,14 +539,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://pro.changelly.com/xdc-to-btc" target="_blank">BTC</a>, <a href="https://pro.changelly.com/xdc-to-usdt" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -558,14 +558,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://protondex.com/dex/XDC_XMD" target="_blank">XMD</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -577,14 +577,14 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://exchange.globiance.com/trade/XDC-BTC" target="_blank">BTC</a>, <a href="https://exchange.globiance.com/trade/XDC-ETH" target="_blank">ETH</a>, <a href="https://exchange.globiance.com/trade/GBEX-XDC" target="_blank">GBEX</a>, <a href="https://exchange.globiance.com/trade/XDC-USDG" target="_blank">USDG</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -596,8 +596,8 @@
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class=""><p class="exchangeCard-type text-muted mb-0">Pairs</p></div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://kms.kinesis.money/guest-exchange/XDC/USD" target="_blank">USD</a></div>
                                         </div>
                                     </div>
@@ -609,7 +609,7 @@
                 <div class="tab-pane fade" id="nav-wallets" role="tabpanel" aria-labelledby="nav-wallets-tab">
                     <div class="col-lg-12">
                         <div class="row justify-content-center">
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -627,7 +627,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -645,7 +645,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -663,7 +663,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -681,7 +681,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -699,7 +699,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -717,7 +717,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -735,7 +735,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -753,7 +753,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -771,7 +771,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -789,7 +789,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">

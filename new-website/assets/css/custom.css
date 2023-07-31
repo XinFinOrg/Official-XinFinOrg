@@ -1226,8 +1226,12 @@ a .card-infoHead {
 .darkTheme .card-info p {
 	color: var(--dt-subText-color);
 }
-
-
+@media only screen and (min-width: 767px) and (max-width: 991px)  {
+	.card-infoHead {
+    	font-size: 18px;
+    	line-height: 24px;
+	}
+}
 /*---------------------------------------------------------
 	PARTNERSHIPS STYLE
 ---------------------------------------------------------*/
@@ -1967,6 +1971,13 @@ body.darkTheme {
 }
 .exchangeCard-block .pairs, .exchangeCard-block .pairs a {
     color: #696969!important;
+	font-size: 13px;
+}
+.exchangeCard-block .pairs a:hover {
+	color: #0089cf!important;
+}
+.exchangeCard-block .pairs-tag {
+    width: 55px;
 }
 .exchangeCard-block .pairs a:not(:first-child) {
     padding-left: 2px;
@@ -2050,4 +2061,3 @@ body.darkTheme {
 .pairs .WalletPlatform__link:active, .pairs .WalletPlatform__link:hover {
     filter: invert(34%) sepia(83%) saturate(1078%) hue-rotate(170deg) brightness(101%) contrast(104%);
 }
-.card:hover{box-shadow: 0 1px 8px rgb(0 0 0 / 30%);transition: all .2s ease-in-out,background-color .2s ease-in-out,opacity .2s ease-in-out;}
