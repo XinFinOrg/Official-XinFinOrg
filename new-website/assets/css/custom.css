@@ -108,6 +108,7 @@ body {
     padding: 0;
     overflow-x: hidden;
 }
+
 h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
     margin-top: 0;
     margin-bottom: 0.5rem;
@@ -439,6 +440,18 @@ section {
     grid-gap: 8px;
     gap: 8px;
 }
+
+@media (max-width: 767px) {
+	.btn-block.multi {
+    	display: inline-block;
+	}
+	.btn-block.multi a {
+		display: grid;
+		margin: 15px 0px;
+		justify-items: center;
+	}
+}
+
 *:focus {
     outline: none !important;
     box-shadow: none !important;
@@ -448,7 +461,7 @@ section {
 	line-height: 24px;
 	font-weight: 600;
 	color: #FFFFFF;
-    padding: 10px 24px;
+    padding: 10px 20px;
     border-radius: 40px;
     background: #0088cc;
 	border: 2px solid #0088cc;
@@ -460,7 +473,7 @@ section {
 	line-height: 24px;
 	font-weight: 600;
 	color: #FFFFFF;
-    padding: 10px 24px;
+    padding: 10px 20px;
     border-radius: 40px;
     background: #0088cc;
 	border: 2px solid #0088cc;
@@ -478,7 +491,7 @@ section {
 	line-height: 24px;
 	font-weight: 600;
 	color: #626262;
-    padding: 10px 24px;
+    padding: 10px 20px;
     border-radius: 40px;
     background: transparent;
 	border: 2px solid #cfd8dd;
@@ -490,7 +503,7 @@ section {
 	line-height: 24px;
 	font-weight: 600;
 	color: #626262;
-    padding: 10px 24px;
+    padding: 10px 20px;
     border-radius: 40px;
     background: #FFFFFF;
 	border: 2px solid #cfd8dd;
@@ -758,9 +771,6 @@ canvas {
 	left: 0px;
 	transition-duration: 0.2s;
     color: #06D6A0 !important;
-}
-.hero-ftr-card .card-infoHead {
-	font-weight: 600;
 }
 a .card-infoHead {
 	color: #2c2c2c;
@@ -1178,9 +1188,15 @@ a .card-infoHead {
     background: url(../images/bg-curved-dark.png) no-repeat bottom;
 }
 .card-info {} 
+.card-info p.text-muted {
+    color: #a8a8a8!important;
+}
+.darkTheme .card-info p.text-muted {
+    color: #5b6878!important;
+}
 .card-infoHead {
     font-weight: 500;
-    font-size: 20px;
+    font-size: 22px;
     line-height: 26px;
 }
 .card-info p {
@@ -1188,6 +1204,12 @@ a .card-infoHead {
 }
 .card-info img {
     width: 60px;
+}
+.card-info img.logoHp {
+    width: 75%;
+}
+.card-info img.center {
+    margin: 0px auto;
 }
 .card-info .iconD {
 	display: none;
@@ -1708,6 +1730,7 @@ footer .pattern-2 {
 
 body.darkTheme {
 	background-color: #141c29;
+	color: #FFFFFF;
 }
 .darkTheme h1, .darkTheme h2, .darkTheme h3  {
     color: var(--dt-heading-color);
@@ -1828,3 +1851,202 @@ body.darkTheme {
 /*--------------------------
     Theme Switcher Styles  
 ---------------------------*/
+
+
+
+
+
+
+
+
+
+
+/*---------------------------------------------------------
+	Hero Inside STYLE
+---------------------------------------------------------*/
+.hero-inside {
+    position: relative;
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.hero-inside .hero-content {
+    z-index: 1;
+    display: flex;
+    gap: 32px;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-flow: column nowrap;
+}
+
+.hero-ftr-inside .card {
+	flex-direction: column;
+}
+.coinmarketcap-currency-widget.wbox {
+    color: #626262;
+}
+.darkTheme .coinmarketcap-currency-widget.wbox {
+    color: var(--dt-subText-color);
+}
+.coinmarketcap-currency-widget.wbox a {
+    color: #2C2C2C!important;
+}
+.darkTheme .coinmarketcap-currency-widget.wbox a {
+    color: var(--dt-heading-color)!important;
+}
+.coinmarketcap-currency-widget.wbox div {
+	border: none!important;
+	/*border-color: #141c29!important;*/
+}
+.darkTheme .coinmarketcap-currency-widget.wbox div div {
+	border: inherit!important;
+}
+
+
+.nav-pills .nav-link {
+    font-weight: 600;
+	color: #626262;
+    padding: 6px 24px;
+    border-radius: 40px;
+    background: transparent;
+    border: 2px solid #cfd8dd;
+    transition: all .2s ease-in-out,background-color .2s ease-in-out,opacity .2s ease-in-out;
+    cursor: pointer;
+}
+.nav-pills .nav-link.active {
+    color: #FFFFFF;
+    background: #0088cc;
+    border-color: #0088cc;
+    transition: all .2s ease-in-out,background-color .2s ease-in-out,opacity .2s ease-in-out;
+}
+.nav-pills .nav-link:not(:last-child) {
+    margin-right: 0.625rem;
+}
+.darkTheme .nav-pills .nav-link {
+    color: #cfd8dd;
+}
+
+
+
+
+
+.exchangeCard-header {
+    display: flex;
+    align-items: top;
+    flex-direction: row;
+    grid-gap: 16px;
+    gap: 16px;
+}
+.exchangeCard-header img {
+    height: 55px;
+    width: 55px;
+    min-width: 55px;
+}
+.exchangeCard-type {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    grid-gap: 4px;
+    gap: 4px;
+	line-height: 18px;
+	margin-top: 6px
+}
+.exchangeCard-info, .exchangeCard-info-item {
+    display: flex;
+    align-items: flex-start;
+    grid-gap: 8px;
+    gap: 8px;
+}
+
+
+
+
+
+.exchangeCard-block .ml-6 {
+	margin-left: 4.5rem;
+}
+.exchangeCard-block .pairs, .exchangeCard-block .pairs a {
+    color: #696969!important;
+}
+.exchangeCard-block .pairs a:not(:first-child) {
+    padding-left: 2px;
+}
+.darkTheme .exchangeCard-block .pairs, .darkTheme .exchangeCard-block .pairs a {
+	color: var(--dt-subText-color)!important;
+}
+
+
+
+
+
+
+.accordion .accordion-item:first-child .accordion-button {
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+}
+.accordion .accordion-item:last-child .accordion-button, .accordion .accordion-item:last-child .accordion-body {
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+.accordion .accordion-item:last-child .accordion-button:not(.collapsed) {
+    border-bottom-left-radius: 0px;
+	border-bottom-right-radius: 0px;
+}
+.accordion-item {
+    background-color: transparent;
+    border: 1px solid rgba(0, 0, 0, 0.125)
+}
+.accordion-button {
+	background-color: rgba(243,245,246, 1);
+	padding-left: 0px;
+}
+.accordion-button:not(.collapsed) {
+    color: #2c2c2c;
+    box-shadow: none;
+	background-color: transparent;
+}
+.accordion-body {
+    color: #626262;
+	padding-top: 0.25rem;
+	padding-left: 2.1rem;
+}
+.collapsing {
+	transition-property: height, visibility;
+	transition-duration: 0.35s;
+}
+
+
+
+.darkTheme .accordion-item {
+    border-color: rgba(242,247,251,0.1);
+}
+.darkTheme .accordion-button {
+    color: var(--dt-subText-color);
+	background-color: rgba(28, 37, 49, 1);
+}
+.darkTheme .accordion-button:not(.collapsed) {
+    color: var(--dt-heading-color);
+    background-color: rgba(28, 37, 49, 1);
+}
+.darkTheme .accordion-body {
+    color: var(--dt-subText-color);
+    background-color: rgba(28, 37, 49, 1);
+}
+  
+  
+  
+  
+.pairs .WalletPlatform__link {
+    filter: invert(71%) sepia(20%) saturate(288%) hue-rotate(155deg) brightness(94%) contrast(90%);
+    transition: filter .3s;
+    cursor: pointer;
+}
+.pairs .WalletPlatform__link img {
+	height: 20px;
+}
+.card-info .pairs .WalletPlatform__link img {
+    width: 20px;
+}
+.pairs .WalletPlatform__link:active, .pairs .WalletPlatform__link:hover {
+    filter: invert(34%) sepia(83%) saturate(1078%) hue-rotate(170deg) brightness(101%) contrast(104%);
+}

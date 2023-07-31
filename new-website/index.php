@@ -1,6 +1,6 @@
 <?php 
-    $title = "Unleash the Power of Digital Assets with XDC Network's Blockchain Ecosystem";
-    $desc = "Experience a seamless and efficient way to manage and transact digital assets with the XDC Network's Blockchain Ecosystem. Say goodbye to traditional intermediaries and enjoy faster, secure, and cost-effective asset transfers.";
+    $title = "Decentralized Smart Contracts Platform";
+    $desc = "The Decentralized and Open Source Smart Contract Platform, Driven by Community for Seamless Execution of Enterprise-Friendly Use Cases such as Trade Finance and Payment.";
     
     include('inc/header.php') ?>
     
@@ -10,10 +10,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 offset-lg-1 hero-content">
-                    <h1 class="title-m text-center mb-0">Unleash the Power of Digital Assets with XDC Network's Blockchain Ecosystem</h1>
-                    <h2 class="subtitle subtitle-m fw-500 text-center mb-0">Experience a seamless and efficient way to manage and transact digital assets with the XDC Network's Blockchain Ecosystem. Say goodbye to traditional intermediaries and enjoy faster, secure, and cost-effective asset transfers.</h2>
+                    <!--<h1 class="title-m text-center mb-0">Unleash the Power of Digital Assets with XDC Network's Blockchain Ecosystem</h1>
+                    <h2 class="subtitle subtitle-m fw-500 text-center mb-0">Experience a seamless and efficient way to manage and transact digital assets with the XDC Network's Blockchain Ecosystem. Say goodbye to traditional intermediaries and enjoy faster, secure, and cost-effective asset transfers.</h2>-->
+                    <h1 class="title-m text-center mb-0">Decentralized Smart Contracts Platform</h1>
+                    <h2 class="subtitle subtitle-m fw-500 text-center mb-0">The Decentralized and Open Source Smart Contract Platform, Driven by Community for Seamless Execution of Enterprise-Friendly Use Cases such as Trade Finance and Payment.</h2>
                     <div class="btn-block mb-0">
-                        <a href="setup-masternode" target="_blank">
+                        <a href="setup-masternode">
                             <button class="btn-blue">Become Validator</button>
                         </a>
                     </div>

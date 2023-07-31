@@ -1,3 +1,4 @@
+
 // DOMContentLoaded for scrollup down nav
 document.addEventListener("DOMContentLoaded", function () {
   el_autohide = document.querySelector(".autohide");
@@ -523,3 +524,12 @@ function canvasApp(canvas) {
     }
   }
 }
+
+
+
+
+
+
+
+
+
