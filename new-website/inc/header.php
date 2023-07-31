@@ -177,7 +177,8 @@
                                         
                                 </ul>
                             </nav>
-                            <nav class="sidebar-nav mt-auto">
+                            <!--<nav class="sidebar-nav mt-auto">-->
+                            <nav class="sidebar-nav">
                                 <ul class="metismenu" id="mobile-menu">
                                     <li>
                                     	<a class="cta themeSwitcher ps-0"><!--themeSwitcher Start-->
