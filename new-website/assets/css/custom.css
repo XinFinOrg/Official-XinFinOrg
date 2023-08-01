@@ -1925,11 +1925,20 @@ body.darkTheme {
     transition: all .2s ease-in-out,background-color .2s ease-in-out,opacity .2s ease-in-out;
 }
 .nav-pills .nav-link:not(:last-child) {
-    margin-right: 0.625rem;
+    margin-right: 0.5rem;
 }
 .darkTheme .nav-pills .nav-link {
     color: #cfd8dd;
 }
+@media screen and (max-width: 479px) {
+	.nav-pills .nav-link {
+		padding: 6px 14px;
+	}
+	.nav-pills .nav-link:not(:last-child) {
+		margin-right: 0.4rem;
+	}
+}
+
 /*---------------- Exchanges ----------------*/
 .exchangeCard-header {
     display: flex;

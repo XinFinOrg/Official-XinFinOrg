@@ -26,6 +26,8 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 // DOMContentLoaded end for scrollup down nav
 
+
+
 (function ($) {
   "use strict";
   $(document).on("ready", async function () {
@@ -206,6 +208,11 @@ document.addEventListener("DOMContentLoaded", function () {
     };
   }); // end document ready function
 })(jQuery); // End jQuery
+
+
+
+
+
 
 // Particle Background
 window.addEventListener("load", windowLoadHandler, false);
@@ -524,9 +531,6 @@ function canvasApp(canvas) {
     }
   }
 }
-
-
-
 
 
 
