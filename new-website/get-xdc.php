@@ -39,13 +39,14 @@
 </section>
 <!-- Hero Cards Ends -->
 
-<section class="px-80 pt-0 pb-0 dark-curved">
+<section class="px-80 pt-0 pb-2 dark-curved">
     <div class="container p-relative">
         <div class="row">
             <nav>
                 <div class="nav nav-pills justify-content-center mb-3" id="nav-pills" role="tablist">
                     <button class="nav-link active" id="nav-exchanges-tab" data-bs-toggle="tab" data-bs-target="#nav-exchanges" type="button" role="tab" aria-controls="nav-exchanges" aria-selected="true">Exchanges</button>
-                    <button class="nav-link" id="nav-wallets-tab" data-bs-toggle="tab" data-bs-target="#nav-wallets" type="button" role="tab" aria-controls="nav-wallets" aria-selected="false">DEX</button>
+                    <button class="nav-link" id="nav-swap-tab" data-bs-toggle="tab" data-bs-target="#nav-swap" type="button" role="tab" aria-controls="nav-swap" aria-selected="false">Crosschain Swap</button>
+                    <button class="nav-link" id="nav-dex-tab" data-bs-toggle="tab" data-bs-target="#nav-dex" type="button" role="tab" aria-controls="nav-dex" aria-selected="false">DEX</button>
                 </div>
             </nav>
             <div class="tab-content" id="nav-tabContent">
@@ -606,9 +607,177 @@
                         </div>
                     </div>
                 </div>
-                <div class="tab-pane fade" id="nav-wallets" role="tabpanel" aria-labelledby="nav-wallets-tab">
+                <div class="tab-pane fade" id="nav-swap" role="tabpanel" aria-labelledby="nav-swap-tab">
                     <div class="col-lg-12">
                         <div class="row justify-content-center">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/simpleswap.svg" alt="SimpleSwap" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">SimpleSwap</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Crosschain Swap</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex justify-content-between">
+                                            <div class="pairs fw-500 ml-6"><a href="https://simpleswap.io/coins?tickers=xdc" target="_blank">Swap Now</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/rocketx.svg" alt="RocketX" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">RocketX</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Crosschain Swap</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex justify-content-between">
+                                            <div class="pairs fw-500 ml-6"><a href="https://app.rocketx.exchange/swap/" target="_blank">Swap Now</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/coinspot.svg" alt="CoinSpot" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">CoinSpot</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Crosschain Swap</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex justify-content-between">
+                                            <div class="pairs fw-500 ml-6"><a href="https://www.coinspot.com.au/swap/xdc" target="_blank">Swap Now</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/changelly.svg" alt="Changelly" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">Changelly</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Crosschain Swap</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex justify-content-between">
+                                            <div class="pairs fw-500 ml-6"><a href="https://changelly.com/" target="_blank">Swap Now</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/changenow.svg" alt="ChangeNOW" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">ChangeNOW</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Crosschain Swap</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex justify-content-between">
+                                            <div class="pairs fw-500 ml-6"><a href="https://changenow.io/?from=usdt&to=xdc" target="_blank">Swap Now</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/swapzone.svg" alt="Swapzone" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">Swapzone</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Crosschain Swap</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex justify-content-between">
+                                            <div class="pairs fw-500 ml-6"><a href="https://swapzone.io/" target="_blank">Swap Now</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/swapika.svg" alt="Swapika" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">Swapika</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Crosschain Swap</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex justify-content-between">
+                                            <div class="pairs fw-500 ml-6"><a href="https://swapika.com/" target="_blank">Swap Now</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/atomx.svg" alt="AtomX" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">AtomX</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Crosschain Swap</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex justify-content-between">
+                                            <div class="pairs fw-500 ml-6"><a href="https://atomx.online/" target="_blank">Swap Now</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                		</div>
+                    </div>
+                </div>
+                <div class="tab-pane fade" id="nav-dex" role="tabpanel" aria-labelledby="nav-dex-tab">
+                    <div class="col-lg-12">
+                        <div class="row justify-content-center">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/fathom.svg" alt="Fathom" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">Fathom</div>
+                                                <p class="exchangeCard-type text-muted mb-0">DEX</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex justify-content-between">
+                                            <div class="pairs fw-500 ml-6"><a href="https://swap.fathom.fi/#/swap" target="_blank">Swap Now</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -622,25 +791,7 @@
                                             </div>
                                         </div>
                                         <div class="d-flex justify-content-between">
-                                            <div class="pairs fw-500 ml-6"><a href="https://icecreamswap.com/?chainId=1116" target="_blank">Swap</a></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
-                                        <div class="exchangeCard-header">
-                                            <div class="icon">
-                                                <div class=""><img src="assets/images/exchanges/simpleswap.svg" alt="SimpleSwap" /></div>
-                                            </div>
-                                            <div class="desc">
-                                                <div class="card-infoHead">SimpleSwap</div>
-                                                <p class="exchangeCard-type text-muted mb-0">DEX</p>
-                                            </div>
-                                        </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class="pairs fw-500 ml-6"><a href="https://simpleswap.io/coins?tickers=xdc" target="_blank">Swap</a></div>
+                                            <div class="pairs fw-500 ml-6"><a href="https://icecreamswap.com/?chainId=1116" target="_blank">Swap Now</a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -658,61 +809,7 @@
                                             </div>
                                         </div>
                                         <div class="d-flex justify-content-between">
-                                            <div class="pairs fw-500 ml-6"><a href="https://app.xspswap.finance/swap" target="_blank">Swap</a></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
-                                        <div class="exchangeCard-header">
-                                            <div class="icon">
-                                                <div class=""><img src="assets/images/exchanges/rocketx.svg" alt="RocketX" /></div>
-                                            </div>
-                                            <div class="desc">
-                                                <div class="card-infoHead">RocketX</div>
-                                                <p class="exchangeCard-type text-muted mb-0">DEX</p>
-                                            </div>
-                                        </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class="pairs fw-500 ml-6"><a href="https://app.rocketx.exchange/swap/" target="_blank">Swap</a></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
-                                        <div class="exchangeCard-header">
-                                            <div class="icon">
-                                                <div class=""><img src="assets/images/exchanges/coinspot.svg" alt="CoinSpot" /></div>
-                                            </div>
-                                            <div class="desc">
-                                                <div class="card-infoHead">CoinSpot</div>
-                                                <p class="exchangeCard-type text-muted mb-0">DEX</p>
-                                            </div>
-                                        </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class="pairs fw-500 ml-6"><a href="https://www.coinspot.com.au/swap/xdc" target="_blank">Swap</a></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
-                                        <div class="exchangeCard-header">
-                                            <div class="icon">
-                                                <div class=""><img src="assets/images/exchanges/changelly.svg" alt="Changelly" /></div>
-                                            </div>
-                                            <div class="desc">
-                                                <div class="card-infoHead">Changelly</div>
-                                                <p class="exchangeCard-type text-muted mb-0">DEX</p>
-                                            </div>
-                                        </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class="pairs fw-500 ml-6"><a href="https://changelly.com/" target="_blank">Swap</a></div>
+                                            <div class="pairs fw-500 ml-6"><a href="https://app.xspswap.finance/swap" target="_blank">Swap Now</a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -730,85 +827,24 @@
                                             </div>
                                         </div>
                                         <div class="d-flex justify-content-between">
-                                            <div class="pairs fw-500 ml-6"><a href="https://dex.globiance.com/" target="_blank">Swap</a></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
-                                        <div class="exchangeCard-header">
-                                            <div class="icon">
-                                                <div class=""><img src="assets/images/exchanges/changenow.svg" alt="ChangeNOW" /></div>
-                                            </div>
-                                            <div class="desc">
-                                                <div class="card-infoHead">ChangeNOW</div>
-                                                <p class="exchangeCard-type text-muted mb-0">DEX</p>
-                                            </div>
-                                        </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class="pairs fw-500 ml-6"><a href="https://changenow.io/?from=usdt&to=xdc" target="_blank">Swap</a></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
-                                        <div class="exchangeCard-header">
-                                            <div class="icon">
-                                                <div class=""><img src="assets/images/exchanges/swapzone.svg" alt="Swapzone" /></div>
-                                            </div>
-                                            <div class="desc">
-                                                <div class="card-infoHead">Swapzone</div>
-                                                <p class="exchangeCard-type text-muted mb-0">DEX</p>
-                                            </div>
-                                        </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class="pairs fw-500 ml-6"><a href="https://swapzone.io/" target="_blank">Swap</a></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
-                                        <div class="exchangeCard-header">
-                                            <div class="icon">
-                                                <div class=""><img src="assets/images/exchanges/swapika.svg" alt="Swapika" /></div>
-                                            </div>
-                                            <div class="desc">
-                                                <div class="card-infoHead">Swapika</div>
-                                                <p class="exchangeCard-type text-muted mb-0">DEX</p>
-                                            </div>
-                                        </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class="pairs fw-500 ml-6"><a href="https://swapika.com/" target="_blank">Swap</a></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
-                                        <div class="exchangeCard-header">
-                                            <div class="icon">
-                                                <div class=""><img src="assets/images/exchanges/atomx.svg" alt="AtomX" /></div>
-                                            </div>
-                                            <div class="desc">
-                                                <div class="card-infoHead">AtomX</div>
-                                                <p class="exchangeCard-type text-muted mb-0">DEX</p>
-                                            </div>
-                                        </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class="pairs fw-500 ml-6"><a href="https://atomx.online/" target="_blank">Swap</a></div>
+                                            <div class="pairs fw-500 ml-6"><a href="https://dex.globiance.com/" target="_blank">Swap Now</a></div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                 		</div>
                     </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row mt-5">
+        	<div class="col-12">
+            	<div class="text-muted small fw-500 lh-sm">
+                <p class="fs-6 mb-2">Disclaimer for Links to External, Third-Party Web Sites</p>
+                <p class="mb-2">Links to external or third-party Web sites are provided solely for visitors' convenience. When you access an external Web site, keep in mind that xinfin.org has no control over its content. Links taken to other sites are done at your own risk, and xinfin.org accepts no liability for any linked sites or their content.</p>
+                <p class="mb-2">Any link from xinfin.org to an external Web site does not imply or mean that xinfin.org endorses or accepts any responsibility for the content or the use of such Web site. xinfin.org does not give any representation regarding the quality, safety, suitability, or reliability of any external Web sites or any of the content or materials contained in them. It is essential for users to take necessary precautions, especially to ensure appropriate safety from viruses, worms, Trojan horses, and other potentially destructive items.</p>
+                <p class="mb-0">When visiting external Web sites, users should review those Websites' privacy policies and other terms of use to learn more about what, why, and how they collect and use personally identifiable information.</p>
                 </div>
             </div>
         </div>
@@ -819,6 +855,7 @@
 
 <!-- Community Starts -->
 <section class="px-80">
+    <div class="astrodivider"><div class="astrodividermask"></div></div>
     <div class="container">
         <div class="row">
             <div class="col-lg-8 offset-lg-2 mb-5">
