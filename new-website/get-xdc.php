@@ -1,6 +1,6 @@
 <?php 
-    $title = "Unleash the Power of Digital Assets with XDC Network's Blockchain Ecosystem";
-    $desc = "Experience a seamless and efficient way to manage and transact digital assets with the XDC Network's Blockchain Ecosystem. Say goodbye to traditional intermediaries and enjoy faster, secure, and cost-effective asset transfers.";
+    $title = "Where to buy XDC";
+    $desc = "You can buy XDC from exchanges or from wallets directly. Discover the best exchanges to buy XDC, the native token of the XDC Network.";
     
     include('inc/header.php') ?>
     

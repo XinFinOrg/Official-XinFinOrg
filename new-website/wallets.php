@@ -1,6 +1,6 @@
 <?php 
-   $title = "Unleash the Power of Digital Assets with XDC Network's Blockchain Ecosystem";
-   $desc = "Experience a seamless and efficient way to manage and transact digital assets with the XDC Network's Blockchain Ecosystem. Say goodbye to traditional intermediaries and enjoy faster, secure, and cost-effective asset transfers.";
+   $title = "XDC Wallets";
+   $desc = "To begin using XDC, you'll require a wallet—an app designed to hold your XDC and facilitate interactions with other apps on the network.";
    
    include('inc/header.php') ?>
 <!-- Hero Home Starts -->
@@ -9,9 +9,7 @@
    <div class="container">
       <div class="row">
          <div class="col-lg-10 offset-lg-1 hero-content">
-            <h1 class="title-m text-center mb-0">
-               XDC Wallets<!--: Secure Transactions!-->
-            </h1>
+            <h1 class="title-m text-center mb-0">XDC Wallets</h1>
             <h2 class="subtitle subtitle-s fw-500 text-center mb-0">To begin using XDC, you'll require a wallet—an app designed to hold your XDC and facilitate interactions with other apps on the network. Security is paramount when storing XDC, so choose from various supporting wallets, each with unique features and high security levels. Here are some popular choices.</h2>
          </div>
       </div>
