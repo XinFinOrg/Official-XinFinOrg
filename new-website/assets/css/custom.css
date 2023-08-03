@@ -1831,6 +1831,19 @@ body.darkTheme {
   }
 }
 
+
+.d-block-light {
+    display: none;
+}
+.d-block-dark {
+    display: none;
+}
+.darkTheme .d-block-light {
+    display: block;
+}
+.lightTheme .d-block-dark {
+    display: block;
+}
 .darkTheme .d-block-dark {
     display: none!important;
 }
@@ -2077,7 +2090,3 @@ body.darkTheme {
 	border-radius:125px / 12px;
 	box-shadow:0 0 8px rgb(6, 214, 160, 0.4);
 }
-
-
-
-
