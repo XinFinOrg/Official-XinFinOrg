@@ -1818,20 +1818,6 @@ body.darkTheme {
   /*bottom: 30px;*/
   padding-left: 4px;
 }
-
-@media only screen and (min-width: 768px) and (max-width: 991px) {
-  .themeSwitcher {
-    left: 10px;
-  }
-}
-
-@media only screen and (max-width: 767px) {
-  .themeSwitcher {
-    left: 4px;
-  }
-}
-
-
 .d-block-light {
     display: none;
 }
@@ -1867,6 +1853,17 @@ body.darkTheme {
 }
 .lightTheme #theme-toggle:hover, .darkTheme #theme-toggle:hover {
 	color: #64cbff;
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .themeSwitcher {
+    left: 10px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .themeSwitcher {
+    left: 4px;
+  }
 }
 /*--------------------------
     Theme Switcher Styles  
