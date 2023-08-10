@@ -599,7 +599,7 @@ include('inc/header.php') ?>
                         </div>
                     </a>
                     <div class="wallet-text">
-                    <h5>Crypterium Wallet</h5>
+                    <h5>Choise Wallet</h5>
                         <div class="wallet-apps">
                             <a href="https://app.crypterium.com/sign-up" target="_blank" title="Android Wallet"><span class="wallet-apps-tag mobile">Web</span></a>
                             <a href="https://play.google.com/store/apps/details?id=com.crypterium" target="_blank" title="iOS Wallet"><span class="wallet-apps-tag mobile">Android</span></a>
