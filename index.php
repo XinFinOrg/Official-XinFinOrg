@@ -801,9 +801,9 @@ include('inc/header.php') ?>
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 mt-1 mb-1">
                 <div class="wallet-item_block wow fadeIn" data-wow-duration="0.5s" data-wow-delay="0.8s">
-                    <a href="https://crypterium.com/" class="wallet-item">
+                    <a href="https://choise.com/" class="wallet-item">
                         <div class="wallet-logo-container">
-                            <img src="assets/images/exchanges/crypterium-wallet/crypterium-wallet.png" alt="Crypterium Wallet" class="img-responsive" />
+                            <img src="assets/images/exchanges/choise-wallet/choise-wallet.png" alt="Choise Wallet" class="img-responsive" />
                         </div>
                     </a>
                     <div class="wallet-text">
