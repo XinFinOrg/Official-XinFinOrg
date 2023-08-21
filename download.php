@@ -14,7 +14,7 @@ include('inc/header.php') ?>
 				<div class="pt-2 pb-2">
 					<a  href="assets/images/brand-assets/xinfin-brand-assets.zip" target="_self"><button class="btn-hover color-1">DOWNLOAD ALL ASSETS</button></a>
 				</div>
-        		<p>XinFin and XDC Logos in PNG & EPS formats</p>        
+        		<p>XinFin, XDC, and XDC Network Logos in PNG & EPS formats.</p>
       		</div>
 		</div>
     </div>
@@ -31,7 +31,7 @@ include('inc/header.php') ?>
                         <h3 class="pb-2">Logo Guidelines</h3>                        
                         <p class="text-center mb-5">The logo should never be placed vertically, outlined or modified in shape or form.<br />Thank you for not embellishing.</p>
                         
-                        <div class="row">
+                        <!--<div class="row">
                         	<div class="col-md-6 mb-2">
                             	<div class="brand-assets-logo-border np-tb">
                            	    	<img src="assets/images/brand-assets/xinfin-xdc-network-logo.png" class="img-responsive"/>
@@ -57,6 +57,36 @@ include('inc/header.php') ?>
                                     <a href="assets/images/brand-assets/xinfin-xdc-network-logo_white.eps" target="_blank"><button class="btn-outline mb-1">.EPS</button></a>
                                     <a href="assets/images/brand-assets/xinfin-xdc-network-logo_white.svg" target="_blank"><button class="btn-outline mb-1">.SVG</button></a>
 									<a href="assets/images/brand-assets/xinfin-xdc-network-logo_white.png" target="_blank"><button class="btn-outline mb-1">.PNG</button></a>
+	    						</div>
+                            </div>                            
+                        </div>-->
+                        
+                        <div class="row">
+                        	<div class="col-md-6 mb-2">
+                            	<div class="brand-assets-logo-border">
+                           	    	<img src="assets/images/brand-assets/xdc-network-logo.png" class="img-responsive logo-wide"/>
+                                </div>
+                                <h1>XDC Network Primary Logotype</h1>
+                                <p>Use this whenever possible on a white background.</p>
+                                <div class="btn-block">
+        							<a href="assets/images/brand-assets/xdc-network-logo.ai" target="_blank"><button class="btn-outline mb-1">.AI</button></a>
+                                    <a href="assets/images/brand-assets/xdc-network-logo.eps" target="_blank"><button class="btn-outline mb-1">.EPS</button></a>
+                                    <a href="assets/images/brand-assets/xdc-network-logo.svg" target="_blank"><button class="btn-outline mb-1">.SVG</button></a>
+									<a href="assets/images/brand-assets/xdc-network-logo.png" target="_blank"><button class="btn-outline mb-1">.PNG</button></a>
+	    						</div>
+                            </div>
+                            
+                            <div class="col-md-6 mb-2">
+                            	<div class="brand-assets-logo">
+                           	    	<img src="assets/images/brand-assets/xdc-network-logo_white.png" class="img-responsive logo-wide"/>
+                                </div>
+                                <h1>XDC Network Primary Logotype</h1>
+                                <p>Use this whenever possible on a dark background.</p>
+                                <div class="btn-block">
+        							<a href="assets/images/brand-assets/xdc-network-logo_white.ai" target="_blank"><button class="btn-outline mb-1">.AI</button></a>
+                                    <a href="assets/images/brand-assets/xdc-network-logo_white.eps" target="_blank"><button class="btn-outline mb-1">.EPS</button></a>
+                                    <a href="assets/images/brand-assets/xdc-network-logo_white.svg" target="_blank"><button class="btn-outline mb-1">.SVG</button></a>
+									<a href="assets/images/brand-assets/xdc-network-logo_white.png" target="_blank"><button class="btn-outline mb-1">.PNG</button></a>
 	    						</div>
                             </div>                            
                         </div>
@@ -170,7 +200,34 @@ include('inc/header.php') ?>
                         
                         <h3 class="mt-5 pb-0">Promotional Assets</h3>                        
                         <p class="text-center mb-5"></p>
+                        
+                        <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+                        
                         <div class="row pb-0">
+                        	<div class="col-md-4 mb-2">
+                            	<div class="promotional-assets-border">
+                           	    	<img src="assets/images/brand-assets/booth-walldrop.jpg" class="img-responsive"/>
+                                </div>
+                                <h1>Booth Walldrop <span style="float:right;"><a href="assets/images/brand-assets/booth-walldrop.zip" target="_blank"><button class="btn-blue mb-1">.ZIP</button></a></span></h1>
+                            </div>
+                            
+                            <div class="col-md-4 mb-2">
+                            	<div class="promotional-assets-border">
+                           	    	<img src="assets/images/brand-assets/booth-counter-table.jpg" class="img-responsive"/>
+                                </div>
+                                <h1>Booth Counter Table <span style="float:right;"><a href="assets/images/brand-assets/booth-counter-table.zip" target="_blank"><button class="btn-blue mb-1">.ZIP</button></a></span></h1>
+                            </div>
+                            
+                            <div class="col-md-4 mb-2">
+                            	<div class="promotional-assets-border">
+                           	    	<img src="assets/images/brand-assets/a4-flyers.jpg" class="img-responsive"/>
+                                </div>
+                                <h1>A4 Flyer F/FB <span style="float:right;"><a href="assets/images/brand-assets/xdc-network-a4-flyer_f-fb.zip" target="_blank"><button class="btn-blue mb-1">.ZIP</button></a></span></h1>
+                            </div>
+                        </div>
+                        <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+                        
+                        <div class="row pt-5 pb-0">
                         	<div class="col-md-4 mb-2">
                             	<div class="promotional-assets-border">
                            	    	<img src="assets/images/brand-assets/standee.jpg" class="img-responsive"/>
@@ -192,7 +249,6 @@ include('inc/header.php') ?>
                                 <h1>Stickers <span style="float:right;"><a href="assets/images/brand-assets/stickers.pdf" target="_blank"><button class="btn-blue mb-1">.PDF</button></a></span></h1>
                             </div>
                         </div>
-                        
                         
                     </div>
                 </div>

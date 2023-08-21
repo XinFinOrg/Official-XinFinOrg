@@ -1738,6 +1738,8 @@ button.btn-outline-default .fa{margin-right:5px;}
 .downloads .brand-assets-logo{background:#112b3c;padding:40px;text-align:center;}
 .downloads .brand-assets-logo img{max-width:100px;display:block;margin:auto;}
 
+.downloads .brand-assets-logo img.logo-wide, .downloads .brand-assets-logo-border img.logo-wide {max-width:200px;}
+
 .downloads .brand-assets-logo-border.np-tb{padding:0px 40px;}
 .downloads .brand-assets-logo-border.np-tb img{max-width:172px;}
 
