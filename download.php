@@ -224,11 +224,15 @@ include('inc/header.php') ?>
                                 </div>
                                 <h1>A4 Flyer F/FB <span style="float:right;"><a href="assets/images/brand-assets/xdc-network-a4-flyer_f-fb.zip" target="_blank"><button class="btn-blue mb-1">.ZIP</button></a></span></h1>
                             </div>
-                        </div>
-                        <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-                        
-                        <div class="row pt-5 pb-0">
-                        	<div class="col-md-4 mb-2">
+                            
+                            <div class="col-md-4 mb-2">
+                            	<div class="promotional-assets-border">
+                           	    	<img src="assets/images/brand-assets/xdc-stickers.jpg" class="img-responsive"/>
+                                </div>
+                                <h1>Promotional Stickers <span style="float:right;"><a href="assets/images/brand-assets/xdc-stickers.zip" target="_blank"><button class="btn-blue mb-1">.ZIP</button></a></span></h1>
+                            </div>
+                            
+                            <div class="col-md-4 mb-2">
                             	<div class="promotional-assets-border">
                            	    	<img src="assets/images/brand-assets/standee.jpg" class="img-responsive"/>
                                 </div>
@@ -246,7 +250,7 @@ include('inc/header.php') ?>
                             	<div class="promotional-assets-border">
                            	    	<img src="assets/images/brand-assets/stickers.jpg" class="img-responsive"/>
                                 </div>
-                                <h1>Stickers <span style="float:right;"><a href="assets/images/brand-assets/stickers.pdf" target="_blank"><button class="btn-blue mb-1">.PDF</button></a></span></h1>
+                                <h1>XinFin Stickers <span style="float:right;"><a href="assets/images/brand-assets/stickers.pdf" target="_blank"><button class="btn-blue mb-1">.PDF</button></a></span></h1>
                             </div>
                         </div>
                         

@@ -93,7 +93,7 @@
                                         <li>
                                             <a href="#">Community <span class="icon"><i class="fas fa-chevron-down"></i></span></a>
                                             <ul class="sub-menu">
-                                                <li><a href="#">Ecosystem Partners</a></li>
+                                                <li><a href="ecosystem-partners">Ecosystem Partners</a></li>
                                                 <li><a href="#">Join Community</a></li>
                                                 <li><a href="#">Apply for Bounty</a></li>
                                                 <li><a href="#">Media</a></li>
@@ -159,7 +159,7 @@
                                     <li>
                                         <a href="#" class="has-arrow">Community</a>
                                         <ul class="sub-menu">
-                                        	<li><a href="#">Ecosystem Partners</a></li>
+                                        	<li><a href="ecosystem-partners">Ecosystem Partners</a></li>
                                             <li><a href="#">Join Community</a></li>
                                             <li><a href="#">Apply for Bounty</a></li>
                                             <li><a href="#">Media</a></li>
