@@ -534,7 +534,7 @@ include('inc/header.php') ?>
                 <p>The XinFin community includes people of many different backgrounds and skillsets. Whether you're a developer, an artist, or an accountant, there are ways to get involved. Here's a list of suggestions that might help you get started.</p>
                 <div class="orderList">
                     <ul>
-                        <li class="mb-1">Learn about XinFin at <a href="howto.xinfin.org" target="_blank" class="link-after-icon">howto.xinfin.org</a></li>
+                        <li class="mb-1">Learn about XinFin at <a href="https://howto.xinfin.org" target="_blank" class="link-after-icon">howto.xinfin.org</a></li>
                         <li class="mb-1">Find <a href="https://xinfin.org/bounty">Community Bounty</a>, Contribute to the XinFin Blockchain Ecosystem, and earn rewards!</li>
                         <li class="mb-1">Get expose to XinFin's Opensource repositories on <a href="https://github.com/XinFinorg" target="_blank" class="link-after-icon">GitHub</a></li>
                         <li>Create your <a href="https://mycontract.co/" target="_blank" class="link-after-icon">Smart Contract</a> Without Coding and deploy on XinFin XDC Network</li>
