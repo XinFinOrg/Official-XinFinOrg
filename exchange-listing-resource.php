@@ -181,7 +181,7 @@ include('inc/header.php') ?>
                                     </p>
                                     <p>2. Also send us an XDC wallet Address <a href="mailto:info@xinfin.org">info@xinfin.org</a> to transfer real XDC coins to do transactions under the Live network environment.</p>-->
 
-                                    <p class="sub-header mt-5">How to create account in XinFin [XDC] Blockchain?</p>
+                                    <!--<p class="sub-header mt-5">How to create account in XinFin [XDC] Blockchain?</p>
                                     <p class="mt-1 mb-1"><strong>1. Using Keystore</strong></p>
                                     <div style="margin-left: 20px;">
                                         <pre><code>web3.eth.personal.newAccount(password, [callback])</code></pre>
@@ -348,7 +348,7 @@ web3.eth.sendTransaction({
 })
 .on('confirmation', function(confirmationNumber, receipt){ ... })
 .on('error', console.error); // If a out of gas error, the second parameter is the receipt.</code></pre>
-                                    </div>
+                                    </div>-->
                                 </div>
                             </div>
                         </div>
