@@ -104,7 +104,7 @@ include('inc/header.php') ?>
                                     <div class="flex-row">
                                 		<div class="col-lg-6 col-md-6 col-sm-6 mb-4">
                                         	<div class="configurationsBox">
-                                                <p class="sub-header mt-1 pb-2">Wallet Extensions:</p>
+                                                <p class="sub-header mt-1 pb-2">Wallet Extensions</p>
                                                 <p class="fs-20"><strong>BlocksPay:</strong></p>
                                                 <p><a href="https://chrome.google.com/webstore/detail/blockspay-secure-multiple/pogabilnghhbafaheaepaaeopjpleimd" target="_blank" class="link-break-out">https://chrome.google.com/webstore/detail/blockspay-secure-multiple/pogabilnghhbafaheaepaaeopjpleimd</a><br>
                                                 <p class="mt-3 fs-20"><strong>XDCPay2.0:</strong></p>
