@@ -1911,7 +1911,7 @@ button.btn-outline-default .fa{margin-right:5px;}
 .exchange-listing .header {color:#096db0!important;padding-bottom: 6px;margin-top: 50px;text-align: left;border-bottom: 1px solid #b9b9b9;font-size:26px;line-height:32px;}
 .exchange-listing .sub-header-border {font-weight:bold;color:#096db0!important;margin-bottom:0px!important;padding-bottom:5px;margin-top:30px;text-align:left;font-size:20px;line-height:26px;}
 .exchange-listing .sub-header-border {border-bottom:double;border-color:#b9b9b9;font-size:20px;line-height:26px;}
-.exchange-listing .sub-header {font-weight:700;color:#00244e!important;margin-bottom:0px!important;padding-bottom:5px;margin-top:30px;padding-bottom: 10px;text-align:left;font-size:28px;line-height:26px;}
+.exchange-listing .sub-header {font-weight:700;color:#00244e!important;margin-bottom:0px!important;padding-bottom:5px;margin-top:30px;padding-bottom: 10px;text-align:left;font-size:28px;line-height:34px;}
 .exchange-listing .logo-box img{margin-top:20px!important;margin-bottom:15px!important;display:block;margin:auto;}
 
 .exchange-listing ul li {color: #002752;margin-bottom:10px;}
@@ -1928,7 +1928,7 @@ button.btn-outline-default .fa{margin-right:5px;}
 }
 
 @media (min-width: 768px) and (max-width: 991px) {.exchange-listing .exchange-box {width: 32.5%;}}
-@media (max-width: 767px){.exchange-listing .exchange-box {width: 32.6%;}.setup-masternode-row .nav-tabs{display: inline;}.setup-masternode-row .nav-tabs>li {float: none;}.nav-tabs>li {border-bottom: 2px solid #f6f6f6;}.nav-tabs>li a {border-bottom: 4px solid #FFFFFF;}.setup-masternode-row .nav-tabs>li a{padding: 10px 10px;margin-right: 0px;}}
+@media (max-width: 767px){.exchange-listing .exchange-box {width: 32.6%;}.setup-masternode-row .nav-tabs{display: inline;}.setup-masternode-row .nav-tabs>li {float: none;}.nav-tabs>li {border-bottom: 2px solid #f6f6f6;}.nav-tabs>li a {border-bottom: 4px solid #FFFFFF;}.setup-masternode-row .nav-tabs>li a{padding: 10px 10px;margin-right: 0px;}.exchange-listing .configurationsBox h5.heading {font-size: 19px!important;}.exchange-listing .sub-header {font-size:20px;line-height:24px;}}
 @media (max-width: 481px){
 #homebanner .bannertext h1 {font-size: 20px!important;}
 #homebanner .bannertext p {font-size: 15px!important;margin-top: 0px!important;}
