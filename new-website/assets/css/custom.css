@@ -1637,7 +1637,7 @@ footer .pattern-2 {
 .footer-bottom .copyright.pull-right {
     text-align: right;
 }
-.socialicons .fab, .socialicons .fas {
+.socialicons .fab, .socialicons .fas, .socialicons .fa-brands {
     font-size: 15px;
     border-radius: 25px;
     border: none;

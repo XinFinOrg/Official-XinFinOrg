@@ -75,7 +75,7 @@
                 <div class="col-md-5 col-sm-12">
                     <div class="copyright pull-right">
                     	<div class="socialicons">
-                        	<a href="https://twitter.com/XinFin_Official" target="_blank"><i class="fab fa-twitter"></i></a>
+                        	<a href="https://twitter.com/XinFin_Official" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
                             <a href="https://www.linkedin.com/company/xinfin/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                             <a href="https://www.facebook.com/XinFinHybridBlockchain/" target="_blank"><i class="fab fa-facebook-f"></i></a>
                             <a href="https://t.me/xinfin" target="_blank"><i class="fas fa-paper-plane"></i></a>
@@ -84,7 +84,8 @@
                             <a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><i class="fab fa-youtube"></i></a>
                             <!--<a href="https://bitcointalk.org/index.php?topic=1989818.0" target="_blank"><i class="fab fa-btc"></i></a>
                             <a href="https://www.meetup.com/members/270624533/" target="_blank"><i class="fab fa-meetup"></i></a>
-                            <a href="https://medium.com/xinfin" target="_blank"><i class="fab fa-medium"></i></a>-->
+                            <a href="https://medium.com/xinfin" target="_blank"><i class="fab fa-medium"></i></a>                            
+                            <a href="https://twitter.com/XinFin_Official" target="_blank"><i class="fab fa-twitter"></i></a>-->
                     	</div>
                     </div>
                 </div>

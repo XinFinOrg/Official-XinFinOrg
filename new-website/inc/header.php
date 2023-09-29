@@ -17,6 +17,7 @@
         <link rel="stylesheet" media="screen" href="<?php echo base_url() ; ?>/assets/css/metismenu.css">
         <link rel="stylesheet" media="screen" href="<?php echo base_url() ; ?>/assets/css/custom.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 
         <!-- JS -->
         <script src="<?php echo base_url() ; ?>/assets/js/jquery-1.12.4.min.js"></script>
