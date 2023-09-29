@@ -9,9 +9,7 @@
         <meta name="author" content="xinfin.org">
         <meta name="google-site-verification" content="Cyc2Me8vkC1-nEbDuDD4XGU1nBAPkIOkCDGSjWp8Zus" />
         <link rel="icon" href="<?php echo base_url() ; ?>/assets/images/favicon.ico">
-        <title>
-            <?= $title; ?>
-        </title>
+        <title><?= $title; ?></title>
         
         
         <!-- CSS -->
@@ -28,8 +26,10 @@
         <script src="<?php echo base_url() ; ?>/assets/js/jquery.waypoints.min.js"></script>
         <script src="<?php echo base_url() ; ?>/assets/js/metismenu.js"></script>
         <script src="<?php echo base_url() ; ?>/assets/js/progresscircle.js"></script>
-        <script src="<?php echo base_url() ; ?>/assets/js/custom.js"></script>        
-        <!-- Theme Switcher -->
+        <script src="<?php echo base_url() ; ?>/assets/js/custom.js"></script>
+ 
+ 
+        <!-- Theme Switcher 
 	    <script src="<?php echo base_url() ; ?>/assets/js/switcher/js.cookie.js"></script>
         <script src="<?php echo base_url() ; ?>/assets/js/switcher/jquery.style.switcher.js"></script>
         
@@ -83,8 +83,8 @@
                                                 <li><a href="https://howto.xinfin.org/" target="_blank">Documentation</a></li>
                                                 <li><a href="https://docs.xdc.community/" target="_blank">Developer Portal</a></li>
                                                 <li><a href="https://xdc.dev" target="_blank">Developers Forum</a></li>
-                                                <li><a href="bug-bounty">Bug Bounty</a></li>
                                                 <li><a href="https://github.com/XinFinorg" target="_blank">GitHub</a></li>
+                                                <li><a href="bug-bounty">Bug Bounty</a></li>
                                             </ul>
                                         </li>
                                         <li>
@@ -94,9 +94,10 @@
                                             <a href="#">Community <span class="icon"><i class="fas fa-chevron-down"></i></span></a>
                                             <ul class="sub-menu">
                                                 <li><a href="ecosystem-partners">Ecosystem Partners</a></li>
-                                                <li><a href="#">Join Community</a></li>
+                                                <li><a href="join-community">Join Community</a></li>
                                                 <li><a href="#">Apply for Bounty</a></li>
-                                                <li><a href="#">Media</a></li>
+                                                <li><a href="https://howto.xinfin.org/media/articles/" target="_blank">Media</a></li>
+                                                <li><a href="events">Events</a></li>
                                             </ul>
                                         </li>
                                         <li>

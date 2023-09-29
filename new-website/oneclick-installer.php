@@ -104,7 +104,7 @@
                                         <img src="assets/images/inside-page/masternode/windows.svg" class="center img-fluid">
                                         <p class="fs-6 mt-3 mb-3">Windows</p>
                                         <a href="https://download.xinfin.network/XinFin-Network-installer-0-12-0.exe">
-                                        	<button class="btn-blue">Download <i class="fa fa-download ms-1"></i></button>
+                                        	<button class="btn-blue">Download <i class="fa fa-arrow-down ms-1"></i></button>
                                         </a>
                                     </div>
                             </div>
@@ -115,7 +115,7 @@
                                         <img src="assets/images/inside-page/masternode/linux.svg" class="center img-fluid">
                                         <p class="fs-6 mt-3 mb-3">Linux</p>
                                         <a href="https://download.xinfin.network/XinFin-Network-linux64-0-12-0.deb">
-                                        	<button class="btn-blue">Download <i class="fa fa-download ms-1"></i></button>
+                                        	<button class="btn-blue">Download <i class="fa fa-arrow-down ms-1"></i></button>
                                         </a>
                                     </div>
                             </div>
@@ -126,7 +126,7 @@
                                         <img src="assets/images/inside-page/masternode/macos.svg" class="center img-fluid">
                                         <p class="fs-6 mt-3 mb-3">MacOS</p>
                                         <a href="https://download.xinfin.network/XinFin-Network-macosx-0-12-0.dmg">
-                                        	<button class="btn-blue">Download <i class="fa fa-download ms-1"></i></button>
+                                        	<button class="btn-blue">Download <i class="fa fa-arrow-down ms-1"></i></button>
                                         </a>
                                     </div>
                             </div>
@@ -136,8 +136,42 @@
 </section>
 <!-- Masternode Requirements Ends -->
 
+<!-- CTA Btn Starts -->
+<section class="px-20 bg-lightgray">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="card p-5 bg-light75 br-20 border-0">
+                    <div class="row align-items-center">
+                        <div class="col-lg-10 col-md-9 col-sm-12 mb-4 mb-md-4 mb-lg-0">
+                            <h3 class="title-xs text-center text-md-start text-lg-start mb-3">
+                                Setting up an XDC Network Masternode with One-Click Installer on GitHub: A Quick and Easy Guide
+                            </h3>
+                            <div class="subtitle subtitle-s text-center text-md-start text-lg-start">
+                                Learn how to establish your very own XDC Network masternode using One-Click Installer. This straightforward guide will help you set up your masternode efficiently by following the instructions provided in the repository.
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-3 col-sm-12">
+                            <div class="mt-sm-2 mt-md-0 mt-lg-0">
+                                <div class="d-flex justify-content-center align-items-center">
+                                    <div class="btn-block">
+                                        <a href="https://github.com/XinFinOrg/XinFin-Node" target="_blank">
+                                            <button class="btn-blue"><i class="fab fa-github me-1"></i> GitHub</button>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- CTA Btn Ends -->
+
 <!-- Guides and Documentation Starts -->
-<section class="px-80 pt-0 bg-lightgray">
+<section class="px-80 bg-lightgray">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 offset-lg-2 mb-5">
@@ -147,7 +181,7 @@
         </div>
         <div class="row justify-content-center">
                         <div class="col-lg-8 col-md-8">
-                            <div class="h-100 card p-4 dark-merg-gradient br-20 border-0">
+                            <div class="h-100 card p-3 dark-merg-gradient br-20 border-0">
                                     <div class="card-info">
                                         <div class="tutorial container text-center ratio ratio-16x9">
                                         	<iframe src="https://www.youtube.com/embed/PCpwoK9A6_A?rel=0" allowfullscreen class="br-20"></iframe>

@@ -8,40 +8,42 @@
                 <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-4 mb-md-4 mb-lg-0">
                     <div class="footer-widget">
                         <div class="colHeader">Use XDC</div>
-                            <a href="#">XDC Token</a><br/>
+                            <!--<a href="#">XDC Token</a><br/>-->
                             <a href="ecosystem-dapps">Ecosystem dApps</a><br/>
                             <a href="setup-masternode">Setup Masternode</a><br/>
                             <a href="get-xdc">Get XDC</a><br />
                             <a href="wallets">XDC Wallets</a><br />
-                            <a href="#">XDC Subnet</a>
+                            <a href="xdc-subnet">XDC Subnet</a>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-4 mb-md-4 mb-lg-0">
                     <div class="footer-widget">
                         <div class="colHeader">Learn</div>
-                            <a href="#">White Paper</a><br/>
-                            <a href="#">Blockchain Analysis</a><br/>
+                            <a href="about">About Us</a><br/>
+                            <a href="docs/whitepaper-tech.pdf" target="_blank">Technical White Paper</a><br/>
+                            <a href="docs/whitepaper-business.pdf" target="_blank">Business White Paper</a><br/>
                             <a href="#">Roadmap</a><br/>
                             <a href="https://github.com/XinFinOrg/Open-Hackathon" target="_blank">Online Hackathon<svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></a>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-4 mb-md-4 mb-lg-0">
                     <div class="footer-widget">
-                        <div class="colHeader">Developers</div>
-                            <a href="#">Documentation</a><br/>
-                            <a href="https://howto.xinfin.org" target="_blank">Developer Portal<svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></a><br/>
-                            <a href="https://xdc.dev" target="_blank">Developers Forum<svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></a><br/>
-                            <a href="#">Bug Bounty</a><br/>
-                            <a href="https://github.com/XinFinorg" target="_blank">GitHub<svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></a>
+                        <div class="colHeader">Developers</div>                            
+                            <a href="https://howto.xinfin.org/" target="_blank">Documentation<svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></a><br/>
+                            <a href="https://docs.xdc.community/" target="_blank">Developer Portal<svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></a><br/>
+                            <a href="https://xdc.dev" target="_blank">Developers Forum<svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></a><br/>                            
+                            <a href="https://github.com/XinFinorg" target="_blank">GitHub<svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></a><br/>
+                            <a href="bug-bounty">Bug Bounty</a>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-4 mb-md-4 mb-lg-0">
                     <div class="footer-widget">
                         <div class="colHeader">Community</div>
-                            <a href="#">Ecosystem Partners</a><br/>
-                            <a href="#">Join Community</a><br/>
+                            <a href="ecosystem-partners">Ecosystem Partners</a><br/>
+                            <a href="join-community">Join Community</a><br/>
                             <a href="#">Apply for Bounty</a><br/>
-                            <a href="#">Media</a>
+                            <a href="https://howto.xinfin.org/media/articles/" target="_blank">Media</a><br/>
+                            <a href="events">Events</a>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-4 mb-md-4 mb-lg-0">
@@ -51,6 +53,7 @@
                             <a href="https://stats1.xinfin.network" target="_blank">XDC Network Status<svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></a><br/>
                             <a href="https://faucet.apothem.network" target="_blank">XDC Faucet<svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></a><br/>
                             <a href="https://remix.xinfin.network" target="_blank">XDC Network Remix<svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></a><br/>
+                            <a href="quick-tools-guide" target="_blank">Quick Tools Guide</a><br/>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-sm-6 col-6 mb-4 mb-md-4 mb-lg-0">

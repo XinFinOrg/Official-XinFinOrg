@@ -544,8 +544,8 @@
                      <div class="subtitle subtitle-s text-center text-md-start text-lg-start">Safeguard Your Digital Assets for XDC Network with Trusted Custodian Wallet Services that supports XDC.</div>
                   </div>
                   <div class="col-lg-8 col-md-12">
-                     <div class="row custodian-wallets">
-                        <div class="col-lg-4 col-md-4 col-sm-6">
+                     <div class="row custodian-wallets justify-content-lg-start justify-content-md-start justify-content-sm-center">
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-6">
                            <div>
                               <a href="https://copper.co/" target="_blank">
                               		<img src="assets/images/wallets/custodian/copper.svg" class="img-fluid iconD">
@@ -553,7 +553,7 @@
                               </a>
                            </div>
                         </div>
-                        <div class="col-lg-4 col-md-4 col-sm-6">
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-6">
                            <div>
                               <a href="https://custody.bitpanda.com/" target="_blank">
                               	<img src="assets/images/wallets/custodian/bitpanda.svg" class="img-fluid iconD">
@@ -561,7 +561,7 @@
                               </a>
                            </div>
                         </div>
-                        <div class="col-lg-4 col-md-4 col-sm-6">
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-6">
                            <div>
                               <a href="https://www.propine.com/" target="_blank">
                               	<img src="assets/images/wallets/custodian/propine.svg" class="img-fluid iconD">
@@ -569,7 +569,7 @@
                               </a>
                            </div>
                         </div>
-                        <div class="col-lg-4 col-md-4 col-sm-6">
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-6">
                            <div>
                               <a href="https://www.lmnl.app/" target="_blank">
                               	<img src="assets/images/wallets/custodian/liminal.svg" class="img-fluid iconD">
@@ -577,7 +577,7 @@
                               </a>
                            </div>
                         </div>
-                        <div class="col-lg-4 col-md-4 col-sm-6">
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-6">
                            <div>
                               <a href="https://www.fireblocks.com/" target="_blank">
                               	<img src="assets/images/wallets/custodian/fireblocks.svg" class="img-fluid iconD">
@@ -608,24 +608,24 @@
 
 <!-- Community Starts -->
 <section class="px-80">
-   <div class="astrodivider">
-      <div class="astrodividermask"></div>
-   </div>
-   <div class="container">
-      <div class="row">
-         <div class="col-lg-8 offset-lg-2 mb-5">
-            <h3 class="title-m text-center">Join the Global Community</h3>
-            <div class="subtitle subtitle-s text-center">Join a fast-growing XDC Network Community and innovators, connected all over the world. The XDC Network community includes people of many different backgrounds and skill sets.</div>
-         </div>
-      </div>
-      <div class="row">
-         <div class="col-lg-8 offset-lg-2">
-            <div class="row items-3 justify-content-center">
-               <div class="col mt-2 mb-2">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-10 mb-5">
+                    <h3 class="title-m text-center">Join the Global Community</h3>
+                    <div class="subtitle subtitle-s text-center">Join a fast-growing XDC Network Community and innovators, connected all over the world. The XDC Network community includes people of many different backgrounds and skill sets.</div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <!--<div class="col-lg-8 offset-lg-2">
+                    <div class="row items-3 justify-content-center">
+               <div class="col mt-2 mb-2">-->
+               <div class="<div class="col-lg-10 col-md-12">">
+               <div class="row justify-content-center">
+               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                   <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                      <div class="card-info">
                         <div class="socialHead"><i class="fas fa-paper-plane"></i>Telegram</div>
-                        <a href="https://t.me/xinfin" class="btn socialHead-button">
+                        <a href="https://t.me/xinfin" target="_blank" class="btn socialHead-button">
                            Join discussion
                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -634,11 +634,11 @@
                      </div>
                   </div>
                </div>
-               <div class="col mt-2 mb-2">
+               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                   <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                      <div class="card-info">
                         <div class="socialHead"><i class="fab fa-twitter"></i>Twitter</div>
-                        <a href="https://twitter.com/XinFin_Official" class="btn socialHead-button">
+                        <a href="https://twitter.com/XinFin_Official" target="_blank" class="btn socialHead-button">
                            Follow
                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -647,24 +647,11 @@
                      </div>
                   </div>
                </div>
-               <div class="col mt-2 mb-2">
-                  <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                     <div class="card-info">
-                        <div class="socialHead"><i class="fab fa-discord"></i>Discord</div>
-                        <a href="" class="btn socialHead-button">
-                           Get involved
-                           <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                           </svg>
-                        </a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col mt-2 mb-2">
+               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                   <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                      <div class="card-info">
                         <div class="socialHead"><i class="fab fa-reddit-alien"></i>Reddit</div>
-                        <a href="https://www.reddit.com/r/xinfin/" class="btn socialHead-button">
+                        <a href="https://www.reddit.com/r/xinfin/" target="_blank" class="btn socialHead-button">
                            Dive in
                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -673,11 +660,11 @@
                      </div>
                   </div>
                </div>
-               <div class="col mt-2 mb-2">
+               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                   <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                      <div class="card-info">
                         <div class="socialHead"><i class="fab fa-github"></i>GitHub</div>
-                        <a href="https://github.com/XinFinorg" class="btn socialHead-button">
+                        <a href="https://github.com/XinFinorg" target="_blank" class="btn socialHead-button">
                            Build with us
                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -686,11 +673,11 @@
                      </div>
                   </div>
                </div>
-               <div class="col mt-2 mb-2">
+               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                   <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                      <div class="card-info">
                         <div class="socialHead"><i class="fab fa-medium"></i>Medium</div>
-                        <a ahref="https://medium.com/xinfin" class="btn socialHead-button">
+                        <a ahref="https://medium.com/xinfin" target="_blank" class="btn socialHead-button">
                            Follow
                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -699,10 +686,23 @@
                      </div>
                   </div>
                </div>
+               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                  <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                     <div class="card-info">
+                        <div class="socialHead"><i class="fab fa-discord"></i>Developers Forum</div>
+                        <a href="https://xdc.dev/" target="_blank" class="btn socialHead-button">
+                           Get involved
+                           <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                           </svg>
+                        </a>
+                     </div>
+                  </div>
+               </div>
             </div>
-         </div>
-      </div>
-   </div>
-</section>
+                </div>
+            </div>
+        </div>
+    </section>
 <!-- Community Ends -->
 <?php include('inc/footer.php') ?>
