@@ -94,7 +94,7 @@
                                         <li>
                                             <a href="#">Community <span class="icon"><i class="fas fa-chevron-down"></i></span></a>
                                             <ul class="sub-menu">
-                                                <li><a href="ecosystem-partners">Ecosystem Partners</a></li>
+                                                <li><a href="developers-ecosystem-partners">Developers Ecosystem Partners</a></li>
                                                 <li><a href="join-community">Join Community</a></li>
                                                 <li><a href="#">Apply for Bounty</a></li>
                                                 <li><a href="https://howto.xinfin.org/media/articles/" target="_blank">Media</a></li>

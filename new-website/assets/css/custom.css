@@ -116,7 +116,17 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
     line-height: 1.2;
 }
 a {
-    color: #0d6efd;
+    color: #61a1ff;
+    text-decoration: none;
+}
+a:hover {
+	color: #64cbff;
+}
+.card a {
+    color: #61a1ff;
+    text-decoration: underline;
+}
+.card a:hover {
     text-decoration: none;
 }
 .fw-100 {
@@ -740,6 +750,9 @@ canvas {
     grid-template-columns: 1fr minmax(32px,32px);
     grid-auto-columns: 1fr;
     display: grid;
+}
+a.hero-ftr-card {
+    text-decoration: none;
 }
 .hero-ftr-arrow {
     position: relative;
@@ -1559,6 +1572,7 @@ a .card-infoHead {
 	font-weight: 500;
 	text-align: left;
 	padding: 18px 0px 0px 0px;
+	text-decoration: none!important;
 	transition-duration: 0.2s;
 }
 .socialHead-button:hover {
@@ -2047,6 +2061,27 @@ body.darkTheme {
 	box-shadow:0 0 8px rgb(6, 214, 160, 0.4);
 }
 
+
+
+ul.listStyle li {
+  padding-left: 15px;
+  position: relative;
+  margin-bottom: 8px;
+  color: #626262;
+}
+.darkTheme ul.listStyle li {
+    color: var(--dt-subText-color);
+}
+ul.listStyle li:before {
+  content: '';
+  position: absolute;
+  width: 7px;
+  height: 7px;
+  background-color: var(--dt-subText-color);
+  border-radius: 50%;
+  top: 10px;
+  left: 0px;
+}
 
 
 ul.checkmark li {

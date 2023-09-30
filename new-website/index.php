@@ -103,7 +103,7 @@
                         <a href="setup-masternode">
                             <button class="btn-blue">Join As Network Node</button>
                         </a>
-                        <a href="xdc-chain-network-tools-and-documents">
+                        <a href="quick-tools-guide">
                             <button class="btn-transp-bordered">Quick Tools Guide</button>
                         </a>
                     </div>
@@ -120,7 +120,7 @@
                  <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="blockchainData-list">
                     	<div class="subHeading">Zero fee</div>
-                        <div class="heading">$<span class="counter">0.00001</span></div>
+                        <div class="heading">$<span class="counter">0.001</span></div>
                         <div class="desc">Literally Zero for transaction gas fee</div>
                     </div>
                  </div>

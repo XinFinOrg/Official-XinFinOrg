@@ -354,7 +354,9 @@
 </section>
 <!-- Seamless Integration Ends -->
 
-<!-- RPC Endpoint Starts 
+
+
+<!-- RPC Endpoint Starts -->
 <section class="px-80">
     <div class="container">
         <div class="row">
@@ -365,10 +367,54 @@
         </div>
         <div class="row">
             <div class="col-lg-6 col-md-6 mt-2 mb-2">
-                    <div class="h-100 card p-4 dark-merg-gradient br-20 border-0">
-                        <div class="card-info">
-                            <div class="card-infoHead mt-3 mb-3">XDC Connect</div>
-                            <p class="fs-6 mb-0">Connect your application to major XDC wallet providers, hardware, and software, and manage transactions effortlessly.</p>
+                    <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                        <div class="row">
+                            <div class="card-infoHead mb-3">XDC MainNet</div>
+                            <div class="col-xl-6 col-lg-12 mb-5 mb-xl-0">
+                                <div class="card-info">
+                                    <div class="fs-6 card-infoHead mb-2">RPC</div>
+                                    <p class="fs-6 mb-2"><a href="https://rpc.xinfin.network" target="_blank">https://rpc.xinfin.network</a></p>
+                                    <p class="fs-6 mb-2"><a href="https://erpc.xinfin.network" target="_blank">https://erpc.xinfin.network</a></p>
+                                    <p class="fs-6 mb-2"><a href="https://arpc.xinfin.network" target="_blank">https://arpc.xinfin.network</a></p>
+                                    <p class="fs-6 mb-0"><a href="https://earpc.xinfin.network" target="_blank">https://earpc.xinfin.network</a></p>
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-12 col-md-12">
+                                <div class="card-info">
+                                    <div class="fs-6 card-infoHead mb-2">WEB SOCKET</div>
+                                    <ul class="listStyle fs-6">
+                                        <li>wss://ws.xinfin.network</li>
+                                        <li>wss://ews.xinfin.network</li>
+                                        <li>wss://aws.xinfin.network</li>
+                                        <li>wss://eaws.xinfin.network</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+            <div class="col-lg-6 col-md-6 mt-2 mb-2">
+                    <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                        <div class="row">
+                            <div class="card-infoHead mb-3">XDC Apothem Network</div>
+                            <div class="col-xl-6 col-lg-12 mb-5 mb-xl-0">
+                                <div class="card-info">
+                                    <div class="fs-6 card-infoHead mb-2">RPC</div>
+                                    <p class="fs-6 mb-2"><a href="https://rpc.apothem.network" target="_blank">https://rpc.apothem.network</a></p>
+                                    <p class="fs-6 mb-2"><a href="https://erpc.apothem.network" target="_blank">https://erpc.apothem.network</a></p>
+                                    <p class="fs-6 mb-0"><a href="https://arpc.apothem.network" target="_blank">https://arpc.apothem.network</a></p>
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-12">
+                                <div class="card-info">
+                                    <div class="fs-6 card-infoHead mb-2">WEB SOCKET</div>
+                                    <ul class="listStyle fs-6">
+                                        <li>wss://ws.apothem.network</li>
+                                        <li>wss://ews.apothem.network</li>
+                                        <li>wss://aws.apothem.network</li>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
                     </div>
             </div>
@@ -376,6 +422,81 @@
     </div>
 </section>
 <!-- RPC Endpoint Ends -->
+
+<!-- Other Tools Starts 
+<section class="px-80 bg-lightgray">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 offset-lg-1 mb-5">
+                <h3 class="title-m text-center">Integrate with XDC MainNet Chain</h3>
+                <div class="subtitle subtitle-s text-center">Seamless Integration for Tech Enthusiasts : Integrating with the XDC Network is a breeze for tech-savvy individuals, as we've forked out of go-ethereum. Here are the essential integration components:</div>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-4 col-md-4 mt-2 mb-2">
+                <a href="https://www.npmjs.com/package/xdc-connect">
+                    <div class="h-100 card p-4 dark-merg-gradient br-20 border-0">
+                        <div class="card-info text-center">
+                            <div class="card-infoHead mt-3 mb-3">XDC Connect</div>
+                            <p class="fs-6 mb-0">Connect your application to major XDC wallet providers, hardware, and software, and manage transactions effortlessly.</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4 col-md-4 mt-2 mb-2">
+                <a href="https://www.npmjs.com/package/xdc3">
+                    <div class="h-100 card p-4 dark-merg-gradient br-20 border-0">
+                        <div class="card-info text-center">
+                            <div class="card-infoHead mt-3 mb-3">XDC3</div>
+                            <p class="fs-6 mb-0">The XinFin JavaScript API seamlessly interfaces with the Generic JSON RPC spec.</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4 col-md-4 mt-2 mb-2">
+                <a href="https://github.com/XinFinOrg/XDPoSChain">
+                    <div class="h-100 card p-4 dark-merg-gradient br-20 border-0">
+                        <div class="card-info text-center">
+                            <div class="card-infoHead mt-3 mb-3">GitHub</div>
+                            <p class="fs-6 mb-0">Access the source code at XinFinOrg/XDPoSChain.</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4 col-md-4 mt-2 mb-2">
+                <a href="https://github.com/xinfinorg/XinFin-Node">
+                    <div class="h-100 card p-4 dark-merg-gradient br-20 border-0">
+                        <div class="card-info text-center">
+                            <div class="card-infoHead mt-3 mb-3">XinFin Docker Integration</div>
+                            <p class="fs-6 mb-0">Get the integration code at XinFin-Node.</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4 col-md-4 mt-2 mb-2">
+                <a href="https://xinfin.org/exchange-listing-resource">
+                    <div class="h-100 card p-4 dark-merg-gradient br-20 border-0">
+                        <div class="card-info text-center">
+                            <div class="card-infoHead mt-3 mb-3">Integration Code</div>
+                            <p class="fs-6 mb-0">Find all the necessary integration resources at Exchange Listing Resource.</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4 col-md-4 mt-2 mb-2">
+                <a href="https://howto.xinfin.org/general/networks/">
+                    <div class="h-100 card p-4 dark-merg-gradient br-20 border-0">
+                        <div class="card-info text-center">
+                            <div class="card-infoHead mt-3 mb-3">XinFin Network</div>
+                            <p class="fs-6 mb-0">Dive deeper into the network at XinFin Network</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Other Tools Ends -->
 
 <!-- Need More Help Starts -->
 <section class="px-80">
