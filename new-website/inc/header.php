@@ -8,7 +8,12 @@
         <meta name="description" content="<?= $desc?>">
         <meta name="author" content="xinfin.org">
         <meta name="google-site-verification" content="Cyc2Me8vkC1-nEbDuDD4XGU1nBAPkIOkCDGSjWp8Zus" />
-        <link rel="icon" href="<?php echo base_url() ; ?>/assets/images/favicon.ico">
+
+        <link rel="apple-touch-icon" sizes="180x180" href="<?php echo base_url() ; ?>/assets/images/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="<?php echo base_url() ; ?>/assets/images/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="<?php echo base_url() ; ?>/assets/images/favicon/favicon-16x16.png">
+        <link rel="manifest" href="<?php echo base_url() ; ?>/assets/images/favicon/site.webmanifest">
+        
         <title><?= $title; ?></title>
         
         
@@ -69,8 +74,8 @@
                     <div class="container d-flex align-items-center justify-content-between">
                         <div class="logo-wrapper">
                             <a class="navbar-brand" href="#">
-                                <img src="<?php echo base_url() ; ?>/assets/images/xinfin-logo-white.png" class="logo-white img-responsive" width="60">
-                                <img src="<?php echo base_url() ; ?>/assets/images/xinfin-logo-dark.png" class="logo-dark img-responsive" width="60">
+                                <img src="<?php echo base_url() ; ?>/assets/images/xdc-network-logo-white.svg" class="logo-white img-responsive" width="150">
+                                <img src="<?php echo base_url() ; ?>/assets/images/xdc-network-logo.svg" class="logo-dark img-responsive" width="150">
                             </a>
                         </div>
                         <div class="menu-wrapper d-flex flex-column">
@@ -81,11 +86,11 @@
                                         <li>
                                             <a href="#">Developers <span class="icon"><i class="fas fa-chevron-down"></i></span></a>
                                             <ul class="sub-menu">
-                                                <li><a href="https://howto.xinfin.org/" target="_blank">Documentation</a></li>
+                                                <li><a href="https://docs.xdc.community/" target="_blank">Documentation</a></li>
                                                 <li><a href="https://docs.xdc.community/" target="_blank">Developer Portal</a></li>
                                                 <li><a href="https://xdc.dev" target="_blank">Developers Forum</a></li>
                                                 <li><a href="https://github.com/XinFinorg" target="_blank">GitHub</a></li>
-                                                <li><a href="bug-bounty">Bug Bounty</a></li>
+                                                <li><a href="bounty">Apply for Bounty</a></li>
                                             </ul>
                                         </li>
                                         <li>
@@ -96,7 +101,6 @@
                                             <ul class="sub-menu">
                                                 <li><a href="developers-ecosystem-partners">Developers Ecosystem Partners</a></li>
                                                 <li><a href="join-community">Join Community</a></li>
-                                                <li><a href="#">Apply for Bounty</a></li>
                                                 <li><a href="https://howto.xinfin.org/media/articles/" target="_blank">Media</a></li>
                                                 <li><a href="events">Events</a></li>
                                             </ul>

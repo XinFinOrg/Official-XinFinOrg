@@ -88,6 +88,7 @@
 	.st82{fill-rule:evenodd;clip-rule:evenodd;fill:#3F586E;}
 	.st83{fill:#3E6FB6;}
 	.st84{fill:#7059A6;}
+	.st85{fill-rule:evenodd;clip-rule:evenodd;fill:#3C7ABE;}
 </style>
 <g id="Layer_21" class="st0">
 	<rect x="-6.4" y="-6.1" class="st1" width="70.8" height="69.8"/>
@@ -593,8 +594,8 @@
 		</g>
 	</g>
 </g>
-<g id="Layer_18">
-	<g id="Layer_16">
+<g id="Layer_18" class="st0">
+	<g id="Layer_16" class="st3">
 		<g>
 			
 				<linearGradient id="SVGID_12_" gradientUnits="userSpaceOnUse" x1="35.0012" y1="18.6374" x2="9.5622" y2="29.2864" gradientTransform="matrix(1 0 0 -1 0 58.4031)">
@@ -880,7 +881,7 @@
 <g id="Layer_26" class="st0">
 	<g class="st3">
 		
-			<image style="overflow:visible;" width="288" height="288" xlink:href="3E9DA2F3.jpg"  transform="matrix(0.1673 0 0 0.1673 4.252 4.252)">
+			<image style="overflow:visible;" width="288" height="288" xlink:href="7E653659.jpg"  transform="matrix(0.1673 0 0 0.1673 4.252 4.252)">
 		</image>
 	</g>
 </g>
@@ -1251,7 +1252,10 @@
 </g>
 <g id="Layer_38" class="st0">
 	
-		<image style="display:inline;overflow:visible;" width="200" height="200" xlink:href="3E9DA2F1.png"  transform="matrix(0.284 0 0 0.284 -4.866142e-02 -4.866142e-02)">
+		<image style="display:inline;overflow:visible;" width="200" height="200" xlink:href="7E65365B.png"  transform="matrix(0.284 0 0 0.284 -4.866142e-02 -4.866142e-02)">
 	</image>
+</g>
+<g id="Layer_40">
+	<path class="st85" d="M4.3,28v24.5h6.6l12.3-24.2h18.3L29.1,52.6h23.3V4.1H22.5V28H4.3z"/>
 </g>
 </svg>

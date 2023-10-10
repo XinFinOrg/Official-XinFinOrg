@@ -1,6 +1,6 @@
 <?php 
-   $title = "Ecosystem Partners";
-   $desc = "XDC Network Decentralised Developer Ecosystem Partners - Accelerate Your Digital Transformation!";
+   $title = "Developers Ecosystem Partners";
+   $desc = "XDC Network Decentralised Developers Ecosystem Partners - Accelerate Your Digital Transformation!";
    
    include('inc/header.php') ?>
 <!-- Hero Home Starts -->
@@ -9,7 +9,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 offset-lg-1 hero-content">
-                <h1 class="title-m text-center mb-0">Ecosystem Partners</h1>
+                <h1 class="title-m text-center mb-0">Developers Ecosystem Partners</h1>
                 <h2 class="subtitle subtitle-s fw-500 text-center mb-0">
                     Leverage the power of the XDC Network blockchain technology with our trusted Ecosystem Partners to accelerate your digital transformation with blockchain technology.
                 </h2>

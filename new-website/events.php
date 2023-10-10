@@ -1,6 +1,6 @@
 <?php 
-    $title = "Ecosystem dApps";
-    $desc = "Powering the Future of Blockchain - Unleash the Potential of XDC Utility Token!";
+    $title = "Upcoming XDC Network Events";
+    $desc = "XDC Network has an exciting schedule of upcoming events, offering you the opportunity to meet the XDC community & XDC Ecosystem team in person.";
     
     include('inc/header.php') ?>
 
@@ -10,9 +10,8 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 offset-lg-1 hero-content">
-                <h1 class="title-m text-center mb-0">Ecosystem dApps</h1>
-                <h2 class="subtitle subtitle-s fw-500 text-center mb-0">Powering the Future of Blockchain - Unleash the Potential of XDC Utility Token! As a versatile settlement mechanism, XDC fuels the entire ecosystem, enabling lightning-fast and cost-effective transactions while revolutionizing the way DApps function.</h2>
-                <!--<h2 class="subtitle subtitle-s fw-500 text-center mb-0">XDC token lies at the heart of XDC Network, and its transformative capabilities are truly awe-inspiring. As a versatile settlement mechanism, XDC fuels the entire ecosystem, enabling lightning-fast and cost-effective transactions while revolutionizing the way DApps function.</h2>-->
+                <h1 class="title-m text-center mb-0">Upcoming XDC Network Events</h1>
+                <h2 class="subtitle subtitle-s fw-500 text-center mb-0">XDC Network has an exciting schedule of upcoming events, offering you the opportunity to meet the XDC community & XDC Ecosystem team in person.</h2>
             </div>
         </div>
     </div>
@@ -25,13 +24,24 @@
             <div class="col-lg-12">
                 <div class="row justify-content-center">
                     <div class="col-lg-4 col-md-6 mt-2 mb-2">
-                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                        <a href="https://play.google.com/store/apps/details?id=com.xdcwallet&amp;pli=1" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
                             <div class="card-info">
-                                <img src="assets/images/inside-page/masternode/transaction-validation.svg" class="img-fluid" />
-                                <div class="card-infoHead mt-3 mb-3">Lightning Speed Transactions</div>
-                                <p class="fs-6 mb-0">Say goodbye to sluggish blockchain speeds! With XDC, experience blazing-fast transactions that will leave you amazed.</p>
+                                <div class="exchangeCard-header align-items-center">
+                                    <div class="icon">
+                                        <div class=""><img src="assets/images/inside-page/masternode/mobile-wallet.svg" alt="Web Wallet"></div>
+                                    </div>
+                                    <div class="desc">
+                                        <div class="card-infoHead">Mobile Wallet</div>
+                                        <p class="exchangeCard-type mb-0">Access your XDC anytime, anywhere, right from your mobile device.</p>
+                                    </div>
+                                </div>
                             </div>
-                        </div>
+                            <div class="hero-ftr-arrow">
+                                <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                </svg>
+                            </div>
+                        </a>
                     </div>
                     <div class="col-lg-4 col-md-6 mt-2 mb-2">
                         <div class="h-100 card p-4 bg-lightgray br-20 border-0">
