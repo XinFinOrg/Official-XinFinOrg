@@ -619,7 +619,7 @@
                 <!--<div class="col-lg-8 offset-lg-2">
                     <div class="row items-3 justify-content-center">
                <div class="col mt-2 mb-2">-->
-               <div class="<div class="col-lg-10 col-md-12">">
+               <div class="col-lg-10 col-md-12">
                <div class="row justify-content-center">
                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                   <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -677,7 +677,7 @@
                   <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                      <div class="card-info">
                         <div class="socialHead"><i class="fab fa-medium"></i>Medium</div>
-                        <a ahref="https://medium.com/xinfin" target="_blank" class="btn socialHead-button">
+                        <a href="https://medium.com/xinfin" target="_blank" class="btn socialHead-button">
                            Follow
                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
