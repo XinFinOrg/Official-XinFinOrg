@@ -529,7 +529,7 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <img src="assets/images/team/core-team/bill-sebell.jpg" class="img-fluid team-img br-15">
+                        <img src="assets/images/team/core-team/andre-casterman.jpg" class="img-fluid team-img br-15">
                     </div>
                     <div class="team__content">
                         <div class="short-desc">

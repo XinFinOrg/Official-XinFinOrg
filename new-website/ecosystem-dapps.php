@@ -3192,7 +3192,7 @@
                         </div>
                         <div class="long-desc">
                             <div class="mt-0 my-4">
-                                <p>Globiance provides a platform for trading various cryptocurrencies. Users can typically create accounts, deposit funds, and trade digital assets like XCC, Bitcoin, Ethereum, and other cryptocurrencies.</p>
+                                <p>Globiance provides a platform for trading various cryptocurrencies. Users can typically create accounts, deposit funds, and trade digital assets like XDC, Bitcoin, Ethereum, and other cryptocurrencies.</p>
                             </div>
                         </div>
                         <div class="project__footer">

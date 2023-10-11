@@ -23,7 +23,7 @@
         <div class="row row-flex">
             <div class="col-lg-12">
                 <div class="row">
-                    <div class="col-lg-4 col-md-6 mt-2 mb-2">
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.gtreview.com/events/europe/gtr-turkey-2023-istanbul/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/gtr.jpg" class="img-fluid" alt="GTR Turkey" />
@@ -64,7 +64,7 @@
                         </a>
                     </div>
                     
-                    <div class="col-lg-4 col-md-6 mt-2 mb-2">
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.futureblockchainsummit.com/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/fbs.jpg" class="img-fluid" alt="Future Blockchain Summit" />
@@ -112,7 +112,7 @@
                         </a>
                     </div>
                     
-                    <div class="col-lg-4 col-md-6 mt-2 mb-2">
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.tradefinancedistribution.com/events/trade-finance-investor-day-2023" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/tfid.jpg" class="img-fluid" alt="The Trade Finance Investor Day" />
@@ -160,7 +160,7 @@
                         </a>
                     </div>
                     
-                    <div class="col-lg-4 col-md-6 mt-2 mb-2">
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://eblockchainconvention.com/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/ebc.jpg" class="img-fluid" alt="European Blockchain Convention 2023" />
@@ -208,7 +208,7 @@
                         </a>
                     </div>
                     
-                    <div class="col-lg-4 col-md-6 mt-2 mb-2">
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://hackverse.tech/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/hackverse.jpg" class="img-fluid" alt="Hackverse Chennai India" />
@@ -256,7 +256,7 @@
                         </a>
                     </div>
                     
-                    <div class="col-lg-4 col-md-6 mt-2 mb-2">
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.fintechweek.hk/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/hk-fintech-week.jpg" class="img-fluid" alt="Hong Kong Fintech Week" />
@@ -295,7 +295,7 @@
 
                                                     </svg>
                                                 </div>
-                                                <p class="mb-0">Bengaluru, India</p>
+                                                <p class="mb-0">HKCEC, Hong Kong</p>
                                             </div>
                                         </div>
                                     </div>
@@ -304,7 +304,7 @@
                         </a>
                     </div>
                     
-                    <div class="col-lg-4 col-md-6 mt-2 mb-2">
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://ethglobal.com/events/istanbul" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/ethglobal-istanbul.jpg" class="img-fluid" alt="GTR US 2023" />
@@ -352,7 +352,7 @@
                         </a>
                     </div>
                     
-                    <div class="col-lg-4 col-md-6 mt-2 mb-2">
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.gtreview.com/events/europe/gtr-nordics-2022-stockholm/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/gtr-nordics.jpg" class="img-fluid" alt="GTR Nordics" />
@@ -394,7 +394,7 @@
                         </a>
                     </div>
                     
-                    <div class="col-lg-4 col-md-6 mt-2 mb-2">
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.gtreview.com/events/americas/gtr-us-2023-new-york/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/gtr-us.jpg" class="img-fluid" alt="GTR US 2023" />
@@ -436,7 +436,7 @@
                         </a>
                     </div>   
                     
-                    <div class="col-lg-4 col-md-6 mt-2 mb-2">
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://ethindia.co/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/eth-india.jpg" class="img-fluid" alt="ETH INDIA" />
