@@ -29,8 +29,8 @@
         <div class="row row-flex">
             <div class="col-lg-12">
                 <div class="row justify-content-center">
-                    <div class="col-lg-4 col-md-6 mt-2 mb-2">
-                        <div class="h-100 card p-5 bg-lightgray br-20 border-0">
+                    <div class="col-lg-4 col-md-4 mt-2 mb-2">
+                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                             <div class="card-info">
                                 <img src="assets/images/inside-page/about/global-trade.svg" class="img-fluid" />
                                 <div class="card-infoHead mt-3 mb-3">Empowering Global Trade</div>
@@ -41,8 +41,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 mt-2 mb-2">
-                        <div class="h-100 card p-5 bg-lightgray br-20 border-0">
+                    <div class="col-lg-4 col-md-4 mt-2 mb-2">
+                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                             <div class="card-info">
                                 <img src="assets/images/inside-page/about/community.svg" class="img-fluid" />
                                 <div class="card-infoHead mt-3 mb-3">Local Community Involvement</div>
@@ -53,8 +53,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 mt-2 mb-2">
-                        <div class="h-100 card p-5 bg-lightgray br-20 border-0">
+                    <div class="col-lg-4 col-md-4 mt-2 mb-2">
+                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                             <div class="card-info">
                                 <img src="assets/images/inside-page/about/mission.svg" class="img-fluid" />
                                 <div class="card-infoHead mt-3 mb-3">Mission to Boost Global GDP</div>

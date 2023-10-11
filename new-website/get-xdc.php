@@ -866,7 +866,7 @@
                 <!--<div class="col-lg-8 offset-lg-2">
                     <div class="row items-3 justify-content-center">
                <div class="col mt-2 mb-2">-->
-               <div class="<div class="col-lg-10 col-md-12">">
+               <div class="<div class="col-lg-10 col-md-12">
                <div class="row justify-content-center">
                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                   <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">

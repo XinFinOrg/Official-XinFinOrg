@@ -24,7 +24,7 @@
 <!-- Live Network Starts -->
 <section class="px-80 pt-2">
     <div class="container">
-        <div class="row">
+        <div class="row tools-guide">
             <div class="col-lg-12 col-md-12 mb-5">
                 <div class="row align-items-center">
                     <div class="col-lg-10 col-md-9 col-sm-12 mb-4 mb-md-4 mb-lg-0">
@@ -47,7 +47,7 @@
                 </div>
             </div>
             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
-                <a href="https://wallet.xinfin.network/#/" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
+                <a href="https://wallet.xinfin.network/" target="_blank" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="exchangeCard-header align-items-center">
                             <div class="icon">
@@ -55,7 +55,7 @@
                             </div>
                             <div class="desc">
                                 <div class="card-infoHead">Web Wallet</div>
-                                <p class="exchangeCard-type mb-0">Securely manage your XDC assets with ease.</p>
+                                <p class="exchangeCard-type fs-6 lh-base mb-0">Securely manage your XDC assets with ease.</p>
                             </div>
                         </div>
                     </div>
@@ -67,7 +67,7 @@
                 </a>
             </div>
             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
-                <a href="https://play.google.com/store/apps/details?id=com.xdcwallet&pli=1" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
+                <a href="https://play.google.com/store/apps/details?id=com.xdcwallet&pli=1" target="_blank" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="exchangeCard-header align-items-center">
                             <div class="icon">
@@ -75,7 +75,7 @@
                             </div>
                             <div class="desc">
                                 <div class="card-infoHead">Mobile Wallet</div>
-                                <p class="exchangeCard-type mb-0">Access your XDC anytime, anywhere, right from your mobile device.</p>
+                                <p class="exchangeCard-type fs-6 lh-base mb-0">Access your XDC anytime, anywhere, right from your mobile device.</p>
                             </div>
                         </div>
                     </div>
@@ -87,7 +87,7 @@
                 </a>
             </div>
             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
-                <a href="https://xinfin.network/#explorer" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
+                <a href="https://xinfin.network/#explorer" target="_blank" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="exchangeCard-header align-items-center">
                             <div class="icon">
@@ -95,7 +95,7 @@
                             </div>
                             <div class="desc">
                                 <div class="card-infoHead">Block Explorer</div>
-                                <p class="exchangeCard-type mb-0">Gain real-time insights into blockchain transactions and data.</p>
+                                <p class="exchangeCard-type fs-6 lh-base mb-0">Gain real-time insights into blockchain transactions and data.</p>
                             </div>
                         </div>
                     </div>
@@ -115,7 +115,7 @@
                             </div>
                             <div class="desc">
                                 <div class="card-infoHead">One-click Node Installer</div>
-                                <p class="exchangeCard-type mb-0">Simplify node deployment for seamless participation.</p>
+                                <p class="exchangeCard-type fs-6 fw-400 lh-base mb-0">Simplify node deployment for seamless participation.</p>
                             </div>
                         </div>
                     </div>
@@ -127,7 +127,8 @@
                 </a>
             </div>
             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
-                <a href="https://master.xinfin.network/" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
+
+                <a href="https://master.xinfin.network/" target="_blank" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="exchangeCard-header align-items-center">
                             <div class="icon">
@@ -135,7 +136,7 @@
                             </div>
                             <div class="desc">
                                 <div class="card-infoHead link-break-out">Become a Masternode/Validator</div>
-                                <p class="exchangeCard-type mb-0">Elevate your involvement and earn impressive returns.</p>
+                                <p class="exchangeCard-type fs-6 lh-base mb-0">Elevate your involvement and earn impressive returns.</p>
                             </div>
                         </div>
                     </div>
@@ -154,7 +155,7 @@
 <!-- Apothem/Testnet Starts -->
 <section class="px-80 pt-3">
     <div class="container">
-        <div class="row">
+        <div class="row tools-guide">
             <div class="col-lg-12 col-md-12 mb-5">
                 <div class="row align-items-center">
                     <div class="col-lg-10 col-md-9 col-sm-12 mb-4 mb-md-4 mb-lg-0">
@@ -175,7 +176,7 @@
                 </div>
             </div>
             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
-                <a href="https://apothem.network/#getTestXDC" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
+                <a href="https://apothem.network/#getTestXDC" target="_blank" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="exchangeCard-header align-items-center">
                             <div class="icon">
@@ -183,7 +184,7 @@
                             </div>
                             <div class="desc">
                                 <div class="card-infoHead">Faucet</div>
-                                <p class="exchangeCard-type mb-0">Access test XDC to prepare for financial processes.</p>
+                                <p class="exchangeCard-type fs-6 lh-base mb-0">Access test XDC to prepare for financial processes.</p>
                             </div>
                         </div>
                     </div>
@@ -195,7 +196,7 @@
                 </a>
             </div>
             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
-                <a href="https://play.google.com/store/apps/details?id=com.xdcwallet&pli=1" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
+                <a href="https://play.google.com/store/apps/details?id=com.xdcwallet&pli=1" target="_blank" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="exchangeCard-header align-items-center">
                             <div class="icon">
@@ -203,7 +204,7 @@
                             </div>
                             <div class="desc">
                                 <div class="card-infoHead">Mobile Wallet</div>
-                                <p class="exchangeCard-type mb-0">Access your XDC anytime, anywhere, right from your mobile device.</p>
+                                <p class="exchangeCard-type fs-6 lh-base mb-0">Access your XDC anytime, anywhere, right from your mobile device.</p>
                             </div>
                         </div>
                     </div>
@@ -215,7 +216,7 @@
                 </a>
             </div>
             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
-                <a href="https://xinfin.network/#explorer" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
+                <a href="https://xinfin.network/#explorer" target="_blank" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="exchangeCard-header align-items-center">
                             <div class="icon">
@@ -223,7 +224,7 @@
                             </div>
                             <div class="desc">
                                 <div class="card-infoHead">Block Explorer</div>
-                                <p class="exchangeCard-type mb-0">Gain real-time insights into blockchain transactions and data.</p>
+                                <p class="exchangeCard-type fs-6 lh-base mb-0">Gain real-time insights into blockchain transactions and data.</p>
                             </div>
                         </div>
                     </div>
@@ -243,7 +244,7 @@
                             </div>
                             <div class="desc">
                                 <div class="card-infoHead">One-click Node Installer</div>
-                                <p class="exchangeCard-type mb-0">Simplify node deployment for seamless participation.</p>
+                                <p class="exchangeCard-type fs-6 fw-400 lh-base mb-0">Simplify node deployment for seamless participation.</p>
                             </div>
                         </div>
                     </div>
@@ -255,7 +256,7 @@
                 </a>
             </div>
             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
-                <a href="https://master.xinfin.network/" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
+                <a href="https://master.xinfin.network/" target="_blank" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="exchangeCard-header align-items-center">
                             <div class="icon">
@@ -263,7 +264,7 @@
                             </div>
                             <div class="desc">
                                 <div class="card-infoHead link-break-out">Become a Masternode/Validator</div>
-                                <p class="exchangeCard-type mb-0">Elevate your involvement and earn impressive returns.</p>
+                                <p class="exchangeCard-type fs-6 lh-base mb-0">Elevate your involvement and earn impressive returns.</p>
                             </div>
                         </div>
                     </div>
@@ -292,60 +293,61 @@
         </div>
         <div class="row justify-content-center">
             <div class="col-lg-4 col-md-4 mt-2 mb-2">
-                <a href="https://www.npmjs.com/package/xdc-connect">
-                    <div class="h-100 card p-4 dark-merg-gradient br-20 border-0">
-                        <div class="card-info text-center">
-                            <div class="card-infoHead mt-3 mb-3">XDC Connect</div>
+                <a href="https://www.npmjs.com/package/xdc-connect" target="_blank">
+                    <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                        <div class="card-info">
+                            <div class="card-infoHead mb-3">XDC Connect</div>
                             <p class="fs-6 mb-0">Connect your application to major XDC wallet providers, hardware, and software, and manage transactions effortlessly.</p>
                         </div>
                     </div>
                 </a>
             </div>
             <div class="col-lg-4 col-md-4 mt-2 mb-2">
-                <a href="https://www.npmjs.com/package/xdc3">
-                    <div class="h-100 card p-4 dark-merg-gradient br-20 border-0">
-                        <div class="card-info text-center">
-                            <div class="card-infoHead mt-3 mb-3">XDC3</div>
+                <a href="https://www.npmjs.com/package/xdc3" target="_blank">
+                    <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                        <div class="card-info">
+                            <div class="card-infoHead mb-3">XDC3</div>
                             <p class="fs-6 mb-0">The XinFin JavaScript API seamlessly interfaces with the Generic JSON RPC spec.</p>
                         </div>
                     </div>
                 </a>
             </div>
             <div class="col-lg-4 col-md-4 mt-2 mb-2">
-                <a href="https://github.com/XinFinOrg/XDPoSChain">
-                    <div class="h-100 card p-4 dark-merg-gradient br-20 border-0">
-                        <div class="card-info text-center">
-                            <div class="card-infoHead mt-3 mb-3">GitHub</div>
-                            <p class="fs-6 mb-0">Access the source code at XinFinOrg/XDPoSChain.</p>
+                <a href="https://github.com/XinFinOrg/XDPoSChain" target="_blank">
+                    <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                        <div class="card-info">
+                            <div class="card-infoHead mb-3">GitHub</div>
+                            <p class="fs-6 mb-0">Access the source code of XDPoSChain on GitHub.</p>
+                            <!--<p class="fs-6 mb-0">Access the source code at XinFinOrg/XDPoSChain.</p>-->
                         </div>
                     </div>
                 </a>
             </div>
             <div class="col-lg-4 col-md-4 mt-2 mb-2">
-                <a href="https://github.com/xinfinorg/XinFin-Node">
-                    <div class="h-100 card p-4 dark-merg-gradient br-20 border-0">
-                        <div class="card-info text-center">
-                            <div class="card-infoHead mt-3 mb-3">XinFin Docker Integration</div>
+                <a href="https://github.com/xinfinorg/XinFin-Node" target="_blank">
+                    <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                        <div class="card-info">
+                            <div class="card-infoHead mb-3">XinFin Docker Integration</div>
                             <p class="fs-6 mb-0">Get the integration code at XinFin-Node.</p>
                         </div>
                     </div>
                 </a>
             </div>
             <div class="col-lg-4 col-md-4 mt-2 mb-2">
-                <a href="https://xinfin.org/exchange-listing-resource">
-                    <div class="h-100 card p-4 dark-merg-gradient br-20 border-0">
-                        <div class="card-info text-center">
-                            <div class="card-infoHead mt-3 mb-3">Integration Code</div>
+                <a href="exchange-listing-resource">
+                    <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                        <div class="card-info">
+                            <div class="card-infoHead mb-3">Integration Code</div>
                             <p class="fs-6 mb-0">Find all the necessary integration resources at Exchange Listing Resource.</p>
                         </div>
                     </div>
                 </a>
             </div>
             <div class="col-lg-4 col-md-4 mt-2 mb-2">
-                <a href="https://howto.xinfin.org/general/networks/">
-                    <div class="h-100 card p-4 dark-merg-gradient br-20 border-0">
-                        <div class="card-info text-center">
-                            <div class="card-infoHead mt-3 mb-3">XinFin Network</div>
+                <a href="https://howto.xinfin.org/general/networks/" target="_blank">
+                    <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                        <div class="card-info">
+                            <div class="card-infoHead mb-3">XinFin Network</div>
                             <p class="fs-6 mb-0">Dive deeper into the network at XinFin Network</p>
                         </div>
                     </div>
@@ -450,7 +452,7 @@
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6">
-                                <div><img src="assets/images/inside-page/quick-tools-guide/xdcScan.png" alt="XDCScan" class="img-fluid br-20"></div>
+                                <div><img src="assets/images/inside-page/quick-tools-guide/xdcScan.png" alt="XDCScan" class="img-fluid br-20" /></div>
                             </div>
                         </div>
                     </div>
@@ -461,14 +463,17 @@
                             <div class="col-xl-6 col-lg-6 mb-5 mb-xl-0 mb-lg-0">
                                 <h3 class="title-m">XDCPay</h3>
                                 <p class="subtitle subtitle-s fw-600">Experience the Future of Browsing.</p>
-                                <p class="subtitle subtitle-s">XDCPay is your gateway to experiencing the distributed web of tomorrow in your browser today. <!--Run XDC dApps directly in your browser without the need for a full XDC node. -->Securely store, send, and receive XDC and XRC20 tokens with XDCPay's self-hosted wallet.</p>
+                                <p class="subtitle subtitle-s">
+                                    XDCPay is your gateway to experiencing the distributed web of tomorrow in your browser today.
+                                    <!--Run XDC dApps directly in your browser without the need for a full XDC node. -->Securely store, send, and receive XDC and XRC20 tokens with XDCPay's self-hosted wallet.
+                                </p>
                                 <div class="btn-block d-block mt-4">
                                     <a href="https://chrome.google.com/webstore/detail/xdcpay/bocpokimicclpaiekenaeelehdjllofo" target="_blank"><button class="btn-blue">Download XDCPay</button></a>
                                     <a href="https://docs.xdc.org/xdc-tools/xdc-pay" target="_blank"><button class="btn-transp-bordered">Get Started</button></a>
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6">
-                                <div><img src="assets/images/inside-page/quick-tools-guide/xdcPay.png" alt="XDCPay" class="img-fluid br-20"></div>
+                                <div><img src="assets/images/inside-page/quick-tools-guide/xdcPay.png" alt="XDCPay" class="img-fluid br-20" /></div>
                             </div>
                         </div>
                     </div>
@@ -480,14 +485,15 @@
                                 <h3 class="title-m">XDC Network Remix</h3>
                                 <p class="subtitle subtitle-s fw-600">Develop with Ease.</p>
                                 <p class="subtitle subtitle-s">
-                                    XDC Network Remix, formerly known as Browser Solidity, is your web browser-based Integrated Development Environment (IDE). Write, deploy, and run solidity smart contracts with ease.<!-- Connect XDC Network Remix to your local development blockchain, the TestNet blockchain, or the MainNet blockchain via the XDC Network API.--></p>
+                                    XDC Network Remix, formerly known as Browser Solidity, is your web browser-based Integrated Development Environment (IDE). Write, deploy, and run solidity smart contracts with ease.<!-- Connect XDC Network Remix to your local development blockchain, the TestNet blockchain, or the MainNet blockchain via the XDC Network API.-->
+                                </p>
                                 <div class="btn-block d-block mt-4">
                                     <a href="https://remix.xinfin.network/" target="_blank"><button class="btn-blue">Use Remix</button></a>
                                     <a href="https://docs.xdc.org/xdc-tools/xdc-remix" target="_blank"><button class="btn-transp-bordered">Get Started</button></a>
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6">
-                                <div><img src="assets/images/inside-page/quick-tools-guide/xdcsRemix.png" alt="XDC Network Remix" class="img-fluid br-20"></div>
+                                <div><img src="assets/images/inside-page/quick-tools-guide/xdcsRemix.png" alt="XDC Network Remix" class="img-fluid br-20" /></div>
                             </div>
                         </div>
                     </div>
@@ -498,14 +504,17 @@
                             <div class="col-xl-6 col-lg-6 mb-5 mb-xl-0 mb-lg-0">
                                 <h3 class="title-m">XDC Network Faucet</h3>
                                 <p class="subtitle subtitle-s fw-600">Prepare for financial processes by accessing test currency.</p>
-                                <p class="subtitle subtitle-s">The XDC Apothem Network Faucet is a valuable resource for developers and users which allows you to request free XDC testnet tokens, which can be used to test applications and smart contracts on the XDC Apothem Network.</p>
+                                <p class="subtitle subtitle-s">
+                                    The XDC Apothem Network Faucet is a valuable resource for developers and users which allows you to request free XDC testnet tokens, which can be used to test applications and smart contracts on the XDC
+                                    Apothem Network.
+                                </p>
                                 <div class="btn-block d-block mt-4">
                                     <a href="https://www.apothem.network/" target="_blank"><button class="btn-blue">Apothem Network</button></a>
                                     <a href="https://www.apothem.network/#getTestXDC" target="_blank"><button class="btn-transp-bordered">Get Test XDC</button></a>
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6">
-                                <div><img src="assets/images/inside-page/quick-tools-guide/xdcFaucet.png" alt="XDC Faucet" class="img-fluid br-20"></div>
+                                <div><img src="assets/images/inside-page/quick-tools-guide/xdcFaucet.png" alt="XDC Faucet" class="img-fluid br-20" /></div>
                             </div>
                         </div>
                     </div>

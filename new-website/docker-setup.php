@@ -92,7 +92,7 @@
         </div>
         <div class="row justify-content-center">
             <div class="col-lg-4 col-md-4 mt-2 mb-2">
-                <div class="h-100 card p-4 dark-merg-gradient br-20 border-0">
+                <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info text-center">
                         <div class="step-num">1</div>
                         <div class="card-infoHead mt-3 mb-3">Collect Information</div>
@@ -101,7 +101,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 mt-2 mb-2">
-                <div class="h-100 card p-4 dark-merg-gradient br-20 border-0">
+                <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info text-center">
                         <div class="step-num">2</div>
                         <div class="card-infoHead mt-3 mb-3">Visit Our Forum</div>
@@ -110,7 +110,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 mt-2 mb-2">
-                <div class="h-100 card p-4 dark-merg-gradient br-20 border-0">
+                <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info text-center">
                         <div class="step-num">3</div>
                         <div class="card-infoHead mt-3 mb-3">Create Issue</div>
@@ -168,7 +168,7 @@
         </div>
         <div class="row justify-content-center">
             <div class="col-lg-6 col-md-6">
-                <div class="h-100 card p-3 dark-merg-gradient br-20 border-0">
+                <div class="h-100 card p-3 bg-light75 br-20 border-0">
                     <div class="card-info">
                         <div class="card-infoHead mt-3 mb-4">XDC Masternode Setup on MainNet using BootStrap (on AWS)</div>
                         <div class="tutorial container text-center ratio ratio-16x9">
@@ -178,7 +178,7 @@
                 </div>
             </div>
             <div class="col-lg-6 col-md-6">
-                <div class="h-100 card p-3 dark-merg-gradient br-20 border-0">
+                <div class="h-100 card p-3 bg-light75 br-20 border-0">
                     <div class="card-info">
                         <div class="card-infoHead mt-3 mb-4">XDC Masternode Setup on MainNet using Docker (on AWS)</div>
                         <div class="tutorial container text-center ratio ratio-16x9">
