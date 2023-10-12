@@ -11,7 +11,7 @@
         <div class="row">
             <div class="col-lg-10 offset-lg-1 hero-content">
                 <h1 class="title-m text-center mb-0">Ecosystem dApps</h1>
-                <h2 class="subtitle subtitle-s fw-500 text-center mb-0">Powering the Future of Blockchain - Unleash the Potential of XDC Utility Token! As a versatile settlement mechanism, XDC fuels the entire ecosystem, enabling lightning-fast and cost-effective transactions while revolutionizing the way DApps function.</h2>
+                <h2 class="subtitle subtitle-s fw-500 text-center mb-0">Powering the Future of Blockchain - Unleash the Potential of XDC Utility Token! As a versatile settlement mechanism, XDC fuels the entire ecosystem, enabling lightning-fast and cost-effective transactions while revolutionizing the way dApps function.</h2>
                 <!--<h2 class="subtitle subtitle-s fw-500 text-center mb-0">XDC token lies at the heart of XDC Network, and its transformative capabilities are truly awe-inspiring. As a versatile settlement mechanism, XDC fuels the entire ecosystem, enabling lightning-fast and cost-effective transactions while revolutionizing the way DApps function.</h2>-->
             </div>
         </div>
