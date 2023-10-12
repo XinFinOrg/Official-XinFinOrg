@@ -16,9 +16,12 @@
                 <h2 class="subtitle subtitle-m fw-500 text-center mb-0">
                     The Decentralized and Open Source Smart Contract Platform, Driven by Community for Seamless Execution of Enterprise-Friendly Use Cases such as Trade Finance and Payment.
                 </h2>
-                <div class="btn-block mb-0">
+                <div class="btn-block mt-4">
                     <a href="setup-masternode">
                         <button class="btn-blue">Become Validator</button>
+                    </a>
+                    <a href="quick-tools-guide">
+                        <button class="btn-transp-bordered">Quick Tools Guide</button>
                     </a>
                 </div>
             </div>
@@ -105,8 +108,8 @@
                     <a href="setup-masternode">
                         <button class="btn-blue">Join As Network Node</button>
                     </a>
-                    <a href="quick-tools-guide">
-                        <button class="btn-transp-bordered">Quick Tools Guide</button>
+                    <a href="about">
+                        <button class="btn-transp-bordered">About Us</button>
                     </a>
                 </div>
             </div>

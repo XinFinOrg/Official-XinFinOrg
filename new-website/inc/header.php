@@ -60,8 +60,8 @@
         <header class="autohide header-wrapper sticky-header">
             <div class="news-bar">
                 <p>
-                    XDC Network will be at ITFA Abu Dhabi Conference - October 11-13, 2023.
-                    <a href="https://2023conference.itfa.org/" target="_blank" class="news-bar-button">
+                    XDC Network will be at Future Blockchain Summit - October 15-18, 2023.
+                    <a href="https://www.futureblockchainsummit.com/" target="_blank" class="news-bar-button">
                         JOIN US
                         <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -77,7 +77,7 @@
                 <div class="navbar-content">
                     <div class="container d-flex align-items-center justify-content-between">
                         <div class="logo-wrapper">
-                            <a class="navbar-brand" href="#">
+                            <a class="navbar-brand" href="index">
                                 <img src="<?php echo base_url() ; ?>/assets/images/xdc-network-logo-white.svg" class="logo-white img-responsive" width="150" />
                                 <img src="<?php echo base_url() ; ?>/assets/images/xdc-network-logo.svg" class="logo-dark img-responsive" width="150" />
                             </a>
@@ -96,7 +96,6 @@
                                                 <li><a href="https://docs.xdc.community/" target="_blank">Developer Portal</a></li>
                                                 <li><a href="https://xdc.dev" target="_blank">Developers Forum</a></li>
                                                 <li><a href="https://github.com/XinFinorg" target="_blank">GitHub</a></li>
-                                                <li><a href="bounty">Apply for Bounty</a></li>
                                             </ul>
                                         </li>
                                         <li>
@@ -109,6 +108,7 @@
                                             <ul class="sub-menu">
                                                 <li><a href="developers-ecosystem-partners">Developers Ecosystem Partners</a></li>
                                                 <li><a href="join-community">Join Community</a></li>
+                                                <li><a href="community-bounty">Community Bounty</a></li>
                                                 <li><a href="https://howto.xinfin.org/media/articles/" target="_blank">Media</a></li>
                                                 <li><a href="events">Events</a></li>
                                             </ul>
@@ -201,7 +201,6 @@
                                             <li><a href="https://docs.xdc.community/" target="_blank">Developer Portal</a></li>
                                             <li><a href="https://xdc.dev" target="_blank">Developers Forum</a></li>
                                             <li><a href="https://github.com/XinFinorg" target="_blank">GitHub</a></li>
-                                            <li><a href="bounty">Apply for Bounty</a></li>
                                         </ul>
                                     </li>
                                     <a href="ecosystem-dapps">Ecosystem dApps</a>
@@ -210,6 +209,7 @@
                                         <ul class="sub-menu">
                                             <li><a href="developers-ecosystem-partners">Developers Ecosystem Partners</a></li>
                                             <li><a href="join-community">Join Community</a></li>
+                                            <li><a href="community-bounty">Community Bounty</a></li>
                                             <li><a href="https://howto.xinfin.org/media/articles/" target="_blank">Media</a></li>
                                             <li><a href="events">Events</a></li>
                                         </ul>

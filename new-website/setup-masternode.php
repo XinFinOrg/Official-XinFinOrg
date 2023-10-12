@@ -248,19 +248,12 @@
                 </div>
             </div>
         </div>
-
-        <!--<div class="row mt-5">
-                        <div class="col-lg-8 offset-lg-2 mb-5">
-                            <h3 class="title-m text-center">FAQs</h3>
-                            <div class="subtitle subtitle-s text-center">Here are some frequently asked questions.</div>
-                        </div>
-        			</div>-->
         <div class="row mt-4 justify-content-center">
-            <div class="col-lg-4 col-md-10 mt-2 mb-4">
+            <div class="col-lg-5 col-md-10 mt-2 mb-4">
                 <h3 class="title-m">FAQs</h3>
                 <div class="subtitle subtitle-s">Here are some frequently asked questions.</div>
             </div>
-            <div class="col-lg-6 col-md-10 mt-2 mb-2">
+            <div class="col-lg-7 col-md-10 mt-2 mb-2">
                 <div class="accordion accordion-flush fs-6" id="accordionFlushExample">
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="flush-headingOne">
@@ -300,6 +293,116 @@
                         </h2>
                         <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">Running a Masternode allows you to participate in the XDC Network actively, contribute to its operation, and earn rewards for your involvement.</div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="flush-headingFive">
+                            <button class="fw-500 accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive">
+                                How many Masternodes can I run simultaneously?
+                            </button>
+                        </h2>
+                        <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingFive" data-bs-parent="#accordionFlushExample">
+                            <div class="accordion-body">You can run as many Masternodes as you wish! However, each Masternode must meet specific requirements outlined on the XDC Network Masternode Setup page.</div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="flush-headingSix">
+                            <button class="fw-500 accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSix" aria-expanded="false" aria-controls="flush-collapseSix">
+                                What's the distinction between a Coinbase Address and a Masternode Owner Address?
+                            </button>
+                        </h2>
+                        <div id="flush-collapseSix" class="accordion-collapse collapse" aria-labelledby="flush-headingSix" data-bs-parent="#accordionFlushExample">
+                            <div class="accordion-body">The Coinbase Address is your Masternode address, whereas the Masternode Owner Address is associated with the wallet where you staked 10 million XDC.</div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="flush-headingSeven">
+                            <button class="fw-500 accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSeven" aria-expanded="false" aria-controls="flush-collapseSeven">
+                                When are Masternode rewards distributed on the XDC Network?
+                            </button>
+                        </h2>
+                        <div id="flush-collapseSeven" class="accordion-collapse collapse" aria-labelledby="flush-headingSeven" data-bs-parent="#accordionFlushExample">
+                            <div class="accordion-body">Masternode rewards are distributed to owners after each epoch, consisting of 900 blocks.</div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="flush-headingEight">
+                            <button class="fw-500 accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseEight" aria-expanded="false" aria-controls="flush-collapseEight">
+                                How long does it take to complete one epoch in the XDC Network?
+                            </button>
+                        </h2>
+                        <div id="flush-collapseEight" class="accordion-collapse collapse" aria-labelledby="flush-headingEight" data-bs-parent="#accordionFlushExample">
+                            <div class="accordion-body">An epoch completes in approximately 50 minutes, during which 900 blocks are mined.</div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="flush-headingNine">
+                            <button class="fw-500 accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseNine" aria-expanded="false" aria-controls="flush-collapseNine">
+                                What is the Transaction Per Second (TPS) capacity of the XDC Network?
+                            </button>
+                        </h2>
+                        <div id="flush-collapseNine" class="accordion-collapse collapse" aria-labelledby="flush-headingNine" data-bs-parent="#accordionFlushExample">
+                            <div class="accordion-body">Currently, the XDC Network boasts a robust capacity of 2000+ transactions per second (TPS).</div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="flush-headingTen">
+                            <button class="fw-500 accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTen" aria-expanded="false" aria-controls="flush-collapseTen">
+                                Is there a TestNet available for the XDC Network?
+                            </button>
+                        </h2>
+                        <div id="flush-collapseTen" class="accordion-collapse collapse" aria-labelledby="flush-headingTen" data-bs-parent="#accordionFlushExample">
+                            <div class="accordion-body">Certainly! You can explore and experiment with the XDC Network's TestNet at <a href="http://apothem.network" target="_blank">http://apothem.network</a>.</div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="flush-headingEleven">
+                            <button class="fw-500 accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseEleven" aria-expanded="false" aria-controls="flush-collapseEleven">
+                                Why is it essential to back up your Coinbase address?
+                            </button>
+                        </h2>
+                        <div id="flush-collapseEleven" class="accordion-collapse collapse" aria-labelledby="flush-headingEleven" data-bs-parent="#accordionFlushExample">
+                            <div class="accordion-body">Backing up your Coinbase address is crucial. If lost, your Masternode will be inaccessible, requiring you to resign from the network.</div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="flush-headingTwelve">
+                            <button class="fw-500 accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwelve" aria-expanded="false" aria-controls="flush-collapseTwelve">
+                                What happens if I lose my Coinbase address?
+                            </button>
+                        </h2>
+                        <div id="flush-collapseTwelve" class="accordion-collapse collapse" aria-labelledby="flush-headingTwelve" data-bs-parent="#accordionFlushExample">
+                            <div class="accordion-body">Loss of your Coinbase address results in your Masternode going offline. You will need to resign from the Masternode under such circumstances.</div>
+                        </div>
+                    </div>                    
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="flush-headingThirteen">
+                            <button class="fw-500 accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThirteen" aria-expanded="false" aria-controls="flush-collapseThirteen">
+                                What if I misplace my keystore or owner wallet's private key?
+                            </button>
+                        </h2>
+                        <div id="flush-collapseThirteen" class="accordion-collapse collapse" aria-labelledby="flush-headingThirteen" data-bs-parent="#accordionFlushExample">
+                            <div class="accordion-body">Losing your keystore or private key means your funds are inaccessible, and you won't receive rewards. Always ensure you have secure backups to prevent this loss.</div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="flush-headingFourteen">
+                            <button class="fw-500 accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFourteen" aria-expanded="false" aria-controls="flush-collapseFourteen">
+                                How long does it take to complete the resignation process for my node?
+                            </button>
+                        </h2>
+                        <div id="flush-collapseFourteen" class="accordion-collapse collapse" aria-labelledby="flush-headingFourteen" data-bs-parent="#accordionFlushExample">
+                            <div class="accordion-body">Resigning from a Masternode requires a 30-day period before you can retrieve your 10 million XDC.</div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="flush-headingFifteen">
+                            <button class="fw-500 accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFifteen" aria-expanded="false" aria-controls="flush-collapseFifteen">
+                                Why do I see my node marked as "slashed"?
+                            </button>
+                        </h2>
+                        <div id="flush-collapseFifteen" class="accordion-collapse collapse" aria-labelledby="flush-headingFifteen" data-bs-parent="#accordionFlushExample">
+                            <div class="accordion-body">If your node is down, it may be marked as "slashed". Ensure your node remains operational to avoid this status.</div>
                         </div>
                     </div>
                 </div>

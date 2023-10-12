@@ -1636,11 +1636,12 @@ footer .pattern-2 {
 .footer-widget a {
     font-size: 14px;
     color: #626262;
+	line-height: 18px!important;
 	text-decoration: none;
 	transition: all .5s ease-in-out;
 }
 .footer-widget a:hover {
-    color: #2a2a2a;
+    color: #121212;
 	text-decoration: none;
 }
 
@@ -1767,7 +1768,7 @@ body.darkTheme {
 	color: var(--dt-subText-color);
 }
 .darkTheme .footer-widget a:hover {
-    color: rgba(199,220,253,0.8);
+    color: rgba(199,220,253,1);
 }
 .darkTheme .footer-bottom {
 	border-color: rgba(54, 65, 82, 0.5);
