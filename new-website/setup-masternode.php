@@ -249,11 +249,11 @@
             </div>
         </div>
         <div class="row mt-4 justify-content-center">
-            <div class="col-lg-5 col-md-10 mt-2 mb-4">
+            <div class="col-lg-10 col-md-10 mt-2 mb-4">
                 <h3 class="title-m">FAQs</h3>
                 <div class="subtitle subtitle-s">Here are some frequently asked questions.</div>
             </div>
-            <div class="col-lg-7 col-md-10 mt-2 mb-2">
+            <div class="col-lg-10 col-md-10 mt-2 mb-2">
                 <div class="accordion accordion-flush fs-6" id="accordionFlushExample">
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="flush-headingOne">

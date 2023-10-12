@@ -171,7 +171,7 @@
                                         </li>
 
                                         <li>
-                                            <a href="#" class="cta"><button class="btn-blue">#BuildOnXDC</button></a>
+                                            <a href="ecosystem-dapps" class="cta"><button class="btn-blue">#BuildOnXDC</button></a>
                                         </li>
                                     </ul>
                                 </div>
