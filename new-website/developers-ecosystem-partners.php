@@ -24,19 +24,31 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="row justify-content-center">
-                    <div class="col-xl-5 col-lg-6 col-md-6 mt-2 mb-2">
+                    <div class="col-xl-6 col-lg-6 col-md-6 mt-2 mb-2">
                         <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                             <div class="card-info">
                                 <div class="card-infoHead mb-3">Become a Partner</div>
-                                <p class="fs-6 mb-0">Become a Partner and Build Innovative Solutions on XDC Network & Ecosystem Partners. Join our Partner Connect Program and gain access to programs, tools, and resources to build innovative blockchain solutions on XDC Network for your organization. Discover opportunities to contribute to XDC Network as a developer or ecosystem partner. Post at: <a href="https://www.xdc.dev/" target="_blank">www.xdc.dev</a></p>
+                                <p class="fs-6 mb-0">Become a Partner and Build Innovative Solutions on XDC Network & Ecosystem Partners. Join our Partner Connect Program and gain access to programs, tools, and resources to build innovative blockchain solutions on XDC Network for your organization. Discover opportunities to contribute to XDC Network as a developer or ecosystem partner.</p>
+                                <a href="https://forms.gle/iDMsnGdbqcjm1tgm9" target="_blank" class="btn socialHead-button mt-auto">
+                                Become a Partner
+                                <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                </svg>
+                            	</a>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-5 col-lg-6 col-md-6 mt-2 mb-2">
+                    <div class="col-xl-6 col-lg-6 col-md-6 mt-2 mb-2">
                         <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                             <div class="card-info">
                                 <div class="card-infoHead mb-3">Get Involved</div>
-                                <p class="fs-6 mb-0">Join Our XDC Network Developers Ecosystem Partners. Become part of the XDC Network community and collaborate with developers, artists, and accountants. Explore opportunities to contribute to the XDC Network Developers Ecosystem Partners program. Leverage your skills and professional background to help shape the future of XDC Network blockchain technology.</p>
+                                <p class="fs-6 mb-0"><!--Join Our XDC Network Developers Ecosystem Partners. -->Become part of the XDC Network community and collaborate with developers, artists, and accountants. Explore opportunities to contribute to the XDC Network Developers Ecosystem Partners program. Leverage your skills and professional background to help shape the future of XDC Network blockchain technology.</p>
+                                <a href="https://www.xdc.dev/" target="_blank" class="btn socialHead-button mt-auto">
+                                    XDC Forum
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -52,7 +64,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6 col-md-12 mb-4 mb-md-4 mb-lg-0">
                 <h3 class="title-m mb-3">Protocol Lab</h3>
-                <div class="subtitle subtitle-s">Safeguard Your Digital Assets for XDC Network with Trusted Custodian Wallet Services that supports XDC.</div>
+                <div class="subtitle subtitle-s mb-3">Protocol Lab Ecosystem Partners are a group of companies and organizations that are working together to support the development and adoption of the XDC Network.</div>
                 <div class="orderList subtitle subtitle-s">
                     <ul class="checkmark">
                         <li>Network Consensus, Network upgrades, Network tools</li>
@@ -174,7 +186,7 @@
             </div>
             <div class="col-lg-6 col-md-12 mb-4 mb-md-4 mb-lg-0 order-lg-2 order-md-1 order-sm-1 order-1">
                 <h3 class="title-m mb-3">Infrastructure Integration Level Developers</h3>
-                <div class="subtitle subtitle-s">Safeguard Your Digital Assets for XDC Network with Trusted Custodian Wallet Services that supports XDC.</div>
+                <div class="subtitle subtitle-s mb-3"> Infrastructure Integration Level Developers are companies and organizations that are working to integrate the XDC Network into their existing infrastructure and products.</div>
                 <div class="orderList subtitle subtitle-s">
                     <ul class="checkmark">
                         <li>Wallet Connectors, Exchange Connectors, Custodian Connectors</li>
@@ -191,7 +203,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6 col-md-12 mb-4 mb-md-4 mb-lg-0">
                 <h3 class="title-m mb-3">Application Level Developers</h3>
-                <div class="subtitle subtitle-s">Safeguard Your Digital Assets for XDC Network with Trusted Custodian Wallet Services that supports XDC.</div>
+                <div class="subtitle subtitle-s mb-3">Application Level Developers are companies and organizations that are building decentralized applications (dApps) on the XDC Network.</div>
                 <div class="orderList subtitle subtitle-s">
                     <ul class="checkmark">
                         <li>Smart contracts</li>
