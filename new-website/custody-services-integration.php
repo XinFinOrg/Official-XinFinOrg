@@ -125,7 +125,8 @@
                                         <p class="fs-6 mb-2"><a href="https://rpc.xinfin.network" target="_blank">https://rpc.xinfin.network</a></p>
                                         <p class="fs-6 mb-2"><a href="https://erpc.xinfin.network" target="_blank">https://erpc.xinfin.network</a></p>
                                         <p class="fs-6 mb-2"><a href="https://arpc.xinfin.network" target="_blank">https://arpc.xinfin.network</a></p>
-                                        <p class="fs-6 mb-0"><a href="https://earpc.xinfin.network" target="_blank">https://earpc.xinfin.network</a></p>
+                                        <p class="fs-6 mb-2"><a href="https://earpc.xinfin.network" target="_blank">https://earpc.xinfin.network</a></p>
+                                        <p class="fs-6 mb-0"><a href="https://xdc.public-rpc.com/" target="_blank">https://xdc.public-rpc.com/</a></p>
                                     </div>
                                 </div>
                             </div>

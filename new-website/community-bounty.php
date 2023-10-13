@@ -30,7 +30,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-9 col-md-9 col-sm-12 mb-4 mb-md-4 mb-lg-0">
                             <h3 class="title-xs mb-4">Pre-Approved Bounty</h3>
-                            <div class="subtitle subtitle-s mb-3 highlight"><i>Up to 120% XDC of cost incurred</i></div>
+                            <!--<div class="subtitle subtitle-s mb-3 highlight"><i>Up to 120% XDC of cost incurred</i></div>-->
                             <ul class="listStyle fs-6">
                                 <li>Get a quick pre-approval for the Bounty.</li>
                                 <li>Apply for any wallet, Custodian or Exchange integration or Building dapps on XDC Blockchain Network.</li>

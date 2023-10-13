@@ -1,6 +1,6 @@
 <?php 
     $title = "About XDC Network";
-    $desc = "Powering the Future of Blockchain - Unleash the Potential of XDC Utility Token!";
+    $desc = "The XDC Network is a community-driven platform designed for trade finance and payments.";
     
     include('inc/header.php') ?>
 
@@ -12,8 +12,7 @@
             <div class="col-lg-10 offset-lg-1 hero-content">
                 <h1 class="title-m text-center mb-0">About XDC Network</h1>
                 <h2 class="subtitle subtitle-s fw-500 text-center mb-0">
-                    The XDC Network, founded in 2017, is a community-driven platform designed for trade finance and payments. It is powered by dedicated developers, early adopters, and passionate advocates. The open-source platform offers a
-                    smart contract ecosystem for seamless global trade operations.
+                    The XDC Network, founded in 2017, is a community-driven platform designed for trade finance and payments. It is powered by dedicated developers, early adopters, and passionate advocates. The open-source platform offers a smart contract ecosystem for seamless global trade operations.
                 </h2>
                 <h2 class="subtitle subtitle-s fw-500 text-center mb-0">
                     With community-driven ethics, an optimized platform, and a commitment to global GDP growth, the XDC Network aims for a decentralized and inclusive blockchain future.
@@ -100,15 +99,6 @@
                         </a>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
-                        <a href="#" data-bs-toggle="modal" data-bs-target="#simon-bowles" class="team">
-                            <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/advisors/simon-bowles.jpg" class="img-fluid team-img br-15" />
-                                <h3 class="team-infoHead mt-3 mb-2">Simon Bowles</h3>
-                                <p class="text-muted lh-sm mb-0">Blockchain Advisor and Consultant</p>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#tadashi-yoshida" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
                                 <img src="assets/images/team/advisors/tadashi-yoshida.jpg" class="img-fluid team-img br-15" />
@@ -152,15 +142,6 @@
                                 <img src="assets/images/team/core-team/sunil-senapati.jpg" class="img-fluid team-img br-15" />
                                 <h3 class="team-infoHead mt-3 mb-2">Sunil Senapati</h3>
                                 <p class="text-muted lh-sm mb-0">Chief Operating Officer – Trade & Payments</p>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
-                        <a href="#" data-bs-toggle="modal" data-bs-target="#meenu-sarin" class="team">
-                            <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/core-team/meenu-sarin.jpg" class="img-fluid team-img br-15" />
-                                <h3 class="team-infoHead mt-3 mb-2">Meenu Sarin</h3>
-                                <p class="text-muted lh-sm mb-0">Asian Markets - Ecosystem Development</p>
                             </div>
                         </a>
                     </div>
@@ -264,34 +245,6 @@
                         <div class="long-desc">
                             <div class="mt-0 my-4">
                                 <p class="fs-6">Sydney holds a degree in computer science and has 20+ years commercial experience. He has spent the last 10 years working in the online marketing arena and was the CMO for a large FX brokerage.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="modal fade" id="simon-bowles" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
-            </div>
-            <div class="modal-body">
-                <div class="team-details-flex-row">
-                    <div class="team__img">
-                        <img src="assets/images/team/advisors/simon-bowles.jpg" class="img-fluid br-15" />
-                    </div>
-                    <div class="team__content">
-                        <div class="short-desc">
-                            <h2 class="fw-6">Simon Bowles</h2>
-                            <p class="fs-6">Blockchain Advisor and Consultant</p>
-                        </div>
-                        <div class="long-desc">
-                            <div class="mt-0 my-4">
-                                <p class="fs-6">Simon has almost 20 years experience across capital markets, fintech and Blockchain. He served as CEO of a leading European digital wallet and he has held other C-level positions within fintech in Malta.</p>
                             </div>
                         </div>
                     </div>
@@ -432,44 +385,6 @@
                                 <div class="cat-head mb-2">Connect on Social Media</div>
                                 <div>
                                     <a href="https://www.linkedin.com/in/sunilsenapati/" target="_blank">
-                                        <button class="btn btn-hover btn-linkedin"><i class="fa fa-paper-plane"></i> LinkedIn</button>
-                                    </a>
-                                </div>
-                            </div>
-                    	</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="modal fade" id="meenu-sarin" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
-            </div>
-            <div class="modal-body">
-                <div class="team-details-flex-row">
-                    <div class="team__img">
-                        <img src="assets/images/team/core-team/meenu-sarin.jpg" class="img-fluid team-img br-15">
-                    </div>
-                    <div class="team__content">
-                        <div class="short-desc">
-                            <h2 class="fw-6">Meenu Sarin</h2>
-                            <p class="fs-6">Asian Markets - Ecosystem Development</p>
-                        </div>
-                        <div class="long-desc">
-                            <div class="mt-0 my-4">
-                                <p class="fs-6">Meenu has an extensive experience of working across a multitude of deep tech domains and is now moving to Blockchain. At Singapore government's premier research agency, A*STAR, she helped provide pointers for potential research areas via deep technology market intelligence gained by leveraging ecosystem research and deriving insights. She is on the Executive Board of Singapore Semiconductor Industry Association. Meenu is now leveraging her experience and network towards evangelizing XinFin's pivotal blockchain technology.</p>
-                            </div>
-                        </div>
-                        <div class="team__footer">
-                            <div class="social-media border-top mt-4">
-                                <div class="cat-head mb-2">Connect on Social Media</div>
-                                <div>
-                                    <a href="https://www.linkedin.com/in/meenusarin/?originalSubdomain=sg" target="_blank">
                                         <button class="btn btn-hover btn-linkedin"><i class="fa fa-paper-plane"></i> LinkedIn</button>
                                     </a>
                                 </div>

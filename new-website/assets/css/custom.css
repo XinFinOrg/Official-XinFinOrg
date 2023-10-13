@@ -1991,12 +1991,12 @@ body.darkTheme {
     min-width: 55px;
 }
 .exchangeCard-header .desc.label {
-	background: rgb(243 245 246);
+	background: rgb(255 255 255);
 	border-radius: 6px;
 	padding: 6px 12px;
 }
 .darkTheme .exchangeCard-header .desc.label {
-	background: #1c2531;
+	background: #141c29;
 }
 .exchangeCard-type {
     display: flex;

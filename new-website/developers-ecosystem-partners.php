@@ -116,6 +116,14 @@
                 <div class="row custodian-wallets justify-content-lg-start justify-content-md-start justify-content-sm-center">
                     <div class="col-lg-4 col-md-4 col-sm-6 col-6">
                         <div>
+                            <a href="https://www.ankr.com/" target="_blank">
+                                <img src="assets/images/ecosystem-partners/ankr.svg" class="img-fluid iconD" />
+                                <img src="assets/images/ecosystem-partners/ankr-light.svg" class="img-fluid iconL" />
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-6 col-6">
+                        <div>
                             <a href="https://gitcoin.co/" target="_blank">
                                 <img src="assets/images/ecosystem-partners/gitcoin.svg" class="img-fluid iconD" />
                                 <img src="assets/images/ecosystem-partners/gitcoin-light.svg" class="img-fluid iconL" />
