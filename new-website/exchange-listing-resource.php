@@ -98,7 +98,7 @@
 </section>
 <!-- Listing Resource Ends -->
 
-<section class="px-80 pt-5 bg-lightgray">
+<section class="px-80 bg-lightgray">
     <div class="container">
         <div class="row">
             <div class="col-lg-10 offset-lg-1 mb-5">
@@ -248,23 +248,7 @@
                 <h3 class="title-m text-center">Wallet Extensions</h3>
             </div>
         </div>
-        <div class="row justify-content-center">
-            <div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
-                <div class="h-100 card p-4 bg-lightgray br-20 border-0">
-                    <div class="card-info text-center">
-                        <img src="assets/images/inside-page/exchange-listing/blockspay-light.svg" class="center img-fluid iconL" />
-                        <img src="assets/images/inside-page/exchange-listing/blockspay.svg" class="center img-fluid iconD" />
-                        <div class="card-infoHead mt-3 mb-3">BlocksPay</div>
-                        <p class="fs-6 mb-0">Secure Multiple Chains Wallet</p>
-                        <a href="https://chrome.google.com/webstore/detail/blockspay-secure-multiple/pogabilnghhbafaheaepaaeopjpleimd" target="_blank" class="btn socialHead-button mt-auto">
-                            Add Now
-                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                            </svg>
-                        </a>
-                    </div>
-                </div>
-            </div>
+        <div class="row justify-content-center">            
             <div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                     <div class="card-info text-center">
@@ -312,6 +296,22 @@
                         </a>
                         <a href="https://betawallet.xinfin.network" target="_blank" class="btn socialHead-button mt-auto">
                             Web Wallet - Beta
+                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                    <div class="card-info text-center">
+                        <img src="assets/images/inside-page/exchange-listing/blockspay-light.svg" class="center img-fluid iconL" />
+                        <img src="assets/images/inside-page/exchange-listing/blockspay.svg" class="center img-fluid iconD" />
+                        <div class="card-infoHead mt-3 mb-3">BlocksPay</div>
+                        <p class="fs-6 mb-0">Secure Multiple Chains Wallet</p>
+                        <a href="https://chrome.google.com/webstore/detail/blockspay-secure-multiple/pogabilnghhbafaheaepaaeopjpleimd" target="_blank" class="btn socialHead-button mt-auto">
+                            Add Now
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                             </svg>
