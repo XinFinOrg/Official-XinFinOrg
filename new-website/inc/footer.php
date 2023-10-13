@@ -27,6 +27,7 @@
                     <div class="footer-widget">
                         <div class="colHeader">Learn</div>
                             <a href="about">About Us</a><br/>
+                            <a href="xdpos">XDPoS 2.0</a><br/>
                             <a href="docs/whitepaper-tech.pdf" target="_blank">Technical White Paper</a><br/>
                             <a href="docs/whitepaper-business.pdf" target="_blank">Business White Paper</a><br/>
                             <!--<a href="#">Roadmap</a><br/>-->

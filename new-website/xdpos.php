@@ -1,6 +1,6 @@
 <?php 
-   $title = "Community Bounty";
-   $desc = "Community Support Bounty Program: Enhancing XDC Network Together";
+   $title = "XDPoS 2.0";
+   $desc = "Revolutionizing Trust in the Digital Era";
    
    include('inc/header.php') ?>
 <!-- Hero Home Starts -->
@@ -9,11 +9,10 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 offset-lg-1 hero-content">
-                <h1 class="title-m text-center mb-0">Community Bounty</h1>
-                <h2 class="subtitle subtitle-s fw-500 text-center mb-0">Community Support Bounty Program: Enhancing XDC Network Together!</h2>
+                <h1 class="title-m text-center mb-0">Welcome to XDPoS 2.0</h1>
+                <h2 class="subtitle subtitle-s fw-500 text-center mb-0">Revolutionizing Trust in the Digital Era!</h2>
                 <h2 class="subtitle subtitle-s fw-500 text-center mb-0">
-                    Welcome to the XDC Community Support Bounty Program, where innovation meets opportunity! We invite passionate individuals and teams to contribute to the growth of the XDC ecosystem. Here's your chance to make a
-                    difference and be generously rewarded for your efforts.
+                    In the heart of the XDC Network beats a groundbreaking innovation – the XinFin Delegated Proof-of-Stake consensus protocol 2.0 (XDPoS 2.0). As the digital ecosystem undergoes constant transformation, our solutions keep pace with this evolution. Say goodbye to the inefficiencies of the past and embrace a future where trust, accountability, and security converge seamlessly.
                 </h2>
             </div>
         </div>
@@ -21,51 +20,112 @@
 </section>
 <!-- Hero Home Ends -->
 
-<!-- Community Bounty Starts -->
+<!-- XDPoS Journey Starts -->
 <section class="px-80 pt-0 dark-curved">
     <div class="container p-relative">
-        <div class="row justify-content-center">
-            <div class="col-lg-10 col-md-12">
+        <div class="row justify-content-center mb-5">
+            <div class="col-lg-12">
                 <div class="card p-5 bg-lightgray br-20 border-0">
-                    <div class="row align-items-center">
-                        <div class="col-lg-9 col-md-9 col-sm-12 mb-4 mb-md-4 mb-lg-0">
-                            <h3 class="title-xs mb-4">Pre-Approved Bounty</h3>
-                            <div class="subtitle subtitle-s mb-3 highlight"><i>Up to 120% XDC of cost incurred</i></div>
-                            <ul class="listStyle fs-6">
-                                <li>Get a quick pre-approval for the Bounty.</li>
-                                <li>Apply for any wallet, Custodian or Exchange integration or Building dapps on XDC Blockchain Network.</li>
-                                <li><span class="fw-600">Program type:</span> Public bug bounty.</li>
-                                <li>Bounty subject to approval by governance community.</li>
-                            </ul>
-                        </div>
-                        <div class="col-lg-3 col-md-3 col-sm-12">
-                            <div class="mt-sm-2 mt-md-0 mt-lg-0">
-                                <div class="d-flex justify-content-center align-items-center">
-                                    <div class="btn-block">
-                                        <a href="https://forms.gle/e8EyGLLpBPw29WnC8" target="_blank">
-                                            <button class="btn-blue">Apply For Bounty</button>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                    <h3 class="title-xs mb-4">The Journey to Trust</h3>
+                    <div class="subtitle subtitle-s mb-2">In the Beginning, There Was Distrust</div>
+                    <p class="subtitle fs-6 mb-0">
+                        Human societies have thrived on collaboration, but historical systems were plagued by corruption and imbalance of power. Enter decentralized trust systems, where collaboration doesn't require blind faith. Blockchain
+                        1.0 introduced us to Bitcoin, a permissionless ledger with unmatched security. Ethereum brought us Blockchain 2.0, offering programmable smart contracts. Blockchain 3.0, powered by Proof of Stake, tackled scalability
+                        challenges. But something was missing: a judicial system to uphold the integrity of transactions.
+                    </p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row justify-content-center pt-5">
+            <div class="col-lg-12 mb-4">
+                <h3 class="title-m">Introducing Blockchain 4.0: XDPoS 2.0</h3>
+                <div class="subtitle subtitle-s">XDPoS 2.0 Credo: Security with Accountability</div>
+            </div>
+            <div class="col-lg-12">
+                <div class="subtitle subtitle-s">
+                    Our mission is clear – a blockchain is secure when sufficient participation is honest. If security is breached, every malicious actor is identified with cryptographic integrity. How do we achieve this? Through three core pillars:
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center mt-4">
+            <div class="col-lg-4 col-md-4 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                    <div class="card-info">
+                        <div class="card-infoHead mb-2">Master Node Election</div>
+                        <p class="fs-6 mt-3 mb-0">XDPoS 2.0 replaces wasteful Proof-of-Work with Delegated Proof-of-Stake. Master nodes, chosen through rigorous criteria, create and approve blocks. A random set of 108 master nodes forms a Byzantine Fault-Tolerant committee, ensuring decentralization without compromising security.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                    <div class="card-info">
+                        <div class="card-infoHead mb-2">The HotStuff Protocol</div>
+                        <p class="fs-6 mt-3 mb-0">HotStuff, our state-of-the-art Byzantine Fault-Tolerant protocol, guarantees deterministic security and resiliency to network asynchrony. Rounds, leaders, and voting rules ensure finality and eliminate forking, giving you a blockchain you can trust.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                    <div class="card-info">
+                        <div class="card-infoHead mb-2">Reward Mechanism</div>
+                        <p class="fs-6 mt-3 mb-0">In XDPoS 2.0, blocks are finalized in a mere 6 seconds, ensuring quick and fair rewards for master nodes. No more waiting, just instant acknowledgment of your contributions.</p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<!-- Community Bounty Ends -->
+<!-- XDPoS Journey Ends -->
 
 <section class="px-80 bg-lightgray">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-lg-10 col-md-12 mb-4">
-                <h3 class="title-m">DAOFIN</h3>
-                <div class="subtitle subtitle-s">DAO OF CHAIN</div>
+            <div class="col-lg-12 mb-4">
+                <h3 class="title-m text-center">Why XDPoS 2.0?</h3>
+                <div class="subtitle subtitle-s text-center">XDPoS 2.0 offers several compelling reasons for its adoption and use within the XDC Network and beyond.</div>
             </div>
-            <div class="col-lg-10 col-md-12">
-                <div class="subtitle subtitle-s">DAOFIN is a governance mechanism implemented within the XDC Network. DAOFIN allows community members to actively participate in decision-making processes and protocol upgrades, ensuring a decentralized and democratic approach to managing the network. Through DAOFIN, the community has a say in the network's development, making it more inclusive and less reliant on centralized control.</div>
+        </div>
+        <div class="row justify-content-center mt-4 mb-5">
+            <div class="col-lg-6 col-md-6 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                    <div class="card-info">
+                        <div class="card-infoHead mb-2">Swift Finalization</div>
+                        <p class="fs-6 mt-3 mb-0">Blocks are finalized in seconds, ensuring speedy transactions and reward distribution.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                    <div class="card-info">
+                        <div class="card-infoHead mb-2">Unparalleled Security</div>
+                        <p class="fs-6 mt-3 mb-0">Our protocol guarantees security against malicious actors, providing a safe environment for your transactions.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                    <div class="card-info">
+                        <div class="card-infoHead mb-2">Transparent Accountability</div>
+                        <p class="fs-6 mt-3 mb-0">Every action is accounted for, and every actor is held responsible, ensuring a trustworthy ecosystem.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                    <div class="card-info">
+                        <div class="card-infoHead mb-2">Incentivized Collaboration</div>
+                        <p class="fs-6 mt-3 mb-0">Master nodes are rewarded promptly, encouraging continuous participation and network growth.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row justify-content-center pt-5">
+            <div class="col-lg-10">
+                <h3 class="title-m text-center">Join the Revolution</h3>
+                <div class="subtitle subtitle-s text-center mb-3">Embrace the future of decentralized trust. Join us as we redefine the standards of security, transparency, and accountability. XDPoS 2.0 isn't just a protocol; it's a promise – a promise of trust in every transaction, a promise of security in every block, and a promise of accountability in every action.</div>
+                <div class="subtitle-m text-center"><i>Experience the Future – Experience XDPoS 2.0.</i></div>
             </div>
         </div>
     </div>
