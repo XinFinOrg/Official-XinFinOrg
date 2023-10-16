@@ -7,7 +7,7 @@
             <div class="row flex-row">
                 <div class="col-lg-3 col-md-3 col-sm-6 col-6 mb-4">
                     <div class="footer-widget">
-                    	<a class="navbar-brand" href="index">
+                    	<a class="navbar-brand" href="https://xinfin.org/">
                             <img src="<?php echo base_url() ; ?>/assets/images/xdc-network-logo-white.svg" class="iconD img-responsive" width="120" />
                             <img src="<?php echo base_url() ; ?>/assets/images/xdc-network-logo.svg" class="iconL img-responsive" width="120" />
                         </a>

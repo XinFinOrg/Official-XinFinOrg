@@ -77,7 +77,7 @@
                 <div class="navbar-content">
                     <div class="container d-flex align-items-center justify-content-between">
                         <div class="logo-wrapper">
-                            <a class="navbar-brand" href="index">
+                            <a class="navbar-brand" href="https://xinfin.org/">
                                 <img src="<?php echo base_url() ; ?>/assets/images/xdc-network-logo-white.svg" class="logo-white img-responsive" width="150" />
                                 <img src="<?php echo base_url() ; ?>/assets/images/xdc-network-logo.svg" class="logo-dark img-responsive" width="150" />
                             </a>
