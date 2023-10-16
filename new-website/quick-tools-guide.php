@@ -127,7 +127,6 @@
                 </a>
             </div>
             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
-
                 <a href="https://master.xinfin.network/" target="_blank" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="exchangeCard-header align-items-center">
@@ -429,7 +428,7 @@
 <!-- Other Tools Starts -->
 <section class="px-80 pt-5 bg-lightgray">
     <div class="container">
-        <div class="row align-items-center">
+        <div class="row align-items-center pb-5">
             <nav>
                 <div class="nav nav-pills transparant justify-content-center mb-3" id="nav-pills" role="tablist">
                     <button class="nav-link active" id="nav-xdcScan-tab" data-bs-toggle="tab" data-bs-target="#nav-xdcScan" type="button" role="tab" aria-controls="nav-xdcScan" aria-selected="false">XDCScan</button>
@@ -516,6 +515,34 @@
                             </div>
                             <div class="col-xl-6 col-lg-6">
                                 <div><img src="assets/images/inside-page/quick-tools-guide/xdcFaucet.png" alt="XDC Faucet" class="img-fluid br-20" /></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mt-5">
+            <div class="col-12">
+                <div class="card p-5 bg-light75 br-20 border-0">
+                    <div class="row align-items-center">
+                        <div class="col-lg-10 col-md-9 col-sm-12 mb-4 mb-md-4 mb-lg-0">
+                            <h3 class="title-xs text-center text-md-start text-lg-start mb-0">
+                                BlockChain Analysis available with Blockchain Intelligence Group.
+                            </h3>
+                            <!--<div class="subtitle subtitle-s text-center text-md-start text-lg-start">
+                                BlockChain Analysis Available With blockchain intelligence group.
+                            </div>-->
+                        </div>
+                        <div class="col-lg-2 col-md-3 col-sm-12">
+                            <div class="mt-sm-2 mt-md-0 mt-lg-0">
+                                <div class="d-flex justify-content-center align-items-center">
+                                    <div class="btn-block">
+                                        <a href="https://blockchaingroup.io/" target="_blank">
+                                            <button class="btn-blue">Visit Now</button>
+                                        </a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>

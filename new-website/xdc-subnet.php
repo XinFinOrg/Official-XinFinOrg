@@ -91,7 +91,7 @@
 <!-- Architecture Starts -->
 <section class="px-80 bg-lightgray">
     <div class="container p-relative">
-        <div class="row align-items-center">
+        <div class="row align-items-center pb-5">
             <div class="col-lg-6 col-md-12 mb-4 mb-md-4 mb-lg-0">
                 <h3 class="title-m mb-3">Architecture</h3>
                 <div class="subtitle subtitle-s">The architecture consists of the following key components owned by the customer:</div>
@@ -108,6 +108,52 @@
             <div class="col-lg-6 col-md-12">
                 <img src="assets/images/xdc-subnet-architecture.svg" class="img-fluid iconD" />
                 <img src="assets/images/xdc-subnet-architecture_light.svg" class="img-fluid iconL" />
+            </div>
+        </div>
+
+        <div class="row mt-5 pb-5">
+            <div class="col-lg-10 offset-lg-1 mb-0">
+                <h3 class="title-m text-center">A Quick and Easy Guide to Set up your XDC Network Subnet / Private Network</h3>
+                <div class="subtitle subtitle-s text-center">
+                    Learn how to create your XDC Network Subnet / Private Network. This guide will help you set up your Subnet / Private Network efficiently by following the instructions in the GitHub repository or Guide.
+                </div>
+                <div class="btn-block mt-4">
+                    <a href="https://docs.xdc.community/" target="_blank">
+                        <button class="btn-blue">Subnet Guide</button>
+                    </a>
+                    <a href="https://github.com/XinFinorg" target="_blank">
+                        <button class="btn-transp-bordered"><i class="fab fa-github me-1"></i> Subnet GitHub</button>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mt-5">
+            <div class="col-lg-10 offset-lg-1 mb-5">
+                <h3 class="title-m text-center">Visual Guide to Setup XDC Network Private Network / Subnet</h3>
+            </div>
+        </div>
+
+        <div class="row justify-content-center">
+            <div class="col-lg-6 col-md-6">
+                <div class="h-100 card p-3 bg-light75 br-20 border-0">
+                    <div class="card-info">
+                        <div class="card-infoHead mt-3 mb-4">Setting Up Your Own XDC-Subnet</div>
+                        <div class="tutorial container text-center ratio ratio-16x9">
+                            <iframe src="https://www.youtube.com/embed/VwfI4VTMUnY?si=VpFlH7anidYYHX-A" allowfullscreen="" class="br-20"></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6">
+                <div class="h-100 card p-3 bg-light75 br-20 border-0">
+                    <div class="card-info">
+                        <div class="card-infoHead mt-3 mb-4">Introducing the XDC Subnet</div>
+                        <div class="tutorial container text-center ratio ratio-16x9">
+                            <iframe src="https://www.youtube.com/embed/53zTfZCRQ_k?si=UDWkI9DlXxbZulNX" allowfullscreen="" class="br-20"></iframe>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
