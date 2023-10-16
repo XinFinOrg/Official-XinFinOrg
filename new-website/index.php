@@ -18,7 +18,7 @@
                 </h2>
                 <div class="btn-block mt-4">
                     <a href="setup-masternode">
-                        <button class="btn-blue">Become Validator</button>
+                        <button class="btn-blue">Become Masternode</button>
                     </a>
                     <a href="quick-tools-guide">
                         <button class="btn-transp-bordered">Quick Tools Guide</button>
