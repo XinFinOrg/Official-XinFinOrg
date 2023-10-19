@@ -12,7 +12,7 @@
                 <h1 class="title-m text-center mb-0">XDC Subnet</h1>
                 <h2 class="subtitle subtitle-s fw-500 text-center mb-0">
                     XDC Subnet is a technology that allows you to create a secure, scalable, and decentralized network within the XDC Ecosystem. It enables various use cases, including creating private subnets, deploying decentralized
-                    applications (DApps), and more.
+                    applications (dApps), and more.
                 </h2>
                 <h2 class="subtitle subtitle-s fw-500 text-center mb-0">
                     Are you ready to embark on a journey into the world of secure, scalable, and decentralized networks? Look no further than XDC Subnet, the cutting-edge technology that empowers you to create a digital realm tailored to

@@ -11,6 +11,7 @@
                             <img src="<?php echo base_url() ; ?>/assets/images/xdc-network-logo-white.svg" class="iconD img-responsive" width="120" />
                             <img src="<?php echo base_url() ; ?>/assets/images/xdc-network-logo.svg" class="iconL img-responsive" width="120" />
                         </a>
+                        <p><i>Success Depends<br>on Your Network</i></p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-6 col-6 mb-4">
@@ -27,7 +28,7 @@
                     <div class="footer-widget">
                         <div class="colHeader">Learn</div>
                             <a href="about">About Us</a><br/>
-                            <a href="xdpos">XDPoS 2.0</a><br/>
+                            <a href="xdpos">XDC 2.0</a><br/>
                             <a href="docs/whitepaper-tech.pdf" target="_blank">Technical White Paper</a><br/>
                             <a href="docs/whitepaper-business.pdf" target="_blank">Business White Paper</a><br/>
                             <!--<a href="#">Roadmap</a><br/>-->
@@ -69,7 +70,7 @@
                             <a href="contact">Contact Us</a><br/>
                             <a href="exchange-listing-resource">Exchange Listing Resource</a><br/>
                             <a href="custody-services-integration">Custody Services Integration</a><br/>
-                            <a href="https://xdc.org/resources/brand-assets" target="_blank">Brand Assets<svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></a><br/>
+                            <a href="brand-assets">Brand Assets</a><br/>
                             <a href="https://howto.xinfin.org/media/articles/" target="_blank">FAQs<svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></a><br/>
                     </div>
                 </div>

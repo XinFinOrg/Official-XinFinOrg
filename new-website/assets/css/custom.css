@@ -1645,6 +1645,15 @@ footer .pattern-2 {
 	text-decoration: none;
 }
 
+.footer-widget p {
+    font-size: 16px;
+    color: #626262;
+    line-height: 22px;
+}
+.darkTheme .footer-widget p {
+    color: var(--dt-subText-color);
+}
+
 .footer-bottom {
 	margin-top: 30px;
 	padding-top: 30px;

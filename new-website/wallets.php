@@ -64,7 +64,7 @@
                         <div class="d-flex justify-content-between">
                            <div class="pairs fw-500 ml-6">
                               <a href="https://app.freewallet.org/auth/registration" target="_blank" title="Web Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/web.svg"></a>
-                              <a href="https://play.google.com/store/apps/details?id=mw.org.freewallet.app" target="_blank" title="Android Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/android.svg"></a>
+                              <a href="https://bitcoin-and-crypto-blockchain-wallet-by-freewallet.en.uptodown.com/android" target="_blank" title="Android Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/android.svg"></a>
                               <a href="https://apps.apple.com/us/app/id1274003898?mt=8" target="_blank" title="iOS Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/ios.svg"></a>
                            </div>
                         </div>

@@ -162,7 +162,7 @@
                                         </div>
                                         <div class="d-flex gap-3">
                                             <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
-                                            <div class="pairs fw-500"><a href="https://cex.io/xdc-eur" target="_blank">EUR</a>, <a href="https://cex.io/xdc-usd" target="_blank">USD</a>, <a href="https://cex.io/xdc-usdt" target="_blank">USDT</a></div>
+                                            <div class="pairs fw-500"><a href="https://plus.cex.io/market/XDC-EUR" target="_blank">EUR</a>, <a href="https://plus.cex.io/market/XDC-USD" target="_blank">USD</a>, <a href="https://plus.cex.io/market/XDC-USDT" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -210,7 +210,26 @@
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
                                             <div class="icon">
-                                                <div class=""><img src="assets/images/exchanges/whitebit.svg" alt="WhitwHit" /></div>
+                                                <div class=""><img src="assets/images/exchanges/stealthex.svg" alt="StealthEX" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">StealthEX</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
+                                            <div class="pairs fw-500"><a href="https://stealthex.io/?to=xdc" target="_blank">Exchange Now</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/whitebit.svg" alt="WhiteBit" /></div>
                                             </div>
                                             <div class="desc">
                                                 <div class="card-infoHead">WhiteBit</div>
@@ -258,25 +277,6 @@
                                         <div class="d-flex gap-3">
                                             <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://www.bybit.com/en-US/trade/spot/XDC/USDT" target="_blank">USDT</a></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
-                                        <div class="exchangeCard-header">
-                                            <div class="icon">
-                                                <div class=""><img src="assets/images/exchanges/bkex.svg" alt="BKEX" /></div>
-                                            </div>
-                                            <div class="desc">
-                                                <div class="card-infoHead">BKEX</div>
-                                                <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
-                                            </div>
-                                        </div>
-                                        <div class="d-flex gap-3">
-                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
-                                            <div class="pairs fw-500"><a href="https://www.bkex.com/trade/XDC_USDT" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -504,7 +504,7 @@
                                         </div>
                                         <div class="d-flex gap-3">
                                             <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
-                                            <div class="pairs fw-500"><a href="https://www.probit.com/app/exchange/XDC-ETH" target="_blank">ETH</a>, <a href="https://www.probit.kr/app/exchange/XDC-KRW" target="_blank">KRW</a>, <a href="https://www.probit.com/app/exchange/XDC-USDT" target="_blank">USDT</a></div>
+                                            <div class="pairs fw-500"><a href="https://www.probit.com/app/exchange/XDC-ETH" target="_blank">ETH</a>, <a href="https://www.probit.com/app/exchange/XDC-USDT" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>

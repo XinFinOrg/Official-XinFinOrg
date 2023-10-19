@@ -44,7 +44,7 @@
                         <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                             <div class="card-info">
                                 <img src="assets/images/inside-page/about/community.svg" class="img-fluid" />
-                                <div class="card-infoHead mt-3 mb-3">Local Community Involvement</div>
+                                <div class="card-infoHead mt-3 mb-3">Community Engagement</div>
                                 <p class="fs-6 mb-0">
                                     Local communities play a pivotal role in the XDC Network's success. They actively raise awareness and drive widespread adoption of XDC's cutting-edge blockchain technology, ensuring its relevance and
                                     applicability across diverse regions.
