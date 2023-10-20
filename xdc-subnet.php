@@ -1,196 +1,300 @@
 <?php 
-$title = "XDC Subnet";
-$desc = "Visit this page to Create your Subnet using XDC Network. ";
+   $title = "XDC Subnet";
+   $desc = "An XDC Mainnet-like network owned by you, further protected by the Mainnet with total privacy.";
+   
+   include('inc/header.php') ?>
 
-include('inc/header.php') ?>
-<link rel='stylesheet' href='assets/css/app-new.css' type='text/css' media='all' />
-
-<section id="xdc-utility-banner" style="background: url('assets/images/xdc-protocol-banner-image2.png') #112b3c; background-repeat: no-repeat; background-position: bottom right;">
+<!-- Hero Home Starts -->
+<section class="px-200 px-t250-b100 hero-inside">
+    <!--<div class="container p-relative">-->
     <div class="container">
         <div class="row">
-            <div class="col-md-12">
-            <div class="bannertext">
-                <h1>Create your Subnet using XDC Network</h1>
-                <p>An XDC mainnet-like network owned by you, further protected by the mainnet with total privacy.</p>
+            <div class="col-lg-10 offset-lg-1 hero-content">
+                <h1 class="title-m text-center mb-0">XDC Subnet</h1>
+                <h2 class="subtitle subtitle-s fw-500 text-center mb-0">
+                    XDC Subnet is a technology that allows you to create a secure, scalable, and decentralized network within the XDC Ecosystem. It enables various use cases, including creating private subnets, deploying decentralized
+                    applications (dApps), and more.
+                </h2>
+                <h2 class="subtitle subtitle-s fw-500 text-center mb-0">
+                    Are you ready to embark on a journey into the world of secure, scalable, and decentralized networks? Look no further than XDC Subnet, the cutting-edge technology that empowers you to create a digital realm tailored to
+                    your needs within the thriving XDC Ecosystem.
+                </h2>
             </div>
+        </div>
+    </div>
+</section>
+<!-- Hero Home Ends -->
+
+<section class="px-80 bg-lightgray">
+    <div class="container p-relative">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="row justify-content-center">
+                    <div class="col-lg-8 mb-5">
+                        <h3 class="title-m text-center">Key Features</h3>
+                        <div class="subtitle subtitle-s text-center">Unlock the Future of Decentralized Networking with XDC Subnet.</div>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
+                        <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                            <div class="card-info">
+                                <img src="assets/images/inside-page/masternode/transaction-validation.svg" class="img-fluid" />
+                                <div class="card-infoHead mt-3 mb-3">Sovereignty</div>
+                                <p class="fs-6 mb-0">
+                                    Take charge of your destiny! XDC Subnet places the power firmly in your hands. You become the master of your domain, ensuring complete control over your data and transactions. Your network, your rules.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
+                        <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                            <div class="card-info">
+                                <img src="assets/images/inside-page/masternode/scalability.svg" class="img-fluid" />
+                                <div class="card-infoHead mt-3 mb-3">Scalability</div>
+                                <p class="fs-6 mb-0">
+                                    Whether you're a small business or a colossal enterprise, XDC Subnet is your perfect companion. Tailor your subnet to grow and evolve alongside your ambitions, effortlessly adapting to your application's
+                                    unique requirements.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
+                        <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                            <div class="card-info">
+                                <img src="assets/images/inside-page/masternode/security.svg" class="img-fluid" />
+                                <div class="card-infoHead mt-3 mb-3">Security</div>
+                                <p class="fs-6 mb-0">
+                                    Rest easy knowing that XDC Subnet is fortified by the robust consensus mechanism of the XDC Network. It's a fortress against threats, offering unparalleled resilience to attacks and ensuring the integrity
+                                    of your network.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
+                        <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                            <div class="card-info">
+                                <img src="assets/images/inside-page/masternode/privacy.svg" class="img-fluid" />
+                                <div class="card-infoHead mt-3 mb-3">Privacy</div>
+                                <p class="fs-6 mb-0">
+                                    Privacy is paramount. Configure your subnets to be private sanctuaries, granting access only to authorized users. Your data and transactions remain shielded from prying eyes, ensuring confidentiality and
+                                    trust.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
 </section>
 
-
-
-<section id="xdc-utility">
-  <div class="container">
-  	<div class="row">
-        <div class="col-md-12 col-sm-12 col-xs-12 mb-3">
-            <div class="usecase-box">
-                <h3 class="fw-7">Terminology Explained</h3>
-                <div class="orderList">
-                    <ul>
-                        <li><span class="fw-7">XDC mainnet-like network:</span> The subnet replicates the XDC mainnet with customized configurations. It inherits all the highly desired features of the XDC mainnet, including:</li>
-                        <ul>
-                            <li>State-of-the-art consensus engine with the highest BFT security</li>
-                            <li>Native EVM smart contract support so that you have an ocean of DApps to choose from or build your own</li>
-                            <li>High transaction capacity of 2000 TPS</li>
-                            <li>Direct access to all the great utility tools contributed by the active XDC developer community, such as wallets, explorers, forensics monitors, etc.</li>
-                            <li>First-class support from the XDC core technical team</li>
-                        </ul>
-                        <li><span class="fw-7">Owned by you:</span> The subnet will be a sovereign blockchain independent of the XDC mainnet. It will keep running regardless of the status of the XDC mainnet. Its infrastructure and data are all owned by the customer.</li>
-                        <li><span class="fw-7">Further protected by the mainnet:</span> Critical subnet consensus data is checkpointed to the XDC mainnet so that the history of the subnet is recorded in the XDC mainnet. Consequently, to successfully attack the subnet and revise its ledger (a.k.a. forking attack), the attacker will also need to fork the XDC mainnet. This way, the integrity and immutability of the subnet are protected by the XDC mainnet.<br />
-                        <p class="pt-1">In other words, the subnet will only be compromised if both itself and the XDC mainnet are attacked. This increases the security level of the subnet to S_subnet + S_xdc, where the security level S is the cost of attacking a network.</p></li>
-                        <li><span class="fw-7">Total privacy:</span> The subnet consensus data checkpointed to the XDC mainnet does not include nor imply any subnet transaction information. Thus, XDC mainnet users have no visibility into the subnet transactional data, which preserves the total privacy of the subnet.</li>
+<!-- Architecture Starts -->
+<section class="px-80">
+    <div class="container p-relative">
+        <div class="row align-items-center">
+            <div class="col-lg-6 col-md-12 mb-4 mb-md-4 mb-lg-0">
+                <h3 class="title-m mb-3">Architecture</h3>
+                <div class="subtitle subtitle-s">The architecture consists of the following key components owned by the customer:</div>
+                <div class="orderList subtitle subtitle-s">
+                    <ul class="checkmark">
+                        <li>A subnet driven by the XDC2.0 consensus engine, with system configurations tailored for the customer</li>
+                        <li>A relayer program that checkpoint critical consensus data of the subnet to the XDC Mainnet</li>
+                        <li>A smart contract in the XDC Mainnet that verifies and records the checkpoints</li>
+                        <li>Wallet APIs that enable additional protection of subnet transaction from the XDC Mainnet</li>
+                        <li>The subnet will also natively support XDC's abundant utility tools such as blockchain explorer and forensic monitor</li>
                     </ul>
                 </div>
-                <h3 class="fw-7">Visualization Suggestion</h3>
-                <p>The XDC mainnet and its subnets resemble the solar system, where the XDC mainnet is the sun and the subnets are the planets.</p>
             </div>
-            
-            <div class="usecase-box nobordershadow">
-                <h3 class="fw-7">Objectives</h3>
-                <p>We design a subnet for XDC enterprise customers to have:</p>
-                <div class="orderList">
-                    <ol class="ml-4">
-                        <li>a sovereign, permissioned, and high-performing blockchain (the subnet) fully owned by the customer</li>
-                        <li>a security level of the subnet transactions equivalent to the sum security of the subnet AND the XDC mainnet</li>
-                        <li>native EVM smart contract support</li>
-                        <li>total privacy (i.e., no visibility) of the subset transactions on the XDC mainnet</li>
-                    </ol>
+            <div class="col-lg-6 col-md-12">
+                <img src="assets/images/xdc-subnet-architecture.svg" class="img-fluid iconD" />
+                <img src="assets/images/xdc-subnet-architecture_light.svg" class="img-fluid iconL" />
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Architecture Ends -->
+
+<!-- Guides Starts -->
+<section class="px-80 bg-lightgray">
+    <div class="container p-relative">
+        <div class="row pb-5">
+            <div class="col-lg-10 offset-lg-1 mb-0">
+                <h3 class="title-m text-center">A Quick and Easy Guide to Set up your XDC Network Subnet / Private Network</h3>
+                <div class="subtitle subtitle-s text-center">
+                    Learn how to create your XDC Network Subnet / Private Network. This guide will help you set up your Subnet / Private Network efficiently by following the instructions in the GitHub repository or Guide.
+                </div>
+                <div class="btn-block mt-4">
+                    <a href="https://docs.xdc.community/" target="_blank">
+                        <button class="btn-blue">Subnet Guide</button>
+                    </a>
+                    <a href="https://github.com/XinFinorg" target="_blank">
+                        <button class="btn-transp-bordered"><i class="fab fa-github me-1"></i> Subnet GitHub</button>
+                    </a>
                 </div>
             </div>
         </div>
-        </div>
-    
-   <div class="row flex-row align-items-center">
-   		<div class="col-lg-6 col-md-5 col-sm-12 col-xs-12 mb-3">
-        	<h3 class="fw-7">Architecture</h3>
-            <p>The architecture consists of the following key components owned by the customer:</p>
-            <div class="orderList">
-            	<ol class="ml-4">
-                	<li>a subnet driven by the XDC2.0 consensus engine, with system configurations tailored for the customer</li>
-                    <li>a relayer program that checkpoint critical consensus data of the subnet to the XDC mainnet</li>
-                    <li>a smart contract in the XDC mainnet that verifies and records the checkpoints</li>
-                    <li>wallet APIs that enable additional protection of subnet transaction from the XDC mainnet</li>
-           		</ol>
-			</div>
-            <p>The subnet will also natively support XDC's abundant utility tools such as blockchain explorer and forensic monitor.</p>
-        </div>
-        <div class="col-lg-6 col-md-7 col-sm-12 col-xs-12 mb-3">
-   	    	<img src="assets/images/xdc-subnet-architecture.jpg" class="img-responsive" />
-        </div>
-   </div>
-   
-   <div class="row">
-   		<div class="col-lg-12 mb-3">
-            <h3 class="fw-7 fs-18 text-center">For any assistance or queries related to creating your Subnet using XDC Network, Contact Us by submitting this <a href="https://forms.gle/KQxw5DVbrMYrHv5N9" target="_blank">Google Form</a>.</h3>
-        </div>
-   </div>
-    
-    
-    <!--<div class="row">    
-    <div class="col-md-12 col-sm-12 col-xs-12 mb-3">
-        <div class="usecase-box">
-            <h3 class="fw-7">Terminology Explained</h3>
-            <div class="orderList">
-                <ul>
-                    <li><span class="fw-7">XDC mainnet-like network:</span> The subnet replicates the XDC mainnet with customized configurations. It inherits all the highly desired features of the XDC mainnet, including:</li>
-                    <ul>
-                    	<li>State-of-the-art consensus engine with the highest BFT security</li>
-                        <li>Native EVM smart contract support so that you have an ocean of DApps to choose from or build your own</li>
-                        <li>High transaction capacity of 2000 TPS</li>
-                        <li>Direct access to all the great utility tools contributed by the active XDC developer community, such as wallets, explorers, forensics monitors, etc.</li>
-                        <li>First-class support from the XDC core technical team</li>
-                    </ul>
-                    <li><span class="fw-7">Owned by you:</span> The subnet will be a sovereign blockchain independent of the XDC mainnet. It will keep running regardless of the status of the XDC mainnet. Its infrastructure and data are all owned by the customer.</li>
-                    <li><span class="fw-7">Further protected by the mainnet:</span> Critical subnet consensus data is checkpointed to the XDC mainnet so that the history of the subnet is recorded in the XDC mainnet. Consequently, to successfully attack the subnet and revise its ledger (a.k.a. forking attack), the attacker will also need to fork the XDC mainnet. This way, the integrity and immutability of the subnet are protected by the XDC mainnet.<br />
-                    <p class="pt-1">In other words, the subnet will only be compromised if both itself and the XDC mainnet are attacked. This increases the security level of the subnet to S_subnet + S_xdc, where the security level S is the cost of attacking a network.</p></li>
-                    <li><span class="fw-7">Total privacy:</span> The subnet consensus data checkpointed to the XDC mainnet does not include nor imply any subnet transaction information. Thus, XDC mainnet users have no visibility into the subnet transactional data, which preserves the total privacy of the subnet.</li>
-                </ul>
+
+        <div class="row mt-5">
+            <div class="col-lg-10 offset-lg-1 mb-5">
+                <h3 class="title-m text-center">Visual Guide to Setup XDC Network Private Network / Subnet</h3>
             </div>
-            <h3 class="fw-7">Visualization Suggestion</h3>
-            <p>The XDC mainnet and its subnets resemble the solar system, where the XDC mainnet is the sun and the subnets are the planets.</p>
         </div>
-        
-        <div class="usecase-box nobordershadow">
-        	<h3 class="fw-7">Objectives</h3>
-            We design a subnet for XDC enterprise customers to have:
-            <div class="orderList">
-                <ol class="ml-4">
-                    <li>a sovereign, permissioned, and high-performing blockchain (the subnet) fully owned by the customer</li>
-                    <li>a security level of the subnet transactions equivalent to the sum security of the subnet AND the XDC mainnet</li>
-                    <li>native EVM smart contract support</li>
-                    <li>total privacy (i.e., no visibility) of the subset transactions on the XDC mainnet</li>
-                </ol>
+
+        <div class="row justify-content-center">
+            <div class="col-lg-6 col-md-6">
+                <div class="h-100 card p-3 bg-light75 br-20 border-0">
+                    <div class="card-info">
+                        <div class="card-infoHead mt-3 mb-4">Setting Up Your Own XDC-Subnet</div>
+                        <div class="tutorial container text-center ratio ratio-16x9">
+                            <iframe src="https://www.youtube.com/embed/VwfI4VTMUnY?si=VpFlH7anidYYHX-A" allowfullscreen="" class="br-20"></iframe>
+                        </div>
+                    </div>
+                </div>
             </div>
-    	</div>
-    </div>
-    
-    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 mb-3">
-    </div>
-    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 mb-3">
-    </div>
-    
-    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
-        <div class="usecase-box">
-            <h3 class="fw-7">Optimum <span>(Recommended)</span></h3>
-            <div class="orderList">
-                <ul>
-                    <li><span class="fw-7">3 Node Subnet  -</span>  USD 10,000 per month</li>
-                    <li><span class="fw-7">Block explorer -</span> USD 10,000 per month</li>
-                    <li><span class="fw-7">Bridge to XDC Mainnet (public functionality) -</span> Stake 1,000,000 XDC or 25,000 FXD</li>
-                </ul>
+            <div class="col-lg-6 col-md-6">
+                <div class="h-100 card p-3 bg-light75 br-20 border-0">
+                    <div class="card-info">
+                        <div class="card-infoHead mt-3 mb-4">Introducing the XDC Subnet</div>
+                        <div class="tutorial container text-center ratio ratio-16x9">
+                            <iframe src="https://www.youtube.com/embed/53zTfZCRQ_k?si=UDWkI9DlXxbZulNX" allowfullscreen="" class="br-20"></iframe>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
-    
-    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
-        <div class="usecase-box">
-            <h3 class="fw-7">Enterprise <span>(Recommended)</span></h3>
-            <div class="orderList">
-                <ul>
-                    <li><span class="fw-7">5 Node Subnet  -</span>  USD 15,000 per month</li>
-                    <li><span class="fw-7">Block explorer -</span> USD 10,000 per month</li>
-                    <li><span class="fw-7">Bridge to XDC Mainnet (public functionality) -</span> Stake 2,000,000 XDC or 50,000 FXD</li>
-                </ul>
+</section>
+<!-- Guides Ends -->
+
+<section class="px-80">
+    <div class="container p-relative">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="row justify-content-center">
+                    <div class="col-lg-8 mb-5">
+                        <h3 class="title-m text-center">Versatile Use Cases</h3>
+                        <div class="subtitle subtitle-s text-center">XDC Subnet opens the door to a myriad of possibilities.</div>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
+                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                            <div class="card-info">
+                                <div class="card-infoHead mb-3">Private Blockchain Networks</div>
+                                <p class="fs-6 mb-0">Create confidential, customized blockchain networks for businesses and organizations that demand data secrecy.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
+                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                            <div class="card-info">
+                                <div class="card-infoHead mb-3">Cross-Chain Transactions</div>
+                                <p class="fs-6 mb-0">Seamlessly conduct cross-chain transactions between diverse blockchains, fostering interoperability.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
+                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                            <div class="card-info">
+                                <div class="card-infoHead mb-3">Supply Chain Security</div>
+                                <p class="fs-6 mb-0">Safeguard your supply chain by monitoring the movement of goods and materials with the precision of blockchain technology.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
+                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                            <div class="card-info">
+                                <div class="card-infoHead mb-3">Decentralized Applications</div>
+                                <p class="fs-6 mb-0">Deploy high-security, scalable DApps that are built to excel in the decentralized landscape.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
-    
-    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
-        <div class="usecase-box">
-            <h3 class="fw-7">Enterprise <span>(Recommended)</span></h3>
-            <div class="orderList">
-                <ul>
-                    <li><span class="fw-7">10 Node Subnet  -</span>  USD 30,000 per month</li>
-                    <li><span class="fw-7">Block explorer -</span> USD 20,000 per month</li>
-                    <li><span class="fw-7">Bridge to XDC Mainnet (public functionality) -</span> Stake 5,000,000 XDC or 125,000 FXD</li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    
-    <div class="col-md-4 col-sm-6 col-xs-12 mb-3">
-        <div class="usecase-box">
-            <h3 class="fw-7">XDC Supernet <span>(Recommended)</span></h3>
-            <div class="orderList">
-                <ul>
-                    <li><span class="fw-7">30 Node Subnet  -</span>  USD 100,000 per month</li>
-                    <li><span class="fw-7">Block explorer -</span> USD 40,000 per month</li>
-                    <li><span class="fw-7">Bridge to XDC Mainnet (public functionality) -</span> Stake 10,000,000 XDC or 250,000 FXD</li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    
-    </div>-->
-    
-  </div>
 </section>
 
-<!--<script>
-    var activeUrl = localStorage.getItem("currentUrl");
-    $('.nav.navbar-nav li:nth-child(3)').addClass('active');
-</script>-->
+<section class="px-80 bg-lightgray">
+    <div class="container p-relative">
+        <div class="row align-items-center">
+            <div class="col-lg-12">
+                <h3 class="title-m mb-3">Transformational Advantages</h3>
+                <div class="subtitle subtitle-s">
+                    XDC Subnet is a rapidly developing technology, and new use cases are being discovered all the time. If you are looking for a secure, scalable, and customizable blockchain platform, then XDC Subnet is a great option.
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center mt-5">
+            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                    <div class="card-info">
+                        <div class="card-infoHead mb-3">Cost-Effectiveness</div>
+                        <p class="fs-6 mb-0">Say goodbye to exorbitant fees. XDC Subnet offers a more cost-effective alternative to traditional blockchain networks, saving you resources and capital.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                    <div class="card-info">
+                        <div class="card-infoHead mb-3">Speed and Scalability</div>
+                        <p class="fs-6 mb-0">XDC Subnet is designed to be highly scalable, so it can handle a large number of transactions without sacrificing performance.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                    <div class="card-info">
+                        <div class="card-infoHead mb-3">Security Beyond Measure</div>
+                        <p class="fs-6 mb-0">Trust the battle-tested security of XDC Subnet, safeguarding your network from threats and vulnerabilities.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                    <div class="card-info">
+                        <div class="card-infoHead mb-3">Guarded Privacy</div>
+                        <p class="fs-6 mb-0">Customize your subnet to be a fortress of privacy, allowing only those with authorization to access your network's data and transactions.</p>
+                    </div>
+                </div>
+            </div>
 
+            <div class="col-lg-12 mt-5">
+                <p class="subtitle subtitle-s fw-500 text-center mb-0">
+                    Don't miss the chance to unlock the limitless potential of XDC Subnet. Embrace the future of decentralized networking today! For any assistance or queries related to creating your Subnet using XDC Network,
+                    <a href="https://forms.gle/KQxw5DVbrMYrHv5N9" target="_blank">Contact Us</a> now.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
 
+<!-- Need More Help Starts -->
+<section class="px-80">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2">
+                <h3 class="title-m text-center">Need More Help?</h3>
+                <div class="subtitle subtitle-s text-center">Seeking help with setting up an XDC masternode? Access XDC documents, ask in the XDC Forum, or join Telegram's Developers community for assistance.</div>
+            </div>
+        </div>
+        <div class="row mb-2">
+            <div class="col-lg-12 text-center">
+                <div class="btn-block multi mt-5">
+                    <a href="https://www.xdc.dev/" target="_blank">
+                        <button class="btn-blue"><i class="fas fa-comments me-1"></i> XDC Forum</button>
+                    </a>
+                    <a href="https://t.me/xinfintech" target="_blank">
+                        <button class="btn-blue"><i class="fa fa-paper-plane me-1"></i> Telegram Developers Community</button>
+                    </a>
+                    <a href="https://howto.xinfin.org/" target="_blank">
+                        <button class="btn-blue"><i class="fa fa-book me-1"></i> XDC Documents</button>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Need More Help Ends -->
 <?php include('inc/footer.php') ?>

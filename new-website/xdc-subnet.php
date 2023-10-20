@@ -3,6 +3,7 @@
    $desc = "An XDC Mainnet-like network owned by you, further protected by the Mainnet with total privacy.";
    
    include('inc/header.php') ?>
+
 <!-- Hero Home Starts -->
 <section class="px-200 px-t250-b100 hero-inside">
     <!--<div class="container p-relative">-->
@@ -24,7 +25,7 @@
 </section>
 <!-- Hero Home Ends -->
 
-<section class="px-80 pt-0">
+<section class="px-80 bg-lightgray">
     <div class="container p-relative">
         <div class="row">
             <div class="col-lg-12">
@@ -36,7 +37,7 @@
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
-                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                        <div class="h-100 card p-4 bg-light75 br-20 border-0">
                             <div class="card-info">
                                 <img src="assets/images/inside-page/masternode/transaction-validation.svg" class="img-fluid" />
                                 <div class="card-infoHead mt-3 mb-3">Sovereignty</div>
@@ -47,7 +48,7 @@
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
-                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                        <div class="h-100 card p-4 bg-light75 br-20 border-0">
                             <div class="card-info">
                                 <img src="assets/images/inside-page/masternode/scalability.svg" class="img-fluid" />
                                 <div class="card-infoHead mt-3 mb-3">Scalability</div>
@@ -59,7 +60,7 @@
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
-                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                        <div class="h-100 card p-4 bg-light75 br-20 border-0">
                             <div class="card-info">
                                 <img src="assets/images/inside-page/masternode/security.svg" class="img-fluid" />
                                 <div class="card-infoHead mt-3 mb-3">Security</div>
@@ -71,7 +72,7 @@
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
-                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                        <div class="h-100 card p-4 bg-light75 br-20 border-0">
                             <div class="card-info">
                                 <img src="assets/images/inside-page/masternode/privacy.svg" class="img-fluid" />
                                 <div class="card-infoHead mt-3 mb-3">Privacy</div>
@@ -89,9 +90,9 @@
 </section>
 
 <!-- Architecture Starts -->
-<section class="px-80 bg-lightgray">
+<section class="px-80">
     <div class="container p-relative">
-        <div class="row align-items-center pb-5">
+        <div class="row align-items-center">
             <div class="col-lg-6 col-md-12 mb-4 mb-md-4 mb-lg-0">
                 <h3 class="title-m mb-3">Architecture</h3>
                 <div class="subtitle subtitle-s">The architecture consists of the following key components owned by the customer:</div>
@@ -110,8 +111,14 @@
                 <img src="assets/images/xdc-subnet-architecture_light.svg" class="img-fluid iconL" />
             </div>
         </div>
+    </div>
+</section>
+<!-- Architecture Ends -->
 
-        <div class="row mt-5 pb-5">
+<!-- Guides Starts -->
+<section class="px-80 bg-lightgray">
+    <div class="container p-relative">
+        <div class="row pb-5">
             <div class="col-lg-10 offset-lg-1 mb-0">
                 <h3 class="title-m text-center">A Quick and Easy Guide to Set up your XDC Network Subnet / Private Network</h3>
                 <div class="subtitle subtitle-s text-center">
@@ -158,7 +165,7 @@
         </div>
     </div>
 </section>
-<!-- Architecture Ends -->
+<!-- Guides Ends -->
 
 <section class="px-80">
     <div class="container p-relative">
@@ -254,7 +261,7 @@
             </div>
 
             <div class="col-lg-12 mt-5">
-                <p class="subtitle subtitle-s fw-500 text-center mb-4">
+                <p class="subtitle subtitle-s fw-500 text-center mb-0">
                     Don't miss the chance to unlock the limitless potential of XDC Subnet. Embrace the future of decentralized networking today! For any assistance or queries related to creating your Subnet using XDC Network,
                     <a href="https://forms.gle/KQxw5DVbrMYrHv5N9" target="_blank">Contact Us</a> now.
                 </p>

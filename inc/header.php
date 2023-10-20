@@ -1,404 +1,286 @@
 <?php include('custom_function.php') ?>
-
 <!DOCTYPE html>
 <html lang="">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+        <meta name="description" content="<?= $desc?>" />
+        <meta name="author" content="xinfin.org" />
+        <meta name="google-site-verification" content="Cyc2Me8vkC1-nEbDuDD4XGU1nBAPkIOkCDGSjWp8Zus" />
 
-<head>
+        <link rel="apple-touch-icon" sizes="180x180" href="<?php echo base_url() ; ?>/assets/images/favicon/apple-touch-icon.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="<?php echo base_url() ; ?>/assets/images/favicon/favicon-32x32.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="<?php echo base_url() ; ?>/assets/images/favicon/favicon-16x16.png" />
+        <link rel="manifest" href="<?php echo base_url() ; ?>/assets/images/favicon/site.webmanifest" />
 
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-  <meta name="description" content="<?= $desc?>">
-  <meta name="author" content="">
-  <meta name="google-site-verification" content="Cyc2Me8vkC1-nEbDuDD4XGU1nBAPkIOkCDGSjWp8Zus" />
-  <link rel="icon" href="<?php echo base_url() ; ?>/assets/images/favicon.ico">
-  <title>
-    <?= $title; ?>
-  </title>
+        <title><?= $title; ?></title>
 
-  <!-- Bootstrap CSS -->
-  <!-- Local bootstrap CSS & JS -->
-  <link rel="stylesheet" media="screen" href="<?php echo base_url() ; ?>/assets/css/bootstrap.min.css">
-  <link rel="stylesheet" media="screen" href="<?php echo base_url() ; ?>/assets/css/style.css">
-  <!-- <link rel="stylesheet" media="screen" href="assets/css/style.scss"> -->
-  <link href="<?php echo base_url() ; ?>/assets/css/pagination.css" rel="stylesheet">
-  <link href="<?php echo base_url() ; ?>/assets/css/fontawesome-v5.9.0/all.css" rel="stylesheet">
-  <link href="<?php echo base_url() ; ?>/assets/css/font-awesome.min.css" rel="stylesheet">
-  
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
-  
-  <link href="<?php echo base_url() ; ?>/assets/css/animate.css" rel="stylesheet">
+        <!-- CSS -->
+        <link rel="stylesheet" media="screen" href="<?php echo base_url() ; ?>/assets/css/bootstrap.css" />
+        <link rel="stylesheet" media="screen" href="<?php echo base_url() ; ?>/assets/css/metismenu.css" />
+        <link rel="stylesheet" media="screen" href="<?php echo base_url() ; ?>/assets/css/custom.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" />
 
-  <style>
-    #back-to-top {
-      position: fixed;
-      bottom: 15px;
-      right: 15px;
-      z-index: 9999;
-      width: 40px;
-      height: 40px;
-      text-align: center;
-      line-height: 38px;
-      background-image: linear-gradient(to right, #25aae1, #2bbbad);
-      color: #FFFFFF;
-      cursor: pointer;
-      border: 0;
-      border-radius: 50px;
-      text-decoration: none;
-      transition: opacity 0.2s ease-out;
-      opacity: 0;
-    }
-    #back-to-top:hover {
-      background: #25aae1;
-    }
-    #back-to-top.show {
-      opacity: 1;
-    }
-    nav ul {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-    }
-    nav ul li {
-      display: block;
-      position: relative;
-    }
-    /* This hides the dropdowns */
-    nav li ul {
-      display: none;
-    }
-    nav ul li a {
-      display: block;
-      padding: 0.4em 1em;
-      text-decoration: none;
-      white-space: nowrap;
-      color: #fff;
-    }
-    nav ul li a:hover {
-      text-decoration: none;
-      background-color: #fff0;
-    }
-    /* Display the dropdown */
-    nav li:hover>ul {
-      display: block;
-      position: absolute;
-      font-size: 11px;
-      line-height: 12px;
-      list-style-type: square;
-      margin-top: -20px;
-      margin-left: 15px;
-    }
-    nav li:hover li {
-      float: none;
-    }
-    nav li:hover a {
-      background: #04192787;
-    }
-    nav li:hover li a:hover {
-      background: #04192787;
-      color: #42ffef;
-    }
-    .main-navigation li ul li {
-      border-top: 0;
-    }
-    /* Displays second level dropdowns to the right of the first level dropdown */
-    nav ul ul ul {
-      left: 100%;
-      top: 0;
-    }
-    /* Simple clearfix */
-    nav ul:before,
-    nav ul:after {
-      content: " ";
-      /* 1 */
-      display: table;
-      /* 2 */
-    }
-    nav ul:after {
-      clear: both;
-    }
-    @media (max-width: 1024px) {
-      nav li:hover>ul {
-        position: relative;
-      }
-    }
-    /*.navbar>.container .navbar-brand,
-    .navbar>.container-fluid .navbar-brand {
-      margin-left: 150px;
-      margin-right: 50px;
-    }*/
-	/*.navbar>.container {max-width:1000px;}*/
-  </style>
+        <!-- JS -->
+        <script src="<?php echo base_url() ; ?>/assets/js/jquery-1.12.4.min.js"></script>
+        <script src="<?php echo base_url() ; ?>/assets/js/popper.min.js"></script>
+        <script src="<?php echo base_url() ; ?>/assets/js/bootstrap.js"></script>
+        <script src="<?php echo base_url() ; ?>/assets/js/jquery.counterup.min.js"></script>
+        <script src="<?php echo base_url() ; ?>/assets/js/jquery.waypoints.min.js"></script>
+        <script src="<?php echo base_url() ; ?>/assets/js/metismenu.js"></script>
+        <script src="<?php echo base_url() ; ?>/assets/js/progresscircle.js"></script>
+        <script src="<?php echo base_url() ; ?>/assets/js/custom.js"></script>
 
-  <script src="<?php echo base_url() ; ?>/assets/js/jquery.js"></script>
-  <script src="<?php echo base_url() ; ?>/assets/js/jquery-1.11.3.min.js"></script><!--extra added for CMC widget-->
- 
-  <script src="<?php echo base_url() ; ?>/assets/js/bootstrap.min.js"></script>
-  <script type="text/javascript">
-    $(window).on("scroll", function () {
-      var top_offset = $(window).scrollTop();
-      if (top_offset >= 100) {
-        $('.navbar-fixed-top').addClass('sticky');
-      } else {
-        $('.navbar-fixed-top').removeClass('sticky');
-      }
-      //console.log(top_offset);
-    });
-  </script>
-  <!--  <script type="text/javascript">
-  $(document).ready(function() {
-    $("#header a[href*=#]").click(function(event){     
-        //event.preventDefault();
-        $('html,body').animate({scrollTop:$(this.hash).offset().top}, 400);
-    });
-	// document ready  
-	});
-	</script>   -->
+        <!-- Theme Switcher 
+	    <script src="<?php echo base_url() ; ?>/assets/js/switcher/js.cookie.js"></script>
+        <script src="<?php echo base_url() ; ?>/assets/js/switcher/jquery.style.switcher.js"></script>
+        
+    </head>
+    <body>
+        
+  		<!--<div class="preloader-wrap">
+            <div class="loader">
+              <div class="trackbar">
+                <div class="loadbar"></div>
+              </div>
+              <div class="glow"></div>
+            </div>
+  		</div>-->
 
-</head>
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112909645-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-112909645-1');
-</script>
-<script src="https://www.google.com/recaptcha/api.js" async defer></script>
-<body>
-
-
-  <div class="preloader-wrap">
-    <!-- <div class="percentage" id="precent"></div> -->
-    <div class="loader">
-      <div class="trackbar">
-        <div class="loadbar"></div>
-      </div>
-      <div class="glow"></div>
-    </div>
-  </div>
-  <!-- <div class='progress' id="progress_div">
-    <div class='bar' id='bar1'></div>
-    <div class='percent' id='percent1'></div>
-  </div> 
- 
-  <input type="hidden" id="progress_width" value="0"> -->
-
-  <div class="wrap">
-    <header id="header" class="header-fixed">
-      <nav class="navbar navbar-inverse navbar-fixed-top navbar-expand-md navbar-light bg-light">
-        <div class="container">
-          <div class="navbar-header">
-            <a class="navbar-brand" href="https://xinfin.org/">
-              <img src="<?php echo base_url() ; ?>/assets/images/logo-white.png" class="logo-white img-responsive" width="60">
-              <img src="<?php echo base_url() ; ?>/assets/images/logo-dark.png" class="logo-sticky img-responsive" width="60">
-            </a>
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbarNavDropdown" aria-expanded="false"
-              aria-controls="#navbarNavDropdown">
-              <span class="sr-only">Toggle navigation</span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-      
-          </div>
-          <!--<div class="collapse navbar-collapse" id="navbarNavDropdown" style="float:left">-->
-          <div class="collapse navbar-collapse" id="navbarNavDropdown">
-            <ul class="main-menu cf nav navbar-nav navbar-right">
-              <li class="nav-item">
-                <a href="index">Home</a>
-              </li>
-              <!--<li class="nav-item"><a href="works.php">How it works</a></li> -->
-              <li class="nav-item">
-                <a href="http://xinfin.network/" target="_blank">XDC Network</a>
-              </li>
-              <li class="nav-item">
-                <a href="xdc-utility">XDC Utility</a>
-              </li>
-              <li class="nav-item">
-                <a href="https://howto.xinfin.org/">Developer Portal</a>
-              </li>              
-              <li class="nav-item">
-                <a href="<?php echo base_url() ; ?>resources">Resource</a>
-              </li>
-              <li class="nav-item">
-                <a href="xdc-chain-network-tools-and-documents">Quick Tools Guide</a>
-              </li>
-              <li class="nav-item">
-                <a href="apply-for-funding">Apply For Funding</a>
-              </li>
-              
-              <!--<li>
-                <div class="m-dropdown">
-                  <div class="e-button open">
-                    <img src="assets/images/toggle-button.png" alt="Toggle" class="img-responsive">
-                    <div class="e-burger">
-                      <span></span>
-                      <span></span>
-                      <span></span>
-                      <span></span>
-                    </div>
-                  </div>
-                  <ul class="e-list">
-                    <li>
-                    	<a href="about.php">About us</a>
-                    </li>
-                    <li>
-                    	<a href="xdc.php">XDC</a>
-                    </li>
-                    <li>
-                    	<a href="documentation.php">Documentation</a>
-                    </li>
-                    <li>
-                    	<a href="contactus.php">CONTACT US</a>
-                    </li>
-                  </ul>
-                </div>
-              </li>-->
-
-
-            </ul>
-          </div>
+        <!-- SCROLL TO TOP -->
+        <div class="progress-wrap">
+            <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+                <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
+            </svg>
         </div>
-      </nav>
-    </header>
-    <a href="#" id="back-to-top" title="Back to top">&uarr;</a>
-    <script>
-      if ($('#back-to-top').length) {
-        var scrollTrigger = 100, // px
-          backToTop = function () {
-            var scrollTop = $(window).scrollTop();
-            if (scrollTop > scrollTrigger) {
-              $('#back-to-top').addClass('show');
-            } else {
-              $('#back-to-top').removeClass('show');
-            }
-          };
-        backToTop();
-        $(window).on('scroll', function () {
-          backToTop();
-        });
-        $('#back-to-top').on('click', function (e) {
-          e.preventDefault();
-          $('html,body').animate({
-            scrollTop: 0
-          }, 700);
 
-        });
-      }
-    </script>
+        <!-- ============= HEADER ============= -->
+        <header class="autohide header-wrapper sticky-header">
+            <div class="news-bar">
+                <p>
+                    XDC Network at Trade Finance Investor Day - October 19-20, 2023.
+                    <a href="https://www.tradefinancedistribution.com/events/trade-finance-investor-day-2023" target="_blank" class="news-bar-button">
+                        JOIN US
+                        <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                        </svg>
+                    </a>
+                </p>
+                <span class="closeNews"><i class="fas fa-close"></i></span>
+            </div>
 
-    <script>$(".e-list").slideUp(function () {
-        $(".e-button").removeClass("open");
-      });
-      $(".e-button").on("click", function () {
-        if ($(this).hasClass("open")) {
-          $(".e-list").slideUp(function () {
-            $(".e-button").removeClass("open");
-          });
-        } else {
-          $(this).addClass("open");
-          setTimeout(function () {
-            $(".e-list").stop().slideDown();
-          }, 50);
-        }
-      });</script>
+            <nav class="navbar">
+                <!--<div class="navbar-content d-flex">-->
+                <div class="navbar-content">
+                    <div class="container d-flex align-items-center justify-content-between">
+                        <div class="logo-wrapper">
+                            <a class="navbar-brand" href="https://xinfin.org/">
+                                <img src="<?php echo base_url() ; ?>/assets/images/xdc-network-logo-white.svg" class="logo-white img-responsive" width="150" />
+                                <img src="<?php echo base_url() ; ?>/assets/images/xdc-network-logo.svg" class="logo-dark img-responsive" width="150" />
+                            </a>
+                        </div>
+                        <div class="menu-wrapper d-flex flex-column">
+                            <!--<div class="main-menu d-flex align-items-center justify-content-between">-->
+                            <div class="main-menu">
+                                <div class="main-menu-left d-flex align-items-center">
+                                    <ul>
+                                        <li>
+                                            <a href="#">
+                                                Developers <span class="icon"><i class="fas fa-chevron-down"></i></span>
+                                            </a>
+                                            <ul class="sub-menu">
+                                                <li><a href="https://docs.xdc.community/" target="_blank">Documentation</a></li>
+                                                <li><a href="https://docs.xdc.community/" target="_blank">Developer Portal</a></li>
+                                                <li><a href="https://xdc.dev" target="_blank">Developers Forum</a></li>
+                                                <li><a href="https://github.com/XinFinorg" target="_blank">GitHub</a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="ecosystem-dapps">Ecosystem dApps</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                Community <span class="icon"><i class="fas fa-chevron-down"></i></span>
+                                            </a>
+                                            <ul class="sub-menu">
+                                                <li><a href="developers-ecosystem-partners">Developers Ecosystem Partners</a></li>
+                                                <li><a href="join-community">Join Community</a></li>
+                                                <li><a href="community-bounty">Community Bounty</a></li>
+                                                <li><a href="https://howto.xinfin.org/media/articles/" target="_blank">Media</a></li>
+                                                <li><a href="events">Events</a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                Tools <span class="icon"><i class="fas fa-chevron-down"></i></span>
+                                            </a>
+                                            <ul class="sub-menu">
+                                                <li><a href="https://explorer.xinfin.network" target="_blank">XDC Explorer</a></li>
+                                                <li><a href="https://stats1.xinfin.network" target="_blank">XDC Network Status</a></li>
+                                                <li><a href="https://faucet.apothem.network" target="_blank">XDC Faucet</a></li>
+                                                <li><a href="https://remix.xinfin.network" target="_blank">XDC Network Remix</a></li>
+                                            </ul>
+                                        </li>
 
-    <!-- <script>
-jQuery(document).ready(function($) {  
-// site preloader -- also uncomment the div in the header and the css style for #preloader
-$(window).load(function(){
-  $('#preloader').fadeOut('slow',function(){$(this).remove();});
-});
-});
-</script> -->
+                                        <li>
+                                            <a class="cta themeSwitcher ps-0">
+                                                <!--themeSwitcher Start-->
+                                                <div class="themeSwitcher">
+                                                    <button id="theme-toggle" class="btn btn-link btn-sm small" type="button">
+                                                        <span class="d-block-light">
+                                                            <svg
+                                                                stroke="currentColor"
+                                                                fill="currentColor"
+                                                                stroke-width="0"
+                                                                viewBox="0 0 24 24"
+                                                                focusable="false"
+                                                                class="chakra-icon css-13otjrl"
+                                                                height="1.5em"
+                                                                width="1.5em"
+                                                                xmlns="http://www.w3.org/2000/svg"
+                                                            >
+                                                                <path fill="none" d="M0 0h24v24H0z"></path>
+                                                                <path d="M10 2c-1.82 0-3.53.5-5 1.35C7.99 5.08 10 8.3 10 12s-2.01 6.92-5 8.65C6.47 21.5 8.18 22 10 22c5.52 0 10-4.48 10-10S15.52 2 10 2z"></path>
+                                                            </svg>
+                                                        </span>
+                                                        <span class="d-block-dark">
+                                                            <svg
+                                                                stroke="currentColor"
+                                                                fill="currentColor"
+                                                                stroke-width="0"
+                                                                viewBox="0 0 24 24"
+                                                                focusable="false"
+                                                                class="chakra-icon css-13otjrl"
+                                                                height="1.5em"
+                                                                width="1.5em"
+                                                                xmlns="http://www.w3.org/2000/svg"
+                                                            >
+                                                                <path fill="none" d="M0 0h24v24H0z"></path>
+                                                                <path
+                                                                    d="M6.76 4.84l-1.8-1.79-1.41 1.41 1.79 1.79 1.42-1.41zM4 10.5H1v2h3v-2zm9-9.95h-2V3.5h2V.55zm7.45 3.91l-1.41-1.41-1.79 1.79 1.41 1.41 1.79-1.79zm-3.21 13.7l1.79 1.8 1.41-1.41-1.8-1.79-1.4 1.4zM20 10.5v2h3v-2h-3zm-8-5c-3.31 0-6 2.69-6 6s2.69 6 6 6 6-2.69 6-6-2.69-6-6-6zm-1 16.95h2V19.5h-2v2.95zm-7.45-3.91l1.41 1.41 1.79-1.8-1.41-1.41-1.79 1.8z"
+                                                                ></path>
+                                                            </svg>
+                                                        </span>
+                                                    </button>
+                                                </div>
+                                                <!--themeSwitcher End-->
+                                            </a>
+                                        </li>
 
-    <!-- For page preloader -->
-    <!-- <script>
-document.onreadystatechange = function(e)
-{
-  if(document.readyState=="interactive")
-  {
-    var all = document.getElementsByTagName("*");
-    for (var i=0, max=all.length; i < max; i++) 
-    {
-      set_ele(all[i]);
-    }
-  }
-}
-function check_element(ele)
-{
-  var all = document.getElementsByTagName("*");
-  var totalele=all.length;
-  var per_inc=100/all.length;
-  if($(ele).on())
-  {
-    var prog_width=per_inc+Number(document.getElementById("progress_width").value);
-    document.getElementById("progress_width").value=prog_width;
-    $("#bar1").animate({width:prog_width+"%"},10,function(){
-      if(document.getElementById("bar1").style.width=="100%")
-      {
-        $(".progress").fadeOut("slow");
-      }     
-    });
-  }
-  else  
-  {
-    set_ele(ele);
-  }
-}
-function set_ele(set_element)
-{
-  check_element(set_element);
-}
-</script> -->
+                                        <li>
+                                            <a href="ecosystem-dapps" class="cta"><button class="btn-blue">#BuildOnXDC</button></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
 
-    <script>
-      var width = 100,
-        perfData = window.performance.timing, // The PerformanceTiming interface represents timing-related performance information for the given page.
-        EstimatedTime = -(perfData.loadEventEnd - perfData.navigationStart),
-        time = parseInt((EstimatedTime / 1000) % 60) * 100;
-      // Loadbar Animation
-      $(".loadbar").animate({
-        width: width + "%"
-      }, time);
-      // Loadbar Glow Animation
-      $(".glow").animate({
-        width: width + "%"
-      }, time);
-      // Percentage Increment Animation
-      var PercentageID = $("#precent"),
-        start = 0,
-        end = 100,
-        durataion = time;
-      animateValue(PercentageID, start, end, durataion);
-      function animateValue(id, start, end, duration) {
-        var range = end - start,
-          current = start,
-          increment = end > start ? 1 : -1,
-          stepTime = Math.abs(Math.floor(duration / range)),
-          obj = $(id);
-        var timer = setInterval(function () {
-          current += increment;
-          $(obj).text(current + "%");
-          //obj.innerHTML = current;
-          if (current == end) {
-            clearInterval(timer);
-          }
-        }, stepTime);
-      }
-      // Fading Out Loadbar on Finised
-      setTimeout(function () {
-        $('.preloader-wrap').fadeOut(300);
-      }, time);
-    </script>
-    
-    
-    
-    
-    
-<script>
-$(function () {
-  $('[data-toggle="tooltip"]').tooltip()
-})
-</script>
+                        <div id="hamburger">
+                            <span><i class="fas fa-bars"></i></span>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+            <!-- Mobile Nav -->
+            <div class="mobile-nav-one-wrapper">
+                <div class="row">
+                    <div class="mobile-nav-wrap">
+                        <div class="mobile-nav">
+                            <button type="button" class="close-nav">
+                                <i class="far fa-times-circle"></i>
+                            </button>
+                            <nav class="sidebar-nav">
+                                <ul class="metismenu" id="mobile-menu">
+                                    <li>
+                                        <a href="#" class="has-arrow">Developers</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="https://docs.xdc.community/" target="_blank">Documentation</a></li>
+                                            <li><a href="https://docs.xdc.community/" target="_blank">Developer Portal</a></li>
+                                            <li><a href="https://xdc.dev" target="_blank">Developers Forum</a></li>
+                                            <li><a href="https://github.com/XinFinorg" target="_blank">GitHub</a></li>
+                                        </ul>
+                                    </li>
+                                    <a href="ecosystem-dapps">Ecosystem dApps</a>
+                                    <li>
+                                        <a href="#" class="has-arrow">Community</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="developers-ecosystem-partners">Developers Ecosystem Partners</a></li>
+                                            <li><a href="join-community">Join Community</a></li>
+                                            <li><a href="community-bounty">Community Bounty</a></li>
+                                            <li><a href="https://howto.xinfin.org/media/articles/" target="_blank">Media</a></li>
+                                            <li><a href="events">Events</a></li>
+                                        </ul>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="has-arrow">Tools</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="https://explorer.xinfin.network" target="_blank">XDC Explorer</a></li>
+                                            <li><a href="https://stats1.xinfin.network" target="_blank">XDC Network Status</a></li>
+                                            <li><a href="https://faucet.apothem.network" target="_blank">XDC Faucet</a></li>
+                                            <li><a href="https://remix.xinfin.network" target="_blank">XDC Network Remix</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </nav>
+                            <!--<nav class="sidebar-nav mt-auto">-->
+                            <nav class="sidebar-nav">
+                                <ul class="metismenu" id="mobile-menu">
+                                    <li>
+                                        <a class="cta themeSwitcher ps-0">
+                                            <!--themeSwitcher Start-->
+                                            <div class="themeSwitcher">
+                                                <button id="theme-toggle-mob" class="btn btn-link btn-sm small" type="button">
+                                                    <span class="d-block-light">
+                                                        <svg
+                                                            stroke="currentColor"
+                                                            fill="currentColor"
+                                                            stroke-width="0"
+                                                            viewBox="0 0 24 24"
+                                                            focusable="false"
+                                                            class="chakra-icon css-13otjrl"
+                                                            height="1.5em"
+                                                            width="1.5em"
+                                                            xmlns="http://www.w3.org/2000/svg"
+                                                        >
+                                                            <path fill="none" d="M0 0h24v24H0z"></path>
+                                                            <path d="M10 2c-1.82 0-3.53.5-5 1.35C7.99 5.08 10 8.3 10 12s-2.01 6.92-5 8.65C6.47 21.5 8.18 22 10 22c5.52 0 10-4.48 10-10S15.52 2 10 2z"></path>
+                                                        </svg>
+                                                    </span>
+                                                    <span class="d-block-dark">
+                                                        <svg
+                                                            stroke="currentColor"
+                                                            fill="currentColor"
+                                                            stroke-width="0"
+                                                            viewBox="0 0 24 24"
+                                                            focusable="false"
+                                                            class="chakra-icon css-13otjrl"
+                                                            height="1.5em"
+                                                            width="1.5em"
+                                                            xmlns="http://www.w3.org/2000/svg"
+                                                        >
+                                                            <path fill="none" d="M0 0h24v24H0z"></path>
+                                                            <path
+                                                                d="M6.76 4.84l-1.8-1.79-1.41 1.41 1.79 1.79 1.42-1.41zM4 10.5H1v2h3v-2zm9-9.95h-2V3.5h2V.55zm7.45 3.91l-1.41-1.41-1.79 1.79 1.41 1.41 1.79-1.79zm-3.21 13.7l1.79 1.8 1.41-1.41-1.8-1.79-1.4 1.4zM20 10.5v2h3v-2h-3zm-8-5c-3.31 0-6 2.69-6 6s2.69 6 6 6 6-2.69 6-6-2.69-6-6-6zm-1 16.95h2V19.5h-2v2.95zm-7.45-3.91l1.41 1.41 1.79-1.8-1.41-1.41-1.79 1.8z"
+                                                            ></path>
+                                                        </svg>
+                                                    </span>
+                                                </button>
+                                            </div>
+                                            <!--themeSwitcher End-->
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="cta"><button class="btn-blue">#BuildOnXDC</button></a>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                    <div class="overlay"></div>
+                </div>
+            </div>
+        </header>
+    </head>
+</html>
