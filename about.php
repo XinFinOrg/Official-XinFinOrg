@@ -300,7 +300,7 @@
                         </div>
                         <div class="long-desc">
                             <div class="mt-0 my-4">
-                                <p class="fs-6">With over 14 years of experience in the technology field, Atul has played a crucial role in conceptualizing and demonstrating the first permissioned Blockchain system for the consortium of Top Asian banks. He has also co-founded Multi-Million Dollar Revenue company dedicated to the business of Airline Chartering. He is dedicated towards developing alliances and investor management, and aims to bridge the $5 trillion Government infrastructure gap, using XinFin's Blockchain applications.</p>
+                                <p class="fs-6">With over 14 years of experience in the technology field, Atul has played a crucial role in conceptualizing and demonstrating the first permissioned Blockchain system for the consortium of Top Asian banks. He has also co-founded Multi-Million Dollar Revenue company dedicated to the business of Airline Chartering. He is dedicated towards developing alliances and investor management, and aims to bridge the $5 trillion Government infrastructure gap, using XDC Network's Blockchain applications.</p>
                             </div>
                         </div>
                         <div class="team__footer">
@@ -338,7 +338,7 @@
                         </div>
                         <div class="long-desc">
                             <div class="mt-0 my-4">
-                                <p class="fs-6">As a serial entrepreneur working on the ideation and development of a Cloud hosting and a web infrastructure company, Ritesh's work has been recognized by the likes of Microsoft and BBC. Over the past 20 years, Ritesh has accumulated extensive experience in the fields of Cloud Hosting, Cloud Setup and Internet-Infrastructure. Ritesh is now leveraging his experience at XinFin in the areas of Blockchain and protocol setup.</p>
+                                <p class="fs-6">As a serial entrepreneur working on the ideation and development of a Cloud hosting and a web infrastructure company, Ritesh's work has been recognized by the likes of Microsoft and BBC. Over the past 20 years, Ritesh has accumulated extensive experience in the fields of Cloud Hosting, Cloud Setup and Internet-Infrastructure. Ritesh is now leveraging his experience at XDC Network in the areas of Blockchain and protocol setup.</p>
                             </div>
                         </div>
                         <div class="team__footer">
@@ -529,7 +529,7 @@
                         </div>
                         <div class="long-desc">
                             <div class="mt-0 my-4">
-                                <p class="fs-6">A cryptocurrency enthusiast, Confidence has been educating people & spreading the adoption of Blockchain technology across African Continent. A software & blockchain developer with Aftica's biggest exchanges called Golix & Bitpaya, he is also a Community Manager at HouseAfrica. A member of The Internet Society & the Bitcoin Community, he is also a blogger on Steemit. His experience with cryptocurrencies including Bitcoin, Dash, Smartcash & Steemit will help him create awareness about XinFin XDC & its use cases across local African community.</p>
+                                <p class="fs-6">A cryptocurrency enthusiast, Confidence has been educating people & spreading the adoption of Blockchain technology across African Continent. A software & blockchain developer with Aftica's biggest exchanges called Golix & Bitpaya, he is also a Community Manager at HouseAfrica. A member of The Internet Society & the Bitcoin Community, he is also a blogger on Steemit. His experience with cryptocurrencies including Bitcoin, Dash, Smartcash & Steemit will help him create awareness about XDC Network & its use cases across local African community.</p>
                             </div>
                         </div>
                         <div class="team__footer">
