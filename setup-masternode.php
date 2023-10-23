@@ -1,8 +1,11 @@
-<?php 
-    $title = "Setup Masternode - Empowering the XDC Network's Efficiency and Security";
-    $desc = "XDC Network Masternodes are the backbone of the network, ensuring lightning-fast transaction validation and enhanced security.";
-    
-    include('inc/header.php') ?>
+<?php
+$title =
+    "Setup Masternode - Empowering the XDC Network's Efficiency and Security";
+$desc =
+    'XDC Network Masternodes are the backbone of the network, ensuring lightning-fast transaction validation and enhanced security.';
+
+include 'inc/header.php';
+?>
 
 <!-- Hero Home Starts -->
 <section class="px-200 px-t250-b100 hero-inside">
@@ -79,7 +82,7 @@
             <div class="col-lg-4 col-md-4 mt-2 mb-2">
                 <div class="card bg-transparent overflow-hidden pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                     <div class="card-info text-center w-100">
-                        <div class="fw-600 lh-1 fs-1 mb-3 counter">108</div>
+                        <div class="fw-600 lh-1 fs-1 mb-3 counter-api"><span id="mn-masternodes">108</span></div>
                         <p class="fw-500 fs-6">Masternode</p>
                     </div>
                 </div>
@@ -87,7 +90,7 @@
             <div class="col-lg-4 col-md-4 mt-2 mb-2">
                 <div class="card bg-transparent overflow-hidden pt-4 pb-4 px-3 br-20 border-0">
                     <div class="card-info text-center w-100">
-                        <div class="fw-600 lh-1 fs-1 mb-3 counter">150</div>
+                        <div class="fw-600 lh-1 fs-1 mb-3 counter-api"><span id="standby">150</div>
                         <p class="fw-500 fs-6">StandBy Masternode</p>
                     </div>
                 </div>
@@ -95,7 +98,7 @@
             <div class="col-lg-4 col-md-4 mt-2 mb-2">
                 <div class="card bg-transparent overflow-hidden pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                     <div class="card-info text-center w-100">
-                        <div class="fw-600 lh-1 fs-1 mb-3"><span class="counter">2730.82</span> M</div>
+                        <div class="fw-600 lh-1 fs-1 mb-3"><span class="counter-api" id="tvl">2730.82</span> <span id="tvltext"></span></div>
                         <p class="fw-500 fs-6">Total XDC Locked</p>
                     </div>
                 </div>
@@ -440,4 +443,4 @@
 </section>
 <!-- Need More Help Ends -->
 
-<?php include('inc/footer.php') ?>
+<?php include 'inc/footer.php'; ?>

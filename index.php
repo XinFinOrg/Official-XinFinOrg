@@ -1,8 +1,10 @@
-<?php 
-    $title = "Decentralized Smart Contracts Platform";
-    $desc = "The Decentralized and Open Source Smart Contract Platform, Driven by Community for Seamless Execution of Enterprise-Friendly Use Cases such as Trade Finance and Payment.";
-    
-    include('inc/header.php') ?>
+<?php
+$title = 'Decentralized Smart Contracts Platform';
+$desc =
+    'The Decentralized and Open Source Smart Contract Platform, Driven by Community for Seamless Execution of Enterprise-Friendly Use Cases such as Trade Finance and Payment.';
+
+include 'inc/header.php';
+?>
 
 <!-- Hero Home Starts -->
 <section class="px-200 px-t250-b100 hero-home">
@@ -726,7 +728,7 @@
                     <div class="card-info">
                         <p class="fw-500">Transactions</p>
                         <div class="cardHead fw-600 lh-1">
-                            <span class="counter" id="transactionCount">470.55 </span>
+                            <span class="counter-api" id="transactionCount">470.55 </span>
                             <span id="transactionText"></span>
                         </div>
                         <div class="statsIcon">
@@ -739,8 +741,8 @@
                 <div class="card overflow-hidden pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <p class="fw-500">Contracts</p>
-                        <div class="cardHead fw-600 lh-1 counter">
-                            <span id="contractNumber">14,267</span>
+                        <div class="cardHead fw-600 lh-1">
+                            <span class="counter-api" id="contractNumber">14,267</span>
                             <span id="contractNumberText"></span>
                         </div>
                         <div class="statsIcon">
@@ -753,7 +755,7 @@
                 <div class="card overflow-hidden pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <p class="fw-500">Validators/Total Nodes</p>
-                        <div class="cardHead fw-600 lh-1"><span class="counter" id="masternodes">108</span>/<span class="counter" id="totalnodes">334</span></div>
+                        <div class="cardHead fw-600 lh-1"><span class="counter-api" id="masternodes">108</span>/<span class="counter-api" id="totalnodes">334</span></div>
                         <div class="statsIcon">
                             <img src="assets/images/icons/validators-nodes.png" class="img-fluid" />
                         </div>
@@ -912,4 +914,4 @@
 </section>
 <!-- Community Ends -->
 
-<?php include('inc/footer.php') ?>
+<?php include 'inc/footer.php'; ?>
