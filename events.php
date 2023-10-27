@@ -209,7 +209,7 @@
                     </div>
                     
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://hackverse.tech/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
+                        <a href="https://hackverse-tamil-nadu.devfolio.co/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/hackverse.jpg" class="img-fluid" alt="Hackverse Chennai India" />
                                 <div class="ftr-arrow">
