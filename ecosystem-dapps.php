@@ -2443,11 +2443,11 @@
                     <div class="project__content">
                         <div class="short-desc">
                             <h2 class="fw-6">Impel</h2>
-                            <p>ComTech Gold is redefining the tokenization infrastructure by the digitization of Gold using Blockchain Technology that allows both institutional and retail communities to get access to Gold electronically anywhere across the Globe.</p>
+                            <p>ISO 20022 compliant messaging: Redefining the standard for cross-border payments and financial messaging system on XDC Network.</p>
                         </div>
                         <div class="long-desc">
                             <div class="mt-0 my-4">
-                                <p>ComTech Gold tokens will be 100% backed by physical Gold in the form of Standardized 1 kg bars of 999 purity stored in a secured physical Vault custodian on a segregated and auditable basis. Working within regulatory frameworks, we aim to create an ecosystem built with integrity, transparency, and efficiency to encourage the financial industry to raise the bar and discover new ways to service the Global community.</p>
+                                <p>Impel is a fintech innovator that uses blockchain technology to deliver financial messaging, payments, and a bridge to the R3 Corda platform to future-facing banks and fintech. It provides a cost-effective alternative to legacy financial messaging solutions like SWIFT and SEPA. It uses a decentralized, enterprise-ready hybrid blockchain to securely and quickly send financial messages and payments and enable instant settlement.</p>
                             </div>
                         </div>
                         <div class="project__footer">
