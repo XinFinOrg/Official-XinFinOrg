@@ -548,40 +548,40 @@
                         <div class="col-lg-4 col-md-4 col-sm-6 col-6">
                            <div>
                               <a href="https://copper.co/" target="_blank">
-                              		<img src="assets/images/wallets/custodian/copper.svg" class="img-fluid iconD">
-                                    <img src="assets/images/wallets/custodian/copper-light.svg" class="img-fluid iconL">
+                              		<img src="assets/images/wallets/custodian/copper.svg" class="img-fluid iconD" alt="copper.co" >
+                                    <img src="assets/images/wallets/custodian/copper-light.svg" class="img-fluid iconL" alt="copper.co" >
                               </a>
                            </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-6 col-6">
                            <div>
                               <a href="https://custody.bitpanda.com/" target="_blank">
-                              	<img src="assets/images/wallets/custodian/bitpanda.svg" class="img-fluid iconD">
-                                <img src="assets/images/wallets/custodian/bitpanda-light.svg" class="img-fluid iconL">
+                              	<img src="assets/images/wallets/custodian/bitpanda.svg" class="img-fluid iconD" alt="custody.bitpanda.com" >
+                                <img src="assets/images/wallets/custodian/bitpanda-light.svg" class="img-fluid iconL" alt="custody.bitpanda.com" >
                               </a>
                            </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-6 col-6">
                            <div>
                               <a href="https://www.propine.com/" target="_blank">
-                              	<img src="assets/images/wallets/custodian/propine.svg" class="img-fluid iconD">
-                                <img src="assets/images/wallets/custodian/propine-light.svg" class="img-fluid iconL">
+                              	<img src="assets/images/wallets/custodian/propine.svg" class="img-fluid iconD" alt="propine.com" >
+                                <img src="assets/images/wallets/custodian/propine-light.svg" class="img-fluid iconL" alt="propine.com" >
                               </a>
                            </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-6 col-6">
                            <div>
                               <a href="https://www.lmnl.app/" target="_blank">
-                              	<img src="assets/images/wallets/custodian/liminal.svg" class="img-fluid iconD">
-                              	<img src="assets/images/wallets/custodian/liminal-light.svg" class="img-fluid iconL">
+                              	<img src="assets/images/wallets/custodian/liminal.svg" class="img-fluid iconD" alt="lmnl.app" >
+                              	<img src="assets/images/wallets/custodian/liminal-light.svg" class="img-fluid iconL" alt="lmnl.app" >
                               </a>
                            </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-6 col-6">
                            <div>
                               <a href="https://www.fireblocks.com/" target="_blank">
-                              	<img src="assets/images/wallets/custodian/fireblocks.svg" class="img-fluid iconD">
-                                <img src="assets/images/wallets/custodian/fireblocks-light.svg" class="img-fluid iconL">
+                              	<img src="assets/images/wallets/custodian/fireblocks.svg" class="img-fluid iconD" alt="fireblocks.com" >
+                                <img src="assets/images/wallets/custodian/fireblocks-light.svg" class="img-fluid iconL" alt="fireblocks.com" >
                               </a>
                            </div>
                         </div>

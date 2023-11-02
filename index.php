@@ -1,10 +1,8 @@
 <?php
-$title = 'Decentralized Smart Contracts Platform';
-$desc =
-    'The Decentralized and Open Source Smart Contract Platform, Driven by Community for Seamless Execution of Enterprise-Friendly Use Cases such as Trade Finance and Payment.';
+   $title = "Decentralized Smart Contracts Platform";
+   $desc = "The Decentralized and Open Source Smart Contract Platform, Driven by Community for Seamless Execution of Enterprise-Friendly Use Cases such as Trade Finance and Payment.";
 
-include 'inc/header.php';
-?>
+   include('inc/header.php') ?>
 
 <!-- Hero Home Starts -->
 <section class="px-200 px-t250-b100 hero-home">
@@ -12,11 +10,10 @@ include 'inc/header.php';
     <div class="container">
         <div class="row">
             <div class="col-lg-10 offset-lg-1 hero-content">
-                <!--<h1 class="title-m text-center mb-0">Unleash the Power of Digital Assets with XDC Network's Blockchain Ecosystem</h1>
-                    <h2 class="subtitle subtitle-m fw-500 text-center mb-0">Experience a seamless and efficient way to manage and transact digital assets with the XDC Network's Blockchain Ecosystem. Say goodbye to traditional intermediaries and enjoy faster, secure, and cost-effective asset transfers.</h2>-->
+                <!--<h1 class="title-m text-center mb-0">XDC, XDC Network, XinFin, XinFin Network, ISO20022, Secure smart contract, Interoperability, Corda bridge, Hybrid Blockchain, Blockchain, Layer1 blockchain, EVM, smartcontract</h1>-->
                 <h1 class="title-m text-center mb-0">Decentralized Smart Contracts Platform</h1>
                 <h2 class="subtitle subtitle-m fw-500 text-center mb-0">
-                    The Decentralized and Open Source Smart Contract Platform, Driven by Community for Seamless Execution of Enterprise-Friendly Use Cases such as Trade Finance and Payment.
+                    The Decentralized and Open Source Secure Smart Contract Platform, Driven by Community for Seamless Execution of Enterprise-Friendly Use Cases such as Trade Finance and Payment.
                 </h2>
                 <div class="btn-block mt-4">
                     <a href="setup-masternode">
@@ -42,7 +39,7 @@ include 'inc/header.php';
         <div class="row row-flex">
             <div class="col-lg-12">
                 <div class="row justify-content-center">
-                    <div class="col-lg-4 col-md-4 mt-2 mb-2">
+                    <div class="col-lg-3 col-md-3 mt-2 mb-2">
                         <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                             <a href="get-xdc" class="hero-ftr-card">
                                 <div class="card-info">
@@ -58,9 +55,9 @@ include 'inc/header.php';
                             </a>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 mt-2 mb-2">
+                    <div class="col-lg-3 col-md-3 mt-2 mb-2">
                         <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                            <a href="https://docs.xdc.community/" class="hero-ftr-card">
+                            <a href="https://docs.xdc.community/" target="_blank" class="hero-ftr-card">
                                 <div class="card-info">
                                     <div class="card-infoHead mb-3">Start Building</div>
                                     <!--<p class="fs-6 mb-0">Get access to our documents, and start building.</p>-->
@@ -74,7 +71,7 @@ include 'inc/header.php';
                             </a>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 mt-2 mb-2">
+                    <div class="col-lg-3 col-md-3 mt-2 mb-2">
                         <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                             <a href="ecosystem-dapps" class="hero-ftr-card">
                                 <div class="card-info">
@@ -84,6 +81,21 @@ include 'inc/header.php';
                                 </div>
                                 <div class="hero-ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 mt-2 mb-2">
+                        <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                            <a href="https://www.impel.global/r3-corda-bridge" target="_blank" class="hero-ftr-card">
+                                <div class="card-info">
+                                    <div class="card-infoHead mb-3">Interoperability By Bridges</div>
+                                    <p class="fs-6 mb-0">Interoperability by Corda Bridge/Wanchain Bridge.</p>
+                                </div>
+                                <div class="hero-ftr-arrow">
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="https://www.impel.global/r3-corda-bridge">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                     </svg>
                                 </div>
@@ -104,7 +116,7 @@ include 'inc/header.php';
             <div class="col-lg-10 offset-lg-1 mb-2">
                 <h3 class="title-m text-center">Blockchain Data</h3>
                 <div class="subtitle subtitle-s text-center">
-                    The XDC Network is a third-generation blockchain network with a capacity of up to 2000 transactions per second. It offers high-throughput and low-latency transactions.
+                The XDC Network is a secure, scalable third-generation blockchain network with a capacity of up to 2000 transactions per second. It offers high-throughput and low-latency transactions.
                 </div>
                 <div class="btn-block mt-4">
                     <a href="setup-masternode">
@@ -380,8 +392,8 @@ include 'inc/header.php';
                     <div class="row justify-content-center">
                         <div class="col-lg-4 col-md-4 mt-5 mb-2 px-3">
                             <div class="card-info h-100 d-flex flex-column">
-                                <img src="assets/images/icons/api-light.png" class="img-fluid iconL" />
-                                <img src="assets/images/icons/api.png" class="img-fluid iconD" />
+                                <img src="assets/images/icons/api-light.png" class="img-fluid iconL" alt="XDC API Documentation" />
+                                <img src="assets/images/icons/api.png" class="img-fluid iconD" alt="XDC API Documentation" />
                                 <div class="card-infoHead mt-3 mb-3">XDC API Documentation</div>
                                 <p class="fs-6 mb-0">
                                     <!--<p class="fs-6 text-white-75">-->
@@ -396,7 +408,7 @@ include 'inc/header.php';
                                 </a>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-4 mt-5 mb-2 px-3">
+                        <!--<div class="col-lg-4 col-md-4 mt-5 mb-2 px-3">
                             <div class="card-info h-100 d-flex flex-column">
                                 <img src="assets/images/icons/connect-light.png" class="img-fluid iconL" />
                                 <img src="assets/images/icons/connect.png" class="img-fluid iconD" />
@@ -411,14 +423,30 @@ include 'inc/header.php';
                                     </svg>
                                 </a>
                             </div>
+                        </div>-->
+                        <div class="col-lg-4 col-md-4 mt-5 mb-2 px-3">
+                            <div class="card-info h-100 d-flex flex-column">
+                                <img src="assets/images/icons/iso-light.png" class="img-fluid iconL" alt="ISO 20022 Compliant" />
+                                <img src="assets/images/icons/iso.png" class="img-fluid iconD" alt="ISO 20022 Compliant" />
+                                <div class="card-infoHead mt-3 mb-3">ISO 20022 Compliant</div>
+                                <p class="fs-6 mb-0">
+                                    XDC Protocol enables ISO 20022 compatible messaging for private and hybrid state, making it the language of core banking systems, ERP systems, SWIFT systems, and many more, with higher interoperability with legacy systems.
+                                </p>
+                                <a href="https://www.impel.global/" target="_blank" class="btn socialHead-button internalLink mt-auto">
+                                    Connect Now
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
                         </div>
                         <div class="col-lg-4 col-md-4 mt-5 mb-2 px-3">
                             <div class="card-info h-100 d-flex flex-column">
-                                <img src="assets/images/icons/smc-light.png" class="img-fluid iconL" />
-                                <img src="assets/images/icons/smc.png" class="img-fluid iconD" />
+                                <img src="assets/images/icons/smc-light.png" class="img-fluid iconL" alt="Secure Smart Contract" />
+                                <img src="assets/images/icons/smc.png" class="img-fluid iconD" alt="Secure Smart Contract" />
                                 <div class="card-infoHead mt-3 mb-3">Create Smart Contract</div>
                                 <p class="fs-6 mb-0">
-                                    Easily integrate legacy systems and blockchain platforms with XDC Network. Simplify smart contract deployment and enable interoperability across core banking systems, ERP systems, SWIFT systems, and more.
+                                    Easily integrate legacy systems and blockchain platforms with XDC Network. The purpose of XDC Origin is to simplify secure smart contract deployment and enable asset tokenization without custom programming expertise.
                                 </p>
                                 <a href="https://origin.xdc.org/" target="_blank" class="btn socialHead-button internalLink mt-auto">
                                     Deploy Smart Contract
@@ -698,7 +726,7 @@ include 'inc/header.php';
                         <div class="col-lg-5 col-md-5">
                             <div class="mt-sm-5 mt-md-0 mt-lg-0">
                                 <div class="d-flex justify-content-center align-items-center">
-                                    <img src="assets/images/networkImage.png" class="img-fluid" />
+                                    <img src="assets/images/networkImage.png" class="img-fluid" alt="Hybrid Blockchain, Layer1 Blockchain" />
                                 </div>
                             </div>
                         </div>
@@ -732,7 +760,7 @@ include 'inc/header.php';
                             <span id="transactionText"></span>
                         </div>
                         <div class="statsIcon">
-                            <img src="assets/images/icons/transactions.png" class="img-fluid" />
+                            <img src="assets/images/icons/transactions.png" class="img-fluid" alt="Secure Transactions" />
                         </div>
                     </div>
                 </div>
@@ -746,7 +774,7 @@ include 'inc/header.php';
                             <span id="contractNumberText"></span>
                         </div>
                         <div class="statsIcon">
-                            <img src="assets/images/icons/contracts.png" class="img-fluid" />
+                            <img src="assets/images/icons/contracts.png" class="img-fluid" alt="Secure smart contract" />
                         </div>
                     </div>
                 </div>
@@ -757,7 +785,7 @@ include 'inc/header.php';
                         <p class="fw-500">Validators/Total Nodes</p>
                         <div class="cardHead fw-600 lh-1"><span class="counter-api" id="masternodes">108</span>/<span class="counter-api" id="totalnodes">334</span></div>
                         <div class="statsIcon">
-                            <img src="assets/images/icons/validators-nodes.png" class="img-fluid" />
+                            <img src="assets/images/icons/validators-nodes.png" class="img-fluid" alt="XDC Masternodes" />
                         </div>
                     </div>
                 </div>
@@ -800,7 +828,7 @@ include 'inc/header.php';
                         <div class="col-lg-5 col-md-5">
                             <div class="mt-sm-5 mt-md-0 mt-lg-0">
                                 <div class="d-flex justify-content-center align-items-center">
-                                    <img src="assets/images/walletsImage.png" class="img-fluid" />
+                                    <img src="assets/images/walletsImage.png" class="img-fluid" alt="XDC Wallets" />
                                 </div>
                             </div>
                         </div>
@@ -914,4 +942,4 @@ include 'inc/header.php';
 </section>
 <!-- Community Ends -->
 
-<?php include 'inc/footer.php'; ?>
+<?php include('inc/footer.php') ?>

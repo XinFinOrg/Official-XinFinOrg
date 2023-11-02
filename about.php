@@ -31,7 +31,7 @@
                     <div class="col-lg-4 col-md-4 mt-2 mb-2">
                         <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                             <div class="card-info">
-                                <img src="assets/images/inside-page/about/global-trade.svg" class="img-fluid" />
+                                <img src="assets/images/inside-page/about/global-trade.svg" class="img-fluid" alt="Empowering Global Trade" />
                                 <div class="card-infoHead mt-3 mb-3">Empowering Global Trade</div>
                                 <p class="fs-6 mb-0">
                                     With its smart contract capabilities, the XDC Network empowers businesses and individuals to engage in secure and transparent transactions across international borders, promoting and facilitating global
@@ -43,7 +43,7 @@
                     <div class="col-lg-4 col-md-4 mt-2 mb-2">
                         <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                             <div class="card-info">
-                                <img src="assets/images/inside-page/about/community.svg" class="img-fluid" />
+                                <img src="assets/images/inside-page/about/community.svg" class="img-fluid" alt="XDC Community Engagement" />
                                 <div class="card-infoHead mt-3 mb-3">Community Engagement</div>
                                 <p class="fs-6 mb-0">
                                     Local communities play a pivotal role in the XDC Network's success. They actively raise awareness and drive widespread adoption of XDC's cutting-edge blockchain technology, ensuring its relevance and
@@ -55,7 +55,7 @@
                     <div class="col-lg-4 col-md-4 mt-2 mb-2">
                         <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                             <div class="card-info">
-                                <img src="assets/images/inside-page/about/mission.svg" class="img-fluid" />
+                                <img src="assets/images/inside-page/about/mission.svg" class="img-fluid" alt="Global GDP" />
                                 <div class="card-infoHead mt-3 mb-3">Mission to Boost Global GDP</div>
                                 <p class="fs-6 mb-0">
                                     The primary mission of the XDC Network is to contribute to the growth of the global GDP. By facilitating smoother infrastructure development and financial transactions, it aims to foster economic progress
@@ -92,7 +92,7 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#sydney-ifergan" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/advisors/sydney-ifergan.jpg" class="img-fluid team-img br-15" />
+                                <img src="assets/images/team/advisors/sydney-ifergan.jpg" class="img-fluid team-img br-15" alt="Sydney Ifergan" />
                                 <h3 class="team-infoHead mt-3 mb-2">Sydney Ifergan</h3>
                                 <p class="text-muted lh-sm mb-0">CMO, Crypto & ICO Expert</p>
                             </div>
@@ -101,7 +101,7 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#tadashi-yoshida" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/advisors/tadashi-yoshida.jpg" class="img-fluid team-img br-15" />
+                                <img src="assets/images/team/advisors/tadashi-yoshida.jpg" class="img-fluid team-img br-15" alt="Tadashi Yoshida" />
                                 <h3 class="team-infoHead mt-3 mb-2">Tadashi Yoshida</h3>
                                 <p class="text-muted lh-sm mb-0">Ecosystem Development, Japan</p>
                             </div>
@@ -121,7 +121,7 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#atul-khekade" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/core-team/atul-khekade.jpg" class="img-fluid team-img br-15" />
+                                <img src="assets/images/team/core-team/atul-khekade.jpg" class="img-fluid team-img br-15" alt="Atul Khekade" />
                                 <h3 class="team-infoHead mt-3 mb-2">Atul Khekade</h3>
                                 <p class="text-muted lh-sm mb-0">Co-Founder, Technology & Ecosystem Development</p>
                             </div>
@@ -130,7 +130,7 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#ritesh-kakkad" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/core-team/ritesh-kakkad.jpg" class="img-fluid team-img br-15" />
+                                <img src="assets/images/team/core-team/ritesh-kakkad.jpg" class="img-fluid team-img br-15" alt="Ritesh Kakkad" />
                                 <h3 class="team-infoHead mt-3 mb-2">Ritesh Kakkad</h3>
                                 <p class="text-muted lh-sm mb-0">Co-Founder, Early Investor, Blockchain Strategist</p>
                             </div>
@@ -139,7 +139,7 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#sunil-senapati" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/core-team/sunil-senapati.jpg" class="img-fluid team-img br-15" />
+                                <img src="assets/images/team/core-team/sunil-senapati.jpg" class="img-fluid team-img br-15" alt="Sunil Senapati" />
                                 <h3 class="team-infoHead mt-3 mb-2">Sunil Senapati</h3>
                                 <p class="text-muted lh-sm mb-0">Chief Operating Officer – Trade & Payments</p>
                             </div>
@@ -148,7 +148,7 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#bill-sebell" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/core-team/bill-sebell.jpg" class="img-fluid team-img br-15" />
+                                <img src="assets/images/team/core-team/bill-sebell.jpg" class="img-fluid team-img br-15" alt="Bill Sebell" />
                                 <h3 class="team-infoHead mt-3 mb-2">Bill Sebell</h3>
                                 <p class="text-muted lh-sm mb-0">Director of Ecosystem Development, North America</p>
                             </div>
@@ -157,7 +157,7 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#andre-casterman" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/core-team/andre-casterman.jpg" class="img-fluid team-img br-15" />
+                                <img src="assets/images/team/core-team/andre-casterman.jpg" class="img-fluid team-img br-15" alt="André Casterman" />
                                 <h3 class="team-infoHead mt-3 mb-2">André Casterman</h3>
                                 <p class="text-muted lh-sm mb-0">Advisory and Market Engagement</p>
                             </div>
@@ -166,7 +166,7 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#andrea-frosinini" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/core-team/andrea-frosinini.jpg" class="img-fluid team-img br-15" />
+                                <img src="assets/images/team/core-team/andrea-frosinini.jpg" class="img-fluid team-img br-15" alt="Andrea Frosinini" />
                                 <h3 class="team-infoHead mt-3 mb-2">Andrea Frosinini</h3>
                                 <p class="text-muted lh-sm mb-0">Senior Enterprise Analyst</p>
                             </div>
@@ -175,16 +175,43 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#confidence-nyirenda" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/core-team/confidence-nyirenda.jpg" class="img-fluid team-img br-15" />
+                                <img src="assets/images/team/core-team/confidence-nyirenda.jpg" class="img-fluid team-img br-15" alt="Confidence Nyirenda" />
                                 <h3 class="team-infoHead mt-3 mb-2">Confidence Nyirenda</h3>
                                 <p class="text-muted lh-sm mb-0">Ecosystem Development, Africa</p>
                             </div>
                         </a>
                     </div>
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
+                        <a href="#" data-bs-toggle="modal" data-bs-target="#rebecah-dausen" class="team">
+                            <div class="h-100 card bg-transparent br-20 border-0">
+                                <img src="assets/images/team/core-team/rebecah-dausen.jpg" class="img-fluid team-img br-15" alt="Rebecah Dausen" />
+                                <h3 class="team-infoHead mt-3 mb-2">Rebecah Dausen</h3>
+                                <p class="text-muted lh-sm mb-0">Lead of Ecosystem Development, Philippines XDC Network</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
+                        <a href="#" data-bs-toggle="modal" data-bs-target="#chen-shanlong" class="team">
+                            <div class="h-100 card bg-transparent br-20 border-0">
+                                <img src="assets/images/team/core-team/chen-shanlong.jpg" class="img-fluid team-img br-15" alt="Chen Shanlong" />
+                                <h3 class="team-infoHead mt-3 mb-2">Chen Shanlong</h3>
+                                <p class="text-muted lh-sm mb-0">Marketing & Partnerships Lead</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
+                        <a href="#" data-bs-toggle="modal" data-bs-target="#arturo-cantera" class="team">
+                            <div class="h-100 card bg-transparent br-20 border-0">
+                                <img src="assets/images/team/core-team/arturo-cantera.jpg" class="img-fluid team-img br-15" alt="Arturo Cantera" />
+                                <h3 class="team-infoHead mt-3 mb-2">Arturo Cantera</h3>
+                                <p class="text-muted lh-sm mb-0">Founder & CEO, Prime Numbers Labs, XDC Technology & Ecosystem Development</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#roland-jones" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/core-team/roland-jones.jpg" class="img-fluid team-img br-15" />
+                                <img src="assets/images/team/core-team/roland-jones.jpg" class="img-fluid team-img br-15" alt="Roland Q. Jones" />
                                 <h3 class="team-infoHead mt-3 mb-2">Roland Q. Jones</h3>
                                 <p class="text-muted lh-sm mb-0">Software Developer</p>
                             </div>
@@ -240,7 +267,7 @@
                     <div class="team__content">
                         <div class="short-desc">
                             <h2 class="fw-6">Sydney Ifergan</h2>
-                            <p class="fs-6">CMO, Crypto & ICO Expert</p>
+                            <p class="designation fs-6">CMO, Crypto & ICO Expert</p>
                         </div>
                         <div class="long-desc">
                             <div class="mt-0 my-4">
@@ -268,7 +295,7 @@
                     <div class="team__content">
                         <div class="short-desc">
                             <h2 class="fw-6">Tadashi Yoshida</h2>
-                            <p class="fs-6">Ecosystem Development, Japan</p>
+                            <p class="designation fs-6">Ecosystem Development, Japan</p>
                         </div>
                         <div class="long-desc">
                             <div class="mt-0 my-4">
@@ -296,7 +323,7 @@
                     <div class="team__content">
                         <div class="short-desc">
                             <h2 class="fw-6">Atul Khekade</h2>
-                            <p class="fs-6">Co-Founder, Technology & Ecosystem Development</p>
+                            <p class="designation fs-6">Co-Founder, Technology & Ecosystem Development</p>
                         </div>
                         <div class="long-desc">
                             <div class="mt-0 my-4">
@@ -334,7 +361,7 @@
                     <div class="team__content">
                         <div class="short-desc">
                             <h2 class="fw-6">Ritesh Kakkad</h2>
-                            <p class="fs-6">Co-Founder, Early Investor, Blockchain Strategist</p>
+                            <p class="designation fs-6">Co-Founder, Early Investor, Blockchain Strategist</p>
                         </div>
                         <div class="long-desc">
                             <div class="mt-0 my-4">
@@ -372,7 +399,7 @@
                     <div class="team__content">
                         <div class="short-desc">
                             <h2 class="fw-6">Sunil Senapati</h2>
-                            <p class="fs-6">Chief Operating Officer – Trade & Payments</p>
+                            <p class="designation fs-6">Chief Operating Officer – Trade & Payments</p>
                         </div>
                         <div class="long-desc">
                             <div class="mt-0 my-4">
@@ -411,7 +438,7 @@
                     <div class="team__content">
                         <div class="short-desc">
                             <h2 class="fw-6">Bill Sebell</h2>
-                            <p class="fs-6">Director of Ecosystem Development, North America</p>
+                            <p class="designation fs-6">Director of Ecosystem Development, North America</p>
                         </div>
                         <div class="long-desc">
                             <div class="mt-0 my-4">
@@ -449,7 +476,7 @@
                     <div class="team__content">
                         <div class="short-desc">
                             <h2 class="fw-6">André Casterman</h2>
-                            <p class="fs-6">Advisory and Market Engagement</p>
+                            <p class="designation fs-6">Advisory and Market Engagement</p>
                         </div>
                         <div class="long-desc">
                             <div class="mt-0 my-4">
@@ -487,7 +514,7 @@
                     <div class="team__content">
                         <div class="short-desc">
                             <h2 class="fw-6">Andrea Frosinini</h2>
-                            <p class="fs-6">Senior Enterprise Analyst</p>
+                            <p class="designation fs-6">Senior Enterprise Analyst</p>
                         </div>
                         <div class="long-desc">
                             <div class="mt-0 my-4">
@@ -525,7 +552,7 @@
                     <div class="team__content">
                         <div class="short-desc">
                             <h2 class="fw-6">Confidence Nyirenda</h2>
-                            <p class="fs-6">Ecosystem Development, Africa</p>
+                            <p class="designation fs-6">Ecosystem Development, Africa</p>
                         </div>
                         <div class="long-desc">
                             <div class="mt-0 my-4">
@@ -537,6 +564,120 @@
                                 <div class="cat-head mb-2">Connect on Social Media</div>
                                 <div>
                                     <a href="https://www.linkedin.com/in/confidencenyirenda/" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fa fa-paper-plane"></i> LinkedIn</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="rebecah-dausen" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="team-details-flex-row">
+                    <div class="team__img">
+                        <img src="assets/images/team/core-team/rebecah-dausen.jpg" class="img-fluid team-img br-15">
+                    </div>
+                    <div class="team__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Rebecah Dausen</h2>
+                            <p class="designation fs-6">Lead of Ecosystem Development, Philippines XDC Network</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p class="fs-6">During her web2.0 days, she managed spectrum of IT projects from website development, E-commerce platforms and web applications ensuring they are delivered on time, within in budget and SOW. She embarked on a transformative journey from the world of web2.0 into web3.0 not long ago and haven't look back since. As she journeys deeper into web3.0, she facilitates collaboration among individuals, projects, and organizations, fostering a dynamic XDC ecosystem where innovative ideas and blockchain solutions can flourish.</p>
+                            </div>
+                        </div>
+                        <!--<div class="team__footer">
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div>
+                                    <a href="https://www.linkedin.com/in/confidencenyirenda/" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fa fa-paper-plane"></i> LinkedIn</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>-->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="chen-shanlong" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="team-details-flex-row">
+                    <div class="team__img">
+                        <img src="assets/images/team/core-team/chen-shanlong.jpg" class="img-fluid team-img br-15">
+                    </div>
+                    <div class="team__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Chen Shanlong</h2>
+                            <p class="designation fs-6">Marketing & Partnerships Lead</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p class="fs-6">Formerly in TradFi (ex-Citi), Shanlong brings close to 10 years of Marketing experience in both Web2 & Web3.</p>
+                            </div>
+                        </div>
+                        <div class="team__footer">
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div>
+                                    <a href="https://www.linkedin.com/in/chenshanlong/" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fa fa-paper-plane"></i> LinkedIn</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="arturo-cantera" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="team-details-flex-row">
+                    <div class="team__img">
+                        <img src="assets/images/team/core-team/arturo-cantera.jpg" class="img-fluid team-img br-15">
+                    </div>
+                    <div class="team__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Arturo Cantera</h2>
+                            <p class="designation fs-6">Founder & CEO, Prime Numbers Labs, XDC Technology & Ecosystem Development</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p class="fs-6">Venturing into the realm of blockchain in 2016, Arturo's fervor for this groundbreaking technology and cryptocurrency is palpable. As the visionary leader and founder of Prime Numbers Labs, he has tirelessly championed innovation, fostered wider acceptance, and instilled transparency in the vast expanse of the cryptocurrency market. His steadfast commitment is evident in every stride taken by his company towards a more decentralized and transparent future.</p>
+                            </div>
+                        </div>
+                        <div class="team__footer">
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div>
+                                    <a href="https://www.linkedin.com/in/arturocantera/" target="_blank">
                                         <button class="btn btn-hover btn-linkedin"><i class="fa fa-paper-plane"></i> LinkedIn</button>
                                     </a>
                                 </div>
@@ -563,7 +704,7 @@
                     <div class="team__content">
                         <div class="short-desc">
                             <h2 class="fw-6">Roland Q. Jones</h2>
-                            <p class="fs-6">Software Developer</p>
+                            <p class="designation fs-6">Software Developer</p>
                         </div>
                         <div class="long-desc">
                             <div class="mt-0 my-4">

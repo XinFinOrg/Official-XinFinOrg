@@ -166,8 +166,8 @@ include 'inc/header.php';
                     <div class="col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
                         <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
                             <div class="card-info text-center">
-                                <img src="assets/images/inside-page/masternode/indsoft-light.svg" class="center logoHp img-fluid iconL" />
-                                <img src="assets/images/inside-page/masternode/indsoft.svg" class="center logoHp img-fluid iconD" />
+                                <img src="assets/images/inside-page/masternode/indsoft-light.svg" class="center logoHp img-fluid iconL" alt="indsoft.net" />
+                                <img src="assets/images/inside-page/masternode/indsoft.svg" class="center logoHp img-fluid iconD" alt="indsoft.net" />
                                 <div class="card-infoHead mt-5 mb-3">Indsoft System</div>
                                 <p class="fs-6 mb-0">Indsoft System is a simple, and easy to use masternode hosting platform for all your needs.</p>
                                 <a href="https://indsoft.net" target="_blank" class="btn socialHead-button mt-auto">
@@ -182,8 +182,8 @@ include 'inc/header.php';
                     <div class="col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
                         <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
                             <div class="card-info text-center">
-                                <img src="assets/images/inside-page/masternode/nodeforge-light.svg" class="center logoHp img-fluid iconL" />
-                                <img src="assets/images/inside-page/masternode/nodeforge.svg" class="center logoHp img-fluid iconD" />
+                                <img src="assets/images/inside-page/masternode/nodeforge-light.svg" class="center logoHp img-fluid iconL" alt="nodeforge.io" />
+                                <img src="assets/images/inside-page/masternode/nodeforge.svg" class="center logoHp img-fluid iconD" alt="nodeforge.io" />
                                 <div class="card-infoHead mt-5 mb-3">Node Forge</div>
                                 <p class="fs-6 mb-0">A non-custodial multi-cloud blockchain infrastructure and masternode hosting platform.</p>
                                 <a href="https://nodeforge.io/" target="_blank" class="btn socialHead-button mt-auto">

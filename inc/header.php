@@ -5,7 +5,10 @@
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+        <meta name="msapplication-TileColor" content="#0088cc">
+		<meta name="theme-color" content="#0088cc">
         <meta name="description" content="<?= $desc?>" />
+        <meta name="keywords" content="XDC, XDC Network, XinFin, XinFin Network, ISO20022, Secure smart contract, Interoperability, Corda bridge, Hybrid Blockchain, Blockchain, Layer1 blockchain, EVM, smartcontract">
         <meta name="author" content="xinfin.org" />
         <meta name="google-site-verification" content="Cyc2Me8vkC1-nEbDuDD4XGU1nBAPkIOkCDGSjWp8Zus" />
 

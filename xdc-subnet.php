@@ -107,8 +107,8 @@
                 </div>
             </div>
             <div class="col-lg-6 col-md-12">
-                <img src="assets/images/xdc-subnet-architecture.svg" class="img-fluid iconD" />
-                <img src="assets/images/xdc-subnet-architecture_light.svg" class="img-fluid iconL" />
+                <img src="assets/images/xdc-subnet-architecture.svg" class="img-fluid iconD" alt="XDC SUbnet" />
+                <img src="assets/images/xdc-subnet-architecture_light.svg" class="img-fluid iconL" alt="XDC SUbnet" />
             </div>
         </div>
     </div>
