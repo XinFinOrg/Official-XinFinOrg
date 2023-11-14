@@ -36,7 +36,7 @@
         <script src="<?php echo base_url() ; ?>/assets/js/progresscircle.js"></script>
         <script src="<?php echo base_url() ; ?>/assets/js/custom.js"></script>
 
-        <!-- Theme Switcher 
+        <!-- Theme Switcher -->
 	    <script src="<?php echo base_url() ; ?>/assets/js/switcher/js.cookie.js"></script>
         <script src="<?php echo base_url() ; ?>/assets/js/switcher/jquery.style.switcher.js"></script>
         
