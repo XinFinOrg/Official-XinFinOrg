@@ -10,7 +10,7 @@
         <meta name="description" content="<?= $desc?>" />
         <meta name="keywords" content="XDC, XDC Network, XinFin, XinFin Network, ISO20022, Secure smart contract, Interoperability, Corda bridge, Hybrid Blockchain, Blockchain, Layer1 blockchain, EVM, smartcontract">
         <meta name="author" content="xinfin.org" />
-        <meta name="google-site-verification" content="Cyc2Me8vkC1-nEbDuDD4XGU1nBAPkIOkCDGSjWp8Zus" />
+        <meta name="google-site-verification" content="Q-1zQ9ZbRuvDe3LWxJTjUqaScehi5HJUfadP0h8NNSE" />
 
         <link rel="apple-touch-icon" sizes="180x180" href="<?php echo base_url() ; ?>/assets/images/favicon/apple-touch-icon.png" />
         <link rel="icon" type="image/png" sizes="32x32" href="<?php echo base_url() ; ?>/assets/images/favicon/favicon-32x32.png" />
