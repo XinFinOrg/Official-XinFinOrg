@@ -509,9 +509,12 @@ function canvasApp(canvas) {
       "https://master.xinfin.network/api/candidates/masternodes"
     );
     const nodeDataJson = await nodeData.json();
-    const masternodes = nodeDataJson.activeCandidates;
+    // const masternodes = nodeDataJson.activeCandidates;
+    const masternodes = 108;
     const totalnodes =
-      nodeDataJson.totalResigned + nodeDataJson.totalProposed + masternodes;
+      nodeDataJson.totalResigned +
+      nodeDataJson.totalProposed +
+      nodeDataJson.activeCandidates;
     $("#masternodes").text(masternodes);
     $("#totalnodes").text(totalnodes);
     $("#mn-masternodes").text(masternodes);
