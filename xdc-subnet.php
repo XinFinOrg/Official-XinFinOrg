@@ -127,7 +127,7 @@
             </div>
         </div>
 
-        <div class="row justify-content-center pb-5">            
+        <!--<div class="row justify-content-center pb-5">
             <div class="col-lg-5 col-md-5 col-sm-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info">
@@ -156,6 +156,42 @@
                     </div>
                 </div>
             </div>            
+        </div>-->
+
+        <div class="row align-items-center pb-5">
+            <div class="col-lg-6">
+                <div class="col-lg-12 mt-2 mb-2">
+                    <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                        <div class="card-info">
+                            <div class="card-infoHead mb-2">Docker Setup</div>
+                            <p class="fs-6 mt-3 mb-0">Setting up XDC subnet using Docker is a convenient way to deploy and manage your subnet.</p>
+                            <a href="https://www.xdc.dev/vinn_9686/xdc-subnet-installation-guide-building-a-secure-and-scalable-network-4hb3" target="_blank" class="btn socialHead-button internalLink mt-auto">
+                                Learn More
+                                <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-12 mt-2 mb-2">
+                    <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                        <div class="card-info">
+                            <div class="card-infoHead mb-2">Community Support</div>
+                            <p class="fs-6 mt-3 mb-0">For any question on setting up your XDC Subnet, post on XDC developers forum.</p>
+                            <a href="https://www.xdc.dev/" target="_blank" class="btn socialHead-button internalLink mt-auto">
+                                Learn More
+                                <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <img src="assets/images/xdc-subnet-ui.png" class="img-fluid br-20" alt="XDC SUbnet UI">
+            </div>
         </div>
 
         <div class="row mt-5">
