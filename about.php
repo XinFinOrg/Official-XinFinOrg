@@ -612,7 +612,7 @@
                         </div>
                         <div class="long-desc">
                             <div class="mt-0 my-4">
-                                <p class="fs-6">During her web2.0 days, she managed spectrum of IT projects from website development, E-commerce platforms and web applications ensuring they are delivered on time, within in budget and SOW. She embarked on a transformative journey from the world of web2.0 into web3.0 not long ago and haven't look back since. As she journeys deeper into web3.0, she facilitates collaboration among individuals, projects, and organizations, fostering a dynamic XDC ecosystem where innovative ideas and blockchain solutions can flourish.</p>
+                                <p class="fs-6">Early on, in Rebecah's Web2 days, she managed a broad spectrum of IT projects - from Website development, E Commerce platforms and Web applications - ensuring they were delivered on time, within in budget and SOW. Since then, Rebecah embarked on a transformative journey into Web3 and not looked back. Journeying deeper into Blockchain and XDC Network, Rebecah now facilitates collaboration among individuals, projects and organizations - fostering a dynamic XDC Ecosystem in the Philippines  where innovative ideas and blockchain solutions can flourish.</p>
                             </div>
                         </div>
                         <!--<div class="team__footer">
@@ -688,7 +688,7 @@
                         </div>
                         <div class="long-desc">
                             <div class="mt-0 my-4">
-                                <p class="fs-6">Early on, in Rebecah's Web2 days, she managed a broad spectrum of IT projects - from Website development, E Commerce platforms and Web applications - ensuring they were delivered on time, within in budget and SOW. Since then, Rebecah embarked on a transformative journey into Web3 and not looked back. Journeying deeper into Blockchain and XDC Network, Rebecah now facilitates collaboration among individuals, projects and organizations - fostering a dynamic XDC Ecosystem in the Philippines  where innovative ideas and blockchain solutions can flourish.</p>
+                                <p class="fs-6">While leading the Australian XDC Network Ecosystem and assisting the Development of the broader Pacific region’s Web2 transitioning Businesses and Services, Sean often finds himself between code and the “real world”, avidly promoting the benefits of Blockchain Technology. You can expect attentive, engaged and solutions focused service in any Blockchain matter- from Infrastructural gaps in Government and Banking services to Trade Finance & Document Management sectors - that might be better solved by a more secure and efficient Web3+ Tokenisation approach.</p>
                             </div>
                         </div>
                         <div class="team__footer">
