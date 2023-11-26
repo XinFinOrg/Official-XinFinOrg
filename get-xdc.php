@@ -709,7 +709,7 @@
                                                 <div class=""><img src="assets/images/exchanges/transak.svg" alt="Transak" /></div>
                                             </div>
                                             <div class="desc">
-                                                <div class="card-infoHead">ChangeNOW</div>
+                                                <div class="card-infoHead">Transak</div>
                                                 <p class="exchangeCard-type text-muted mb-0">Crosschain Swap</p>
                                             </div>
                                         </div>
