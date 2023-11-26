@@ -129,6 +129,25 @@
                                     </div>
                                 </div>
                             </div>
+                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/coinsph.svg" alt="Coins.ph" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">Coins.ph</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
+                                            <div class="pairs fw-500"><a href="https://pro.coins.ph/en-ph/trade/XDC/PHP/" target="_blank">PHP</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -678,6 +697,42 @@
                                         </div>
                                         <div class="d-flex justify-content-between">
                                             <div class="pairs fw-500 ml-6"><a href="https://changelly.com/" target="_blank">Swap Now</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/transak.svg" alt="Transak" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">ChangeNOW</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Crosschain Swap</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex justify-content-between">
+                                            <div class="pairs fw-500 ml-6"><a href="https://global.transak.com/" target="_blank">Swap Now</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/alchemypay.svg" alt="Alchemy Pay" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">Alchemy Pay</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Crosschain Swap</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex justify-content-between">
+                                            <div class="pairs fw-500 ml-6"><a href="https://ramp.alchemypay.org/" target="_blank">Swap Now</a></div>
                                         </div>
                                     </div>
                                 </div>
