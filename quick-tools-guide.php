@@ -549,6 +549,24 @@
                 </div>
             </div>
         </div>
+        
+        
+        
+        <div class="row mt-5 align-items-center">
+        	<div class="col-xl-6 col-lg-6 mb-5 mb-xl-0 mb-lg-0">
+                <h3 class="title-m">XDC Index — Vinter</h3>
+                <p class="subtitle subtitle-s fw-600">XDC Regulated Index Provider</p>
+                <p class="subtitle subtitle-s">The Vinter Xinfin XDC Index is a single asset index, measuring the price of XDC in USD. The index is developed to provide a rule-based and transparent way to capture the price of one XDC. The administration and calculation are compliant with the IOSCO principles and the EU Benchmarks Regulation. VNXDC uses a Vinter reference rate for the XDC price calculation.</p>
+                <div class="btn-block d-block mt-4">
+                	<a href="https://vinter.co/xinfin" target="_blank"><button class="btn-blue">Visit Now</button></a>
+                </div>
+			</div>
+			<div class="col-xl-6 col-lg-6">
+            	<div><img src="assets/images/inside-page/quick-tools-guide/xdcIndexVinter.png" alt="XDC Index — Vinter" class="img-fluid br-20" /></div>
+        	</div>
+        </div>
+                        
+                        
     </div>
 </section>
 

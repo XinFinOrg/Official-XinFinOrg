@@ -577,6 +577,11 @@
                                     </div>
                                     <div class="spacer-30 _15-xsvp"></div>
                                     <div class="icon-container-alt partners-item">
+                                        <img src="assets/images/partnerships/big-logoL.png" class="logoL icon" />
+                                        <img src="assets/images/partnerships/big-logoD.png" class="logoD icon" />
+                                    </div>
+                                    <div class="spacer-30 _15-xsvp"></div>
+                                    <div class="icon-container-alt partners-item">
                                         <img src="assets/images/partnerships/copper-logoL.png" class="logoL icon" />
                                         <img src="assets/images/partnerships/copper-logoD.png" class="logoD icon" />
                                     </div>
@@ -599,6 +604,11 @@
                                     <div class="icon-container-alt partners-item">
                                         <img src="assets/images/partnerships/circle-logoL.png" class="logoL icon" />
                                         <img src="assets/images/partnerships/circle-logoD.png" class="logoD icon" />
+                                    </div>
+                                    <div class="spacer-30 _15-xsvp"></div>
+                                    <div class="icon-container-alt partners-item">
+                                        <img src="assets/images/partnerships/big-logoL.png" class="logoL icon" />
+                                        <img src="assets/images/partnerships/big-logoD.png" class="logoD icon" />
                                     </div>
                                     <div class="spacer-30 _15-xsvp"></div>
                                 </div>
