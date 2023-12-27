@@ -89,7 +89,7 @@
         <div class="row justify-content-center">
             <div class="col-xl-10 col-lg-10">
                 <div class="row justify-content-center">
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
+                    <!--<div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#sydney-ifergan" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
                                 <img src="assets/images/team/advisors/sydney-ifergan.jpg" class="img-fluid team-img br-15" alt="Sydney Ifergan" />
@@ -97,7 +97,7 @@
                                 <p class="text-muted lh-sm mb-0">CMO, Crypto and ICO Expert</p>
                             </div>
                         </a>
-                    </div>
+                    </div>-->
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#tadashi-yoshida" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
