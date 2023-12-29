@@ -901,20 +901,20 @@
                                 </a>
                             </div>                          
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#euroStasis">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#stasisEurs">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
                                             <div class="exchangeCard-header justify-content-between align-items-center">
                                                 <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/eurostasis-icon.svg" alt="EuroStasis" /></div>
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/eurostasis-icon.svg" alt="Stasis/Eurs" /></div>
                                                 </div>
                                                 <div class="desc label">
                                                     <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
                                                 </div>
                                             </div>
                                             <div class="">
-                                                <div class="card-infoHead mb-2">EuroStasis</div>
-                                                <p class="lh-base mb-0">Produced by STASIS, EURS was developed to tokenize the traditional fiat asset known around the world as the Euro.</p>
+                                                <div class="card-infoHead mb-2">STASIS/EURS</div>
+                                                <p class="lh-base mb-0">STASIS is a European fintech firm that serves as a bridge between traditional financial services and emerging Web 3 technologies.</p>
                                             </div>
                                         </div>
                                     </div>
