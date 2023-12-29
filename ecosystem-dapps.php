@@ -627,20 +627,20 @@
                                 </a>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#euroStasis">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#stasisEurs">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
                                             <div class="exchangeCard-header justify-content-between align-items-center">
                                                 <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/eurostasis-icon.svg" alt="EuroStasis" /></div>
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/eurostasis-icon.svg" alt="Stasis/Eurs" /></div>
                                                 </div>
                                                 <div class="desc label">
                                                     <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
                                                 </div>
                                             </div>
                                             <div class="">
-                                                <div class="card-infoHead mb-2">EuroStasis</div>
-                                                <p class="lh-base mb-0">Produced by STASIS, EURS was developed to tokenize the traditional fiat asset known around the world as the Euro.</p>
+                                                <div class="card-infoHead mb-2">STASIS/EURS</div>
+                                                <p class="lh-base mb-0">STASIS is a European fintech firm that serves as a bridge between traditional financial services and emerging Web 3 technologies.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1839,7 +1839,7 @@
                         </div>
                         <div class="project__footer">
                             <div class="web-visit-btn">
-                                <a href="https://ecoinofficial.org/" class="btn socialHead-button btn-blue">Visit Website
+                                <a href="https://ecoinofficial.org/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                     	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                 	</svg>
@@ -1894,7 +1894,7 @@
                         </div>
                         <div class="project__footer">
                             <div class="web-visit-btn">
-                                <a href="https://mateico.io/" class="btn socialHead-button btn-blue">Visit Website
+                                <a href="https://mateico.io/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                     	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                 	</svg>
@@ -1950,7 +1950,7 @@
                         </div>
                         <div class="project__footer">
                             <div class="web-visit-btn">
-                                <a href="https://kinesis.money/" class="btn socialHead-button btn-blue">Visit Website
+                                <a href="https://kinesis.money/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                     	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                 	</svg>
@@ -2005,7 +2005,7 @@
                         </div>
                         <div class="project__footer">
                             <div class="web-visit-btn">
-                                <a href="https://yodaplus.com/multisig-wallet.html" class="btn socialHead-button btn-blue">Visit Website
+                                <a href="https://yodaplus.com/multisig-wallet.html" target="_blank" class="btn socialHead-button btn-blue">Visit Website
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                     	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                 	</svg>
@@ -2060,7 +2060,7 @@
                         </div>
                         <div class="project__footer">
                             <div class="web-visit-btn">
-                                <a href="https://yodaplus.com/asset-tokenization.html" class="btn socialHead-button btn-blue">Visit Website
+                                <a href="https://yodaplus.com/asset-tokenization.html" target="_blank" class="btn socialHead-button btn-blue">Visit Website
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                     	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                 	</svg>
@@ -2115,7 +2115,7 @@
                         </div>
                         <div class="project__footer">
                             <div class="web-visit-btn">
-                                <a href="https://goplugin.co/" class="btn socialHead-button btn-blue">Visit Website
+                                <a href="https://goplugin.co/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                     	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                 	</svg>
@@ -2174,7 +2174,7 @@
                         </div>
                         <div class="project__footer">
                             <div class="web-visit-btn">
-                                <a href="https://ledgermail.io/" class="btn socialHead-button btn-blue">Visit Website
+                                <a href="https://ledgermail.io/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                     	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                 	</svg>
@@ -2230,7 +2230,7 @@
                         </div>
                         <div class="project__footer">
                             <div class="web-visit-btn">
-                                <a href="https://metabloqs.com/" class="btn socialHead-button btn-blue">Visit Website
+                                <a href="https://metabloqs.com/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                     	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                 	</svg>
@@ -2255,7 +2255,7 @@
     </div>
 </div>
 
-<div class="modal fade" id="euroStasis" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+<div class="modal fade" id="stasisEurs" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
             <div class="modal-header">
@@ -2266,24 +2266,24 @@
                     <div class="project__img text-center">
                         <div class="usecase-box-1">
                             <div class="image-container">
-                                <img class="img-responsive" src="assets/images/ecosystem-dapps/eurostasis-icon.svg" alt="EuroStasis" />
+                                <img class="img-responsive" src="assets/images/ecosystem-dapps/eurostasis-icon.svg" alt="StasisEurs" />
                             </div>
                         </div>
                     </div>
                     <div class="project__content">
                         <div class="short-desc">
-                            <h2 class="fw-6">EuroStasis</h2>
-                            <p>Produced by STASIS, EURS was developed to tokenize the traditional fiat asset known around the world as the Euro.</p>
+                            <h2 class="fw-6">STASIS/EURS</h2>
+                            <p>STASIS is a European fintech firm that serves as a bridge between traditional financial services and emerging Web 3 technologies. The company specializes in stablecoin applications and is dedicated to providing user-friendly tools for managing digital currencies.</p>
                         </div>
                         <div class="long-desc">
                             <div class="mt-0 my-4">
-                                <p>EURS mirrors the value of the Euro on the blockchain and is said to be supported by liquidity assurance mechanisms combining the benefits of a global fiat with the transparency, immutability, and efficiency of the blockchain.</p>
-                                <p>According to their website, all tokens are fully backed by 1:1 collateral reserves. The company aims to promote transparency by providing daily statements from account providers along with weekly verifications and quarterly audits by a top 5 global accounting firm.</p>
+                                <p>STASIS EURO, or EURS is a legal euro stablecoin that mirrors the Euro on the blockchain, and all tokens are fully backed by 1:1 collateral reserves.</p>
+                                <p>The EURS Network, powered by EURS, is an integrated ecosystem encompassing various crypto exchanges, financial services and platforms and digital wallets.</p>
                             </div>
                         </div>
                         <div class="project__footer">
                             <div class="web-visit-btn">
-                                <a href="https://stasis.net/" class="btn socialHead-button btn-blue">Visit Website
+                                <a href="https://stasis.net/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                     	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                 	</svg>
@@ -2342,7 +2342,7 @@
                         </div>
                         <div class="project__footer">
                             <div class="web-visit-btn">
-                                <a href="https://www.storx.tech/" class="btn socialHead-button btn-blue">Visit Website
+                                <a href="https://www.storx.tech/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                     	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                 	</svg>
@@ -2400,7 +2400,7 @@
                         </div>
                         <div class="project__footer">
                             <div class="web-visit-btn">
-                                <a href="https://www.tradefinex.org/" class="btn socialHead-button btn-blue">Visit Website
+                                <a href="https://www.tradefinex.org/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                     	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                 	</svg>
@@ -2452,7 +2452,7 @@
                         </div>
                         <div class="project__footer">
                             <div class="web-visit-btn">
-                                <a href="https://www.impel.global/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                <a href="https://www.impel.global/" target="_blank" target="_blank" class="btn socialHead-button btn-blue">Visit Website
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                     	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                 	</svg>
@@ -2514,7 +2514,7 @@
                         </div>
                         <div class="project__footer">
                             <div class="web-visit-btn">
-                                <a href="https://www.fluent.finance/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                <a href="https://www.fluent.finance/" target="_blank" target="_blank" class="btn socialHead-button btn-blue">Visit Website
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                     	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                 	</svg>
