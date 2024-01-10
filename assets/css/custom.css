@@ -2240,6 +2240,7 @@ body.modal-open {
 .btn-telegram {background: rgba(44, 163, 219, 1);}
 .btn-discord {background: rgba(88, 101, 241, 1);}
 .btn-github {background: rgba(75, 60, 255, 1);}
+.btn-gitlab {background: rgba(226, 67, 42, 1);}
 .border-top {border-top: 1px solid #b9b9b9;padding-top: 20px;}
 .project__footer .social-media .btn-block button {color: #FFFFFF;}
 
