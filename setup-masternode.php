@@ -163,11 +163,11 @@ include 'inc/header.php';
         <div class="row row-flex">
             <div class="col-lg-12">
                 <div class="row justify-content-center">
-                    <div class="col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
                         <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
                             <div class="card-info text-center">
-                                <img src="assets/images/inside-page/masternode/indsoft-light.svg" class="center logoHp img-fluid iconL" alt="indsoft.net" />
-                                <img src="assets/images/inside-page/masternode/indsoft.svg" class="center logoHp img-fluid iconD" alt="indsoft.net" />
+                                <img src="assets/images/inside-page/masternode/indsoft-light.svg" class="center logoFs img-fluid iconL" alt="indsoft.net" />
+                                <img src="assets/images/inside-page/masternode/indsoft.svg" class="center logoFs img-fluid iconD" alt="indsoft.net" />
                                 <div class="card-infoHead mt-5 mb-3">Indsoft System</div>
                                 <p class="fs-6 mb-0">Indsoft System is a simple, and easy to use masternode hosting platform for all your needs.</p>
                                 <a href="https://indsoft.net" target="_blank" class="btn socialHead-button mt-auto">
@@ -179,11 +179,11 @@ include 'inc/header.php';
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
                         <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
                             <div class="card-info text-center">
-                                <img src="assets/images/inside-page/masternode/nodeforge-light.svg" class="center logoHp img-fluid iconL" alt="nodeforge.io" />
-                                <img src="assets/images/inside-page/masternode/nodeforge.svg" class="center logoHp img-fluid iconD" alt="nodeforge.io" />
+                                <img src="assets/images/inside-page/masternode/nodeforge-light.svg" class="center logoFs img-fluid iconL" alt="nodeforge.io" />
+                                <img src="assets/images/inside-page/masternode/nodeforge.svg" class="center logoFs img-fluid iconD" alt="nodeforge.io" />
                                 <div class="card-infoHead mt-5 mb-3">Node Forge</div>
                                 <p class="fs-6 mb-0">A non-custodial multi-cloud blockchain infrastructure and masternode hosting platform.</p>
                                 <a href="https://nodeforge.io/" target="_blank" class="btn socialHead-button mt-auto">
@@ -195,14 +195,30 @@ include 'inc/header.php';
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
                         <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
                             <div class="card-info text-center">
-                                <img src="assets/images/inside-page/masternode/zeeve-light.svg" class="center logoHp img-fluid iconL" alt="zeeve.io" />
-                                <img src="assets/images/inside-page/masternode/zeeve.svg" class="center logoHp img-fluid iconD" alt="zeeve.io" />
+                                <img src="assets/images/inside-page/masternode/zeeve-light.svg" class="center logoFs img-fluid iconL" alt="zeeve.io" />
+                                <img src="assets/images/inside-page/masternode/zeeve.svg" class="center logoFs img-fluid iconD" alt="zeeve.io" />
                                 <div class="card-infoHead mt-5 mb-3">Zeeve</div>
                                 <p class="fs-6 mb-0">Zeeve streamlines the deployment of full node and validator nodes with a simple, no-code interface.</p>
                                 <a href="https://www.zeeve.io/blockchain-protocols/deploy-xdc-node/" target="_blank" class="btn socialHead-button mt-auto">
+                                    Visit Now
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
+                        <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="card-info text-center">
+                                <img src="assets/images/inside-page/masternode/blockdaemon-light.svg" class="center logoFs img-fluid iconL" alt="zeeve.io" />
+                                <img src="assets/images/inside-page/masternode/blockdaemon.svg" class="center logoFs img-fluid iconD" alt="zeeve.io" />
+                                <div class="card-infoHead mt-5 mb-3">Blockdaemon</div>
+                                <p class="fs-6 mb-0">Blockdaemon powers integrated business solutions such as dedicated nodes setup, APIs & more.</p>
+                                <a href="https://www.blockdaemon.com/" target="_blank" class="btn socialHead-button mt-auto">
                                     Visit Now
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>

@@ -1140,6 +1140,9 @@ a .card-infoHead {
 .card-info img.logoHp {
     width: 75%;
 }
+.card-info img.logoFs {
+    width: 100%;
+}
 .card-info img.center {
     margin: 0px auto;
 }
