@@ -2578,7 +2578,7 @@
                         </div>
                         <div class="project__footer">
                             <div class="web-visit-btn">
-                                <a href="https://www.fluent.finance/" target="_blank" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                <a href="https://www.fluent.finance/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                     	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                 	</svg>
@@ -2587,7 +2587,7 @@
                             <div class="social-media border-top mt-4">
                                 <div class="cat-head mb-2">Connect on Social Media</div>
                                 <div class="btn-block mb-3">
-                                    <a href="https://twitter.com/FluentDAO" target="_blank">
+                                    <a href="https://twitter.com/Fluentinfra" target="_blank">
                                         <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
                                     </a>
                                     <a href="https://www.linkedin.com/company/fluent-finance/" target="_blank">

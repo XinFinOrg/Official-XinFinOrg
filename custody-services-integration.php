@@ -324,62 +324,120 @@
     </div>
 </section>
 
+
+
 <!-- Seamless Integration Starts -->
 <section class="px-80 bg-lightgray">
     <div class="container">
         <div class="row">
-                            <div class="col-lg-4 col-md-6 mt-2 mb-2">
-                                <div class="h-100 card p-4 bg-light75 br-20 border-0">
-                                    <div class="fs-6 card-infoHead mb-3">Integration Guide</div>
-                                    <div class="card-info">
-                                        <p class="fs-6 mb-0"><a href="exchange-listing-resource" target="_blank">https://xinfin.org/exchange-listing-resource</a></p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 mt-2 mb-2">
-                                <div class="h-100 card p-4 bg-light75 br-20 border-0">
-                                    <div class="fs-6 card-infoHead mb-3">XDC Network Tools</div>
-                                    <div class="card-info">
-                                        <p class="fs-6 mb-0"><a href="https://xinfin.org/quick-tools-guide" target="_blank">https://xinfin.org/quick-tools-guide</a></p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 mt-2 mb-2">
-                                <div class="h-100 card p-4 bg-light75 br-20 border-0">
-                                    <div class="fs-6 card-infoHead mb-3">XDC API Links</div>
-                                    <div class="card-info">
-                                        <p class="fs-6 mb-2"><a href="https://apidocs.xinfin.network/docs/#xinfin-apis" target="_blank">https://apidocs.xinfin.network/docs/#xinfin-apis</a></p>
-                                        <p class="fs-6 mb-0"><a href="https://apidocs.xinfin.network/" target="_blank">https://apidocs.xinfin.network/</a></p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 mt-2 mb-2">
-                                <div class="h-100 card p-4 bg-light75 br-20 border-0">
-                                    <div class="fs-6 card-infoHead mb-3">XDC Document</div>
-                                    <div class="card-info">
-                                        <p class="fs-6 mb-2"><a href="https://docs.xdc.org/" target="_blank">https://docs.xdc.org/</a></p>
-                                        <p class="fs-6 mb-0"><a href="https://howto.xinfin.org/" target="_blank">https://howto.xinfin.org/</a></p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 mt-2 mb-2">
-                                <div class="h-100 card p-4 bg-light75 br-20 border-0">
-                                    <div class="fs-6 card-infoHead mb-3">Full Node setup Instructions</div>
-                                    <div class="card-info">
-                                        <p class="fs-6 mb-0"><a href="https://github.com/XinFinOrg/XinFin-Node" target="_blank">https://github.com/XinFinOrg/XinFin-Node</a></p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 mt-2 mb-2">
-                                <div class="h-100 card p-4 bg-light75 br-20 border-0">
-                                    <div class="fs-6 card-infoHead mb-3">Find other Endpoints</div>
-                                    <div class="card-info">
-                                        <p class="fs-6 mb-2"><a href="https://chainlist.org/chain/50" target="_blank">https://chainlist.org/chain/50</a></p>
-                                        <p class="fs-6 mb-0"><a href="https://chainlist.org/chain/51" target="_blank">https://chainlist.org/chain/51</a></p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+            <!--<div class="col-lg-4 col-md-6 mt-2 mb-2">
+            	<div class="h-100 card p-4 bg-light75 br-20 border-0">
+                	<div class="fs-6 card-infoHead mb-3">Integration Guide</div>
+                    <div class="card-info">
+                    	<p class="fs-6 mb-0"><a href="exchange-listing-resource" target="_blank">https://xinfin.org/exchange-listing-resource</a></p>
+                	</div>
+                </div>
+            </div>-->
+            <div class="col-lg-4 col-md-6 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                    <div class="fs-6 card-infoHead mb-3">XDC Network Tools</div>
+                    <div class="card-info">
+                        <p class="fs-6 mb-0"><a href="https://xinfin.org/quick-tools-guide" target="_blank">https://xinfin.org/quick-tools-guide</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                    <div class="fs-6 card-infoHead mb-3">XDC API Links</div>
+                    <div class="card-info">
+                        <p class="fs-6 mb-2"><a href="https://apidocs.xinfin.network/docs/#xinfin-apis" target="_blank">https://apidocs.xinfin.network/docs/#xinfin-apis</a></p>
+                        <p class="fs-6 mb-0"><a href="https://apidocs.xinfin.network/" target="_blank">https://apidocs.xinfin.network/</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                    <div class="fs-6 card-infoHead mb-3">XDC Document</div>
+                    <div class="card-info">
+                        <p class="fs-6 mb-2"><a href="https://docs.xdc.org/" target="_blank">https://docs.xdc.org/</a></p>
+                        <p class="fs-6 mb-0"><a href="https://howto.xinfin.org/" target="_blank">https://howto.xinfin.org/</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                    <div class="fs-6 card-infoHead mb-3">Full Node setup Instructions</div>
+                    <div class="card-info">
+                        <p class="fs-6 mb-0"><a href="https://github.com/XinFinOrg/XinFin-Node" target="_blank">https://github.com/XinFinOrg/XinFin-Node</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                    <div class="fs-6 card-infoHead mb-3">Find other Endpoints</div>
+                    <div class="card-info">
+                        <p class="fs-6 mb-2"><a href="https://chainlist.org/chain/50" target="_blank">https://chainlist.org/chain/50</a></p>
+                        <p class="fs-6 mb-0"><a href="https://chainlist.org/chain/51" target="_blank">https://chainlist.org/chain/51</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mt-5">
+            <div class="col-lg-10 offset-lg-1 mb-4 mt-5">
+                <h3 class="title-m text-center">XDC Network Assessment and Analysis</h3>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                    <div class="card-info text-center">
+                        <img src="assets/images/inside-page/exchange-listing/slowmist-light.svg" class="center logoHp img-fluid iconL" />
+                        <img src="assets/images/inside-page/exchange-listing/slowmist.svg" class="center logoHp img-fluid iconD" />
+                        <div class="card-infoHead mt-5 mb-1">XDC Network Audit Report</div>
+                        <p class="fs-6 mb-0">by SlowMist</p>
+                        <a href="docs/reports/xdposchain-security-audit-report.pdf" target="_blank" class="btn socialHead-button mt-auto">
+                            View Now
+                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                    <div class="card-info text-center">
+                        <img src="assets/images/inside-page/exchange-listing/bcas-light.svg" class="center logoHp img-fluid iconL" />
+                        <img src="assets/images/inside-page/exchange-listing/bcas.svg" class="center logoHp img-fluid iconD" />
+                        <div class="card-infoHead mt-5 mb-1">XDC Network Legal Opinion</div>
+                        <p class="fs-6 mb-0">By BCAS</p>
+                        <a href="docs/reports/legal-opinion-liechtenstein-bcas-xdc-14jan2021.pdf" target="_blank" class="btn socialHead-button mt-auto">
+                            View Now
+                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                    <div class="card-info text-center">
+                        <img src="assets/images/inside-page/exchange-listing/big-light.svg" class="center logoHp img-fluid iconL" />
+                        <img src="assets/images/inside-page/exchange-listing/big.svg" class="center logoHp img-fluid iconD" />
+                        <div class="card-infoHead mt-5 mb-1">XDC Chain Analysis</div>
+                        <p class="fs-6 mb-0">By Blockchain Intelligence Group</p>
+                        <a href="https://blockchaingroup.io/defi-enabled-enterprise-grade-hybrid-blockchain-xdc-network-gains-compliance-edge/" target="_blank" class="btn socialHead-button mt-auto">
+                            View Now
+                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 <!-- Seamless Integration Ends -->
