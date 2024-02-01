@@ -530,6 +530,26 @@
                      </div>
                   </div>
                </div>
+               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                        <div class="exchangeCard-header">
+                           <div class="icon">
+                              <div class=""><img src="assets/images/wallets/tangem.svg" alt="Tangem" /></div>
+                           </div>
+                           <div class="desc">
+                              <div class="card-infoHead">Tangem</div>
+                              <p class="exchangeCard-type text-muted mb-0">Tangem Wallet is a reliable hardware wallet that allows you to store cryptocurrencies simply and safely.</p>
+                           </div>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                           <div class="pairs fw-500 ml-6">
+                              <a href="https://tangem.com/en/pricing/" target="_blank" title="Hardware Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/hardware.svg"></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
             </div>
          </div>
       </div>
