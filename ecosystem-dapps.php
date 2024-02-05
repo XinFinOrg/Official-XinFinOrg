@@ -285,26 +285,6 @@
                                 </a>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#globianceDex">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/globiance-icon.svg" alt="GlobianceDEX"></div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DEX</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">GlobianceDEX</div>
-                                                <p class="lh-base mb-0">GlobianceDEX is the first decentralized exchange built on the leading XDC blockchain.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#tradeFinex">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -324,6 +304,95 @@
                                     </div>
                                 </a>
                             </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#mintnite">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/mintnite-icon.svg" class="iconD" alt="Mintnite">
+                                                        <img src="assets/images/ecosystem-dapps/mintnite-icon_light.svg" class="iconL" alt="Mintnite">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Mintnite</div>
+                                                <p class="lh-base mb-0">Mintnite, a multi-use-case Web3 minting tool that anyone can mint fungible tokens, NFTs and even SBTs (soulbound tokens) with no programming required.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#chainTools">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/chaintools-icon.svg" class="iconD" alt="Chain Tools">
+                                                        <img src="assets/images/ecosystem-dapps/chaintools-icon_light.svg" class="iconL" alt="Chain Tools">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Chain Tools</div>
+                                                <p class="lh-base mb-0">All-in-one online crypto toolbox: Faucet Tool, Token Generator, Airdrop Service, Crypto Price Bot.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#chainIde">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/chainide-icon.svg" class="iconD" alt="Chain IDE">
+                                                        <img src="assets/images/ecosystem-dapps/chainide-icon.svg" class="iconL" alt="Chain IDE">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Chain IDE</div>
+                                                <p class="lh-base mb-0">The world's first and largest cloud-based multichain IDE for developers to create smart contracts and dApps.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>                            
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#globianceDex">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/globiance-icon.svg" alt="GlobianceDEX"></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DEX</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">GlobianceDEX</div>
+                                                <p class="lh-base mb-0">GlobianceDEX is the first decentralized exchange built on the leading XDC blockchain.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>                            
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#fluentFinance">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -2516,7 +2585,7 @@
                         </div>
                         <div class="project__footer">
                             <div class="web-visit-btn">
-                                <a href="https://www.impel.global/" target="_blank" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                <a href="https://www.impel.global/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                     	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                 	</svg>
@@ -2536,6 +2605,165 @@
                                     </a>
                                     <a href="https://gitlab.com/Impel-official" target="_blank">
                                         <button class="btn btn-hover btn-gitlab"><i class="fab fa-gitlab"></i> GitLab</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="mintnite" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/mintnite-icon.svg" class="iconD" alt="Mintnite">
+                                <img src="assets/images/ecosystem-dapps/mintnite-icon_light.svg" class="iconL" alt="Mintnite">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Mintnite</h2>
+                            <p>Mintnite is a multi-use-case Web3 minting tool that anyone can mint fungible tokens, NFTs and even SBTs (soulbound tokens) with no programming required. It supports bulk NFT minting and tokens can be set as public or private.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>No registration is required and anyone can own their smart contract (no custody whatsoever). You can create as many smart contracts as you wish with no limits on the number of tokens minted. Mint your tokens on XDC Network and also a wide range of Web3 mainnets and testnets are available.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://mintnite.io/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://twitter.com/mintniteio" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://github.com/Mintnite" target="_blank">
+                                        <button class="btn btn-hover btn-github"><i class="fab fa-github"></i> GitHub</button>
+                                    </a>
+                                    <a href="https://discord.com/invite/kQTEvCgbPw" target="_blank">
+                                        <button class="btn btn-hover btn-discord"><i class="fab fa-discord"></i> Discord</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="chainTools" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/chaintools-icon.svg" class="iconD" alt="Chaintools">
+                                <img src="assets/images/ecosystem-dapps/chaintools-icon_light.svg" class="iconL" alt="Chaintools">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Chaintools</h2>
+                            <p>All-in-one online crypto toolbox for XDC Network, also supporting other networks.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p><span class="fw-600">Faucet Tool:</span> Web3 Faucet Tools are essential components in the decentralized ecosystem, allowing users to easily obtain small amounts of cryptocurrency for testing, development, and exploration purposes.</p>
+                                <p><span class="fw-600">Token Generator:</span> Create Smart Contracts without writing a single line of code, enabling you to launch your own token, smart contract, cross-chain bridge, and airdrop effortlessly.</p>
+                                <p><span class="fw-600">Multisender:</span> Empower your token distribution strategy with our Multisender, a user-friendly solution to send tokens to multiple recipients in just one transaction.</p>
+                                <p><span class="fw-600">Crypto Price Bot:</span> Stay ahead of the market by receiving instant updates on your favorite cryptocurrencies with our real-time Crypto Price Bot.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://chains.tools/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://twitter.com/chains_tools" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="chainIde" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/chainide-icon.svg" alt="Chain IDE">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Chain IDE</h2>
+                            <p>The world's first and largest cloud-based multichain IDE for developers to create smart contracts and dApps.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>ChainIDE is a cloud-based IDE for creating decentralized applications to deploy on blockchains such as Ethereum, XDC Network, BNB Chain, Polygon, Conflux, Nervos, Dfinity, Flow, Aptos, Astar, etc. It fasts the development cycle and has pre-installed plugins that save users time and effort. It provides a complete and ready-to-use environment for innovative contract development and detailed documentation for learning purposes.</p>
+                                <p>ChainIDE is a powerful cloud-based IDE that helps you write smart contracts in different programming languages and deploy them to other blockchains. It has modules for writing, compiling, debugging, testing, deploying a smart contract, and much more.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://chainide.com/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://twitter.com/ChainIDE" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
                                     </a>
                                 </div>
                             </div>
