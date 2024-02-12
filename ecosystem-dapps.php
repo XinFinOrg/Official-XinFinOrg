@@ -1400,7 +1400,7 @@
                     <div class="col-lg-12">
                         <div class="row justify-content-center">
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#fathom">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#fathomDex">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
                                             <div class="exchangeCard-header justify-content-between align-items-center">
@@ -3739,6 +3739,7 @@
                     <div class="project__content">
                         <div class="short-desc">
                             <h2 class="fw-6">Fathom</h2>
+                            <p>Deposit XDC to mint and borrow FXD. 1 FXD is soft-pegged to 1 USD. Convert FXD to other stable assets on the Fathom DEX and/or with the brokers in our ecosystem.</p>
                             <p>Fathom a Smarter Decentralized Currency, Borderless access to digital money with no discrimination for individuals and institutions.</p>
                         </div>
                         <div class="long-desc">
@@ -3750,6 +3751,65 @@
                         <div class="project__footer">
                             <div class="web-visit-btn">
                                 <a href="https://fathom.fi/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://twitter.com/fathom_fi" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/fathom-protocol/" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                    </a>
+                                    <a href="https://t.me/fathom_fi" target="_blank">
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                    <a href="https://github.com/Into-the-Fathom" target="_blank">
+                                        <button class="btn btn-hover btn-github"><i class="fab fa-github"></i> GitHub</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="fathomDex" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img class="img-responsive" src="assets/images/ecosystem-dapps/fathom-icon.svg" alt="Fathom" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Fathom</h2>
+                            <p>Fathom a Smarter Decentralized Currency, Borderless access to digital money with no discrimination for individuals and institutions.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>Fathom Protocol is a decentralized finance ecosystem built on the XDC network. The Protocol's purpose is to increase the liquidity of the XDC network and make FXD, over-collateralized and soft-pegged Stablecoin, a central part of the XDC network DeFi ecosystem.</p>
+                                <p>Fathom's Decentralized Exchange (DEX) serves as the main trading venue and Price Oracle for XDC, bringing additional liquidity to the XDC network. In the future, tokenized real-world assets will be traded on the Fathom DEX, further increasing the liquidity of the XDC network.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://dapp.fathom.fi/#/swap" target="_blank" class="btn socialHead-button btn-blue">Visit Website
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                     	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                 	</svg>

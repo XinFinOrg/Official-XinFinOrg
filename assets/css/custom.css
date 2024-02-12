@@ -1912,6 +1912,7 @@ body.darkTheme {
     border: 2px solid #cfd8dd;
     transition: all .2s ease-in-out,background-color .2s ease-in-out,opacity .2s ease-in-out;
     cursor: pointer;
+	margin-bottom: 6px;
 }
 .nav-pills .nav-link.active {
     color: #FFFFFF;
@@ -2217,7 +2218,7 @@ body.modal-open {
 
 
 
-
+.modal-body .project__content p {line-height: 20px;}
 .project-details-flex-row {display: flex;flex-direction: row}
 .project__img {width: 120px;height: 120px;}
 .project__content {flex: 1 1 0%;margin: 0px 2rem 0px 1.75rem;}
