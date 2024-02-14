@@ -768,7 +768,7 @@
                                                     <div class=""><img src="assets/images/ecosystem-dapps/goplugin-icon.svg" alt="GoPlugin"></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Native Oracle</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -1201,7 +1201,7 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#plugin">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -1220,7 +1220,7 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#ledgerMail">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
