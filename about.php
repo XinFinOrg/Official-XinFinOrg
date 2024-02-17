@@ -87,7 +87,7 @@
             </div>
         </div>
         <div class="row justify-content-center">
-            <div class="col-xl-10 col-lg-10">
+            <div class="col-xl-11 col-lg-11">
                 <div class="row justify-content-center">
                     <!--<div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#sydney-ifergan" class="team">
@@ -103,7 +103,7 @@
                             <div class="h-100 card bg-transparent br-20 border-0">
                                 <img src="assets/images/team/advisors/tadashi-yoshida.jpg" class="img-fluid team-img br-15" alt="Tadashi Yoshida" />
                                 <h3 class="team-infoHead mt-3 mb-2">Tadashi Yoshida</h3>
-                                <p class="text-muted lh-sm mb-0">Ecosystem Development, Japan</p>
+                                <p class="text-muted lh-sm mb-0">Chief Operating Officer, SBI XDC Network APAC Co. Ltd. Head of Japan, XDC Network</p>
                             </div>
                         </a>
                     </div>
@@ -116,7 +116,7 @@
             </div>
         </div>
         <div class="row justify-content-center">
-            <div class="col-xl-10 col-lg-10">
+            <div class="col-xl-11 col-lg-11">
                 <div class="row justify-content-center">
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#atul-khekade" class="team">
@@ -141,7 +141,7 @@
                             <div class="h-100 card bg-transparent br-20 border-0">
                                 <img src="assets/images/team/core-team/sunil-senapati.jpg" class="img-fluid team-img br-15" alt="Sunil Senapati" />
                                 <h3 class="team-infoHead mt-3 mb-2">Sunil Senapati</h3>
-                                <p class="text-muted lh-sm mb-0">Chief Operating Officer – Trade and Payments</p>
+                                <p class="text-muted lh-sm mb-0">Chief Executive Officer - XDC Trade Network</p>
                             </div>
                         </a>
                     </div>
