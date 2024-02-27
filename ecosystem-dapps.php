@@ -118,6 +118,53 @@
                     <div class="col-lg-12">
                         <div class="row justify-content-center">
                         	<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#validProtocol">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/validProtocol-icon.svg" class="" alt="Valid Protocol">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Valid Protocol</div>
+                                                <p class="lh-base mb-0">Valid is a community staking protocol developed on the XDC network. It enables users to collectively stake 10,000,000 XDC tokens to establish a Standby MasterNode.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#circularityFinance">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/circularityFinance-icon.svg" class="" alt="Circularity Finance">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Circularity Finance</div>
+                                                <p class="lh-base mb-0">Circularity Finance is a pioneering project merging decentralized finance (DeFi) and sustainable development, utilizing blockchain technology.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            
+                            
+                            
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#coinsbee">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -931,6 +978,28 @@
                     <div class="col-lg-12">
                         <div class="row justify-content-center">
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#circularityFinance">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/circularityFinance-icon.svg" class="" alt="Circularity Finance">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Circularity Finance</div>
+                                                <p class="lh-base mb-0">Circularity Finance is a pioneering project merging decentralized finance (DeFi) and sustainable development, utilizing blockchain technology.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#comtechGold">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -974,26 +1043,6 @@
                                 </a>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#yieldteq">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/yieldteq-icon.svg" alt="Globiance" /></div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">Yieldteq</div>
-                                                <p class="lh-base mb-0">Stable yield-bearing financial instruments securely delivered as on-chain financial products.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#tradeFinex">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -1012,7 +1061,27 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>                          
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#yieldteq">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/yieldteq-icon.svg" alt="Globiance" /></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Yieldteq</div>
+                                                <p class="lh-base mb-0">Stable yield-bearing financial instruments securely delivered as on-chain financial products.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>                            
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#stasisEurs">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -1061,6 +1130,28 @@
                 <div class="tab-pane fade" id="nav-defi" role="tabpanel" aria-labelledby="nav-defi-tab">
                     <div class="col-lg-12">
                         <div class="row justify-content-center">                            
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#validProtocol">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/validProtocol-icon.svg" class="" alt="Valid Protocol">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Valid Protocol</div>
+                                                <p class="lh-base mb-0">Valid is a community staking protocol developed on the XDC network. It enables users to collectively stake 10,000,000 XDC tokens to establish a Standby MasterNode.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#wefi">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -1763,6 +1854,59 @@
                                 <div class="btn-block mb-3">
                                     <a href="https://twitter.com/webthreenames" target="_blank">
                                         <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="circularityFinance" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <!--<h5 class="modal-title" id="basicModalLabel">Heading</h5>-->
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img class="img-responsive" src="assets/images/ecosystem-dapps/circularityFinance-icon.svg" alt="circularity.finance" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Circularity Finance</h2>
+                            <p>Circularity Finance is a pioneering project merging decentralized finance (DeFi) and sustainable development, utilizing blockchain technology.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>It introduces two utility tokens, CIFI and REFI, to create an innovative ecosystem . By integrating the latest Distributed Ledger Technology (DLT), it enhances security and capital management. Circularity Finance aims to simplify the acquisition of XDC through its user-friendly Launchpad . The project is noted for empowering small and medium-sized enterprises (SMEs) through regenerative finance.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://www.circularity.finance/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://twitter.com/circularityfi" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://www.linkedin.com/showcase/circularityfinance/" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
                                     </a>
                                 </div>
                             </div>
@@ -3599,6 +3743,65 @@
                                     </a>
                                 </div>
                             </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="validProtocol" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img class="img-responsive" src="assets/images/ecosystem-dapps/validProtocol-icon.svg" alt="Valid Protocol" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Valid Protocol</h2>
+                            <p>Valid is a community staking protocol developed on the XDC network. It enables users to collectively stake 10,000,000 XDC tokens to establish a Standby MasterNode.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>The Valid Protocol permits users to stake in increments of 10,000 XDC, with the maximum contribution capped at 10,000,000 XDC. Furthermore, each node can accommodate a maximum of 1,000 community wallets. Valid Protocol was intentionally designed to empower the XDC community with the technical means to engage in the ecosystem of XDC Masternodes. The recent surge in institutional demand for these Masternodes has significantly limited the community's access to this high-value asset class.</p>
+                                <p>However, by collaboratively staking in the Masternode space, the XDC community can establish its own robust ecosystem, one that is resilient to external pressures. This approach not only secures a method for the community to earn monthly rewards at their discretion but also ensures their active role in maintaining the infrastructure of the XDC Network.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://app.validprotocol.io/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <!--<div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://twitter.com/wefi_xyz" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://t.me/wefi_xyz" target="_blank">
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                    <a href="https://github.com/wefi-xyz/" target="_blank">
+                                        <button class="btn btn-hover btn-github"><i class="fab fa-github"></i> GitHub</button>
+                                    </a>
+                                    <a href="https://discord.com/invite/B6U6kectbV" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-discord"></i> Discord</button>
+                                    </a>
+                                </div>
+                            </div>-->
                     	</div>
                     </div>
                 </div>
