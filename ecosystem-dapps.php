@@ -118,6 +118,28 @@
                     <div class="col-lg-12">
                         <div class="row justify-content-center">
                         	<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#razor">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/razor-icon.svg" class="" alt="Razor Network">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Oracle</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Razor Network</div>
+                                                <p class="lh-base mb-0">Razor Network is a decentralized oracle network, which connects smart contracts with real-world off-chain data in a fast, robust and secure way.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#validProtocol">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -3810,6 +3832,61 @@
     </div>
 </div>
 
+<div class="modal fade" id="razor" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img class="img-responsive" src="assets/images/ecosystem-dapps/razor-icon.svg" alt="Razor Network" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Razor Network</h2>
+                            <p>Razor Network is a decentralized oracle network, which connects smart contracts with real-world off-chain data in a fast, robust and secure way.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>The core of Razor Network is a set of smart contracts that can run on any Ethereum compatible blockchain. Razor network is blockchain agnostic and will be integrated with multiple blockchains.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://razor.network/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://twitter.com/razor_network" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://t.me/razornetwork" target="_blank">
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                    <a href="https://github.com/razor-network" target="_blank">
+                                        <button class="btn btn-hover btn-github"><i class="fab fa-github"></i> GitHub</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <div class="modal fade" id="wefi" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -3953,7 +4030,7 @@
                         </div>
                         <div class="project__footer">
                             <div class="web-visit-btn">
-                                <a href="https://fathom.fi/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                <a href="https://dapp.fathom.fi/#/swap" target="_blank" class="btn socialHead-button btn-blue">Visit Website
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                     	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                 	</svg>
@@ -3974,7 +4051,7 @@
                                     <a href="https://github.com/Into-the-Fathom" target="_blank">
                                         <button class="btn btn-hover btn-github"><i class="fab fa-github"></i> GitHub</button>
                                     </a>
-                                </div>
+                            	</div>
                             </div>
                     	</div>
                     </div>
