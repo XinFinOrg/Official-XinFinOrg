@@ -24,7 +24,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="row justify-content-center">
-                    <div class="col-xl-6 col-lg-6 col-md-6 mt-2 mb-2">
+                    <div class="col-xl-4 col-lg-4 col-md-12 mt-2 mb-2">
                         <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                             <div class="card-info">
                                 <div class="card-infoHead mb-3">Become a Partner</div>
@@ -38,13 +38,27 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-6 col-lg-6 col-md-6 mt-2 mb-2">
+                    <div class="col-xl-4 col-lg-4 col-md-12 mt-2 mb-2">
                         <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                             <div class="card-info">
                                 <div class="card-infoHead mb-3">Get Involved</div>
                                 <p class="fs-6 mb-0"><!--Join Our XDC Network Developers Ecosystem Partners. -->Become part of the XDC Network community and collaborate with developers, artists, and accountants. Explore opportunities to contribute to the XDC Network Developers Ecosystem Partners program. Leverage your skills and professional background to help shape the future of XDC Network blockchain technology.</p>
                                 <a href="https://www.xdc.dev/" target="_blank" class="btn socialHead-button mt-auto">
                                     XDC Forum
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-12 mt-2 mb-2">
+                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                            <div class="card-info">
+                                <div class="card-infoHead mb-3">XDC AI Developer Tools</div>
+                                <p class="fs-6 mb-0">Explore <a href="https://coderun.ai/" target="_blank">coderun.ai</a>, your AI-powered hub for developer tools, technical support, and resources to build on the XDC Network. Unlock the potential of blockchain development with our comprehensive suite of tools designed to empower developers in the XDC ecosystem.</p>
+                                <a href="https://coderun.ai/" target="_blank" class="btn socialHead-button mt-auto">
+                                    Explore Now
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                     </svg>
