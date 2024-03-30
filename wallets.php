@@ -344,7 +344,9 @@
                         </div>
                         <div class="d-flex justify-content-between">
                            <div class="pairs fw-500 ml-6">
+                              <a href="https://play.google.com/store/apps/details?id=com.frontierwallet&hl=en_IN&gl=US&pli=1" target="_blank" title="Android Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/android.svg"></a>
                               <a href="https://apps.apple.com/in/app/frontier-crypto-defi-wallet/id1482380988" target="_blank" title="iOS Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/ios.svg"></a>
+                              <a href="https://chromewebstore.google.com/detail/frontier-wallet/kppfdiipphfccemcignhifpjkapfbihd" target="_blank" title="Chrome Extension" class="WalletPlatform__link"><img src="assets/images/wallets/chrome.svg"></a>
                            </div>
                         </div>
                      </div>
@@ -365,6 +367,7 @@
                         <div class="d-flex justify-content-between">
                            <div class="pairs fw-500 ml-6">
                               <a href="https://play.google.com/store/apps/details?id=com.finance.xspswap&hl=en&gl=US" target="_blank" title="Android Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/android.svg"></a>
+                              <a href="https://apps.apple.com/in/app/xswap-wallet/id1665489721" target="_blank" title="iOS Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/ios.svg"></a>
                            </div>
                         </div>
                      </div>
@@ -390,7 +393,7 @@
                      </div>
                   </div>
                </div>
-               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+               <!--<div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
                   <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                      <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                         <div class="exchangeCard-header">
@@ -409,8 +412,48 @@
                         </div>
                      </div>
                   </div>
+               </div>-->
+               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                        <div class="exchangeCard-header">
+                           <div class="icon">
+                              <div class=""><img src="assets/images/wallets/xdc.svg" alt="XDC Web Wallet" /></div>
+                           </div>
+                           <div class="desc">
+                              <div class="card-infoHead">XDC Web Wallet</div>
+                              <p class="exchangeCard-type text-muted mb-0">XDC Wallet is a user-friendly, open-source interface for the XDC Network, enabling users to manage wallets, interact with smart contracts.</p>
+                           </div>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                           <div class="pairs fw-500 ml-6">
+                              <a href="https://wallet.xinfin.network/#/" target="_blank" title="Web Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/web.svg"></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
                </div>
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                        <div class="exchangeCard-header">
+                           <div class="icon">
+                              <div class=""><img src="assets/images/wallets/xdc.svg" alt="XDC Pay" /></div>
+                           </div>
+                           <div class="desc">
+                              <div class="card-infoHead">XDC Pay</div>
+                              <p class="exchangeCard-type text-muted mb-0">XDCPay is an extension for accessing XDC's XDPoS enabled distributed applications, or "Dapps" in your browser.</p>
+                           </div>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                           <div class="pairs fw-500 ml-6">
+                              <a href="https://chromewebstore.google.com/detail/xdcpay/bocpokimicclpaiekenaeelehdjllofo" target="_blank" title="Chrome Extension" class="WalletPlatform__link"><img src="assets/images/wallets/chrome.svg"></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <!--<div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
                   <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                      <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                         <div class="exchangeCard-header">
@@ -429,7 +472,7 @@
                         </div>
                      </div>
                   </div>
-               </div>
+               </div>-->
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
                   <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                      <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -449,7 +492,7 @@
                         </div>
                      </div>
                   </div>
-               </div>
+               </div>               
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
                   <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                      <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -549,7 +592,7 @@
                         </div>
                      </div>
                   </div>
-               </div>
+               </div>               
             </div>
          </div>
       </div>

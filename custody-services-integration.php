@@ -384,18 +384,18 @@
         </div>
 
         <div class="row mt-5">
-            <div class="col-lg-10 offset-lg-1 mb-4 mt-5">
-                <h3 class="title-m text-center">XDC Network Assessment and Analysis</h3>
+            <div class="col-lg-8 offset-lg-2 mb-4 mt-5">
+                <h3 class="title-m text-center">XDC Network Assessment and Chain Analysis</h3>
             </div>
         </div>
         <div class="row justify-content-center">
-            <div class="col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+            <div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info text-center">
-                        <img src="assets/images/inside-page/exchange-listing/slowmist-light.svg" class="center logoHp img-fluid iconL" />
-                        <img src="assets/images/inside-page/exchange-listing/slowmist.svg" class="center logoHp img-fluid iconD" />
+                        <img src="assets/images/inside-page/exchange-listing/slowmist-light.svg" class="center logoFs img-fluid iconL" />
+                        <img src="assets/images/inside-page/exchange-listing/slowmist.svg" class="center logoFs img-fluid iconD" />
                         <div class="card-infoHead mt-5 mb-1">XDC Network Audit Report</div>
-                        <p class="fs-6 mb-0">by SlowMist</p>
+                        <p class="fs-7 mb-0">by SlowMist</p>
                         <a href="docs/reports/xdposchain-security-audit-report.pdf" target="_blank" class="btn socialHead-button mt-auto">
                             View Now
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -405,13 +405,13 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+            <div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info text-center">
-                        <img src="assets/images/inside-page/exchange-listing/bcas-light.svg" class="center logoHp img-fluid iconL" />
-                        <img src="assets/images/inside-page/exchange-listing/bcas.svg" class="center logoHp img-fluid iconD" />
+                        <img src="assets/images/inside-page/exchange-listing/bcas-light.svg" class="center logoFs img-fluid iconL" />
+                        <img src="assets/images/inside-page/exchange-listing/bcas.svg" class="center logoFs img-fluid iconD" />
                         <div class="card-infoHead mt-5 mb-1">XDC Network Legal Opinion</div>
-                        <p class="fs-6 mb-0">By BCAS</p>
+                        <p class="fs-7 mb-0">By BCAS</p>
                         <a href="docs/reports/legal-opinion-liechtenstein-bcas-xdc-14jan2021.pdf" target="_blank" class="btn socialHead-button mt-auto">
                             View Now
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -421,15 +421,31 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+            <div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info text-center">
-                        <img src="assets/images/inside-page/exchange-listing/big-light.svg" class="center logoHp img-fluid iconL" />
-                        <img src="assets/images/inside-page/exchange-listing/big.svg" class="center logoHp img-fluid iconD" />
-                        <div class="card-infoHead mt-5 mb-1">XDC Chain Analysis</div>
-                        <p class="fs-6 mb-0">By Blockchain Intelligence Group</p>
+                        <img src="assets/images/inside-page/exchange-listing/big-light.svg" class="center logoFs img-fluid iconL" />
+                        <img src="assets/images/inside-page/exchange-listing/big.svg" class="center logoFs img-fluid iconD" />
+                        <div class="card-infoHead mt-5 mb-1">XDC Network Chain Analysis</div>
+                        <p class="fs-7 mb-0">By Blockchain Intelligence Group</p>
                         <a href="https://blockchaingroup.io/defi-enabled-enterprise-grade-hybrid-blockchain-xdc-network-gains-compliance-edge/" target="_blank" class="btn socialHead-button mt-auto">
                             View Now
+                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                    <div class="card-info text-center">
+                        <img src="assets/images/inside-page/exchange-listing/elliptic-light.svg" class="center logoFs img-fluid iconL" />
+                        <img src="assets/images/inside-page/exchange-listing/elliptic.svg" class="center logoFs img-fluid iconD" />
+                        <div class="card-infoHead mt-5 mb-1">XDC Network Chain Analysis</div>
+                        <p class="fs-7 mb-0">By Elliptic</p>
+                        <a href="https://www.elliptic.co/" target="_blank" class="btn socialHead-button mt-auto">
+                            Visit Now
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                             </svg>
@@ -461,7 +477,7 @@
                     <a href="https://t.me/xinfintech" target="_blank">
                         <button class="btn-blue"><i class="fa fa-paper-plane me-1"></i> Telegram Developers Community</button>
                     </a>
-                    <a href="https://howto.xinfin.org/" target="_blank">
+                    <a href="https://docs.xdc.community/" target="_blank">
                         <button class="btn-blue"><i class="fa fa-book me-1"></i> XDC Documents</button>
                     </a>
                 </div>

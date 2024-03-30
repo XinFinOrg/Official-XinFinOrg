@@ -1670,7 +1670,7 @@
                     <a href="https://t.me/xinfintech" target="_blank">
                         <button class="btn-blue"><i class="fa fa-paper-plane me-1"></i> Telegram Developers Community</button>
                     </a>
-                    <a href="https://howto.xinfin.org/" target="_blank">
+                    <a href="https://docs.xdc.community/" target="_blank">
                         <button class="btn-blue"><i class="fa fa-book me-1"></i> XDC Documents</button>
                     </a>
                 </div>
