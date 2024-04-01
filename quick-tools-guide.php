@@ -667,10 +667,19 @@
                         <button class="btn-blue"><i class="fas fa-comments me-1"></i> XDC Forum</button>
                     </a>
                     <a href="https://t.me/xinfintech" target="_blank">
-                        <button class="btn-blue"><i class="fa fa-paper-plane me-1"></i> Telegram Developers Community</button>
+                        <button class="btn-blue"><i class="fa fa-paper-plane me-1"></i> Telegram Dev Community</button>
                     </a>
                     <a href="https://docs.xdc.community/" target="_blank">
                         <button class="btn-blue"><i class="fa fa-book me-1"></i> XDC Documents</button>
+                    </a>
+                    <a href="https://coderun.ai/" target="_blank">
+                        <button class="btn-blue">
+                            <i class="fa me-1">
+                                <svg class="svg-icn" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 39 39">
+                                <path fill="#FFFFFF" d="M32,0H7.1C3.2,0,0,3.2,0,7.1V32C0,35.9,3.2,39,7.1,39H32c3.9,0,7.1-3.2,7.1-7.1V7.1C39,3.2,35.9,0,32,0zM7.4,16.3l6.5-7.1h6.9l-6.6,7.1l6.6,7.1h-6.9L7.4,16.3z M26.3,30.2h-6.9l6.6-7.1l-6.6-7.1h6.9l6.5,7.1L26.3,30.2z"/>        
+                                </svg>
+                            </i> AI based Technical Support
+						</button>
                     </a>
                 </div>
             </div>

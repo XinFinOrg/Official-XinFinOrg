@@ -450,6 +450,11 @@ section {
     grid-gap: 8px;
     gap: 8px;
 }
+.btn-blue i svg.svg-icn {
+    width: 17px;
+    height: auto;
+    margin-bottom: 2px;
+}
 
 @media (max-width: 767px) {
 	.btn-block.multi {
