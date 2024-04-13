@@ -44,7 +44,7 @@
                 <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                     <div class="card-info text-center">
                         <p class="fs-6 mb-3">Token Name</p>
-                        <div class="card-infoHead mb-0">XDC Mainnet</div>
+                        <div class="card-infoHead mb-0">XDC MainNet</div>
                     </div>
                 </div>
             </div>
@@ -126,7 +126,8 @@
                                         <p class="fs-6 mb-2"><a href="https://erpc.xinfin.network" target="_blank">https://erpc.xinfin.network</a></p>
                                         <p class="fs-6 mb-2"><a href="https://arpc.xinfin.network" target="_blank">https://arpc.xinfin.network</a></p>
                                         <p class="fs-6 mb-2"><a href="https://earpc.xinfin.network" target="_blank">https://earpc.xinfin.network</a></p>
-                                        <p class="fs-6 mb-0"><a href="https://xdc.public-rpc.com/" target="_blank">https://xdc.public-rpc.com/</a></p>
+                                        <p class="fs-6 mb-2"><a href="https://xdc.public-rpc.com/" target="_blank">https://xdc.public-rpc.com/</a></p>
+                                        <p class="fs-6 mb-0"><a href="https:/rpc.primenumbers.xyz/" target="_blank">https:/rpc.primenumbers.xyz/</a></p>
                                     </div>
                                 </div>
                             </div>
