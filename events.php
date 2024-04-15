@@ -467,7 +467,7 @@
 
 
 
-<section class="px-40 mb-5 pt-0">
+<section class="px-80 bg-lightgray">
     <div class="container">
     	<div class="row">
             <div class="col-lg-10 offset-lg-1">
@@ -479,7 +479,7 @@
             <div class="col-lg-12">
                 <div class="row">                    
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://ethindia.co/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
+                        <a href="https://ethindia.co/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/eth-india.jpg" class="img-fluid" alt="ETH INDIA" />
                                 <div class="ftr-arrow">
@@ -526,7 +526,7 @@
                         </a>
                     </div>
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://www.gtreview.com/events/americas/gtr-us-2023-new-york/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
+                        <a href="https://www.gtreview.com/events/americas/gtr-us-2023-new-york/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/gtr-us.jpg" class="img-fluid" alt="GTR US 2023" />
                                 <div class="ftr-arrow">
@@ -567,7 +567,7 @@
                         </a>
                     </div>
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://www.ethabudhabi.org/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
+                        <a href="https://www.ethabudhabi.org/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/ethabudhabi.jpg" class="img-fluid" alt="ETH AbuDhabi" />
                                 <div class="ftr-arrow">
@@ -614,7 +614,7 @@
                         </a>
                     </div>
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://www.gtreview.com/events/europe/gtr-turkey-2023-istanbul/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
+                        <a href="https://www.gtreview.com/events/europe/gtr-turkey-2023-istanbul/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/gtr.jpg" class="img-fluid" alt="GTR Turkey" />
                                 <div class="ftr-arrow">
@@ -655,7 +655,7 @@
                     </div>
                     
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://www.futureblockchainsummit.com/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
+                        <a href="https://www.futureblockchainsummit.com/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/fbs.jpg" class="img-fluid" alt="Future Blockchain Summit" />
                                 <div class="ftr-arrow">
@@ -703,7 +703,7 @@
                     </div>
                     
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://www.tradefinancedistribution.com/events/trade-finance-investor-day-2023" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
+                        <a href="https://www.tradefinancedistribution.com/events/trade-finance-investor-day-2023" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/tfid.jpg" class="img-fluid" alt="The Trade Finance Investor Day" />
                                 <div class="ftr-arrow">
@@ -751,7 +751,7 @@
                     </div>
                     
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://eblockchainconvention.com/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
+                        <a href="https://eblockchainconvention.com/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/ebc.jpg" class="img-fluid" alt="European Blockchain Convention 2023" />
                                 <div class="ftr-arrow">
@@ -799,7 +799,7 @@
                     </div>
                     
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://hackverse-tamil-nadu.devfolio.co/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
+                        <a href="https://hackverse-tamil-nadu.devfolio.co/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/hackverse.jpg" class="img-fluid" alt="Hackverse Chennai India" />
                                 <div class="ftr-arrow">
@@ -847,7 +847,7 @@
                     </div>
                     
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://www.fintechweek.hk/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
+                        <a href="https://www.fintechweek.hk/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/hk-fintech-week.jpg" class="img-fluid" alt="Hong Kong Fintech Week" />
                                 <div class="ftr-arrow">
@@ -895,7 +895,7 @@
                     </div>
                     
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://ethglobal.com/events/istanbul" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
+                        <a href="https://ethglobal.com/events/istanbul" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/ethglobal-istanbul.jpg" class="img-fluid" alt="GTR US 2023" />
                                 <div class="ftr-arrow">
@@ -944,7 +944,7 @@
                     </div>
                     
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://www.gtreview.com/events/europe/gtr-nordics-2022-stockholm/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
+                        <a href="https://www.gtreview.com/events/europe/gtr-nordics-2022-stockholm/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/gtr-nordics.jpg" class="img-fluid" alt="GTR Nordics" />
                                 <div class="ftr-arrow">
@@ -986,7 +986,7 @@
                     </div>
                     
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://fst.net.au/event/future-of-financial-services-sydney-2023/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
+                        <a href="https://fst.net.au/event/future-of-financial-services-sydney-2023/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/ffs.jpg" class="img-fluid" alt="Future of Financial Services, Sydney 2023" />
                                 <div class="ftr-arrow">
@@ -1034,7 +1034,7 @@
                     </div>
                     
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://blockchainweek.com.au/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
+                        <a href="https://blockchainweek.com.au/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/blockchainweek-2023.jpg" class="img-fluid" alt="BLOCKCHAIN WEEK 2023" />
                                 <div class="ftr-arrow">
@@ -1088,10 +1088,11 @@
 </section>
 
 
-<div class="astrodivider"><div class="astrodividermask"></div></div>
+<!--<div class="astrodivider"><div class="astrodividermask"></div></div>-->
+
 
 <!-- Need More Help Starts -->
-<section class="px-80 pt-0">
+<section class="px-80">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 offset-lg-2">
