@@ -293,6 +293,27 @@
                                     </div>
                                 </a>
                             </div>
+                            
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#lawBlocks">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class=""><img src="assets/images/ecosystem-dapps/lawblocks-icon.svg" alt="Law Blocks"></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Law Blocks</div>
+                                                <p class="lh-base mb-0">Law Blocks Creates your Smart Legal Contracts using Blockchain Technology.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#primeNumbers">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -788,26 +809,7 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#lawBlocks">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                    <div class=""><img src="assets/images/ecosystem-dapps/lawblocks-icon.svg" alt="Law Blocks"></div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">Law Blocks</div>
-                                                <p class="lh-base mb-0">Law Blocks Creates your Smart Legal Contracts using Blockchain Technology.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
+                            
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#stasisEurs">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -1295,20 +1297,22 @@
                                 </a>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#lawBlocks">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#circularityFinance">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
                                             <div class="exchangeCard-header justify-content-between align-items-center">
                                                 <div class="icon">
-                                                    <div class=""><img src="assets/images/ecosystem-dapps/lawblocks-icon.svg" alt="Law Blocks" /></div>
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/circularityFinance-icon.svg" class="" alt="Circularity Finance">
+                                                    </div>
                                                 </div>
                                                 <div class="desc label">
                                                     <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
                                                 </div>
                                             </div>
                                             <div class="">
-                                                <div class="card-infoHead mb-2">Law Blocks</div>
-                                                <p class="lh-base mb-0">Law Blocks Creates your Smart Legal Contracts using Blockchain Technology.</p>
+                                                <div class="card-infoHead mb-2">Circularity Finance</div>
+                                                <p class="lh-base mb-0">Circularity Finance is a pioneering project merging decentralized finance (DeFi) and sustainable development, utilizing blockchain technology.</p>
                                             </div>
                                         </div>
                                     </div>
