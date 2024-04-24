@@ -2463,3 +2463,6 @@ a .team-infoHead {
 	color: var(--color-whiteAlpha-100);
 	border: 1px solid #2f3e52;
 }
+
+.events-empty {display:block;margin-left: auto;margin-right: auto;}
+.events-empty svg {width: 50px;}
