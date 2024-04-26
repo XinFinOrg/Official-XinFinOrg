@@ -72,10 +72,10 @@
 
         <!-- ============= HEADER ============= -->
         <header class="autohide header-wrapper sticky-header">
-            <!--<div class="news-bar">
+            <div class="news-bar">
                 <p>
-                    Join XDC Network at TOKEN2049 - 18-19 April, 2024, Dubai.
-                    <a href="https://www.dubai.token2049.com/" target="_blank" class="news-bar-button">
+                    Join XDC Network at <b>Web3 Dubai</b> - 30 Apr - 1 May, 2024.
+                    <a href="https://web3dubai.io/" target="_blank" class="news-bar-button">
                         JOIN US
                         <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -83,7 +83,7 @@
                     </a>
                 </p>
                 <span class="closeNews"><i class="fas fa-close"></i></span>
-            </div>-->
+            </div>
 
             <nav class="navbar">
                 <!--<div class="navbar-content d-flex">-->

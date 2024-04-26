@@ -22,19 +22,19 @@
     <div class="container">
         <div class="row row-flex">
             <div class="col-lg-12">
-                <div class="row">                    
+                <div class="row justify-content-center">                    
                     
-                    <div class="col-lg-8 col-md-8 offset-lg-2 offset-md-2 mt-2 mb-3">
-                    <div class="events-empty text-center">
-                    	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="M4.129.5c.4 0 .726.325.726.726v.75c.618-.024 1.324-.024 2.124-.024h2.042c.8 0 1.506 0 2.124.024v-.75a.726.726 0 0 1 1.452 0v.894c.72.136 1.337.391 1.84.895.583.582.833 1.315.95 2.187.113.839.113 1.905.113 3.229V9.02c0 1.323 0 2.39-.113 3.229-.117.871-.367 1.605-.95 2.187-.582.583-1.316.833-2.187.95-.839.113-1.906.113-3.23.113H6.98c-1.323 0-2.39 0-3.23-.113-.87-.117-1.604-.367-2.186-.95-.583-.582-.833-1.316-.95-2.187C.5 11.411.5 10.344.5 9.02V8.432c0-1.324 0-2.39.113-3.23.117-.87.367-1.604.95-2.186.503-.504 1.12-.76 1.84-.895v-.894c0-.401.325-.726.726-.726Zm-1.54 3.541c.268-.268.644-.442 1.354-.538.731-.098 1.7-.1 3.09-.1h1.935c1.389 0 2.358.002 3.089.1.71.096 1.086.27 1.354.538s.442.644.538 1.354c.036.269.059.57.073.911H1.978c.014-.342.037-.642.073-.911.096-.71.27-1.086.538-1.354Zm-.637 3.717v1.21c0 1.389.001 2.358.1 3.089.095.71.27 1.086.537 1.354.268.267.644.442 1.354.538.731.098 1.7.1 3.09.1h1.935c1.389 0 2.358-.002 3.089-.1.71-.096 1.086-.27 1.354-.538s.442-.644.538-1.354c.098-.731.1-1.7.1-3.09v-.483l-.001-.726H1.952Z"></path></svg>
-                        <h2 class="subtitle subtitle-s fw-500 text-center mt-3 mb-0">Stay tuned for upcoming events.</h2>
-                    </div>
-                    </div>
+                    <!--<div class="col-lg-8 col-md-8 offset-lg-2 offset-md-2 mt-2 mb-3">
+                        <div class="events-empty text-center">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="M4.129.5c.4 0 .726.325.726.726v.75c.618-.024 1.324-.024 2.124-.024h2.042c.8 0 1.506 0 2.124.024v-.75a.726.726 0 0 1 1.452 0v.894c.72.136 1.337.391 1.84.895.583.582.833 1.315.95 2.187.113.839.113 1.905.113 3.229V9.02c0 1.323 0 2.39-.113 3.229-.117.871-.367 1.605-.95 2.187-.582.583-1.316.833-2.187.95-.839.113-1.906.113-3.23.113H6.98c-1.323 0-2.39 0-3.23-.113-.87-.117-1.604-.367-2.186-.95-.583-.582-.833-1.316-.95-2.187C.5 11.411.5 10.344.5 9.02V8.432c0-1.324 0-2.39.113-3.23.117-.87.367-1.604.95-2.186.503-.504 1.12-.76 1.84-.895v-.894c0-.401.325-.726.726-.726Zm-1.54 3.541c.268-.268.644-.442 1.354-.538.731-.098 1.7-.1 3.09-.1h1.935c1.389 0 2.358.002 3.089.1.71.096 1.086.27 1.354.538s.442.644.538 1.354c.036.269.059.57.073.911H1.978c.014-.342.037-.642.073-.911.096-.71.27-1.086.538-1.354Zm-.637 3.717v1.21c0 1.389.001 2.358.1 3.089.095.71.27 1.086.537 1.354.268.267.644.442 1.354.538.731.098 1.7.1 3.09.1h1.935c1.389 0 2.358-.002 3.089-.1.71-.096 1.086-.27 1.354-.538s.442-.644.538-1.354c.098-.731.1-1.7.1-3.09v-.483l-.001-.726H1.952Z"></path></svg>
+                            <h2 class="subtitle subtitle-s fw-500 text-center mt-3 mb-0">Stay tuned for upcoming events.</h2>
+                        </div>
+                    </div>-->
                     
-                    <!--<div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://www.ethdubaiconf.org/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
+                        <a href="https://web3dubai.io/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/ethdubai.jpg" class="img-fluid" alt="ETH Dubai" />
+                            	<img src="assets/images/inside-page/events/web3dubai.jpg" class="img-fluid" alt="WEB3 DUBAI" />
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -43,7 +43,7 @@
                             </div>
                             <div class="events-card_content-wrapper">
                                 <div class="events-card_content">
-                                    <h4 class="card-infoHead">ETH Dubai</h4>
+                                    <h4 class="card-infoHead">Web3 Dubai</h4>
                                     <div class="events-card_details-wrapper card-info">
                                         <div class="events-card_details">
                                             <div class="icon-1x1-small">
@@ -52,13 +52,13 @@
                                                 </svg>
                                             </div>
                                             <div class="events-card_date-wrapper">
-                                                <p class="mb-0">Apr 20, 2024</p>
+                                                <p class="mb-0">Apr 30, 2024</p>
                                                 <div class="icon-1x1-small w-embed">
                                                     <svg width="auto" height="auto" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M5 12.5H19M19 12.5L12 5.5M19 12.5L12 19.5" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                                                     </svg>
                                                 </div>
-                                                <p class="mb-0">Apr 21, 2024</p>
+                                                <p class="mb-0">May 1, 2024</p>
                                             </div>
                                         </div>
                                         <div class="events-card_details-subwrapper">
@@ -77,7 +77,7 @@
                                 </div>
                             </div>                            
                         </a>
-                    </div>-->
+                    </div>
                     
                 </div>
             </div>
@@ -90,7 +90,7 @@
 
 <!--<section class="px-40 mb-5 pt-0">
     <div class="container">
-    	<div class="row">
+    	<div class="row justify-content-center">
             <div class="col-lg-10 offset-lg-1">
                 <h1 class="title-m text-center mb-3">Upcoming XDC.dev Events</h1>
                 <h2 class="subtitle subtitle-s fw-500 text-center mb-0">S2308, Emirates Financial Towers, DIFC, Dubai UAE.</h2>
@@ -151,7 +151,7 @@
 
 <section class="px-80 bg-lightgray">
     <div class="container">
-    	<div class="row">
+    	<div class="row justify-content-center">
             <div class="col-lg-10 offset-lg-1">
                 <h1 class="title-m text-center mb-3">Past XDC Network Events</h1>
                 <h2 class="subtitle subtitle-s fw-500 text-center mb-0">Relive the excitement of past XDC Network events.</h2>
@@ -873,7 +873,7 @@
         
         <div class="row row-flex mt-4">
             <div class="col-lg-12">
-                <div class="row">
+                <div class="row justify-content-center">
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/melx25hw" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
