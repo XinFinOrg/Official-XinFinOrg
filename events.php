@@ -172,7 +172,7 @@
                             </div>
                             <div class="events-card_content-wrapper">
                                 <div class="events-card_content">
-                                    <h4 class="card-infoHead">TOKEN204</h4>
+                                    <h4 class="card-infoHead">TOKEN2049</h4>
                                     <div class="events-card_details-wrapper card-info">
                                         <div class="events-card_details">
                                             <div class="icon-1x1-small">
