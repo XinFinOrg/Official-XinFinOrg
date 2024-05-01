@@ -90,7 +90,7 @@ include 'inc/header.php';
             <div class="col-lg-4 col-md-4 mt-2 mb-2">
                 <div class="card bg-transparent overflow-hidden pt-4 pb-4 px-3 br-20 border-0">
                     <div class="card-info text-center w-100">
-                        <div class="fw-600 lh-1 fs-1 mb-3 counter-api"><span id="standby">150</div>
+                        <div class="fw-600 lh-1 fs-1 mb-3 counter-api"><span id="standby">256</span></div>
                         <p class="fw-500 fs-6">StandBy Masternode</p>
                     </div>
                 </div>
@@ -227,6 +227,114 @@ include 'inc/header.php';
                             </div>
                         </div>
                     </div>
+                    
+                    
+                    
+                    
+                    
+                    
+                    <div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
+                        <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="card-info text-center">
+                                <img src="assets/images/inside-page/masternode/tatum-light.svg" class="center logoFs img-fluid iconL" alt="tatum.io" />
+                                <img src="assets/images/inside-page/masternode/tatum.svg" class="center logoFs img-fluid iconD" alt="tatum.io" />
+                                <div class="card-infoHead mt-5 mb-3">Tatum</div>
+                                <p class="fs-6 mb-0"></p>
+                                <a href="https://tatum.io/" target="_blank" class="btn socialHead-button mt-auto">
+                                    Visit Now
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
+                        <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="card-info text-center">
+                                <img src="assets/images/inside-page/masternode/nownodes-light.svg" class="center logoFs img-fluid iconL" alt="nownodes.io" />
+                                <img src="assets/images/inside-page/masternode/nownodes.svg" class="center logoFs img-fluid iconD" alt="nownodes.io" />
+                                <div class="card-infoHead mt-5 mb-3">NOWNodes</div>
+                                <p class="fs-6 mb-0"></p>
+                                <a href="https://nownodes.io/" target="_blank" class="btn socialHead-button mt-auto">
+                                    Visit Now
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
+                        <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="card-info text-center">
+                                <img src="assets/images/inside-page/masternode/asternodes-light.svg" class="center logoFs img-fluid iconL" alt="asternodes.io" />
+                                <img src="assets/images/inside-page/masternode/asternodes.svg" class="center logoFs img-fluid iconD" alt="asternodes.io" />
+                                <div class="card-infoHead mt-5 mb-3">Asternodes</div>
+                                <p class="fs-6 mb-0"></p>
+                                <a href="https://www.asternodes.io/" target="_blank" class="btn socialHead-button mt-auto">
+                                    Visit Now
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
+                        <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="card-info text-center">
+                                <img src="assets/images/inside-page/masternode/ankr-light.svg" class="center logoFs img-fluid iconL" alt="ankr.com" />
+                                <img src="assets/images/inside-page/masternode/ankr.svg" class="center logoFs img-fluid iconD" alt="ankr.com" />
+                                <div class="card-infoHead mt-5 mb-3">Ankr</div>
+                                <p class="fs-6 mb-0"></p>
+                                <a href="https://www.ankr.com/" target="_blank" class="btn socialHead-button mt-auto">
+                                    Visit Now
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
+                        <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="card-info text-center">
+                                <img src="assets/images/inside-page/masternode/thirdweb-light.svg" class="center logoFs img-fluid iconL" alt="thirdweb.com" />
+                                <img src="assets/images/inside-page/masternode/thirdweb.svg" class="center logoFs img-fluid iconD" alt="thirdweb.com" />
+                                <div class="card-infoHead mt-5 mb-3">thirdweb</div>
+                                <p class="fs-6 mb-0"></p>
+                                <a href="https://thirdweb.com/" target="_blank" class="btn socialHead-button mt-auto">
+                                    Visit Now
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
+                        <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="card-info text-center">
+                                <img src="assets/images/inside-page/masternode/goldsky-light.svg" class="center logoFs img-fluid iconL" alt="goldsky.com" />
+                                <img src="assets/images/inside-page/masternode/goldsky.svg" class="center logoFs img-fluid iconD" alt="goldsky.com" />
+                                <div class="card-infoHead mt-5 mb-3">Goldsky</div>
+                                <p class="fs-6 mb-0"></p>
+                                <a href="https://goldsky.com/" target="_blank" class="btn socialHead-button mt-auto">
+                                    Visit Now
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
                 </div>
             </div>
         </div>
