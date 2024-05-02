@@ -72,7 +72,7 @@
 
         <!-- ============= HEADER ============= -->
         <header class="autohide header-wrapper sticky-header">
-            <div class="news-bar">
+            <!--<div class="news-bar">
                 <p>
                     Join XDC Network at <b>Web3 Dubai</b> - 30 Apr - 1 May, 2024.
                     <a href="https://web3dubai.io/" target="_blank" class="news-bar-button">
@@ -83,7 +83,7 @@
                     </a>
                 </p>
                 <span class="closeNews"><i class="fas fa-close"></i></span>
-            </div>
+            </div>-->
 
             <nav class="navbar">
                 <!--<div class="navbar-content d-flex">-->
