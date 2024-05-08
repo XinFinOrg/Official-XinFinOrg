@@ -28,7 +28,8 @@
                 <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="mb-4">
-                        	<img src="assets/images/inside-page/incubator/foundershiphq.svg" class="incLogo bg-light75" />
+                        	<img src="assets/images/inside-page/incubator/foundershiphq.svg" class="incLogo bg-light75 iconD" />
+                            <img src="assets/images/inside-page/incubator/foundershiphq_light.svg" class="incLogo bg-light75 iconL" />
                         </div>
                         <div class="card-infoHead mb-3"><span class="fw-600">XDC 0xCAMP Token Launch</span></div>
                         <p class="fs-6 mb-0">A 3-month world-class cohort program where top startups from around the globe join to get token-launch ready and get upto $100,000 investment from XDC Network.</p>
@@ -49,7 +50,8 @@
                 <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="mb-4">
-                        	<img src="assets/images/inside-page/incubator/tenity.svg" class="incLogo bg-light75" />
+                        	<img src="assets/images/inside-page/incubator/tenity.svg" class="incLogo bg-light75 iconD" />
+                            <img src="assets/images/inside-page/incubator/tenity_light.svg" class="incLogo bg-light75 iconL" />
                         </div>
                         <div class="card-infoHead mb-3"><span class="fw-600">XDC Accelerator Program</span></div>
                         <p class="fs-6 mb-0">XDC Accelerator is a 12-week accelerator program aim at helping early stage blockchain startups build and grow in the vibrant XDC Ecosystem.</p>
