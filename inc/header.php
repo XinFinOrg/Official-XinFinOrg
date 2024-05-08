@@ -72,9 +72,9 @@
 
         <!-- ============= HEADER ============= -->
         <header class="autohide header-wrapper sticky-header">
-            <!--<div class="news-bar">
+            <div class="news-bar">
                 <p>
-                    Join XDC Network at <b>Web3 Dubai</b> - 30 Apr - 1 May, 2024.
+                    Join XDC Network at <b>Blockchain Rio</b> - 24 July - 25 July, 2024.
                     <a href="https://web3dubai.io/" target="_blank" class="news-bar-button">
                         JOIN US
                         <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -83,7 +83,7 @@
                     </a>
                 </p>
                 <span class="closeNews"><i class="fas fa-close"></i></span>
-            </div>-->
+            </div>
 
             <nav class="navbar">
                 <!--<div class="navbar-content d-flex">-->

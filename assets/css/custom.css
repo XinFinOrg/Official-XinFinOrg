@@ -2466,3 +2466,6 @@ a .team-infoHead {
 
 .events-empty {display:block;margin-left: auto;margin-right: auto;}
 .events-empty svg {width: 50px;}
+
+.pDate {border-top: 1px solid #ccddf5;border-bottom: 1px solid #ccddf5;padding: 10px 0px;}
+.aDate {border-bottom: 1px solid #ccddf5;padding: 10px 0px;}
