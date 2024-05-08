@@ -1,6 +1,6 @@
 <?php 
    $title = "XDC Incubation Program";
-   $desc = "Join XDC Ecosystem.";
+   $desc = "XDC Incubation and Acceleration Program.";
     
     include('inc/header.php') ?>
 
