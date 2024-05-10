@@ -2469,7 +2469,7 @@ a .team-infoHead {
 
 .pDate {border-top: 1px solid #ccddf5;border-bottom: 1px solid #ccddf5;padding: 10px 0px;}
 .aDate {border-bottom: 1px solid #ccddf5;padding: 10px 0px;}
-.card-info img.incLogo {height: 50px;width: auto;border-radius: 6px;padding: 6px;border: 1px solid #f3f5f6;}
+.card-info img.incLogo {height: 70px;width: auto;border-radius: 6px;padding: 6px;border: 1px solid #f3f5f6;}
 
 .darkTheme .pDate {border-top-color:rgb(42 56 75);border-bottom-color: rgb(42 56 75);}
 .darkTheme .aDate {border-color: rgb(42 56 75);}
