@@ -264,6 +264,22 @@
                 <div class="row custodian-wallets justify-content-lg-start justify-content-md-start justify-content-sm-center">
                     <div class="col-lg-4 col-md-4 col-sm-6 col-6">
                         <div>
+                            <a href="https://wagmi.sh/" target="_blank">
+                                <img src="assets/images/ecosystem-partners/wagmi.svg" class="img-fluid iconD" />
+                                <img src="assets/images/ecosystem-partners/wagmi-light.svg" class="img-fluid iconL" />
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-6 col-6">
+                        <div>
+                            <a href="https://viem.sh/" target="_blank">
+                                <img src="assets/images/ecosystem-partners/viem.svg" class="img-fluid iconD" />
+                                <img src="assets/images/ecosystem-partners/viem-light.svg" class="img-fluid iconL" />
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-6 col-6">
+                        <div>
                             <a href="https://cordite.foundation/" target="_blank">
                                 <img src="assets/images/ecosystem-partners/cordite.svg" class="img-fluid iconD" />
                                 <img src="assets/images/ecosystem-partners/cordite-light.svg" class="img-fluid iconL" />
