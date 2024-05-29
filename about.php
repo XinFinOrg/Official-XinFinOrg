@@ -103,10 +103,19 @@
                             <div class="h-100 card bg-transparent br-20 border-0">
                                 <img src="assets/images/team/advisors/tadashi-yoshida.jpg" class="img-fluid team-img br-15" alt="Tadashi Yoshida" />
                                 <h3 class="team-infoHead mt-3 mb-2">Tadashi Yoshida</h3>
-                                <p class="text-muted lh-sm mb-0">Chief Operating Officer, SBI XDC Network APAC Co. Ltd. Head of Japan, XDC Network</p>
+                                <p class="text-muted lh-sm mb-0">Senior Principal Advisor and Head of Japan, XDC Network</p>
                             </div>
                         </a>
                     </div>
+                    <!--<div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
+                        <a href="#" data-bs-toggle="modal" data-bs-target="#chihiro-kato" class="team">
+                            <div class="h-100 card bg-transparent br-20 border-0">
+                                <img src="assets/images/team/advisors/chihiro-kato.jpg" class="img-fluid team-img br-15" alt="Chihiro Kato" />
+                                <h3 class="team-infoHead mt-3 mb-2">Chihiro Kato</h3>
+                                <p class="text-muted lh-sm mb-0">Chief Strategy Officer, SBI XDC Network APAC Co. Ltd. Head of APAC, XDC Network</p>
+                            </div>
+                        </a>
+                    </div>-->
                 </div>
             </div>
         </div>
@@ -322,14 +331,62 @@
                     <div class="team__content">
                         <div class="short-desc">
                             <h2 class="fw-6">Tadashi Yoshida</h2>
-                            <p class="designation fs-6">Ecosystem Development, Japan</p>
+                            <p class="designation fs-6">Senior Principal Advisor and Head of Japan, XDC Network</p>
                         </div>
                         <div class="long-desc">
                             <div class="mt-0 my-4">
                                 <p class="fs-6">A specialist in developing and managing startup support programs including accelerator and incubation program, Tadashi initiated and operated the Japan's first govt. managed accelerator program at SME support Japan. Having extended support to several new startups development in Japan, he has gained extensive experience in providing consultation and ideation of business ideas across the globe.</p>
                             </div>
                         </div>
+                        <div class="team__footer">
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div>
+                                    <a href="https://jp.linkedin.com/in/tadashi-yoshida-9936365" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fa fa-paper-plane"></i> LinkedIn</button>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="chihiro-kato" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="team-details-flex-row">
+                    <div class="team__img">
+                        <img src="assets/images/team/advisors/chihiro-kato.jpg" class="img-fluid br-15" />
+                    </div>
+                    <div class="team__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Chihiro Kato</h2>
+                            <p class="designation fs-6">Chief Strategy Officer, SBI XDC Network APAC Co. Ltd. Head of APAC, XDC Network</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p class="fs-6"></p>
+                            </div>
+                        </div>
+                        <div class="team__footer">
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div>
+                                    <a href="https://jp.linkedin.com/in/chihiro-kato-890b93102" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fa fa-paper-plane"></i> LinkedIn</button>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>                    
                 </div>
             </div>
         </div>

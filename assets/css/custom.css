@@ -2330,6 +2330,7 @@ body.modal-open {
 .team__img img {width: 200px;height: auto;}
 .team__content {flex: 1 1 0%;margin: 0px 2rem 0px 1.75rem;}
 .team__content h2 {margin-top: 0px;}
+.team__content .designation {font-weight: 600;}
 .team__content .designation:after {background-color: #dee2e6;bottom: -10px;height: 2px;width: 60px;position: relative;content: "";display: block;margin-bottom:25px;}
 .darkTheme .team__content .designation:after {background-color: #2d3643;}
 
