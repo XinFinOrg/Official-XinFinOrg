@@ -32,7 +32,7 @@
                     </div>-->
                     
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://blockchainrio.com.br/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
+                        <a href="https://blockchainrio.com.br/en/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/blockchain-rio.jpg" class="img-fluid" alt="Blockchain Rio" />
                                 <div class="ftr-arrow">
