@@ -36,7 +36,7 @@
                     <div class="card-info text-center">
                         <img src="assets/images/inside-page/masternode/windows.svg" class="center img-fluid" />
                         <div class="card-infoHead mt-3 mb-3">Operating System</div>
-                        <p class="fs-6 mb-0">CentOS or RedHat Enterprise Linux (latest release) or Ubuntu (15.04+) supported</p>
+                        <p class="fs-6 mb-0">CentOS or RedHat Enterprise Linux (latest release) or Ubuntu (20.04+) supported</p>
                     </div>
                 </div>
             </div>
@@ -54,7 +54,7 @@
                     <div class="card-info text-center">
                         <img src="assets/images/inside-page/masternode/cpu.svg" class="center img-fluid" />
                         <div class="card-infoHead mt-3 mb-3">CPU</div>
-                        <p class="fs-6 mb-0">A 64-bit x86_64 processor with a minimum of 2 cores</p>
+                        <p class="fs-6 mb-0">A 64-bit x86_64 processor with a minimum of 6 cores</p>
                     </div>
                 </div>
             </div>
@@ -63,7 +63,7 @@
                     <div class="card-info text-center">
                         <img src="assets/images/inside-page/masternode/disk.svg" class="center img-fluid" />
                         <div class="card-infoHead mt-3 mb-3">Disk</div>
-                        <p class="fs-6 mb-0">Minimum 300GB SSD is recommended for the database partition, with 500+ IOPS (more is always better)</p>
+                        <p class="fs-6 mb-0">Minimum 800GB SSD is recommended for the database partition, with 500+ IOPS (more is always better)</p>
                     </div>
                 </div>
             </div>

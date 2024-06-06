@@ -193,16 +193,16 @@
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
                                             <div class="icon">
-                                                <div class=""><img src="assets/images/exchanges/huobi.svg" alt="Huobi" /></div>
+                                                <div class=""><img src="assets/images/exchanges/htx.svg" alt="HTX" /></div>
                                             </div>
                                             <div class="desc">
-                                                <div class="card-infoHead">Huobi</div>
+                                                <div class="card-infoHead">HTX</div>
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
                                         <div class="d-flex gap-3">
                                             <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
-                                            <div class="pairs fw-500"><a href="https://www.huobi.com/en-us/exchange/xdc_usdt" target="_blank">USDT</a></div>
+                                            <div class="pairs fw-500"><a href="https://www.htx.com/trade/xdc_usdt" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -319,6 +319,82 @@
                                         <div class="d-flex gap-3">
                                             <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://whitebit.com/trade/XDC-ETH" target="_blank">ETH</a>, <a href="https://whitebit.com/trade/XDC-USDT" target="_blank">USDT</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/coinstore.svg" alt="Coinstore" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">Coinstore</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
+                                            <div class="pairs fw-500"><a href="https://www.coinstore.com/spot/XDCUSDT" target="_blank">USDT</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/giottus.svg" alt="Giottus" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">Giottus</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
+                                            <div class="pairs fw-500"><a href="https://www.giottus.com/tradeview/XDC-INR" target="_blank">INR</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/lcx.svg" alt="LCX" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">LCX</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
+                                            <div class="pairs fw-500"><a href="https://exchange.lcx.com/trade/XDC-EUR" target="_blank">EUR</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/mexc.svg" alt="MEXC" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">MEXC</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
+                                            <div class="pairs fw-500"><a href="https://www.mexc.com/exchange/XDC_USDT" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>
