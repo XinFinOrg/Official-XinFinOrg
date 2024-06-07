@@ -404,6 +404,25 @@
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
                                             <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/poloniex.svg" alt="Poloniex" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">Poloniex</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
+                                            <div class="pairs fw-500"><a href="https://poloniex.com/trade/XDC_USDT/?type=spot" target="_blank">USDT</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
                                                 <div class=""><img src="assets/images/exchanges/coindcx.svg" alt="CoinDCX" /></div>
                                             </div>
                                             <div class="desc">
@@ -834,6 +853,24 @@
                                         </div>
                                         <div class="d-flex justify-content-between">
                                             <div class="pairs fw-500 ml-6"><a href="https://changelly.com/" target="_blank">Swap Now</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/topper.svg" alt="Topper" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">Topper</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Crosschain Swap</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex justify-content-between">
+                                            <div class="pairs fw-500 ml-6"><a href="https://app.topperpay.com/?wst_id=955574d0-934a-4853-8cb6-9d02b2879c57" target="_blank">Swap Now</a></div>
                                         </div>
                                     </div>
                                 </div>
