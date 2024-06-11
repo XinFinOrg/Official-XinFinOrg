@@ -193,6 +193,25 @@
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
                                             <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/bitoasis.svg" alt="BitOasis" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">BitOasis</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
+                                            <div class="pairs fw-500"><a href="https://bitoasis.net/en/prices/XDC-AED" target="_blank">AED</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
                                                 <div class=""><img src="assets/images/exchanges/htx.svg" alt="HTX" /></div>
                                             </div>
                                             <div class="desc">
@@ -870,7 +889,7 @@
                                             </div>
                                         </div>
                                         <div class="d-flex justify-content-between">
-                                            <div class="pairs fw-500 ml-6"><a href="https://app.topperpay.com/?wst_id=955574d0-934a-4853-8cb6-9d02b2879c57" target="_blank">Swap Now</a></div>
+                                            <div class="pairs fw-500 ml-6"><a href="https://app.topperpay.com/?wst_id=b59e2a93-4150-4958-b642-970ca0746dcd" target="_blank">Swap Now</a></div>
                                         </div>
                                     </div>
                                 </div>

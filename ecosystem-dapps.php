@@ -395,6 +395,29 @@
                                 </a>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#xdcTradeNetwork">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/xdctradenetwork-icon.svg" class="iconD" alt="XDC Trade Network">
+                                                        <img src="assets/images/ecosystem-dapps/xdctradenetwork-icon_light.svg" class="iconL" alt="XDC Trade Network">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">XDC Trade Network</div>
+                                                <p class="lh-base mb-0">XDC Trade Network is a blockchain-based platform that aims to simplify global trade finance by making it more digital and efficient.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#mintnite">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -1124,6 +1147,29 @@
                                             <div class="">
                                                 <div class="card-infoHead mb-2">TradeFinex</div>
                                                 <p class="lh-base mb-0">TradeFinex.org is a p2p trade finance platform to create trade instruments of value between buyers and sellers in Trade Finance market.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#xdcTradeNetwork">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/xdctradenetwork-icon.svg" class="iconD" alt="XDC Trade Network">
+                                                        <img src="assets/images/ecosystem-dapps/xdctradenetwork-icon_light.svg" class="iconL" alt="XDC Trade Network">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">XDC Trade Network</div>
+                                                <p class="lh-base mb-0">XDC Trade Network is a blockchain-based platform that aims to simplify global trade finance by making it more digital and efficient.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -2886,6 +2932,62 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                                     </a>
                                     <a href="https://gitlab.com/Impel-official" target="_blank">
                                         <button class="btn btn-hover btn-gitlab"><i class="fab fa-gitlab"></i> GitLab</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="xdcTradeNetwork" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/xdctradenetwork-icon.svg" class="iconD" alt="XDC Trade Network">
+                                <img src="assets/images/ecosystem-dapps/xdctradenetwork-icon_light.svg" class="iconL" alt="XDC Trade Network">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">XDC Trade Network</h2>
+                            <p>XDC Trade Network is a blockchain-based platform that aims to simplify global trade finance by making it more digital and efficient. It focuses on using digital documents, secure payments, and partnerships to streamline the trade finance process.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>The platform aims to digitize and automate trade finance processes, offering benefits like real-time tracking, reduced paperwork, faster transactions, and improved accessibility for small and medium-sized enterprises (SMEs).</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://www.xdctrade.network/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="hhttps://x.com/XDCTradeNetwork" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/xdc-trade-network/" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-github"></i> LinkedIn</button>
+                                    </a>
+                                    <a href="https://medium.com/@xdctradenetwork" target="_blank">
+                                        <button class="btn btn-hover btn-medium"><i class="fab fa-discord"></i> Medium</button>
                                     </a>
                                 </div>
                             </div>
