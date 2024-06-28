@@ -1,6 +1,6 @@
 <?php 
-   $title = "XDC Incubation Program";
-   $desc = "XDC Incubation and Acceleration Program.";
+   $title = "XDC Accelerator Program";
+   $desc = "XDC Acceleration Program.";
     
     include('inc/header.php') ?>
 
@@ -10,9 +10,9 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-md-12 hero-content">
-                <h1 class="title-m text-center mb-0">XDC Incubation Program</h1>
+                <h1 class="title-m text-center mb-0">XDC Accelerator Program</h1>
                 <h2 class="subtitle subtitle-s fw-500 text-center mb-0">
-                    The XDC Incubation Program supports blockchain startups on XDC Network, providing mentorship, resources, and networking. It guides participants through product development, marketing, fundraising, and community building to foster innovation and blockchain adoption.
+                    The XDC Accelerator Program supports blockchain startups on XDC Network, providing mentorship, resources, and networking. It guides participants through product development, marketing, fundraising, and community building to foster innovation and blockchain adoption.
                 </h2>
             </div>
         </div>

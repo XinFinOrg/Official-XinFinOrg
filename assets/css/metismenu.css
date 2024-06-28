@@ -374,7 +374,6 @@ li {
   }
 }
 
-
 .header-wrapper .main-menu ul {
   line-height: 1;
 }
@@ -395,8 +394,8 @@ li {
   color: #001c47;
   line-height: 1;
   overflow: hidden;
-  letter-spacing: 0.25px;
-  padding: 15px;
+  letter-spacing: 0.05px;
+  padding: 15px 12px;
 }
 
 .header-wrapper .main-menu ul > li > a .btn-blue {
@@ -407,7 +406,13 @@ li {
 }
 
 .header-wrapper .main-menu ul > li > a.cta {
-  padding: 4px 0px 4px 20px;	
+  margin: 4px 0px 4px 0px;
+  padding: 0px;
+}
+
+.header-wrapper .main-menu ul > li > a.cta.hashbtn {
+  margin: 4px 0px 4px 10px;
+  padding: 0px;
 }
 
 .header-wrapper .main-menu ul > li .icon {

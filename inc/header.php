@@ -137,6 +137,9 @@
                                                 <li><a href="https://remix.xinfin.network" target="_blank">XDC Network Remix</a></li>
                                             </ul>
                                         </li>
+                                        <li>
+                                            <a href="xdc-accelerator-program">Join Accelerator</a>
+                                        </li>
 
                                         <li>
                                             <a class="cta themeSwitcher ps-0">
@@ -184,7 +187,7 @@
                                         </li>
 
                                         <li>
-                                            <a href="ecosystem-dapps" class="cta"><button class="btn-blue">#BuildOnXDC</button></a>
+                                            <a href="ecosystem-dapps" class="cta hashbtn"><button class="btn-blue">#BuildOnXDC</button></a>
                                         </li>
                                     </ul>
                                 </div>
@@ -216,7 +219,9 @@
                                             <li><a href="https://github.com/XinFinorg" target="_blank">GitHub</a></li>
                                         </ul>
                                     </li>
-                                    <a href="ecosystem-dapps">Ecosystem dApps</a>
+                                    <li>
+                                        <a href="ecosystem-dapps">Ecosystem dApps</a>
+                                    </li>
                                     <li>
                                         <a href="#" class="has-arrow">Community</a>
                                         <ul class="sub-menu">
@@ -235,6 +240,9 @@
                                             <li><a href="https://faucet.apothem.network" target="_blank">XDC Faucet</a></li>
                                             <li><a href="https://remix.xinfin.network" target="_blank">XDC Network Remix</a></li>
                                         </ul>
+                                    </li>
+                                    <li>
+                                        <a href="xdc-accelerator-program">Join Accelerator</a>
                                     </li>
                                 </ul>
                             </nav>

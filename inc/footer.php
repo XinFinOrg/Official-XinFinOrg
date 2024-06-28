@@ -68,7 +68,7 @@
                     <div class="footer-widget">
                         <div class="colHeader">Other Links</div>
                             <a href="contact">Contact Us</a><br/>
-                            <a href="xdc-incubation-program">XDC Incubation Program</a><br/>
+                            <a href="xdc-accelerator-program">Join Accelerator</a><br/>
                             <a href="exchange-listing-resource">Exchange Listing Resource</a><br/>
                             <a href="custody-services-integration">Custody Services Integration</a><br/>
                             <a href="brand-assets">Brand Assets</a><br/>
