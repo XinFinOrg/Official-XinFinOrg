@@ -139,7 +139,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="blockchainData-list">
                     <div class="subHeading">Zero fee</div>
-                    <div class="heading">$<span class="counter">0.001</span></div>
+                    <div class="heading">$<span class="counter">0.00001</span></div>
                     <div class="desc">Literally Zero for transaction gas fee</div>
                 </div>
             </div>
