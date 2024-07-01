@@ -2470,8 +2470,18 @@ a .team-infoHead {
 
 .pDate {border-top: 1px solid #ccddf5;border-bottom: 1px solid #ccddf5;padding: 10px 0px;}
 .aDate {border-bottom: 1px solid #ccddf5;padding: 10px 0px;}
-.card-info img.incLogo {height: 70px;width: auto;border-radius: 6px;padding: 6px;border: 1px solid #f3f5f6;}
+.card-info img.incLogo {height: 70px;width: auto;border-radius: 6px;padding: 8px 16px;border: 1px solid #f3f5f6;}
 
 .darkTheme .pDate {border-top-color:rgb(42 56 75);border-bottom-color: rgb(42 56 75);}
 .darkTheme .aDate {border-color: rgb(42 56 75);}
 .darkTheme .card-info img.incLogo {border-color: rgb(42 56 75);}
+
+.closedTag {
+    font-size: 16px;
+    color: #fc5e16!important;
+    font-weight: 500;
+    text-align: left;
+    padding: 18px 0px 0px 0px;
+    text-decoration: none !important;
+    transition-duration: 0.2s;
+}
