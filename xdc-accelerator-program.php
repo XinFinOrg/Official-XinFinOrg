@@ -14,6 +14,14 @@
                 <h2 class="subtitle subtitle-s fw-500 text-center mb-0">
                     The XDC Accelerator Program supports blockchain startups on XDC Network, providing mentorship, resources, and networking. It guides participants through product development, marketing, fundraising, and community building to foster innovation and blockchain adoption.
                 </h2>
+                <h2 class="subtitle subtitle-s fw-500 text-center mb-0">
+                    We encourage projects applying for the Accelerators to integrate to the XDC Network first.
+                </h2>
+                <div class="btn-block">
+                    <a href="https://forms.gle/gQcopGCDuta7fECq7" target="_blank">
+                        <button class="btn-blue">Apply For Grant Bounty</button>
+                    </a>
+                </div>
             </div>
         </div>
     </div>
@@ -34,8 +42,8 @@
                         <div class="card-infoHead mb-3"><span class="fw-600">XDC 0xCAMP Token Launch</span></div>
                         <p class="fs-6 mb-0">A 3-month world-class cohort program where top startups from around the globe join to get token-launch ready and get upto $100,000 investment from XDC Network.</p>
                         <div class="dateBox mt-3">
-                        	<p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 03 June 2024</p>
-                        	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 17 May 2024</p>
+                        	<p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 8 July to 7 October 2024</p>
+                        	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 30 June 2024</p>
                         </div>
                         
                         <a href="https://foundershiphq.com/xdc-0xcamp" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
