@@ -46,7 +46,7 @@
                         	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 30 June 2024</p>
                         </div>
                         
-                        <h2 class="closedTag">APPLICATIONS CLOSED!</h2>
+                        <h2 class="closedTag">Applications Closed!</h2>
                         <!--<a href="https://foundershiphq.com/xdc-0xcamp" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -92,7 +92,7 @@
                         	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 26 August 2024</p>
                         </div>
                         
-                        <h2 class="closedTag">COMING SOON...</h2>
+                        <h2 class="closedTag">Coming Soon...</h2>
                         <!--<a href="https://www.brinc.io/" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
