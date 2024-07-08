@@ -2223,7 +2223,7 @@ body.modal-open {
 
 
 
-.modal-body .project__content p {line-height: 20px;}
+.modal-body .project__content p {line-height: 20px;margin-bottom: 0.75rem;}
 .project-details-flex-row {display: flex;flex-direction: row}
 .project__img {width: 120px;height: 120px;}
 .project__content {flex: 1 1 0%;margin: 0px 2rem 0px 1.75rem;}
@@ -2231,6 +2231,9 @@ body.modal-open {
 .web-visit-btn .socialHead-button {padding: 10px 20px!important;color: #FFFFFF;}
 .web-visit-btn .socialHead-button .icon {color: #ffffff;}
 
+.modal-body .project__content ul {list-style-type: disc;line-height: 16px:margin-top: 10px;}
+.modal-body .project__content ul li {list-style-type: disc;margin-left: 16px;line-height: 18px;margin-top: 10px;}
+.darkTheme .modal-body .project__content ul li {color: var(--dt-subText-color);}
 
 .usecase-box-1 {border-radius: 8px;display: block;position: relative;padding: 0px 5px 15px 5px;}
 .usecase-box-1 .image-container {padding: 5px; display: -ms-flexbox;display: flex;text-align: center;-ms-flex-align: center;align-items: center;font: 0/0 a;border-bottom: 1px solid #eaecee;margin-bottom: 15px;border-radius: 10px;background-color:#FFFFFF;-webkit-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);-moz-box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);box-shadow: 0px 1px 6px 0px rgba(0,0,0,0.05);}
@@ -2247,6 +2250,7 @@ body.modal-open {
 .btn-twitter {background: rgba(0, 155, 239, 1);}
 .btn-linkedin {background: rgb(2, 112, 173, 1);}
 .btn-telegram {background: rgba(44, 163, 219, 1);}
+.btn-facebook {background: rgb(24, 119, 242, 1);}
 .btn-discord {background: rgba(88, 101, 241, 1);}
 .btn-github {background: rgba(75, 60, 255, 1);}
 .btn-gitlab {background: rgba(226, 67, 42, 1);}

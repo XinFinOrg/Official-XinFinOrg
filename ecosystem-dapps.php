@@ -140,6 +140,28 @@
                                 </a>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#swiftcourt">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/swiftcourt-icon.svg" class="" alt="Swiftcourt">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Swiftcourt</div>
+                                                <p class="lh-base mb-0">Swiftcourt deploys smart contracts on the XDC network to govern escrow processes and mint NFTs and utility tokens to facilitate real-time transactions.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#validProtocol">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -1243,6 +1265,28 @@
                 <div class="tab-pane fade" id="nav-defi" role="tabpanel" aria-labelledby="nav-defi-tab">
                     <div class="col-lg-12">
                         <div class="row justify-content-center">                            
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#swiftcourt">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/swiftcourt-icon.svg" class="" alt="Swiftcourt">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Swiftcourt</div>
+                                                <p class="lh-base mb-0">Swiftcourt deploys smart contracts on the XDC network to govern escrow processes and mint NFTs and utility tokens to facilitate real-time transactions.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#validProtocol">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -4148,6 +4192,67 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                                     </a>
                                     <a href="https://github.com/razor-network" target="_blank">
                                         <button class="btn btn-hover btn-github"><i class="fab fa-github"></i> GitHub</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="swiftcourt" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img class="img-responsive" src="assets/images/ecosystem-dapps/swiftcourt-icon.svg" alt="Swiftcourt" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Swiftcourt</h2>
+                            <p>Swiftcourt deploys smart contracts on the XDC network to govern escrow processes and mint NFTs and utility tokens to facilitate real-time transactions.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                            <p>Eliminating delays caused by traditional banking rails, Swiftcourt enables transactions in both fiat currency and crypto through the use of blockchain, ensuring quicker settlement times.</p>    
+                            <p>Below are the advantages of Swiftcourt:<br>
+                                    <ul class="">
+                                        <li>Real-time transactions eliminating delays caused by traditional banking rails</li>
+                                        <li>Escrow Governance reducing need for intermediaries and minimizing disputes</li>
+                                        <li>Conduct transactions in fiat currency through the use of blockchain ensuring quicker settlement times</li>
+                                        <li>Enhanced security and transparency</li>
+                                        <li>Lower cost of transactions</li>
+                                    </ul>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://swiftcourt.com/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://www.linkedin.com/company/swiftcourt/" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-twitter"></i> LinkedIn</button>
+                                    </a>
+                                    <a href="https://www.facebook.com/swiftcourtOfficial" target="_blank">
+                                        <button class="btn btn-hover btn-facebook"><i class="fa fa-paper-plane"></i> Facebook</button>
                                     </a>
                                 </div>
                             </div>
