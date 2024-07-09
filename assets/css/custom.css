@@ -2480,6 +2480,10 @@ a .team-infoHead {
 .darkTheme .aDate {border-color: rgb(42 56 75);}
 .darkTheme .card-info img.incLogo {border-color: rgb(42 56 75);}
 
+@media (max-width: 575px) {
+	.card-info img.incLogo {max-height: 60px;width: auto;}
+}
+
 .closedTag {
     font-size: 16px;
     color: #fc5e16!important;

@@ -32,6 +32,56 @@
 <section class="px-80 pt-0">
     <div class="container">
         <div class="row justify-content-center">
+            
+            <div class="col-lg-6 col-md-6 mb-4">
+                <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                    <div class="card-info">
+                        <div class="mb-4">
+                        	<img src="assets/images/inside-page/incubator/launchpool.svg" class="incLogo bg-light75 iconD" />
+                            <img src="assets/images/inside-page/incubator/launchpool_light.svg" class="incLogo bg-light75 iconL" />
+                        </div>
+                        <div class="card-infoHead mb-3"><span class="fw-600">LaunchpoolXDC</span></div>
+                        <p class="fs-6">Launchpool and XDC Network collaborate strategically.</p>
+                        <p class="fs-6 mb-0">XDC Network will facilitate introductions to projects being accelerated or incubated through joint programs with XDC Network and partners.</p>
+                        <div class="dateBox mt-3">
+                        	<p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 10 July to 10 October 2024</p>
+                        	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 10 August 2024</p>
+                        </div>
+                        
+                        <a href="https://launchpoollabs.xyz/#submit" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
+                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-6 col-md-6 mb-4">
+                <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                    <div class="card-info">
+                        <div class="mb-4">
+                        	<img src="assets/images/inside-page/incubator/brinc.svg" class="incLogo bg-light75 iconD" />
+                            <img src="assets/images/inside-page/incubator/brinc_light.svg" class="incLogo bg-light75 iconL" />
+                        </div>
+                        <div class="card-infoHead mb-3"><span class="fw-600">XDC Accelerator Program</span></div>
+                        <p class="fs-6">12 week Brinc accelerator program is tailored to provide startups with the support, resources, curriculum and mentorship to help them succeed with their token launch.</p>
+                        <p class="fs-6 mb-0">Brinc has a proven track record of investing in 239 companies from more than 36 countries.</p>
+                        <div class="dateBox mt-3">
+                        	<p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 30 September 2024</p>
+                        	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 26 August 2024</p>
+                        </div>
+                        
+                        <h2 class="closedTag">Coming Soon...</h2>
+                        <!--<a href="https://www.brinc.io/" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
+                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                            </svg>
+                        </a>-->
+                    </div>
+                </div>
+            </div>
+
             <div class="col-lg-6 col-md-6 mb-4">
                 <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                     <div class="card-info">
@@ -71,30 +121,6 @@
                         
                         <h2 class="closedTag">Applications Closed!</h2>
                         <!--<a href="https://www.tenity.com/programs/xdc-accelerator-program" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
-                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                            	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                            </svg>
-                        </a>-->
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6 col-md-6 mb-4">
-                <div class="h-100 card p-4 bg-lightgray br-20 border-0">
-                    <div class="card-info">
-                        <div class="mb-4">
-                        	<img src="assets/images/inside-page/incubator/brinc.svg" class="incLogo bg-light75 iconD" />
-                            <img src="assets/images/inside-page/incubator/brinc_light.svg" class="incLogo bg-light75 iconL" />
-                        </div>
-                        <div class="card-infoHead mb-3"><span class="fw-600">XDC Accelerator Program</span></div>
-                        <p class="fs-6">12 week Brinc accelerator program is tailored to provide startups with the support, resources, curriculum and mentorship to help them succeed with their token launch.</p>
-                        <p class="fs-6 mb-0">Brinc has a proven track record of investing in 239 companies from more than 36 countries.</p>
-                        <div class="dateBox mt-3">
-                        	<p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 30 September 2024</p>
-                        	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 26 August 2024</p>
-                        </div>
-                        
-                        <h2 class="closedTag">Coming Soon...</h2>
-                        <!--<a href="https://www.brinc.io/" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                             </svg>
