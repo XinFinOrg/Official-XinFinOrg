@@ -41,8 +41,7 @@
                             <img src="assets/images/inside-page/incubator/launchpool_light.svg" class="incLogo bg-light75 iconL" />
                         </div>
                         <div class="card-infoHead mb-3"><span class="fw-600">LaunchpoolXDC</span></div>
-                        <p class="fs-6">Launchpool and XDC Network collaborate strategically.</p>
-                        <p class="fs-6 mb-0">XDC Network will facilitate introductions to projects being accelerated or incubated through joint programs with XDC Network and partners.</p>
+                        <p class="fs-6 mb-0">Launchpool XDC accelerator program will be Europe-centric. To qualify, startups must have raised at least $100k in an initial Angel/Pre-seed round with a valuation under US $20 million, be prepared for a token launch within six months, and have at least one Tech CoFounder or Technical Partner. join to get token-launch ready and get upto $100,000 investment from XDC Network.</p>
                         <div class="dateBox mt-3">
                         	<p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 10 July to 10 October 2024</p>
                         	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 10 August 2024</p>
