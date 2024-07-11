@@ -14,8 +14,8 @@
                 <h2 class="subtitle subtitle-s fw-500 text-center mb-0">
                     The XDC Accelerator Program supports blockchain startups on XDC Network, providing mentorship, resources, and networking. It guides participants through product development, marketing, fundraising, and community building to foster innovation and blockchain adoption.
                 </h2>
-                <h2 class="subtitle subtitle-s fw-500 text-center mb-0">
-                    We encourage projects applying for the Accelerators to integrate to the XDC Network first.
+                <h2 class="subtitle subtitle-m text-gradient fw-500 text-center mb-0">
+                    The grant program is exclusively available to projects that have applied to the accelerator and incubator programs.
                 </h2>
                 <div class="btn-block">
                     <a href="https://forms.gle/gQcopGCDuta7fECq7" target="_blank">

@@ -159,6 +159,29 @@ a:hover {
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75) !important;
 }
+.text-gradient {
+    background: linear-gradient(
+        to right,
+        #7953cd 20%,
+        #09922b 30%,
+        #0190cd 70%,
+        #764ada 80%
+      );
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+      text-fill-color: transparent;
+      background-size: 500% auto;
+      animation: textShine 5s ease-in-out infinite alternate;
+}
+@keyframes textShine {
+    0% {
+      background-position: 0% 50%;
+    }
+    100% {
+      background-position: 100% 50%;
+    }
+}
 .p-relative {
     position: relative;
     z-index: 999;
