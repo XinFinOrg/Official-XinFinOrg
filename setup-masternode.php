@@ -15,6 +15,11 @@ include 'inc/header.php';
             <div class="col-lg-8 offset-lg-2 hero-content">
                 <h1 class="title-m text-center mb-0">Setup Masternode</h1>
                 <h2 class="subtitle subtitle-s fw-500 text-center mb-0">XDC Network Masternodes are the backbone of the network, ensuring lightning-fast transaction validation and enhanced security.</h2>
+                <div class="btn-block">
+                    <a href="https://master.xinfin.network/" target="_blank">
+                        <button class="btn-blue">Setup Your Masternode</button>
+                    </a>
+                </div>
             </div>
         </div>
     </div>
