@@ -447,7 +447,7 @@
                                 <p class="subtitle subtitle-s fw-600">Unveil the Blockchain Insights.</p>
                                 <p class="subtitle subtitle-s">XDCScan is your dedicated Block Explorer and Public API for XDC Network, empowering you with insights into this decentralized smart contracts platform.</p>
                                 <div class="btn-block d-block mt-4">
-                                    <a href="https://explorer.xinfin.network/" target="_blank"><button class="btn-blue">XDCScan MainNet</button></a>
+                                    <a href="https://xdcscan.io/" target="_blank"><button class="btn-blue">XDCScan MainNet</button></a>
                                     <a href="https://explorer.apothem.network/" target="_blank"><button class="btn-transp-bordered">XDCScan TestNet</button></a>
                                 </div>
                             </div>

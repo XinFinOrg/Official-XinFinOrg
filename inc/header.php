@@ -74,8 +74,8 @@
         <header class="autohide header-wrapper sticky-header">
             <div class="news-bar">
                 <p>
-                    Join XDC Network at <b>Blockchain Rio</b> - 24 July - 25 July, 2024.
-                    <a href="https://blockchainrio.com.br/en/" target="_blank" class="news-bar-button">
+                    Join XDC Network at <b>WebX2024</b> - 28 August - 29 August, 2024.
+                    <a href="https://webx-asia.com/" target="_blank" class="news-bar-button">
                         JOIN US
                         <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
