@@ -682,19 +682,35 @@
          <div class="col-12">
             <div class="card p-5 bg-lightgray br-20 border-0">
                <div class="row align-items-center">
-                  <div class="col-lg-8 col-md-12 mb-4 mb-md-4 mb-lg-0">
+                  <div class="col-lg-4 col-md-12 mb-4 mb-md-4 mb-lg-0">
                      <h3 class="title-m text-center text-md-start text-lg-start mb-3">
                         Multisig Wallets
                      </h3>
                      <div class="subtitle subtitle-s text-center text-md-start text-lg-start">Multisig wallets for the XDC Network offer an added layer of security by requiring multiple signatures for transactions to be executed.</div>
                   </div>
-                  <div class="col-lg-4 col-md-12">
+                  <div class="col-lg-8 col-md-12">
                      <div class="row custodian-wallets justify-content-lg-start justify-content-md-start justify-content-sm-center">
-                        <div class="col-lg-8 col-md-4 col-sm-6 col-8">
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-6">
                            <div>
                               <a href="https://app.oryy.io/" target="_blank">
                               		<img src="assets/images/wallets/multisig-wallets/oryy.svg" class="img-fluid iconD" alt="app.oryy.io" >
                                     <img src="assets/images/wallets/multisig-wallets/oryy-light.svg" class="img-fluid iconL" alt="app.oryy.io" >
+                              </a>
+                           </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-6">
+                           <div>
+                              <a href="https://xdcsafe.xdcscan.com/welcome" target="_blank">
+                              		<img src="assets/images/wallets/multisig-wallets/xdcsafe.svg" class="img-fluid iconD" alt="xdcsafe.xdcscan.com" >
+                                    <img src="assets/images/wallets/multisig-wallets/xdcsafe-light.svg" class="img-fluid iconL" alt="xdcsafe.xdcscan.com" >
+                              </a>
+                           </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-6">
+                           <div>
+                              <a href="https://yplusvault.com/welcome" target="_blank">
+                              		<img src="assets/images/wallets/multisig-wallets/yodaplus.svg" class="img-fluid iconD" alt="yplusvault.com" >
+                                    <img src="assets/images/wallets/multisig-wallets/yodaplus-light.svg" class="img-fluid iconL" alt="yplusvault.com" >
                               </a>
                            </div>
                         </div>
