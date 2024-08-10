@@ -677,6 +677,34 @@
             </div>
          </div>
       </div>
+
+      <div class="row pt-5 mt-5">
+         <div class="col-12">
+            <div class="card p-5 bg-lightgray br-20 border-0">
+               <div class="row align-items-center">
+                  <div class="col-lg-8 col-md-12 mb-4 mb-md-4 mb-lg-0">
+                     <h3 class="title-m text-center text-md-start text-lg-start mb-3">
+                        Multisig Wallets
+                     </h3>
+                     <div class="subtitle subtitle-s text-center text-md-start text-lg-start">Multisig wallets for the XDC Network offer an added layer of security by requiring multiple signatures for transactions to be executed.</div>
+                  </div>
+                  <div class="col-lg-4 col-md-12">
+                     <div class="row custodian-wallets justify-content-lg-start justify-content-md-start justify-content-sm-center">
+                        <div class="col-lg-8 col-md-4 col-sm-6 col-8">
+                           <div>
+                              <a href="https://app.oryy.io/" target="_blank">
+                              		<img src="assets/images/wallets/multisig-wallets/oryy.svg" class="img-fluid iconD" alt="app.oryy.io" >
+                                    <img src="assets/images/wallets/multisig-wallets/oryy-light.svg" class="img-fluid iconL" alt="app.oryy.io" >
+                              </a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+
       <div class="row mt-5">
          <div class="col-12">
             <div class="text-muted small fw-500 lh-sm">

@@ -96,16 +96,16 @@
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
                                             <div class="icon">
-                                                <div class=""><img src="assets/images/exchanges/gate.io.svg" alt="Gate.io" /></div>
+                                                <div class=""><img src="assets/images/exchanges/bitstamp.svg" alt="bitstamp.net" /></div>
                                             </div>
                                             <div class="desc">
-                                                <div class="card-infoHead">Gate.io</div>
+                                                <div class="card-infoHead">Bitstamp</div>
                                                 <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
                                             </div>
                                         </div>
                                         <div class="d-flex gap-3">
                                             <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
-                                            <div class="pairs fw-500"><a href="https://www.gate.io/trade/XDC_USDT" target="_blank">USDT</a></div>
+                                            <div class="pairs fw-500"><a href="https://www.bitstamp.net/markets/xdc/usd/" target="_blank">USD</a>, <a href="https://www.bitstamp.net/markets/xdc/eur/" target="_blank">EUR</a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -125,6 +125,44 @@
                                         <div class="d-flex gap-3">
                                             <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
                                             <div class="pairs fw-500"><a href="https://www.bitfinex.com/t/XDC:USD" target="_blank">USD</a>, <a href="https://www.bitfinex.com/t/XDC:USDT" target="_blank">USDT</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/unocoin.svg" alt="unocoin.com" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">Unocoin</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
+                                            <div class="pairs fw-500"><a href="https://www.bitstamp.net/markets/xdc/usd/" target="_blank">USDT</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>-->
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/gate.io.svg" alt="Gate.io" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">Gate.io</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
+                                            <div class="pairs fw-500"><a href="https://www.gate.io/trade/XDC_USDT" target="_blank">USDT</a></div>
                                         </div>
                                     </div>
                                 </div>
