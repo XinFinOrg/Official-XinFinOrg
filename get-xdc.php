@@ -181,7 +181,7 @@
                                         </div>
                                         <div class="d-flex gap-3">
                                             <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
-                                            <div class="pairs fw-500"><a href="https://unocoin.com/in/" target="_blank">USDT</a></div>
+                                            <div class="pairs fw-500"><a href="https://unocoin.com/in/exchange/usdt/xdc" target="_blank">USDT</a>, <a href="https://unocoin.com/in/exchange/inr/xdc" target="_blank">INR</a></div>
                                         </div>
                                     </div>
                                 </div>
