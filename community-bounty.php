@@ -61,11 +61,15 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-md-12 mb-4">
-                <h3 class="title-m">DAOFIN</h3>
-                <div class="subtitle subtitle-s">DAO OF CHAIN</div>
+                <h3 class="title-m">XDCDAO</h3>
             </div>
             <div class="col-lg-10 col-md-12">
-                <div class="subtitle subtitle-s">DAOFIN is a governance mechanism implemented within the XDC Network. DAOFIN allows community members to actively participate in decision-making processes and protocol upgrades, ensuring a decentralized and democratic approach to managing the network. Through DAOFIN, the community has a say in the network's development, making it more inclusive and less reliant on centralized control.</div>
+                <div class="subtitle subtitle-s">XDCDAO is a governance mechanism implemented within the XDC Network. XDCDAO allows community members to actively participate in decision-making processes and protocol upgrades, ensuring a decentralized and democratic approach to managing the network in a transparent manner. Through XDCDAO, the community has a say in the network's development, making it more inclusive and less reliant on centralized control.</div>
+                <div class="btn-block justify-content-start mt-4">
+                    <a href="https://www.xdcdao.org/" target="_blank">
+                        <button class="btn-blue">Visit Now</button>
+                    </a>
+                </div>
             </div>
         </div>
     </div>
