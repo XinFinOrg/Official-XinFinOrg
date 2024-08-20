@@ -720,7 +720,7 @@
                             </div>-->
                             <div class="subtitle subtitle-s text-center text-md-start text-lg-start">The XDC Network stands as a robust, enterprise-grade blockchain protocol, boasting an open-source framework and powered by the XinFin Delegated Proof of Stake (XDPoS) consensus mechanism. This EVM-compatible chain features enforceable smart contracts, making it a prime candidate to transform the trade finance sector. Through the tokenization of real-world assets and financial instruments, XDC Network aims to revolutionize, decentralize, and enhance liquidity within the industry.</div>
                             <div class="xdcFuture-links text-center text-md-start text-lg-start mt-2">
-                                <a href="https://explorer.xinfin.network" target="_blank" class="btn socialHead-button me-4">
+                                <a href="https://xdcscan.io/" target="_blank" class="btn socialHead-button me-4">
                                     XDC Explorer
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
