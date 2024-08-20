@@ -41,8 +41,9 @@
                             <img src="assets/images/inside-page/incubator/plugandplay_light.svg" class="incLogo bg-light75 iconL" />
                         </div>
                         <div class="card-infoHead mb-3"><span class="fw-600">XDC Enterprise RWA Accelerator</span></div>
+                        <p class="fs-6">The XDC Real World Asset (RWA) tokenization accelerator, powered by Plug and Play, is open to all RWA projects and will offer selected founders access to XDC Network’s internal resources, mentorship, and customized support from industry experts.</p>
                         <p class="fs-6">Plug and Play is the leading innovation platform, connecting startups, corporations, venture capital firms, universities, and government agencies. Headquartered in Silicon Valley, we’re present in 60+ locations across five continents. We offer corporate innovation programs and help our corporate partners in every stage of their innovation journey, from education to execution. We also organize startup acceleration programs and have built an in-house VC to drive innovation across multiple industries where we’ve invested in hundreds of successful companies including Dropbox, Guardant Health, Honey, Lending Club, N26, PayPal, and Rappi.</p>
-                        <p class="fs-6 mb-0"> For more information, visit <a href="https://www.plugandplaytechcenter.com/">https://www.plugandplaytechcenter.com/</a></p>
+                        <p class="fs-6 mb-0">For more information, visit <a href="https://www.plugandplaytechcenter.com/">https://www.plugandplaytechcenter.com/</a></p>
                         <div class="dateBox mt-3">
                         	<p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 18 March to June 2025</p>
                         	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 15 November 2024</p>
