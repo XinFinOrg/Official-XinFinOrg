@@ -33,6 +33,30 @@
     <div class="container">
         <div class="row justify-content-center">
             
+        <div class="col-lg-12 col-md-12 mb-4">
+                <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                    <div class="card-info">
+                        <div class="mb-4">
+                        	<img src="assets/images/inside-page/incubator/plugandplay.svg" class="incLogo bg-light75 iconD" />
+                            <img src="assets/images/inside-page/incubator/plugandplay_light.svg" class="incLogo bg-light75 iconL" />
+                        </div>
+                        <div class="card-infoHead mb-3"><span class="fw-600">XDC Enterprise RWA Accelerator</span></div>
+                        <p class="fs-6">Plug and Play is the leading innovation platform, connecting startups, corporations, venture capital firms, universities, and government agencies. Headquartered in Silicon Valley, we’re present in 60+ locations across five continents. We offer corporate innovation programs and help our corporate partners in every stage of their innovation journey, from education to execution. We also organize startup acceleration programs and have built an in-house VC to drive innovation across multiple industries where we’ve invested in hundreds of successful companies including Dropbox, Guardant Health, Honey, Lending Club, N26, PayPal, and Rappi.</p>
+                        <p class="fs-6 mb-0"> For more information, visit <a href="https://www.plugandplaytechcenter.com/">https://www.plugandplaytechcenter.com/</a></p>
+                        <div class="dateBox mt-3">
+                        	<p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 18 March to June 2025</p>
+                        	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 15 November 2024</p>
+                        </div>
+                        
+                        <a href="https://www.plugandplaytechcenter.com/innovation-services/our-programs/xdc-rwa-accelerator" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
+                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
             <div class="col-lg-6 col-md-6 mb-4">
                 <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                     <div class="card-info">
@@ -79,7 +103,7 @@
                         </a>
                     </div>
                 </div>
-            </div>
+            </div>            
 
             <div class="col-lg-6 col-md-6 mb-4">
                 <div class="h-100 card p-4 bg-lightgray br-20 border-0">
