@@ -224,7 +224,7 @@
                 </a>
             </div>
             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
-                <a href="https://xinfin.network/#explorer" target="_blank" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-light75 br-20 border-0">
+                <a href="https://xdcscan.io/" target="_blank" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-light75 br-20 border-0">
                     <div class="card-info">
                         <div class="exchangeCard-header align-items-center">
                             <div class="icon">
@@ -352,7 +352,7 @@
                 </a>
             </div>
             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
-                <a href="https://xinfin.network/#explorer" target="_blank" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-light75 br-20 border-0">
+                <a href="https://apothem.xdcscan.io/" target="_blank" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-light75 br-20 border-0">
                     <div class="card-info">
                         <div class="exchangeCard-header align-items-center">
                             <div class="icon">

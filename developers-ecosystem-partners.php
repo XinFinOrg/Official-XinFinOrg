@@ -326,14 +326,14 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-6">
+                    <!--<div class="col-lg-4 col-md-4 col-sm-6 col-6">
                         <div>
                             <a href="https://chain.link/" target="_blank">
                                 <img src="assets/images/ecosystem-partners/chainlink.svg" class="img-fluid iconD" />
                                 <img src="assets/images/ecosystem-partners/chainlink-light.svg" class="img-fluid iconL" />
                             </a>
                         </div>
-                    </div>
+                    </div>-->
                     <div class="col-lg-4 col-md-4 col-sm-6 col-6">
                         <div>
                             <a href="https://razor.network/" target="_blank">
