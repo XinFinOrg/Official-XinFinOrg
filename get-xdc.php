@@ -1236,6 +1236,24 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/akkafinance.svg" alt="Akka Finance/" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">Akka</div>
+                                                <p class="exchangeCard-type text-muted mb-0">DEX</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex justify-content-between">
+                                            <div class="pairs fw-500 ml-6"><a href="https://app.akka.finance/swap?chain=xdc" target="_blank">Swap Now</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                 		</div>
                     </div>
                 </div>
