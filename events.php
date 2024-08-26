@@ -99,7 +99,7 @@
                                                 </svg>
                                             </div>
                                             <div class="events-card_date-wrapper">
-                                                <p class="mb-0">Aug 28, 2024</p>
+                                                <p class="mb-0">Aug 30, 2024</p>
                                             </div>
                                         </div>
                                         <div class="events-card_details-subwrapper">
