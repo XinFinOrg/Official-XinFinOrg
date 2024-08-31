@@ -74,7 +74,7 @@
         <header class="autohide header-wrapper sticky-header">
             <div class="news-bar">
                 <p>
-                    Join XDC Network at <b>WebTOKEN2049</b> : 18 - 19 September, 2024.
+                    Join XDC Network at <b>TOKEN2049</b> : 18 - 19 September, 2024.
                     <a href="https://www.asia.token2049.com/" target="_blank" class="news-bar-button">
                         JOIN US
                         <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
