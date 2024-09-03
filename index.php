@@ -432,7 +432,7 @@
                                 <p class="fs-6 mb-0">
                                     XDC Protocol enables ISO 20022 compatible messaging for private and hybrid state, making it the language of core banking systems, ERP systems, SWIFT systems, and many more, with higher interoperability with legacy systems.
                                 </p>
-                                <a href="https://xinfin.org/ISO2002/" target="_blank" class="btn socialHead-button internalLink mt-auto">
+                                <a href="https://xinfin.org/ISO20022/" target="_blank" class="btn socialHead-button internalLink mt-auto">
                                     Connect Now
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
