@@ -90,21 +90,22 @@
 
 
 
-<!--<section class="px-40 mb-5 pt-0">
+<section class="px-40 mb-5 pt-0">
     <div class="container">
     	<div class="row justify-content-center">
-            <div class="col-lg-10 offset-lg-1">
-                <h1 class="title-m text-center mb-3">Upcoming XDC.dev Events</h1>
-                <h2 class="subtitle subtitle-s fw-500 text-center mb-0">S2308, Emirates Financial Towers, DIFC, Dubai UAE.</h2>
+            <div class="col-lg-10">
+                <!--<h1 class="title-m text-center mb-3">Upcoming XDC.dev Events</h1>
+                <h2 class="subtitle subtitle-s fw-500 text-center mb-0">S2308, Emirates Financial Towers, DIFC, Dubai UAE.</h2>-->
+                <h1 class="title-m text-center mb-3">Upcoming XDC Network Side Events</h1>
             </div>
         </div>
         <div class="row row-flex mt-4">
             <div class="col-lg-12">
                 <div class="row">
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://lu.ma/wdunph4t" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
+                        <a href="https://lu.ma/9rtgveeu?tk=2bS2je" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/tokenization-of-real-world-assets.jpg" class="img-fluid" alt="Tokenization of Real World Assets" />
+                            	<img src="assets/images/inside-page/events/xdc-demo-day.jpg" class="img-fluid" alt="XDC Demo Day" />
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -113,7 +114,7 @@
                             </div>
                             <div class="events-card_content-wrapper">
                                 <div class="events-card_content">
-                                    <h4 class="card-infoHead">Tokenization of Real World Assets: Recent policy developments and product innovations in digital assets</h4>
+                                    <h4 class="card-infoHead">XDC Demo Day</h4>
                                     <div class="events-card_details-wrapper card-info">
                                         <div class="events-card_details">
                                             <div class="icon-1x1-small">
@@ -122,7 +123,7 @@
                                                 </svg>
                                             </div>
                                             <div class="events-card_date-wrapper">
-                                                <p class="mb-0">Apr 22, 2024</p>
+                                                <p class="mb-0">September 17, 2024</p>
                                             </div>
                                         </div>
                                         <div class="events-card_details-subwrapper">
@@ -132,7 +133,106 @@
                                                     	<path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
                                                     </svg>
                                                 </div>
-                                                <p class="mb-0">1:00 PM - 6:00 PM GMT+4</p>
+                                                <p class="mb-0">09:00 AM - 01:00 PM GMT+4</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">The Cocoon Space, Singapore</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>                            
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
+                        <a href="https://lu.ma/tobiandbrenttoken2049sgVIP" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
+                            <div class="">
+                            	<img src="assets/images/inside-page/events/web3-with-tobi-and-brent.jpg" class="img-fluid" alt="Token2049 SG with Tobi & Brent - VIP" />
+                                <div class="ftr-arrow">
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                            	</div>
+                            </div>
+                            <div class="events-card_content-wrapper">
+                                <div class="events-card_content">
+                                    <h4 class="card-infoHead">Token2049 SG with Tobi & Brent - VIP</h4>
+                                    <div class="events-card_details-wrapper card-info">
+                                        <div class="events-card_details">
+                                            <div class="icon-1x1-small">
+                                                <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M10.6667 1.83337V4.50004M5.33333 1.83337V4.50004M2 7.16671H14M3.33333 3.16671H12.6667C13.403 3.16671 14 3.76366 14 4.50004V13.8334C14 14.5698 13.403 15.1667 12.6667 15.1667H3.33333C2.59695 15.1667 2 14.5698 2 13.8334V4.50004C2 3.76366 2.59695 3.16671 3.33333 3.16671Z" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                </svg>
+                                            </div>
+                                            <div class="events-card_date-wrapper">
+                                                <p class="mb-0">September 17, 2024</p>
+                                            </div>
+                                        </div>
+                                        <div class="events-card_details-subwrapper">
+                                            <div class="events-card_details">
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 512 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                                    	<path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">7:00 PM - 2:00 AM GMT+8</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">Marquee Singapore</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>                            
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
+                        <a href="https://lu.ma/tobiandbrenttoken2049sgVIP" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
+                            <div class="">
+                            	<img src="assets/images/inside-page/events/xdc-demo-day-by-foundership.jpg" class="img-fluid" alt="XDC Network Demo Day @ Token2049 by Foundership" />
+                                <div class="ftr-arrow">
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                            	</div>
+                            </div>
+                            <div class="events-card_content-wrapper">
+                                <div class="events-card_content">
+                                    <h4 class="card-infoHead">XDC Network Demo Day @ Token2049 by Foundership</h4>
+                                    <div class="events-card_details-wrapper card-info">
+                                        <div class="events-card_details">
+                                            <div class="icon-1x1-small">
+                                                <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M10.6667 1.83337V4.50004M5.33333 1.83337V4.50004M2 7.16671H14M3.33333 3.16671H12.6667C13.403 3.16671 14 3.76366 14 4.50004V13.8334C14 14.5698 13.403 15.1667 12.6667 15.1667H3.33333C2.59695 15.1667 2 14.5698 2 13.8334V4.50004C2 3.76366 2.59695 3.16671 3.33333 3.16671Z" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                </svg>
+                                            </div>
+                                            <div class="events-card_date-wrapper">
+                                                <p class="mb-0">September 20, 2024</p>
+                                            </div>
+                                        </div>
+                                        <div class="events-card_details-subwrapper">
+                                            <div class="events-card_details">
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 512 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                                    	<path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">12:00 PM - 4:00 PM GMT+8</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">80RR Fintech Hub, Singapore</p>
                                             </div>
                                         </div>
                                     </div>
@@ -141,12 +241,11 @@
                         </a>
                     </div>
                     
-                    
                 </div>
             </div>
         </div>
     </div>
-</section>-->
+</section>
 
 
 
@@ -1046,10 +1145,10 @@
         
         
         
-        <div class="row mt-5">
-            <div class="col-lg-10 offset-lg-1">
-                <h1 class="title-m text-center mb-3">Past XDC.dev Events</h1>
-                <h2 class="subtitle subtitle-s fw-500 text-center mb-0">S2308, Emirates Financial Towers, DIFC, Dubai UAE.</h2>
+        <div class="row justify-content-center mt-5">
+            <div class="col-lg-10 mt-5">
+                <h1 class="title-m text-center mb-3">Past XDC Network Side Events</h1>
+                <!--<h2 class="subtitle subtitle-s fw-500 text-center mb-0">S2308, Emirates Financial Towers, DIFC, Dubai UAE.</h2>-->
             </div>
         </div>
         
@@ -1088,6 +1187,13 @@
                                                     </svg>
                                                 </div>
                                                 <p class="mb-0">12:00 PM - 3:00 PM GMT+4</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">S2308, DIFC, Dubai UAE.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1128,6 +1234,13 @@
                                                     </svg>
                                                 </div>
                                                 <p class="mb-0">3:00 PM - 6:00 PM GMT+4</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">S2308, DIFC, Dubai UAE.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1168,6 +1281,13 @@
                                                     </svg>
                                                 </div>
                                                 <p class="mb-0">10:00 AM - 12:00 PM GMT+4</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">S2308, DIFC, Dubai UAE.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1207,6 +1327,13 @@
                                                     </svg>
                                                 </div>
                                                 <p class="mb-0">1:30 PM - 3:00 PM GMT+4</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">S2308, DIFC, Dubai UAE.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1246,6 +1373,13 @@
                                                     </svg>
                                                 </div>
                                                 <p class="mb-0">3:00 PM - 6:00 PM GMT+4</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">S2308, DIFC, Dubai UAE.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1285,6 +1419,13 @@
                                                     </svg>
                                                 </div>
                                                 <p class="mb-0">11:00 AM - 1:00 PM GMT+4</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">S2308, DIFC, Dubai UAE.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1325,6 +1466,13 @@
                                                     </svg>
                                                 </div>
                                                 <p class="mb-0">12:00 PM - 3:00 PM GMT+4</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">S2308, DIFC, Dubai UAE.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1364,6 +1512,13 @@
                                                     </svg>
                                                 </div>
                                                 <p class="mb-0">2:00 PM - 5:00 PM GMT+4</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">S2308, DIFC, Dubai UAE.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1403,6 +1558,13 @@
                                                     </svg>
                                                 </div>
                                                 <p class="mb-0">9:00 AM - 12:00 PM GMT+4</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">S2308, DIFC, Dubai UAE.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1410,9 +1572,6 @@
                             </div>                            
                         </a>
                     </div>
-                    
-                    
-                    
                 </div>
             </div>
         </div>
