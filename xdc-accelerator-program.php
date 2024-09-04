@@ -93,7 +93,7 @@
                         <p class="fs-6 mb-0">Brinc has a proven track record of investing in 239 companies from more than 36 countries.</p>
                         <div class="dateBox mt-3">
                         	<p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 30 September 2024</p>
-                        	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 26 August 2024</p>
+                        	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 12 September 2024</p>
                         </div>
                         
                         <!--<h2 class="closedTag">Coming Soon...</h2>-->
