@@ -106,7 +106,7 @@
                                             </a>
                                             <ul class="sub-menu">
                                                 <li><a href="https://docs.xdc.community/" target="_blank">Documentation</a></li>
-                                                <li><a href="https://xdc.dev" target="_blank">Developers Forum</a></li>
+                                                <li><a href="https://xdc.dev" target="_blank">XDC Developers Forum</a></li>
                                                 <li><a href="https://coderun.ai/" target="_blank">XDC AI Developer Tools</a></li>
                                                 <li><a href="https://github.com/XinFinorg" target="_blank">GitHub</a></li>
                                             </ul>
