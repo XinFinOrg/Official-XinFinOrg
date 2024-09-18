@@ -122,6 +122,7 @@
                                                 <li><a href="developers-ecosystem-partners">Developers Ecosystem Partners</a></li>
                                                 <li><a href="join-community">Join Community</a></li>
                                                 <li><a href="community-bounty">Community Bounty</a></li>
+                                                <li><a href="https://forum.xinfin.org/" target="_blank">XDC Forum</a></li>
                                                 <li><a href="https://howto.xinfin.org/media/articles/" target="_blank">Media</a></li>
                                                 <li><a href="events">Events</a></li>
                                             </ul>
