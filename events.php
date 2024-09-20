@@ -30,56 +30,7 @@
                             <h2 class="subtitle subtitle-s fw-500 text-center mt-3 mb-0">Stay tuned for upcoming events.</h2>
                         </div>
                     </div>-->
-
                     
-
-                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://www.asia.token2049.com/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
-                            <div class="">
-                            	<img src="assets/images/inside-page/events/token2049-singapore.jpg" class="img-fluid" alt="TOKEN2049 SINGAPORE" />
-                                <div class="ftr-arrow">
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                                    </svg>
-                            	</div>
-                            </div>
-                            <div class="events-card_content-wrapper">
-                                <div class="events-card_content">
-                                    <h4 class="card-infoHead">TOKEN2049</h4>
-                                    <div class="events-card_details-wrapper card-info">
-                                        <div class="events-card_details">
-                                            <div class="icon-1x1-small">
-                                                <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M10.6667 1.83337V4.50004M5.33333 1.83337V4.50004M2 7.16671H14M3.33333 3.16671H12.6667C13.403 3.16671 14 3.76366 14 4.50004V13.8334C14 14.5698 13.403 15.1667 12.6667 15.1667H3.33333C2.59695 15.1667 2 14.5698 2 13.8334V4.50004C2 3.76366 2.59695 3.16671 3.33333 3.16671Z" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                </svg>
-                                            </div>
-                                            <div class="events-card_date-wrapper">
-                                                <p class="mb-0">Sept 18, 2024</p>
-                                                <div class="icon-1x1-small w-embed">
-                                                    <svg width="auto" height="auto" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                        <path d="M5 12.5H19M19 12.5L12 5.5M19 12.5L12 19.5" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                    </svg>
-                                                </div>
-                                                <p class="mb-0">Sept 19, 2024</p>
-                                            </div>
-                                        </div>
-                                        <div class="events-card_details-subwrapper">
-                                            <div class="events-card_details">
-                                                <div class="icon-1x1-small w-embed">
-                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-
-                                                    </svg>
-                                                </div>
-                                                <p class="mb-0">Marina Bay Sands, Singapore</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>                            
-                        </a>
-                    </div>
 
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.fintechweek.hk/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
@@ -93,7 +44,7 @@
                             </div>
                             <div class="events-card_content-wrapper">
                                 <div class="events-card_content">
-                                    <h4 class="card-infoHead">HONG KONG FINTECH WEEK'24</h4>
+                                    <h4 class="card-infoHead">HONG KONG FINTECH WEEK 24</h4>
                                     <div class="events-card_details-wrapper card-info">
                                         <div class="events-card_details">
                                             <div class="icon-1x1-small">
@@ -309,7 +260,54 @@
         <div class="row row-flex mt-4">
             <div class="col-lg-12">
                 <div class="row">                    
-                <div class="col-lg-4 col-md-6 mt-2 mb-3">
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
+                        <a href="https://www.asia.token2049.com/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
+                            <div class="">
+                            	<img src="assets/images/inside-page/events/token2049-singapore.jpg" class="img-fluid" alt="TOKEN2049 SINGAPORE" />
+                                <div class="ftr-arrow">
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                            	</div>
+                            </div>
+                            <div class="events-card_content-wrapper">
+                                <div class="events-card_content">
+                                    <h4 class="card-infoHead">TOKEN2049</h4>
+                                    <div class="events-card_details-wrapper card-info">
+                                        <div class="events-card_details">
+                                            <div class="icon-1x1-small">
+                                                <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M10.6667 1.83337V4.50004M5.33333 1.83337V4.50004M2 7.16671H14M3.33333 3.16671H12.6667C13.403 3.16671 14 3.76366 14 4.50004V13.8334C14 14.5698 13.403 15.1667 12.6667 15.1667H3.33333C2.59695 15.1667 2 14.5698 2 13.8334V4.50004C2 3.76366 2.59695 3.16671 3.33333 3.16671Z" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                </svg>
+                                            </div>
+                                            <div class="events-card_date-wrapper">
+                                                <p class="mb-0">Sept 18, 2024</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="auto" height="auto" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M5 12.5H19M19 12.5L12 5.5M19 12.5L12 19.5" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">Sept 19, 2024</p>
+                                            </div>
+                                        </div>
+                                        <div class="events-card_details-subwrapper">
+                                            <div class="events-card_details">
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">Marina Bay Sands, Singapore</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>                            
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.aciti.org.au/international-trade-and-finance-in-the-digital-economy" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/aciti.jpg" class="img-fluid" alt="ACITI" />
@@ -349,7 +347,7 @@
                             </div>                            
                         </a>
                     </div>
-                <div class="col-lg-4 col-md-6 mt-2 mb-3">
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://webx-asia.com/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/webx2024.jpg" class="img-fluid" alt="WEBX2024" />
@@ -395,7 +393,7 @@
                             </div>                            
                         </a>
                     </div>    
-                <div class="col-lg-4 col-md-6 mt-2 mb-3">
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://blockchainrio.com.br/en/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/blockchain-rio.jpg" class="img-fluid" alt="Blockchain Rio" />
