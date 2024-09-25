@@ -142,7 +142,7 @@
             <div class="col-lg-12 text-center">
                 <div class="btn-block multi mt-5">
                 <a href="https://arxiv.org/pdf/2108.01420.pdf" target="_blank">
-                <button class="btn-blue">Read White Paper</button>
+                <button class="btn-blue">Read Research Paper</button>
                 </a>
                 </div>
             </div>

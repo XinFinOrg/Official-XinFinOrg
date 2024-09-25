@@ -21,6 +21,13 @@
                 </h2>
             </div>
         </div>
+        <div class="row mb-0">
+            <div class="col-lg-12 text-center">
+                <div class="btn-block multi mt-5">
+                    <a href="docs/whitepaper-xdc-gasless-subnet.pdf" target="_blank"><button class="btn-blue">XDC Gasless Subnet Whitepaper</button></a>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 <!-- Hero Home Ends -->
