@@ -690,16 +690,16 @@
                                 <p class="fs-6">Early on, in Rebecah's Web2 days, she managed a broad spectrum of IT projects - from Website development, E Commerce platforms and Web applications - ensuring they were delivered on time, within in budget and SOW. Since then, Rebecah embarked on a transformative journey into Web3 and not looked back. Journeying deeper into Blockchain and XDC Network, Rebecah now facilitates collaboration among individuals, projects and organizations - fostering a dynamic XDC Ecosystem in the Philippines  where innovative ideas and blockchain solutions can flourish.</p>
                             </div>
                         </div>
-                        <!--<div class="team__footer">
+                        <div class="team__footer">
                             <div class="social-media border-top mt-4">
                                 <div class="cat-head mb-2">Connect on Social Media</div>
                                 <div>
-                                    <a href="https://www.linkedin.com/in/confidencenyirenda/" target="_blank">
+                                    <a href="https://www.linkedin.com/in/rebecah-dausen-b15305289/" target="_blank">
                                         <button class="btn btn-hover btn-linkedin"><i class="fa fa-paper-plane"></i> LinkedIn</button>
                                     </a>
                                 </div>
                             </div>
-                    	</div>-->
+                    	</div>
                     </div>
                 </div>
             </div>
