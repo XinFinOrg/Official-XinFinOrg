@@ -340,14 +340,17 @@
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
                                             <div class="exchangeCard-header justify-content-between align-items-center">
                                                 <div class="icon">
-                                                    <div class=""><img src="assets/images/ecosystem-dapps/lawblocks-icon.svg" alt="Law Blocks"></div>
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/lawblocks-icon_light.svg" class="iconD" alt="Law Blocks AI">
+                                                        <img src="assets/images/ecosystem-dapps/lawblocks-icon.svg" class="iconL" alt="Law Blocks AI">
+                                                    </div>
                                                 </div>
                                                 <div class="desc label">
                                                     <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
                                                 </div>
                                             </div>
                                             <div class="">
-                                                <div class="card-infoHead mb-2">Law Blocks</div>
+                                                <div class="card-infoHead mb-2">Law Blocks AI</div>
                                                 <p class="lh-base mb-0">Law Blocks Creates your Smart Legal Contracts using Blockchain Technology.</p>
                                             </div>
                                         </div>
@@ -2284,13 +2287,14 @@
                     <div class="project__img text-center">
                         <div class="usecase-box-1">
                             <div class="image-container">
-                                <img class="img-responsive" src="assets/images/ecosystem-dapps/lawblocks-icon.svg" alt="Law Blocks" />
+                                <img class="img-responsive" src="assets/images/ecosystem-dapps/lawblocks-icon.svg" class="iconD" alt="Law Blocks" />
+                                <img class="img-responsive" src="assets/images/ecosystem-dapps/lawblocks-icon_light.svg" class="iconL" alt="Law Blocks" />
                             </div>
                         </div>
                     </div>
                     <div class="project__content">
                         <div class="short-desc">
-                            <h2 class="fw-6">Law Blocks</h2>
+                            <h2 class="fw-6">Law Blocks AI</h2>
                             <p>Law Blocks Creates your Smart Legal Contracts using Blockchain Technology. Law Blocks Token (LBT) is an XRC-20 utility token that powers Law Blocks Eco System through XDC Blockchain Network.</p>
                         </div>
                         <div class="long-desc">
