@@ -115,17 +115,17 @@
                         <div class="card-infoHead mb-3"><span class="fw-600">XDC Network Finternet Accelerator Program</span></div>
                         <p class="fs-6">The XDC Network Finternet Accelerator Program, in collaboration with T Hub, is designed to support and nurture Web3 startups in the Indian subcontinent by providing MVP-ready startups with essential resources, mentorship, and infrastructure to accelerate their growth.</p>
                         <p class="fs-6 mb-0">Aligned with the Government of India's "Make in India" initiative, this program focuses on incubating and accelerating promising blockchain startups, fostering innovation and development within the country's thriving startup sector. Through this initiative, startups gain access to a vibrant ecosystem that promotes innovation, collaboration, and advancement in the rapidly evolving Web3 and blockchain industry.</p>
-                        <!--<div class="dateBox mt-3">
-                        	<p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 30 September 2024</p>
-                        	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 12 September 2024</p>
-                        </div>-->
+                        <div class="dateBox mt-3">
+                        	<p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 4th week of January 2025</p>
+                        	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 15 December 2024</p>
+                        </div>
                         
-                        <h2 class="closedTag">Coming Soon...</h2>
-                        <!--<a href="https://t-hub.co/programs/xdc-network-finternet-accelerator/" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
+                        <!--<h2 class="closedTag">Coming Soon...</h2>-->
+                        <a href="https://t-hub.co/programs/xdc-network-finternet-accelerator/" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                             </svg>
-                        </a>-->
+                        </a>
                     </div>
                 </div>
             </div>
