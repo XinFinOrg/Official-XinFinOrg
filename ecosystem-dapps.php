@@ -2287,8 +2287,8 @@
                     <div class="project__img text-center">
                         <div class="usecase-box-1">
                             <div class="image-container">
-                                <img src="assets/images/ecosystem-dapps/lawblocks-icon.svg" class="iconD" alt="Law Blocks AI">
-                                <img src="assets/images/ecosystem-dapps/lawblocks-icon_light.svg" class="iconL" alt="PrLaw Blocks AIimePort">
+                                <img src="assets/images/ecosystem-dapps/lawblocks-icon_light.svg" class="iconD" alt="Law Blocks AI">
+                                <img src="assets/images/ecosystem-dapps/lawblocks-icon.svg" class="iconL" alt="PrLaw Blocks AIimePort">
                             </div>
                         </div>
                     </div>
