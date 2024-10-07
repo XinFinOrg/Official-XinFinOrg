@@ -6646,6 +6646,18 @@ textarea.form-control-lg {
   min-height: 100vh !important;
 }
 
+.w-20px {
+  width: 20px!important;
+}
+
+.w-40px {
+  width: 40px!important;
+}
+
+.w-60px {
+  width: 60px!important;
+}
+
 .flex-fill {
   flex: 1 1 auto !important;
 }

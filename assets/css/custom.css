@@ -1628,6 +1628,77 @@ a .card-infoHead {
     color: #0088cc;
 }
 
+
+.extLink-button {
+	text-align: left;
+	text-decoration: none!important;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    border-radius: 40px;
+    background: #0088cc;
+    border: 2px solid #0088cc;
+    transition: all .2s ease-in-out, background-color .2s ease-in-out, opacity .2s ease-in-out;
+    cursor: pointer;
+}
+.extLink-button:hover {
+    color: #FFFFFF;
+    background-color: #0b5ed7;
+    border-color: #0b5ed7;
+    border-color: transparent;
+}
+.extLink-button svg {
+    transition-duration: 0.2s;
+}
+.extLink-button:hover svg {
+    transform: rotate(-45deg);
+    transition-duration: 0.2s;
+    color: #ffffff !important;
+}
+.extLink-button .icon {
+    height: 16px;
+    color: #ffffff;
+}
+
+
+.extStripLink-button {
+	text-align: left;
+	text-decoration: none!important;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #626262!important;
+    padding: 14px 20px;
+    border-radius: 8px;
+    background: rgb(243 248 250);
+    border: 1px solid rgb(221 230 234);
+    transition: all .2s ease-in-out, background-color .2s ease-in-out, opacity .2s ease-in-out;
+    cursor: pointer;
+}
+.extStripLink-button:hover {
+    color: #626262;
+    background: rgb(232 237 239);
+    border-color: rgb(208 219 223);
+}
+.extStripLink-button svg {
+    transition-duration: 0.2s;
+}
+.extStripLink-button:hover svg {
+    transform: rotate(-45deg);
+    transition-duration: 0.2s;
+    color: #626262 !important;
+}
+.extStripLink-button .icon {
+    height: 16px;
+    color: #626262;
+}
+.darkTheme .extStripLink-button {
+    color: var(--dt-subText-color) !important;
+    background: rgb(28 37 49);
+    border: 1px solid rgb(51 65 80);
+}
 /*---------------------------------------------------------
 	FOOTER STYLE
 ---------------------------------------------------------*/
@@ -2515,4 +2586,157 @@ a .team-infoHead {
     padding: 18px 0px 0px 0px;
     text-decoration: none !important;
     transition-duration: 0.2s;
+}
+
+
+
+
+/*---------------------------------------------------------
+	Pricing Table STYLE
+---------------------------------------------------------*/
+
+.pricing-table {
+	padding: 1.5rem;
+	transition: .3s;
+}
+
+.pricing-table .pricing-label {
+	border-radius: 2px;
+	padding: .25rem .5rem;
+	margin-bottom: 1rem;
+	display: block;
+	font-size: 12px;
+	font-weight: 500;
+}
+
+.pricing-table h2 {
+	font-size: 22px;
+	font-weight: 600;
+}
+
+.pricing-table h3 {
+	color: #B3B3B3;
+	font-size: 18px;
+	font-weight: 400;
+    margin-bottom: 2rem;
+}
+
+.pricing-table h5 {
+	color: #B3B3B3;
+	font-size: 14px;
+	font-weight: 400;
+    margin-bottom: 1.5rem;
+}
+
+.pricing-table p {
+    margin-bottom: 1.5rem;
+}
+
+.pricing-table .pricing-features {
+	margin-top: 2rem;
+}
+
+.pricing-table .pricing-features .feature {
+	font-size: 14px;
+	margin: .5rem 0;
+	color: #B3B3B3;
+}
+
+.pricing-table .pricing-features .feature span {
+	display: inline-block;
+	float: right;
+	color: #3b3b3b;
+	font-weight: 500;
+}
+
+.pricing-table 	.price-tag {
+	margin-top: 2rem;
+	text-align: center;
+	font-weight: 500;
+}
+
+.pricing-table .price-tag .symbol {
+	font-size: 24px;
+}
+
+.pricing-table .price-tag .amount {
+	letter-spacing: -2px;
+	font-size: 64px;
+}
+
+.pricing-table .price-tag .after {
+	color: #3b3b3b;
+	font-weight: 500;
+}
+
+.pricing-table .price-button {
+	display: block;
+	color: #fff;
+	margin-top: 2rem;
+	padding: .75rem;
+	border-radius: 50px;
+	text-align: center;
+    font-size: 14px;
+	font-weight: 500;
+	transition: .3s;
+}
+
+.pricing-table .price-button:hover {
+	text-decoration: none;
+}
+
+.purple .pricing-label {
+	background: #ffb78e;
+    color: #ffffff;
+    text-align: center;
+    margin: -1.5rem;
+    margin-bottom: 30px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.purple .price-tag {
+	color: #627afe;
+}
+
+.turquoise .pricing-label {
+	background: #f89b51;
+	color: #ffffff;
+    text-align: center;
+    margin: -1.5rem;
+    margin-bottom: 30px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.turquoise .price-tag {
+	color: #44cdd2;
+}
+
+.red .pricing-label {
+	background: #f14920;
+	color: #ffffff;
+    text-align: center;
+    margin: -1.5rem;
+    margin-bottom: 30px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.red .price-tag {
+	color: #ff5e5e;
+}
+
+.brown .pricing-label {
+	background: #ba2602;
+	color: #ffffff;
+    text-align: center;
+    margin: -1.5rem;
+    margin-bottom: 30px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.brown .price-tag {
+	color: #ff5e5e;
 }
