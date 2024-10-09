@@ -73,7 +73,7 @@
                         <a href="exchange-listing-resource">Exchange Listing Resource</a><br/>
                         <a href="custody-services-integration">Custody Services Integration</a><br/>
                         <a href="brand-assets">Brand Assets</a><br/>
-                        <a href="tisk-warning-disclaimer">Risk Warning Disclaimer</a><br/>
+                        <a href="risk-warning-disclaimer">Risk Warning Disclaimer</a><br/>
                         <a href="https://howto.xinfin.org/media/articles/" target="_blank">FAQs<svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></a><br/>
                         
                     </div>
