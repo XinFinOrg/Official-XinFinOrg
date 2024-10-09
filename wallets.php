@@ -430,7 +430,7 @@
                         </div>
                         <div class="d-flex justify-content-between">
                            <div class="pairs fw-500 ml-6">
-                              <a href="https://wallet.xinfin.network/#/" target="_blank" title="Web Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/web.svg"></a>
+                              <a href="https://betawallet.xinfin.network/#/" target="_blank" title="Web Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/web.svg"></a>
                            </div>
                         </div>
                      </div>

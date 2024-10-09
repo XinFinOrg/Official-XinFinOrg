@@ -341,7 +341,7 @@ include('inc/header.php') ?>
                     <div class="mt-auto">
                         <h5>EXAMPLE</h5>
                         <p>Attacker can successfully conduct remote code execution in a majority client, and it is trivial for an attacker to trigger the vulnerability.</p>
-                        <a class="price-button btn-blue" href="#">Submit High Risk Bug</a>
+                        <a class="price-button btn-blue" href="#">Submit Critical Risk Bug</a>
                     </div>
                 </div>
             </div>

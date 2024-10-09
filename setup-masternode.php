@@ -13,7 +13,7 @@ include 'inc/header.php';
     <div class="container">
         <div class="row">
             <div class="col-lg-8 offset-lg-2 hero-content">
-                <h1 class="title-m text-center mb-0">Setup Masternode</h1>
+                <h1 class="title-m text-center mb-0">Setup Your Masternode</h1>
                 <h2 class="subtitle subtitle-s fw-500 text-center mb-0">XDC Network Masternodes are the backbone of the network, ensuring lightning-fast transaction validation and enhanced security.</h2>
                 <div class="btn-block">
                     <a href="https://master.xinfin.network/" target="_blank">
@@ -107,6 +107,15 @@ include 'inc/header.php';
                         <p class="fw-500 fs-6">Total XDC Locked</p>
                     </div>
                 </div>
+            </div>
+        </div>
+        <div class="row row-flex">
+            <div class="col-lg-10 offset-lg-1 mt-4">
+                <p class="subtitle text-center mb-0">
+                    <i>
+                        <span class="fw-600">DISCLAIMER:</span> All numbers provided are indicative and based on past performance; there is no guarantee of similar rewards in the future. Participation in setting up a masternode or standby node is part of an ongoing innovation project and should be viewed as a contribution to the advancement of blockchain technology, with no assurance of future returns.
+                    </i>
+                </p>
             </div>
         </div>
     </div>
