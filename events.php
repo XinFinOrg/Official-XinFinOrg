@@ -132,7 +132,7 @@
                                                     	<path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
                                                     </svg>
                                                 </div>
-                                                <p class="mb-0">3:00 AM - 5:00 PM GMT+4</p>
+                                                <p class="mb-0">3:00 PM - 5:00 PM GMT+4</p>
                                                 <div class="icon-1x1-small w-embed">
                                                     <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
@@ -270,7 +270,7 @@
                                                     	<path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
                                                     </svg>
                                                 </div>
-                                                <p class="mb-0">9:30 PM - 11:30 PM GMT+4</p>
+                                                <p class="mb-0">9:30 AM - 11:30 AM GMT+4</p>
                                                 <div class="icon-1x1-small w-embed">
                                                     <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
