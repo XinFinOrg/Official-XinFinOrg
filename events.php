@@ -30,12 +30,11 @@
                             <h2 class="subtitle subtitle-s fw-500 text-center mt-3 mb-0">Stay tuned for upcoming events.</h2>
                         </div>
                     </div>-->
-                    
 
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://www.gitex.com/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
+                        <a href="https://conference.rakdao.com/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/gitex-global.jpg" class="img-fluid" alt="GITEX GLOBAL 2024" />
+                            	<img src="assets/images/inside-page/events/rak-dao-conference.jpg" class="img-fluid" alt="RAK DAO Conference" />
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -44,7 +43,7 @@
                             </div>
                             <div class="events-card_content-wrapper">
                                 <div class="events-card_content">
-                                    <h4 class="card-infoHead">GITEX GLOBAL 2024</h4>
+                                    <h4 class="card-infoHead">RAK DAO Conference</h4>
                                     <div class="events-card_details-wrapper card-info">
                                         <div class="events-card_details">
                                             <div class="icon-1x1-small">
@@ -53,13 +52,7 @@
                                                 </svg>
                                             </div>
                                             <div class="events-card_date-wrapper">
-                                                <p class="mb-0">Oct 14, 2024</p>
-                                                <div class="icon-1x1-small w-embed">
-                                                    <svg width="auto" height="auto" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                        <path d="M5 12.5H19M19 12.5L12 5.5M19 12.5L12 19.5" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                    </svg>
-                                                </div>
-                                                <p class="mb-0">Oct 18, 2024</p>
+                                                <p class="mb-0">Oct 25, 2024</p>
                                             </div>
                                         </div>
                                         <div class="events-card_details-subwrapper">
@@ -71,7 +64,7 @@
 
                                                     </svg>
                                                 </div>
-                                                <p class="mb-0">Dubai World Trade Centre, Dubai, UAE.</p>
+                                                <p class="mb-0">Ras Al Khaimah, Dubai, UAE</p>
                                             </div>
                                         </div>
                                     </div>
@@ -148,283 +141,7 @@
         </div>
         <div class="row row-flex mt-4">
             <div class="col-lg-12">
-                <div class="row justify-content-center">
-                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://lu.ma/3mab1jvp" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
-                            <div class="">
-                            	<img src="assets/images/inside-page/events/xdc-meme-season-meetup.jpg" class="img-fluid" alt="XDC Meme Season MeetUp" />
-                                <div class="ftr-arrow">
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                                    </svg>
-                            	</div>
-                            </div>
-                            <div class="events-card_content-wrapper">
-                                <div class="events-card_content">
-                                    <h4 class="card-infoHead">XDC Meme Season MeetUp</h4>
-                                    <div class="events-card_details-wrapper card-info">
-                                        <div class="events-card_details">
-                                            <div class="icon-1x1-small">
-                                                <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M10.6667 1.83337V4.50004M5.33333 1.83337V4.50004M2 7.16671H14M3.33333 3.16671H12.6667C13.403 3.16671 14 3.76366 14 4.50004V13.8334C14 14.5698 13.403 15.1667 12.6667 15.1667H3.33333C2.59695 15.1667 2 14.5698 2 13.8334V4.50004C2 3.76366 2.59695 3.16671 3.33333 3.16671Z" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                </svg>
-                                            </div>
-                                            <div class="events-card_date-wrapper">
-                                                <p class="mb-0">October 14, 2024</p>
-                                            </div>
-                                        </div>
-                                        <div class="events-card_details-subwrapper">
-                                            <div class="events-card_details">
-                                                <div class="icon-1x1-small w-embed">
-                                                    <svg width="16" height="16" viewBox="0 0 512 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                                                    	<path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                    </svg>
-                                                </div>
-                                                <p class="mb-0">3:00 PM - 5:00 PM GMT+4</p>
-                                                <div class="icon-1x1-small w-embed">
-                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                    </svg>
-                                                </div>
-                                                <p class="mb-0">S2308, DIFC, Dubai UAE.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>                            
-                        </a>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://lu.ma/ql00izru" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
-                            <div class="">
-                            	<img src="assets/images/inside-page/events/founder-investor-mixer.jpg" class="img-fluid" alt="Founder-Investor Mixer" />
-                                <div class="ftr-arrow">
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                                    </svg>
-                            	</div>
-                            </div>
-                            <div class="events-card_content-wrapper">
-                                <div class="events-card_content">
-                                    <h4 class="card-infoHead">Founder-Investor Mixer</h4>
-                                    <div class="events-card_details-wrapper card-info">
-                                        <div class="events-card_details">
-                                            <div class="icon-1x1-small">
-                                                <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M10.6667 1.83337V4.50004M5.33333 1.83337V4.50004M2 7.16671H14M3.33333 3.16671H12.6667C13.403 3.16671 14 3.76366 14 4.50004V13.8334C14 14.5698 13.403 15.1667 12.6667 15.1667H3.33333C2.59695 15.1667 2 14.5698 2 13.8334V4.50004C2 3.76366 2.59695 3.16671 3.33333 3.16671Z" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                </svg>
-                                            </div>
-                                            <div class="events-card_date-wrapper">
-                                                <p class="mb-0">October 16, 2024</p>
-                                            </div>
-                                        </div>
-                                        <div class="events-card_details-subwrapper">
-                                            <div class="events-card_details">
-                                                <div class="icon-1x1-small w-embed">
-                                                    <svg width="16" height="16" viewBox="0 0 512 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                                                    	<path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                    </svg>
-                                                </div>
-                                                <p class="mb-0">9:30 AM - 11:30 AM GMT+4</p>
-                                                <div class="icon-1x1-small w-embed">
-                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                    </svg>
-                                                </div>
-                                                <p class="mb-0">S2308, DIFC, Dubai UAE.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>                            
-                        </a>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://lu.ma/iumqz5gm" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
-                            <div class="">
-                            	<img src="assets/images/inside-page/events/xdc-depin-ecosystem.jpg" class="img-fluid" alt="XDC DePIN Ecosystem" />
-                                <div class="ftr-arrow">
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                                    </svg>
-                            	</div>
-                            </div>
-                            <div class="events-card_content-wrapper">
-                                <div class="events-card_content">
-                                    <h4 class="card-infoHead">XDC DePIN Ecosystem</h4>
-                                    <div class="events-card_details-wrapper card-info">
-                                        <div class="events-card_details">
-                                            <div class="icon-1x1-small">
-                                                <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M10.6667 1.83337V4.50004M5.33333 1.83337V4.50004M2 7.16671H14M3.33333 3.16671H12.6667C13.403 3.16671 14 3.76366 14 4.50004V13.8334C14 14.5698 13.403 15.1667 12.6667 15.1667H3.33333C2.59695 15.1667 2 14.5698 2 13.8334V4.50004C2 3.76366 2.59695 3.16671 3.33333 3.16671Z" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                </svg>
-                                            </div>
-                                            <div class="events-card_date-wrapper">
-                                                <p class="mb-0">October 16, 2024</p>
-                                            </div>
-                                        </div>
-                                        <div class="events-card_details-subwrapper">
-                                            <div class="events-card_details">
-                                                <div class="icon-1x1-small w-embed">
-                                                    <svg width="16" height="16" viewBox="0 0 512 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                                                    	<path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                    </svg>
-                                                </div>
-                                                <p class="mb-0">3:00 PM - 5:00 PM GMT+4</p>
-                                                <div class="icon-1x1-small w-embed">
-                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                    </svg>
-                                                </div>
-                                                <p class="mb-0">S2308, DIFC, Dubai UAE.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>                            
-                        </a>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://lu.ma/aqd39mx6" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
-                            <div class="">
-                            	<img src="assets/images/inside-page/events/web3-and-ai.jpg" class="img-fluid" alt="WEB3 & AI: Gitex Global Side Event" />
-                                <div class="ftr-arrow">
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                                    </svg>
-                            	</div>
-                            </div>
-                            <div class="events-card_content-wrapper">
-                                <div class="events-card_content">
-                                    <h4 class="card-infoHead">WEB3 & AI: Gitex Global Side Event</h4>
-                                    <div class="events-card_details-wrapper card-info">
-                                        <div class="events-card_details">
-                                            <div class="icon-1x1-small">
-                                                <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M10.6667 1.83337V4.50004M5.33333 1.83337V4.50004M2 7.16671H14M3.33333 3.16671H12.6667C13.403 3.16671 14 3.76366 14 4.50004V13.8334C14 14.5698 13.403 15.1667 12.6667 15.1667H3.33333C2.59695 15.1667 2 14.5698 2 13.8334V4.50004C2 3.76366 2.59695 3.16671 3.33333 3.16671Z" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                </svg>
-                                            </div>
-                                            <div class="events-card_date-wrapper">
-                                                <p class="mb-0">October 17, 2024</p>
-                                            </div>
-                                        </div>
-                                        <div class="events-card_details-subwrapper">
-                                            <div class="events-card_details">
-                                                <div class="icon-1x1-small w-embed">
-                                                    <svg width="16" height="16" viewBox="0 0 512 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                                                    	<path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                    </svg>
-                                                </div>
-                                                <p class="mb-0">9:30 AM - 11:30 AM GMT+4</p>
-                                                <div class="icon-1x1-small w-embed">
-                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                    </svg>
-                                                </div>
-                                                <p class="mb-0">S2308, DIFC, Dubai UAE.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>                            
-                        </a>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://lu.ma/dcdhfn7c" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
-                            <div class="">
-                            	<img src="assets/images/inside-page/events/rwa-ecosystem-onxdc.jpg" class="img-fluid" alt="RWA Ecosystem on XDC" />
-                                <div class="ftr-arrow">
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                                    </svg>
-                            	</div>
-                            </div>
-                            <div class="events-card_content-wrapper">
-                                <div class="events-card_content">
-                                    <h4 class="card-infoHead">RWA Ecosystem on XDC</h4>
-                                    <div class="events-card_details-wrapper card-info">
-                                        <div class="events-card_details">
-                                            <div class="icon-1x1-small">
-                                                <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M10.6667 1.83337V4.50004M5.33333 1.83337V4.50004M2 7.16671H14M3.33333 3.16671H12.6667C13.403 3.16671 14 3.76366 14 4.50004V13.8334C14 14.5698 13.403 15.1667 12.6667 15.1667H3.33333C2.59695 15.1667 2 14.5698 2 13.8334V4.50004C2 3.76366 2.59695 3.16671 3.33333 3.16671Z" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                </svg>
-                                            </div>
-                                            <div class="events-card_date-wrapper">
-                                                <p class="mb-0">October 18, 2024</p>
-                                            </div>
-                                        </div>
-                                        <div class="events-card_details-subwrapper">
-                                            <div class="events-card_details">
-                                                <div class="icon-1x1-small w-embed">
-                                                    <svg width="16" height="16" viewBox="0 0 512 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                                                    	<path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                    </svg>
-                                                </div>
-                                                <p class="mb-0">9:30 AM - 11:30 AM GMT+4</p>
-                                                <div class="icon-1x1-small w-embed">
-                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                    </svg>
-                                                </div>
-                                                <p class="mb-0">S2308, DIFC, Dubai UAE.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>                            
-                        </a>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://lu.ma/a838a7qr" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
-                            <div class="">
-                            	<img src="assets/images/inside-page/events/xdc-for-payments.jpg" class="img-fluid" alt="XDC FOR PAYMENTS" />
-                                <div class="ftr-arrow">
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                                    </svg>
-                            	</div>
-                            </div>
-                            <div class="events-card_content-wrapper">
-                                <div class="events-card_content">
-                                    <h4 class="card-infoHead">XDC FOR PAYMENTS</h4>
-                                    <div class="events-card_details-wrapper card-info">
-                                        <div class="events-card_details">
-                                            <div class="icon-1x1-small">
-                                                <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M10.6667 1.83337V4.50004M5.33333 1.83337V4.50004M2 7.16671H14M3.33333 3.16671H12.6667C13.403 3.16671 14 3.76366 14 4.50004V13.8334C14 14.5698 13.403 15.1667 12.6667 15.1667H3.33333C2.59695 15.1667 2 14.5698 2 13.8334V4.50004C2 3.76366 2.59695 3.16671 3.33333 3.16671Z" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                </svg>
-                                            </div>
-                                            <div class="events-card_date-wrapper">
-                                                <p class="mb-0">October 18, 2024</p>
-                                            </div>
-                                        </div>
-                                        <div class="events-card_details-subwrapper">
-                                            <div class="events-card_details">
-                                                <div class="icon-1x1-small w-embed">
-                                                    <svg width="16" height="16" viewBox="0 0 512 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                                                    	<path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                    </svg>
-                                                </div>
-                                                <p class="mb-0">2:30 PM - 5:00 PM GMT+4</p>
-                                                <div class="icon-1x1-small w-embed">
-                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                    </svg>
-                                                </div>
-                                                <p class="mb-0">S2308, DIFC, Dubai UAE.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>                            
-                        </a>
-                    </div>
+                <div class="row justify-content-center">                    
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/shoia4tm" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
                             <div class="">
@@ -492,6 +209,53 @@
         <div class="row row-flex mt-4">
             <div class="col-lg-12">
                 <div class="row justify-content-center">                    
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
+                        <a href="https://www.gitex.com/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
+                            <div class="">
+                            	<img src="assets/images/inside-page/events/gitex-global.jpg" class="img-fluid" alt="GITEX GLOBAL 2024" />
+                                <div class="ftr-arrow">
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                            	</div>
+                            </div>
+                            <div class="events-card_content-wrapper">
+                                <div class="events-card_content">
+                                    <h4 class="card-infoHead">GITEX GLOBAL 2024</h4>
+                                    <div class="events-card_details-wrapper card-info">
+                                        <div class="events-card_details">
+                                            <div class="icon-1x1-small">
+                                                <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M10.6667 1.83337V4.50004M5.33333 1.83337V4.50004M2 7.16671H14M3.33333 3.16671H12.6667C13.403 3.16671 14 3.76366 14 4.50004V13.8334C14 14.5698 13.403 15.1667 12.6667 15.1667H3.33333C2.59695 15.1667 2 14.5698 2 13.8334V4.50004C2 3.76366 2.59695 3.16671 3.33333 3.16671Z" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                </svg>
+                                            </div>
+                                            <div class="events-card_date-wrapper">
+                                                <p class="mb-0">Oct 14, 2024</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="auto" height="auto" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M5 12.5H19M19 12.5L12 5.5M19 12.5L12 19.5" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">Oct 18, 2024</p>
+                                            </div>
+                                        </div>
+                                        <div class="events-card_details-subwrapper">
+                                            <div class="events-card_details">
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">Dubai World Trade Centre, Dubai, UAE.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>                            
+                        </a>
+                    </div>    
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.asia.token2049.com/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
@@ -1434,6 +1198,282 @@
             <div class="col-lg-12">
                 <div class="row justify-content-center">
                 <div class="col-lg-4 col-md-6 mt-2 mb-3">
+                        <a href="https://lu.ma/3mab1jvp" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
+                            <div class="">
+                            	<img src="assets/images/inside-page/events/xdc-meme-season-meetup.jpg" class="img-fluid" alt="XDC Meme Season MeetUp" />
+                                <div class="ftr-arrow">
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                            	</div>
+                            </div>
+                            <div class="events-card_content-wrapper">
+                                <div class="events-card_content">
+                                    <h4 class="card-infoHead">XDC Meme Season MeetUp</h4>
+                                    <div class="events-card_details-wrapper card-info">
+                                        <div class="events-card_details">
+                                            <div class="icon-1x1-small">
+                                                <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M10.6667 1.83337V4.50004M5.33333 1.83337V4.50004M2 7.16671H14M3.33333 3.16671H12.6667C13.403 3.16671 14 3.76366 14 4.50004V13.8334C14 14.5698 13.403 15.1667 12.6667 15.1667H3.33333C2.59695 15.1667 2 14.5698 2 13.8334V4.50004C2 3.76366 2.59695 3.16671 3.33333 3.16671Z" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                </svg>
+                                            </div>
+                                            <div class="events-card_date-wrapper">
+                                                <p class="mb-0">October 14, 2024</p>
+                                            </div>
+                                        </div>
+                                        <div class="events-card_details-subwrapper">
+                                            <div class="events-card_details">
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 512 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                                    	<path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">3:00 PM - 5:00 PM GMT+4</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">S2308, DIFC, Dubai UAE.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>                            
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
+                        <a href="https://lu.ma/ql00izru" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
+                            <div class="">
+                            	<img src="assets/images/inside-page/events/founder-investor-mixer.jpg" class="img-fluid" alt="Founder-Investor Mixer" />
+                                <div class="ftr-arrow">
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                            	</div>
+                            </div>
+                            <div class="events-card_content-wrapper">
+                                <div class="events-card_content">
+                                    <h4 class="card-infoHead">Founder-Investor Mixer</h4>
+                                    <div class="events-card_details-wrapper card-info">
+                                        <div class="events-card_details">
+                                            <div class="icon-1x1-small">
+                                                <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M10.6667 1.83337V4.50004M5.33333 1.83337V4.50004M2 7.16671H14M3.33333 3.16671H12.6667C13.403 3.16671 14 3.76366 14 4.50004V13.8334C14 14.5698 13.403 15.1667 12.6667 15.1667H3.33333C2.59695 15.1667 2 14.5698 2 13.8334V4.50004C2 3.76366 2.59695 3.16671 3.33333 3.16671Z" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                </svg>
+                                            </div>
+                                            <div class="events-card_date-wrapper">
+                                                <p class="mb-0">October 16, 2024</p>
+                                            </div>
+                                        </div>
+                                        <div class="events-card_details-subwrapper">
+                                            <div class="events-card_details">
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 512 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                                    	<path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">9:30 AM - 11:30 AM GMT+4</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">S2308, DIFC, Dubai UAE.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>                            
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
+                        <a href="https://lu.ma/iumqz5gm" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
+                            <div class="">
+                            	<img src="assets/images/inside-page/events/xdc-depin-ecosystem.jpg" class="img-fluid" alt="XDC DePIN Ecosystem" />
+                                <div class="ftr-arrow">
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                            	</div>
+                            </div>
+                            <div class="events-card_content-wrapper">
+                                <div class="events-card_content">
+                                    <h4 class="card-infoHead">XDC DePIN Ecosystem</h4>
+                                    <div class="events-card_details-wrapper card-info">
+                                        <div class="events-card_details">
+                                            <div class="icon-1x1-small">
+                                                <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M10.6667 1.83337V4.50004M5.33333 1.83337V4.50004M2 7.16671H14M3.33333 3.16671H12.6667C13.403 3.16671 14 3.76366 14 4.50004V13.8334C14 14.5698 13.403 15.1667 12.6667 15.1667H3.33333C2.59695 15.1667 2 14.5698 2 13.8334V4.50004C2 3.76366 2.59695 3.16671 3.33333 3.16671Z" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                </svg>
+                                            </div>
+                                            <div class="events-card_date-wrapper">
+                                                <p class="mb-0">October 16, 2024</p>
+                                            </div>
+                                        </div>
+                                        <div class="events-card_details-subwrapper">
+                                            <div class="events-card_details">
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 512 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                                    	<path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">3:00 PM - 5:00 PM GMT+4</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">S2308, DIFC, Dubai UAE.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>                            
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
+                        <a href="https://lu.ma/aqd39mx6" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
+                            <div class="">
+                            	<img src="assets/images/inside-page/events/web3-and-ai.jpg" class="img-fluid" alt="WEB3 & AI: Gitex Global Side Event" />
+                                <div class="ftr-arrow">
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                            	</div>
+                            </div>
+                            <div class="events-card_content-wrapper">
+                                <div class="events-card_content">
+                                    <h4 class="card-infoHead">WEB3 & AI: Gitex Global Side Event</h4>
+                                    <div class="events-card_details-wrapper card-info">
+                                        <div class="events-card_details">
+                                            <div class="icon-1x1-small">
+                                                <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M10.6667 1.83337V4.50004M5.33333 1.83337V4.50004M2 7.16671H14M3.33333 3.16671H12.6667C13.403 3.16671 14 3.76366 14 4.50004V13.8334C14 14.5698 13.403 15.1667 12.6667 15.1667H3.33333C2.59695 15.1667 2 14.5698 2 13.8334V4.50004C2 3.76366 2.59695 3.16671 3.33333 3.16671Z" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                </svg>
+                                            </div>
+                                            <div class="events-card_date-wrapper">
+                                                <p class="mb-0">October 17, 2024</p>
+                                            </div>
+                                        </div>
+                                        <div class="events-card_details-subwrapper">
+                                            <div class="events-card_details">
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 512 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                                    	<path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">9:30 AM - 11:30 AM GMT+4</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">S2308, DIFC, Dubai UAE.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>                            
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
+                        <a href="https://lu.ma/dcdhfn7c" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
+                            <div class="">
+                            	<img src="assets/images/inside-page/events/rwa-ecosystem-onxdc.jpg" class="img-fluid" alt="RWA Ecosystem on XDC" />
+                                <div class="ftr-arrow">
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                            	</div>
+                            </div>
+                            <div class="events-card_content-wrapper">
+                                <div class="events-card_content">
+                                    <h4 class="card-infoHead">RWA Ecosystem on XDC</h4>
+                                    <div class="events-card_details-wrapper card-info">
+                                        <div class="events-card_details">
+                                            <div class="icon-1x1-small">
+                                                <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M10.6667 1.83337V4.50004M5.33333 1.83337V4.50004M2 7.16671H14M3.33333 3.16671H12.6667C13.403 3.16671 14 3.76366 14 4.50004V13.8334C14 14.5698 13.403 15.1667 12.6667 15.1667H3.33333C2.59695 15.1667 2 14.5698 2 13.8334V4.50004C2 3.76366 2.59695 3.16671 3.33333 3.16671Z" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                </svg>
+                                            </div>
+                                            <div class="events-card_date-wrapper">
+                                                <p class="mb-0">October 18, 2024</p>
+                                            </div>
+                                        </div>
+                                        <div class="events-card_details-subwrapper">
+                                            <div class="events-card_details">
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 512 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                                    	<path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">9:30 AM - 11:30 AM GMT+4</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">S2308, DIFC, Dubai UAE.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>                            
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
+                        <a href="https://lu.ma/a838a7qr" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
+                            <div class="">
+                            	<img src="assets/images/inside-page/events/xdc-for-payments.jpg" class="img-fluid" alt="XDC FOR PAYMENTS" />
+                                <div class="ftr-arrow">
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                            	</div>
+                            </div>
+                            <div class="events-card_content-wrapper">
+                                <div class="events-card_content">
+                                    <h4 class="card-infoHead">XDC FOR PAYMENTS</h4>
+                                    <div class="events-card_details-wrapper card-info">
+                                        <div class="events-card_details">
+                                            <div class="icon-1x1-small">
+                                                <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M10.6667 1.83337V4.50004M5.33333 1.83337V4.50004M2 7.16671H14M3.33333 3.16671H12.6667C13.403 3.16671 14 3.76366 14 4.50004V13.8334C14 14.5698 13.403 15.1667 12.6667 15.1667H3.33333C2.59695 15.1667 2 14.5698 2 13.8334V4.50004C2 3.76366 2.59695 3.16671 3.33333 3.16671Z" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                </svg>
+                                            </div>
+                                            <div class="events-card_date-wrapper">
+                                                <p class="mb-0">October 18, 2024</p>
+                                            </div>
+                                        </div>
+                                        <div class="events-card_details-subwrapper">
+                                            <div class="events-card_details">
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 512 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                                    	<path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">2:30 PM - 5:00 PM GMT+4</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">S2308, DIFC, Dubai UAE.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>                            
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/9rtgveeu?tk=2bS2je" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
                             	<img src="assets/images/inside-page/events/xdc-demo-day.jpg" class="img-fluid" alt="XDC Demo Day" />
