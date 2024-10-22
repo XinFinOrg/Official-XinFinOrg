@@ -262,7 +262,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
@@ -280,7 +280,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
