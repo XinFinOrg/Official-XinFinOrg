@@ -359,8 +359,8 @@
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="fs-6 card-infoHead mb-3">XDC Document</div>
                     <div class="card-info">
-                        <p class="fs-6 mb-2"><a href="https://docs.xdc.org/" target="_blank">https://docs.xdc.org/</a></p>
-                        <p class="fs-6 mb-0"><a href="https://howto.xinfin.org/" target="_blank">https://howto.xinfin.org/</a></p>
+                    <p class="fs-6 mb-2"><a href="https://docs.xdc.network" target="_blank">https://docs.xdc.network</a></p>
+                    <p class="fs-6 mb-0"><a href="https://docs.xdc.community/" target="_blank">https://docs.xdc.community/</a></p>
                     </div>
                 </div>
             </div>
@@ -476,7 +476,7 @@
                     <a href="https://t.me/xinfintech" target="_blank">
                         <button class="btn-blue"><i class="fa fa-paper-plane me-1"></i> Telegram Dev Community</button>
                     </a>
-                    <a href="https://docs.xdc.community/" target="_blank">
+                    <a href="https://docs.xdc.network" target="_blank">
                         <button class="btn-blue"><i class="fa fa-book me-1"></i> XDC Documents</button>
                     </a>
                     <a href="https://coderun.ai/" target="_blank">

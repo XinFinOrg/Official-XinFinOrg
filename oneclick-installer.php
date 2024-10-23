@@ -233,7 +233,7 @@
                     <a href="https://t.me/xinfintech" target="_blank">
                         <button class="btn-blue"><i class="fa fa-paper-plane me-1"></i> Telegram Dev Community</button>
                     </a>
-                    <a href="https://docs.xdc.community/" target="_blank">
+                    <a href="https://docs.xdc.network" target="_blank">
                         <button class="btn-blue"><i class="fa fa-book me-1"></i> XDC Documents</button>
                     </a>
                     <a href="https://coderun.ai/" target="_blank">

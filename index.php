@@ -57,7 +57,7 @@
                     </div>
                     <div class="col-lg-3 col-md-3 mt-2 mb-2">
                         <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                            <a href="https://docs.xdc.community/" target="_blank" class="hero-ftr-card">
+                            <a href="https://docs.xdc.network" target="_blank" class="hero-ftr-card">
                                 <div class="card-info">
                                     <div class="card-infoHead mb-3">Start Building</div>
                                     <!--<p class="fs-6 mb-0">Get access to our documents, and start building.</p>-->
@@ -377,7 +377,7 @@
                 <h3 class="title-m text-center">Building Decentralized Solutions</h3>
                 <div class="subtitle subtitle-s text-center">A blockchain network for developers to create the next generation of applications.</div>
                 <div class="btn-block mt-4">
-                    <a href="https://docs.xdc.community/" target="_blank">
+                    <a href="https://xdc.dev/" target="_blank">
                         <button class="btn-blue">Developer Portal</button>
                     </a>
                     <a href="https://github.com/XinFinorg" target="_blank">

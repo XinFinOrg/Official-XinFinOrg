@@ -244,7 +244,7 @@
                     Learn how to create your XDC Network Subnet / Private Network. This guide will help you set up your Subnet / Private Network efficiently by following the instructions in the GitHub repository or Guide.
                 </div>
                 <div class="btn-block mt-4">
-                    <a href="https://docs.xdc.community/" target="_blank">
+                    <a href="https://docs.xdc.network" target="_blank">
                         <button class="btn-blue">Subnet Guide</button>
                     </a>
                     <a href="https://github.com/XinFinorg" target="_blank">
@@ -407,7 +407,7 @@
                     <a href="https://t.me/xinfintech" target="_blank">
                         <button class="btn-blue"><i class="fa fa-paper-plane me-1"></i> Telegram Developers Community</button>
                     </a>
-                    <a href="https://docs.xdc.community/" target="_blank">
+                    <a href="https://docs.xdc.network" target="_blank">
                         <button class="btn-blue"><i class="fa fa-book me-1"></i> XDC Documents</button>
                     </a>
                 </div>
