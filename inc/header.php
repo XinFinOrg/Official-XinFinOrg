@@ -74,8 +74,8 @@
         <header class="autohide header-wrapper sticky-header">
             <div class="news-bar">
                 <p>
-                    Join XDC Network at <b>RAK DAO Conference</b> : 25 October, 2024.
-                    <a href="https://conference.rakdao.com/" target="_blank" class="news-bar-button">
+                    Join XDC Network at <b>HONG KONG FINTECH WEEK'24</b> : 28 - 29 October, 2024.
+                    <a href="https://www.fintechweek.hk/" target="_blank" class="news-bar-button">
                         JOIN US
                         <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
