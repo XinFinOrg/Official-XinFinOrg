@@ -72,7 +72,7 @@
 
         <!-- ============= HEADER ============= -->
         <header class="autohide header-wrapper sticky-header">
-            <div class="news-bar">
+            <!--<div class="news-bar">
                 <p>
                     Join XDC Network at <b>HONG KONG FINTECH WEEK'24</b> : 28 - 29 October, 2024.
                     <a href="https://www.fintechweek.hk/" target="_blank" class="news-bar-button">
@@ -83,7 +83,7 @@
                     </a>
                 </p>
                 <span class="closeNews"><i class="fas fa-close"></i></span>
-            </div>
+            </div>-->
 
             <nav class="navbar">
                 <!--<div class="navbar-content d-flex">-->
