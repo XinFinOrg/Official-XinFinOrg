@@ -109,7 +109,7 @@
                         <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                             <div class="card-info">
                                 <div class="socialHead"><i class="fab fa-twitter"></i>Twitter</div>
-                                <a href="https://twitter.com/XinFin_Official" target="_blank" class="btn socialHead-button">
+                                <a href="https://x.com/XDC_Network_" target="_blank" class="btn socialHead-button">
                                     Follow
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
