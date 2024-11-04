@@ -572,7 +572,7 @@
                                     </div>
                                 </a>
                             </div>                            
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#fluentFinance">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -594,7 +594,7 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#choise">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -858,7 +858,7 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#metabloqs">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -877,7 +877,7 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#guardaVisaCard">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -1019,7 +1019,7 @@
                                     </div>
                                 </a>
                             </div>                            
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#xinfinNameService">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -1038,30 +1038,7 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#airnetz">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                    <div class="">
-                                                        <img src="assets/images/ecosystem-dapps/airnetz-icon.svg" class="iconD" alt="Airnetz" />
-                                                        <img src="assets/images/ecosystem-dapps/airnetz-icon_light.svg" class="iconL" alt="Airnetz" />
-                                                    </div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">Airnetz</div>
-                                                <p class="lh-base mb-0">By integrating with XDC Protocol, Airnetzcharter.com ensures swift and worry-free medical evacuation and air ambulance services.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
+                            </div>-->                            
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#yodaplusMultisigWallet">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -1097,6 +1074,29 @@
                                             <div class="">
                                                 <div class="card-infoHead mb-2">Yodaplus Trade Tokenization</div>
                                                 <p class="lh-base mb-0">Yodaplus Asset Tokenization Platform for Your Digital Assets.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#airnetz">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/airnetz-icon.svg" class="iconD" alt="Airnetz" />
+                                                        <img src="assets/images/ecosystem-dapps/airnetz-icon_light.svg" class="iconL" alt="Airnetz" />
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Airnetz</div>
+                                                <p class="lh-base mb-0">By integrating with XDC Protocol, Airnetzcharter.com ensures swift and worry-free medical evacuation and air ambulance services.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1152,7 +1152,7 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#fluentFinance">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -1174,7 +1174,7 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#tradeFinex">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -1430,7 +1430,7 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#metabloqs">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -1449,7 +1449,7 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#circularityFinance">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -1512,7 +1512,7 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#xinfinNameService">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -1531,7 +1531,7 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#yodaplusMultisigWallet">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -2005,7 +2005,7 @@
     </div>
 </div>
 
-<div class="modal fade" id="xinfinNameService" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+<!--<div class="modal fade" id="xinfinNameService" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
             <div class="modal-header">
@@ -2052,7 +2052,7 @@
             </div>
         </div>
     </div>
-</div>
+</div>-->
 
 <div class="modal fade" id="circularityFinance" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
@@ -2784,7 +2784,7 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
     </div>
 </div>
 
-<div class="modal fade" id="metabloqs" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+<!--<div class="modal fade" id="metabloqs" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
             <div class="modal-header">
@@ -2835,7 +2835,7 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
             </div>
         </div>
     </div>
-</div>
+</div>-->
 
 <div class="modal fade" id="stasisEurs" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
@@ -3335,7 +3335,7 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
     </div>
 </div>
 
-<div class="modal fade" id="fluentFinance" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+<!--<div class="modal fade" id="fluentFinance" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
             <div class="modal-header">
@@ -3395,7 +3395,7 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
             </div>
         </div>
     </div>
-</div>
+</div>-->
 
 <div class="modal fade" id="choise" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">

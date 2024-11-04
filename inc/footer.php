@@ -84,7 +84,7 @@
                         <div class="socialicons">
                         	<a href="https://x.com/XDC_Network_" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
                             <a href="https://www.linkedin.com/company/xdcnetwork/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-                            <a href="https://www.facebook.com/XinFinHybridBlockchain/" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://www.facebook.com/XDCNetworkBlockchain" target="_blank"><i class="fab fa-facebook-f"></i></a>
                             <a href="https://t.me/xinfin" target="_blank"><i class="fas fa-paper-plane"></i></a><br/>
                             <a href="https://github.com/XinFinorg" target="_blank"><i class="fab fa-github"></i></a>
                             <a href="https://www.reddit.com/r/xinfin/" target="_blank"><i class="fab fa-reddit"></i></a>
