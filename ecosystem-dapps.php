@@ -656,6 +656,46 @@
                                 </a>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#plugin">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class=""><img src="assets/images/ecosystem-dapps/goplugin-icon.svg" alt="GoPlugin"></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Native Oracle</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Plugin</div>
+                                                <p class="lh-base mb-0">Plugin, a decentralized oracle platform, provides cost-effective solutions for any smart contract on the XDC Network.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#yieldteq">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/yieldteq-icon.svg" alt="Yieldteq" /></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Yieldteq</div>
+                                                <p class="lh-base mb-0">Stable yield-bearing financial instruments securely delivered as on-chain financial products.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#globiance">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -674,27 +714,7 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#yieldteq">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/yieldteq-icon.svg" alt="Globiance" /></div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">Yieldteq</div>
-                                                <p class="lh-base mb-0">Stable yield-bearing financial instruments securely delivered as on-chain financial products.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
+                            </div>                            
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#blockdegree">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -918,27 +938,7 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#plugin">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                    <div class=""><img src="assets/images/ecosystem-dapps/goplugin-icon.svg" alt="GoPlugin"></div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Native Oracle</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">Plugin</div>
-                                                <p class="lh-base mb-0">Plugin, a decentralized oracle platform, provides cost-effective solutions for any smart contract on the XDC Network.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
+                            </div>                            
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#supra">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -1224,7 +1224,7 @@
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
                                             <div class="exchangeCard-header justify-content-between align-items-center">
                                                 <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/yieldteq-icon.svg" alt="Globiance" /></div>
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/yieldteq-icon.svg" alt="Yieldteq" /></div>
                                                 </div>
                                                 <div class="desc label">
                                                     <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
