@@ -2588,6 +2588,16 @@ a .team-infoHead {
     transition-duration: 0.2s;
 }
 
+.comingTag {
+    font-size: 16px;
+    color: #61a1ff!important;
+    font-weight: 500;
+    text-align: left;
+    padding: 18px 0px 0px 0px;
+    text-decoration: none !important;
+    transition-duration: 0.2s;
+}
+
 
 
 
