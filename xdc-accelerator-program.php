@@ -15,13 +15,21 @@
                     The XDC Accelerator Program supports blockchain startups on XDC Network, providing mentorship, resources, and networking. It guides participants through product development, marketing, fundraising, and community building to foster innovation and blockchain adoption.
                 </h2>
                 <h2 class="subtitle subtitle-m text-gradient fw-500 text-center mb-0">
+                Projects that believe in their vision and wish to gain community support can create a proposal on XDCDAO for funding and go through a decentralized procedure to access the funds.
+                </h2>
+                <div class="btn-block">
+                    <a href="https://www.xdcdao.org/" target="_blank">
+                        <button class="btn-blue">Visit XDCDAO</button>
+                    </a>
+                </div>
+                <!--<h2 class="subtitle subtitle-m text-gradient fw-500 text-center mb-0">
                     The grant program is exclusively available to projects that have applied to the accelerator and incubator programs.
                 </h2>
                 <div class="btn-block">
                     <a href="https://forms.gle/gQcopGCDuta7fECq7" target="_blank">
                         <button class="btn-blue">Apply For Grant Bounty</button>
                     </a>
-                </div>
+                </div>-->
             </div>
         </div>
     </div>
