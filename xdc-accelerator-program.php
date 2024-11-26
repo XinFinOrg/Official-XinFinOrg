@@ -153,12 +153,12 @@
                         	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Starts:</span> 1 Dec 2025</p>
                         </div>
                         
-                        <h2 class="comingTag">*Season 1 XDC 0XCamp Cohort 1 - Completed in Oct 2024</h2>
-                        <!--<a href="https://foundershiphq.com/xdc-0xcamp" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
+                        <h2 class="comingTag"><i>*Season 1 XDC 0XCamp Cohort 1 - Completed in Oct 2024</i></h2>
+                        <a href="https://foundershiphq.com/xdc-0xcamp" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                             </svg>
-                        </a>-->
+                        </a>
                     </div>
                 </div>
             </div>
