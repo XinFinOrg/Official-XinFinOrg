@@ -208,7 +208,7 @@
                         <button class="btn-blue"><i class="fas fa-comments me-1"></i> XDC Forum</button>
                     </a>
                     <a href="https://t.me/xinfintech" target="_blank">
-                        <button class="btn-blue"><i class="fa fa-paper-plane me-1"></i> Telegram Dev Community</button>
+                        <button class="btn-blue"><i class="fa fa-paper-plane me-1"></i> XDC Dev Community</button>
                     </a>
                     <a href="https://docs.xdc.network" target="_blank">
                         <button class="btn-blue"><i class="fa fa-book me-1"></i> XDC Documents</button>

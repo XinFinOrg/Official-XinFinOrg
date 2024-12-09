@@ -172,7 +172,7 @@
                         <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                             <div class="card-info">
                                 <div class="socialHead"><i class="fas fa-paper-plane"></i>Telegram</div>
-                                <a href="https://t.me/xinfin" target="_blank" class="btn socialHead-button">
+                                <a href="https://t.me/XDC_Network_Updates" target="_blank" class="btn socialHead-button">
                                     Join discussion
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
