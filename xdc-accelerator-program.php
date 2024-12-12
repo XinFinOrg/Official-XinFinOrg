@@ -127,12 +127,12 @@
                         	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 14 March 2025</p>
                         </div>
 						
-						<h2 class="comingTag">Coming Soon!</h2>
-                        <!--<a href="https://t-hub.co/programs/xdc-network-finternet-accelerator/" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
+						<!--<h2 class="comingTag">Coming Soon!</h2>-->
+                        <a href="https://www.plugandplayapac.com/xdc-payments-program" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                             </svg>
-                        </a>-->
+                        </a>
                     </div>
                 </div>
             </div>
@@ -182,6 +182,52 @@
                             	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                             </svg>
                         </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-6 col-md-6 mb-4">
+                <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                    <div class="card-info">
+                        <div class="mb-4">
+                        	<img src="assets/images/inside-page/incubator/rakdao.svg" class="incLogo bg-light75 iconD" />
+                            <img src="assets/images/inside-page/incubator/rakdao_light.svg" class="incLogo bg-light75 iconL" />
+                        </div>
+                        <div class="card-infoHead mb-3"><span class="fw-600">RAKDAO Accelerator Program</span></div>
+                        <p class="fs-6">XDC has partnered with RAKDAO, world's first free zone dedicated to Digital Assets and Virtual Assets to offer an exclusive token launch accelerator program focussed on Gaming, DEPIN and Web3 Infrastructure.</p>
+                        <div class="dateBox mt-3">
+                        	<p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> Feb 2025</p>
+                        	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Starts:</span> Stay Tuned!</p>
+                        </div>
+                        <h2 class="comingTag">Coming Soon!</h2>
+                        <!--<a href="https://0xpivot.com/Startup-Application" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
+                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                            </svg>
+                        </a>-->
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-6 col-md-6 mb-4">
+                <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                    <div class="card-info">
+                        <div class="mb-4">
+                        	<img src="assets/images/inside-page/incubator/blockon.svg" class="incLogo bg-light75 iconD" />
+                            <img src="assets/images/inside-page/incubator/blockon_light.svg" class="incLogo bg-light75 iconL" />
+                        </div>
+                        <div class="card-infoHead mb-3"><span class="fw-600">BlockOn XDC</span></div>
+                        <p class="fs-6">Blockon is a leading Venture Builder providing incubation, acceleration and advisory support to global innovators with blockchain-based visions since 2013. XDC has partnered with Blockon to offer customised 1:1 mentorship for early stage Web3 projects wanting to get token ready. BlockOn and XDC Network will coinvest in each shortlisted project.</p>
+                        <div class="dateBox mt-3">
+                        	<p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> Rolling Basis</p>
+                        	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Starts:</span> Stay Tuned!</p>
+                        </div>
+                        <h2 class="comingTag">Coming Soon!</h2>
+                        <!--<a href="https://0xpivot.com/Startup-Application" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
+                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                            </svg>
+                        </a>-->
                     </div>
                 </div>
             </div>
