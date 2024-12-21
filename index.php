@@ -95,7 +95,7 @@
                                     <p class="fs-6 mb-0">Interoperability by Corda Bridge/Wanchain Bridge.</p>
                                 </div>
                                 <div class="hero-ftr-arrow">
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="https://www.impel.global/r3-corda-bridge">
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="https://xinfin.org/ISO20022/r3-corda-bridge.html" target="_blank">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                     </svg>
                                 </div>
