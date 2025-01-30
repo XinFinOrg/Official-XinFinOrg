@@ -100,7 +100,7 @@
                                                         <path d="M5 12.5H19M19 12.5L12 5.5M19 12.5L12 19.5" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                                                     </svg>
                                                 </div>
-                                                <p class="mb-0">Apr 29, 2025</p>
+                                                <p class="mb-0">Apr 24, 2025</p>
                                             </div>
                                         </div>
                                         <div class="events-card_details-subwrapper">
