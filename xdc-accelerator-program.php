@@ -12,10 +12,11 @@
             <div class="col-lg-10 col-md-12 hero-content">
                 <h1 class="title-m text-center mb-0">XDC Accelerator Program</h1>
                 <h2 class="subtitle subtitle-s fw-500 text-center mb-0">
-                    The XDC Accelerator Program supports blockchain startups on XDC Network, providing mentorship, resources, and networking. It guides participants through product development, marketing, fundraising, and community building to foster innovation and blockchain adoption.
+                    The XDC Accelerator Program supports blockchain startups on XDC Network, providing mentorship, resources, and networking. It guides participants through product development, marketing, fundraising, and community building
+                    to foster innovation and blockchain adoption.
                 </h2>
                 <h2 class="subtitle subtitle-m text-gradient fw-500 text-center mb-0">
-                Projects that believe in their vision and wish to gain community support can create a proposal on XDCDAO for funding and go through a decentralized procedure to access the funds.
+                    Projects that believe in their vision and wish to gain community support can create a proposal on XDCDAO for funding and go through a decentralized procedure to access the funds.
                 </h2>
                 <div class="btn-block">
                     <a href="https://www.xdcdao.org/" target="_blank">
@@ -39,147 +40,150 @@
 <!-- Program Starts -->
 <section class="px-80 pt-0">
     <div class="container">
+        <div class="row justify-content-center mt-4 mb-4">
+            <div class="col-lg-10">
+                <h1 class="title-s text-center mb-3">Ongoing Programs</h1>
+            </div>
+        </div>
         <div class="row justify-content-center">
-            
-        <div class="col-lg-12 col-md-12 mb-4">
+            <div class="col-lg-12 col-md-12 mb-4">
                 <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="mb-4">
-                        	<img src="assets/images/inside-page/incubator/plugandplay.svg" class="incLogo bg-light75 iconD" />
+                            <img src="assets/images/inside-page/incubator/plugandplay.svg" class="incLogo bg-light75 iconD" />
                             <img src="assets/images/inside-page/incubator/plugandplay_light.svg" class="incLogo bg-light75 iconL" />
                         </div>
                         <div class="card-infoHead mb-3"><span class="fw-600">XDC Enterprise RWA Accelerator</span></div>
-                        <p class="fs-6">The XDC Real World Asset (RWA) tokenization accelerator, powered by Plug and Play, is open to all RWA projects and will offer selected founders access to XDC Network’s internal resources, mentorship, and customized support from industry experts.</p>
-                        <p class="fs-6">Plug and Play is the leading innovation platform, connecting startups, corporations, venture capital firms, universities, and government agencies. Headquartered in Silicon Valley, we’re present in 60+ locations across five continents. We offer corporate innovation programs and help our corporate partners in every stage of their innovation journey, from education to execution. We also organize startup acceleration programs and have built an in-house VC to drive innovation across multiple industries where we’ve invested in hundreds of successful companies including Dropbox, Guardant Health, Honey, Lending Club, N26, PayPal, and Rappi.</p>
+                        <p class="fs-6">
+                            The XDC Real World Asset (RWA) tokenization accelerator, powered by Plug and Play, is open to all RWA projects and will offer selected founders access to XDC Network’s internal resources, mentorship, and
+                            customized support from industry experts.
+                        </p>
+                        <p class="fs-6">
+                            Plug and Play is the leading innovation platform, connecting startups, corporations, venture capital firms, universities, and government agencies. Headquartered in Silicon Valley, we’re present in 60+ locations
+                            across five continents. We offer corporate innovation programs and help our corporate partners in every stage of their innovation journey, from education to execution. We also organize startup acceleration
+                            programs and have built an in-house VC to drive innovation across multiple industries where we’ve invested in hundreds of successful companies including Dropbox, Guardant Health, Honey, Lending Club, N26, PayPal,
+                            and Rappi.
+                        </p>
                         <p class="fs-6 mb-0">For more information, visit <a href="https://www.plugandplaytechcenter.com/">https://www.plugandplaytechcenter.com/</a></p>
                         <div class="dateBox mt-3">
-                        	<p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 18 March to June 2025</p>
-                        	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 15 November 2024</p>
+                            <p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 18 March to June 2025</p>
+                            <p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 15 November 2024</p>
                         </div>
-                        
-                        <a href="https://www.plugandplaytechcenter.com/innovation-services/our-programs/xdc-rwa-accelerator" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
+
+                        <a href="https://www.plugandplaytechcenter.com/innovation-services/our-programs/xdc-rwa-accelerator" target="_blank" class="btn socialHead-button internalLink mt-auto">
+                            Apply Now
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                            	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                             </svg>
                         </a>
                     </div>
                 </div>
-            </div>
+            </div>           
 
             <div class="col-lg-6 col-md-6 mb-4">
                 <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="mb-4">
-                        	<img src="assets/images/inside-page/incubator/launchpool.svg" class="incLogo bg-light75 iconD" />
-                            <img src="assets/images/inside-page/incubator/launchpool_light.svg" class="incLogo bg-light75 iconL" />
-                        </div>
-                        <div class="card-infoHead mb-3"><span class="fw-600">LaunchpoolXDC</span></div>
-                        <p class="fs-6 mb-0">Launchpool XDC accelerator program will be Europe-centric. To qualify, startups must have raised at least $100k in an initial Angel/Pre-seed round with a valuation under US $20 million, be prepared for a token launch within six months, and have at least one Tech CoFounder or Technical Partner. join to get token-launch ready and get upto $100,000 investment from XDC Network.</p>
-                        <div class="dateBox mt-3">
-                        	<p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 10 July to 10 October 2024</p>
-                        	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 10 August 2024</p>
-                        </div>
-                        
-                        <a href="https://launchpoollabs.xyz/#submit" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
-                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                            	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                            </svg>
-                        </a>
-                    </div>
-                </div>
-            </div>            
-
-            <div class="col-lg-6 col-md-6 mb-4">
-                <div class="h-100 card p-4 bg-lightgray br-20 border-0">
-                    <div class="card-info">
-                        <div class="mb-4">
-                        	<img src="assets/images/inside-page/incubator/thub.svg" class="incLogo bg-light75" />
+                            <img src="assets/images/inside-page/incubator/thub.svg" class="incLogo bg-light75" />
                         </div>
                         <div class="card-infoHead mb-3"><span class="fw-600">XDC Network Finternet Accelerator Program</span></div>
-                        <p class="fs-6">The XDC Network Finternet Accelerator Program, in collaboration with T Hub, is designed to support and nurture Web3 startups in the Indian subcontinent by providing MVP-ready startups with essential resources, mentorship, and infrastructure to accelerate their growth.</p>
-                        <p class="fs-6 mb-0">Aligned with the Government of India's "Make in India" initiative, this program focuses on incubating and accelerating promising blockchain startups, fostering innovation and development within the country's thriving startup sector. Through this initiative, startups gain access to a vibrant ecosystem that promotes innovation, collaboration, and advancement in the rapidly evolving Web3 and blockchain industry.</p>
+                        <p class="fs-6">
+                            The XDC Network Finternet Accelerator Program, in collaboration with T Hub, is designed to support and nurture Web3 startups in the Indian subcontinent by providing MVP-ready startups with essential resources,
+                            mentorship, and infrastructure to accelerate their growth.
+                        </p>
+                        <p class="fs-6 mb-0">
+                            Aligned with the Government of India's "Make in India" initiative, this program focuses on incubating and accelerating promising blockchain startups, fostering innovation and development within the country's
+                            thriving startup sector. Through this initiative, startups gain access to a vibrant ecosystem that promotes innovation, collaboration, and advancement in the rapidly evolving Web3 and blockchain industry.
+                        </p>
                         <div class="dateBox mt-3">
-                        	<p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 4th week of January 2025</p>
-                        	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 15 December 2024</p>
+                            <p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 4th week of January 2025</p>
+                            <p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 15 December 2024</p>
                         </div>
-                        
+
                         <!--<h2 class="closedTag">Coming Soon...</h2>-->
-                        <a href="https://t-hub.co/programs/xdc-network-finternet-accelerator/" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
+                        <a href="https://t-hub.co/programs/xdc-network-finternet-accelerator/" target="_blank" class="btn socialHead-button internalLink mt-auto">
+                            Apply Now
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                            	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                             </svg>
                         </a>
                     </div>
                 </div>
             </div>
-			
-			<div class="col-lg-6 col-md-6 mb-4">
+
+            <div class="col-lg-6 col-md-6 mb-4">
                 <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                     <div class="card-info">
-						<div class="mb-4">
-                        	<img src="assets/images/inside-page/incubator/plugandplayapac.svg" class="incLogo bg-light75 iconD" />
+                        <div class="mb-4">
+                            <img src="assets/images/inside-page/incubator/plugandplayapac.svg" class="incLogo bg-light75 iconD" />
                             <img src="assets/images/inside-page/incubator/plugandplayapac_light.svg" class="incLogo bg-light75 iconL" />
                         </div>
                         <div class="card-infoHead mb-3"><span class="fw-600">XDC Payments Program</span></div>
-                        <p class="fs-6 mb-0">The XDC Payments Program will identify and collaborate with the best payments-based Web 3.0 solutions that can enrich the XDC Network. Startups will have the chance to leverage XDC Network's resources and support and shape the future of payments on a secure, scalable blockchain.</p>
+                        <p class="fs-6 mb-0">
+                            The XDC Payments Program will identify and collaborate with the best payments-based Web 3.0 solutions that can enrich the XDC Network. Startups will have the chance to leverage XDC Network's resources and support
+                            and shape the future of payments on a secure, scalable blockchain.
+                        </p>
                         <div class="dateBox mt-3">
-                        	<p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 4 April 2025</p>
-                        	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 14 March 2025</p>
+                            <p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 4 April 2025</p>
+                            <p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 14 March 2025</p>
                         </div>
-						
-						<!--<h2 class="comingTag">Coming Soon!</h2>-->
-                        <a href="https://www.plugandplayapac.com/xdc-payments-program" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
+
+                        <!--<h2 class="comingTag">Coming Soon!</h2>-->
+                        <a href="https://www.plugandplayapac.com/xdc-payments-program" target="_blank" class="btn socialHead-button internalLink mt-auto">
+                            Apply Now
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                            	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                             </svg>
                         </a>
                     </div>
                 </div>
             </div>
-			
-			<div class="col-lg-6 col-md-6 mb-4">
+
+            <div class="col-lg-6 col-md-6 mb-4">
                 <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="mb-4">
-                        	<img src="assets/images/inside-page/incubator/foundershiphq.svg" class="incLogo bg-light75 iconD" />
+                            <img src="assets/images/inside-page/incubator/foundershiphq.svg" class="incLogo bg-light75 iconD" />
                             <img src="assets/images/inside-page/incubator/foundershiphq_light.svg" class="incLogo bg-light75 iconL" />
                         </div>
                         <div class="card-infoHead mb-3"><span class="fw-600">XDC 0xCAMP Token Launch - Season 2</span></div>
                         <p class="fs-6">A 3-month world-class cohort program where top startups from around the globe join to get token-launch ready and get upto $100,000 investment from XDC Network.</p>
-						<p class="fs-6 mb-0">Open for Token Launch & Relaunch</p>
-						<p class="fs-6 mb-0">Themes: RWA, DeFi, Gaming, Payments</p>
+                        <p class="fs-6 mb-0">Open for Token Launch & Relaunch</p>
+                        <p class="fs-6 mb-0">Themes: RWA, DeFi, Gaming, Payments</p>
                         <div class="dateBox mt-3">
-                        	<p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 2 Feb 2025</p>
-                        	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Starts:</span> 1 Dec 2025</p>
+                            <p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 2 Feb 2025</p>
+                            <p class="aDate fs-6 mb-0"><span class="fw-600">Application Starts:</span> 1 Dec 2025</p>
                         </div>
-                        
+
                         <h2 class="comingTag"><i>*Season 1 XDC 0XCamp Cohort 1 - Completed in Oct 2024</i></h2>
-                        <a href="https://foundershiphq.com/xdc-0xcamp" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
+                        <a href="https://foundershiphq.com/xdc-0xcamp" target="_blank" class="btn socialHead-button internalLink mt-auto">
+                            Apply Now
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                            	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                             </svg>
                         </a>
                     </div>
                 </div>
             </div>
-			
-			<div class="col-lg-6 col-md-6 mb-4">
+
+            <div class="col-lg-6 col-md-6 mb-4">
                 <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="mb-4">
-                        	<img src="assets/images/inside-page/incubator/pivot.svg" class="incLogo bg-light75 iconD" />
+                            <img src="assets/images/inside-page/incubator/pivot.svg" class="incLogo bg-light75 iconD" />
                             <img src="assets/images/inside-page/incubator/pivot_light.svg" class="incLogo bg-light75 iconL" />
                         </div>
                         <div class="card-infoHead mb-3"><span class="fw-600">Let's Pivot to XDC</span></div>
                         <p class="fs-6">Let's Pivot to XDC is a customized program for startups to be selected on a rolling basis, ensuring tailored onboarding and support based on individual project needs.</p>
-						<p class="fs-6 mb-0">Themes: RWA, DeFi, Gaming, Payments</p>
+                        <p class="fs-6 mb-0">Themes: RWA, DeFi, Gaming, Payments</p>
                         <div class="dateBox mt-3">
-                        	<p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> Rolling Basis </p>
-                        	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Starts:</span> 1 Dec 2025</p>
+                            <p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> Rolling Basis</p>
+                            <p class="aDate fs-6 mb-0"><span class="fw-600">Application Starts:</span> 1 Dec 2025</p>
                         </div>
-                        <a href="https://0xpivot.com/Startup-Application" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
+                        <a href="https://0xpivot.com/Startup-Application" target="_blank" class="btn socialHead-button internalLink mt-auto">
+                            Apply Now
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                            	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                             </svg>
                         </a>
                     </div>
@@ -190,14 +194,16 @@
                 <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="mb-4">
-                        	<img src="assets/images/inside-page/incubator/rakdao.svg" class="incLogo bg-light75 iconD" />
+                            <img src="assets/images/inside-page/incubator/rakdao.svg" class="incLogo bg-light75 iconD" />
                             <img src="assets/images/inside-page/incubator/rakdao_light.svg" class="incLogo bg-light75 iconL" />
                         </div>
                         <div class="card-infoHead mb-3"><span class="fw-600">RAKDAO Accelerator Program</span></div>
-                        <p class="fs-6">XDC has partnered with RAKDAO, world's first free zone dedicated to Digital Assets and Virtual Assets to offer an exclusive token launch accelerator program focussed on Gaming, DEPIN and Web3 Infrastructure.</p>
+                        <p class="fs-6">
+                            XDC has partnered with RAKDAO, world's first free zone dedicated to Digital Assets and Virtual Assets to offer an exclusive token launch accelerator program focussed on Gaming, DEPIN and Web3 Infrastructure.
+                        </p>
                         <div class="dateBox mt-3">
-                        	<p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> Feb 2025</p>
-                        	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Starts:</span> Stay Tuned!</p>
+                            <p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> Feb 2025</p>
+                            <p class="aDate fs-6 mb-0"><span class="fw-600">Application Starts:</span> Stay Tuned!</p>
                         </div>
                         <h2 class="comingTag">Coming Soon!</h2>
                         <!--<a href="https://0xpivot.com/Startup-Application" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
@@ -213,14 +219,17 @@
                 <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="mb-4">
-                        	<img src="assets/images/inside-page/incubator/blockon.svg" class="incLogo bg-light75 iconD" />
+                            <img src="assets/images/inside-page/incubator/blockon.svg" class="incLogo bg-light75 iconD" />
                             <img src="assets/images/inside-page/incubator/blockon_light.svg" class="incLogo bg-light75 iconL" />
                         </div>
                         <div class="card-infoHead mb-3"><span class="fw-600">BlockOn XDC</span></div>
-                        <p class="fs-6">Blockon is a leading Venture Builder providing incubation, acceleration and advisory support to global innovators with blockchain-based visions since 2013. XDC has partnered with Blockon to offer customised 1:1 mentorship for early stage Web3 projects wanting to get token ready. BlockOn and XDC Network will coinvest in each shortlisted project.</p>
+                        <p class="fs-6">
+                            Blockon is a leading Venture Builder providing incubation, acceleration and advisory support to global innovators with blockchain-based visions since 2013. XDC has partnered with Blockon to offer customised 1:1
+                            mentorship for early stage Web3 projects wanting to get token ready. BlockOn and XDC Network will coinvest in each shortlisted project.
+                        </p>
                         <div class="dateBox mt-3">
-                        	<p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> Rolling Basis</p>
-                        	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Starts:</span> Stay Tuned!</p>
+                            <p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> Rolling Basis</p>
+                            <p class="aDate fs-6 mb-0"><span class="fw-600">Application Starts:</span> Stay Tuned!</p>
                         </div>
                         <h2 class="comingTag">Coming Soon!</h2>
                         <!--<a href="https://0xpivot.com/Startup-Application" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
@@ -230,23 +239,56 @@
                         </a>-->
                     </div>
                 </div>
+            </div>            
+        </div>
+
+    	<div class="row justify-content-center pt-5 mt-5 mb-4">
+            <div class="col-lg-10">
+                <h1 class="title-s text-center mb-3">Completed Programs</h1>
             </div>
-			
-			<div class="col-lg-6 col-md-6 mb-4">
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-6 col-md-6 mb-4">
                 <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="mb-4">
-                        	<img src="assets/images/inside-page/incubator/brinc.svg" class="incLogo bg-light75 iconD" />
+                            <img src="assets/images/inside-page/incubator/launchpool.svg" class="incLogo bg-light75 iconD" />
+                            <img src="assets/images/inside-page/incubator/launchpool_light.svg" class="incLogo bg-light75 iconL" />
+                        </div>
+                        <div class="card-infoHead mb-3"><span class="fw-600">LaunchpoolXDC</span></div>
+                        <p class="fs-6 mb-0">
+                            Launchpool XDC accelerator program will be Europe-centric. To qualify, startups must have raised at least $100k in an initial Angel/Pre-seed round with a valuation under US $20 million, be prepared for a token
+                            launch within six months, and have at least one Tech CoFounder or Technical Partner. join to get token-launch ready and get upto $100,000 investment from XDC Network.
+                        </p>
+                        <div class="dateBox mt-3">
+                            <p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 10 July to 10 October 2024</p>
+                            <p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 10 August 2024</p>
+                        </div>
+
+                        <a href="https://launchpoollabs.xyz/#submit" target="_blank" class="btn socialHead-button internalLink mt-auto">
+                            Apply Now
+                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>                
+            <div class="col-lg-6 col-md-6 mb-4">
+                <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                    <div class="card-info">
+                        <div class="mb-4">
+                            <img src="assets/images/inside-page/incubator/brinc.svg" class="incLogo bg-light75 iconD" />
                             <img src="assets/images/inside-page/incubator/brinc_light.svg" class="incLogo bg-light75 iconL" />
                         </div>
                         <div class="card-infoHead mb-3"><span class="fw-600">XDC Accelerator Program</span></div>
                         <p class="fs-6">12 week Brinc accelerator program is tailored to provide startups with the support, resources, curriculum and mentorship to help them succeed with their token launch.</p>
                         <p class="fs-6 mb-0">Brinc has a proven track record of investing in 239 companies from more than 36 countries.</p>
                         <div class="dateBox mt-3">
-                        	<p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 30 September 2024</p>
-                        	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 12 September 2024</p>
+                            <p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 30 September 2024</p>
+                            <p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 12 September 2024</p>
                         </div>
-                        
+
                         <h2 class="closedTag">Applications Closed!</h2>
                         <!--<a href="https://www.brinc.io/xdc-launch/" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -257,21 +299,20 @@
                 </div>
             </div>
 
-            
             <div class="col-lg-6 col-md-6 mb-4">
                 <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="mb-4">
-                        	<img src="assets/images/inside-page/incubator/tenity.svg" class="incLogo bg-light75 iconD" />
+                            <img src="assets/images/inside-page/incubator/tenity.svg" class="incLogo bg-light75 iconD" />
                             <img src="assets/images/inside-page/incubator/tenity_light.svg" class="incLogo bg-light75 iconL" />
                         </div>
                         <div class="card-infoHead mb-3"><span class="fw-600">XDC Accelerator Program</span></div>
                         <p class="fs-6 mb-0">XDC Accelerator is a 12-week accelerator program aim at helping early stage blockchain startups build and grow in the vibrant XDC Ecosystem.</p>
                         <div class="dateBox mt-3">
-                        	<p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 22 July to 11 October 2024</p>
-                        	<p class="aDate fs-6 mb-0"><span class="fw-600">Application Open:</span> 13 May to 14 June 2024</p>
+                            <p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 22 July to 11 October 2024</p>
+                            <p class="aDate fs-6 mb-0"><span class="fw-600">Application Open:</span> 13 May to 14 June 2024</p>
                         </div>
-                        
+
                         <h2 class="closedTag">Applications Closed!</h2>
                         <!--<a href="https://www.tenity.com/programs/xdc-accelerator-program" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -281,8 +322,9 @@
                     </div>
                 </div>
             </div>
-
         </div>
+
+
     </div>
 </section>
 <!-- Program Ends -->
@@ -787,17 +829,9 @@
                 </div>
             </div>
         </div>
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <div class="row mt-1">
-            <div class="col-lg-8 offset-lg-2 mb-4 mt-5">
+
+        <div class="row justify-content-center mt-1">
+            <div class="col-xl-7 col-lg-8 mb-4 mt-5 mb-4 mt-5">
                 <h3 class="title-m text-center">XDC Network Assessment and Chain Analysis</h3>
             </div>
         </div>
@@ -870,23 +904,25 @@
     </div>
 </section>
 
-
 <!-- RPC Endpoint Starts -->
 <section class="px-80 bg-lightgray">
     <div class="container">
         <div class="row align-items-center">
-        	<div class="col-xl-6 col-lg-6 mb-5 mb-xl-0 mb-lg-0">
+            <div class="col-xl-6 col-lg-6 mb-5 mb-xl-0 mb-lg-0">
                 <h3 class="title-m">XDC Index — Vinter</h3>
                 <p class="subtitle subtitle-s fw-600">XDC Regulated Index Provider</p>
-                <p class="subtitle subtitle-s">The Vinter Xinfin XDC Index is a single asset index, measuring the price of XDC in USD. The index is developed to provide a rule-based and transparent way to capture the price of one XDC. The administration and calculation are compliant with the IOSCO principles and the EU Benchmarks Regulation. VNXDC uses a Vinter reference rate for the XDC price calculation.</p>
+                <p class="subtitle subtitle-s">
+                    The Vinter Xinfin XDC Index is a single asset index, measuring the price of XDC in USD. The index is developed to provide a rule-based and transparent way to capture the price of one XDC. The administration and
+                    calculation are compliant with the IOSCO principles and the EU Benchmarks Regulation. VNXDC uses a Vinter reference rate for the XDC price calculation.
+                </p>
 
                 <div class="btn-block d-block mt-4">
-                	<a href="https://vinter.co/xinfin" target="_blank"><button class="btn-blue">Visit Now</button></a>
+                    <a href="https://vinter.co/xinfin" target="_blank"><button class="btn-blue">Visit Now</button></a>
                 </div>
-			</div>
-			<div class="col-xl-6 col-lg-6">
-            	<div><img src="assets/images/inside-page/quick-tools-guide/xdcIndexVinter.png" alt="XDC Index — Vinter" class="img-fluid br-20" /></div>
-        	</div>
+            </div>
+            <div class="col-xl-6 col-lg-6">
+                <div><img src="assets/images/inside-page/quick-tools-guide/xdcIndexVinter.png" alt="XDC Index — Vinter" class="img-fluid br-20" /></div>
+            </div>
         </div>
     </div>
 </section>
@@ -917,10 +953,14 @@
                         <button class="btn-blue">
                             <i class="fa me-1">
                                 <svg class="svg-icn" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 39 39">
-                                <path fill="#FFFFFF" d="M32,0H7.1C3.2,0,0,3.2,0,7.1V32C0,35.9,3.2,39,7.1,39H32c3.9,0,7.1-3.2,7.1-7.1V7.1C39,3.2,35.9,0,32,0zM7.4,16.3l6.5-7.1h6.9l-6.6,7.1l6.6,7.1h-6.9L7.4,16.3z M26.3,30.2h-6.9l6.6-7.1l-6.6-7.1h6.9l6.5,7.1L26.3,30.2z"/>        
+                                    <path
+                                        fill="#FFFFFF"
+                                        d="M32,0H7.1C3.2,0,0,3.2,0,7.1V32C0,35.9,3.2,39,7.1,39H32c3.9,0,7.1-3.2,7.1-7.1V7.1C39,3.2,35.9,0,32,0zM7.4,16.3l6.5-7.1h6.9l-6.6,7.1l6.6,7.1h-6.9L7.4,16.3z M26.3,30.2h-6.9l6.6-7.1l-6.6-7.1h6.9l6.5,7.1L26.3,30.2z"
+                                    />
                                 </svg>
-                            </i> AI based Technical Support
-						</button>
+                            </i>
+                            AI based Technical Support
+                        </button>
                     </a>
                 </div>
             </div>
