@@ -145,6 +145,7 @@
                                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                                     <div class="fs-6 card-infoHead mb-3">Explorer</div>
                                     <div class="card-info">
+                                        <p class="fs-6 mb-2"><a href="https://xdcscan.com/" target="_blank">https://xdcscan.com/</a></p>
                                         <p class="fs-6 mb-2"><a href="https://xdcscan.io/" target="_blank">https://xdcscan.io/</a></p>
                                         <p class="fs-6 mb-2"><a href="https://xdc.blocksscan.io/" target="_blank">https://xdc.blocksscan.io/</a></p>
                                         <p class="fs-6 mb-2"><a href="https://explorer.xinfin.network/" target="_blank">https://explorer.xinfin.network/</a></p>

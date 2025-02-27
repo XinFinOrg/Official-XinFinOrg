@@ -132,7 +132,7 @@
                                                 Tools <span class="icon"><i class="fas fa-chevron-down"></i></span>
                                             </a>
                                             <ul class="sub-menu">
-                                                <li><a href="https://xdcscan.io/" target="_blank">XDC Explorer</a></li>
+                                                <li><a href="https://xdcscan.com/" target="_blank">XDC Explorer</a></li>
                                                 <li><a href="https://stats1.xinfin.network" target="_blank">XDC Network Status</a></li>
                                                 <li><a href="https://faucet.apothem.network" target="_blank">XDC Faucet</a></li>
                                                 <li><a href="https://remix.xinfin.network" target="_blank">XDC Network Remix</a></li>
