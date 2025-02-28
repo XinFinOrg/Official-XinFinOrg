@@ -240,7 +240,8 @@
                             <div class="h-100 card bg-transparent br-20 border-0">
                                 <img src="assets/images/team/core-team/diego-consimo.jpg" class="img-fluid team-img br-15" alt="Arturo Cantera" />
                                 <h3 class="team-infoHead mt-3 mb-2">Diego Consimo</h3>
-                                <p class="text-muted lh-sm mb-0">Ecosystem Head, LATAM</p>
+                                <!--<p class="text-muted lh-sm mb-0">Ecosystem Head, LATAM</p>-->
+                                <p class="text-muted lh-sm mb-0">Head of Business Development, Latin America</p>
                             </div>
                         </a>
                     </div>
@@ -873,11 +874,13 @@
                     <div class="team__content">
                         <div class="short-desc">
                             <h2 class="fw-6">Diego Consimo</h2>
-                            <p class="designation fs-6">Ecosystem Head, LATAM</p>
+                            <p class="designation fs-6">Head of Business Development, Latin America</p>
                         </div>
                         <div class="long-desc">
                             <div class="mt-0 my-4">
-                                <p class="fs-6">Ecosystem Head LATAM at XDC Network, Crypto Investidor Founder, certified Blockchain Expert, market analyst, content creator, with over 12 years of experience in business, strategic marketing, banking, a passionate entrepreneur in the financial market, Trade Finance, RWAs, and Tokenization.</p>
+                                <p class="fs-6">Diego Consimo is the Head of Business Development for Latin America at XDC Network and CEO of Crypto Investidor. With over 18 years of experience in the financial and technology sectors, he has worked at institutions such as Santander, Itaú Unibanco, Philip Morris, and Telefônica Vivo, specializing in strategic management, key account management, and business development. Today, he operates at the intersection of TradFi and DeFi, driving blockchain innovation in trade finance and real-world asset (RWA) tokenization.</p>
+                                <p class="fs-6">At XDC Network, Diego leads initiatives to expand blockchain adoption in global trade and commercial finance. As the founder of Crypto Investidor, he built one of Brazil's leading crypto education platforms, impacting thousands of investors through educational content and B2B/B2C solutions.</p>
+                                <!--<p class="fs-6">Ecosystem Head LATAM at XDC Network, Crypto Investidor Founder, certified Blockchain Expert, market analyst, content creator, with over 12 years of experience in business, strategic marketing, banking, a passionate entrepreneur in the financial market, Trade Finance, RWAs, and Tokenization.</p>-->
                             </div>
                         </div>
                         <div class="team__footer">
