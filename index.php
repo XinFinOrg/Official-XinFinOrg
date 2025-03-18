@@ -423,7 +423,7 @@
                                     </svg>
                                 </a>
                             </div>
-                        </div>-->
+                        </div>
                         <div class="col-lg-4 col-md-4 mt-5 mb-2 px-3">
                             <div class="card-info h-100 d-flex flex-column">
                                 <img src="assets/images/icons/iso-light.png" class="img-fluid iconL" alt="ISO 20022 Compliant" />
@@ -433,6 +433,22 @@
                                     XDC Protocol enables ISO 20022 compatible messaging for private and hybrid state, making it the language of core banking systems, ERP systems, SWIFT systems, and many more, with higher interoperability with legacy systems.
                                 </p>
                                 <a href="https://xinfin.org/ISO20022/" target="_blank" class="btn socialHead-button internalLink mt-auto">
+                                    Connect Now
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>-->
+                        <div class="col-lg-4 col-md-4 mt-5 mb-2 px-3">
+                            <div class="card-info h-100 d-flex flex-column">
+                                <img src="assets/images/icons/xdcpayments-light.png" class="img-fluid iconL" alt="ISO 20022 Compliant" />
+                                <img src="assets/images/icons/xdcpayments.png" class="img-fluid iconD" alt="ISO 20022 Compliant" />
+                                <div class="card-infoHead mt-3 mb-3">XDC Payments</div>
+                                <p class="fs-6 mb-0">
+                                    XDC Payments is a next-generation blockchain-powered payment solution designed for cross-border transactions, institutional settlements, and merchant payments. With ISO 20022 compliance, on/off-ramp solutions, and secure custody services, XDC Payments ensures fast, cost-effective, and transparent global transactions.
+                                </p>
+                                <a href="https://xinfin.org/xdcpayments/" target="_blank" class="btn socialHead-button internalLink mt-auto">
                                     Connect Now
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
