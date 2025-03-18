@@ -448,7 +448,7 @@
                                 <p class="fs-6 mb-0">
                                     XDC Payments is a next-generation blockchain-powered payment solution designed for cross-border transactions, institutional settlements, and merchant payments. With ISO 20022 compliance, on/off-ramp solutions, and secure custody services, XDC Payments ensures fast, cost-effective, and transparent global transactions.
                                 </p>
-                                <a href="https://xinfin.org/xdcpayments/" target="_blank" class="btn socialHead-button internalLink mt-auto">
+                                <a href="https://xinfin.org/xdc-payments/" target="_blank" class="btn socialHead-button internalLink mt-auto">
                                     Connect Now
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
