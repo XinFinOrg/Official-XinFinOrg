@@ -37,7 +37,7 @@ include 'inc/header.php';
             </div>
         </div>
         <div class="row justify-content-center">
-            <div class="col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
+            <div class="col-lg-6 col-md-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info">
                         <div class="mb-4">
@@ -57,7 +57,7 @@ include 'inc/header.php';
                     </div>
                 </div>
             </div>
-            <div class="col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
+            <div class="col-lg-6 col-md-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info">
                         <div class="mb-4">
