@@ -395,7 +395,7 @@
                                 <img src="assets/images/icons/api-light.png" class="img-fluid iconL" alt="XDC API Documentation" />
                                 <img src="assets/images/icons/api.png" class="img-fluid iconD" alt="XDC API Documentation" />
                                 <div class="card-infoHead mt-3 mb-3">XDC API Documentation</div>
-                                <p class="fs-6 mb-0">
+                                <p class="fs-6 mb-0 me-3">
                                     <!--<p class="fs-6 text-white-75">-->
                                     Building Decentralized Applications with Ease. Access the XDC API documentation to unleash the power of the blockchain. Deploy smart contracts, interact with the network, and build innovative dApps using
                                     our comprehensive tools and protocols.
@@ -445,8 +445,8 @@
                                 <img src="assets/images/icons/xdcpayments-light.png" class="img-fluid iconL" alt="ISO 20022 Compliant" />
                                 <img src="assets/images/icons/xdcpayments.png" class="img-fluid iconD" alt="ISO 20022 Compliant" />
                                 <div class="card-infoHead mt-3 mb-3">XDC Payments</div>
-                                <p class="fs-6 mb-0">
-                                    XDC Payments is a next-generation blockchain-powered payment solution designed for cross-border transactions, institutional settlements, and merchant payments. With ISO 20022 compliance, on/off-ramp solutions, and secure custody services, XDC Payments ensures fast, cost-effective, and transparent global transactions.
+                                <p class="fs-6 mb-0 me-3">
+                                    XDC Payments is a next-gen blockchain-powered payment solution for fast, cost-effective cross-border transactions, institutional settlements featuring ISO 20022 compliance, on/off-ramps, secure custody, and gold tokenization.
                                 </p>
                                 <a href="https://xinfin.org/xdc-payments/" target="_blank" class="btn socialHead-button internalLink mt-auto">
                                     Connect Now
@@ -461,7 +461,7 @@
                                 <img src="assets/images/icons/smc-light.png" class="img-fluid iconL" alt="Secure Smart Contract" />
                                 <img src="assets/images/icons/smc.png" class="img-fluid iconD" alt="Secure Smart Contract" />
                                 <div class="card-infoHead mt-3 mb-3">Create Smart Contract</div>
-                                <p class="fs-6 mb-0">
+                                <p class="fs-6 mb-0 me-3">
                                     Easily integrate legacy systems and blockchain platforms with XDC Network. The purpose of XDC Origin is to simplify secure smart contract deployment and enable asset tokenization without custom programming expertise.
                                 </p>
                                 <a href="https://origin.xdc.org/" target="_blank" class="btn socialHead-button internalLink mt-auto">
