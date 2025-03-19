@@ -464,7 +464,7 @@
                                 <p class="fs-6 mb-0 me-3">
                                     Easily integrate legacy systems and blockchain platforms with XDC Network. The purpose of XDC Origin is to simplify secure smart contract deployment and enable asset tokenization without custom programming expertise.
                                 </p>
-                                <a href="https://origin.xdc.org/" target="_blank" class="btn socialHead-button internalLink mt-auto">
+                                <a href="https://remix.xinfin.network/" target="_blank" class="btn socialHead-button internalLink mt-auto">
                                     Deploy Smart Contract
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
