@@ -2507,13 +2507,13 @@
                                         <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
                                     </a>
                                     <a href="https://t.me/+5mI61oZibEM5OGQ8" target="_blank">
-                                        <button class="btn btn-hover btn-telegram"><i class="fab fa-linkedin-in"></i> Telegram</button>
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
                                     </a>
                                     <a href="https://github.com/enviodev" target="_blank">
                                         <button class="btn btn-hover btn-github"><i class="fa-brands fa-github"></i> GitHub</button>
                                     </a>
                                     <a href="https://discord.gg/Q9qt8gZ2fX" target="_blank">
-                                        <button class="btn btn-hover btn-discord"><i class="fa-brands fa-github"></i> Discord</button>
+                                        <button class="btn btn-hover btn-discord"><i class="fab fa-discord"></i> Discord</button>
                                     </a>
                                 </div>
                             </div>
@@ -3576,7 +3576,7 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                                         <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
                                     </a>
                                     <a href="https://t.me/bbbpump" target="_blank">
-                                        <button class="btn btn-hover btn-telegram"><i class="fab fa-papaer-plane"></i> Telegram</button>
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
                                     </a>
                                 </div>
                             </div>
