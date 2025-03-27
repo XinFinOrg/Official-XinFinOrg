@@ -85,7 +85,7 @@
         <div class="row">
             <div class="col-lg-10 offset-lg-1 hero-content">
                 <h1 class="title-m text-center mb-0">Explore Ecosystem dApps</h1>
-                <h2 class="subtitle subtitle-s fw-500 text-center mb-0">XDC token lies at the heart of XDC Network, and its transformative capabilities are truly awe-inspiring. As a versatile settlement mechanism, XDC fuels the entire ecosystem, enabling lightning-fast and cost-effective transactions while revolutionizing the way DApps function.</h2>
+                <h2 class="subtitle subtitle-s fw-500 text-center mb-0">XDC token lies at the heart of XDC Network, and its transformative capabilities are truly awe-inspiring. As a versatile settlement mechanism, XDC fuels the entire ecosystem, enabling lightning-fast and cost-effective transactions while revolutionizing the way dApps function.</h2>
             </div>
         </div>
     </div>
@@ -109,6 +109,7 @@
                     <button class="nav-link active" id="nav-web3-tab" data-bs-toggle="tab" data-bs-target="#nav-web3" type="button" role="tab" aria-controls="nav-web3" aria-selected="false">All dApps</button>
                     <button class="nav-link" id="nav-rwa-tab" data-bs-toggle="tab" data-bs-target="#nav-rwa" type="button" role="tab" aria-controls="nav-rwa" aria-selected="false">RWA</button>
                     <button class="nav-link" id="nav-defi-tab" data-bs-toggle="tab" data-bs-target="#nav-defi" type="button" role="tab" aria-controls="nav-defi" aria-selected="true">DeFi</button>
+                    <button class="nav-link" id="nav-depin-tab" data-bs-toggle="tab" data-bs-target="#nav-depin" type="button" role="tab" aria-controls="nav-depin" aria-selected="false">DePin</button>
                     <button class="nav-link" id="nav-nfts-tab" data-bs-toggle="tab" data-bs-target="#nav-nfts" type="button" role="tab" aria-controls="nav-nfts" aria-selected="false">NFTs</button>
                     <button class="nav-link" id="nav-dex-tab" data-bs-toggle="tab" data-bs-target="#nav-dex" type="button" role="tab" aria-controls="nav-dex" aria-selected="false">DEX</button>
                 </div>
@@ -230,6 +231,26 @@
                                 </a>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#caddyFinance">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/caddyFinance-icon.svg" alt="Caddy Finance"></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Caddy Finance</div>
+                                                <p class="lh-base mb-0">Caddy Finance is bridging traditional finance and decentralized finance (DeFi) through advanced hedging strategies.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#wefi">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -250,7 +271,7 @@
                                 </a>
                             </div>
                             
-                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#fathom">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -270,6 +291,28 @@
                                     </div>
                                 </a>
                             </div>
+
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#gama">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/gama-icon.svg" alt="Gama"></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Gaming</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Gama</div>
+                                                <p class="lh-base mb-0">The Future of Web3 Gaming on the XDC Network. Immerse yourself in the next generation of gaming with GAMA Token, the backbone of a revolutionary Web3 gaming ecosystem on the XDC Network.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#primePort">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -308,6 +351,27 @@
                                             <div class="">
                                                 <div class="card-infoHead mb-2">ComTech Gold</div>
                                                 <p class="lh-base mb-0">ComTech Gold is transforming tokenization with blockchain technology, enabling global electronic access to gold for institutions and individuals.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#envio">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class=""><img src="assets/images/ecosystem-dapps/envio-icon.svg" alt="Envio"></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Envio</div>
+                                                <p class="lh-base mb-0">Envio is a modern, multi-chain EVM blockchain indexer for querying real-time and historical data.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -386,7 +450,7 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/storx-icon.svg" alt="StorX"></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DePin</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -438,6 +502,29 @@
                                 </a>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#subQuery">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/subQuery-icon_light.svg" class="iconD" alt="SubQuery">
+                                                        <img src="assets/images/ecosystem-dapps/subQuery-icon.svg" class="iconL" alt="SubQuery">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DePin</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">SubQuery</div>
+                                                <p class="lh-base mb-0">SubQuery Network is innovating web3 infrastructure with tools that empower builders to decentralise the future - without compromise.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#xdcTradeNetwork">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -460,6 +547,28 @@
                                     </div>
                                 </a>
                             </div>
+
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#dopu">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<img src="assets/images/ecosystem-dapps/dopu-icon.svg" alt="Dopu">
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Meme</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Dopu</div>
+                                                <p class="lh-base mb-0">DOPU, the 'Dog with a Purpose,' your friendly guide in the world of blockchain and peer-to-peer payments.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#mintnite">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -483,6 +592,28 @@
                                     </div>
                                 </a>
                             </div>
+
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#bbbPump">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<img src="assets/images/ecosystem-dapps/bbbPump-icon.svg" alt="BBBPump">
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Meme</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">BBBPump</div>
+                                                <p class="lh-base mb-0">The First Meme Launch Platform on XDC Network.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#chainTools">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -621,7 +752,7 @@
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
                                             <div class="exchangeCard-header justify-content-between align-items-center">
                                                 <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/xdcnft-icon.svg" alt="Airnetz"></div>
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/xdcnft-icon.svg" alt="XDCNFT"></div>
                                                 </div>
                                                 <div class="desc label">
                                                     <div class="exchangeCard-type text-muted mt-0 mb-0">NFTs</div>
@@ -630,6 +761,26 @@
                                             <div class="">
                                                 <div class="card-infoHead mb-2">XDCNFT</div>
                                                 <p class="lh-base mb-0">XDCNFT is the NFT marketplace on the XDC Blockchain and is part of BlocksWorkz LTD, a UK-based technology.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#kalpStudio">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/kalpStudio-icon.svg" alt="Kalp Studio"></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">NFTs</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Kalp Studio</div>
+                                                <p class="lh-base mb-0">Kalp Studio is a web3 Infrastructure platform facilitating developers to build on various protocols using our platform tools and services.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1329,6 +1480,26 @@
                                         </div>
                                     </div>
                                 </a>
+                            </div>                            
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#caddyFinance">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/caddyFinance-icon.svg" alt="Caddy Finance"></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Caddy Finance</div>
+                                                <p class="lh-base mb-0">Caddy Finance is bridging traditional finance and decentralized finance (DeFi) through advanced hedging strategies.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#wefi">
@@ -1410,7 +1581,7 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#storx">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -1419,7 +1590,7 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/storx-icon.svg" alt="StorX" /></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DePin</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -1429,7 +1600,7 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div>-->
                             <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#metabloqs">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -1575,6 +1746,59 @@
                         </div>
                     </div>
                 </div>
+
+
+
+                <div class="tab-pane fade" id="nav-depin" role="tabpanel" aria-labelledby="nav-depin-tab">
+                    <div class="col-lg-12">
+                        <div class="row justify-content-center">                            
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#storx">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/storx-icon.svg" alt="StorX"></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DePin</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">StorX</div>
+                                                <p class="lh-base mb-0">StorX is a decentralized cloud storage network, Which empowers users to store their data securely on the cloud.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#subQuery">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/subQuery-icon_light.svg" class="iconD" alt="SubQuery">
+                                                        <img src="assets/images/ecosystem-dapps/subQuery-icon.svg" class="iconL" alt="SubQuery">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DePin</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">SubQuery</div>
+                                                <p class="lh-base mb-0">SubQuery Network is innovating web3 infrastructure with tools that empower builders to decentralise the future - without compromise.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 
                 <div class="tab-pane fade" id="nav-nfts" role="tabpanel" aria-labelledby="nav-nfts-tab">
                     <div class="col-lg-12">
@@ -1637,6 +1861,26 @@
                                             <div class="">
                                                 <div class="card-infoHead mb-2">XDCNFT</div>
                                                 <p class="lh-base mb-0">XDCNFT is the NFT marketplace on the XDC Blockchain and is part of BlocksWorkz LTD, a UK-based technology.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#kalpStudio">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/kalpStudio-icon.svg" alt="Kalp Studio"></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">NFTs</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Kalp Studio</div>
+                                                <p class="lh-base mb-0">Kalp Studio is a web3 Infrastructure platform facilitating developers to build on various protocols using our platform tools and services.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -2095,7 +2339,7 @@
                                         <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
                                     </a>
                                     <a href="https://www.linkedin.com/showcase/circularityfinance/" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
                                     </a>
                                 </div>
                             </div>
@@ -2148,7 +2392,7 @@
                                         <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
                                     </a>
                                     <a href="https://www.linkedin.com/company/comtechofficial/" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
                                     </a>
                                     <a href="https://t.me/ComTechGold" target="_blank">
                                         <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
@@ -2208,7 +2452,68 @@
                                         <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
                                     </a>
                                     <a href="https://www.linkedin.com/company/yieldteq/" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="envio" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img class="img-responsive" src="assets/images/ecosystem-dapps/envio-icon.svg" alt="Envio" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Envio</h2>
+                            <p>Envio is a modern, multi-chain EVM blockchain indexer for querying real-time and historical data.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                            <p>Envio is a backend service designed for Web3, offering fast and flexible access to on-chain data. It provides solutions like HyperSync for real-time on-chain data extraction and HyperRPC for high-performance read-only RPC for data-intensive tasks. The platform is tailored for developers, offering scalable and efficient tools for blockchain interactions.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://envio.dev/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://x.com/envio_indexer" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/envio_indexer" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                    </a>
+                                    <a href="https://t.me/+5mI61oZibEM5OGQ8" target="_blank">
+                                        <button class="btn btn-hover btn-telegram"><i class="fab fa-linkedin-in"></i> Telegram</button>
+                                    </a>
+                                    <a href="https://github.com/enviodev" target="_blank">
+                                        <button class="btn btn-hover btn-github"><i class="fa-brands fa-github"></i> GitHub</button>
+                                    </a>
+                                    <a href="https://discord.gg/Q9qt8gZ2fX" target="_blank">
+                                        <button class="btn btn-hover btn-discord"><i class="fa-brands fa-github"></i> Discord</button>
                                     </a>
                                 </div>
                             </div>
@@ -2261,7 +2566,7 @@
                                         <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
                                     </a>
                                     <a href="https://www.linkedin.com/company/resmic/" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
                                     </a>
                                     <a href="https://github.com/0xResmic" target="_blank">
                                         <button class="btn btn-hover btn-github"><i class="fa-brands fa-github"></i> GitHub</button>
@@ -2317,10 +2622,10 @@
                                         <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
                                     </a>
                                     <a href="https://www.linkedin.com/company/lawblocks/" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
                                     </a>
                                     <a href="https://t.me/LawBlocks_updates" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
                                     </a>
                                     <a href="https://github.com/LawBlocks" target="_blank">
                                         <button class="btn btn-hover btn-github"><i class="fa-brands fa-github"></i> GitHub</button>
@@ -2375,7 +2680,7 @@
                                         <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
                                     </a>
                                     <a href="https://www.linkedin.com/company/ecoinfoundationofficial/" target="_blank">
-                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-linkedin"></i> LinkedIn</button>
+                                        <button class="btn btn-hover btn-linkedin"><i class="fa fa-linkedin"></i> LinkedIn</button>
                                     </a>
                                     <a href="https://github.com/ecoin-official/" target="_blank">
                                         <button class="btn btn-hover btn-github"><i class="fa-brands fa-github"></i> GitHub</button>
@@ -2430,10 +2735,10 @@
                                         <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
                                     </a>
                                     <a href="https://www.linkedin.com/company/mateico-io/" target="_blank">
-                                        <button class="btn btn-hover btn-telegram"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
                                     </a>
                                     <a href="https://t.me/mateicoTG" target="_blank">
-                                        <button class="btn btn-hover btn-discord"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
                                     </a>
                                 </div>
                             </div>
@@ -2486,10 +2791,10 @@
                                         <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
                                     </a>
                                     <a href="https://www.linkedin.com/company/kinesismoney/" target="_blank">
-                                        <button class="btn btn-hover btn-telegram"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
                                     </a>
                                     <a href="https://t.me/kinesismoney" target="_blank">
-                                        <button class="btn btn-hover btn-discord"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
                                     </a>
                                 </div>
                             </div>
@@ -2541,7 +2846,7 @@
                                         <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
                                     </a>
                                     <a href="https://www.linkedin.com/company/yodaplus/" target="_blank">
-                                        <button class="btn btn-hover btn-telegram"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
                                     </a>
                                     <a href="https://github.com/yodaplus/" target="_blank">
                                         <button class="btn btn-hover btn-github"><i class="fab fa-github"></i> GitHub</button>
@@ -2596,7 +2901,7 @@
                                         <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
                                     </a>
                                     <a href="https://www.linkedin.com/company/yodaplus/" target="_blank">
-                                        <button class="btn btn-hover btn-telegram"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
                                     </a>
                                     <a href="https://github.com/yodaplus/" target="_blank">
                                         <button class="btn btn-hover btn-github"><i class="fab fa-github"></i> GitHub</button>
@@ -2955,6 +3260,65 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
     </div>
 </div>
 
+<div class="modal fade" id="subQuery" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/subQuery-icon_light.svg" class="iconD" alt="SubQuery">
+                                <img src="assets/images/ecosystem-dapps/subQuery-icon.svg" class="iconL" alt="SubQuery">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">SubQuery</h2>
+                            <p>SubQuery Network is innovating web3 infrastructure with tools that empower builders to decentralise the future - without compromise.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>SubQuery's flexible DePIN infrastructure network powers the fastest data indexers. The most scalable RPCs, innovative Data Nodes, and leading open source AI models.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://subquery.network/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://twitter.com/subquerynetwork" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/subquery" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                    </a>
+                                    <a href="https://t.me/subquerynetwork" target="_blank">
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                    <a href="https://github.com/subquery" target="_blank">
+                                        <button class="btn btn-hover btn-github"><i class="fab fa-github"></i> GitHub</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <div class="modal fade" id="tradeFinex" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -3047,7 +3411,7 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                                         <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
                                     </a>
                                     <a href="https://www.linkedin.com/company/impel-official/" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
                                     </a>
                                     <a href="https://t.me/impel_official" target="_blank">
                                         <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
@@ -3120,6 +3484,110 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
         </div>
     </div>
 </div>
+
+
+<div class="modal fade" id="dopu" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/dopu-icon.svg" alt="Dopu">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Dopu</h2>
+                            <p>DOPU, the 'Dog with a Purpose,' your friendly guide in the world of blockchain and peer-to-peer payments. The DOPU token is designed to spread the word about the freedom and potential of digital wallets and decentralized finance. It’s more than just a token; it’s a movement towards financial liberty.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>Owning DOPU tokens connects you to a community passionate about making financial transactions transparent, secure, and accessible to everyone. Unlike Bitcoin, where transaction fees can be high, DOPU offers near-zero transaction fees thanks to the efficiency of the XDC Network.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://dopu.ai/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://x.com/Dopu_Official" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="bbbPump" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/bbbPump-icon.svg" alt="bbbPump">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">BBBPump</h2>
+                            <p>The First Meme Launch Platform on XDC Network.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>It offers services like creating and trading meme coins, as well as staking and farming of BBB tokens. </p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://www.bbbpump.fun/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://x.com/bbbpumpdotfun" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://t.me/bbbpump" target="_blank">
+                                        <button class="btn btn-hover btn-telegram"><i class="fab fa-papaer-plane"></i> Telegram</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 
 <div class="modal fade" id="mintnite" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
@@ -3320,7 +3788,7 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                                         <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
                                     </a>
                                     <a href="https://www.linkedin.com/company/ivendpay/" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
                                     </a>
                                     <a href="https://t.me/ivendpay" target="_blank">
                                         <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
@@ -3438,7 +3906,7 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                                         <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
                                     </a>
                                     <a href="https://www.linkedin.com/company/choisecom/" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
                                     </a>
                                     <a href="https://t.me/choise_com" target="_blank">
                                         <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
@@ -3496,10 +3964,10 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                                         <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
                                     </a>
                                     <a href="https://www.linkedin.com/company/voyconsciousfinance/" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
                                     </a>
                                     <a href="https://t.me/voyfinance" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
                                     </a>
                                 </div>
                             </div>
@@ -3552,7 +4020,7 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                                         <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
                                     </a>
                                     <a href="https://www.linkedin.com/company/xceltrip/" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
                                     </a>
                                 </div>
                             </div>
@@ -3605,7 +4073,7 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                                         <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
                                     </a>
                                     <a href="https://www.linkedin.com/company/travalacom/" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
                                     </a>
                                     <a href="https://t.me/travala" target="_blank">
                                         <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
@@ -3664,7 +4132,7 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                                         <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
                                     </a>
                                     <a href="https://www.linkedin.com/showcase/guarda-wallet/" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
                                     </a>
                                     <a href="https://t.me/guardawallet" target="_blank">
                                         <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
@@ -3723,7 +4191,7 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                                         <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
                                     </a>
                                     <a href="https://www.linkedin.com/company/blockdegree/" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
                                     </a>
                                 </div>
                             </div>
@@ -3829,7 +4297,7 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                                         <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
                                     </a>
                                     <a href="https://www.linkedin.com/company/blocksscan/" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
                                     </a>
                                     <a href="https://t.me/blocksscan_updates" target="_blank">
                                         <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
@@ -3938,7 +4406,7 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                                         <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
                                     </a>
                                     <a href="https://www.linkedin.com/company/prime-numbers-labs/" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
                                     </a>
                                     <a href="https://t.me/PrimeNumbersFi" target="_blank">
                                         <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
@@ -4104,6 +4572,64 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                                     </a>
                                     <a href="https://t.me/blocksworkz" target="_blank">
                                         <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="kalpStudio" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img class="img-responsive" src="assets/images/ecosystem-dapps/kalpStudio-icon.svg" alt="Kalp Studio" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Kalp Studio</h2>
+                            <p>Kalp Studio is a web3 Infrastructure platform facilitating developers to build on various protocols using our platform tools and services.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>KALP Studio, a product by KALP Digital, is a one-stop Blockchain Development infrastructure. It has an extensive ready-to-use module library for (dApps), future-centric features, third party integration & advanced customization capabilities, the best UI/UX and a complete supportive ecosystem to develop anything Blockchain. It can accelerate even the most innovative, scalable & complex Blockchain solutions development, seamlessly.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://www.kalp.studio/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://twitter.com/Kalp_Studio" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/studio-kalp/" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                    </a>
+                                    <a href="https://t.me/s/kalpstudio" target="_blank">
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                    <a href="https://discord.com/invite/ZmQgZe45cy" target="_blank">
+                                        <button class="btn btn-hover btn-discord"><i class="fab fa-discord"></i> Discord</button>
                                     </a>
                                 </div>
                             </div>
@@ -4342,6 +4868,64 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
     </div>
 </div>
 
+<div class="modal fade" id="caddyFinance" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img class="img-responsive" src="assets/images/ecosystem-dapps/caddyFinance-icon.svg" alt="Caddy Finance" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Caddy Finance</h2>
+                            <p>Caddy Finance is bridging traditional finance and decentralized finance (DeFi) through advanced hedging strategies.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>Caddy Finance platform develops cutting-edge risk mitigation techniques that enable stablecoin or RWA yields to be generate sustainable yields, transforming how investors approach digital asset management. Caddy Finance create a more secure and predictable environment for yield generation, making DeFi investments more accessible and attractive to traditional investors seeking predictability and consistent returns.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://caddy.finance/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://x.com/caddyfi" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/caddy-finance" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                    </a>
+                                    <a href="https://t.me/caddyfi" target="_blank">
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                    <a href="https://discord.com/invite/wX4P9va8Ry" target="_blank">
+                                        <button class="btn btn-hover btn-discord"><i class="fab fa-discord"></i> Discord</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <div class="modal fade" id="wefi" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -4388,7 +4972,7 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                                         <button class="btn btn-hover btn-github"><i class="fab fa-github"></i> GitHub</button>
                                     </a>
                                     <a href="https://discord.com/invite/B6U6kectbV" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-discord"></i> Discord</button>
+                                        <button class="btn btn-hover btn-discord"><i class="fab fa-discord"></i> Discord</button>
                                     </a>
                                 </div>
                             </div>
@@ -4456,6 +5040,55 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
     </div>
 </div>
 
+<div class="modal fade" id="gama" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img class="img-responsive" src="assets/images/ecosystem-dapps/gama-icon.svg" alt="Gama" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Gama</h2>
+                            <p>The Future of Web3 Gaming on the XDC Network. Immerse yourself in the next generation of gaming with GAMA Token, the backbone of a revolutionary Web3 gaming ecosystem on the XDC Network.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>Web3 gaming platform that leverages blockchain technology, specifically built on the XDC Network, to create an innovative gaming ecosystem. It integrates cryptocurrency into online games, allowing players to earn GAMA tokens as rewards for gameplay and achievements.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://gamacoin.ai/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://x.com/Gama_Offical" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                            	</div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <div class="modal fade" id="fathom" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -4498,7 +5131,7 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                                         <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
                                     </a>
                                     <a href="https://www.linkedin.com/company/fathom-protocol/" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
                                     </a>
                                     <a href="https://t.me/fathom_fi" target="_blank">
                                         <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
@@ -4557,7 +5190,7 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                                         <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
                                     </a>
                                     <a href="https://www.linkedin.com/company/fathom-protocol/" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
                                     </a>
                                     <a href="https://t.me/fathom_fi" target="_blank">
                                         <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>

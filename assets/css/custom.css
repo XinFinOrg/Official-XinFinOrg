@@ -2340,7 +2340,7 @@ body.modal-open {
 .usecase-box-1 a:active {color: rgba(0, 39, 82, 0.7);text-decoration: none;}
 .usecase-box-1 h3{font-size:16px;font-weight: 600;margin-bottom: 0px;text-align:center;margin-top:0px; min-height: 55px;}
 .project__content .btn-block {flex-direction: row!important;justify-content: start;}
-.project__content .btn-block button {margin-right: 0.5rem;}
+.project__content .btn-block button {margin-right: 0.1rem;}
 .btn-twitter {background: rgba(0, 155, 239, 1);}
 .btn-linkedin {background: rgb(2, 112, 173, 1);}
 .btn-telegram {background: rgba(44, 163, 219, 1);}
