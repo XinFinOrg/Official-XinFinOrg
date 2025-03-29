@@ -2475,7 +2475,7 @@
                     <div class="project__img text-center">
                         <div class="usecase-box-1">
                             <div class="image-container">
-                                <img class="img-responsive" src="assets/images/ecosystem-dapps/envio-icon.svg" alt="Envio" />
+                                <img class="img-responsive" src="assets/images/ecosystem-dapps/envio-logo.svg" alt="Envio" />
                             </div>
                         </div>
                     </div>
