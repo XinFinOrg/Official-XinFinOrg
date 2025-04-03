@@ -2516,6 +2516,10 @@ a .team-infoHead {
     display: flex;
     position: relative;
 }
+.events-boothNo {
+    font-style: italic;
+    font-weight: 600;
+}
 .events-card_details-wrapper {
     grid-column-gap: 0.75rem;
     grid-row-gap: 0.5rem;

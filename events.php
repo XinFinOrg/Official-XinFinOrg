@@ -47,6 +47,7 @@
                                 <div class="events-card_content">
                                     <h4 class="card-infoHead">MONEY 20/20 ASIA</h4>
                                     <div class="events-card_details-wrapper card-info">
+                                        <p class="events-boothNo mb-0">Booth No. 8020</p>
                                         <div class="events-card_details">
                                             <div class="icon-1x1-small">
                                                 <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -143,6 +144,7 @@
                                 <div class="events-card_content">
                                     <h4 class="card-infoHead">TOKEN2049 DUBAI</h4>
                                     <div class="events-card_details-wrapper card-info">
+                                        <p class="events-boothNo mb-0">Booth No. M30</p>
                                         <div class="events-card_details">
                                             <div class="icon-1x1-small">
                                                 <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
