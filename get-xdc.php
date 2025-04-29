@@ -443,6 +443,146 @@
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
                                             <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/hotcoin.svg" alt="Hotcoin" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">Hotcoin</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
+                                            <div class="pairs fw-500"><a href="https://www.hotcoin.com/en_US/trade/exchange/?tradeCode=xdc_usdt" target="_blank">USDT</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/bittime.svg" alt="Bittime" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">Bittime</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
+                                            <div class="pairs fw-500"><a href="https://www.bittime.com/trade/XDC-USDT" target="_blank">USDT</a>, <a href="https://www.bittime.com/trade/XDC-IDR" target="_blank">IDR</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/zebpay.svg" alt="ZebPay" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">ZebPay</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
+                                            <div class="pairs fw-500"><a href="https://zebpay.com/exchange/XDC-INR" target="_blank">INR</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/ascendex.svg" alt="AscendEX" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">AscendEX</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
+                                            <div class="pairs fw-500"><a href="https://ascendex.com/en/cashtrade-spottrading/usdt/xdc" target="_blank">USDT</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/bitunix.svg" alt="Bitunix" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">Bitunix</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
+                                            <div class="pairs fw-500"><a href="https://www.bitunix.com/spot-trade/XDCUSDT" target="_blank">USDT</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/bvox.svg" alt="BVOX" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">BVOX</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
+                                            <div class="pairs fw-500"><a href="https://www.bvox.com/en-US/exchange/XDC/USDT" target="_blank">USDT</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/triv.svg" alt="TRIV" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">TRIV</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
+                                            <div class="pairs fw-500"><a href="https://triv.co.id/en/home/liverate/network" target="_blank">IDR</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
                                                 <div class=""><img src="assets/images/exchanges/foxbit.svg" alt="Foxbit" /></div>
                                             </div>
                                             <div class="desc">
