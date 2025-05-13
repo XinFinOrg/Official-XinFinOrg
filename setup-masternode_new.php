@@ -41,14 +41,12 @@ include 'inc/header.php';
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info">
                         <h4 class="fw-600 mb-2">1. Full Node</h4>
-                        <p class="fs-6 mt-3 mb-3">
-                            <ul class="listStyle fs-6">
+                            <ul class="listStyle fs-6 mt-3">
                                 <li>Anyone can set up a Full Node on the XDC Network.</li>
                                 <li><span class="fw-600">No staking required — no rewards.</span></li>
                                 <li>Used primarily to fetch data from the blockchain.</li>
                                 <li>Ideal for developers and explorers who want access to real-time blockchain state without participating in block validation.</li>
                             </ul>
-                        </p>
                     </div>
                 </div>
             </div>
@@ -57,14 +55,12 @@ include 'inc/header.php';
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info">
                         <h4 class="fw-600 mb-2">2. Archive Node</h4>
-                        <p class="fs-6 mt-3 mb-3">
-                            <ul class="listStyle fs-6">
+                            <ul class="listStyle fs-6 mt-3">
                                 <li>An enhanced version of the Full Node.</li>
                                 <li><span class="fw-600">Stores entire historical blockchain data.</span></li>
                                 <li>Useful for applications and dApps that need deep historical reference points.</li>
                                 <li>Not mandatory for standard users but valuable for analytics, explorers, and data-heavy services.</li>
                             </ul>
-                        </p>
                     </div>
                 </div>
             </div>
@@ -73,8 +69,7 @@ include 'inc/header.php';
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info">
                         <h4 class="fw-600 mb-2">3. Masternode</h4>
-                        <p class="fs-6 mt-3 mb-3">
-                            <ul class="listStyle fs-6">
+                            <ul class="listStyle fs-6 mt-3">
                                 <li>The most critical type of node on the XDC Network.</li>
                                 <li>Requires a minimum contribution of <span class="fw-600">10 million XDC</span> tokens (no upper limit).</li>
                                 <li><span class="fw-600">Validates transactions and mines blocks.</span></li>
@@ -83,7 +78,6 @@ include 'inc/header.php';
                                 <li>Earns block rewards and incentives for active participation.</li>
                                 <li>Must maintain <span class="fw-600">100% uptime</span> on a dedicated or cloud server infrastructure.</li>
                             </ul>
-                        </p>
                     </div>
                 </div>
             </div>
@@ -92,8 +86,7 @@ include 'inc/header.php';
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info">
                         <h4 class="fw-600 mb-2">4. Protector Node</h4>
-                        <p class="fs-6 mt-3 mb-3">
-                            <ul class="listStyle fs-6">
+                            <ul class="listStyle fs-6 mt-3">
                                 <li>A new addition under XDC 2.0 consensus architecture.</li>
                                 <li>Requires a <span class="fw-600">minimum 10 million XDC</span> contribution (no upper limit).</li>
                                 <li><span class="fw-600">Acts as backup</span> for Core Validator Masternodes — 2x Protector Nodes for each Core Validator.</li>
@@ -101,7 +94,6 @@ include 'inc/header.php';
                                 <li><span class="fw-600">Earns proportional rewards</span> from the Core Validator’s reward pool (based on the number of associated Protector Nodes).</li>
                                 <li><span class="fw-600">Ensures network resilience</span> through redundancy, adding another layer of security.</li>
                             </ul>
-                        </p>
                     </div>
                 </div>
             </div>
@@ -110,15 +102,13 @@ include 'inc/header.php';
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info">
                         <h4 class="fw-600 mb-2">5. Observer Node</h4>
-                        <p class="fs-6 mt-3 mb-3">
-                            <ul class="listStyle fs-6">
+                            <ul class="listStyle fs-6 mt-3">
                                 <li>Another new addition in XDC 2.0’s layered consensus architecture.</li>
                                 <li>Also requires a <span class="fw-600">minimum of 10 million XDC</span> with <span class="fw-600">no technical limit on staking.</span></li>
                                 <li><span class="fw-600">Non-block-producing node</span> that participates by observing consensus and broadcasting transactions.</li>
                                 <li>Ideal for users and organizations that want to contribute to decentralization and potentially move up to Protector or Validator roles.</li>
                                 <li><span class="fw-600">Receives 50% of the Protector Node reward</span>, offering passive earning potential without active consensus participation.</li>
                             </ul>
-                        </p>
                     </div>
                 </div>
             </div>
