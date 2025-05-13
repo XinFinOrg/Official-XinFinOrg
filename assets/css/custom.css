@@ -2754,3 +2754,249 @@ a .team-infoHead {
 .brown .price-tag {
 	color: #ff5e5e;
 }
+
+
+.stats-highlight-text {
+    color: var(--color-blue-400);
+}
+
+
+
+
+
+
+._overflow-x-auto {
+    overflow-x: auto;
+}
+._block {
+    display: block;
+}
+table {
+    text-indent: 0;
+    border-color: inherit;
+    border-collapse: collapse;
+}
+.nextra-scrollbar {
+    scrollbar-width: thin;
+    scrollbar-color: #73737366 transparent;
+    scrollbar-gutter: stable;
+}
+
+
+
+
+
+
+
+table {
+  width: 100%;
+  width: min(900px, 100%-3rem);
+  margin-inline: auto;
+  border-collapse: collapse;
+  border-spacing: 2rem;
+  border-radius: 20px;
+
+  th,
+  td,
+  caption {
+    padding: 1rem 2rem 1rem!important;
+  }
+
+  th {
+    &:nth-child(1) {
+      background: #e5f4fb;
+      border-radius: 20px 0 0 0;
+      border-right: 2px solid #cee6f1;
+    }
+    &:nth-child(2) {
+      background: #e5f4fb;
+    }
+    &:nth-child(3) {
+      background: #e5f4fb;
+      border-left: 2px solid #cee6f1;
+    }
+    &:nth-child(4) {
+      background: #e5f4fb;
+      border-radius: 0 20px 0 0;
+      border-left: 2px solid #cee6f1;
+    }
+  }
+  td {
+    border-bottom: 2px dashed #dedede;
+    font-weight: 400;
+    font-size: 16px;
+    color: #686868;
+    line-height: 18px;
+  }
+  td.data-label {
+    font-weight: 600;
+  }
+  tr:last-child {
+    td {
+      border-bottom: none;
+    }
+  }
+  col:nth-child(1) {
+    background: #fffaee;
+  }
+  col:nth-child(2) {
+    background: #f4feff;
+  }
+  col:nth-child(3) {
+    background: #ecffeb;
+  }
+  col:nth-child(4) {
+    background: #f9efff;
+  }
+}
+caption,
+th,
+td {
+  text-align: left;
+}
+
+/*-------- Responsive Table ----------*/
+@media (max-width: 650px) {
+  
+  tbody tr {
+    border-bottom: 2px solid red;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  td {
+    display: grid;
+    gap: 2.5rem;
+    grid-template-columns: 1fr 1fr;
+    padding: 2rem 2rem;
+  }
+  td:first-child{
+    padding-top:1rem;
+  }
+  th {
+    display: none;
+  }
+  td::before {
+    content: attr(data-lable);
+    font-weight: bold;
+    font-size: 15px;
+    text-transform: capitalize;
+    /*padding: 0.5rem 1rem;*/
+  }
+
+  /*td:nth-of-type(1)::before {
+    background: #e3f4df;
+  }
+  td:nth-of-type(2)::before {
+    background: #e5f4fb;
+  }
+  td:nth-of-type(3)::before {
+    background: #fffaee;
+  }
+  td:nth-of-type(4)::before {
+    background: #fffaee;
+  }*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+table {
+  /*border: 1px solid #ccc;*/
+  border-collapse: collapse;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  table-layout: fixed;
+}
+
+table caption {
+  font-size: 1.5em;
+  margin: .5em 0 .75em;
+}
+
+table tr {
+  background-color: #ffffff;
+  /*border: 1px solid #ddd;*/
+  padding: .35em;
+  border-radius: 10px;
+}
+
+table th,
+table td {
+  padding: .625em;
+  text-align: left;
+}
+
+table th {
+  font-size: 1em;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+  line-height: 16px;
+}
+
+@media screen and (max-width: 650px) {
+  table {
+    border: 0;
+  }
+
+  table caption {
+    font-size: 1.3em;
+  }
+  
+  table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  
+  table tr {
+    border-bottom: 3px solid #ddd;
+    display: block;
+    margin-bottom: .625em;
+  }
+  
+  table td {
+    border-bottom: 1px solid #ddd;
+    display: block;
+    text-align: right;
+  }
+
+  table td:nth-child(1) {
+    background: #e5f4fb;
+    font-weight: 500;
+    border-radius: 10px;
+  }
+  
+  table td::before {
+    content: attr(data-label);
+    float: left;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+  
+  table td:last-child {
+    border-bottom: 0;
+  }
+}
