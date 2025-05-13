@@ -15,7 +15,10 @@ include 'inc/header.php';
             <div class="col-lg-8 offset-lg-2 hero-content">
                 <h1 class="title-m text-center mb-0">XDC Network Masternodes</h1>
                 <h2 class="subtitle subtitle-s fw-500 text-center mb-0">The Backbone of a Fast, Secure, and Decentralized Network</h2>
-                <h2 class="subtitle subtitle-s fw-500 text-center mb-0">XDC Network Masternodes are the pillars of blockchain performance, ensuring high-speed transaction validation, network security, and decentralized governance. But they’re just one part of the broader node architecture on XDC.</h2>
+                <h2 class="subtitle subtitle-s fw-500 text-center mb-0">
+                    XDC Network Masternodes are the pillars of blockchain performance, ensuring high-speed transaction validation, network security, and decentralized governance. But they’re just one part of the broader node architecture on
+                    XDC.
+                </h2>
                 <div class="btn-block">
                     <a href="https://master.xinfin.network/" target="_blank">
                         <button class="btn-blue">Setup Your Masternode</button>
@@ -33,7 +36,7 @@ include 'inc/header.php';
         <div class="row">
             <div class="col-lg-8 offset-lg-2 mb-5">
                 <h3 class="title-m text-center">Types of Nodes on the XDC Network</h3>
-                <div class="subtitle subtitle-s text-center">Let's explore all the components.</div>
+                <div class="subtitle subtitle-s text-center">Let's explore all the types of Nodes on the XDC Network.</div>
             </div>
         </div>
         <div class="row justify-content-center">
@@ -41,12 +44,12 @@ include 'inc/header.php';
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info">
                         <h4 class="fw-600 mb-2">1. Full Node</h4>
-                            <ul class="listStyle fs-6 mt-3">
-                                <li>Anyone can set up a Full Node on the XDC Network.</li>
-                                <li><span class="fw-600">No staking required — no rewards.</span></li>
-                                <li>Used primarily to fetch data from the blockchain.</li>
-                                <li>Ideal for developers and explorers who want access to real-time blockchain state without participating in block validation.</li>
-                            </ul>
+                        <ul class="listStyle fs-6 mt-3">
+                            <li>Anyone can set up a Full Node on the XDC Network.</li>
+                            <li><span class="fw-600">No staking required — no rewards.</span></li>
+                            <li>Used primarily to fetch data from the blockchain.</li>
+                            <li>Ideal for developers and explorers who want access to real-time blockchain state without participating in block validation.</li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -55,29 +58,29 @@ include 'inc/header.php';
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info">
                         <h4 class="fw-600 mb-2">2. Archive Node</h4>
-                            <ul class="listStyle fs-6 mt-3">
-                                <li>An enhanced version of the Full Node.</li>
-                                <li><span class="fw-600">Stores entire historical blockchain data.</span></li>
-                                <li>Useful for applications and dApps that need deep historical reference points.</li>
-                                <li>Not mandatory for standard users but valuable for analytics, explorers, and data-heavy services.</li>
-                            </ul>
+                        <ul class="listStyle fs-6 mt-3">
+                            <li>An enhanced version of the Full Node.</li>
+                            <li><span class="fw-600">Stores entire historical blockchain data.</span></li>
+                            <li>Useful for applications and dApps that need deep historical reference points.</li>
+                            <li>Not mandatory for standard users but valuable for analytics, explorers, and data-heavy services.</li>
+                        </ul>
                     </div>
                 </div>
             </div>
-            
+
             <div class="col-xl-6 col-lg-6 col-md-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info">
                         <h4 class="fw-600 mb-2">3. Masternode</h4>
-                            <ul class="listStyle fs-6 mt-3">
-                                <li>The most critical type of node on the XDC Network.</li>
-                                <li>Requires a minimum contribution of <span class="fw-600">10 million XDC</span> tokens (no upper limit).</li>
-                                <li><span class="fw-600">Validates transactions and mines blocks.</span></li>
-                                <li>Participates in consensus and governance voting.</li>
-                                <li>Ensures network uptime, security, and decentralization.</li>
-                                <li>Earns block rewards and incentives for active participation.</li>
-                                <li>Must maintain <span class="fw-600">100% uptime</span> on a dedicated or cloud server infrastructure.</li>
-                            </ul>
+                        <ul class="listStyle fs-6 mt-3">
+                            <li>The most critical type of node on the XDC Network.</li>
+                            <li>Requires a minimum contribution of <span class="fw-600">10 million XDC</span> tokens (no upper limit).</li>
+                            <li><span class="fw-600">Validates transactions and mines blocks.</span></li>
+                            <li>Participates in consensus and governance voting.</li>
+                            <li>Ensures network uptime, security, and decentralization.</li>
+                            <li>Earns block rewards and incentives for active participation.</li>
+                            <li>Must maintain <span class="fw-600">100% uptime</span> on a dedicated or cloud server infrastructure.</li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -86,14 +89,14 @@ include 'inc/header.php';
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info">
                         <h4 class="fw-600 mb-2">4. Protector Node</h4>
-                            <ul class="listStyle fs-6 mt-3">
-                                <li>A new addition under XDC 2.0 consensus architecture.</li>
-                                <li>Requires a <span class="fw-600">minimum 10 million XDC</span> contribution (no upper limit).</li>
-                                <li><span class="fw-600">Acts as backup</span> for Core Validator Masternodes — 2x Protector Nodes for each Core Validator.</li>
-                                <li>Enhances network fault tolerance and supports seamless block production during disruptions.</li>
-                                <li><span class="fw-600">Earns proportional rewards</span> from the Core Validator’s reward pool (based on the number of associated Protector Nodes).</li>
-                                <li><span class="fw-600">Ensures network resilience</span> through redundancy, adding another layer of security.</li>
-                            </ul>
+                        <ul class="listStyle fs-6 mt-3">
+                            <li>A new addition under XDC 2.0 consensus architecture.</li>
+                            <li>Requires a <span class="fw-600">minimum 10 million XDC</span> contribution (no upper limit).</li>
+                            <li><span class="fw-600">Acts as backup</span> for Core Validator Masternodes — 2x Protector Nodes for each Core Validator.</li>
+                            <li>Enhances network fault tolerance and supports seamless block production during disruptions.</li>
+                            <li><span class="fw-600">Earns proportional rewards</span> from the Core Validator’s reward pool (based on the number of associated Protector Nodes).</li>
+                            <li><span class="fw-600">Ensures network resilience</span> through redundancy, adding another layer of security.</li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -102,13 +105,13 @@ include 'inc/header.php';
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info">
                         <h4 class="fw-600 mb-2">5. Observer Node</h4>
-                            <ul class="listStyle fs-6 mt-3">
-                                <li>Another new addition in XDC 2.0’s layered consensus architecture.</li>
-                                <li>Also requires a <span class="fw-600">minimum of 10 million XDC</span> with <span class="fw-600">no technical limit on staking.</span></li>
-                                <li><span class="fw-600">Non-block-producing node</span> that participates by observing consensus and broadcasting transactions.</li>
-                                <li>Ideal for users and organizations that want to contribute to decentralization and potentially move up to Protector or Validator roles.</li>
-                                <li><span class="fw-600">Receives 50% of the Protector Node reward</span>, offering passive earning potential without active consensus participation.</li>
-                            </ul>
+                        <ul class="listStyle fs-6 mt-3">
+                            <li>Another new addition in XDC 2.0’s layered consensus architecture.</li>
+                            <li>Also requires a <span class="fw-600">minimum of 10 million XDC</span> with <span class="fw-600">no technical limit on staking.</span></li>
+                            <li><span class="fw-600">Non-block-producing node</span> that participates by observing consensus and broadcasting transactions.</li>
+                            <li>Ideal for users and organizations that want to contribute to decentralization and potentially move up to Protector or Validator roles.</li>
+                            <li><span class="fw-600">Receives 50% of the Protector Node reward</span>, offering passive earning potential without active consensus participation.</li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -126,56 +129,54 @@ include 'inc/header.php';
             </div>
         </div>
         <div class="row justify-content-center">
-                    <div class="col-lg-4 col-md-4 mt-2 mb-2">
-                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
-                            <div class="card-info">
-                                <img src="assets/images/inside-page/masternode/transaction-validation.svg" class="img-fluid" />
-                                <div class="card-infoHead mt-3 mb-3">Transaction Validation</div>
-                                <p class="fs-6 mb-0">
-                                    Only Masternodes (Core Validators) are responsible for validating and approving transactions under the <span class="fw-600">XDC 2.0 Proof-of-Stake consensus.</span>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 mt-2 mb-2">
-                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
-                            <div class="card-info">
-                                <img src="assets/images/inside-page/masternode/instant-transactions.svg" class="img-fluid" />
-                                <div class="card-infoHead mt-3 mb-3">Instant Transactions</div>
-                                <p class="fs-6 mb-0">
-                                    Masternodes enable near-instant confirmation, which powers seamless experiences for real-world payments and dApps.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 mt-2 mb-2">
-                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
-                            <div class="card-info">
-                                <img src="assets/images/inside-page/masternode/governance-participation.svg" class="img-fluid" />
-                                <div class="card-infoHead mt-3 mb-3">Governance Participation</div>
-                                <p class="fs-6 mb-0">Validator and Protector Nodes actively vote on proposals, contribute to upgrade decisions, and shape the direction of the network.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 mt-2 mb-2">
-                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
-                            <div class="card-info">
-                                <img src="assets/images/inside-page/masternode/security.svg" class="img-fluid" />
-                                <div class="card-infoHead mt-3 mb-3">Security & Stability</div>
-                                <p class="fs-6 mb-0">A layered node architecture — Core Validators, Protector Nodes, and Observer Nodes — creates fault-tolerant, distributed infrastructure resistant to downtime or attack.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 mt-2 mb-2">
-                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
-                            <div class="card-info">
-                                <img src="assets/images/inside-page/masternode/incentivised-participation.svg" class="img-fluid" />
-                                <div class="card-infoHead mt-3 mb-3">Incentivized Participation</div>
-                                <p class="fs-6 mb-0">Validators, Protectors, and Observers are rewarded for their contribution with XDC tokens, making participation financially beneficial.</p>
-                            </div>
-                        </div>
+            <div class="col-lg-4 col-md-4 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                    <div class="card-info">
+                        <img src="assets/images/inside-page/masternode/transaction-validation.svg" class="img-fluid" />
+                        <div class="card-infoHead mt-3 mb-3">Transaction Validation</div>
+                        <p class="fs-6 mb-0">Only Masternodes (Core Validators) are responsible for validating and approving transactions under the <span class="fw-600">XDC 2.0 Proof-of-Stake consensus.</span></p>
                     </div>
                 </div>
+            </div>
+            <div class="col-lg-4 col-md-4 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                    <div class="card-info">
+                        <img src="assets/images/inside-page/masternode/instant-transactions.svg" class="img-fluid" />
+                        <div class="card-infoHead mt-3 mb-3">Instant Transactions</div>
+                        <p class="fs-6 mb-0">
+                            Masternodes enable near-instant confirmation, which powers seamless experiences for real-world payments and dApps.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                    <div class="card-info">
+                        <img src="assets/images/inside-page/masternode/governance-participation.svg" class="img-fluid" />
+                        <div class="card-infoHead mt-3 mb-3">Governance Participation</div>
+                        <p class="fs-6 mb-0">Validator and Protector Nodes actively vote on proposals, contribute to upgrade decisions, and shape the direction of the network.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                    <div class="card-info">
+                        <img src="assets/images/inside-page/masternode/security.svg" class="img-fluid" />
+                        <div class="card-infoHead mt-3 mb-3">Security & Stability</div>
+                        <p class="fs-6 mb-0">A layered node architecture — Core Validators, Protector Nodes, and Observer Nodes — creates fault-tolerant, distributed infrastructure resistant to downtime or attack.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                    <div class="card-info">
+                        <img src="assets/images/inside-page/masternode/incentivised-participation.svg" class="img-fluid" />
+                        <div class="card-infoHead mt-3 mb-3">Incentivized Participation</div>
+                        <p class="fs-6 mb-0">Validators, Protectors, and Observers are rewarded for their contribution with XDC tokens, making participation financially beneficial.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 
@@ -185,8 +186,8 @@ include 'inc/header.php';
             <div class="col-lg-8 offset-lg-2 mb-5">
                 <h3 class="title-m text-center">XDC Validator Network Stats (Illustrative)</h3>
             </div>
-        </div>        
-        
+        </div>
+
         <div class="row justify-content-center">
             <div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
                 <div class="card h-100 overflow-hidden pt-4 pb-4 px-3 bg-light75 br-20 border-0">
@@ -240,7 +241,8 @@ include 'inc/header.php';
             <div class="col-lg-10 offset-lg-1 mt-4">
                 <p class="subtitle text-center mb-0">
                     <i>
-                        <span class="fw-600">DISCLAIMER:</span> All numbers provided are indicative and based on past performance; there is no guarantee of similar rewards in the future. Participation in setting up a masternode or standby node is part of an ongoing innovation project and should be viewed as a contribution to the advancement of blockchain technology, with no assurance of future returns.
+                        <span class="fw-600">DISCLAIMER:</span> All numbers provided are indicative and based on past performance; there is no guarantee of similar rewards in the future. Participation in setting up a masternode or standby
+                        node is part of an ongoing innovation project and should be viewed as a contribution to the advancement of blockchain technology, with no assurance of future returns.
                     </i>
                 </p>
             </div>
@@ -258,61 +260,51 @@ include 'inc/header.php';
             </div>
         </div>
         <div class="row justify-content-center">
-            
-        <div class="col-lg-12">
-        
+            <div class="col-lg-12">
+                <table>
+                    <thead>
+                        <tr>
+                            <th scope="col">NODE TYPE</th>
+                            <th scope="col">MINIMUM XDC</th>
+                            <th scope="col">UPTIME</th>
+                            <th scope="col">NOTES</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td scope="row" data-label="NODE TYPE" class="data-label">Full Node</td>
+                            <td data-label="MINIMUM XDC">None</td>
+                            <td data-label="UPTIME">Optional</td>
+                            <td data-label="NOTES">No rewards</td>
+                        </tr>
+                        <tr>
+                            <td scope="row" data-label="NODE TYPE" class="data-label">Archive Node</td>
+                            <td data-label="MINIMUM XDC">None</td>
+                            <td data-label="UPTIME">Optional</td>
+                            <td data-label="NOTES">No rewards, full chain data</td>
+                        </tr>
+                        <tr>
+                            <td scope="row" data-label="NODE TYPE" class="data-label">Observer Node</td>
+                            <td data-label="MINIMUM XDC">10M</td>
+                            <td data-label="UPTIME">Not mandatory</td>
+                            <td data-label="NOTES">½ × Protector reward</td>
+                        </tr>
+                        <tr>
+                            <td scope="row" data-label="NODE TYPE" class="data-label">Protector Node</td>
+                            <td data-label="MINIMUM XDC">10M</td>
+                            <td data-label="UPTIME">Recommended 100%</td>
+                            <td data-label="NOTES">Redundancy support</td>
+                        </tr>
+                        <tr>
+                            <td scope="row" data-label="NODE TYPE" class="data-label">Core Validator Node</td>
+                            <td data-label="MINIMUM XDC">10M</td>
+                            <td data-label="UPTIME">100% uptime required</td>
+                            <td data-label="NOTES">Block rewards and governance</td>
+                        </tr>
+                    </tbody>
+                </table>
 
-
-<table>
-  <thead>
-    <tr>
-        <th scope="col">NODE TYPE</th>
-        <th scope="col">MINIMUM XDC</th>
-        <th scope="col">UPTIME</th>
-        <th scope="col">NOTES</th>
-      </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td scope="row" data-label="NODE TYPE" class="data-label">Full Node </td>
-      <td data-label="MINIMUM XDC">None </td>
-      <td data-label="UPTIME">Optional </td>
-      <td data-label="NOTES">No rewards </td>
-    </tr>
-    <tr>
-      <td scope="row" data-label="NODE TYPE" class="data-label">Archive Node </td>
-      <td data-label="MINIMUM XDC">None </td>
-      <td data-label="UPTIME">Optional </td>
-      <td data-label="NOTES">No rewards, full chain data </td>
-    </tr>
-    <tr>
-        <td scope="row" data-label="NODE TYPE" class="data-label">Observer Node </td>
-        <td data-label="MINIMUM XDC">10M </td>
-        <td data-label="UPTIME">Not mandatory </td>
-        <td data-label="NOTES">½ × Protector reward </td>
-      </tr>
-    <tr>
-        <td scope="row" data-label="NODE TYPE" class="data-label">Protector Node </td>
-        <td data-label="MINIMUM XDC">10M </td>
-        <td data-label="UPTIME">Recommended 100% </td>
-        <td data-label="NOTES">Redundancy support </td>
-      </tr>
-      <tr>
-        <td scope="row" data-label="NODE TYPE" class="data-label">Core Validator Node </td>
-        <td data-label="MINIMUM XDC">10M </td>
-        <td data-label="UPTIME">100% uptime required </td>
-        <td data-label="NOTES">Block rewards and governance </td>
-      </tr>
-  </tbody>
-</table>
-
-
-
-
-        
-
-        
-            <!--<div class="col-lg-4 col-md-4 col-sm-4 mt-2 mb-2">
+                <!--<div class="col-lg-4 col-md-4 col-sm-4 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info text-center">
                         <img src="assets/images/inside-page/masternode/collateral.svg" class="center img-fluid" />
@@ -339,7 +331,7 @@ include 'inc/header.php';
                     </div>
                 </div>
             </div>-->
-        </div>
+            </div>
         </div>
     </div>
 </section>
@@ -377,7 +369,7 @@ include 'inc/header.php';
                             </div>
                         </a>
                     </div>
-                    
+
                     <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
                         <a href="https://nodeforge.io/" target="_blank">
                             <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
@@ -396,7 +388,7 @@ include 'inc/header.php';
                             </div>
                         </a>
                     </div>
-                    
+
                     <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
                         <a href="https://www.zeeve.io/blockchain-protocols/deploy-xdc-node/" target="_blank">
                             <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
@@ -415,7 +407,7 @@ include 'inc/header.php';
                             </div>
                         </a>
                     </div>
-                    
+
                     <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
                         <a href="https://www.blockdaemon.com/" target="_blank">
                             <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
@@ -434,9 +426,7 @@ include 'inc/header.php';
                             </div>
                         </a>
                     </div>
-                    
-                    
-                    
+
                     <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
                         <a href="https://tatum.io/" target="_blank">
                             <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
@@ -455,7 +445,7 @@ include 'inc/header.php';
                             </div>
                         </a>
                     </div>
-                    
+
                     <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
                         <a href="https://nownodes.io/" target="_blank">
                             <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
@@ -474,7 +464,7 @@ include 'inc/header.php';
                             </div>
                         </a>
                     </div>
-                    
+
                     <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
                         <a href="https://www.asternodes.io/" target="_blank">
                             <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
@@ -493,7 +483,7 @@ include 'inc/header.php';
                             </div>
                         </a>
                     </div>
-                    
+
                     <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
                         <a href="https://www.ankr.com/" target="_blank">
                             <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
@@ -512,7 +502,7 @@ include 'inc/header.php';
                             </div>
                         </a>
                     </div>
-                    
+
                     <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
                         <a href="https://thirdweb.com/" target="_blank">
                             <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
@@ -531,7 +521,7 @@ include 'inc/header.php';
                             </div>
                         </a>
                     </div>
-                    
+
                     <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
                         <a href="https://goldsky.com/" target="_blank">
                             <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
@@ -550,16 +540,13 @@ include 'inc/header.php';
                             </div>
                         </a>
                     </div>
-                    
                 </div>
             </div>
         </div>
         <div class="row row-flex">
             <div class="col-lg-10 offset-lg-1 mt-4">
                 <p class="subtitle text-center mb-0">
-                    <i>
-                        <span class="fw-600">DISCLAIMER:</span> XDC Network does not officially endorse third-party services. Please perform due diligence before proceeding.
-                    </i>
+                    <i> <span class="fw-600">DISCLAIMER:</span> XDC Network does not officially endorse third-party services. Please perform due diligence before proceeding. </i>
                 </p>
             </div>
         </div>
@@ -732,7 +719,7 @@ include 'inc/header.php';
                         <div id="flush-collapseTwelve" class="accordion-collapse collapse" aria-labelledby="flush-headingTwelve" data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">Loss of your Coinbase address results in your Masternode going offline. You will need to resign from the Masternode under such circumstances.</div>
                         </div>
-                    </div>                    
+                    </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="flush-headingThirteen">
                             <button class="fw-500 accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThirteen" aria-expanded="false" aria-controls="flush-collapseThirteen">
@@ -795,10 +782,14 @@ include 'inc/header.php';
                         <button class="btn-blue">
                             <i class="fa me-1">
                                 <svg class="svg-icn" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 39 39">
-                                <path fill="#FFFFFF" d="M32,0H7.1C3.2,0,0,3.2,0,7.1V32C0,35.9,3.2,39,7.1,39H32c3.9,0,7.1-3.2,7.1-7.1V7.1C39,3.2,35.9,0,32,0zM7.4,16.3l6.5-7.1h6.9l-6.6,7.1l6.6,7.1h-6.9L7.4,16.3z M26.3,30.2h-6.9l6.6-7.1l-6.6-7.1h6.9l6.5,7.1L26.3,30.2z"/>        
+                                    <path
+                                        fill="#FFFFFF"
+                                        d="M32,0H7.1C3.2,0,0,3.2,0,7.1V32C0,35.9,3.2,39,7.1,39H32c3.9,0,7.1-3.2,7.1-7.1V7.1C39,3.2,35.9,0,32,0zM7.4,16.3l6.5-7.1h6.9l-6.6,7.1l6.6,7.1h-6.9L7.4,16.3z M26.3,30.2h-6.9l6.6-7.1l-6.6-7.1h6.9l6.5,7.1L26.3,30.2z"
+                                    />
                                 </svg>
-                            </i> AI based Technical Support
-						</button>
+                            </i>
+                            AI based Technical Support
+                        </button>
                     </a>
                 </div>
             </div>
