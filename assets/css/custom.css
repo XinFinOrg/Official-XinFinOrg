@@ -2765,36 +2765,18 @@ a .team-infoHead {
 
 
 
-._overflow-x-auto {
-    overflow-x: auto;
-}
-._block {
-    display: block;
-}
+
+
+
+/*---------------------------------------------------------
+	MAsternode Requirements Table STYLE
+---------------------------------------------------------*/
 table {
-    text-indent: 0;
-    border-color: inherit;
-    border-collapse: collapse;
-}
-.nextra-scrollbar {
-    scrollbar-width: thin;
-    scrollbar-color: #73737366 transparent;
-    scrollbar-gutter: stable;
-}
-
-
-
-
-
-
-
-table {
-  width: 100%;
-  width: min(900px, 100%-3rem);
-  margin-inline: auto;
   border-collapse: collapse;
-  border-spacing: 2rem;
-  border-radius: 20px;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  table-layout: fixed;
 
   th,
   td,
@@ -2836,18 +2818,6 @@ table {
       border-bottom: none;
     }
   }
-  col:nth-child(1) {
-    background: #fffaee;
-  }
-  col:nth-child(2) {
-    background: #f4feff;
-  }
-  col:nth-child(3) {
-    background: #ecffeb;
-  }
-  col:nth-child(4) {
-    background: #f9efff;
-  }
 }
 caption,
 th,
@@ -2855,76 +2825,9 @@ td {
   text-align: left;
 }
 
-/*-------- Responsive Table ----------*/
-@media (max-width: 650px) {
-  
-  tbody tr {
-    border-bottom: 2px solid red;
-    display: block;
-    margin-bottom: 10px;
-  }
-  
-  td {
-    display: grid;
-    gap: 2.5rem;
-    grid-template-columns: 1fr 1fr;
-    padding: 2rem 2rem;
-  }
-  td:first-child{
-    padding-top:1rem;
-  }
-  th {
-    display: none;
-  }
-  td::before {
-    content: attr(data-lable);
-    font-weight: bold;
-    font-size: 15px;
-    text-transform: capitalize;
-    /*padding: 0.5rem 1rem;*/
-  }
 
-  /*td:nth-of-type(1)::before {
-    background: #e3f4df;
-  }
-  td:nth-of-type(2)::before {
-    background: #e5f4fb;
-  }
-  td:nth-of-type(3)::before {
-    background: #fffaee;
-  }
-  td:nth-of-type(4)::before {
-    background: #fffaee;
-  }*/
-}
+/*-------------------------------*/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-table {
-  /*border: 1px solid #ccc;*/
-  border-collapse: collapse;
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  table-layout: fixed;
-}
 
 table caption {
   font-size: 1.5em;
@@ -2978,9 +2881,10 @@ table th {
   }
   
   table td {
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #ddd!important;
     display: block;
     text-align: right;
+    font-size: 15px;
   }
 
   table td:nth-child(1) {
@@ -2992,11 +2896,18 @@ table th {
   table td::before {
     content: attr(data-label);
     float: left;
+    font-size: 14px;
     font-weight: 600;
     text-transform: uppercase;
   }
   
   table td:last-child {
-    border-bottom: 0;
+    border-bottom: 0!important;
+  }
+
+  table {
+    th, td, caption {
+        padding: 1rem!important;
+    }
   }
 }

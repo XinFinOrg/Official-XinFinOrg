@@ -195,7 +195,7 @@ include 'inc/header.php';
                         <p class="fw-500 fs-6">Masternodes (Core Validators)</p>
                         <div class="fw-600 lh-1 fs-1 mb-3 counter-api"><span id="mn-masternodes">108</span></div>
                         <p class="fw-500 fs-7 mb-0"><span class="stats-highlight-text fw-600">ROLE:</span> Block validation, consensus</p>
-                        <p class="fw-500 fs-7"><span class="stats-highlight-text fw-600">REWARDS:</span> 6000 XDC per epoch</p>
+                        <p class="fw-500 fs-7 mb-0"><span class="stats-highlight-text fw-600">REWARDS:</span> 6000 XDC per epoch</p>
                     </div>
                 </div>
             </div>
@@ -203,9 +203,9 @@ include 'inc/header.php';
                 <div class="card h-100 overflow-hidden pt-4 pb-4 px-3 bg-light75 br-20 border-0">
                     <div class="card-info text-center w-100">
                         <p class="fw-500 fs-6">Protector Nodes</p>
-                        <div class="fw-600 lh-1 fs-1 mb-3 counter-api"><span id="mn-protectornodes">216</span> <span class="fs-6">(2x Core Validators)</span></div>
+                        <div class="fw-600 lh-1 fs-6 mb-3 counter-api"><span id="mn-protectornodes" class="fs-1">216</span> (2x Core Validators)</div>
                         <p class="fw-500 fs-7 mb-0"><span class="stats-highlight-text fw-600">ROLE:</span> Redundancy, fault tolerance</p>
-                        <p class="fw-500 fs-7"><span class="stats-highlight-text fw-600">REWARDS:</span> Rv ÷ number of Protectors</p>
+                        <p class="fw-500 fs-7 mb-0"><span class="stats-highlight-text fw-600">REWARDS:</span> Rv ÷ number of Protectors</p>
                     </div>
                 </div>
             </div>
@@ -215,7 +215,7 @@ include 'inc/header.php';
                         <p class="fw-500 fs-6">Observer Nodes</p>
                         <div class="fw-600 lh-1 fs-1 mb-3 counter-api"><span id="mn-observernodes">Unlimited</span></div>
                         <p class="fw-500 fs-7 mb-0"><span class="stats-highlight-text fw-600">ROLE:</span> Network observation</p>
-                        <p class="fw-500 fs-7"><span class="stats-highlight-text fw-600">REWARDS:</span> ½ × Protector Node reward</p>
+                        <p class="fw-500 fs-7 mb-0"><span class="stats-highlight-text fw-600">REWARDS:</span> ½ × Protector Node reward</p>
                     </div>
                 </div>
             </div>
