@@ -60,9 +60,9 @@ include 'inc/header.php';
                         <h4 class="fw-600 mb-2">2. Archive Node</h4>
                         <ul class="listStyle fs-6 mt-3">
                             <li>An enhanced version of the Full Node.</li>
-                            <li><span class="fw-600">Stores entire historical blockchain data.</span></li>
+                            <li><span class="fw-600">Stores the entire historical blockchain data.</span></li>
                             <li>Useful for applications and dApps that need deep historical reference points.</li>
-                            <li>Not mandatory for standard users but valuable for analytics, explorers, and data-heavy services.</li>
+                            <li>It is not mandatory for standard users, but it is valuable for analytics, explorers, and data-heavy services.</li>
                         </ul>
                     </div>
                 </div>
@@ -74,7 +74,7 @@ include 'inc/header.php';
                         <h4 class="fw-600 mb-2">3. Masternode</h4>
                         <ul class="listStyle fs-6 mt-3">
                             <li>The most critical type of node on the XDC Network.</li>
-                            <li>Requires a minimum contribution of <span class="fw-600">10 million XDC</span> tokens (no upper limit).</li>
+                            <li>Requires a <span class="fw-600">minimum 10 million XDC</span> contribution (no upper limit).</li>
                             <li><span class="fw-600">Validates transactions and mines blocks.</span></li>
                             <li>Participates in consensus and governance voting.</li>
                             <li>Ensures network uptime, security, and decentralization.</li>
@@ -90,7 +90,7 @@ include 'inc/header.php';
                     <div class="card-info">
                         <h4 class="fw-600 mb-2">4. Protector Node</h4>
                         <ul class="listStyle fs-6 mt-3">
-                            <li>A new addition under XDC 2.0 consensus architecture.</li>
+                            <li>A new addition under the XDC 2.0 consensus architecture.</li>
                             <li>Requires a <span class="fw-600">minimum 10 million XDC</span> contribution (no upper limit).</li>
                             <li><span class="fw-600">Acts as backup</span> for Core Validator Masternodes — 2x Protector Nodes for each Core Validator.</li>
                             <li>Enhances network fault tolerance and supports seamless block production during disruptions.</li>
@@ -107,7 +107,7 @@ include 'inc/header.php';
                         <h4 class="fw-600 mb-2">5. Observer Node</h4>
                         <ul class="listStyle fs-6 mt-3">
                             <li>Another new addition in XDC 2.0’s layered consensus architecture.</li>
-                            <li>Also requires a <span class="fw-600">minimum of 10 million XDC</span> with <span class="fw-600">no technical limit on staking.</span></li>
+                            <li>Requires a <span class="fw-600">minimum 10 million XDC</span> contribution (no upper limit).</li>
                             <li><span class="fw-600">Non-block-producing node</span> that participates by observing consensus and broadcasting transactions.</li>
                             <li>Ideal for users and organizations that want to contribute to decentralization and potentially move up to Protector or Validator roles.</li>
                             <li><span class="fw-600">Receives 50% of the Protector Node reward</span>, offering passive earning potential without active consensus participation.</li>
@@ -163,7 +163,7 @@ include 'inc/header.php';
                     <div class="card-info">
                         <img src="assets/images/inside-page/masternode/security.svg" class="img-fluid" />
                         <div class="card-infoHead mt-3 mb-3">Security & Stability</div>
-                        <p class="fs-6 mb-0">A layered node architecture — Core Validators, Protector Nodes, and Observer Nodes — creates fault-tolerant, distributed infrastructure resistant to downtime or attack.</p>
+                        <p class="fs-6 mb-0">A layered node architecture — Core Validators, Protector Nodes, and Observer Nodes — creates a fault-tolerant, distributed infrastructure resistant to downtime or attack.</p>
                     </div>
                 </div>
             </div>
@@ -256,7 +256,7 @@ include 'inc/header.php';
         <div class="row">
             <div class="col-lg-8 offset-lg-2 mb-5">
                 <h3 class="title-m text-center">Node Requirements</h3>
-                <div class="subtitle subtitle-s text-center">XDC Masternodes help the network remain fast, scalable, secure and decentralized.</div>
+                <div class="subtitle subtitle-s text-center">XDC Masternodes help the network remain fast, scalable, secure, and decentralized.</div>
             </div>
         </div>
         <div class="row justify-content-center">
@@ -344,7 +344,7 @@ include 'inc/header.php';
             <div class="col-lg-10 offset-lg-1 mb-5">
                 <h3 class="title-m text-center">Third-Party Masternode Services</h3>
                 <div class="subtitle subtitle-s text-center">
-                    If you do not have the resources to maintain a masternode, there are a number of third-party services and volunteers willing to provide you with top-notch support and services.
+                    If you do not have the resources to maintain a Masternode, there are a number of third-party services and volunteers willing to provide you with top-notch support and services.
                 </div>
             </div>
         </div>
@@ -582,7 +582,7 @@ include 'inc/header.php';
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info">
                         <div class="card-infoHead mb-2">Docker Setup</div>
-                        <p class="fs-6 mt-3 mb-0">Setting up XDC masternode using Docker is a convenient way to deploy and manage node.</p>
+                        <p class="fs-6 mt-3 mb-0">Setting up XDC Masternode using Docker is a convenient way to deploy and manage the node.</p>
                         <a href="docker-setup" class="btn socialHead-button internalLink mt-auto">
                             Learn More
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -603,11 +603,11 @@ include 'inc/header.php';
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="flush-headingOne">
                             <button class="fw-500 accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                                How can I set up Msternode on XDC Network?
+                                How can I set up a Masternode on XDC Network?
                             </button>
                         </h2>
                         <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">You can set up the master on the Windows server with a click installer or using docker-compose file for more details, please visit XinFin Masternode setup page.</div>
+                            <div class="accordion-body">You can set up the master on the Windows server with a click installer or using a Docker-Compose file. For more details, please visit the XinFin Masternode setup page.</div>
                         </div>
                     </div>
                     <div class="accordion-item">
@@ -723,7 +723,7 @@ include 'inc/header.php';
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="flush-headingThirteen">
                             <button class="fw-500 accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThirteen" aria-expanded="false" aria-controls="flush-collapseThirteen">
-                                What if I misplace my keystore or owner wallet's private key?
+                                What if I misplace my keystore or the owner wallet's private key?
                             </button>
                         </h2>
                         <div id="flush-collapseThirteen" class="accordion-collapse collapse" aria-labelledby="flush-headingThirteen" data-bs-parent="#accordionFlushExample">
@@ -737,7 +737,7 @@ include 'inc/header.php';
                             </button>
                         </h2>
                         <div id="flush-collapseFourteen" class="accordion-collapse collapse" aria-labelledby="flush-headingFourteen" data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">Resigning from a Masternode requires a 30-day period before you can retrieve your 10 million XDC.</div>
+                            <div class="accordion-body">Resigning from a Masternode requires 30 days before you can retrieve your 10 million XDC.</div>
                         </div>
                     </div>
                     <div class="accordion-item">
