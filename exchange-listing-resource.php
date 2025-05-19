@@ -384,13 +384,13 @@
             </div>
         </div>
 
-        <div class="row mt-5">
-            <div class="col-lg-8 offset-lg-2 mb-4 mt-5">
+        <div class="row justify-content-center mt-5">
+            <div class="col-lg-7 mb-4 mt-5">
                 <h3 class="title-m text-center">XDC Network Assessment and Chain Analysis</h3>
             </div>
         </div>
         <div class="row justify-content-center">
-            <div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
+            <div class="col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info text-center">
                         <img src="assets/images/inside-page/exchange-listing/slowmist-light.svg" class="center logoFs img-fluid iconL" />
@@ -406,7 +406,23 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
+            <div class="col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                    <div class="card-info text-center">
+                        <img src="assets/images/inside-page/exchange-listing/certik-light.svg" class="center logoFs img-fluid iconL" />
+                        <img src="assets/images/inside-page/exchange-listing/certik.svg" class="center logoFs img-fluid iconD" />
+                        <div class="card-infoHead mt-5 mb-1">XDC Network Audit Report</div>
+                        <p class="fs-7 mb-0">by Certik</p>
+                        <a href="https://skynet.certik.com/projects/xdc-network?auditId=XDC%20Network%20-%20Audit%201#code-security" target="_blank" class="btn socialHead-button mt-auto">
+                            View Now
+                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info text-center">
                         <img src="assets/images/inside-page/exchange-listing/bcas-light.svg" class="center logoFs img-fluid iconL" />
@@ -422,7 +438,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
+            <div class="col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info text-center">
                         <img src="assets/images/inside-page/exchange-listing/big-light.svg" class="center logoFs img-fluid iconL" />
@@ -438,7 +454,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
+            <div class="col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info text-center">
                         <img src="assets/images/inside-page/exchange-listing/elliptic-light.svg" class="center logoFs img-fluid iconL" />
