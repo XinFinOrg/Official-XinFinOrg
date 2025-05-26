@@ -615,7 +615,33 @@
                         </div>
                      </div>
                   </div>
-               </div>            
+               </div>
+               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                        <div class="exchangeCard-header">
+                           <div class="icon">
+                              <div class="">
+                                 <img src="assets/images/wallets/zerion.svg" class="img-fluid iconD" alt="Zerion Wallet" >
+                                 <img src="assets/images/wallets/zerion-light.svg" class="img-fluid iconL" alt="Zerion Wallet" >
+                              </div>
+                           </div>
+                           <div class="desc">
+                              <div class="card-infoHead">Zerion Wallet</div>
+                              <p class="exchangeCard-type text-muted mb-0">Zerion is a non-custodial multichain wallet to manage crypto, NFTs, and DeFi across 50+ EVM chains—on web, mobile, and Chrome.</p>
+                           </div>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                           <div class="pairs fw-500 ml-6">
+                              <a href="https://app.zerion.io/connect-wallet" target="_blank" title="Web Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/web.svg"></a>
+                              <a href="https://play.google.com/store/apps/details?id=io.zerion.android" target="_blank" title="Android Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/android.svg"></a>
+                              <a href="https://apps.apple.com/us/app/zerion-wallet-crypto-web3/id1456732565" target="_blank" title="iOS Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/ios.svg"></a>
+                              <a href="https://link.zerion.io/e/RgLMtUY6JHb" target="_blank" title="Chrome Extension" class="WalletPlatform__link"><img src="assets/images/wallets/chrome.svg"></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
             </div>
          </div>
       </div>
@@ -631,31 +657,31 @@
                   </div>
                   <div class="col-lg-8 col-md-12">
                      <div class="row custodian-wallets justify-content-lg-start justify-content-md-start justify-content-sm-center">
-                        <div class="col-lg-4 col-md-4 col-sm-6 col-6">
+                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 col-6">
                            <div>
                               <a href="https://copper.co/" target="_blank">
-                              		<img src="assets/images/wallets/custodian/copper.svg" class="img-fluid iconD" alt="copper.co" >
-                                    <img src="assets/images/wallets/custodian/copper-light.svg" class="img-fluid iconL" alt="copper.co" >
+                              	<img src="assets/images/wallets/custodian/copper.svg" class="img-fluid iconD" alt="copper.co" >
+                                 <img src="assets/images/wallets/custodian/copper-light.svg" class="img-fluid iconL" alt="copper.co" >
                               </a>
                            </div>
                         </div>
-                        <div class="col-lg-4 col-md-4 col-sm-6 col-6">
+                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 col-6">
                            <div>
                               <a href="https://custody.bitpanda.com/" target="_blank">
                               	<img src="assets/images/wallets/custodian/bitpanda.svg" class="img-fluid iconD" alt="custody.bitpanda.com" >
-                                <img src="assets/images/wallets/custodian/bitpanda-light.svg" class="img-fluid iconL" alt="custody.bitpanda.com" >
+                                 <img src="assets/images/wallets/custodian/bitpanda-light.svg" class="img-fluid iconL" alt="custody.bitpanda.com" >
                               </a>
                            </div>
                         </div>
-                        <div class="col-lg-4 col-md-4 col-sm-6 col-6">
+                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 col-6">
                            <div>
                               <a href="https://www.propine.com/" target="_blank">
                               	<img src="assets/images/wallets/custodian/propine.svg" class="img-fluid iconD" alt="propine.com" >
-                                <img src="assets/images/wallets/custodian/propine-light.svg" class="img-fluid iconL" alt="propine.com" >
+                                 <img src="assets/images/wallets/custodian/propine-light.svg" class="img-fluid iconL" alt="propine.com" >
                               </a>
                            </div>
                         </div>
-                        <div class="col-lg-4 col-md-4 col-sm-6 col-6">
+                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 col-6">
                            <div>
                               <a href="https://www.lmnl.app/" target="_blank">
                               	<img src="assets/images/wallets/custodian/liminal.svg" class="img-fluid iconD" alt="lmnl.app" >
@@ -663,11 +689,27 @@
                               </a>
                            </div>
                         </div>
-                        <div class="col-lg-4 col-md-4 col-sm-6 col-6">
+                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 col-6">
                            <div>
                               <a href="https://www.fireblocks.com/" target="_blank">
                               	<img src="assets/images/wallets/custodian/fireblocks.svg" class="img-fluid iconD" alt="fireblocks.com" >
-                                <img src="assets/images/wallets/custodian/fireblocks-light.svg" class="img-fluid iconL" alt="fireblocks.com" >
+                                 <img src="assets/images/wallets/custodian/fireblocks-light.svg" class="img-fluid iconL" alt="fireblocks.com" >
+                              </a>
+                           </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 col-6">
+                           <div>
+                              <a href="https://www.bitgo.com/" target="_blank">
+                              	<img src="assets/images/wallets/custodian/bitgo.svg" class="img-fluid iconD" alt="bitgo.com" >
+                                 <img src="assets/images/wallets/custodian/bitgo-light.svg" class="img-fluid iconL" alt="bitgo.com" >
+                              </a>
+                           </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 col-6">
+                           <div>
+                              <a href="https://utila.io/" target="_blank">
+                              	<img src="assets/images/wallets/custodian/utila.svg" class="img-fluid iconD" alt="utila.io" >
+                                 <img src="assets/images/wallets/custodian/utila-light.svg" class="img-fluid iconL" alt="utila.io" >
                               </a>
                            </div>
                         </div>
@@ -700,7 +742,7 @@
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-6 col-6">
                            <div>
-                              <a href="https://xdcsafe.xdcscan.com/welcome" target="_blank">
+                              <a href="https://xdcsafe.xdcobserver.io/welcome/" target="_blank">
                               		<img src="assets/images/wallets/multisig-wallets/xdcsafe.svg" class="img-fluid iconD" alt="xdcsafe.xdcscan.com" >
                                     <img src="assets/images/wallets/multisig-wallets/xdcsafe-light.svg" class="img-fluid iconL" alt="xdcsafe.xdcscan.com" >
                               </a>
