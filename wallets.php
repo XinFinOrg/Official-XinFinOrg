@@ -379,26 +379,6 @@
                      <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                         <div class="exchangeCard-header">
                            <div class="icon">
-                              <div class=""><img src="assets/images/wallets/infinity.svg" alt="Infinity" /></div>
-                           </div>
-                           <div class="desc">
-                              <div class="card-infoHead">Infinity</div>
-                              <p class="exchangeCard-type text-muted mb-0">The ultimate gateway to decentralized finance with user-friendly, multi-currency wallet.</p>
-                           </div>
-                        </div>
-                        <div class="d-flex justify-content-between">
-                           <div class="pairs fw-500 ml-6">
-                              <a href="https://infinitywallet.io/download/" target="_blank" title="Web Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/web.svg"></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
-                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
-                        <div class="exchangeCard-header">
-                           <div class="icon">
                               <div class=""><img src="assets/images/wallets/mew.svg" alt="MyEtherWallet" /></div>
                            </div>
                            <div class="desc">
@@ -411,6 +391,33 @@
                               <a href="https://play.google.com/store/apps/details?id=com.myetherwallet.mewwallet&referrer=utm_source%3Dweb-home" target="_blank" title="Android Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/android.svg"></a>
                               <a href="https://apps.apple.com/us/app/mew-crypto-wallet-defi-web3/id1464614025" target="_blank" title="iOS Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/ios.svg"></a>
                               <a href="https://www.myetherwallet.com/wallet/access" target="_blank" title="Web Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/web.svg"></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               
+               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                        <div class="exchangeCard-header">
+                           <div class="icon">
+                              <div class="">
+                                 <img src="assets/images/wallets/zerion.svg" class="img-fluid iconD" alt="Zerion Wallet" >
+                                 <img src="assets/images/wallets/zerion-light.svg" class="img-fluid iconL" alt="Zerion Wallet" >
+                              </div>
+                           </div>
+                           <div class="desc">
+                              <div class="card-infoHead">Zerion Wallet</div>
+                              <p class="exchangeCard-type text-muted mb-0">Zerion is a non-custodial multichain wallet to manage crypto, NFTs, and DeFi across 50+ EVM chains—on web, mobile, and Chrome.</p>
+                           </div>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                           <div class="pairs fw-500 ml-6">
+                              <a href="https://app.zerion.io/connect-wallet" target="_blank" title="Web Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/web.svg"></a>
+                              <a href="https://play.google.com/store/apps/details?id=io.zerion.android" target="_blank" title="Android Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/android.svg"></a>
+                              <a href="https://apps.apple.com/us/app/zerion-wallet-crypto-web3/id1456732565" target="_blank" title="iOS Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/ios.svg"></a>
+                              <a href="https://link.zerion.io/e/RgLMtUY6JHb" target="_blank" title="Chrome Extension" class="WalletPlatform__link"><img src="assets/images/wallets/chrome.svg"></a>
                            </div>
                         </div>
                      </div>
@@ -431,6 +438,27 @@
                         <div class="d-flex justify-content-between">
                            <div class="pairs fw-500 ml-6">
                               <a href="https://wallet.xdc.network/" target="_blank" title="Web Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/web.svg"></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               
+               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                        <div class="exchangeCard-header">
+                           <div class="icon">
+                              <div class=""><img src="assets/images/wallets/infinity.svg" alt="Infinity" /></div>
+                           </div>
+                           <div class="desc">
+                              <div class="card-infoHead">Infinity</div>
+                              <p class="exchangeCard-type text-muted mb-0">The ultimate gateway to decentralized finance with user-friendly, multi-currency wallet.</p>
+                           </div>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                           <div class="pairs fw-500 ml-6">
+                              <a href="https://infinitywallet.io/download/" target="_blank" title="Web Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/web.svg"></a>
                            </div>
                         </div>
                      </div>
@@ -611,32 +639,6 @@
                         <div class="d-flex justify-content-between">
                            <div class="pairs fw-500 ml-6">
                               <a href="https://www.getarculus.com/" target="_blank" title="Hardware Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/hardware.svg"></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
-                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
-                        <div class="exchangeCard-header">
-                           <div class="icon">
-                              <div class="">
-                                 <img src="assets/images/wallets/zerion.svg" class="img-fluid iconD" alt="Zerion Wallet" >
-                                 <img src="assets/images/wallets/zerion-light.svg" class="img-fluid iconL" alt="Zerion Wallet" >
-                              </div>
-                           </div>
-                           <div class="desc">
-                              <div class="card-infoHead">Zerion Wallet</div>
-                              <p class="exchangeCard-type text-muted mb-0">Zerion is a non-custodial multichain wallet to manage crypto, NFTs, and DeFi across 50+ EVM chains—on web, mobile, and Chrome.</p>
-                           </div>
-                        </div>
-                        <div class="d-flex justify-content-between">
-                           <div class="pairs fw-500 ml-6">
-                              <a href="https://app.zerion.io/connect-wallet" target="_blank" title="Web Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/web.svg"></a>
-                              <a href="https://play.google.com/store/apps/details?id=io.zerion.android" target="_blank" title="Android Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/android.svg"></a>
-                              <a href="https://apps.apple.com/us/app/zerion-wallet-crypto-web3/id1456732565" target="_blank" title="iOS Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/ios.svg"></a>
-                              <a href="https://link.zerion.io/e/RgLMtUY6JHb" target="_blank" title="Chrome Extension" class="WalletPlatform__link"><img src="assets/images/wallets/chrome.svg"></a>
                            </div>
                         </div>
                      </div>
