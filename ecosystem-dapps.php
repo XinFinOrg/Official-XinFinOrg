@@ -570,6 +570,49 @@
                             </div>
 
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#vitalveda">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<img src="assets/images/ecosystem-dapps/vitalveda-icon.svg" alt="VitalVEDA">
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeSci</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">VitalVEDA</div>
+                                                <p class="lh-base mb-0">VitalVeda is an AI-powered fitness platform that uses movement detection and gamification to make workouts engaging and effective.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#eteu">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<img src="assets/images/ecosystem-dapps/eteu-icon_light.svg" class="iconD" alt="eTEU">
+                                                    <img src="assets/images/ecosystem-dapps/eteu-icon.svg" class="iconL" alt="eTEU">
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">eTEU</div>
+                                                <p class="lh-base mb-0">eTEU is a next-generation, IGP&I-approved electronic Bill of Lading (eBL) and digital trade documentation platform built on public blockchain. It transforms traditional paper-based processes into secure, automated workflows powered by smart contracts.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#mintnite">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -889,6 +932,320 @@
                                     </div>
                                 </a>
                             </div>
+
+
+
+
+
+
+
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#akka">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/akka-icon.svg" alt="Akka" /></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DEX</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Akka</div>
+                                                <p class="lh-base mb-0">Akka is a cutting-edge AI-powered liquidity aggregator for DeFi, offering near-zero slippage trades with the best possible rates and instant execution.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#zayn-network">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/zayn-network-icon.svg" alt="Zayn Network" /></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Zayn Network</div>
+                                                <p class="lh-base mb-0">Zayn Network is a cutting-edge Layer 2 zkEVM Sovereign Rollup, combining the best of Bitcoin and Ethereum for optimal efficiency, scalability, and security.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#fandora">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/fandora-icon.svg" alt="Fandora" /></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Fandora</div>
+                                                <p class="lh-base mb-0">FANDORA is Content IP Co-Investment & Tokenisation platform - which bridges curated content IP projects with eligible investors - thus unlocking the potential in USD 300 Billion Content IP Market.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#panenka-fc">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/panenka-fc-icon_light.svg" class="iconD" alt="Panenka FC">
+                                                        <img src="assets/images/ecosystem-dapps/panenka-fc-icon.svg" class="iconL" alt="Panenka FC">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Gaming</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Panenka FC</div>
+                                                <p class="lh-base mb-0">We are building a fantasy football game that utilise smart contracts on blockchain to automate and decentralise game room management and rewards distribution.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#earnscape">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/earnscape-icon.svg" alt="Earnscape">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Gaming</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Earnscape</div>
+                                                <p class="lh-base mb-0">Earnscape is a mobile play‑to‑earn platform that rewards gamers for simply playing their favorite mobile titles.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#metasoccer">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/metasoccer-icon_light.svg" class="iconD" alt="Metasoccer">
+                                                        <img src="assets/images/ecosystem-dapps/metasoccer-icon.svg" class="iconL" alt="Metasoccer">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Gaming</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Metasoccer</div>
+                                                <p class="lh-base mb-0">MetaSoccer is a Web3 ecosystem of soccer games built on a fully decentralized economy.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#cheyni">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/cheyni-icon_light.svg" class="iconD" alt="Cheyni">
+                                                        <img src="assets/images/ecosystem-dapps/cheyni-icon.svg" class="iconL" alt="Cheyni">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">NFTs</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Cheyni</div>
+                                                <p class="lh-base mb-0">CHEYNI is the Web3 evolution of streaming—offering a token-gated experience where users can stake to stream, earn by watching, and access exclusive content through utility NFTs.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#rewards-bunny">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/rewards-bunny-icon_light.svg" class="iconD" alt="Cheyni">
+                                                        <img src="assets/images/ecosystem-dapps/rewards-bunny-icon.svg" class="iconL" alt="Cheyni">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Rewards Bunny</div>
+                                                <p class="lh-base mb-0">Revolutionizing Data-Driven Advertising in Web3 Rewards Bunny is a next-generation data and advertising infrastructure platform bridging Web2 and Web3 ecosystems.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#avatarlife">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/avatarlife-icon.svg" alt="AvatarLife">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">AvatarLife</div>
+                                                <p class="lh-base mb-0">AvatarLife is a Web3 metaverse where users create unique avatars, socialize, and play diverse games.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#ryzer">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/ryzer-icon.svg" alt="Ryzer">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Ryzer</div>
+                                                <p class="lh-base mb-0">Ryzer is a next-generation platform revolutionizing access to high-value real-world assets (RWAs) by enabling fractional ownership through blockchain tokenization.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#roxonn">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/roxonn-icon.svg" alt="Roxonn">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Roxonn</div>
+                                                <p class="lh-base mb-0">Roxonn is a Web3 platform on the XDC Network revolutionizing global tech collaboration.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#meegames">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/meegames-icon.svg" alt="Mee Games">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Gaming</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Mee Games</div>
+                                                <p class="lh-base mb-0">Meegames is a full-scale AI-driven gamified quest platform and an interoperable blockchain gamefi ecosystem.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#growLimitLess">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/growLimitLess-icon.svg" alt="GrowLimitLess">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">GrowLimitLess</div>
+                                                <p class="lh-base mb-0">GLL is an ecosystem that helps MSMEs, creators, and small manufacturers across South East Asia access finance, technology, and global export opportunities.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#astrix">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/astrix-icon.svg" alt="Astrix">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Astrix</div>
+                                                <p class="lh-base mb-0">Tribes (by Astrix) is a decentralized, on-chain community platform built on the XDC Network.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#blocksScan">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -1410,6 +1767,89 @@
                                 </a>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#eteu">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<img src="assets/images/ecosystem-dapps/eteu-icon_light.svg" class="iconD" alt="eTEU">
+                                                    <img src="assets/images/ecosystem-dapps/eteu-icon.svg" class="iconL" alt="eTEU">
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">eTEU</div>
+                                                <p class="lh-base mb-0">eTEU is a next-generation, IGP&I-approved electronic Bill of Lading (eBL) and digital trade documentation platform built on public blockchain. It transforms traditional paper-based processes into secure, automated workflows powered by smart contracts.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#zayn-network">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/zayn-network-icon.svg" alt="Zayn Network" /></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Zayn Network</div>
+                                                <p class="lh-base mb-0">Zayn Network is a cutting-edge Layer 2 zkEVM Sovereign Rollup, combining the best of Bitcoin and Ethereum for optimal efficiency, scalability, and security.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#fandora">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/fandora-icon.svg" alt="Fandora" /></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Fandora</div>
+                                                <p class="lh-base mb-0">FANDORA is Content IP Co-Investment & Tokenisation platform - which bridges curated content IP projects with eligible investors - thus unlocking the potential in USD 300 Billion Content IP Market.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#ryzer">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/ryzer-icon.svg" alt="Ryzer">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Ryzer</div>
+                                                <p class="lh-base mb-0">Ryzer is a next-generation platform revolutionizing access to high-value real-world assets (RWAs) by enabling fractional ownership through blockchain tokenization.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#kinesis">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -1664,6 +2104,29 @@
                                 </a>
                             </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#rewards-bunny">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/rewards-bunny-icon_light.svg" class="iconD" alt="Cheyni">
+                                                        <img src="assets/images/ecosystem-dapps/rewards-bunny-icon.svg" class="iconL" alt="Cheyni">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Rewards Bunny</div>
+                                                <p class="lh-base mb-0">Revolutionizing Data-Driven Advertising in Web3 Rewards Bunny is a next-generation data and advertising infrastructure platform bridging Web2 and Web3 ecosystems.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#ledgerMail">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -1886,6 +2349,29 @@
                                     </div>
                                 </a>
                             </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#cheyni">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/cheyni-icon_light.svg" class="iconD" alt="Cheyni">
+                                                        <img src="assets/images/ecosystem-dapps/cheyni-icon.svg" class="iconL" alt="Cheyni">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">NFTs</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Cheyni</div>
+                                                <p class="lh-base mb-0">CHEYNI is the Web3 evolution of streaming—offering a token-gated experience where users can stake to stream, earn by watching, and access exclusive content through utility NFTs.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
                             <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#superBullsNft">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -1989,6 +2475,26 @@
                                             <div class="">
                                                 <div class="card-infoHead mb-2">IceCreamSwap</div>
                                                 <p class="lh-base mb-0">IceCreamSwap allows direct bridging between many chains with its audited and battle tested smart contracts.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#akka">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/akka-icon.svg" alt="Akka" /></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DEX</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Akka</div>
+                                                <p class="lh-base mb-0">Akka is a cutting-edge AI-powered liquidity aggregator for DeFi, offering near-zero slippage trades with the best possible rates and instant execution.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -3535,6 +4041,121 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
     </div>
 </div>
 
+<div class="modal fade" id="vitalveda" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/vitalveda-icon.svg" alt="Dopu">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">VitalVEDA</h2>
+                            <p>VitalVeda is an AI-powered fitness platform that uses movement detection and gamification to make workouts engaging and effective. It offers personalized experiences, community support, and rewards to help users achieve their fitness goals.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>VitalVeda is an innovative AI-powered fitness platform that revolutionizes the way people work out. By leveraging advanced movement detection technology and gamification elements, VitalVeda creates a unique and engaging fitness experience that motivates users to reach their goals.</p>
+                                <p>The platform offers personalized workouts, tailored to individual needs and preferences, ensuring that users get the most out of their exercise routine. With VitalVeda, users can track their progress, compete with friends, and earn rewards for achieving milestones, making fitness a fun and rewarding experience.</p>
+                                <p>By combining cutting-edge technology with a supportive community, VitalVeda empowers users to take control of their fitness journey and achieve a healthier, more active lifestyle. Whether you're a fitness enthusiast or just starting out, VitalVeda provides a comprehensive and enjoyable fitness solution that helps you reach your full potential</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://vitalveda.fit/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://x.com/veda_vital" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/vitalvedafit" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                    </a>
+                                    <a href="https://t.me/vitalveda" target="_blank">
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                    <a href="https://discord.gg/9c2eFAauGn" target="_blank">
+                                        <button class="btn btn-hover btn-discord"><i class="fab fa-discord"></i> Discord</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="eteu" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/eteu-icon_light.svg" class="iconD" alt="eTEU">
+                                <img src="assets/images/ecosystem-dapps/eteu-icon.svg" class="iconL" alt="eTEU">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">eTEU</h2>
+                            <p>eTEU is a next-generation, IGP&I-approved electronic Bill of Lading (eBL) and digital trade documentation platform built on public blockchain. It transforms traditional paper-based processes into secure, automated workflows powered by smart contracts.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>IGP&I-approved electronic Bill of Lading (eBL) and digital trade documentation platform built on public blockchain. It transforms traditional paper-based processes into secure, automated workflows powered by smart contracts.</p>
+                                <p>eTEU is on a mission to eliminate reliance on paper documentation in international trade, unlocking billions of dollars in new liquidity for exporters and driving significant efficiency gains across the global supply chain.</p>
+                                <p>By leveraging blockchain technology, eTEU not only streamlines document management but also facilitates the secure transfer of ownership rights to cargo on-chain. The eTEU on-chain Electronic Bill of Lading (eBL) has been officially approved by the IGP&I, ensuring its legal recognition as a paper-equivalent and enabling automation and streamlining of administrative processes which traditionally rely on the handover of the paper Bill of Lading using smart contracts.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://eteu.co.uk/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://x.com/eteutech" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/eteutech" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 
 <div class="modal fade" id="bbbPump" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
@@ -4247,6 +4868,770 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                                         <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
                                     </a>
                                 </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="modal fade" id="akka" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img class="img-responsive" src="assets/images/ecosystem-dapps/akka-icon.svg" alt="Akka" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Akka</h2>
+                            <p>Akka is a cutting-edge AI-powered liquidity aggregator for DeFi, offering near-zero slippage trades with the best possible rates and instant execution.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>Akka orchestrates the entire fragmented liquidity of DEXes (v2, v3, etc.) into a vast liquidity mesh, providing seamless and efficient access to liquidity pools and enhancing user experience. Through our dApp and simplified integration via API and smart contracts, we empower traders, wallets, and DEX platforms.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://www.akka.finance/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://twitter.com/akka_finance" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/akka-finance/" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                    </a>
+                                    <a href="https://t.me/akka_finance" target="_blank">
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                    <a href="https://discord.com/invite/n69ZVkQTkW" target="_blank">
+                                        <button class="btn btn-hover btn-discord"><i class="fab fa-discord"></i> Discord</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="zayn-network" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img class="img-responsive" src="assets/images/ecosystem-dapps/zayn-network-icon.svg" alt="Zayn Network" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Zayn Network</h2>
+                            <p>Zayn Network is a cutting-edge Layer 2 zkEVM Sovereign Rollup, combining the best of Bitcoin and Ethereum for optimal efficiency, scalability, and security.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>Our ecosystem enables trustless interoperability between Bitcoin and Ethereum, supporting Bitcoin, BRC-20, and Ordinals through zero-knowledge proofs verified on both chains—using BitVM for Bitcoin and Ethereum’s standard mechanisms. By leveraging Validium architecture and third-party DA layers like Near DA, we slash data storage costs and transaction fees. We prioritize developers by redistributing fees to fuel protocol growth. Zayn targets the $2.8 trillion Islamic Finance Real World Assets market with its native shariah-compliant protocols, positioning Zayn as a leader in blockchain innovation. Backed by 500 Global, Cur8 Capital, and Enjinstarter, we’re driving the future of finance.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://zayn.network/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://twitter.com/ZaynNetwork" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/zaynnetwork" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                    </a>
+                                    <a href="https://t.me/zaynnetwork" target="_blank">
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                    <a href="https://discord.com/invite/zaynnetwork" target="_blank">
+                                        <button class="btn btn-hover btn-discord"><i class="fab fa-discord"></i> Discord</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="fandora" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img class="img-responsive" src="assets/images/ecosystem-dapps/fandora-icon.svg" alt="Fandora" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Fandora</h2>
+                            <p>FANDORA is Content IP Co-Investment & Tokenisation platform - which bridges curated content IP projects with eligible investors - thus unlocking the potential in USD 300 Billion Content IP Market.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>Fandora is:
+                                    <ul>
+                                        <li> India's first Content IP Tokenisation platform</li>
+                                        <li> World's first Web3 Content Rights Licensing Platform</li>
+                                        <li> World's first Marketplace for Brand managers & Web3 Advisors</li>
+                                    </ul>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://fandora.app/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://twitter.com/nftonfandora" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/fandora/" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                    </a>
+                                    <a href="https://t.me/CoOwnOnFandora" target="_blank">
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                    <a href="https://discord.com/invite/AE8yANAN4n" target="_blank">
+                                        <button class="btn btn-hover btn-discord"><i class="fab fa-discord"></i> Discord</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="panenka-fc" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/panenka-fc-icon_light.svg" class="iconD" alt="Panenka FC">
+                                <img src="assets/images/ecosystem-dapps/panenka-fc-icon.svg" class="iconL" alt="Panenka FC">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Panenka FC</h2>
+                            <p>We are building a fantasy football game that utilise smart contracts on blockchain to automate and decentralise game room management and rewards distribution.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>The next generation of fantasy sports.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://panenkafc.gg/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://twitter.com/PanenkaFC90" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/panenkafc/" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                    </a>
+                                    <a href="https://t.me/ThefanclubpanenkaFC" target="_blank">
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="earnscape" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/earnscape-icon.svg" alt="Earnscape">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Earnscape</h2>
+                            <p>Earnscape is a mobile play‑to‑earn platform that rewards gamers for simply playing their favorite mobile titles.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>Web3 enabled mobile game rewards launcher. Mobile app launched Jan 2024. First clients onboarded March 2024. Currently 5 clients, two paying, 3 on free trial. Monthly subscription model. Our core product is player liquidity. About 6500 registered app users. About 1/3 active monthly. About 30% of those active daily.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://earnscape.com/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://x.com/earnscape" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/earnscape/" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                    </a>
+                                    <a href="http://t.me/earnscapeapp" target="_blank">
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                    <a href="https://discord.gg/earnscape" target="_blank">
+                                        <button class="btn btn-hover btn-discord"><i class="fab fa-discord"></i> Discord</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="metasoccer" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/metasoccer-icon_light.svg" class="iconD" alt="Metasoccer">
+                                <img src="assets/images/ecosystem-dapps/metasoccer-icon.svg" class="iconL" alt="Metasoccer">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Metasoccer</h2>
+                            <p>MetaSoccer is a Web3 ecosystem of soccer games built on a fully decentralized economy.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>Revolutionizing the gaming industry, it allows gamers to earn, own, and freely transact in-game items such as players, scouts, and stadiums.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://metasoccer.com/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://twitter.com/playmetasoccer" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://discord.com/invite/CFmvST5r3v" target="_blank">
+                                        <button class="btn btn-hover btn-discord"><i class="fab fa-discord"></i> Discord</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="cheyni" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/cheyni-icon_light.svg" class="iconD" alt="Cheyni">
+                                <img src="assets/images/ecosystem-dapps/cheyni-icon.svg" class="iconL" alt="Cheyni">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Cheyni</h2>
+                            <p>CHEYNI is the Web3 evolution of streaming—offering a token-gated experience where users can stake to stream, earn by watching, and access exclusive content through utility NFTs.</p>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://cheyni.io/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://twitter.com/cheyni_io" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/cheyni/" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                    </a>
+                                    <a href="https://t.me/cheyniio" target="_blank">
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                    <a href="https://discord.gg/B5pDzppa4a" target="_blank">
+                                        <button class="btn btn-hover btn-discord"><i class="fab fa-discord"></i> Discord</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="rewards-bunny" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/rewards-bunny-icon_light.svg" class="iconD" alt="Rewards Bunny">
+                                <img src="assets/images/ecosystem-dapps/rewards-bunny-icon.svg" class="iconL" alt="Rewards Bunny">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Rewards Bunny</h2>
+                            <p>Revolutionizing Data-Driven Advertising in Web3 Rewards Bunny is a next-generation data and advertising infrastructure platform bridging Web2 and Web3 ecosystems.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>We empower businesses to leverage wallet-based analytics, cross-channel marketing insights, and privacy-centric technologies to create highly targeted and impactful advertising campaigns. At the same time, we enable users to securely monetize their data while earning rewards for everyday actions like shopping, gaming, and completing tasks. Our platform stands out in the following ways: For Businesses: We provide tools to run precision-targeted ad campaigns using on-chain and off-chain data. With advanced analytics and programmatic advertising capabilities, we help businesses reduce customer acquisition costs and optimize ROI. We use privacy-focused technologies, such as Zero-Knowledge Proofs and tokenized data rights, ensuring user trust and regulatory compliance. For Users: Rewards Bunny transforms routine activities into valuable crypto rewards, allowing users to earn seamlessly from shopping, playing games, and browsing. We ensure user empowerment by providing them control over how their data is shared and monetized.</p>
+                                <p>Since launching, Rewards Bunny has: Grown to over 10,000 global partner brands, including e-commerce giants. Raised pre-seed funding and participated in the 500 Startups Global Launch Program. Implemented unique features like wallet-based targeting and instant rewards, making us a pioneer in the Web3 data and advertising space. Our vision is to redefine how businesses and users interact in the digital economy. By creating a robust infrastructure for data and advertising, Rewards Bunny is paving the way for a more data-driven, privacy-first, and rewarding Web3 ecosystem.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://rewardsbunny.com/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://x.com/RewardsBunny" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/rewardsbunny" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> Linkedin</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="avatarlife" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/avatarlife-icon.svg" alt="AvatarLife">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">AvatarLife</h2>
+                            <p>AvatarLife is a Web3 metaverse where users create unique avatars, socialize, and play diverse games. Separately, it offers a Telegram Mini App, providing direct access to specific features and games within Telegram.</p>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://avatarlife.com/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://twitter.com/AvatarLifeGames" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://t.me/AvatarLife" target="_blank">
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                    <a href="https://t.me/AvatarLife" target="_blank">
+                                        <button class="btn btn-hover btn-discord"><i class="fab fa-discord"></i> Discord</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="ryzer" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/ryzer-icon.svg" alt="Ryzer">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Ryzer</h2>
+                            <p>Ryzer is a next-generation platform revolutionizing access to high-value real-world assets (RWAs) by enabling fractional ownership through blockchain tokenization. Traditionally, investments in premium assets like commercial real estate and private equity have been limited to large institutions, with high entry barriers and poor liquidity for retail investors. Ryzer breaks these barriers, allowing individuals to invest in such assets with entry points as low as $100, democratizing ownership and opening new markets.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>A. Core Mission and Value Proposition<br>
+                                    <ul>
+                                        <li>Democratizing Asset Ownership: Ryzer’s mission is to make premium real-world assets accessible to everyone—not just institutions or the ultra-wealthy by converting assets like real estate and private equity into legally-backed digital tokens. This lowers the investment threshold and lets anyone own a share of high-value assets, with entry points as low as $100.</li>
+                                        <li>Enhancing Liquidity: Tokenization allows these assets to be traded peer-to-peer or on secondary markets, unlocking liquidity that’s typically absent in traditional real estate or private equity. Investors can enter or exit positions more easily, and asset owners access a wider pool of capital.</li>
+                                        <li>Global Reach and Efficiency: Leveraging blockchain and smart contracts, Ryzer enables faster, cheaper, and more transparent cross-border transactions, automating rent, dividend payments, and ownership transfers while reducing intermediaries and costs.</li>
+                                    </ul>
+                                </p>
+                                <p>B. Regulatory Alignment:<br>
+                                Ryzer collaborates with the Qatar Financial Centre (QFC) and India’s IFSCA (GIFT City) to ensure its tokenization process meets local and global regulations. Each asset is held by a legally registered Special Purpose Vehicle (SPV), ensuring clear legal title and isolating liabilities</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://ryzer.app/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://x.com/Ryzer_app" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/ryzerapp/" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> Linkedin</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="roxonn" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/roxonn-icon.svg" alt="Roxonn">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Roxonn</h2>
+                            <p>Roxonn is a Web3 platform on the XDC Network revolutionizing global tech collaboration. We connect businesses with developers and open-source contributors, rewarding GitHub contributions with XDC & ROXN tokens.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>Roxonn also features "Roxonn Code," an AI-powered VS Code extension that enhances developer productivity with free AI credits for new users and ROXN bounties for contributions to the open-source extension itself.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://www.roxonn.com" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://x.com/RoxonnEcosystem" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/roxonn/" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> Linkedin</button>
+                                    </a>
+                                    <a href="https://t.me/roxonnofficial" target="_blank">
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                    <a href="https://github.com/Roxonn-FutureTech" target="_blank">
+                                        <button class="btn btn-hover btn-github"><i class="fab fa-github"></i> Github</button>
+                                    </a>
+                                    <a href="https://discord.gg/4gh7amFM" target="_blank">
+                                        <button class="btn btn-hover btn-discord"><i class="fab fa-discord"></i> Discord</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="meegames" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/meegames-icon.svg" alt="Mee Games">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Mee Games</h2>
+                            <p>Meegames is a full-scale AI-driven gamified quest platform and an interoperable blockchain gamefi ecosystem. Our goal is to offer true value ownership, intelligence-driven experiences, and economy, empowering players and Developers with personalized, interoperable Rewards and experiences.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>Meegames is more than a gaming platform, it is a gateway to limitless possibilities.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://meegames.gg/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://x.com/meegamesgg" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/meegames/" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> Linkedin</button>
+                                    </a>
+                                    <a href="https://discord.com/invite/Dn2Kc6EeWA" target="_blank">
+                                        <button class="btn btn-hover btn-discord"><i class="fab fa-discord"></i> Discord</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="growLimitLess" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/growlimitless-icon.svg" alt="GrowLimitLess">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">GrowLimitLess</h2>
+                            <p>GLL is an ecosystem that helps MSMEs, creators, and small manufacturers across South East Asia access finance, technology, and global export opportunities — by connecting them with each other and with investors through smart contracts and AI agents, all backed by a unique Proof of Creation and Proof of Business layer.</p>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://www.gll.one/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://twitter.com/gll_app/" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/growglobalstrategies/" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> Linkedin</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="astrix" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/astrix-icon.svg" alt="Astrix">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Astrix</h2>
+                            <p>Tribes (by Astrix) is a decentralized, on-chain community platform built on the XDC Network. It enables any XDC project to spin up a tribe (community hub) in minutes—letting users create on-chain profiles (ProfileNFT), mint governance tokens ($TRIX), post content, vote on proposals, and manage roles/permissions without ever leaving their XDC wallet.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>By unifying community governance, tokenized incentives, and Web3-native engagement into a single interface, Tribes offers projects a transparent, low-friction way to grow and manage decentralized communities.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://astrix.live/tribes" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
                             </div>
                     	</div>
                     </div>
