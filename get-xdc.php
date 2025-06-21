@@ -1398,6 +1398,24 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/jumper.svg" alt="Jumper" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">Jumper</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Crosschain Swap</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex justify-content-between">
+                                            <div class="pairs fw-500 ml-6"><a href="https://jumper.exchange/" target="_blank">Swap Now</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                 		</div>
                     </div>
                 </div>
@@ -1481,7 +1499,7 @@
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
                                             <div class="icon">
-                                                <div class=""><img src="assets/images/exchanges/akkafinance.svg" alt="Akka Finance/" /></div>
+                                                <div class=""><img src="assets/images/exchanges/akkafinance.svg" alt="Akka Finance" /></div>
                                             </div>
                                             <div class="desc">
                                                 <div class="card-infoHead">Akka</div>
@@ -1490,6 +1508,47 @@
                                         </div>
                                         <div class="d-flex justify-content-between">
                                             <div class="pairs fw-500 ml-6"><a href="https://app.akka.finance/swap?chain=xdc" target="_blank">Swap Now</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">                                                
+                                                <div class="">
+                                                    <img src="assets/images/exchanges/okutrade.svg" class="iconD" alt="Oku Trade">
+                                                    <img src="assets/images/exchanges/okutrade_light.svg" class="iconL" alt="Oku Trade" />
+                                                </div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">Oku Trade</div>
+                                                <p class="exchangeCard-type text-muted mb-0">DEX</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex justify-content-between">
+                                            <div class="pairs fw-500 ml-6"><a href="https://oku.trade/?inputChain=xdc&inToken=0x2a8e898b6242355c290e1f4fc966b8788729a4d4&outToken=0x951857744785e80e2de051c32ee7b25f9c458c42" target="_blank">Swap Now</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">                                                
+                                                <div class="">
+                                                    <img src="assets/images/exchanges/curve.svg" alt="Curve Finance">
+                                                </div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">Curve Finance</div>
+                                                <p class="exchangeCard-type text-muted mb-0">DEX</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex justify-content-between">
+                                            <div class="pairs fw-500 ml-6"><a href="https://www.curve.finance/dex/xdc/pools/" target="_blank">Swap Now</a></div>
                                         </div>
                                     </div>
                                 </div>
