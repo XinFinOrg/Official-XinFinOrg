@@ -230,7 +230,7 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#caddyFinance">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -249,7 +249,7 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#wefi">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -2057,7 +2057,7 @@
                                     </div>
                                 </a>
                             </div>                            
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#caddyFinance">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -2076,7 +2076,7 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#wefi">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -6736,7 +6736,7 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
     </div>
 </div>
 
-<div class="modal fade" id="caddyFinance" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+<!--<div class="modal fade" id="caddyFinance" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
             <div class="modal-header">
@@ -6792,7 +6792,7 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
             </div>
         </div>
     </div>
-</div>
+</div>-->
 
 <div class="modal fade" id="wefi" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
