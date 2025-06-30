@@ -44,9 +44,9 @@
         <div class="row">
             <nav>
                 <div class="nav nav-pills justify-content-center mb-3" id="nav-pills" role="tablist">
-                    <button class="nav-link active" id="nav-exchanges-tab" data-bs-toggle="tab" data-bs-target="#nav-exchanges" type="button" role="tab" aria-controls="nav-exchanges" aria-selected="true">Exchanges</button>
-                    <button class="nav-link" id="nav-swap-tab" data-bs-toggle="tab" data-bs-target="#nav-swap" type="button" role="tab" aria-controls="nav-swap" aria-selected="false">Crosschain Swap</button>
-                    <button class="nav-link" id="nav-dex-tab" data-bs-toggle="tab" data-bs-target="#nav-dex" type="button" role="tab" aria-controls="nav-dex" aria-selected="false">DEX</button>
+                    <button class="nav-link active" id="nav-exchanges-tab" data-bs-toggle="tab" data-bs-target="#nav-exchanges" type="button" role="tab" aria-controls="nav-exchanges" aria-selected="true">Exchanges <sup>(54)</sup></button>
+                    <button class="nav-link" id="nav-swap-tab" data-bs-toggle="tab" data-bs-target="#nav-swap" type="button" role="tab" aria-controls="nav-swap" aria-selected="false">Crosschain Swap <sup>(13)</sup></button>
+                    <button class="nav-link" id="nav-dex-tab" data-bs-toggle="tab" data-bs-target="#nav-dex" type="button" role="tab" aria-controls="nav-dex" aria-selected="false">DEX <sup>(7)</sup></button>
                 </div>
             </nav>
             <div class="tab-content" id="nav-tabContent">
@@ -1152,7 +1152,7 @@
                                         </div>
                                         <div class="d-flex gap-3">
                                             <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
-                                            <div class="pairs fw-500"><a href="https://exchange.globiance.com/trade/XDC-BTC" target="_blank">BTC</a>, <a href="https://exchange.globiance.com/trade/XDC-ETH" target="_blank">ETH</a>, <a href="https://exchange.globiance.com/trade/GBEX-XDC" target="_blank">GBEX</a>, <a href="https://exchange.globiance.com/trade/XDC-USDG" target="_blank">USDG</a></div>
+                                            <div class="pairs fw-500"><a href="https://v3.globiance.com/market/CiFi-XDC" target="_blank">CIFI</a>, <a href="https://v3.globiance.com/market/GBPAY-XDC" target="_blank">GBPAY</a>, <a href="https://v3.globiance.com/market/GBEX-XDC" target="_blank">GBEX</a>, <a href="https://v3.globiance.com/market/XDC-USDG" target="_blank">USDG</a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -1453,7 +1453,7 @@
                                             </div>
                                         </div>
                                         <div class="d-flex justify-content-between">
-                                            <div class="pairs fw-500 ml-6"><a href="https://icecreamswap.com/?chainId=1116" target="_blank">Swap Now</a></div>
+                                            <div class="pairs fw-500 ml-6"><a href="https://icecreamswap.com/swap?chain=xdc" target="_blank">Swap Now</a></div>
                                         </div>
                                     </div>
                                 </div>

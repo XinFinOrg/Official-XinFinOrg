@@ -108,6 +108,9 @@ body {
     padding: 0;
     overflow-x: hidden;
 }
+#AI, #DeFi {
+  display: none;
+}
 
 h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
     margin-top: 0;
@@ -2003,15 +2006,16 @@ body.darkTheme {
 	border: inherit!important;
 }
 .nav-pills .nav-link {
-    font-weight: 600;
+    font-size: 16px;
+    font-weight: 400;
 	color: #626262;
-    padding: 6px 24px;
+    padding: 10px 18px;
     border-radius: 40px;
     background: transparent;
-    border: 2px solid #cfd8dd;
+    border: 1px solid #cfd8dd;
     transition: all .2s ease-in-out,background-color .2s ease-in-out,opacity .2s ease-in-out;
     cursor: pointer;
-	margin-bottom: 6px;
+	margin-bottom: 8px;
 }
 .nav-pills .nav-link.active {
     color: #FFFFFF;
@@ -2024,6 +2028,7 @@ body.darkTheme {
 }
 .darkTheme .nav-pills .nav-link {
     color: #cfd8dd;
+    border-color: #6c757d;
 }
 @media screen and (max-width: 479px) {
 	.nav-pills .nav-link {
@@ -2035,6 +2040,12 @@ body.darkTheme {
 }
 
 
+
+
+
+.darkTheme .disclaimer-box svg path {
+    fill: #0088cc;
+}
 
 
 
