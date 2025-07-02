@@ -106,16 +106,67 @@
         <div class="row">
             <nav>
                 <div class="nav nav-pills justify-content-center mb-4" id="nav-pills" role="tablist">
-                    <button class="nav-link active" id="nav-web3-tab" data-bs-toggle="tab" data-bs-target="#nav-web3" type="button" role="tab" aria-controls="nav-web3" aria-selected="false">All dApps</button>
-                    <button class="nav-link" id="nav-rwa-tab" data-bs-toggle="tab" data-bs-target="#nav-rwa" type="button" role="tab" aria-controls="nav-rwa" aria-selected="false">RWA</button>
-                    <button class="nav-link" id="nav-defi-tab" data-bs-toggle="tab" data-bs-target="#nav-defi" type="button" role="tab" aria-controls="nav-defi" aria-selected="true">DeFi</button>
-                    <button class="nav-link" id="nav-depin-tab" data-bs-toggle="tab" data-bs-target="#nav-depin" type="button" role="tab" aria-controls="nav-depin" aria-selected="false">DePin</button>
-                    <button class="nav-link" id="nav-nfts-tab" data-bs-toggle="tab" data-bs-target="#nav-nfts" type="button" role="tab" aria-controls="nav-nfts" aria-selected="false">NFTs</button>
-                    <button class="nav-link" id="nav-dex-tab" data-bs-toggle="tab" data-bs-target="#nav-dex" type="button" role="tab" aria-controls="nav-dex" aria-selected="false">DEX</button>
+                    <button class="nav-link active" id="nav-all-tab" data-bs-toggle="tab" data-bs-target="#nav-all" type="button" role="tab" aria-controls="nav-all" aria-selected="false">All dApps <sup>(85)</sup></button>
+                    <button class="nav-link" id="nav-ai-tab" data-bs-toggle="tab" data-bs-target="#nav-ai" type="button" role="tab" aria-controls="nav-ai" aria-selected="true">AI <sup>(1)</sup></button>
+                    <button class="nav-link" id="nav-alliances-tab" data-bs-toggle="tab" data-bs-target="#nav-alliances" type="button" role="tab" aria-controls="nav-alliances" aria-selected="true">Alliances <sup>(2)</sup></button>
+                    <button class="nav-link" id="nav-defi-tab" data-bs-toggle="tab" data-bs-target="#nav-defi" type="button" role="tab" aria-controls="nav-defi" aria-selected="true">DeFi <sup>(22)</sup></button>
+                    <button class="nav-link" id="nav-gaming-tab" data-bs-toggle="tab" data-bs-target="#nav-gaming" type="button" role="tab" aria-controls="nav-gaming" aria-selected="false">Gaming <sup>(12)</sup></button>
+                    <button class="nav-link" id="nav-infrastructure-tab" data-bs-toggle="tab" data-bs-target="#nav-infrastructure" type="button" role="tab" aria-controls="nav-infrastructure" aria-selected="false">Infrastructure <sup>(16)</sup></button>
+                    <button class="nav-link" id="nav-interoperability-tab" data-bs-toggle="tab" data-bs-target="#nav-interoperability" type="button" role="tab" aria-controls="nav-interoperability" aria-selected="false">Interoperability <sup>(2)</sup></button>
+                    <button class="nav-link" id="nav-nfts-tab" data-bs-toggle="tab" data-bs-target="#nav-nfts" type="button" role="tab" aria-controls="nav-nfts" aria-selected="false">NFTs <sup>(8)</sup></button>
+                    <button class="nav-link" id="nav-protocol-tab" data-bs-toggle="tab" data-bs-target="#nav-protocol" type="button" role="tab" aria-controls="nav-protocol" aria-selected="false">Protocol <sup>(9)</sup></button>
+                    <button class="nav-link" id="nav-rwa-tab" data-bs-toggle="tab" data-bs-target="#nav-rwa" type="button" role="tab" aria-controls="nav-rwa" aria-selected="false">RWA <sup>(16)</sup></button>
+                    <button class="nav-link" id="nav-security-tab" data-bs-toggle="tab" data-bs-target="#nav-security" type="button" role="tab" aria-controls="nav-security" aria-selected="false">Security <sup>(7)</sup></button>
+                    <button class="nav-link" id="nav-tradefinance-tab" data-bs-toggle="tab" data-bs-target="#nav-tradefinance" type="button" role="tab" aria-controls="nav-tradefinance" aria-selected="true">Trade Finance <sup>(7)</sup></button>
+                    
+                
+                    <!--<button class="nav-link" id="nav-dex-tab" data-bs-toggle="tab" data-bs-target="#nav-dex" type="button" role="tab" aria-controls="nav-dex" aria-selected="false">DEX</button>-->
+                    
                 </div>
             </nav>
+
+
+
+
+
+
+
+
+
+
+
+<!--<form action="#" method="post" id="nav-tabContent">
+  
+  <div class="dropdown-form">
+    <select name="list" onchange="showHide(this)">
+      <option value="RWA">RWA</option>
+      <option value="AI">AI</option>
+      <option value="DeFi">DeFi</option>
+    </select>
+  </div>
+  
+  <div class="dropdown-options">
+    <div class="show-hide RWA" id="RWA">
+      RWA list
+    </div>
+    <div class="show-hide" id="AI">
+      AI list
+    </div>
+    <div class="show-hide" id="DeFi">
+      DeFi list
+    </div>
+  </div>
+
+</form>-->
+
+
+
+
+
+
+
             <div class="tab-content" id="nav-tabContent">
-                <div class="tab-pane fade active show" id="nav-web3" role="tabpanel" aria-labelledby="nav-web3-tab">
+                <div class="tab-pane fade active show" id="nav-all" role="tabpanel" aria-labelledby="nav-all-tab">
                     <div class="col-lg-12">
                         <div class="row justify-content-center">
                         	<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
@@ -129,7 +180,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Oracle</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -151,7 +202,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Protocol</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -195,7 +246,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Trade Finance</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -219,7 +270,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Alliances</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -249,7 +300,7 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>-->
+                            </div>-->                            
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#wefi">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -259,7 +310,7 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/wefi-icon.svg" alt="Wefi"></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Protocol, RWA</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -277,10 +328,10 @@
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
                                             <div class="exchangeCard-header justify-content-between align-items-center">
                                                 <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/fathom-icon.svg" alt="Fathom"></div>
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/fathom-icon.svg" alt="Fathom" /></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DEX</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, RWA</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -356,7 +407,26 @@
                                     </div>
                                 </a>
                             </div>
-
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#akka">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/akka-icon.svg" alt="Akka Finance" /></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Akka Finance</div>
+                                                <p class="lh-base mb-0">Akka is a cutting-edge AI-powered liquidity aggregator for DeFi, offering near-zero slippage trades with the best possible rates and instant execution.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#envio">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -366,7 +436,7 @@
                                                     <div class=""><img src="assets/images/ecosystem-dapps/envio-icon.svg" alt="Envio"></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -387,7 +457,7 @@
                                                     <div class=""><img src="assets/images/ecosystem-dapps/resmic-icon.svg" alt="Resmic"></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Protocol</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -410,7 +480,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Protocol</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -450,12 +520,35 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/storx-icon.svg" alt="StorX"></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DePin</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
                                                 </div>
                                             </div>
                                             <div class="">
                                                 <div class="card-infoHead mb-2">StorX</div>
                                                 <p class="lh-base mb-0">StorX is a decentralized cloud storage network, Which empowers users to store their data securely on the cloud.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#certik">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/certik-icon.svg" class="iconD" alt="Certik">
+                                                        <img src="assets/images/ecosystem-dapps/certik-icon_light.svg" class="iconL" alt="Certik">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Security</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Certik</div>
+                                                <p class="lh-base mb-0">CertiK, the largest Web3 security service provider, uses AI and formal verification to protect and monitor smart contracts and protocols, securing the Web3 ecosystem.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -470,12 +563,32 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/impel-icon.svg" alt="Impel" /></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Trade Finance</div>
                                                 </div>
                                             </div>
                                             <div class="">
                                                 <div class="card-infoHead mb-2">Impel</div>
                                                 <p class="lh-base mb-0">ISO 20022 compliant messaging: Redefining the standard for cross-border payments and financial messaging system on XDC Network.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#solidityscan">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<img src="assets/images/ecosystem-dapps/solidityscan-icon.svg" alt="SolidityScan">
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Security</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">SolidityScan</div>
+                                                <p class="lh-base mb-0">Best Smart Contract Scanner & Auditing Tool. Secure Blockchain Projects at Low Prices, Run Automated Scans & Generate Detailed Audit Reports within Seconds.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -490,7 +603,7 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/tradefinex-icon.svg" alt="TradeFinex" /></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Trade Finance</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -513,7 +626,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DePin</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -536,7 +649,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Trade Finance</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -557,12 +670,36 @@
                                                 	<img src="assets/images/ecosystem-dapps/dopu-icon.svg" alt="Dopu">
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Meme</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Gaming</div>
                                                 </div>
                                             </div>
                                             <div class="">
                                                 <div class="card-infoHead mb-2">Dopu</div>
                                                 <p class="lh-base mb-0">DOPU, the 'Dog with a Purpose,' your friendly guide in the world of blockchain and peer-to-peer payments.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#slowmist">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/slowmist-icon.svg" class="iconD" alt="SlowMist">
+                                                        <img src="assets/images/ecosystem-dapps/slowmist-icon_light.svg" class="iconL" alt="SlowMist">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Security</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">SlowMist</div>
+                                                <p class="lh-base mb-0">SlowMist is a leading blockchain cybersecurity firm, trusted for its deep audits, threat monitoring, and response capabilities.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -578,7 +715,7 @@
                                                 	<img src="assets/images/ecosystem-dapps/vitalveda-icon.svg" alt="VitalVEDA">
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeSci</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">AI, Gaming</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -590,6 +727,8 @@
                                 </a>
                             </div>
 
+                            
+
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#eteu">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -600,12 +739,36 @@
                                                     <img src="assets/images/ecosystem-dapps/eteu-icon.svg" class="iconL" alt="eTEU">
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Trade Finance</div>
                                                 </div>
                                             </div>
                                             <div class="">
                                                 <div class="card-infoHead mb-2">eTEU</div>
-                                                <p class="lh-base mb-0">eTEU is a next-generation, IGP&I-approved electronic Bill of Lading (eBL) and digital trade documentation platform built on public blockchain. It transforms traditional paper-based processes into secure, automated workflows powered by smart contracts.</p>
+                                                <p class="lh-base mb-0">eTEU is a next-generation, IGP&I-approved electronic Bill of Lading (eBL) and digital trade documentation platform built on public blockchain.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#defimoon">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/defimoon-icon.svg" class="iconD" alt="Defimoon">
+                                                        <img src="assets/images/ecosystem-dapps/defimoon-icon_light.svg" class="iconL" alt="Defimoon">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Security</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Defimoon</div>
+                                                <p class="lh-base mb-0">Expert development and auditing for the blockchain era.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -624,7 +787,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -645,12 +808,36 @@
                                                 	<img src="assets/images/ecosystem-dapps/bbbPump-icon.svg" alt="BBBPump">
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Meme</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
                                                 </div>
                                             </div>
                                             <div class="">
                                                 <div class="card-infoHead mb-2">BBBPump</div>
                                                 <p class="lh-base mb-0">The First Meme Launch Platform on XDC Network.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#oxorio">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/oxorio-icon.svg" class="iconD" alt="Oxorio">
+                                                        <img src="assets/images/ecosystem-dapps/oxorio-icon_light.svg" class="iconL" alt="Oxorio">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Security</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Oxorio</div>
+                                                <p class="lh-base mb-0">Oxorio is a leading company in smart contract audit and blockchain security services with expertise in EVM, Solidity and ZK.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -664,16 +851,16 @@
                                             <div class="exchangeCard-header justify-content-between align-items-center">
                                                 <div class="icon">
                                                 	<div class="">
-                                                        <img src="assets/images/ecosystem-dapps/chaintools-icon.svg" class="iconD" alt="Chain Tools">
-                                                        <img src="assets/images/ecosystem-dapps/chaintools-icon_light.svg" class="iconL" alt="Chain Tools">
+                                                        <img src="assets/images/ecosystem-dapps/chaintools-icon.svg" class="iconD" alt="Chaintools">
+                                                        <img src="assets/images/ecosystem-dapps/chaintools-icon_light.svg" class="iconL" alt="Chaintools">
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
                                                 </div>
                                             </div>
                                             <div class="">
-                                                <div class="card-infoHead mb-2">Chain Tools</div>
+                                                <div class="card-infoHead mb-2">Chaintools</div>
                                                 <p class="lh-base mb-0">All-in-one online crypto toolbox: Faucet Tool, Token Generator, Airdrop Service, Crypto Price Bot.</p>
                                             </div>
                                         </div>
@@ -687,17 +874,40 @@
                                             <div class="exchangeCard-header justify-content-between align-items-center">
                                                 <div class="icon">
                                                 	<div class="">
-                                                        <img src="assets/images/ecosystem-dapps/chainide-icon.svg" class="iconD" alt="Chain IDE">
-                                                        <img src="assets/images/ecosystem-dapps/chainide-icon.svg" class="iconL" alt="Chain IDE">
+                                                        <img src="assets/images/ecosystem-dapps/chainide-icon.svg" class="iconD" alt="ChainIDE">
+                                                        <img src="assets/images/ecosystem-dapps/chainide-icon.svg" class="iconL" alt="ChainIDE">
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
                                                 </div>
                                             </div>
                                             <div class="">
-                                                <div class="card-infoHead mb-2">Chain IDE</div>
+                                                <div class="card-infoHead mb-2">ChainIDE</div>
                                                 <p class="lh-base mb-0">The world's first and largest cloud-based multichain IDE for developers to create smart contracts and dApps.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#stronghold">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/stronghold-icon.svg" class="iconD" alt="Stronghold Security">
+                                                        <img src="assets/images/ecosystem-dapps/stronghold-icon_light.svg" class="iconL" alt="Stronghold Security">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Security</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Stronghold Security</div>
+                                                <p class="lh-base mb-0">Stronghold Security ( strongholdsec.io ) specializes in smart-contract audits delivered through a hybrid “crowd-audit + lead auditor” model.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -715,7 +925,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -726,7 +936,7 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#globianceDex">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -746,7 +956,7 @@
                                     </div>
                                 </a>
                             </div>                            
-                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#fluentFinance">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -778,7 +988,7 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/choise-icon.svg" alt="Choise" /></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -838,7 +1048,7 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/xswap-icon.svg" alt="XSwap"></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DEX</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Protocol</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -858,7 +1068,7 @@
                                                     <div class=""><img src="assets/images/ecosystem-dapps/goplugin-icon.svg" alt="GoPlugin"></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Native Oracle</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -895,10 +1105,10 @@
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
                                             <div class="exchangeCard-header justify-content-between align-items-center">
                                                 <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/globiance-icon.svg" alt="Globiance"></div>
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/globiance-icon.svg" alt="Globiance" /></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Trade Finance</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -908,7 +1118,7 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>                            
+                            </div>
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#blockdegree">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -921,7 +1131,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Alliances</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -932,28 +1142,41 @@
                                     </div>
                                 </a>
                             </div>
-
-
-
-
-
-
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#akka">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#skynet-certik">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
                                             <div class="exchangeCard-header justify-content-between align-items-center">
                                                 <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/akka-icon.svg" alt="Akka" /></div>
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/certik-skynet-icon.svg" alt="Certik Skynet" /></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DEX</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Security</div>
                                                 </div>
                                             </div>
                                             <div class="">
-                                                <div class="card-infoHead mb-2">Akka</div>
-                                                <p class="lh-base mb-0">Akka is a cutting-edge AI-powered liquidity aggregator for DeFi, offering near-zero slippage trades with the best possible rates and instant execution.</p>
+                                                <div class="card-infoHead mb-2">Certik Skynet</div>
+                                                <p class="lh-base mb-0">CertiK Skynet is a comprehensive Web3 security, due diligence, and insights platform developed by CertiK, the leading blockchain security auditor.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#Oxfutbol">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/0xfutbol-icon.svg" alt="0xFútbol" /></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Gaming</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">0xFútbol</div>
+                                                <p class="lh-base mb-0">0xFútbol is the first-ever Web3 hub designed exclusively for 4 Billion fútbol fans.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1017,6 +1240,28 @@
                                             <div class="">
                                                 <div class="card-infoHead mb-2">Panenka FC</div>
                                                 <p class="lh-base mb-0">We are building a fantasy football game that utilise smart contracts on blockchain to automate and decentralise game room management and rewards distribution.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#redcurry">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/redcurry-icon.svg" alt="Redcurry">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Redcurry</div>
+                                                <p class="lh-base mb-0">Pioneering real-world asset (RWA) initiative—a commercial real estate–backed digital currency built to serve as a stable, inflation-resistant store of value.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1124,7 +1369,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Gaming</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -1168,7 +1413,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Protocol</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -1212,11 +1457,11 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Protocol, Trade Finance</div>
                                                 </div>
                                             </div>
                                             <div class="">
-                                                <div class="card-infoHead mb-2">GrowLimitLess</div>
+                                                <div class="card-infoHead mb-2">GLL.ONE - GrowLimitLess</div>
                                                 <p class="lh-base mb-0">GLL is an ecosystem that helps MSMEs, creators, and small manufacturers across South East Asia access finance, technology, and global export opportunities.</p>
                                             </div>
                                         </div>
@@ -1234,7 +1479,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -1255,7 +1500,7 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/blocksScan-icon.svg" alt="BlocksScan" /></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -1295,7 +1540,7 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/xceltrip-icon.svg" alt="XcelTrip" /></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -1375,7 +1620,7 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/travala-icon.svg" alt="Travala" /></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -1405,7 +1650,7 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>-->
+                            </div>
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#guardaVisaCard">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -1425,7 +1670,7 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div>-->
                             
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#stasisEurs">
@@ -1456,7 +1701,7 @@
                                                     <div class=""><img src="assets/images/ecosystem-dapps/supra-icon.svg" alt="Supra"></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Oracle</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure, Protocol</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -1516,7 +1761,7 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/cyclebit-icon.svg" alt="Cyclebit" /></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -1537,7 +1782,7 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/layerzero-icon.svg" alt="LayerZero" /></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Interoperability</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -1584,7 +1829,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Interoperability</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -1631,15 +1876,12 @@
                                             </div>
                                             <div class="">
                                                 <div class="card-infoHead mb-2">Gas.zip</div>
-                                                <p class="lh-base mb-0">Gas.zip is a "Instant gas refuel bridge"—a specialized cross-chain tool built on LayerZero that allows developers and users to instantly top up native gas tokens (like ETH, BNB, AVAX) on multiple blockchains with a single deposit transaction .</p>
+                                                <p class="lh-base mb-0">Gas.zip is a LayerZero-powered tool that lets you top up native gas tokens on multiple blockchains in a single transaction.</p>
                                             </div>
                                         </div>
                                     </div>
                                 </a>
                             </div>
-
-
-
 
                             <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#xinfinNameService">
@@ -1660,27 +1902,143 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>-->                            
+                            </div>-->
+
+
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#yodaplusMultisigWallet">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#futr">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
                                             <div class="exchangeCard-header justify-content-between align-items-center">
                                                 <div class="icon">
-                                                    <div class=""><img src="assets/images/ecosystem-dapps/yodaplus-icon.svg" alt="Yodaplus Multisig Wallet"></div>
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/futr-icon_light.svg" class="iconD" alt="Futr">
+                                                        <img src="assets/images/ecosystem-dapps/futr-icon.svg" class="iconL" alt="Futr">
+                                                    </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Gaming</div>
                                                 </div>
                                             </div>
                                             <div class="">
-                                                <div class="card-infoHead mb-2">Yodaplus Multisig Wallet</div>
-                                                <p class="lh-base mb-0">Yplusvault is one of the most secure wallets that can be trusted for all the new-age digital transactions.</p>
+                                                <div class="card-infoHead mb-2">Futr</div>
+                                                <p class="lh-base mb-0">Futr is a social prediction platform where users can make friends, share insights, and win together by predicting real-world events!</p>
                                             </div>
                                         </div>
                                     </div>
                                 </a>
                             </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#tokentails">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/tokentails-icon_light.svg" class="iconD" alt="Token Tails">
+                                                        <img src="assets/images/ecosystem-dapps/tokentails-icon.svg" class="iconL" alt="Token Tails">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Gaming, RWA</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Token Tails</div>
+                                                <p class="lh-base mb-0">Token Tails is a “play-to-save” Web3 game and charity platform where every in-game cat NFT is tied to a real-world shelter cat.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#popcorncine">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/popcorncine-icon.svg" alt="PopCornCine">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, NFTs</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">PopCornCine</div>
+                                                <p class="lh-base mb-0">PopcornCine, the next-gen platform for discovering film trailers. Powered by AI & blockchain, it empowers audiences to vote, share, and profit from content that truly matters.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#bigads-network">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/bigads-network-icon.svg" alt="BigAds Network">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">BigAds Network</div>
+                                                <p class="lh-base mb-0">BigAds – AI-Powered Ad Network for Games.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#bigwater-protocol">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/bigwater-protocol-icon.svg" alt="BigWater Protocol">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA, NFTs</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">BigWater Protocol</div>
+                                                <p class="lh-base mb-0">BigWater Protocol is the world’s first Proof of Impact Protocol that rewards sustainable actions with real-world outcomes in Clean Air and Clean Water.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#eternis">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/eternis-icon.svg" alt="Eternis: Death Match">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, NFTs, Gaming</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Eternis: Death Match</div>
+                                                <p class="lh-base mb-0">Eternis: Death Match is a fast-paced, Web3-powered fighting game where legendary figures reimagined as cyborgs battle in a dystopian arena.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>                            
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#yodaplusTradeTokenization">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -1690,12 +2048,32 @@
                                                     <div class=""><img src="assets/images/ecosystem-dapps/yodaplus-icon.svg" alt="Yodaplus Trade tokenization"></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
                                                 </div>
                                             </div>
                                             <div class="">
                                                 <div class="card-infoHead mb-2">Yodaplus Trade Tokenization</div>
                                                 <p class="lh-base mb-0">Yodaplus Asset Tokenization Platform for Your Digital Assets.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#yodaplusMultisigWallet">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class=""><img src="assets/images/ecosystem-dapps/yodaplus-icon.svg" alt="Yodaplus Multisig Wallet"></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Yodaplus Multisig Wallet</div>
+                                                <p class="lh-base mb-0">Yplusvault is one of the most secure wallets that can be trusted for all the new-age digital transactions.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1713,7 +2091,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -1731,29 +2109,7 @@
                 
                 <div class="tab-pane fade" id="nav-rwa" role="tabpanel" aria-labelledby="nav-rwa-tab">
                     <div class="col-lg-12">
-                        <div class="row justify-content-center">
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#circularityFinance">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                	<div class="">
-                                                        <img src="assets/images/ecosystem-dapps/circularityFinance-icon.svg" class="" alt="Circularity Finance">
-                                                    </div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">Circularity Finance</div>
-                                                <p class="lh-base mb-0">Circularity Finance is a pioneering project merging decentralized finance (DeFi) and sustainable development, utilizing blockchain technology.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
+                        <div class="row justify-content-center">                            
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#comtechGold">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -1798,49 +2154,6 @@
                                 </a>
                             </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#tradeFinex">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/tradefinex-icon.svg" alt="TradeFinex" /></div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">TradeFinex</div>
-                                                <p class="lh-base mb-0">TradeFinex.org is a p2p trade finance platform to create trade instruments of value between buyers and sellers in Trade Finance market.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#xdcTradeNetwork">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                	<div class="">
-                                                        <img src="assets/images/ecosystem-dapps/xdctradenetwork-icon.svg" class="iconD" alt="XDC Trade Network">
-                                                        <img src="assets/images/ecosystem-dapps/xdctradenetwork-icon_light.svg" class="iconL" alt="XDC Trade Network">
-                                                    </div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">XDC Trade Network</div>
-                                                <p class="lh-base mb-0">XDC Trade Network is a blockchain-based platform that aims to simplify global trade finance by making it more digital and efficient.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#yieldteq">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -1859,7 +2172,50 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>                            
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#fathom">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/fathom-icon.svg" alt="Fathom" /></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, RWA</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Fathom</div>
+                                                <p class="lh-base mb-0">Fathom a Smarter Decentralized Currency, Borderless access to digital money with no discrimination for individuals and institutions.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#mintnite">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/mintnite-icon.svg" class="iconD" alt="Mintnite">
+                                                        <img src="assets/images/ecosystem-dapps/mintnite-icon_light.svg" class="iconL" alt="Mintnite">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Mintnite</div>
+                                                <p class="lh-base mb-0">Mintnite, a multi-use-case Web3 minting tool that anyone can mint fungible tokens, NFTs and even SBTs (soulbound tokens) with no programming required.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#stasisEurs">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -1881,21 +2237,20 @@
                                 </a>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#eteu">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#wefi">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
                                             <div class="exchangeCard-header justify-content-between align-items-center">
                                                 <div class="icon">
-                                                	<img src="assets/images/ecosystem-dapps/eteu-icon_light.svg" class="iconD" alt="eTEU">
-                                                    <img src="assets/images/ecosystem-dapps/eteu-icon.svg" class="iconL" alt="eTEU">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/wefi-icon.svg" alt="Wefi"></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Protocol, RWA</div>
                                                 </div>
                                             </div>
                                             <div class="">
-                                                <div class="card-infoHead mb-2">eTEU</div>
-                                                <p class="lh-base mb-0">eTEU is a next-generation, IGP&I-approved electronic Bill of Lading (eBL) and digital trade documentation platform built on public blockchain. It transforms traditional paper-based processes into secure, automated workflows powered by smart contracts.</p>
+                                                <div class="card-infoHead mb-2">Wefi</div>
+                                                <p class="lh-base mb-0">WeFi, short for "We Finance," stands as an Insured Omnichain leveraged trading protocol built on LayerZero.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1962,6 +2317,28 @@
                                         </div>
                                     </div>
                                 </a>
+                            </div>                            
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#redcurry">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/redcurry-icon.svg" alt="Redcurry">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Redcurry</div>
+                                                <p class="lh-base mb-0">Pioneering real-world asset (RWA) initiative—a commercial real estate–backed digital currency built to serve as a stable, inflation-resistant store of value.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#scenium">
@@ -1980,6 +2357,51 @@
                                             <div class="">
                                                 <div class="card-infoHead mb-2">Scenium</div>
                                                 <p class="lh-base mb-0">Scenium is a platform that democratizes access to private assets, traditionally reserved for institutional investors, by offering individuals the opportunity to invest in a range of assets such as stocks, crypto, REITs, ETFs, and tokenized private assets.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#tokentails">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/tokentails-icon_light.svg" class="iconD" alt="Token Tails">
+                                                        <img src="assets/images/ecosystem-dapps/tokentails-icon.svg" class="iconL" alt="Token Tails">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Gaming, RWA</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Token Tails</div>
+                                                <p class="lh-base mb-0">Token Tails is a “play-to-save” Web3 game and charity platform where every in-game cat NFT is tied to a real-world shelter cat.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#bigwater-protocol">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/bigwater-protocol-icon.svg" alt="BigWater Protocol">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA, NFTs</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">BigWater Protocol</div>
+                                                <p class="lh-base mb-0">BigWater Protocol is the world’s first Proof of Impact Protocol that rewards sustainable actions with real-world outcomes in Clean Air and Clean Water.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -2005,31 +2427,327 @@
                                     </div>
                                 </a>
                             </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#yodaplusTradeTokenization">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class=""><img src="assets/images/ecosystem-dapps/yodaplus-icon.svg" alt="Yodaplus Trade tokenization" /></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Yodaplus Trade Tokenization</div>
+                                                <p class="lh-base mb-0">Yodaplus Asset Tokenization Platform for Your Digital Assets.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                                                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#airnetz">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/airnetz-icon.svg" class="iconD" alt="Airnetz" />
+                                                        <img src="assets/images/ecosystem-dapps/airnetz-icon_light.svg" class="iconL" alt="Airnetz" />
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Airnetz</div>
+                                                <p class="lh-base mb-0">By integrating with XDC Protocol, Airnetzcharter.com ensures swift and worry-free medical evacuation and air ambulance services.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
-                
-                
-                <div class="tab-pane fade" id="nav-defi" role="tabpanel" aria-labelledby="nav-defi-tab">
+
+
+                <div class="tab-pane fade" id="nav-tradefinance" role="tabpanel" aria-labelledby="nav-tradefinance-tab">
                     <div class="col-lg-12">
-                        <div class="row justify-content-center">                            
+                        <div class="row justify-content-center">
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#swiftcourt">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#eteu">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<img src="assets/images/ecosystem-dapps/eteu-icon_light.svg" class="iconD" alt="eTEU">
+                                                    <img src="assets/images/ecosystem-dapps/eteu-icon.svg" class="iconL" alt="eTEU">
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Trade Finance</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">eTEU</div>
+                                                <p class="lh-base mb-0">eTEU is a next-generation, IGP&I-approved electronic Bill of Lading (eBL) and digital trade documentation platform built on public blockchain. It transforms traditional paper-based processes into secure, automated workflows powered by smart contracts.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#tradeFinex">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/tradefinex-icon.svg" alt="TradeFinex" /></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Trade Finance</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">TradeFinex</div>
+                                                <p class="lh-base mb-0">TradeFinex.org is a p2p trade finance platform to create trade instruments of value between buyers and sellers in Trade Finance market.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#xdcTradeNetwork">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
                                             <div class="exchangeCard-header justify-content-between align-items-center">
                                                 <div class="icon">
                                                 	<div class="">
-                                                        <img src="assets/images/ecosystem-dapps/swiftcourt-icon.svg" class="" alt="Swiftcourt">
+                                                        <img src="assets/images/ecosystem-dapps/xdctradenetwork-icon.svg" class="iconD" alt="XDC Trade Network">
+                                                        <img src="assets/images/ecosystem-dapps/xdctradenetwork-icon_light.svg" class="iconL" alt="XDC Trade Network">
                                                     </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Trade Finance</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">XDC Trade Network</div>
+                                                <p class="lh-base mb-0">XDC Trade Network is a blockchain-based platform that aims to simplify global trade finance by making it more digital and efficient.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#circularityFinance">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/circularityFinance-icon.svg" class="" alt="Circularity Finance">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Trade Finance</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Circularity Finance</div>
+                                                <p class="lh-base mb-0">Circularity Finance is a pioneering project merging decentralized finance (DeFi) and sustainable development, utilizing blockchain technology.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#growLimitLess">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/growLimitLess-icon.svg" alt="GrowLimitLess">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Protocol, Trade Finance</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">GLL.ONE - GrowLimitLess</div>
+                                                <p class="lh-base mb-0">GLL is an ecosystem that helps MSMEs, creators, and small manufacturers across South East Asia access finance, technology, and global export opportunities.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#globiance">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/globiance-icon.svg" alt="Globiance" /></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Trade Finance</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Globiance</div>
+                                                <p class="lh-base mb-0">Globiance is focusing on a long term strategy to create a seamless FIAT - CRYPTO integration into our daily life.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#impel">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/impel-icon.svg" alt="Impel" /></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Trade Finance</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Impel</div>
+                                                <p class="lh-base mb-0">ISO 20022 compliant messaging: Redefining the standard for cross-border payments and financial messaging system on XDC Network.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="tab-pane fade" id="nav-ai" role="tabpanel" aria-labelledby="nav-ai-tab">
+                    <div class="col-lg-12">
+                        <div class="row justify-content-center">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#vitalveda">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<img src="assets/images/ecosystem-dapps/vitalveda-icon.svg" alt="VitalVEDA">
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">AI, Gaming</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">VitalVEDA</div>
+                                                <p class="lh-base mb-0">VitalVeda is an AI-powered fitness platform that uses movement detection and gamification to make workouts engaging and effective.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="tab-pane fade" id="nav-alliances" role="tabpanel" aria-labelledby="nav-alliances-tab">
+                    <div class="col-lg-12">
+                        <div class="row justify-content-center">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#blockdegree">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/blockdegree-icon.svg" class="iconD" alt="Blockdegree">
+                                                        <img src="assets/images/ecosystem-dapps/blockdegree-icon_light.svg" class="iconL" alt="Blockdegree">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Alliances</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Blockdegree</div>
+                                                <p class="lh-base mb-0">Blockdegree provides Verified Certifications to developers around Blockchain Technology, Ethereum and XDC Protocol.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#coinsbee">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/coinsbee-icon.svg" class="iconD" alt="Coinsbee">
+                                                        <img src="assets/images/ecosystem-dapps/coinsbee-icon_light.svg" class="iconL" alt="Coinsbee">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Alliances</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Coinsbee</div>
+                                                <p class="lh-base mb-0">Coinsbee is a leading platform that allows you to use cryptocurrencies to purchase gift cards, mobile top-ups, and payment cards for a variety of services and retailers worldwide being compatible with any wallet.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="tab-pane fade" id="nav-defi" role="tabpanel" aria-labelledby="nav-defi-tab">
+                    <div class="col-lg-12">
+                        <div class="row justify-content-center">                            
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#akka">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/akka-icon.svg" alt="Akka Finance" /></div>
                                                 </div>
                                                 <div class="desc label">
                                                     <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
                                                 </div>
                                             </div>
                                             <div class="">
-                                                <div class="card-infoHead mb-2">Swiftcourt</div>
-                                                <p class="lh-base mb-0">Swiftcourt deploys smart contracts on the XDC network to govern escrow processes and mint NFTs and utility tokens to facilitate real-time transactions.</p>
+                                                <div class="card-infoHead mb-2">Akka Finance</div>
+                                                <p class="lh-base mb-0">Akka is a cutting-edge AI-powered liquidity aggregator for DeFi, offering near-zero slippage trades with the best possible rates and instant execution.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#tradeFinex">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/tradefinex-icon.svg" alt="TradeFinex" /></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Trade Finance</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">TradeFinex</div>
+                                                <p class="lh-base mb-0">TradeFinex.org is a p2p trade finance platform to create trade instruments of value between buyers and sellers in Trade Finance market.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -2046,7 +2764,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Protocol</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -2056,7 +2774,7 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>                            
+                            </div>
                             <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#caddyFinance">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -2078,6 +2796,26 @@
                                 </a>
                             </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#fathom">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/fathom-icon.svg" alt="Fathom" /></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, RWA</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Fathom</div>
+                                                <p class="lh-base mb-0">Fathom a Smarter Decentralized Currency, Borderless access to digital money with no discrimination for individuals and institutions.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#wefi">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -2086,7 +2824,7 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/wefi-icon.svg" alt="Wefi"></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Protocol, RWA</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -2098,20 +2836,22 @@
                                 </a>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#fathom">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#circularityFinance">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
                                             <div class="exchangeCard-header justify-content-between align-items-center">
                                                 <div class="icon">
-                                                    <div class=""><img src="assets/images/ecosystem-dapps/fathom-icon.svg" alt="Fathom" /></div>
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/circularityFinance-icon.svg" class="" alt="Circularity Finance">
+                                                    </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Trade Finance</div>
                                                 </div>
                                             </div>
                                             <div class="">
-                                                <div class="card-infoHead mb-2">Fathom</div>
-                                                <p class="lh-base mb-0">Deposit XDC to mint and borrow FXD. 1 FXD is soft-pegged to 1 USD. Convert FXD to other stable assets on the Fathom DEX and/or with the brokers in our ecosystem.</p>
+                                                <div class="card-infoHead mb-2">Circularity Finance</div>
+                                                <p class="lh-base mb-0">Circularity Finance is a pioneering project merging decentralized finance (DeFi) and sustainable development, utilizing blockchain technology.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -2126,12 +2866,52 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/globiance-icon.svg" alt="Globiance" /></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Trade Finance</div>
                                                 </div>
                                             </div>
                                             <div class="">
                                                 <div class="card-infoHead mb-2">Globiance</div>
                                                 <p class="lh-base mb-0">Globiance is focusing on a long term strategy to create a seamless FIAT - CRYPTO integration into our daily life.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#xSwap">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/xswap-icon.svg" alt="XSwap"></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Protocol</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">XSwap</div>
+                                                <p class="lh-base mb-0">XSwap protocol is an automated market maker for XRC20 tokens built on the XDC Network.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#bbbPump">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<img src="assets/images/ecosystem-dapps/bbbPump-icon.svg" alt="BBBPump">
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">BBBPump</div>
+                                                <p class="lh-base mb-0">The First Meme Launch Platform on XDC Network.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -2240,6 +3020,26 @@
                                 </a>
                             </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#choise">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/choise-icon.svg" alt="Choise" /></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Choise</div>
+                                                <p class="lh-base mb-0">Choise.com - the easiest and safest way to buy and earn crypto.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#rewards-bunny">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -2314,7 +3114,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Interoperability</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -2340,6 +3140,51 @@
                                             <div class="">
                                                 <div class="card-infoHead mb-2">LI.FI</div>
                                                 <p class="lh-base mb-0">A one-stop platform combining bridge aggregation, DEX aggregation, and even cross-chain messaging — all accessible via a single API or widget.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#futr">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/futr-icon_light.svg" class="iconD" alt="Futr">
+                                                        <img src="assets/images/ecosystem-dapps/futr-icon.svg" class="iconL" alt="Futr">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Gaming</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Futr</div>
+                                                <p class="lh-base mb-0">Futr is a social prediction platform where users can make friends, share insights, and win together by predicting real-world events!</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#popcorncine">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/popcorncine-icon.svg" alt="PopCornCine">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, NFTs</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">PopCornCine</div>
+                                                <p class="lh-base mb-0">PopcornCine, the next-gen platform for discovering film trailers. Powered by AI &amp; blockchain, it empowers audiences to vote, share, and profit from content that truly matters.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -2386,6 +3231,28 @@
                                 </a>
                             </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#eternis">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/eternis-icon.svg" alt="Eternis: Death Match">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Gaming, NFTs</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Eternis: Death Match</div>
+                                                <p class="lh-base mb-0">Eternis: Death Match is a fast-paced, Web3-powered fighting game where legendary figures reimagined as cyborgs battle in a dystopian arena.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#yodaplusMultisigWallet">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -2405,33 +3272,13 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#yodaplusTradeTokenization">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                    <div class=""><img src="assets/images/ecosystem-dapps/yodaplus-icon.svg" alt="Yodaplus Trade tokenization" /></div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">Yodaplus Trade Tokenization</div>
-                                                <p class="lh-base mb-0">Yodaplus Asset Tokenization Platform for Your Digital Assets.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
                         </div>
                     </div>
                 </div>
 
 
 
-                <div class="tab-pane fade" id="nav-depin" role="tabpanel" aria-labelledby="nav-depin-tab">
+                <div class="tab-pane fade" id="nav-infrastructure" role="tabpanel" aria-labelledby="nav-infrastructure-tab">
                     <div class="col-lg-12">
                         <div class="row justify-content-center">                            
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
@@ -2443,7 +3290,7 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/storx-icon.svg" alt="StorX"></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DePin</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -2466,7 +3313,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DePin</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -2477,11 +3324,623 @@
                                     </div>
                                 </a>
                             </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#razor">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/razor-icon.svg" class="" alt="Razor Network">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Razor Network</div>
+                                                <p class="lh-base mb-0">Razor Network is a decentralized oracle network, which connects smart contracts with real-world off-chain data in a fast, robust and secure way.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#plugin">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class=""><img src="assets/images/ecosystem-dapps/goplugin-icon.svg" alt="GoPlugin"></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Plugin</div>
+                                                <p class="lh-base mb-0">Plugin, a decentralized oracle platform, provides cost-effective solutions for any smart contract on the XDC Network.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#supra">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class=""><img src="assets/images/ecosystem-dapps/supra-icon.svg" alt="Supra"></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure, Protocol</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Supra</div>
+                                                <p class="lh-base mb-0">SupraOracles is supercharging oracles for a better, decentralized future. Blockchains need better, faster, accurate, and more secure off-chain data.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#envio">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class=""><img src="assets/images/ecosystem-dapps/envio-icon.svg" alt="Envio"></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Envio</div>
+                                                <p class="lh-base mb-0">Envio is a modern, multi-chain EVM blockchain indexer for querying real-time and historical data.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#chainTools">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/chaintools-icon.svg" class="iconD" alt="Chaintools">
+                                                        <img src="assets/images/ecosystem-dapps/chaintools-icon_light.svg" class="iconL" alt="Chaintools">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Chaintools</div>
+                                                <p class="lh-base mb-0">All-in-one online crypto toolbox: Faucet Tool, Token Generator, Airdrop Service, Crypto Price Bot.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#chainIde">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/chainide-icon.svg" class="iconD" alt="ChainIDE">
+                                                        <img src="assets/images/ecosystem-dapps/chainide-icon.svg" class="iconL" alt="ChainIDE">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">ChainIDE</div>
+                                                <p class="lh-base mb-0">The world's first and largest cloud-based multichain IDE for developers to create smart contracts and dApps.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#cyclebit">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/cyclebit-icon.svg" alt="Cyclebit" /></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Cyclebit</div>
+                                                <p class="lh-base mb-0">Cyclebit is a tool for retailers to accept digital payments in-store, online, or on the go.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#ivendPay">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/ivendpay-icon.svg" class="iconD" alt="ivendPay">
+                                                        <img src="assets/images/ecosystem-dapps/ivendpay-icon.svg" class="iconL" alt="ivendPay">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">ivendPay</div>
+                                                <p class="lh-base mb-0">ivendPay stands at the forefront of fintech innovation, offering a comprehensive solution for merchants to accept cryptocurrency payments.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#xcelTrip">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/xceltrip-icon.svg" alt="XcelTrip" /></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">XcelTrip</div>
+                                                <p class="lh-base mb-0">XcelTrip is a next-gen, blockchain-based, and decentralized solution, designed with the intent to disrupt the trillion-dollar travel industry.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#astrix">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/astrix-icon.svg" alt="Astrix">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Astrix</div>
+                                                <p class="lh-base mb-0">Tribes (by Astrix) is a decentralized, on-chain community platform built on the XDC Network.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#travala">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/travala-icon.svg" alt="Travala" /></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Travala</div>
+                                                <p class="lh-base mb-0">Travala.com is the most epic cryptocurrency-friendly travel booking service with 2.2 million properties, over 400k activities in 230 countries, and 600 airlines globally.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#blocksScan">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/blocksScan-icon.svg" alt="BlocksScan" /></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">BlocksScan</div>
+                                                <p class="lh-base mb-0">BlocksScan is a Block Explorer and Analytics Platform for XDC, ETH decentralized smart contracts platform.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#bigads-network">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/bigads-network-icon.svg" alt="BigAds Network">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">BigAds Network</div>
+                                                <p class="lh-base mb-0">BigAds – AI-Powered Ad Network for Games.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#yodaplusMultisigWallet">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class=""><img src="assets/images/ecosystem-dapps/yodaplus-icon.svg" alt="Yodaplus Multisig Wallet"></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Yodaplus Multisig Wallet</div>
+                                                <p class="lh-base mb-0">Yplusvault is one of the most secure wallets that can be trusted for all the new-age digital transactions.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="tab-pane fade" id="nav-interoperability" role="tabpanel" aria-labelledby="nav-interoperability-tab">
+                    <div class="col-lg-12">
+                        <div class="row justify-content-center">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#stargate">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/stargate-icon_light.svg" class="iconD" alt="Stargate">
+                                                        <img src="assets/images/ecosystem-dapps/stargate-icon.svg" class="iconL" alt="Stargate">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Interoperability</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Stargate</div>
+                                                <p class="lh-base mb-0">Stargate Finance (stargate.finance) is a decentralized finance (DeFi) protocol and omnichain asset bridge built on top of LayerZero.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#layerzero">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/layerzero-icon.svg" alt="LayerZero" /></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Interoperability</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">LayerZero</div>
+                                                <p class="lh-base mb-0">LayerZero is an open‑source omnichain interoperability protocol that enables seamless, secure communication between smart contracts on different blockchains.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
 
                 
+                <div class="tab-pane fade" id="nav-gaming" role="tabpanel" aria-labelledby="nav-gaming-tab">
+                    <div class="col-lg-12">
+                        <div class="row justify-content-center">                            
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#gama">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/gama-icon.svg" alt="Gama"></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Gaming</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Gama</div>
+                                                <p class="lh-base mb-0">The Future of Web3 Gaming on the XDC Network. Immerse yourself in the next generation of gaming with GAMA Token, the backbone of a revolutionary Web3 gaming ecosystem on the XDC Network.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#Oxfutbol">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/0xfutbol-icon.svg" alt="0xFútbol"></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Gaming</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">0xFútbol</div>
+                                                <p class="lh-base mb-0">0xFútbol is the first-ever Web3 hub designed exclusively for 4 Billion fútbol fans.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#dopu">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<img src="assets/images/ecosystem-dapps/dopu-icon.svg" alt="Dopu">
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Gaming</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Dopu</div>
+                                                <p class="lh-base mb-0">DOPU, the 'Dog with a Purpose,' your friendly guide in the world of blockchain and peer-to-peer payments.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#avatarlife">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/avatarlife-icon.svg" alt="AvatarLife">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Gaming</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">AvatarLife</div>
+                                                <p class="lh-base mb-0">AvatarLife is a Web3 metaverse where users create unique avatars, socialize, and play diverse games.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#panenka-fc">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/panenka-fc-icon_light.svg" class="iconD" alt="Panenka FC">
+                                                        <img src="assets/images/ecosystem-dapps/panenka-fc-icon.svg" class="iconL" alt="Panenka FC">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Gaming</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Panenka FC</div>
+                                                <p class="lh-base mb-0">We are building a fantasy football game that utilise smart contracts on blockchain to automate and decentralise game room management and rewards distribution.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#earnscape">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/earnscape-icon.svg" alt="Earnscape">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Gaming</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Earnscape</div>
+                                                <p class="lh-base mb-0">Earnscape is a mobile play‑to‑earn platform that rewards gamers for simply playing their favorite mobile titles.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#vitalveda">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<img src="assets/images/ecosystem-dapps/vitalveda-icon.svg" alt="VitalVEDA">
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">AI, Gaming</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">VitalVEDA</div>
+                                                <p class="lh-base mb-0">VitalVeda is an AI-powered fitness platform that uses movement detection and gamification to make workouts engaging and effective.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#metasoccer">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/metasoccer-icon_light.svg" class="iconD" alt="Metasoccer">
+                                                        <img src="assets/images/ecosystem-dapps/metasoccer-icon.svg" class="iconL" alt="Metasoccer">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Gaming</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Metasoccer</div>
+                                                <p class="lh-base mb-0">MetaSoccer is a Web3 ecosystem of soccer games built on a fully decentralized economy.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#meegames">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/meegames-icon.svg" alt="Mee Games">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Gaming</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Mee Games</div>
+                                                <p class="lh-base mb-0">Meegames is a full-scale AI-driven gamified quest platform and an interoperable blockchain gamefi ecosystem.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#futr">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/futr-icon_light.svg" class="iconD" alt="Futr">
+                                                        <img src="assets/images/ecosystem-dapps/futr-icon.svg" class="iconL" alt="Futr">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Gaming</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Futr</div>
+                                                <p class="lh-base mb-0">Futr is a social prediction platform where users can make friends, share insights, and win together by predicting real-world events!</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#tokentails">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/tokentails-icon_light.svg" class="iconD" alt="Token Tails">
+                                                        <img src="assets/images/ecosystem-dapps/tokentails-icon.svg" class="iconL" alt="Token Tails">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Gaming, RWA</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Token Tails</div>
+                                                <p class="lh-base mb-0">Token Tails is a “play-to-save” Web3 game and charity platform where every in-game cat NFT is tied to a real-world shelter cat.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#eternis">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/eternis-icon.svg" alt="Eternis: Death Match">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Gaming, NFTs</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Eternis: Death Match</div>
+                                                <p class="lh-base mb-0">Eternis: Death Match is a fast-paced, Web3-powered fighting game where legendary figures reimagined as cyborgs battle in a dystopian arena.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <div class="tab-pane fade" id="nav-nfts" role="tabpanel" aria-labelledby="nav-nfts-tab">
                     <div class="col-lg-12">
                         <div class="row justify-content-center">                            
@@ -2534,7 +3993,7 @@
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
                                             <div class="exchangeCard-header justify-content-between align-items-center">
                                                 <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/xdcnft-icon.svg" alt="Airnetz" /></div>
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/xdcnft-icon.svg" alt="XDCNFT" /></div>
                                                 </div>
                                                 <div class="desc label">
                                                     <div class="exchangeCard-type text-muted mt-0 mb-0">NFTs</div>
@@ -2591,6 +4050,72 @@
                                     </div>
                                 </a>
                             </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#popcorncine">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/popcorncine-icon.svg" alt="PopCornCine">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, NFTs</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">PopCornCine</div>
+                                                <p class="lh-base mb-0">PopcornCine, the next-gen platform for discovering film trailers. Powered by AI &amp; blockchain, it empowers audiences to vote, share, and profit from content that truly matters.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#bigwater-protocol">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/bigwater-protocol-icon.svg" alt="BigWater Protocol">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA, NFTs</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">BigWater Protocol</div>
+                                                <p class="lh-base mb-0">BigWater Protocol is the world’s first Proof of Impact Protocol that rewards sustainable actions with real-world outcomes in Clean Air and Clean Water.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#eternis">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/eternis-icon.svg" alt="Eternis: Death Match">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Gaming, NFTs</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Eternis: Death Match</div>
+                                                <p class="lh-base mb-0">Eternis: Death Match is a fast-paced, Web3-powered fighting game where legendary figures reimagined as cyborgs battle in a dystopian arena.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
                             <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#superBullsNft">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -2614,9 +4139,207 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="tab-pane fade" id="nav-protocol" role="tabpanel" aria-labelledby="nav-protocol-tab">
+                    <div class="col-lg-12">
+                        <div class="row justify-content-center">                            
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#resmic">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class=""><img src="assets/images/ecosystem-dapps/resmic-icon.svg" alt="Resmic"></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Protocol</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Resmic</div>
+                                                <p class="lh-base mb-0">Resmic is redefining Crypto financial transactions with decentralised payment infrastructure, designed for both businesses & individuals.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#lawBlocks">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/lawblocks-icon_light.svg" class="iconD" alt="Law Blocks AI">
+                                                        <img src="assets/images/ecosystem-dapps/lawblocks-icon.svg" class="iconL" alt="Law Blocks AI">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Protocol</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Law Blocks AI</div>
+                                                <p class="lh-base mb-0">Law Blocks Creates your Smart Legal Contracts using Blockchain Technology.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#supra">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class=""><img src="assets/images/ecosystem-dapps/supra-icon.svg" alt="Supra"></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure, Protocol</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Supra</div>
+                                                <p class="lh-base mb-0">SupraOracles is supercharging oracles for a better, decentralized future. Blockchains need better, faster, accurate, and more secure off-chain data.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#swiftcourt">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/swiftcourt-icon.svg" class="" alt="Swiftcourt">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Protocol</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Swiftcourt</div>
+                                                <p class="lh-base mb-0">Swiftcourt deploys smart contracts on the XDC network to govern escrow processes and mint NFTs and utility tokens to facilitate real-time transactions.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#validProtocol">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/validProtocol-icon.svg" class="" alt="Valid Protocol">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Protocol</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Valid Protocol</div>
+                                                <p class="lh-base mb-0">Valid is a community staking protocol developed on the XDC network. It enables users to collectively stake 10,000,000 XDC tokens to establish a Standby MasterNode.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#wefi">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/wefi-icon.svg" alt="Wefi"></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Protocol, RWA</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Wefi</div>
+                                                <p class="lh-base mb-0">WeFi, short for "We Finance," stands as an Insured Omnichain leveraged trading protocol built on LayerZero.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#growLimitLess">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/growLimitLess-icon.svg" alt="GrowLimitLess">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Protocol, Trade Finance</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">GLL.ONE - GrowLimitLess</div>
+                                                <p class="lh-base mb-0">GLL is an ecosystem that helps MSMEs, creators, and small manufacturers across South East Asia access finance, technology, and global export opportunities.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#xSwap">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/xswap-icon.svg" alt="XSwap"></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Protocol</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">XSwap</div>
+                                                <p class="lh-base mb-0">XSwap protocol is an automated market maker for XRC20 tokens built on the XDC Network.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#roxonn">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/roxonn-icon.svg" alt="Roxonn">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Protocol</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Roxonn</div>
+                                                <p class="lh-base mb-0">Roxonn is a Web3 platform on the XDC Network revolutionizing global tech collaboration.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 
                 
-                <div class="tab-pane fade" id="nav-dex" role="tabpanel" aria-labelledby="nav-dex-tab">
+                <!--<div class="tab-pane fade" id="nav-dex" role="tabpanel" aria-labelledby="nav-dex-tab">
                     <div class="col-lg-12">
                         <div class="row justify-content-center">
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
@@ -2699,21 +4422,163 @@
                                     </div>
                                 </a>
                             </div>
+                        </div>
+                    </div>
+                </div>-->
+
+                <div class="tab-pane fade" id="nav-security" role="tabpanel" aria-labelledby="nav-security-tab">
+                    <div class="col-lg-12">
+                        <div class="row justify-content-center">
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#akka">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#certik">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
                                             <div class="exchangeCard-header justify-content-between align-items-center">
                                                 <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/akka-icon.svg" alt="Akka" /></div>
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/certik-icon.svg" class="iconD" alt="Certik">
+                                                        <img src="assets/images/ecosystem-dapps/certik-icon_light.svg" class="iconL" alt="Certik">
+                                                    </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DEX</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Security</div>
                                                 </div>
                                             </div>
                                             <div class="">
-                                                <div class="card-infoHead mb-2">Akka</div>
-                                                <p class="lh-base mb-0">Akka is a cutting-edge AI-powered liquidity aggregator for DeFi, offering near-zero slippage trades with the best possible rates and instant execution.</p>
+                                                <div class="card-infoHead mb-2">Certik</div>
+                                                <p class="lh-base mb-0">CertiK, the largest Web3 security service provider, uses AI and formal verification to protect and monitor smart contracts and protocols, securing the Web3 ecosystem.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#solidityscan">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<img src="assets/images/ecosystem-dapps/solidityscan-icon.svg" alt="SolidityScan">
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Security</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">SolidityScan</div>
+                                                <p class="lh-base mb-0">Best Smart Contract Scanner &amp; Auditing Tool. Secure Blockchain Projects at Low Prices, Run Automated Scans &amp; Generate Detailed Audit Reports within Seconds.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#slowmist">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/slowmist-icon.svg" class="iconD" alt="SlowMist">
+                                                        <img src="assets/images/ecosystem-dapps/slowmist-icon_light.svg" class="iconL" alt="SlowMist">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Security</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">SlowMist</div>
+                                                <p class="lh-base mb-0">SlowMist is a leading blockchain cybersecurity firm, trusted for its deep audits, threat monitoring, and response capabilities.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#defimoon">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/defimoon-icon.svg" class="iconD" alt="Defimoon">
+                                                        <img src="assets/images/ecosystem-dapps/defimoon-icon_light.svg" class="iconL" alt="Defimoon">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Security</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Defimoon</div>
+                                                <p class="lh-base mb-0">Expert development and auditing for the blockchain era.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#oxorio">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/oxorio-icon.svg" class="iconD" alt="Oxorio">
+                                                        <img src="assets/images/ecosystem-dapps/oxorio-icon_light.svg" class="iconL" alt="Oxorio">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Security</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Oxorio</div>
+                                                <p class="lh-base mb-0">Oxorio is a leading company in smart contract audit and blockchain security services with expertise in EVM, Solidity and ZK.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#skynet-certik">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class=""><img src="assets/images/ecosystem-dapps/certik-skynet-icon.svg" alt="Certik Skynet" /></div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Security</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Certik Skynet</div>
+                                                <p class="lh-base mb-0">CertiK Skynet is a comprehensive Web3 security, due diligence, and insights platform developed by CertiK, the leading blockchain security auditor.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#stronghold">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<div class="">
+                                                        <img src="assets/images/ecosystem-dapps/stronghold-icon.svg" class="iconD" alt="Stronghold Security">
+                                                        <img src="assets/images/ecosystem-dapps/stronghold-icon_light.svg" class="iconL" alt="Stronghold Security">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Security</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Stronghold Security</div>
+                                                <p class="lh-base mb-0">Stronghold Security ( strongholdsec.io ) specializes in smart-contract audits delivered through a hybrid “crowd-audit + lead auditor” model.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -2727,11 +4592,11 @@
         
         <div class="row row-flex">
             <div class="col-lg-12 mt-5">
-                    <div class="text-muted small fw-500 lh-sm">
-                <p class="fs-6 mb-2">Disclaimer for Links to External, Third-Party Web Sites</p>
-                <p class="mb-2">Links to external or third-party Web sites are provided solely for visitors' convenience. When you access an external Web site, keep in mind that xinfin.org has no control over its content. Links taken to other sites are done at your own risk, and xinfin.org accepts no liability for any linked sites or their content.</p>
-                <p class="mb-2">Any link from xinfin.org to an external Web site does not imply or mean that xinfin.org endorses or accepts any responsibility for the content or the use of such Web site. xinfin.org does not give any representation regarding the quality, safety, suitability, or reliability of any external Web sites or any of the content or materials contained in them. It is essential for users to take necessary precautions, especially to ensure appropriate safety from viruses, worms, Trojan horses, and other potentially destructive items.</p>
-                <p class="mb-0">When visiting external Web sites, users should review those Websites' privacy policies and other terms of use to learn more about what, why, and how they collect and use personally identifiable information.</p>
+                <div class="disclaimer-box text-muted small fw-500 lh-sm">
+                    <p class="fs-6 mb-2"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 29" aria-hidden="true" focusable="false" fill="none" width="27" height="27"><g style="mix-blend-mode:inherit" fill="currentColor"><path fill-rule="evenodd" clip-rule="evenodd" d="m14.434 2.414 12.021 12.021-12.02 12.02-12.021-12.02 12.02-12.02Zm0-1.414.708.707 12.02 12.02.708.708-.707.707-12.021 12.021-.707.707-.708-.707-12.02-12.02L1 14.434l.707-.707 12.02-12.02.707-.708Z"></path><path d="m26.455 14.435.354.354.354-.354-.354-.354-.354.354Zm-12.02-12.02.353-.354-.354-.354-.353.354.354.353Zm0 24.04-.354.354.354.354.353-.354-.354-.353ZM2.413 14.436l-.354-.354-.353.354.353.354.354-.354ZM15.142 1.707l-.354.354.354-.354ZM14.435 1l.353-.354-.354-.353-.353.353.354.354Zm12.728 12.728.353-.354-.353.354Zm.707.707.353.354.354-.354-.354-.354-.353.354Zm-.707.707.353.354-.353-.354ZM15.142 27.163l.353.354-.353-.354Zm-.707.707-.354.354.354.353.353-.353-.354-.354Zm-.708-.707-.353.354.353-.354Zm-12.02-12.02-.354.353.354-.354ZM1 14.434l-.354-.354-.354.354.354.354.354-.354Zm.707-.707-.354-.354.354.354Zm12.02-12.02.354.353-.354-.354ZM26.81 14.08l-12.02-12.02-.708.707 12.02 12.02.708-.707ZM14.789 26.81l12.02-12.02-.707-.707-12.021 12.02.707.707ZM2.06 14.79l12.021 12.02.707-.707-12.02-12.02-.708.707ZM14.081 2.06 2.061 14.08l.706.708L14.788 2.768l-.707-.707Zm1.414-.707-.707-.708-.707.708.707.707.707-.707Zm12.021 12.02-12.02-12.02-.708.707 12.02 12.02.708-.707Zm.707.707-.707-.707-.707.707.707.708.707-.707Zm-.707 1.415.707-.707-.707-.707-.707.707.707.707Zm-12.02 12.02 12.02-12.02-.707-.707-12.02 12.02.706.707Zm-.708.708.707-.707-.707-.708-.707.707.707.708Zm-1.414-.707.707.707.707-.707-.707-.708-.707.707ZM1.354 15.495l12.02 12.02.707-.707-12.02-12.02-.708.707Zm-.708-.707.707.707.707-.707-.707-.707-.707.707Zm.707-1.415-.707.707.707.708.707-.707-.707-.708Zm12.02-12.02-12.02 12.02.707.707 12.021-12.02-.707-.707Zm.708-.708-.707.708.707.707.707-.707-.707-.708Z"></path></g><path fill="currentColor" d="m13.889 16.745-.24-7.455h1.47l-.225 7.455h-1.005ZM15.194 20h-1.635v-1.62h1.635V20Z"></path></svg>  Disclaimer for Links to External, Third-Party Web Sites</p>
+                    <p class="mb-2">Links to external or third-party Web sites are provided solely for visitors' convenience. When you access an external Web site, keep in mind that xinfin.org has no control over its content. Links taken to other sites are done at your own risk, and xinfin.org accepts no liability for any linked sites or their content.</p>
+                    <p class="mb-2">Any link from xinfin.org to an external Web site does not imply or mean that xinfin.org endorses or accepts any responsibility for the content or the use of such Web site. xinfin.org does not give any representation regarding the quality, safety, suitability, or reliability of any external Web sites or any of the content or materials contained in them. It is essential for users to take necessary precautions, especially to ensure appropriate safety from viruses, worms, Trojan horses, and other potentially destructive items.</p>
+                    <p class="mb-0">When visiting external Web sites, users should review those Websites' privacy policies and other terms of use to learn more about what, why, and how they collect and use personally identifiable information.</p>
                 </div>
             </div>
         </div>
@@ -3985,6 +5850,290 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
     </div>
 </div>
 
+<div class="modal fade" id="certik" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/certik-icon.svg" class="iconD" alt="Certik">
+                                <img src="assets/images/ecosystem-dapps/certik-icon_light.svg" class="iconL" alt="Certik">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Certik</h2>
+                            <p>CertiK, the largest Web3 security service provider, uses AI and formal verification to protect and monitor smart contracts and protocols, securing the Web3 ecosystem.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>CertiK is the largest blockchain security auditor and provides a comprehensive suite of tools to secure the industry at scale.</p>
+                                <p>Founded in December 2017 by professors of Columbia and Yale, CertiK is the largest Web3 security service provider, based in New York. With a highly skilled technical team, CertiK stands out for its exceptional expertise in formal verification technology and AI applications, offering a wide range of products and services that span the entire lifecycle of development to support the industry, project teams, and Web3 users.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://www.certik.com/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://x.com/CertiK" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/certik" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                    </a>
+                                    <a href="https://t.me/CertiKCommunity" target="_blank">
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                    <a href="https://discord.com/invite/certik" target="_blank">
+                                        <button class="btn btn-hover btn-discord"><i class="fab fa-discord"></i> Discord</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="solidityscan" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/solidityscan-icon.svg" alt="SolidityScan">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">SolidityScan</h2>
+                            <p>Best Smart Contract Scanner & Auditing Tool. Secure Blockchain Projects at Low Prices, Run Automated Scans & Generate Detailed Audit Reports within Seconds.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>SolidityScan is a cloud-based smart contract vulnerability scanner designed to detect potential security issues and anti-patterns in smart contracts written in Solidity, a programming language for Ethereum and other compatible blockchains. It helps developers identify vulnerabilities and improve the security of their smart contracts, ultimately contributing to a more secure Web3 ecosystem.</p>
+                                <p>Essentially, SolidityScan acts as a security guard for smart contracts, helping developers build more secure and trustworthy decentralized applications.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://solidityscan.com/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://twitter.com/solidityscan" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://t.me/solidityscan" target="_blank">
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                    <a href="https://discord.com/invite/9HhV4hGENw" target="_blank">
+                                        <button class="btn btn-hover btn-discord"><i class="fab fa-discord"></i> Discord</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="slowmist" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/slowmist-icon.svg" class="iconD" alt="SlowMist">
+                                <img src="assets/images/ecosystem-dapps/slowmist-icon_light.svg" class="iconL" alt="SlowMist">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">SlowMist</h2>
+                            <p>SlowMist is a leading blockchain cybersecurity firm, trusted for its deep audits, threat monitoring, and response capabilities.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>SlowMist is a blockchain security firm established in January 2018, specializing in security audits, threat intelligence, and other security-related services for the blockchain ecosystem. They focus on enhancing the security of digital asset exchanges, crypto wallets, and smart contracts. SlowMist offers services like security audits, anti-money laundering tracing, and threat intelligence to help protect users and projects in the blockchain space.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://www.slowmist.com/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://twitter.com/SlowMist_Team" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://github.com/slowmist" target="_blank">
+                                        <button class="btn btn-hover btn-github"><i class="fab fa-github"></i> Github</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="oxorio" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/oxorio-icon.svg" class="iconD" alt="Oxorio">
+                                <img src="assets/images/ecosystem-dapps/oxorio-icon_light.svg" class="iconL" alt="Oxorio">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Oxorio</h2>
+                            <p>Oxorio is a leading company in smart contract audit and blockchain security services with expertise in EVM, Solidity and ZK.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>Oxorio is the leading blockchain security firm specializing in smart contract audits, zk-SNARK solutions, and security consulting. Oxorio offer services like smart contract security audits, vulnerability analysis, and penetration testing to help projects in the blockchain space ensure the safety and reliability of their systems.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://oxor.io/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://twitter.com/0xorio" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/oxorio/" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                    </a>
+                                    <a href="https://t.me/oxorio_security" target="_blank">
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                    <a href="https://github.com/oxor-io/public_audits" target="_blank">
+                                        <button class="btn btn-hover btn-github"><i class="fab fa-github"></i> Github</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="stronghold" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/stronghold-icon.svg" class="iconD" alt="Stronghold Security">
+                                <img src="assets/images/ecosystem-dapps/stronghold-icon_light.svg" class="iconL" alt="Stronghold Security">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Stronghold Security</h2>
+                            <p>Stronghold Security ( strongholdsec.io ) specializes in smart-contract audits delivered through a hybrid “crowd-audit + lead auditor” model.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>Stronghold Security is a modern, infrastructure-level provider in the blockchain ecosystem that combines community-driven audit contests with expert supervision. Their model balances depth, speed, cost-efficiency, and transparency, making them a strong choice for decentralized finance and smart contract developers seeking robust security reviews.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://oxor.io/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://twitter.com/stronghold_dao" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="http://t.me/stronghold_security" target="_blank">
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                    <a href="https://github.com/strongholdsec" target="_blank">
+                                        <button class="btn btn-hover btn-github"><i class="fab fa-github"></i> Github</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <div class="modal fade" id="subQuery" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -4555,7 +6704,7 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                     </div>
                     <div class="project__content">
                         <div class="short-desc">
-                            <h2 class="fw-6">Chain IDE</h2>
+                            <h2 class="fw-6">ChainIDE</h2>
                             <p>The world's first and largest cloud-based multichain IDE for developers to create smart contracts and dApps.</p>
                         </div>
                         <div class="long-desc">
@@ -4931,7 +7080,7 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
     </div>
 </div>
 
-<div class="modal fade" id="guardaVisaCard" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+<!--<div class="modal fade" id="guardaVisaCard" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
             <div class="modal-header">
@@ -4988,7 +7137,7 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
             </div>
         </div>
     </div>
-</div>
+</div>-->
 
 <div class="modal fade" id="blockdegree" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
@@ -5272,10 +7421,11 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                     <div class="project__content">
                         <div class="short-desc">
                             <h2 class="fw-6">Gas.zip</h2>
-                            <p>Gas.zip is a "Instant gas refuel bridge"—a specialized cross-chain tool built on LayerZero that allows developers and users to instantly top up native gas tokens (like ETH, BNB, AVAX) on multiple blockchains with a single deposit transaction .</p>
+                            <p>Gas.zip is a LayerZero-powered tool that lets you top up native gas tokens on multiple blockchains in a single transaction.</p>
                         </div>
                         <div class="long-desc">
                             <div class="mt-0 my-4">
+                                <p>Gas.zip is a "Instant gas refuel bridge"—a specialized cross-chain tool built on LayerZero that allows developers and users to instantly top up native gas tokens (like ETH, BNB, AVAX) on multiple blockchains with a single deposit transaction.</p>
                                 <p>Gas.zip is essentially a LayerZero-powered multi-chain gas station—allowing users and dApps to deposit once and refuel native tokens across dozens or even hundreds of chains in a single go. It's particularly valuable for multi-chain applications, wallet services, and bridging infrastructure.</p>
                             </div>
                         </div>
@@ -5309,14 +7459,439 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
     </div>
 </div>
 
+<div class="modal fade" id="futr" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/futr-icon_light.svg" class="iconD" alt="Futr">
+                                <img src="assets/images/ecosystem-dapps/futr-icon.svg" class="iconL" alt="Futr">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Futr</h2>
+                            <p>Futr is a social prediction platform where users can make friends, share insights, and win together by predicting real-world events!</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>Futr uses encrypted walletless login, on-chain records, and trusted stablecoin protocols to keep everything safe and transparent.</p>
+                                <p>We turn opinions into on-chain predictions, rewarding accuracy with stablecoins and tokens across real-world and in-game events.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://www.backtothefutr.com/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://x.com/Futrmarket" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://discord.gg/3ekUTtFMpG" target="_blank">
+                                        <button class="btn btn-hover btn-discord"><i class="fab fa-github"></i> Discord</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
+<div class="modal fade" id="tokentails" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/tokentails-icon_light.svg" class="iconD" alt="tokentails">
+                                <img src="assets/images/ecosystem-dapps/tokentails-icon.svg" class="iconL" alt="tokentails">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Token Tails</h2>
+                            <p>Token Tails is a “play-to-save” Web3 game and charity platform where every in-game cat NFT is tied to a real-world shelter cat. When you adopt or interact with a virtual cat, the money goes directly to the partner shelter—helping pay for food, medical bills and rehoming efforts.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>Token Tails is a heartwarming and modern Web3 game: pick an NFT cat, care for it in a vibrant pixel realm, complete quests, earn rewards, and truly help real-world cats in need—all while engaging in gamified blockchain experiences. It’s play‑to‑earn, play‑to‑save, and play‑to‑care—all in one.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://tokentails.com/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://x.com/tokentails" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://t.me/+ofyPNIfNX5w4ZjM8" target="_blank">
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                    <a href="https://discord.gg/4FVYmnd7Hg" target="_blank">
+                                        <button class="btn btn-hover btn-discord"><i class="fab fa-github"></i> Discord</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
+<div class="modal fade" id="popcorncine" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/popcorncine-icon.svg" alt="PopCornCine">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">PopCornCine</h2>
+                            <p>PopcornCine, the next-gen platform for discovering film trailers. Powered by AI & blockchain, it empowers audiences to vote, share, and profit from content that truly matters.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>Popcorn Cine is revolutionizing trailer discovery by turning passive viewers into active, rewarded participants. It blends AI-powered creation, animated community engagement, and tokenized incentives to reshape how audiences and creators interact around film previews.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://www.popcorncine.io/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://x.com/Popcorncine_" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://t.me/popcorncine8" target="_blank">
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
+<div class="modal fade" id="bigads-network" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/bigads-network-icon.svg" alt="BigAds Network">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">BigAds Network</h2>
+                            <p>BigAds – AI-Powered Ad Network for Games. BigAds is a next-generation ad network designed for games, leveraging the power of AI and decentralised technology to revolutionise in-game advertising.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>BigAds ensures privacy-first advertising while enabling seamless integration for developers and engaging experiences for users. By utilising user interest graphs and graph-based persona mapping, the platform delivers targeted ads without compromising user privacy.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://www.bigads.network/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://x.com/BigAds_Network" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/bigads-network/" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
+<div class="modal fade" id="bigwater-protocol" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/bigwater-protocol-icon.svg" alt="BigWater Protocol">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">BigWater Protocol</h2>
+                            <p>BigWater Protocol is the world’s first Proof of Impact Protocol that rewards sustainable actions with real-world outcomes in Clean Air and Clean Water. By leveraging DePIN (Decentralized Physical Infrastructure Networks), BigData, DeSci, and Blockchain, it empowers individuals and institutions to drive measurable environmental change.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>Through a rewards program that incentivizes individuals and organisations to act sustainably, the BigWater Protocol aims to build the world’s largest ecosystem of do-gooders and accelerate Climate Change transition. BigWater is creating a circular ecosystem where every action toward sustainability is tracked, rewarded, and transparently verifiable on-chain.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://bigwater.io/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://x.com/BigWProtocol" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/bigwaterprotocol" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                    </a>
+                                    <a href="https://t.me/bigwaterchat" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                    <a href="https://discord.gg/y6cFgezpf9" target="_blank">
+                                        <button class="btn btn-hover btn-discord"><i class="fab fa-discord"></i> Discord</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
+<div class="modal fade" id="eternis" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/eternis-icon.svg" alt="Eternis: Death Match">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Eternis: Death Match</h2>
+                            <p>Eternis: Death Match is a fast-paced, Web3-powered fighting game where legendary figures reimagined as cyborgs battle in a dystopian arena.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>Blending competitive PvP gameplay with digital ownership, Eternis is building a new kind of community-driven esports experience where players don’t just play the game, they help shape it.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://eternisgame.com/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://twitter.com/Play_Eternis" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://t.me/Sentinel_portal" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                    <a href="https://discord.gg/play-eternis" target="_blank">
+                                        <button class="btn btn-hover btn-discord"><i class="fab fa-discord"></i> Discord</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
+<div class="modal fade" id="skynet-certik" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/certik-skynet-icon.svg" alt="Certik Skynet">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Certik Skynet</h2>
+                            <p>CertiK Skynet is a comprehensive Web3 security, due diligence, and insights platform developed by CertiK, the leading blockchain security auditor.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>CertiK Skynet is a powerful, multi-tool platform delivering transparency and protection in Web3. It benefits everyone—from cautious users to serious developers—by offering comprehensive, data-driven insights and educational resources.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://skynet.certik.com/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://twitter.com/CertiKCommunity" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://t.me/CertiKCommunity" target="_blank">
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                    <a href="https://discord.com/invite/certik" target="_blank">
+                                        <button class="btn btn-hover btn-discord"><i class="fab fa-discord"></i> Discord</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
-
+<div class="modal fade" id="Oxfutbol" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img class="img-responsive" src="assets/images/ecosystem-dapps/0xfutbol-icon.svg" alt="0xFútbol" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">0xFútbol</h2>
+                            <p>0xFútbol is the first-ever Web3 hub designed exclusively for 4 Billion fútbol fans. It unites fans, gamers, and developers, providing a space to connect, play, and redefine the future of fútbol through cutting-edge experiences.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>Whether it’s engaging games or powerful tools, 0xFútbol is building the ultimate community-driven space for fútbol enthusiasts in the Web3 era.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://0xfutbol.com/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://x.com/0xfutbol" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://0xfutbol.com/discord" target="_blank">
+                                        <button class="btn btn-hover btn-discord"><i class="fab fa-discord"></i> Discord</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <div class="modal fade" id="akka" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -5328,13 +7903,13 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                     <div class="project__img text-center">
                         <div class="usecase-box-1">
                             <div class="image-container">
-                                <img class="img-responsive" src="assets/images/ecosystem-dapps/akka-icon.svg" alt="Akka" />
+                                <img class="img-responsive" src="assets/images/ecosystem-dapps/akka-icon.svg" alt="Akka Finance" />
                             </div>
                         </div>
                     </div>
                     <div class="project__content">
                         <div class="short-desc">
-                            <h2 class="fw-6">Akka</h2>
+                            <h2 class="fw-6">Akka Finance</h2>
                             <p>Akka is a cutting-edge AI-powered liquidity aggregator for DeFi, offering near-zero slippage trades with the best possible rates and instant execution.</p>
                         </div>
                         <div class="long-desc">
@@ -5539,6 +8114,60 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                                     </a>
                                     <a href="https://t.me/ThefanclubpanenkaFC" target="_blank">
                                         <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="redcurry" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/redcurry-icon.svg" alt="Redcurry">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Redcurry</h2>
+                            <p>Pioneering real-world asset (RWA) initiative—a commercial real estate–backed digital currency built to serve as a stable, inflation-resistant store of value.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>Redcurry blends blockchain innovation with real estate investment, delivering an auditable, stable digital currency that grows through rental income. It’s designed for global access, transparency, and long-term value creation—ushering in a new era where real-world assets underpin modern money.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://redcurry.co/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://www.linkedin.com/company/redcurry/" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                    </a>
+                                    <a href="https://t.me/RedcurryOfficial" target="_blank">
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                    <a href="https://discord.gg/z8kgCvxtea" target="_blank">
+                                        <button class="btn btn-hover btn-discord"><i class="fab fa-discord"></i> Discord</button>
                                     </a>
                                 </div>
                             </div>
@@ -6975,7 +9604,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                     <div class="project__content">
                         <div class="short-desc">
                             <h2 class="fw-6">Fathom</h2>
-                            <p>Deposit XDC to mint and borrow FXD. 1 FXD is soft-pegged to 1 USD. Convert FXD to other stable assets on the Fathom DEX and/or with the brokers in our ecosystem.</p>
                             <p>Fathom a Smarter Decentralized Currency, Borderless access to digital money with no discrimination for individuals and institutions.</p>
                         </div>
                         <div class="long-desc">
@@ -7008,65 +9636,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                                         <button class="btn btn-hover btn-github"><i class="fab fa-github"></i> GitHub</button>
                                     </a>
                             	</div>
-                            </div>
-                    	</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="modal fade" id="fathomDex" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
-            </div>
-            <div class="modal-body">
-                <div class="project-details-flex-row">
-                    <div class="project__img text-center">
-                        <div class="usecase-box-1">
-                            <div class="image-container">
-                                <img class="img-responsive" src="assets/images/ecosystem-dapps/fathom-icon.svg" alt="Fathom" />
-                            </div>
-                        </div>
-                    </div>
-                    <div class="project__content">
-                        <div class="short-desc">
-                            <h2 class="fw-6">Fathom</h2>
-                            <p>Fathom a Smarter Decentralized Currency, Borderless access to digital money with no discrimination for individuals and institutions.</p>
-                        </div>
-                        <div class="long-desc">
-                            <div class="mt-0 my-4">
-                                <p>Fathom Protocol is a decentralized finance ecosystem built on the XDC network. The Protocol's purpose is to increase the liquidity of the XDC network and make FXD, over-collateralized and soft-pegged Stablecoin, a central part of the XDC network DeFi ecosystem.</p>
-                                <p>Fathom's Decentralized Exchange (DEX) serves as the main trading venue and Price Oracle for XDC, bringing additional liquidity to the XDC network. In the future, tokenized real-world assets will be traded on the Fathom DEX, further increasing the liquidity of the XDC network.</p>
-                            </div>
-                        </div>
-                        <div class="project__footer">
-                            <div class="web-visit-btn">
-                                <a href="https://dapp.fathom.fi/#/swap" target="_blank" class="btn socialHead-button btn-blue">Visit Website
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                                	</svg>
-                            	</a>
-                            </div>
-                            <div class="social-media border-top mt-4">
-                                <div class="cat-head mb-2">Connect on Social Media</div>
-                                <div class="btn-block mb-3">
-                                    <a href="https://twitter.com/fathom_fi" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
-                                    </a>
-                                    <a href="https://www.linkedin.com/company/fathom-protocol/" target="_blank">
-                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
-                                    </a>
-                                    <a href="https://t.me/fathom_fi" target="_blank">
-                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
-                                    </a>
-                                    <a href="https://github.com/Into-the-Fathom" target="_blank">
-                                        <button class="btn btn-hover btn-github"><i class="fab fa-github"></i> GitHub</button>
-                                    </a>
-                                </div>
                             </div>
                     	</div>
                     </div>
@@ -7132,7 +9701,7 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
     </div>
 </div>
 
-<div class="modal fade" id="globianceDex" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+<!--<div class="modal fade" id="globianceDex" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
             <div class="modal-header">
@@ -7189,7 +9758,7 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
             </div>
         </div>
     </div>
-</div>
+</div>-->
 
 <div class="modal fade" id="iceCreamSwap" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
