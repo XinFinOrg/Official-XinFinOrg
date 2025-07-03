@@ -246,7 +246,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Trade Finance</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>Trade Finance</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -310,7 +313,11 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/wefi-icon.svg" alt="Wefi"></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Protocol, RWA</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>Protocol</div>
+                                                        <div>RWA</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -331,7 +338,10 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/fathom-icon.svg" alt="Fathom" /></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, RWA</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>RWA</div>                                                
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -555,26 +565,6 @@
                                 </a>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#impel">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/impel-icon.svg" alt="Impel" /></div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Trade Finance</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">Impel</div>
-                                                <p class="lh-base mb-0">ISO 20022 compliant messaging: Redefining the standard for cross-border payments and financial messaging system on XDC Network.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#solidityscan">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -603,7 +593,10 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/tradefinex-icon.svg" alt="TradeFinex" /></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Trade Finance</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <diV>DeFi</div>
+                                                        <div>Trade Finance</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -715,7 +708,10 @@
                                                 	<img src="assets/images/ecosystem-dapps/vitalveda-icon.svg" alt="VitalVEDA">
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">AI, Gaming</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>AI</div>
+                                                        <div>Gaming</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -1048,7 +1044,10 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/xswap-icon.svg" alt="XSwap"></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Protocol</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>Protocol</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -1108,7 +1107,10 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/globiance-icon.svg" alt="Globiance" /></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Trade Finance</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>Trade Finance</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -1457,7 +1459,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Protocol, Trade Finance</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>Protocol</div>
+                                                        <div>Trade Finance</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -1701,7 +1706,10 @@
                                                     <div class=""><img src="assets/images/ecosystem-dapps/supra-icon.svg" alt="Supra"></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure, Protocol</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>Infrastructure</div>
+                                                        <div>Protocol</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -1829,7 +1837,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Interoperability</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>Interoperability</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -1917,7 +1928,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Gaming</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>Gaming</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -1940,7 +1954,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Gaming, RWA</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>Gaming</div>
+                                                        <div>RWA</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -1962,7 +1979,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, NFTs</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>NFTs</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -2006,7 +2026,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA, NFTs</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>RWA</div>
+                                                        <div>NFTs</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -2028,7 +2051,11 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, NFTs, Gaming</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>NFTs</div>
+                                                        <div>Gaming</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -2182,7 +2209,10 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/fathom-icon.svg" alt="Fathom" /></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, RWA</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>RWA</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -2245,7 +2275,11 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/wefi-icon.svg" alt="Wefi"></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Protocol, RWA</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>Protocol</div>
+                                                        <div>RWA</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -2374,7 +2408,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Gaming, RWA</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>Gaming</div>
+                                                        <div>RWA</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -2396,7 +2433,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA, NFTs</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>RWA</div>
+                                                        <div>NFTs</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -2508,7 +2548,10 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/tradefinex-icon.svg" alt="TradeFinex" /></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Trade Finance</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>Trade Finance</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -2553,7 +2596,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Trade Finance</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>Trade Finance</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -2575,7 +2621,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Protocol, Trade Finance</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>Protocol</div>
+                                                        <div>Trade Finance</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -2595,32 +2644,15 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/globiance-icon.svg" alt="Globiance" /></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Trade Finance</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>Trade Finance</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
                                                 <div class="card-infoHead mb-2">Globiance</div>
                                                 <p class="lh-base mb-0">Globiance is focusing on a long term strategy to create a seamless FIAT - CRYPTO integration into our daily life.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#impel">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/impel-icon.svg" alt="Impel" /></div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Trade Finance</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">Impel</div>
-                                                <p class="lh-base mb-0">ISO 20022 compliant messaging: Redefining the standard for cross-border payments and financial messaging system on XDC Network.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -2642,7 +2674,10 @@
                                                 	<img src="assets/images/ecosystem-dapps/vitalveda-icon.svg" alt="VitalVEDA">
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">AI, Gaming</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>AI</div>
+                                                        <div>Gaming</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -2742,7 +2777,10 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/tradefinex-icon.svg" alt="TradeFinex" /></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Trade Finance</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>Trade Finance</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -2764,7 +2802,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Protocol</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>Protocol</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -2804,7 +2845,10 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/fathom-icon.svg" alt="Fathom" /></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, RWA</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>RWA</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -2824,7 +2868,11 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/wefi-icon.svg" alt="Wefi"></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Protocol, RWA</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>Protocol</div>
+                                                        <div>RWA</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -2846,7 +2894,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Trade Finance</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>Trade Finance</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -2866,7 +2917,10 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/globiance-icon.svg" alt="Globiance" /></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Trade Finance</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>Trade Finance</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -2886,7 +2940,10 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/xswap-icon.svg" alt="XSwap"></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Protocol</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>Protocol</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -3114,7 +3171,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Interoperability</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>Interoperability</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -3157,7 +3217,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Gaming</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>Gaming</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -3179,7 +3242,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, NFTs</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>NFTs</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -3241,7 +3307,11 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Gaming, NFTs</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>Gaming</div>
+                                                        <div>NFTs</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -3375,7 +3445,10 @@
                                                     <div class=""><img src="assets/images/ecosystem-dapps/supra-icon.svg" alt="Supra"></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure, Protocol</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>Infrastructure</div>
+                                                        <div>Protocol</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -3638,7 +3711,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Interoperability</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>Interoperability</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -3813,7 +3889,10 @@
                                                 	<img src="assets/images/ecosystem-dapps/vitalveda-icon.svg" alt="VitalVEDA">
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">AI, Gaming</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>AI</div>
+                                                        <div>Gaming</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -3881,7 +3960,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Gaming</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>Gaming</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -3904,7 +3986,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Gaming, RWA</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>Gaming</div>
+                                                        <div>RWA</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -3926,7 +4011,11 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Gaming, NFTs</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>Gaming</div>
+                                                        <div>NFTs</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -4061,7 +4150,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, NFTs</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>NFTs</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -4083,7 +4175,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA, NFTs</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>RWA</div>
+                                                        <div>NFTs</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -4105,7 +4200,11 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Gaming, NFTs</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>Gaming</div>
+                                                        <div>NFTs</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -4195,7 +4294,10 @@
                                                     <div class=""><img src="assets/images/ecosystem-dapps/supra-icon.svg" alt="Supra"></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Infrastructure, Protocol</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>Infrastructure</div>
+                                                        <div>Protocol</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -4239,7 +4341,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Protocol</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>Protocol</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -4259,7 +4364,11 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/wefi-icon.svg" alt="Wefi"></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Protocol, RWA</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>Protocol</div>
+                                                        <div>RWA</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -4281,7 +4390,10 @@
                                                     </div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Protocol, Trade Finance</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>Protocol</div>
+                                                        <div>Trade Finance</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -4301,7 +4413,10 @@
                                                 	<div class=""><img src="assets/images/ecosystem-dapps/xswap-icon.svg" alt="XSwap"></div>
                                                 </div>
                                                 <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi, Protocol</div>
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>DeFi</div>
+                                                        <div>Protocol</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="">
@@ -6234,64 +6349,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                                     </a>
                                     <a href="https://www.linkedin.com/in/tradefinex/" target="_blank">
                                         <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
-                                    </a>
-                                </div>
-                            </div>
-                    	</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="modal fade" id="impel" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
-            </div>
-            <div class="modal-body">
-                <div class="project-details-flex-row">
-                    <div class="project__img text-center">
-                        <div class="usecase-box-1">
-                            <div class="image-container">
-                                <img class="img-responsive" src="assets/images/ecosystem-dapps/impel-icon.svg" alt="Impel" />
-                            </div>
-                        </div>
-                    </div>
-                    <div class="project__content">
-                        <div class="short-desc">
-                            <h2 class="fw-6">Impel</h2>
-                            <p>ISO 20022 compliant messaging: Redefining the standard for cross-border payments and financial messaging system on XDC Network.</p>
-                        </div>
-                        <div class="long-desc">
-                            <div class="mt-0 my-4">
-                                <p>Impel is a fintech innovator that uses blockchain technology to deliver financial messaging, payments, and a bridge to the R3 Corda platform to future-facing banks and fintech. It provides a cost-effective alternative to legacy financial messaging solutions like SWIFT and SEPA. It uses a decentralized, enterprise-ready hybrid blockchain to securely and quickly send financial messages and payments and enable instant settlement.</p>
-                            </div>
-                        </div>
-                        <div class="project__footer">
-                            <div class="web-visit-btn">
-                                <a href="https://www.impel.global/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                                	</svg>
-                            	</a>
-                            </div>
-                            <div class="social-media border-top mt-4">
-                                <div class="cat-head mb-2">Connect on Social Media</div>
-                                <div class="btn-block mb-3">
-                                    <a href="https://twitter.com/Impel_official" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
-                                    </a>
-                                    <a href="https://www.linkedin.com/company/impel-official/" target="_blank">
-                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
-                                    </a>
-                                    <a href="https://t.me/impel_official" target="_blank">
-                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
-                                    </a>
-                                    <a href="https://gitlab.com/Impel-official" target="_blank">
-                                        <button class="btn btn-hover btn-gitlab"><i class="fab fa-gitlab"></i> GitLab</button>
                                     </a>
                                 </div>
                             </div>
