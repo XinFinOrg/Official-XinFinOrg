@@ -90,13 +90,13 @@
 <section class="px-80 bg-lightgray">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-lg-12 mb-4">
+            <div class="col-lg-7 mb-4">
                 <h3 class="title-m text-center">Why XDPoS 2.0?</h3>
                 <div class="subtitle subtitle-s text-center">XDPoS 2.0 offers several compelling reasons for its adoption and use within the XDC Network and beyond.</div>
             </div>
         </div>
         <div class="row justify-content-center mt-4 mb-5">
-            <div class="col-lg-6 col-md-6 mt-2 mb-2">
+            <div class="col-lg-5 col-md-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info">
                         <div class="card-infoHead mb-2">Swift Finalization</div>
@@ -104,7 +104,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-6 col-md-6 mt-2 mb-2">
+            <div class="col-lg-5 col-md-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info">
                         <div class="card-infoHead mb-2">Unparalleled Security</div>
@@ -112,7 +112,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-6 col-md-6 mt-2 mb-2">
+            <div class="col-lg-5 col-md-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info">
                         <div class="card-infoHead mb-2">Transparent Accountability</div>
@@ -120,7 +120,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-6 col-md-6 mt-2 mb-2">
+            <div class="col-lg-5 col-md-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info">
                         <div class="card-infoHead mb-2">Incentivized Collaboration</div>

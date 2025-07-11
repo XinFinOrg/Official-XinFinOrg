@@ -66,8 +66,8 @@
                         </p>
                         <p class="fs-6 mb-0">For more information, visit <a href="https://www.plugandplaytechcenter.com/">https://www.plugandplaytechcenter.com/</a></p>
                         <div class="dateBox mt-3">
-                            <p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 18 March to June 2025</p>
-                            <p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 15 November 2024</p>
+                            <p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 07 July 2025</p>
+                            <p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 04 August 2025</p>
                         </div>
 
                         <a href="https://www.plugandplaytechcenter.com/innovation-services/our-programs/xdc-rwa-accelerator" target="_blank" class="btn socialHead-button internalLink mt-auto">
@@ -109,35 +109,7 @@
                         </a>
                     </div>
                 </div>
-            </div>
-
-            <div class="col-lg-6 col-md-6 mb-4">
-                <div class="h-100 card p-4 bg-lightgray br-20 border-0">
-                    <div class="card-info">
-                        <div class="mb-4">
-                            <img src="assets/images/inside-page/incubator/plugandplayapac.svg" class="incLogo bg-light75 iconD" />
-                            <img src="assets/images/inside-page/incubator/plugandplayapac_light.svg" class="incLogo bg-light75 iconL" />
-                        </div>
-                        <div class="card-infoHead mb-3"><span class="fw-600">XDC Payments Program</span></div>
-                        <p class="fs-6 mb-0">
-                            The XDC Payments Program will identify and collaborate with the best payments-based Web 3.0 solutions that can enrich the XDC Network. Startups will have the chance to leverage XDC Network's resources and support
-                            and shape the future of payments on a secure, scalable blockchain.
-                        </p>
-                        <div class="dateBox mt-3">
-                            <p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 4 April 2025</p>
-                            <p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 14 March 2025</p>
-                        </div>
-
-                        <!--<h2 class="comingTag">Coming Soon!</h2>-->
-                        <a href="https://www.plugandplayapac.com/xdc-payments-program" target="_blank" class="btn socialHead-button internalLink mt-auto">
-                            Apply Now
-                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                            </svg>
-                        </a>
-                    </div>
-                </div>
-            </div>
+            </div>            
 
             <div class="col-lg-6 col-md-6 mb-4">
                 <div class="h-100 card p-4 bg-lightgray br-20 border-0">
@@ -151,11 +123,11 @@
                         <p class="fs-6 mb-0">Open for Token Launch & Relaunch</p>
                         <p class="fs-6 mb-0">Themes: RWA, DeFi, Gaming, Payments</p>
                         <div class="dateBox mt-3">
-                            <p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 2 Feb 2025</p>
-                            <p class="aDate fs-6 mb-0"><span class="fw-600">Application Starts:</span> 1 Dec 2025</p>
+                            <p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 2 February 2025</p>
+                            <p class="aDate fs-6 mb-0"><span class="fw-600">Application Starts:</span> 1 December 2025</p>
                         </div>
 
-                        <h2 class="comingTag"><i>*Season 1 XDC 0XCamp Cohort 1 - Completed in Oct 2024</i></h2>
+                        <h2 class="comingTag"><i>*Season 1 XDC 0XCamp Cohort 1 - Completed in October 2024</i></h2>
                         <a href="https://foundershiphq.com/xdc-0xcamp" target="_blank" class="btn socialHead-button internalLink mt-auto">
                             Apply Now
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -178,7 +150,7 @@
                         <p class="fs-6 mb-0">Themes: RWA, DeFi, Gaming, Payments</p>
                         <div class="dateBox mt-3">
                             <p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> Rolling Basis</p>
-                            <p class="aDate fs-6 mb-0"><span class="fw-600">Application Starts:</span> 1 Dec 2025</p>
+                            <p class="aDate fs-6 mb-0"><span class="fw-600">Application Starts:</span> 1 December 2025</p>
                         </div>
                         <a href="https://0xpivot.com/Startup-Application" target="_blank" class="btn socialHead-button internalLink mt-auto">
                             Apply Now
@@ -202,7 +174,7 @@
                             XDC has partnered with RAKDAO, world's first free zone dedicated to Digital Assets and Virtual Assets to offer an exclusive token launch accelerator program focussed on Gaming, DEPIN and Web3 Infrastructure.
                         </p>
                         <div class="dateBox mt-3">
-                            <p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> Feb 2025</p>
+                            <p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> February 2025</p>
                             <p class="aDate fs-6 mb-0"><span class="fw-600">Application Starts:</span> Stay Tuned!</p>
                         </div>
                         <h2 class="comingTag">Coming Soon!</h2>
@@ -248,6 +220,33 @@
             </div>
         </div>
         <div class="row justify-content-center">
+            <div class="col-lg-6 col-md-6 mb-4">
+                <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                    <div class="card-info">
+                        <div class="mb-4">
+                            <img src="assets/images/inside-page/incubator/plugandplayapac.svg" class="incLogo bg-light75 iconD" />
+                            <img src="assets/images/inside-page/incubator/plugandplayapac_light.svg" class="incLogo bg-light75 iconL" />
+                        </div>
+                        <div class="card-infoHead mb-3"><span class="fw-600">XDC Payments Program</span></div>
+                        <p class="fs-6 mb-0">
+                            The XDC Payments Program will identify and collaborate with the best payments-based Web 3.0 solutions that can enrich the XDC Network. Startups will have the chance to leverage XDC Network's resources and support
+                            and shape the future of payments on a secure, scalable blockchain.
+                        </p>
+                        <div class="dateBox mt-3">
+                            <p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 4 April 2025</p>
+                            <p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 14 March 2025</p>
+                        </div>
+
+                        <h2 class="closedTag">Applications Closed!</h2>
+                        <!--<a href="https://www.plugandplayapac.com/xdc-payments-program" target="_blank" class="btn socialHead-button internalLink mt-auto">
+                            Apply Now
+                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                            </svg>
+                        </a>-->
+                    </div>
+                </div>
+            </div>
             <div class="col-lg-6 col-md-6 mb-4">
                 <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                     <div class="card-info">

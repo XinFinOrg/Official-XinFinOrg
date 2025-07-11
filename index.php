@@ -698,8 +698,8 @@
 <!-- Utility Starts -->
 <section class="px-80 integrations">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-8 offset-lg-2 mb-0">
+        <div class="row justify-content-center">
+            <div class="col-lg-7 col-md-8 mb-0">
                 <h3 class="title-m text-center">XDC Utility</h3>
                 <div class="subtitle subtitle-s text-center">Utility tokens from the XDC Network are made to improve efficiency, security, and transparency of transactions across several industries.</div>
                 <div class="btn-block mt-4">

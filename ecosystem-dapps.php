@@ -109,7 +109,7 @@
                     <button class="nav-link active" id="nav-all-tab" data-bs-toggle="tab" data-bs-target="#nav-all" type="button" role="tab" aria-controls="nav-all" aria-selected="false">All dApps <sup>(85)</sup></button>
                     <button class="nav-link" id="nav-ai-tab" data-bs-toggle="tab" data-bs-target="#nav-ai" type="button" role="tab" aria-controls="nav-ai" aria-selected="true">AI <sup>(1)</sup></button>
                     <button class="nav-link" id="nav-alliances-tab" data-bs-toggle="tab" data-bs-target="#nav-alliances" type="button" role="tab" aria-controls="nav-alliances" aria-selected="true">Alliances <sup>(2)</sup></button>
-                    <button class="nav-link" id="nav-defi-tab" data-bs-toggle="tab" data-bs-target="#nav-defi" type="button" role="tab" aria-controls="nav-defi" aria-selected="true">DeFi <sup>(22)</sup></button>
+                    <button class="nav-link" id="nav-defi-tab" data-bs-toggle="tab" data-bs-target="#nav-defi" type="button" role="tab" aria-controls="nav-defi" aria-selected="true">DeFi <sup>(21)</sup></button>
                     <button class="nav-link" id="nav-gaming-tab" data-bs-toggle="tab" data-bs-target="#nav-gaming" type="button" role="tab" aria-controls="nav-gaming" aria-selected="false">Gaming <sup>(12)</sup></button>
                     <button class="nav-link" id="nav-infrastructure-tab" data-bs-toggle="tab" data-bs-target="#nav-infrastructure" type="button" role="tab" aria-controls="nav-infrastructure" aria-selected="false">Infrastructure <sup>(16)</sup></button>
                     <button class="nav-link" id="nav-interoperability-tab" data-bs-toggle="tab" data-bs-target="#nav-interoperability" type="button" role="tab" aria-controls="nav-interoperability" aria-selected="false">Interoperability <sup>(2)</sup></button>
@@ -3034,28 +3034,6 @@
                                     </div>
                                 </a>
                             </div>-->
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#circularityFinance">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                	<div class="">
-                                                        <img src="assets/images/ecosystem-dapps/circularityFinance-icon.svg" class="" alt="Circularity Finance">
-                                                    </div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">Circularity Finance</div>
-                                                <p class="lh-base mb-0">Circularity Finance is a pioneering project merging decentralized finance (DeFi) and sustainable development, utilizing blockchain technology.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
                             <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#plugin">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
