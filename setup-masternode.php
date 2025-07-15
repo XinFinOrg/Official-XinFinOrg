@@ -193,7 +193,7 @@ include 'inc/header.php';
                 <div class="card h-100 overflow-hidden pt-4 pb-4 px-3 bg-light75 br-20 border-0">
                     <div class="card-info text-center w-100">
                         <p class="fw-500 fs-6">Masternodes (Core Validators)</p>
-                        <div class="fw-600 lh-1 fs-2 mb-3 counter-api"><span id="mn-masternodes">108</span></div>
+                        <div class="fw-600 lh-1 fs-2 mb-3 counter-api counter"><span id="mn-masternodes">108</span></div>
                         <p class="fw-500 fs-7 mb-0"><span class="stats-highlight-text fw-600">ROLE:</span> Block validation, consensus</p>
                         <p class="fw-500 fs-7 mb-0"><span class="stats-highlight-text fw-600">REWARDS:</span> 6000 XDC per epoch</p>
                     </div>
@@ -203,7 +203,7 @@ include 'inc/header.php';
                 <div class="card h-100 overflow-hidden pt-4 pb-4 px-3 bg-light75 br-20 border-0">
                     <div class="card-info text-center w-100">
                         <p class="fw-500 fs-6">Protector Nodes</p>
-                        <div class="fw-600 lh-1 fs-2 mb-3"><span class="counter-api" id="mn-protectornodes">216</span> <span class="fs-6">(2x Core Validators)</span></div>
+                        <div class="fw-600 lh-1 fs-2 mb-3"><span class="counter-api counter" id="mn-protectornodes">216</span> <span class="fs-6">(2x Core Validators)</span></div>
                         <p class="fw-500 fs-7 mb-0"><span class="stats-highlight-text fw-600">ROLE:</span> Redundancy, fault tolerance</p>
                         <p class="fw-500 fs-7 mb-0"><span class="stats-highlight-text fw-600">REWARDS:</span> Rv ÷ number of Protectors</p>
                     </div>
@@ -231,7 +231,7 @@ include 'inc/header.php';
                 <div class="card h-100 overflow-hidden pt-4 pb-4 px-3 bg-light75 br-20 border-0">
                     <div class="card-info text-center w-100">
                         <p class="fw-500 fs-6">Total XDC Locked</p>
-                        <div class="fw-600 lh-1 fs-2 mb-3"><span class="counter-api" id="tvl">2650.80</span> <span id="tvltext">M</span></div>
+                        <div class="fw-600 lh-1 fs-2 mb-3"><span class="counter-api counter" id="tvl">2660.80</span> <span id="tvltext">M</span></div>
                         <p class="fw-500 fs-7 mb-0">XDC</p>
                     </div>
                 </div>
