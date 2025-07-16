@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 56.7 56.7">
+  <!-- Generator: Adobe Illustrator 29.6.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 9)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #12d576;
+      }
+
+      .st0, .st1 {
+        fill-rule: evenodd;
+      }
+
+      .st1 {
+        fill: #2d5c8f;
+      }
+    </style>
+  </defs>
+  <g id="SecureDApp">
+    <g id="Artboard_1">
+      <path class="st1" d="M.7,16.8l27.6,16.2v16L.7,32.8v-16h0ZM56,39.9l-27.6-16.2V7.7l27.6,16.2v16Z"/>
+      <path class="st0" d="M.7,32.9l27.6-16.2V.7L.7,16.9v16ZM56,23.8l-27.6,16.2v16l27.6-16.2v-16h0Z"/>
+    </g>
+  </g>
+</svg>
