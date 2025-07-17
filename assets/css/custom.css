@@ -2383,7 +2383,7 @@ body.modal-open {
 	/*.project__footer .social-media .btn-block {flex-direction: column!important;}
 	.project__footer .social-media .btn-block button {width: 100%;}*/
 
-    .project__footer .social-media .btn-block {display: flex;width: 100%;justify-content: center;max-width: 610px;margin: auto;flex-flow: row wrap;}
+    .project__footer .social-media .btn-block {display: flex;width: 100%;max-width: 610px;margin: auto;flex-flow: row wrap;}
     .project__footer .social-media .btn-block a {width: 48%;}
     .project__footer .social-media .btn-block button {width: 100%;}
 }
