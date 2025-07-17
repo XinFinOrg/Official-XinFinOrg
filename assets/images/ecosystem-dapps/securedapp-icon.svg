@@ -16,10 +16,10 @@
       }
     </style>
   </defs>
-  <g id="SecureDApp">
-    <g id="Artboard_1">
-      <path class="st1" d="M.7,16.8l27.6,16.2v16L.7,32.8v-16h0ZM56,39.9l-27.6-16.2V7.7l27.6,16.2v16Z"/>
-      <path class="st0" d="M.7,32.9l27.6-16.2V.7L.7,16.9v16ZM56,23.8l-27.6,16.2v16l27.6-16.2v-16h0Z"/>
-    </g>
+  <g id="Group">
+    <polygon class="st1" points=".7 16.8 28.3 33 28.3 49 .7 32.8 .7 16.8 .7 16.8"/>
+    <polygon class="st1" points="56 39.9 28.4 23.7 28.4 7.7 56 23.9 56 39.9"/>
+    <polygon class="st0" points=".7 32.9 28.3 16.7 28.3 .7 .7 16.9 .7 32.9"/>
+    <polygon class="st0" points="56 23.8 28.4 40 28.4 56 56 39.8 56 23.8 56 23.8"/>
   </g>
 </svg>
