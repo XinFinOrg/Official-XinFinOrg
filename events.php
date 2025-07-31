@@ -47,6 +47,7 @@
                                 <div class="events-card_content">
                                     <h4 class="card-infoHead">Blockchain.RIO | 2025</h4>
                                     <div class="events-card_details-wrapper card-info">
+                                        <p class="events-boothNo mb-0">Booth No. A32, A33, & A34</p>
                                         <div class="events-card_details">
                                             <div class="icon-1x1-small">
                                                 <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -94,6 +95,7 @@
                                 <div class="events-card_content">
                                     <h4 class="card-infoHead">ETHVIETNAM 2025</h4>
                                     <div class="events-card_details-wrapper card-info">
+                                        
                                         <div class="events-card_details">
                                             <div class="icon-1x1-small">
                                                 <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -141,6 +143,7 @@
                                 <div class="events-card_content">
                                     <h4 class="card-infoHead">WebX2025</h4>
                                     <div class="events-card_details-wrapper card-info">
+                                        <p class="events-boothNo mb-0">Booth No. G-18</p>
                                         <div class="events-card_details">
                                             <div class="icon-1x1-small">
                                                 <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -229,6 +232,7 @@
                                 <div class="events-card_content">
                                     <h4 class="card-infoHead">Sibos Frankfurt</h4>
                                     <div class="events-card_details-wrapper card-info">
+                                        <p class="events-boothNo mb-0">Booth No. DISS27</p>
                                         <div class="events-card_details">
                                             <div class="icon-1x1-small">
                                                 <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -276,6 +280,7 @@
                                 <div class="events-card_content">
                                     <h4 class="card-infoHead">TOKEN2049 SINGAPORE</h4>
                                     <div class="events-card_details-wrapper card-info">
+                                        <p class="events-boothNo mb-0">Booth No. MB5 3</p>
                                         <div class="events-card_details">
                                             <div class="icon-1x1-small">
                                                 <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
