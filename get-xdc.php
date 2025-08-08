@@ -143,7 +143,7 @@
                                         </div>
                                         <div class="d-flex gap-3">
                                             <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
-                                            <div class="pairs fw-500"><a href="https://coinone.co.kr/exchange/trade/xdc/krw" target="_blank">USDT</a></div>
+                                            <div class="pairs fw-500"><a href="https://coinone.co.kr/exchange/trade/xdc/krw" target="_blank">KRW</a></div>
                                         </div>
                                     </div>
                                 </div>
