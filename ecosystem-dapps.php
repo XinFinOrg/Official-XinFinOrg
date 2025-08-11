@@ -106,10 +106,10 @@
         <div class="row">
             <nav>
                 <div class="nav nav-pills justify-content-center mb-4" id="nav-pills" role="tablist">
-                    <button class="nav-link active" id="nav-all-tab" data-bs-toggle="tab" data-bs-target="#nav-all" type="button" role="tab" aria-controls="nav-all" aria-selected="false">All dApps <sup>(87)</sup></button>
+                    <button class="nav-link active" id="nav-all-tab" data-bs-toggle="tab" data-bs-target="#nav-all" type="button" role="tab" aria-controls="nav-all" aria-selected="false">All dApps <sup>(86)</sup></button>
                     <button class="nav-link" id="nav-ai-tab" data-bs-toggle="tab" data-bs-target="#nav-ai" type="button" role="tab" aria-controls="nav-ai" aria-selected="true">AI <sup>(2)</sup></button>
                     <button class="nav-link" id="nav-alliances-tab" data-bs-toggle="tab" data-bs-target="#nav-alliances" type="button" role="tab" aria-controls="nav-alliances" aria-selected="true">Alliances <sup>(2)</sup></button>
-                    <button class="nav-link" id="nav-defi-tab" data-bs-toggle="tab" data-bs-target="#nav-defi" type="button" role="tab" aria-controls="nav-defi" aria-selected="true">DeFi <sup>(21)</sup></button>
+                    <button class="nav-link" id="nav-defi-tab" data-bs-toggle="tab" data-bs-target="#nav-defi" type="button" role="tab" aria-controls="nav-defi" aria-selected="true">DeFi <sup>(20)</sup></button>
                     <button class="nav-link" id="nav-gaming-tab" data-bs-toggle="tab" data-bs-target="#nav-gaming" type="button" role="tab" aria-controls="nav-gaming" aria-selected="false">Gaming <sup>(11)</sup></button>
                     <button class="nav-link" id="nav-infrastructure-tab" data-bs-toggle="tab" data-bs-target="#nav-infrastructure" type="button" role="tab" aria-controls="nav-infrastructure" aria-selected="false">Infrastructure <sup>(16)</sup></button>
                     <button class="nav-link" id="nav-interoperability-tab" data-bs-toggle="tab" data-bs-target="#nav-interoperability" type="button" role="tab" aria-controls="nav-interoperability" aria-selected="false">Interoperability <sup>(2)</sup></button>
@@ -117,53 +117,9 @@
                     <button class="nav-link" id="nav-protocol-tab" data-bs-toggle="tab" data-bs-target="#nav-protocol" type="button" role="tab" aria-controls="nav-protocol" aria-selected="false">Protocol <sup>(9)</sup></button>
                     <button class="nav-link" id="nav-rwa-tab" data-bs-toggle="tab" data-bs-target="#nav-rwa" type="button" role="tab" aria-controls="nav-rwa" aria-selected="false">RWA <sup>(16)</sup></button>
                     <button class="nav-link" id="nav-security-tab" data-bs-toggle="tab" data-bs-target="#nav-security" type="button" role="tab" aria-controls="nav-security" aria-selected="false">Security <sup>(8)</sup></button>
-                    <button class="nav-link" id="nav-tradefinance-tab" data-bs-toggle="tab" data-bs-target="#nav-tradefinance" type="button" role="tab" aria-controls="nav-tradefinance" aria-selected="true">Trade Finance <sup>(7)</sup></button>
-                    
-                
-                    <!--<button class="nav-link" id="nav-dex-tab" data-bs-toggle="tab" data-bs-target="#nav-dex" type="button" role="tab" aria-controls="nav-dex" aria-selected="false">DEX</button>-->
-                    
+                    <button class="nav-link" id="nav-tradefinance-tab" data-bs-toggle="tab" data-bs-target="#nav-tradefinance" type="button" role="tab" aria-controls="nav-tradefinance" aria-selected="true">Trade Finance <sup>(5)</sup></button>
                 </div>
             </nav>
-
-
-
-
-
-
-
-
-
-
-
-<!--<form action="#" method="post" id="nav-tabContent">
-  
-  <div class="dropdown-form">
-    <select name="list" onchange="showHide(this)">
-      <option value="RWA">RWA</option>
-      <option value="AI">AI</option>
-      <option value="DeFi">DeFi</option>
-    </select>
-  </div>
-  
-  <div class="dropdown-options">
-    <div class="show-hide RWA" id="RWA">
-      RWA list
-    </div>
-    <div class="show-hide" id="AI">
-      AI list
-    </div>
-    <div class="show-hide" id="DeFi">
-      DeFi list
-    </div>
-  </div>
-
-</form>-->
-
-
-
-
-
-
 
             <div class="tab-content" id="nav-tabContent">
                 <div class="tab-pane fade active show" id="nav-all" role="tabpanel" aria-labelledby="nav-all-tab">
@@ -1118,7 +1074,7 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#globiance">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -1140,7 +1096,7 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#blockdegree">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -2680,7 +2636,7 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#globiance">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -2702,7 +2658,7 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
                 </div>
@@ -2976,7 +2932,7 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#globiance">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -2998,7 +2954,7 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#xSwap">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -10079,7 +10035,7 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
     </div>
 </div>
 
-<div class="modal fade" id="globiance" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+<!--<div class="modal fade" id="globiance" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
             <div class="modal-header">
@@ -10135,7 +10091,7 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
             </div>
         </div>
     </div>
-</div>
+</div>-->
 
 
 <?php include('inc/footer.php') ?>
