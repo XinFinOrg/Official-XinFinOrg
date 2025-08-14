@@ -222,7 +222,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                         <div class="h-100 card bg-transparent border-0">
                             <div class="">
-                                <img src="assets/images/brand-assets/booth-walldrop_1.jpg" class="img-fluid br-20" alt="XDC Network Booth Walldrop" />
+                                <img src="assets/images/brand-assets/booth-walldrop.jpg" class="img-fluid br-20" alt="XDC Network Booth Walldrop" />
                             </div>
                             <div class="events-card_content-wrapper px-0 pe-4">
                                 <div class="events-card_content">
@@ -241,7 +241,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                         <div class="h-100 card bg-transparent border-0">
                             <div class="">
-                                <img src="assets/images/brand-assets/booth-walldrop_2.jpg" class="img-fluid br-20" alt="XDC Network Booth Walldrop" />
+                                <img src="assets/images/brand-assets/booth-walldrop_1.jpg" class="img-fluid br-20" alt="XDC Network Booth Walldrop" />
                             </div>
                             <div class="events-card_content-wrapper px-0 pe-4">
                                 <div class="events-card_content">
@@ -260,13 +260,13 @@
                     <div class="col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                         <div class="h-100 card bg-transparent border-0">
                             <div class="">
-                                <img src="assets/images/brand-assets/counter-table_1.jpg" class="img-fluid br-20" alt="XDC Network Booth Counter Table" />
+                                <img src="assets/images/brand-assets/booth-walldrop_2.jpg" class="img-fluid br-20" alt="XDC Network Booth Walldrop" />
                             </div>
                             <div class="events-card_content-wrapper px-0 pe-4">
                                 <div class="events-card_content">
-                                    <h4 class="card-infoHead">Booth Counter Table - 1</h4>
+                                    <h4 class="card-infoHead">Booth Walldrop - Additional Data</h4>
                                     <div class="events-card_details-wrapper card-info">
-                                        <p class="fs-6 mb-0">This is the main XDC Network Booth Counter Table.</p>
+                                        <p class="fs-6 mb-0">This is the main XDC Network Booth Walldrop with Ecosystem, Fintech, and Accelerator program.</p>
                                     </div>
                                     <ul class="listStyle">
                                         <li><span class="fw-600">File Formats:</span> .ai Editable file</li>
@@ -279,11 +279,11 @@
                     <div class="col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                         <div class="h-100 card bg-transparent border-0">
                             <div class="">
-                                <img src="assets/images/brand-assets/counter-table_2.jpg" class="img-fluid br-20" alt="XDC Network Booth Counter Table" />
+                                <img src="assets/images/brand-assets/counter-table_1.jpg" class="img-fluid br-20" alt="XDC Network Booth Counter Table" />
                             </div>
                             <div class="events-card_content-wrapper px-0 pe-4">
                                 <div class="events-card_content">
-                                    <h4 class="card-infoHead">Booth Counter Table - 2</h4>
+                                    <h4 class="card-infoHead">Booth Counter Table</h4>
                                     <div class="events-card_details-wrapper card-info">
                                         <p class="fs-6 mb-0">This is the main XDC Network Booth Counter Table.</p>
                                     </div>
