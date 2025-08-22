@@ -222,7 +222,7 @@
                             <div class="h-100 card bg-transparent br-20 border-0">
                                 <img src="assets/images/team/core-team/chen-shanlong.jpg" class="img-fluid team-img br-15" alt="Chen Shanlong" />
                                 <h3 class="team-infoHead mt-3 mb-2">Chen Shanlong</h3>
-                                <p class="text-muted lh-sm mb-0">Marketing and Partnerships Lead, South East Asia</p>
+                                <p class="text-muted lh-sm mb-0">Head of Asia Ex-Japan</p>
                             </div>
                         </a>
                     </div>
@@ -722,7 +722,7 @@
                     <div class="team__content">
                         <div class="short-desc">
                             <h2 class="fw-6">Chen Shanlong</h2>
-                            <p class="designation fs-6">Marketing & Partnerships Lead</p>
+                            <p class="designation fs-6">Head of Asia Ex-Japan</p>
                         </div>
                         <div class="long-desc">
                             <div class="mt-0 my-4">
