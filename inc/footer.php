@@ -84,7 +84,7 @@
                     <div class="footer-widget">
                         <div class="colHeader">Social Media</div>
                         <div class="socialicons">
-                        	<a href="https://x.com/XDC_Network_" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+                        	<a href="https://x.com/XDCNetwork" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
                             <a href="https://www.linkedin.com/company/xdcnetwork/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                             <a href="https://www.facebook.com/XDCNetworkBlockchain" target="_blank"><i class="fab fa-facebook-f"></i></a>
                             <a href="https://t.me/XDC_Network_Updates" target="_blank"><i class="fas fa-paper-plane"></i></a><br/>
@@ -178,7 +178,7 @@
                 <div class="col-md-5 col-sm-12">
                     <div class="copyright pull-right">
                     	<div class="socialicons">
-                        	<a href="https://x.com/XDC_Network_" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+                        	<a href="https://x.com/XDCNetwork" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
                             <a href="https://www.linkedin.com/company/xdcnetwork/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                             <a href="https://www.facebook.com/XinFinHybridBlockchain/" target="_blank"><i class="fab fa-facebook-f"></i></a>
                             <a href="https://t.me/xinfin" target="_blank"><i class="fas fa-paper-plane"></i></a>
