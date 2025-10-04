@@ -1568,7 +1568,7 @@
                                             </div>
                                         </div>
                                         <div class="d-flex justify-content-between">
-                                            <div class="pairs fw-500 ml-6"><a href="https://swap.fathom.fi/#/swap" target="_blank">Swap Now</a></div>
+                                            <div class="pairs fw-500 ml-6"><a href="https://dapp.fathom.fi/#/swap" target="_blank">Swap Now</a></div>
                                         </div>
                                     </div>
                                 </div>
