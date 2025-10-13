@@ -106,17 +106,17 @@
         <div class="row">
             <nav>
                 <div class="nav nav-pills justify-content-center mb-4" id="nav-pills" role="tablist">
-                    <button class="nav-link active" id="nav-all-tab" data-bs-toggle="tab" data-bs-target="#nav-all" type="button" role="tab" aria-controls="nav-all" aria-selected="false">All dApps <sup>(87)</sup></button>
+                    <button class="nav-link active" id="nav-all-tab" data-bs-toggle="tab" data-bs-target="#nav-all" type="button" role="tab" aria-controls="nav-all" aria-selected="false">All dApps <sup>(89)</sup></button>
                     <button class="nav-link" id="nav-ai-tab" data-bs-toggle="tab" data-bs-target="#nav-ai" type="button" role="tab" aria-controls="nav-ai" aria-selected="true">AI <sup>(2)</sup></button>
                     <button class="nav-link" id="nav-alliances-tab" data-bs-toggle="tab" data-bs-target="#nav-alliances" type="button" role="tab" aria-controls="nav-alliances" aria-selected="true">Alliances <sup>(2)</sup></button>
                     <button class="nav-link" id="nav-defi-tab" data-bs-toggle="tab" data-bs-target="#nav-defi" type="button" role="tab" aria-controls="nav-defi" aria-selected="true">DeFi <sup>(20)</sup></button>
                     <button class="nav-link" id="nav-gaming-tab" data-bs-toggle="tab" data-bs-target="#nav-gaming" type="button" role="tab" aria-controls="nav-gaming" aria-selected="false">Gaming <sup>(11)</sup></button>
-                    <button class="nav-link" id="nav-infrastructure-tab" data-bs-toggle="tab" data-bs-target="#nav-infrastructure" type="button" role="tab" aria-controls="nav-infrastructure" aria-selected="false">Infrastructure <sup>(17)</sup></button>
+                    <button class="nav-link" id="nav-infrastructure-tab" data-bs-toggle="tab" data-bs-target="#nav-infrastructure" type="button" role="tab" aria-controls="nav-infrastructure" aria-selected="false">Infrastructure <sup>(18)</sup></button>
                     <button class="nav-link" id="nav-interoperability-tab" data-bs-toggle="tab" data-bs-target="#nav-interoperability" type="button" role="tab" aria-controls="nav-interoperability" aria-selected="false">Interoperability <sup>(2)</sup></button>
                     <button class="nav-link" id="nav-nfts-tab" data-bs-toggle="tab" data-bs-target="#nav-nfts" type="button" role="tab" aria-controls="nav-nfts" aria-selected="false">NFTs <sup>(8)</sup></button>
                     <button class="nav-link" id="nav-protocol-tab" data-bs-toggle="tab" data-bs-target="#nav-protocol" type="button" role="tab" aria-controls="nav-protocol" aria-selected="false">Protocol <sup>(9)</sup></button>
-                    <button class="nav-link" id="nav-rwa-tab" data-bs-toggle="tab" data-bs-target="#nav-rwa" type="button" role="tab" aria-controls="nav-rwa" aria-selected="false">RWA <sup>(16)</sup></button>
-                    <button class="nav-link" id="nav-security-tab" data-bs-toggle="tab" data-bs-target="#nav-security" type="button" role="tab" aria-controls="nav-security" aria-selected="false">Security <sup>(8)</sup></button>
+                    <button class="nav-link" id="nav-rwa-tab" data-bs-toggle="tab" data-bs-target="#nav-rwa" type="button" role="tab" aria-controls="nav-rwa" aria-selected="false">RWA <sup>(17)</sup></button>
+                    <button class="nav-link" id="nav-security-tab" data-bs-toggle="tab" data-bs-target="#nav-security" type="button" role="tab" aria-controls="nav-security" aria-selected="false">Security <sup>(9)</sup></button>
                     <button class="nav-link" id="nav-tradefinance-tab" data-bs-toggle="tab" data-bs-target="#nav-tradefinance" type="button" role="tab" aria-controls="nav-tradefinance" aria-selected="true">Trade Finance <sup>(5)</sup></button>
                 </div>
             </nav>
@@ -2042,6 +2042,55 @@
                                 </a>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#orochi-network">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/orochi-network-icon.svg" alt="Orochi Network">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>RWA</div>
+                                                        <div>Infrastructure</div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Orochi Network</div>
+                                                <p class="lh-base mb-0">Orochi Network positions as the first Verifiable Data Infrastructure, emphasizing the use of ZKPs for secure and verifiable data processing.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#oxTeam">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/0xteam-icon.svg" alt="0xTeam">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>Security</div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">0xTeam</div>
+                                                <p class="lh-base mb-0">0xTeam is a Web3 security firm that offers security and audit services mainly for blockchain, smart contracts, and decentralized applications (dApps).</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#eternis">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -2469,6 +2518,31 @@
                                 </a>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#orochi-network">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/orochi-network-icon.svg" alt="Orochi Network">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>RWA</div>
+                                                        <div>Infrastructure</div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Orochi Network</div>
+                                                <p class="lh-base mb-0">Orochi Network positions as the first Verifiable Data Infrastructure, emphasizing the use of ZKPs for secure and verifiable data processing.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#kinesis">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -2508,7 +2582,7 @@
                                     </div>
                                 </a>
                             </div>
-                                                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#airnetz">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -3715,6 +3789,31 @@
                                 </a>
                             </div>
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#orochi-network">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/orochi-network-icon.svg" alt="Orochi Network">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>RWA</div>
+                                                        <div>Infrastructure</div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Orochi Network</div>
+                                                <p class="lh-base mb-0">Orochi Network positions as the first Verifiable Data Infrastructure, emphasizing the use of ZKPs for secure and verifiable data processing.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#yodaplusMultisigWallet">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                         <div class="exchangeCard-block card-info d-flex flex-column gap-3">
@@ -4735,6 +4834,30 @@
                                             <div class="">
                                                 <div class="card-infoHead mb-2">Stronghold Security</div>
                                                 <p class="lh-base mb-0">Stronghold Security ( strongholdsec.io ) specializes in smart-contract audits delivered through a hybrid “crowd-audit + lead auditor” model.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#oxTeam">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                    <div class="">
+                                                        <img src="assets/images/ecosystem-dapps/0xteam-icon.svg" alt="0xTeam">
+                                                    </div>
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
+                                                        <div>Security</div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">0xTeam</div>
+                                                <p class="lh-base mb-0">0xTeam is a Web3 security firm that offers security and audit services mainly for blockchain, smart contracts, and decentralized applications (dApps).</p>
                                             </div>
                                         </div>
                                     </div>
@@ -7991,6 +8114,132 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
         </div>
     </div>
 </div>
+
+
+
+
+
+
+
+
+<div class="modal fade" id="orochi-network" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/orochi-network-icon.svg" alt="Orochi Network">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Orochi Network</h2>
+                            <p>Orochi Network positions as the first Verifiable Data Infrastructure, emphasizing the use of ZKPs for secure and verifiable data processing.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>Orochi Network's system leverages the power of Zero-Knowledge Proofs (ZKPs) to create a high-performance Verifiable Data Pipeline for AI/ML models, zkApps (Zero-Knowledge Applications), dApps (Decentralized Applications) and smart contract platforms.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://orochi.network/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://x.com/OrochiNetwork" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://t.me/OrochiNetwork" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                    <a href="https://github.com/orochi-network" target="_blank">
+                                        <button class="btn btn-hover btn-github"><i class="fab fa-github"></i> Github</button>
+                                    </a>
+                                    <a href="https://discord.com/invite/sTU4TUh8H3" target="_blank">
+                                        <button class="btn btn-hover btn-discord"><i class="fab fa-discord"></i> Discord</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="oxTeam" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/0xteam-icon.svg" alt="0xTeam">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">0xTeam</h2>
+                            <p>0xTeam is a Web3 security firm that offers security and audit services mainly for blockchain, smart contracts, and decentralized applications (dApps).</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>0xTeam presents itself as a trusted security partner for blockchain projects, emphasizing the importance of trust and safety in decentralized ecosystems. Its range of services includes manual and automated smart contract audits, penetration testing, and continuous security monitoring. In addition to audit services, 0xTeam is developing its own products such as Leon AI Agent, an AI-powered vulnerability detection tool for smart contracts, and a bug bounty platform designed to crowdsource vulnerability identification across Web3 projects.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://www.0xteam.space/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://x.com/0xTeamSpace" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/0xteamspace/" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                    </a>
+                                    <a href="https://github.com/orgs/0xTeamAudits/repositories" target="_blank">
+                                        <button class="btn btn-hover btn-github"><i class="fab fa-github"></i> Github</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
 
 <div class="modal fade" id="bigwater-protocol" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">

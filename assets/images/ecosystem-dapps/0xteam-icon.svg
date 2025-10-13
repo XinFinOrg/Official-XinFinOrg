@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_0x" data-name="0x" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56.7 56.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c6ff00;
+      }
+
+      .cls-2 {
+        fill: #353535;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="M48.7,56.7H8c-4.4,0-8-3.6-8-8V8C0,3.6,3.6,0,8,0h40.7C53.1,0,56.7,3.6,56.7,8v40.7c0,4.4-3.6,8-8,8Z"/>
+  <path class="cls-1" d="M51,13.2l-14.5,15.9-14.5-15.9v30.2h29V13.2ZM20.1,43.5H5.7v-14.4h14.4v14.4ZM20.1,27.6H5.7v-14.4h14.4v14.4Z"/>
+</svg>
