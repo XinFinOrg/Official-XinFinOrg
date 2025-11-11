@@ -74,8 +74,8 @@
         <header class="autohide header-wrapper sticky-header">
             <div class="news-bar">
                 <p>
-                    Join XDC Network at <b>Commodity Trade Finance and Digital Innovation</b> : 11 November, 2025.
-                    <a href="https://itfa.org/itfa-larc-commodity-trade-finance-and-digital-innovation-brazil/" target="_blank" class="news-bar-button">
+                    Join XDC Network at <b>Lugano Finance Forum</b> : 18 November, 2025.
+                    <a href="https://finlantern.com/financeforum/" target="_blank" class="news-bar-button">
                         JOIN US
                         <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
