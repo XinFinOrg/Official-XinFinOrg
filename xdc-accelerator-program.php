@@ -11,8 +11,13 @@
         <div class="row justify-content-center">
             <div class="col-lg-10 col-md-12 hero-content">
                 <h1 class="title-m text-center mb-0">XDC Accelerator Program</h1>
-                <h2 class="subtitle subtitle-s fw-500 text-center mb-0">The XDC Accelerator Program supports blockchain startups on XDC Network, providing mentorship, resources, and networking. It guides participants through product development, marketing, fundraising, and community building to foster innovation and blockchain adoption.</h2>
-                <h2 class="subtitle subtitle-m text-gradient fw-500 text-center mb-0">Projects that believe in their vision and wish to gain community support can create a proposal on XDCDAO for funding and go through a decentralized procedure to access the funds.</h2>
+                <h2 class="subtitle subtitle-s fw-500 text-center mb-0">
+                    The XDC Accelerator Program supports blockchain startups on XDC Network, providing mentorship, resources, and networking. It guides participants through product development, marketing, fundraising, and community building
+                    to foster innovation and blockchain adoption.
+                </h2>
+                <h2 class="subtitle subtitle-m text-gradient fw-500 text-center mb-0">
+                    Projects that believe in their vision and wish to gain community support can create a proposal on XDCDAO for funding and go through a decentralized procedure to access the funds.
+                </h2>
                 <div class="btn-block">
                     <a href="https://www.xdcdao.org/" target="_blank">
                         <button class="btn-blue">Visit XDCDAO</button>
@@ -37,7 +42,7 @@
     <div class="container">
         <div class="row justify-content-center mt-4 mb-4">
             <div class="col-lg-10">
-                <h2 class="title-s text-center mb-3">Ongoing Programs</h2>
+                <h1 class="title-s text-center mb-3">Ongoing Programs</h1>
             </div>
         </div>
         <div class="row justify-content-center">
@@ -211,7 +216,7 @@
 
     	<div class="row justify-content-center pt-5 mt-5 mb-4">
             <div class="col-lg-10">
-                <h2 class="title-s text-center mb-3">Completed Programs</h2>
+                <h1 class="title-s text-center mb-3">Completed Programs</h1>
             </div>
         </div>
         <div class="row justify-content-center">
@@ -755,14 +760,7 @@
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6">
-                                <div>
-                                    <!--<img src="assets/images/inside-page/quick-tools-guide/xdcScan.png" alt="XDCScan" class="img-fluid br-20" />-->
-                                    <picture>
-                                        <source srcset="assets/images/inside-page/quick-tools-guide/xdcScan.avif" type="image/avif" alt="XDCScan" class="img-fluid br-20" />
-                                        <source srcset="assets/images/inside-page/quick-tools-guide/xdcScan.webp" type="image/webp" alt="XDCScan" class="img-fluid br-20" />
-                                        <img src="assets/images/inside-page/quick-tools-guide/xdcScan.png" alt="XDCScan" class="img-fluid br-20">
-                                    </picture>
-                                 </div>
+                                <div><img src="assets/images/inside-page/quick-tools-guide/xdcScan.png" alt="XDCScan" class="img-fluid br-20" /></div>
                             </div>
                         </div>
                     </div>
@@ -783,14 +781,7 @@
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6">
-                                <div>
-                                    <!--<img src="assets/images/inside-page/quick-tools-guide/xdcPay.png" alt="XDCPay" class="img-fluid br-20" />-->
-                                    <picture>
-                                        <source srcset="assets/images/inside-page/quick-tools-guide/xdcPay.avif" type="image/avif" alt="XDCPay" class="img-fluid br-20" />
-                                        <source srcset="assets/images/inside-page/quick-tools-guide/xdcPay.webp" type="image/webp" alt="XDCPay" class="img-fluid br-20" />
-                                        <img src="assets/images/inside-page/quick-tools-guide/xdcPay.png" alt="XDCPay" class="img-fluid br-20">
-                                    </picture>
-                                </div>
+                                <div><img src="assets/images/inside-page/quick-tools-guide/xdcPay.png" alt="XDCPay" class="img-fluid br-20" /></div>
                             </div>
                         </div>
                     </div>
@@ -810,14 +801,7 @@
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6">
-                                <div>
-                                    <!--<img src="assets/images/inside-page/quick-tools-guide/xdcsRemix.png" alt="XDC Network Remix" class="img-fluid br-20" />-->
-                                    <picture>
-                                        <source srcset="assets/images/inside-page/quick-tools-guide/xdcsRemix.avif" type="image/avif" alt="XDC Network Remix" class="img-fluid br-20" />
-                                        <source srcset="assets/images/inside-page/quick-tools-guide/xdcsRemix.webp" type="image/webp" alt="XDC Network Remix" class="img-fluid br-20" />
-                                        <img src="assets/images/inside-page/quick-tools-guide/xdcsRemix.png" alt="XDC Network Remix" class="img-fluid br-20">
-                                    </picture>
-                                </div>
+                                <div><img src="assets/images/inside-page/quick-tools-guide/xdcsRemix.png" alt="XDC Network Remix" class="img-fluid br-20" /></div>
                             </div>
                         </div>
                     </div>
@@ -838,14 +822,7 @@
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6">
-                                <div>
-                                    <!--<img src="assets/images/inside-page/quick-tools-guide/xdcFaucet.png" alt="XDC Faucet" class="img-fluid br-20" />-->
-                                    <picture>
-                                        <source srcset="assets/images/inside-page/quick-tools-guide/xdcFaucet.avif" type="image/avif" alt="XDC Faucet" class="img-fluid br-20" />
-                                        <source srcset="assets/images/inside-page/quick-tools-guide/xdcFaucet.webp" type="image/webp" alt="XDC Faucet" class="img-fluid br-20" />
-                                        <img src="assets/images/inside-page/quick-tools-guide/xdcFaucet.png" alt="XDC Faucet" class="img-fluid br-20">
-                                    </picture>
-                                </div>
+                                <div><img src="assets/images/inside-page/quick-tools-guide/xdcFaucet.png" alt="XDC Faucet" class="img-fluid br-20" /></div>
                             </div>
                         </div>
                     </div>
@@ -944,15 +921,8 @@
                 </div>
             </div>
             <div class="col-xl-6 col-lg-6">
-            	<div>
-                    <!--<img src="assets/images/inside-page/quick-tools-guide/xdcIndexVinter.png" alt="XDC Index — Vinter" class="img-fluid br-20" />-->
-                    <picture>
-                        <source srcset="assets/images/inside-page/quick-tools-guide/xdcIndexVinter.avif" type="image/avif" alt="XDC Index — Vinter" class="img-fluid br-20" />
-                        <source srcset="assets/images/inside-page/quick-tools-guide/xdcIndexVinter.webp" type="image/webp" alt="XDC Index — Vinter" class="img-fluid br-20" />
-                        <img src="assets/images/inside-page/quick-tools-guide/xdcIndexVinter.png" alt="XDC Index — Vinter" class="img-fluid br-20">
-                    </picture>
-                </div>
-        	</div>
+                <div><img src="assets/images/inside-page/quick-tools-guide/xdcIndexVinter.png" alt="XDC Index — Vinter" class="img-fluid br-20" /></div>
+            </div>
         </div>
     </div>
 </section>

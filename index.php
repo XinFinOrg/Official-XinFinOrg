@@ -1,4 +1,3 @@
-
 <?php
    $title = "Decentralized Smart Contracts Platform";
    $desc = "The Decentralized and Open Source Smart Contract Platform, Driven by Community for Seamless Execution of Enterprise-Friendly Use Cases such as Trade Finance and Payment.";
@@ -11,6 +10,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 offset-lg-1 hero-content">
+                <!--<h1 class="title-m text-center mb-0">XDC, XDC Network, XinFin, XinFin Network, ISO20022, Secure smart contract, Interoperability, Corda bridge, Hybrid Blockchain, Blockchain, Layer1 blockchain, EVM, smartcontract</h1>-->
                 <h1 class="title-m text-center mb-0">Decentralized Smart Contracts Platform</h1>
                 <h2 class="subtitle subtitle-m fw-500 text-center mb-0">
                     The Decentralized and Open Source Secure Smart Contract Platform, Driven by Community for Seamless Execution of Enterprise-Friendly Use Cases such as Trade Finance and Payment.
@@ -188,6 +188,184 @@
             <use xlink:href="#gentle-wave" x="50" y="4" fill="#1c2531" />
         </g>
     </svg>
+
+    <!--<div class="col-lg-12">
+                    <div class="TechnicalAnalysis__table_container">
+                        <div class="TechnicalAnalysis__table-mobile__wrapper">
+                            <div class="table-responsive">
+                                <table class="table table-mobile">
+                                  <thead>
+                                    <tr>
+                                      <th scope="col">&nbsp;</th>
+                                      <th scope="col" class="width-150">Transactions Per Second</th>
+                                      <th scope="col" class="width-150">Average Fee</th>
+                                      <th scope="col" class="width-150">Transaction Confirmation</th>
+                                      <th scope="col" class="width-150">Smart Contract Support</th>
+                                      <th scope="col" class="width-150">Energy Consumption</th>
+                                    </tr>
+                                  </thead>
+                                  <tbody>
+                                    <tr class="row-bg">
+                                      <th class="width-75"><img src="assets/images/icons/xdc.svg" /> XDC</th>
+                                      <td>2000+ TPS</td>
+                                      <td>$0.00001 USD</td>
+                                      <td>2 SEC. (w/finality)</td>
+                                      <td>YES</td>
+                                      <td>0.0000074 TWh</td>									
+                                    </tr>
+                                    <tr>
+                                      <th><img src="assets/images/icons/btc.svg" /> BTC</th>
+                                      <td>3-6 TPS</td>
+                                      <td>$15 USD</td>
+                                      <td>10-60 MIN.</td>
+                                      <td>NO</td>
+                                      <td>71.12 TWh</td>
+                                    </tr>
+                                    <tr>
+                                      <th><img src="assets/images/icons/eth.svg" /> ETH</th>
+                                      <td>12-16 TPS</td>
+                                      <td>$10 USD</td>
+                                      <td>10-20 SEC.</td>
+                                      <td>YES</td>
+                                      <td>20.61 TWh</td>
+                                    </tr>
+                                  </tbody>
+                                  <tfoot>
+                                    <tr>
+                                      <th scope="col">&nbsp;</th>
+                                      <th scope="col" class="width-150">&nbsp;</th>
+                                      <th scope="col" class="width-150">&nbsp;</th>
+                                      <th scope="col" class="width-150">&nbsp;</th>
+                                      <th scope="col" class="width-150">&nbsp;</th>
+                                      <th scope="col" class="width-150">&nbsp;</th>
+                                    </tr>
+                                  </tfoot>
+                                </table>
+                              </div>
+                        </div>
+                        <div class="table TechnicalAnalysis__table TechnicalAnalysis__table-desktop__wrapper">
+                            <div class="Row table__head head row" style="justify-content: flex-start; --xsGridGap: 16; --preSGridGap: 16; --sGridGap: 16; --mGridGap: 16; --lGridGap: 16; --xlGridGap: 16; --xxlGridGap: 40;">
+                                <div class="Col Col headCol FirstCol" style="--xsGridSize: 3.45; --preSGridSize: 3.45; --sGridSize: 3.45; --mGridSize: 3.45; --lGridSize: 3.1; --xlGridSize: 3.1; --xxlGridSize: 3.1;">
+                                    <span class="head__title"></span>
+                                    <p class="head__subtitle-s">aa</p>
+                                </div>
+                                <div class="Col Col headCol mark" style="--xsGridSize: 2.8; --preSGridSize: 2.8; --sGridSize: 2.8; --mGridSize: 2.8; --lGridSize: 2.8; --xlGridSize: 2.8; --xxlGridSize: 2.8;">
+                                    <span class="head__title">
+                                        <img src="assets/images/icons/xdc.svg" />
+                                        <div class="Headline Headline--l-2 Headline--t-default semi coinName"><span>XinFin - </span>XDC</div>
+                                    </span>
+                                    <p class="head__subtitle-s">aa</p>
+                              </div>
+                                <div class="Col Col headCol" style="--xsGridSize: 2.9; --preSGridSize: 2.9; --sGridSize: 2.9; --mGridSize: 2.9; --lGridSize: 3.1; --xlGridSize: 3.1; --xxlGridSize: 3.1;">
+                                    <span class="head__title">
+                                        <img src="assets/images/icons/btc.svg" />
+                                        <div class="Headline Headline--l-2 Headline--t-default semi coinName"><span>Bitcoin - </span>BTC</div>
+                                    </span>
+                                    <p class="head__subtitle-s">aa</p>
+                                </div>
+                                <div class="Col Col headCol" style="--xsGridSize: 2.7; --preSGridSize: 2.7; --sGridSize: 2.7; --mGridSize: 2.7; --lGridSize: 2.7; --xlGridSize: 2.7; --xxlGridSize: 2.7;">
+                                    <span class="head__title">
+                                        <img src="assets/images/icons/eth.svg" />
+                                        <div class="Headline Headline--l-2 Headline--t-default semi coinName"><span>Ethereum - </span>ETH</div>
+                                    </span>
+                                    <p class="head__subtitle-s">aa</p>
+                                </div>
+                            </div>
+                            <div class="table__body body">
+                                <div class="Row" style="justify-content: flex-start; --xsGridGap: 16; --preSGridGap: 16; --sGridGap: 16; --mGridGap: 16; --lGridGap: 16; --xlGridGap: 16; --xxlGridGap: 40;">
+                                    <div class="Col TechnicalAnalysis__centered__vertical first" style="--xsGridSize: 3.45; --preSGridSize: 3.45; --sGridSize: 3.45; --mGridSize: 3.45; --lGridSize: 3.1; --xlGridSize: 3.1; --xxlGridSize: 3.1;">
+                                        <div class="Text Text--m-level-1 Text--m-type-default Text--m-scheme-light">
+                                            <div class="Headline Headline--l-2 Headline--t-default semi">
+                                                Transactions Per Second                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="Col TechnicalAnalysis__centered__vertical TechnicalAnalysis__centered__horizontal text-center justify-content-center mark" style="--xsGridSize: 2.8; --preSGridSize: 2.8; --sGridSize: 2.8; --mGridSize: 2.8; --lGridSize: 2.8; --xlGridSize: 2.8; --xxlGridSize: 2.8;">
+                                        <div class="Text Text--m-level-1 Text--m-type-default Text--m-scheme-light">2000+ TPS</div>
+                                    </div>
+                                    <div class="Col TechnicalAnalysis__centered__vertical TechnicalAnalysis__centered__horizontal text-center justify-content-center" style="--xsGridSize: 2.9; --preSGridSize: 2.9; --sGridSize: 2.9; --mGridSize: 2.9; --lGridSize: 3.1; --xlGridSize: 3.1; --xxlGridSize: 3.1;">
+                                        <div class="Text Text--m-level-1 Text--m-type-default Text--m-scheme-light">3-6 TPS</div>
+                                    </div>
+                                    <div class="Col TechnicalAnalysis__centered__vertical TechnicalAnalysis__centered__horizontal text-center justify-content-center" style="--xsGridSize: 2.7; --preSGridSize: 2.7; --sGridSize: 2.7; --mGridSize: 2.7; --lGridSize: 2.7; --xlGridSize: 2.7; --xxlGridSize: 2.7;">
+                                        <div class="Text Text--m-level-1 Text--m-type-default Text--m-scheme-light">12-16 TPS</div>
+                                    </div>
+                                </div>
+                                <div class="Row" style="justify-content: flex-start; --xsGridGap: 16; --preSGridGap: 16; --sGridGap: 16; --mGridGap: 16; --lGridGap: 16; --xlGridGap: 16; --xxlGridGap: 40;">
+                                    <div class="Col TechnicalAnalysis__centered__vertical first" style="--xsGridSize: 3.45; --preSGridSize: 3.45; --sGridSize: 3.45; --mGridSize: 3.45; --lGridSize: 3.1; --xlGridSize: 3.1; --xxlGridSize: 3.1;">
+                                        <div class="Text Text--m-level-1 Text--m-type-default Text--m-scheme-light">
+                                            <div class="Headline Headline--l-2 Headline--t-default semi">
+                                                Average Fee
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="Col TechnicalAnalysis__centered__vertical TechnicalAnalysis__centered__horizontal text-center justify-content-center mark" style="--xsGridSize: 2.8; --preSGridSize: 2.8; --sGridSize: 2.8; --mGridSize: 2.8; --lGridSize: 2.8; --xlGridSize: 2.8; --xxlGridSize: 2.8;">
+                                        <div class="Text Text--m-level-1 Text--m-type-default Text--m-scheme-light">$0.00001 USD</div>
+                                    </div>
+                                    <div class="Col TechnicalAnalysis__centered__vertical TechnicalAnalysis__centered__horizontal text-center justify-content-center" style="--xsGridSize: 2.9; --preSGridSize: 2.9; --sGridSize: 2.9; --mGridSize: 2.9; --lGridSize: 3.1; --xlGridSize: 3.1; --xxlGridSize: 3.1;">
+                                        <div class="Text Text--m-level-1 Text--m-type-default Text--m-scheme-light">$15 USD</div>
+                                    </div>
+                                    <div class="Col TechnicalAnalysis__centered__vertical TechnicalAnalysis__centered__horizontal text-center justify-content-center" style="--xsGridSize: 2.7; --preSGridSize: 2.7; --sGridSize: 2.7; --mGridSize: 2.7; --lGridSize: 2.7; --xlGridSize: 2.7; --xxlGridSize: 2.7;">
+                                        <div class="Text Text--m-level-1 Text--m-type-default Text--m-scheme-light">$10 USD</div>
+                                    </div>
+                                </div>
+                                <div class="Row" style="justify-content: flex-start; --xsGridGap: 16; --preSGridGap: 16; --sGridGap: 16; --mGridGap: 16; --lGridGap: 16; --xlGridGap: 16; --xxlGridGap: 40;">
+                                    <div class="Col TechnicalAnalysis__centered__vertical first" style="--xsGridSize: 3.45; --preSGridSize: 3.45; --sGridSize: 3.45; --mGridSize: 3.45; --lGridSize: 3.1; --xlGridSize: 3.1; --xxlGridSize: 3.1;">
+                                        <div class="Text Text--m-level-1 Text--m-type-default Text--m-scheme-light">
+                                            <div class="Headline Headline--l-2 Headline--t-default semi">
+                                                Transaction Confirmation
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="Col TechnicalAnalysis__centered__vertical TechnicalAnalysis__centered__horizontal text-center justify-content-center mark" style="--xsGridSize: 2.8; --preSGridSize: 2.8; --sGridSize: 2.8; --mGridSize: 2.8; --lGridSize: 2.8; --xlGridSize: 2.8; --xxlGridSize: 2.8;">
+                                        <div class="Text Text--m-level-1 Text--m-type-default Text--m-scheme-light">2 SEC. (w/finality)</div>
+                                    </div>
+                                    <div class="Col TechnicalAnalysis__centered__vertical TechnicalAnalysis__centered__horizontal text-center justify-content-center" style="--xsGridSize: 2.9; --preSGridSize: 2.9; --sGridSize: 2.9; --mGridSize: 2.9; --lGridSize: 3.1; --xlGridSize: 3.1; --xxlGridSize: 3.1;">
+                                        <div class="Text Text--m-level-1 Text--m-type-default Text--m-scheme-light">10-60 MIN.</div>
+                                    </div>
+                                    <div class="Col TechnicalAnalysis__centered__vertical TechnicalAnalysis__centered__horizontal text-center justify-content-center" style="--xsGridSize: 2.7; --preSGridSize: 2.7; --sGridSize: 2.7; --mGridSize: 2.7; --lGridSize: 2.7; --xlGridSize: 2.7; --xxlGridSize: 2.7;">
+                                        <div class="Text Text--m-level-1 Text--m-type-default Text--m-scheme-light">10-20 SEC.</div>
+                                    </div>
+                                </div>
+                                <div class="Row" style="justify-content: flex-start; --xsGridGap: 16; --preSGridGap: 16; --sGridGap: 16; --mGridGap: 16; --lGridGap: 16; --xlGridGap: 16; --xxlGridGap: 40;">
+                                    <div class="Col TechnicalAnalysis__centered__vertical first" style="--xsGridSize: 3.45; --preSGridSize: 3.45; --sGridSize: 3.45; --mGridSize: 3.45; --lGridSize: 3.1; --xlGridSize: 3.1; --xxlGridSize: 3.1;">
+                                        <div class="Text Text--m-level-1 Text--m-type-default Text--m-scheme-light">
+                                            <div class="Headline Headline--l-2 Headline--t-default semi">
+                                                Smart Contract Support
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="Col TechnicalAnalysis__centered__vertical TechnicalAnalysis__centered__horizontal text-center justify-content-center mark" style="--xsGridSize: 2.8; --preSGridSize: 2.8; --sGridSize: 2.8; --mGridSize: 2.8; --lGridSize: 2.8; --xlGridSize: 2.8; --xxlGridSize: 2.8;">
+                                        <div class="Text Text--m-level-1 Text--m-type-default Text--m-scheme-light">YES</div>
+                                    </div>
+                                    <div class="Col TechnicalAnalysis__centered__vertical TechnicalAnalysis__centered__horizontal text-center justify-content-center" style="--xsGridSize: 2.9; --preSGridSize: 2.9; --sGridSize: 2.9; --mGridSize: 2.9; --lGridSize: 3.1; --xlGridSize: 3.1; --xxlGridSize: 3.1;">
+                                        <div class="Text Text--m-level-1 Text--m-type-default Text--m-scheme-light">NO</div>
+                                    </div>
+                                    <div class="Col TechnicalAnalysis__centered__vertical TechnicalAnalysis__centered__horizontal text-center justify-content-center" style="--xsGridSize: 2.7; --preSGridSize: 2.7; --sGridSize: 2.7; --mGridSize: 2.7; --lGridSize: 2.7; --xlGridSize: 2.7; --xxlGridSize: 2.7;">
+                                        <div class="Text Text--m-level-1 Text--m-type-default Text--m-scheme-light">YES</div>
+                                    </div>
+                                </div>
+                                <div class="Row" style="justify-content: flex-start; --xsGridGap: 16; --preSGridGap: 16; --sGridGap: 16; --mGridGap: 16; --lGridGap: 16; --xlGridGap: 16; --xxlGridGap: 40;">
+                                    <div class="Col TechnicalAnalysis__centered__vertical first" style="--xsGridSize: 3.45; --preSGridSize: 3.45; --sGridSize: 3.45; --mGridSize: 3.45; --lGridSize: 3.1; --xlGridSize: 3.1; --xxlGridSize: 3.1;">
+                                        <div class="Text Text--m-level-1 Text--m-type-default Text--m-scheme-light">
+                                            <div class="Headline Headline--l-2 Headline--t-default semi">
+                                                Energy Consumption
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="Col TechnicalAnalysis__centered__vertical TechnicalAnalysis__centered__horizontal text-center justify-content-center mark mark-last" style="--xsGridSize: 2.8; --preSGridSize: 2.8; --sGridSize: 2.8; --mGridSize: 2.8; --lGridSize: 2.8; --xlGridSize: 2.8; --xxlGridSize: 2.8;">
+                                        <div class="Text Text--m-level-1 Text--m-type-default Text--m-scheme-light">0.0000074 TWh</div>
+                                    </div>
+                                    <div class="Col TechnicalAnalysis__centered__vertical TechnicalAnalysis__centered__horizontal text-center justify-content-center" style="--xsGridSize: 2.9; --preSGridSize: 2.9; --sGridSize: 2.9; --mGridSize: 2.9; --lGridSize: 3.1; --xlGridSize: 3.1; --xxlGridSize: 3.1;">
+                                        <div class="Text Text--m-level-1 Text--m-type-default Text--m-scheme-light">71.12 TWh</div>
+                                    </div>
+                                    <div class="Col TechnicalAnalysis__centered__vertical TechnicalAnalysis__centered__horizontal text-center justify-content-center" style="--xsGridSize: 2.7; --preSGridSize: 2.7; --sGridSize: 2.7; --mGridSize: 2.7; --lGridSize: 2.7; --xlGridSize: 2.7; --xxlGridSize: 2.7;">
+                                        <div class="Text Text--m-level-1 Text--m-type-default Text--m-scheme-light">20.61 TWh</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>-->
 </section>
 <!-- Blockchain Comparison Ends -->
 
@@ -230,6 +408,38 @@
                                 </a>
                             </div>
                         </div>
+                        <!--<div class="col-lg-4 col-md-4 mt-5 mb-2 px-3">
+                            <div class="card-info h-100 d-flex flex-column">
+                                <img src="assets/images/icons/connect-light.png" class="img-fluid iconL" />
+                                <img src="assets/images/icons/connect.png" class="img-fluid iconD" />
+                                <div class="card-infoHead mt-3 mb-3">XDC Connect</div>
+                                <p class="fs-6 mb-0">
+                                    Seamless Wallet Connection for Secure XDC Asset Handling. Simplify and secure your wallet connections with XDC Connect. Effortlessly send transactions and handle your XDC assets with confidence.
+                                </p>
+                                <a href="https://github.com/XinFinOrg/xdc-connect" target="_blank" class="btn socialHead-button internalLink mt-auto">
+                                    Connect Now
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 mt-5 mb-2 px-3">
+                            <div class="card-info h-100 d-flex flex-column">
+                                <img src="assets/images/icons/iso-light.png" class="img-fluid iconL" alt="ISO 20022 Compliant" />
+                                <img src="assets/images/icons/iso.png" class="img-fluid iconD" alt="ISO 20022 Compliant" />
+                                <div class="card-infoHead mt-3 mb-3">ISO 20022 Compliant</div>
+                                <p class="fs-6 mb-0">
+                                    XDC Protocol enables ISO 20022 compatible messaging for private and hybrid state, making it the language of core banking systems, ERP systems, SWIFT systems, and many more, with higher interoperability with legacy systems.
+                                </p>
+                                <a href="https://xinfin.org/ISO20022/" target="_blank" class="btn socialHead-button internalLink mt-auto">
+                                    Connect Now
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>-->
                         <div class="col-lg-4 col-md-4 mt-5 mb-2 px-3">
                             <div class="card-info h-100 d-flex flex-column">
                                 <img src="assets/images/icons/xdcpayments-light.png" class="img-fluid iconL" alt="ISO 20022 Compliant" />
@@ -278,7 +488,74 @@
                 <h3 class="title-m text-center">Collaborating for Success</h3>
                 <div class="subtitle subtitle-s text-center">Our Partnerships, Associations, and Alliances</div>
             </div>
-        </div>        
+        </div>
+        <!--<div class="row mt-5">
+                <div class="col-lg-12">
+                    <div class="row items-5 justify-content-center">
+                        <div class="partners-item col mt-2 mb-2">
+                            <div class="card pt-4 pb-4 px-3 bg-olb br-20 border-0">
+                                <img src="assets/images/partnerships/copper-logoL.png" class="logoL" />
+                                <img src="assets/images/partnerships/copper-logoD.png" class="logoD" />
+                            </div>
+                        </div>
+                        <div class="partners-item col mt-2 mb-2">
+                            <div class="card pt-4 pb-4 px-3 bg-olb br-20 border-0">
+                                <img src="assets/images/partnerships/r3-logoL.png" class="logoL" />
+                                <img src="assets/images/partnerships/r3-logoD.png" class="logoD" />
+                            </div>
+                        </div>
+                        <div class="partners-item col mt-2 mb-2">
+                            <div class="card pt-4 pb-4 px-3 bg-olb br-20 border-0">
+                                <img src="assets/images/partnerships/sotatek-logoL.png" class="logoL" />
+                                <img src="assets/images/partnerships/sotatek-logoD.png" class="logoD" />
+                            </div>
+                        </div>
+                        <div class="partners-item col mt-2 mb-2">
+                            <div class="card pt-4 pb-4 px-3 bg-olb br-20 border-0">
+                                <img src="assets/images/partnerships/adgm-logoL.png" class="logoL" />
+                                <img src="assets/images/partnerships/adgm-logoD.png" class="logoD" />
+                            </div>
+                        </div>
+                        <div class="partners-item col mt-2 mb-2">
+                            <div class="card pt-4 pb-4 px-3 bg-olb br-20 border-0">
+                                <img src="assets/images/partnerships/circle-logoL.png" class="logoL" />
+                                <img src="assets/images/partnerships/circle-logoD.png" class="logoD" />
+                            </div>
+
+                        </div>
+                        <div class="partners-item col mt-2 mb-2">
+                            <div class="card pt-4 pb-4 px-3 bg-olb br-20 border-0">
+                                <img src="assets/images/partnerships/ramco-logoL.png" class="logoL" />
+                                <img src="assets/images/partnerships/ramco-logoD.png" class="logoD" />
+                            </div>
+                        </div>
+                        <div class="partners-item col mt-2 mb-2">
+                            <div class="card pt-4 pb-4 px-3 bg-olb br-20 border-0">
+                                <img src="assets/images/partnerships/indsoft-logoL.png" class="logoL" />
+                                <img src="assets/images/partnerships/indsoft-logoD.png" class="logoD" />
+                            </div>
+                        </div>
+                        <div class="partners-item col mt-2 mb-2">
+                            <div class="card pt-4 pb-4 px-3 bg-olb br-20 border-0">
+                                <img src="assets/images/partnerships/assocham-logoL.png" class="logoL" />
+                                <img src="assets/images/partnerships/assocham-logoD.png" class="logoD" />
+                            </div>
+                        </div>
+                        <div class="partners-item col mt-2 mb-2">
+                            <div class="card pt-4 pb-4 px-3 bg-olb br-20 border-0">
+                                <img src="assets/images/partnerships/nanyang-logoL.png" class="logoL" />
+                                <img src="assets/images/partnerships/nanyang-logoD.png" class="logoD" />
+                            </div>
+                        </div>
+                        <div class="partners-item col mt-2 mb-2">
+                            <div class="card pt-4 pb-4 px-3 bg-olb br-20 border-0">
+                                <img src="assets/images/partnerships/aix-logoL.png" class="logoL" />
+                                <img src="assets/images/partnerships/aix-logoD.png" class="logoD" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>-->
     </div>
 
     <div class="container-fluid">
@@ -453,6 +730,10 @@
                                 XDC Network:<br />
                                 Powered by XDC Protocol
                             </h3>
+                            <!--<div class="subtitle subtitle-s text-center text-md-start text-lg-start">
+                                XDC Network is a decentralized blockchain network that utilizes the XinFin Delegated Proof of Stake (XDPoS) consensus mechanism. It is built on the open-source Hyperledger Fabric and is designed to support
+                                enterprise-grade applications and services.
+                            </div>-->
                             <div class="subtitle subtitle-s text-center text-md-start text-lg-start">The XDC Network stands as a robust, enterprise-grade blockchain protocol, boasting an open-source framework and powered by the XinFin Delegated Proof of Stake (XDPoS) consensus mechanism. This EVM-compatible chain features enforceable smart contracts, making it a prime candidate to transform the trade finance sector. Through the tokenization of real-world assets and financial instruments, XDC Network aims to revolutionize, decentralize, and enhance liquidity within the industry.</div>
                             <div class="xdcFuture-links text-center text-md-start text-lg-start mt-2">
                                 <a href="https://xdcscan.io/" target="_blank" class="btn socialHead-button me-4">
@@ -472,12 +753,7 @@
                         <div class="col-lg-5 col-md-5">
                             <div class="mt-sm-5 mt-md-0 mt-lg-0">
                                 <div class="d-flex justify-content-center align-items-center">
-                                    <!--<img src="assets/images/networkImage.png" class="img-fluid" alt="XDC Network" />-->
-                                    <picture>
-                                        <source srcset="assets/images/networkImage.avif" type="image/avif" alt="XDC Network" class="img-fluid" />
-                                        <source srcset="assets/images/networkImage.webp" type="image/webp" alt="XDC Network" class="img-fluid" />
-                                        <img src="assets/images/networkImage.jpg" alt="XDC Network" class="img-fluid" />
-                                    </picture>
+                                    <img src="assets/images/networkImage.png" class="img-fluid" alt="Hybrid Blockchain, Layer1 Blockchain" />
                                 </div>
                             </div>
                         </div>
@@ -579,12 +855,7 @@
                         <div class="col-lg-5 col-md-5">
                             <div class="mt-sm-5 mt-md-0 mt-lg-0">
                                 <div class="d-flex justify-content-center align-items-center">
-                                    <!--<img src="assets/images/walletsImage.png" class="img-fluid" alt="XDC Wallets" />-->
-                                    <picture>
-                                        <source srcset="assets/images/walletsImage.avif" type="image/avif" alt="XDC Wallets" class="img-fluid" />
-                                        <source srcset="assets/images/walletsImage.webp" type="image/webp" alt="XDC Wallets" class="img-fluid" />
-                                        <img src="assets/images/walletsImage.jpg" alt="XDC Wallets" class="img-fluid" />
-                                    </picture>
+                                    <img src="assets/images/walletsImage.png" class="img-fluid" alt="XDC Wallets" />
                                 </div>
                             </div>
                         </div>

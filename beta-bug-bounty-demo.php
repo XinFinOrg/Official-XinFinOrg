@@ -1,8 +1,8 @@
 <?php
-   $title = "XDC Bug Bounty Program";
-   $desc = "XDC Bug Bounty Program: Enhancing XDC Network Together";
+$title = "XDC Bug Bounty Program";
+$desc = "XDC Bug Bounty Program: Enhancing XDC Network Together";
 
-   include('inc/header.php') ?>
+include('inc/header.php') ?>
 
 <!-- Hero Home Starts -->
 <section class="px-200 px-t250-b100 hero-inside">

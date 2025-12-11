@@ -1,15 +1,90 @@
 <?php 
-    $title = "XDC Ecosystem dApps";
+    $title = "Ecosystem dApps";
     $desc = "Powering the Future of Blockchain - Unleash the Potential of XDC Utility Token!";
     
     include('inc/header.php') ?>
+
+<!--<section class="px-200 px-t250-b100 hero-inside">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 offset-lg-1 hero-content">
+                <h1 class="title-m text-center mb-0">Ecosystem dApps</h1>
+                <h2 class="subtitle subtitle-s fw-500 text-center mb-0">Powering the Future of Blockchain - Unleash the Potential of XDC Utility Token! As a versatile settlement mechanism, XDC fuels the entire ecosystem, enabling lightning-fast and cost-effective transactions while revolutionizing the way dApps function.</h2>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="px-40 mb-5 pt-0 hero-ftr">
+    <div class="container">
+        <div class="row row-flex">
+            <div class="col-lg-12">
+                <div class="row justify-content-center">
+                    <div class="col-lg-4 col-md-6 mt-2 mb-2">
+                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                            <div class="card-info">
+                                <img src="assets/images/inside-page/masternode/transaction-validation.svg" class="img-fluid" />
+                                <div class="card-infoHead mt-3 mb-3">Lightning Speed Transactions</div>
+                                <p class="fs-6 mb-0">Say goodbye to sluggish blockchain speeds! With XDC, experience blazing-fast transactions that will leave you amazed.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-2 mb-2">
+                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                            <div class="card-info">
+                                <img src="assets/images/inside-page/masternode/instant-transactions.svg" class="img-fluid" />
+                                <div class="card-infoHead mt-3 mb-3">Cost Efficiency Redefined</div>
+                                <p class="fs-6 mb-0">Tired of high transaction fees? XDC brings you a cost-effective solution, making blockchain accessible to all.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-2 mb-2">
+                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                            <div class="card-info">
+                                <img src="assets/images/inside-page/masternode/decentralized.svg" class="img-fluid" />
+                                <div class="card-infoHead mt-3 mb-3">Scalability and Flexibility</div>
+                                <p class="fs-6 mb-0">No more bottlenecks! XDC's robust infrastructure ensures seamless scalability and adaptability to your needs.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-2 mb-2">
+                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                            <div class="card-info">
+                                <img src="assets/images/inside-page/masternode/security.svg" class="img-fluid" />
+                                <div class="card-infoHead mt-3 mb-3">Enhanced Security</div>
+                                <p class="fs-6 mb-0">Trust is paramount in the digital world. XDC's robust security measures provide you with peace of mind and unparalleled protection.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-2 mb-2">
+                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                            <div class="card-info">
+                                <img src="assets/images/inside-page/masternode/developers.svg" class="img-fluid" />
+                                <div class="card-infoHead mt-3 mb-3">Empowering dApp Developers</div>
+                                <p class="fs-6 mb-0">XDC empowers developers to create innovative, next-gen DApps, unlocking new possibilities in various industries.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-2 mb-2">
+                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
+                            <div class="card-info">
+                                <img src="assets/images/inside-page/masternode/governance.svg" class="img-fluid" />
+                                <div class="card-infoHead mt-3 mb-3">Community-driven Governance</div>
+                                <p class="fs-6 mb-0">At XDC Network, the community's voice matters. XDC token holders play a vital role in shaping the platform's future through democratic governance.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>-->
 
 <!-- Hero Home Starts -->
 <section class="px-200 px-t250-b100 hero-inside">
     <div class="container">
         <div class="row">
             <div class="col-lg-10 offset-lg-1 hero-content">
-                <h1 class="title-m text-center mb-0">XDC Ecosystem dApps</h1>
+                <h1 class="title-m text-center mb-0">Explore Ecosystem dApps</h1>
                 <h2 class="subtitle subtitle-s fw-500 text-center mb-0">XDC token lies at the heart of XDC Network, and its transformative capabilities are truly awe-inspiring. As a versatile settlement mechanism, XDC fuels the entire ecosystem, enabling lightning-fast and cost-effective transactions while revolutionizing the way dApps function.</h2>
             </div>
         </div>
@@ -20,6 +95,14 @@
 <!-- Explore dApps Starts -->
 <section class="px-80 pt-0">
     <div class="container">
+        <!--<div class="row">
+            <div class="col-lg-10 offset-lg-1 mb-5">
+                <h3 class="title-m text-center">Explore dApps</h3>
+                <div class="subtitle subtitle-s text-center">
+                    XDC token lies at the heart of XDC Network, and its transformative capabilities are truly awe-inspiring. As a versatile settlement mechanism, XDC fuels the entire ecosystem, enabling lightning-fast and cost-effective transactions while revolutionizing the way DApps function.
+                </div>
+            </div>
+        </div>-->
         <div class="row">
             <nav>
                 <div class="nav nav-pills justify-content-center mb-4" id="nav-pills" role="tablist">

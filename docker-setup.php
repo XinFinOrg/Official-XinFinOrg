@@ -10,7 +10,7 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-9 col-md-12 hero-content">
-                <h1 class="title-m text-center mb-0">XDC Network Docker Setup</h1>
+                <h1 class="title-m text-center mb-0">Docker Setup</h1>
                 <h2 class="subtitle subtitle-s fw-500 text-center mb-0">
                     Welcome to the hassle-free world of XDC Network Masternode setup! In this comprehensive guide, we'll walk you through the steps to establish your very own XDC Network Masternode using Docker. With just a single bootstrap
                     command, you'll be on your way to participating in the XDC Network and contributing to its growth. Whether you're running CentOS, RedHat Enterprise Linux, or Ubuntu, our guide has got you covered. Let's dive right in!

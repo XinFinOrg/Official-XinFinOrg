@@ -1,8 +1,11 @@
 <?php
-   $title = "Blockchain Analytics and Intelligence Tools Supporting XDC Network";
-   $desc = "Explore the suite of blockchain analytics and intelligence tools compatible with the XDC Network, including partnerships with industry leaders like Blockchain Intelligence Group and Elliptic.";
+$title =
+    "Blockchain Analytics and Intelligence Tools Supporting XDC Network";
+$desc =
+    'Explore the suite of blockchain analytics and intelligence tools compatible with the XDC Network, including partnerships with industry leaders like Blockchain Intelligence Group and Elliptic.';
 
-   include 'inc/header.php';?>
+include 'inc/header.php';
+?>
 
 <!-- Hero Home Starts -->
 <section class="px-200 px-t250-b100 hero-inside">
