@@ -11,14 +11,8 @@
         <div class="row">
             <div class="col-lg-10 offset-lg-1 hero-content">
                 <h1 class="title-m text-center mb-0">XDC Subnet</h1>
-                <h2 class="subtitle subtitle-s fw-500 text-center mb-0">
-                    XDC Subnet is a technology that allows you to create a secure, scalable, and decentralized network within the XDC Ecosystem. It enables various use cases, including creating private subnets, deploying decentralized
-                    applications (dApps), and more.
-                </h2>
-                <h2 class="subtitle subtitle-s fw-500 text-center mb-0">
-                    Are you ready to embark on a journey into the world of secure, scalable, and decentralized networks? Look no further than XDC Subnet, the cutting-edge technology that empowers you to create a digital realm tailored to
-                    your needs within the thriving XDC Ecosystem.
-                </h2>
+                <h2 class="subtitle subtitle-s fw-500 text-center mb-0">XDC Subnet is a technology that allows you to create a secure, scalable, and decentralized network within the XDC Ecosystem. It enables various use cases, including creating private subnets, deploying decentralized applications (dApps), and more.</h2>
+                <h2 class="subtitle subtitle-s fw-500 text-center mb-0">Are you ready to embark on a journey into the world of secure, scalable, and decentralized networks? Look no further than XDC Subnet, the cutting-edge technology that empowers you to create a digital realm tailored to your needs within the thriving XDC Ecosystem.</h2>
             </div>
         </div>
         <div class="row mb-0">
@@ -114,8 +108,19 @@
                 </div>
             </div>
             <div class="col-lg-6 col-md-12">
-                <img src="assets/images/xdc-subnet-architecture.svg" class="img-fluid iconD" alt="XDC SUbnet" />
-                <img src="assets/images/xdc-subnet-architecture_light.svg" class="img-fluid iconL" alt="XDC SUbnet" />
+                <!--<img src="assets/images/xdc-subnet-architecture.svg" class="img-fluid iconD" alt="XDC SUbnet" />
+                <img src="assets/images/xdc-subnet-architecture_light.svg" class="img-fluid iconL" alt="XDC SUbnet" />-->
+
+                <picture>
+                    <source srcset="assets/images/xdc-subnet-architecture.avif" type="image/avif" alt="XDC SUbnet" class="img-fluid iconD" />
+                    <source srcset="assets/images/xdc-subnet-architecture.webp" type="image/webp" alt="XDC SUbnet" class="img-fluid iconD" />
+                    <img src="assets/images/xdc-subnet-architecture.svg" alt="XDC SUbnet" class="img-fluid iconD" />
+                </picture>
+                <picture>
+                    <source srcset="assets/images/xdc-subnet-architecture_light.avif" type="image/avif" alt="XDC SUbnet" class="img-fluid iconL" />
+                    <source srcset="assets/images/xdc-subnet-architecture_light.webp" type="image/webp" alt="XDC SUbnet" class="img-fluid iconL" />
+                    <img src="assets/images/xdc-subnet-architecture_light.svg" alt="XDC SUbnet" class="img-fluid iconL" />
+                </picture>
             </div>
         </div>
     </div>
@@ -197,7 +202,12 @@
                 </div>
             </div>
             <div class="col-lg-6">
-                <img src="assets/images/xdc-subnet-ui.png" class="img-fluid br-20" alt="XDC SUbnet UI">
+                <!--<img src="assets/images/xdc-subnet-ui.png" class="img-fluid br-20" alt="XDC SUbnet UI">-->
+                <picture>
+                    <source srcset="assets/images/xdc-subnet-ui.avif" type="image/avif" alt="XDC SUbnet UI" class="img-fluid iconL" />
+                    <source srcset="assets/images/xdc-subnet-ui.webp" type="image/webp" alt="XDC SUbnet UI" class="img-fluid iconL" />
+                    <img src="assets/images/xdc-subnet-ui.png" alt="XDC SUbnet UI" class="img-fluid br-20">
+                </picture>
             </div>
         </div>
 

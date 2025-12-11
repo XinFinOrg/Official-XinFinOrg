@@ -10,7 +10,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 offset-lg-1 hero-content">
-                <h1 class="title-m text-center mb-0">In the Headlines</h1>
+                <h1 class="title-m text-center mb-0">XDC Network in the Media</h1>
                 <h2 class="subtitle subtitle-s fw-500 text-center mb-0">Stay up to date with the latest news and media coverage featuring XDC Network.</h2>
             </div>
         </div>

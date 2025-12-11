@@ -222,7 +222,12 @@
                     <div class="col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                         <div class="h-100 card bg-transparent border-0">
                             <div class="">
-                                <img src="assets/images/brand-assets/booth-walldrop.jpg" class="img-fluid br-20" alt="XDC Network Booth Walldrop" />
+                                <!--<img src="assets/images/brand-assets/booth-walldrop.jpg" class="img-fluid br-20" alt="XDC Network Booth Walldrop" />-->
+                                <picture>
+                                    <source srcset="assets/images/brand-assets/booth-walldrop.avif" type="image/avif" alt="XDC Network Booth Walldrop" class="img-fluid br-20" />
+                                    <source srcset="assets/images/brand-assets/booth-walldrop.webp" type="image/webp" alt="XDC Network Booth Walldrop" class="img-fluid br-20" />
+                                    <img src="assets/images/brand-assets/booth-walldrop.jpg" alt="XDC Network Booth Walldrop" class="img-fluid br-20">
+                                </picture>
                             </div>
                             <div class="events-card_content-wrapper px-0 pe-4">
                                 <div class="events-card_content">
@@ -241,7 +246,12 @@
                     <div class="col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                         <div class="h-100 card bg-transparent border-0">
                             <div class="">
-                                <img src="assets/images/brand-assets/booth-walldrop_1.jpg" class="img-fluid br-20" alt="XDC Network Booth Walldrop" />
+                                <!--<img src="assets/images/brand-assets/booth-walldrop_1.jpg" class="img-fluid br-20" alt="XDC Network Booth Walldrop" />-->
+                                <picture>
+                                    <source srcset="assets/images/brand-assets/booth-walldrop_1.avif" type="image/avif" alt="XDC Network Booth Walldrop" class="img-fluid br-20" />
+                                    <source srcset="assets/images/brand-assets/booth-walldrop_1.webp" type="image/webp" alt="XDC Network Booth Walldrop" class="img-fluid br-20" />
+                                    <img src="assets/images/brand-assets/booth-walldrop_1.jpg" alt="XDC Network Booth Walldrop" class="img-fluid br-20">
+                                </picture>
                             </div>
                             <div class="events-card_content-wrapper px-0 pe-4">
                                 <div class="events-card_content">
@@ -260,7 +270,12 @@
                     <div class="col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                         <div class="h-100 card bg-transparent border-0">
                             <div class="">
-                                <img src="assets/images/brand-assets/booth-walldrop_2.jpg" class="img-fluid br-20" alt="XDC Network Booth Walldrop" />
+                                <!--<img src="assets/images/brand-assets/booth-walldrop_2.jpg" class="img-fluid br-20" alt="XDC Network Booth Walldrop" />-->
+                                <picture>
+                                    <source srcset="assets/images/brand-assets/booth-walldrop_2.avif" type="image/avif" alt="XDC Network Booth Walldrop" class="img-fluid br-20" />
+                                    <source srcset="assets/images/brand-assets/booth-walldrop_2.webp" type="image/webp" alt="XDC Network Booth Walldrop" class="img-fluid br-20" />
+                                    <img src="assets/images/brand-assets/booth-walldrop_2.jpg" alt="XDC Network Booth Walldrop" class="img-fluid br-20">
+                                </picture>
                             </div>
                             <div class="events-card_content-wrapper px-0 pe-4">
                                 <div class="events-card_content">
@@ -279,7 +294,12 @@
                     <div class="col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                         <div class="h-100 card bg-transparent border-0">
                             <div class="">
-                                <img src="assets/images/brand-assets/counter-table_1.jpg" class="img-fluid br-20" alt="XDC Network Booth Counter Table" />
+                                <!--<img src="assets/images/brand-assets/counter-table_1.jpg" class="img-fluid br-20" alt="XDC Network Booth Counter Table" />-->
+                                <picture>
+                                    <source srcset="assets/images/brand-assets/counter-table_1.avif" type="image/avif" alt="XDC Network Booth Counter Table" class="img-fluid br-20" />
+                                    <source srcset="assets/images/brand-assets/counter-table_1.webp" type="image/webp" alt="XDC Network Booth Counter Table" class="img-fluid br-20" />
+                                    <img src="assets/images/brand-assets/counter-table_1.jpg" alt="XDC Network Booth Counter Table" class="img-fluid br-20">
+                                </picture>
                             </div>
                             <div class="events-card_content-wrapper px-0 pe-4">
                                 <div class="events-card_content">
@@ -298,7 +318,12 @@
                     <div class="col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                         <div class="h-100 card bg-transparent border-0">
                             <div class="">
-                                <img src="assets/images/brand-assets/xdc-a4-flyer-fb.jpg" class="img-fluid br-20" alt="XDC Network A4 Flyer" />
+                                <!--<img src="assets/images/brand-assets/xdc-a4-flyer-fb.jpg" class="img-fluid br-20" alt="XDC Network A4 Flyer" />-->
+                                <picture>
+                                    <source srcset="assets/images/brand-assets/xdc-a4-flyer-fb.avif" type="image/avif" alt="XDC Network A4 Flyer" class="img-fluid br-20" />
+                                    <source srcset="assets/images/brand-assets/xdc-a4-flyer-fb.webp" type="image/webp" alt="XDC Network A4 Flyer" class="img-fluid br-20" />
+                                    <img src="assets/images/brand-assets/xdc-a4-flyer-fb.jpg" alt="XDC Network A4 Flyer" class="img-fluid br-20">
+                                </picture>
                             </div>
                             <div class="events-card_content-wrapper px-0 pe-4">
                                 <div class="events-card_content">
@@ -317,7 +342,12 @@
                     <div class="col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                         <div class="h-100 card bg-transparent border-0">
                             <div class="">
-                                <img src="assets/images/brand-assets/xdc-a4-flyer-f.jpg" class="img-fluid br-20" alt="XDC Network A4 Flyer" />
+                                <!--<img src="assets/images/brand-assets/xdc-a4-flyer-f.jpg" class="img-fluid br-20" alt="XDC Network A4 Flyer" />-->
+                                <picture>
+                                    <source srcset="assets/images/brand-assets/xdc-a4-flyer-f.avif" type="image/avif" alt="XDC Network A4 Flyer" class="img-fluid br-20" />
+                                    <source srcset="assets/images/brand-assets/xdc-a4-flyer-f.webp" type="image/webp" alt="XDC Network A4 Flyer" class="img-fluid br-20" />
+                                    <img src="assets/images/brand-assets/xdc-a4-flyer-f.jpg" alt="XDC Network A4 Flyer" class="img-fluid br-20">
+                                </picture>
                             </div>
                             <div class="events-card_content-wrapper px-0 pe-4">
                                 <div class="events-card_content">
@@ -336,7 +366,12 @@
                     <div class="col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                         <div class="h-100 card bg-transparent border-0">
                             <div class="">
-                                <img src="assets/images/brand-assets/xdc-stickers.jpg" class="img-fluid br-20" alt="XDC Stickers" />
+                                <!--<img src="assets/images/brand-assets/xdc-stickers.jpg" class="img-fluid br-20" alt="XDC Stickers" />-->
+                                <picture>
+                                    <source srcset="assets/images/brand-assets/xdc-stickers.avif" type="image/avif" alt="XDC Stickers" class="img-fluid br-20" />
+                                    <source srcset="assets/images/brand-assets/xdc-stickers.webp" type="image/webp" alt="XDC Stickers" class="img-fluid br-20" />
+                                    <img src="assets/images/brand-assets/xdc-stickers.jpg" alt="XDC Stickers" class="img-fluid br-20">
+                                </picture>
                             </div>
                             <div class="events-card_content-wrapper px-0 pe-4">
                                 <div class="events-card_content">

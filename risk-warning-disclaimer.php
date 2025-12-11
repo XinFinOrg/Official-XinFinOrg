@@ -1,8 +1,6 @@
 <?php
-$title =
-    "Risk Warning Disclaimer for XDC Network";
-$desc =
-    'Risk Warning Disclaimer for XDC Network.';
+$title = "Risk Warning Disclaimer for XDC Network";
+$desc = "Risk Warning Disclaimer for XDC Network.";
 
 include 'inc/header.php';
 ?>
@@ -13,8 +11,8 @@ include 'inc/header.php';
     <div class="container">
         <div class="row">
             <div class="col-lg-8 offset-lg-2 hero-content">
-                <h1 class="title-m text-center mb-0">Risk Warning Disclaimer</h1>
-                <h2 class="subtitle subtitle-s fw-500 text-center mb-0">Risk Warning Disclaimer for XDC Network.</h2>
+                <h2 class="title-m text-center mb-0">Risk Warning Disclaimer</h2>
+                <h1 class="subtitle subtitle-s fw-500 text-center mb-0">Risk Warning Disclaimer for XDC Network.</h1>
             </div>
         </div>
     </div>

@@ -1,11 +1,8 @@
 <?php
-$title =
-    "XDC Network Masternodes - The Backbone of a Fast, Secure, and Decentralized Network";
-$desc =
-    'XDC Network Masternodes are the pillars of blockchain performance, ensuring high-speed transaction validation, network security, and decentralized governance.';
+    $title = "XDC Network Masternodes - The Backbone of a Fast, Secure, and Decentralized Network";
+    $desc = "XDC Network Masternodes are the pillars of blockchain performance, ensuring high-speed transaction validation, network security, and decentralized governance.";
 
-include 'inc/header.php';
-?>
+    include('inc/header.php') ?>
 
 <!-- Hero Home Starts -->
 <section class="px-200 px-t250-b100 hero-inside">

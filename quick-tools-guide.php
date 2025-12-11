@@ -452,7 +452,14 @@
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6">
-                                <div><img src="assets/images/inside-page/quick-tools-guide/xdcScan.png" alt="XDCScan" class="img-fluid br-20" /></div>
+                                <div>
+                                    <!--<img src="assets/images/inside-page/quick-tools-guide/xdcScan.png" alt="XDCScan" class="img-fluid br-20" />-->
+                                    <picture>
+                                        <source srcset="assets/images/inside-page/quick-tools-guide/xdcScan.avif" type="image/avif" alt="XDCScan" class="img-fluid br-20" />
+                                        <source srcset="assets/images/inside-page/quick-tools-guide/xdcScan.webp" type="image/webp" alt="XDCScan" class="img-fluid br-20" />
+                                        <img src="assets/images/inside-page/quick-tools-guide/xdcScan.png" alt="XDCScan" class="img-fluid br-20">
+                                    </picture>
+                                 </div>
                             </div>
                         </div>
                     </div>
@@ -473,7 +480,14 @@
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6">
-                                <div><img src="assets/images/inside-page/quick-tools-guide/xdcPay.png" alt="XDCPay" class="img-fluid br-20" /></div>
+                                <div>
+                                    <!--<img src="assets/images/inside-page/quick-tools-guide/xdcPay.png" alt="XDCPay" class="img-fluid br-20" />-->
+                                    <picture>
+                                        <source srcset="assets/images/inside-page/quick-tools-guide/xdcPay.avif" type="image/avif" alt="XDCPay" class="img-fluid br-20" />
+                                        <source srcset="assets/images/inside-page/quick-tools-guide/xdcPay.webp" type="image/webp" alt="XDCPay" class="img-fluid br-20" />
+                                        <img src="assets/images/inside-page/quick-tools-guide/xdcPay.png" alt="XDCPay" class="img-fluid br-20">
+                                    </picture>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -493,7 +507,14 @@
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6">
-                                <div><img src="assets/images/inside-page/quick-tools-guide/xdcsRemix.png" alt="XDC Network Remix" class="img-fluid br-20" /></div>
+                                <div>
+                                    <!--<img src="assets/images/inside-page/quick-tools-guide/xdcsRemix.png" alt="XDC Network Remix" class="img-fluid br-20" />-->
+                                    <picture>
+                                        <source srcset="assets/images/inside-page/quick-tools-guide/xdcsRemix.avif" type="image/avif" alt="XDC Network Remix" class="img-fluid br-20" />
+                                        <source srcset="assets/images/inside-page/quick-tools-guide/xdcsRemix.webp" type="image/webp" alt="XDC Network Remix" class="img-fluid br-20" />
+                                        <img src="assets/images/inside-page/quick-tools-guide/xdcsRemix.png" alt="XDC Network Remix" class="img-fluid br-20">
+                                    </picture>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -514,19 +535,20 @@
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6">
-                                <div><img src="assets/images/inside-page/quick-tools-guide/xdcFaucet.png" alt="XDC Faucet" class="img-fluid br-20" /></div>
+                                <div>
+                                    <!--<img src="assets/images/inside-page/quick-tools-guide/xdcFaucet.png" alt="XDC Faucet" class="img-fluid br-20" />-->
+                                    <picture>
+                                        <source srcset="assets/images/inside-page/quick-tools-guide/xdcFaucet.avif" type="image/avif" alt="XDC Faucet" class="img-fluid br-20" />
+                                        <source srcset="assets/images/inside-page/quick-tools-guide/xdcFaucet.webp" type="image/webp" alt="XDC Faucet" class="img-fluid br-20" />
+                                        <img src="assets/images/inside-page/quick-tools-guide/xdcFaucet.png" alt="XDC Faucet" class="img-fluid br-20">
+                                    </picture>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        
-        
-        
-        
-        
-        
         
         
         
@@ -643,7 +665,14 @@
                 </div>
 			</div>
 			<div class="col-xl-6 col-lg-6">
-            	<div><img src="assets/images/inside-page/quick-tools-guide/xdcIndexVinter.png" alt="XDC Index — Vinter" class="img-fluid br-20" /></div>
+            	<div>
+                    <!--<img src="assets/images/inside-page/quick-tools-guide/xdcIndexVinter.png" alt="XDC Index — Vinter" class="img-fluid br-20" />-->
+                    <picture>
+                        <source srcset="assets/images/inside-page/quick-tools-guide/xdcIndexVinter.avif" type="image/avif" alt="XDC Index — Vinter" class="img-fluid br-20" />
+                        <source srcset="assets/images/inside-page/quick-tools-guide/xdcIndexVinter.webp" type="image/webp" alt="XDC Index — Vinter" class="img-fluid br-20" />
+                        <img src="assets/images/inside-page/quick-tools-guide/xdcIndexVinter.png" alt="XDC Index — Vinter" class="img-fluid br-20">
+                    </picture>
+                </div>
         	</div>
         </div>
                         

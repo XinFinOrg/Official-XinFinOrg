@@ -10,7 +10,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 offset-lg-2 hero-content">
-                <h1 class="title-m text-center mb-0">One-Click Installer</h1>
+                <h1 class="title-m text-center mb-0">XDC Network One-Click Installer</h1>
                 <h2 class="subtitle subtitle-s fw-500 text-center mb-0">Welcome to the XDC Network One-Click Installer: Simplifying Masternode Deployment for Everyone!</h2>
             </div>
         </div>
