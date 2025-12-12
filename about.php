@@ -101,7 +101,14 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#tadashi-yoshida" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/advisors/tadashi-yoshida.jpg" class="img-fluid team-img br-15" alt="Tadashi Yoshida" />
+                                <!--<img src="assets/images/team/advisors/tadashi-yoshida.jpg" class="img-fluid team-img br-15" alt="Tadashi Yoshida" />-->
+                                <picture>
+                                    <source srcset="assets/images/team/advisors/tadashi-yoshida.avif" type="image/avif" class="img-fluid team-img br-15" alt="Tadashi Yoshida">
+                                    <source srcset="assets/images/team/advisors/tadashi-yoshida.webp" type="image/webp" class="img-fluid team-img br-15" alt="Tadashi Yoshida">
+                                    <source srcset="assets/images/team/advisors/tadashi-yoshida.png" type="image/png" class="img-fluid team-img br-15" alt="Tadashi Yoshida">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/team/advisors/tadashi-yoshida.png" class="img-fluid team-img br-15" alt="Tadashi Yoshida">
+                                </picture>
                                 <h3 class="team-infoHead mt-3 mb-2">Tadashi Yoshida</h3>
                                 <p class="text-muted lh-sm mb-0">Senior Principal Advisor and Head of Japan, XDC Network</p>
                             </div>
@@ -130,7 +137,14 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#atul-khekade" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/core-team/atul-khekade.jpg" class="img-fluid team-img br-15" alt="Atul Khekade" />
+                                <!--<img src="assets/images/team/core-team/atul-khekade.jpg" class="img-fluid team-img br-15" alt="Atul Khekade" />-->
+                                <picture>
+                                    <source srcset="assets/images/team/core-team/atul-khekade.avif" type="image/avif" class="img-fluid team-img br-15" alt="Atul Khekade">
+                                    <source srcset="assets/images/team/core-team/atul-khekade.webp" type="image/webp" class="img-fluid team-img br-15" alt="Atul Khekade">
+                                    <source srcset="assets/images/team/core-team/atul-khekade.png" type="image/png" class="img-fluid team-img br-15" alt="Atul Khekade">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/team/core-team/atul-khekade.png" class="img-fluid team-img br-15" alt="Atul Khekade">
+                                </picture>
                                 <h3 class="team-infoHead mt-3 mb-2">Atul Khekade</h3>
                                 <p class="text-muted lh-sm mb-0">Co-Founder, Technology and Ecosystem Development</p>
                             </div>
@@ -139,7 +153,14 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#ritesh-kakkad" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/core-team/ritesh-kakkad.jpg" class="img-fluid team-img br-15" alt="Ritesh Kakkad" />
+                                <!--<img src="assets/images/team/core-team/ritesh-kakkad.jpg" class="img-fluid team-img br-15" alt="Ritesh Kakkad" />-->
+                                <picture>
+                                    <source srcset="assets/images/team/core-team/ritesh-kakkad.avif" type="image/avif" class="img-fluid team-img br-15" alt="Ritesh Kakkad">
+                                    <source srcset="assets/images/team/core-team/ritesh-kakkad.webp" type="image/webp" class="img-fluid team-img br-15" alt="Ritesh Kakkad">
+                                    <source srcset="assets/images/team/core-team/ritesh-kakkad.png" type="image/png" class="img-fluid team-img br-15" alt="Ritesh Kakkad">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/team/core-team/ritesh-kakkad.png" class="img-fluid team-img br-15" alt="Ritesh Kakkad">
+                                </picture>
                                 <h3 class="team-infoHead mt-3 mb-2">Ritesh Kakkad</h3>
                                 <p class="text-muted lh-sm mb-0">Co-Founder, Early Investor, Blockchain Strategist</p>
                             </div>
@@ -148,7 +169,14 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#sunil-senapati" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/core-team/sunil-senapati.jpg" class="img-fluid team-img br-15" alt="Sunil Senapati" />
+                                <!--<img src="assets/images/team/core-team/sunil-senapati.jpg" class="img-fluid team-img br-15" alt="Sunil Senapati" />-->
+                                <picture>
+                                    <source srcset="assets/images/team/core-team/sunil-senapati.avif" type="image/avif" class="img-fluid team-img br-15" alt="Sunil Senapati">
+                                    <source srcset="assets/images/team/core-team/sunil-senapati.webp" type="image/webp" class="img-fluid team-img br-15" alt="Sunil Senapati">
+                                    <source srcset="assets/images/team/core-team/sunil-senapati.png" type="image/png" class="img-fluid team-img br-15" alt="Sunil Senapati">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/team/core-team/sunil-senapati.png" class="img-fluid team-img br-15" alt="Sunil Senapati">
+                                </picture>
                                 <h3 class="team-infoHead mt-3 mb-2">Sunil Senapati</h3>
                                 <p class="text-muted lh-sm mb-0">Chief Executive Officer - XDC Trade Network</p>
                             </div>
@@ -157,7 +185,14 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#bill-sebell" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/core-team/bill-sebell.jpg" class="img-fluid team-img br-15" alt="Bill Sebell" />
+                                <!--<img src="assets/images/team/core-team/bill-sebell.jpg" class="img-fluid team-img br-15" alt="Bill Sebell" />-->
+                                <picture>
+                                    <source srcset="assets/images/team/core-team/bill-sebell.avif" type="image/avif" class="img-fluid team-img br-15" alt="Bill Sebell">
+                                    <source srcset="assets/images/team/core-team/bill-sebell.webp" type="image/webp" class="img-fluid team-img br-15" alt="Bill Sebell">
+                                    <source srcset="assets/images/team/core-team/bill-sebell.png" type="image/png" class="img-fluid team-img br-15" alt="Bill Sebell">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/team/core-team/bill-sebell.png" class="img-fluid team-img br-15" alt="Bill Sebell">
+                                </picture>
                                 <h3 class="team-infoHead mt-3 mb-2">Bill Sebell</h3>
                                 <p class="text-muted lh-sm mb-0">Director of Ecosystem Development, North America</p>
                             </div>
@@ -166,7 +201,14 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#andre-casterman" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/core-team/andre-casterman.jpg" class="img-fluid team-img br-15" alt="André Casterman" />
+                                <!--<img src="assets/images/team/core-team/andre-casterman.jpg" class="img-fluid team-img br-15" alt="André Casterman" />-->
+                                <picture>
+                                    <source srcset="assets/images/team/core-team/andre-casterman.avif" type="image/avif" class="img-fluid team-img br-15" alt="André Casterman">
+                                    <source srcset="assets/images/team/core-team/andre-casterman.webp" type="image/webp" class="img-fluid team-img br-15" alt="André Casterman">
+                                    <source srcset="assets/images/team/core-team/andre-casterman.jpg" type="image/jpg" class="img-fluid team-img br-15" alt="André Casterman">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/team/core-team/andre-casterman.jpg" class="img-fluid team-img br-15" alt="André Casterman">
+                                </picture>
                                 <h3 class="team-infoHead mt-3 mb-2">André Casterman</h3>
                                 <p class="text-muted lh-sm mb-0">Advisory and Market Engagement</p>
                             </div>
@@ -175,7 +217,14 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#andrea-frosinini" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/core-team/andrea-frosinini.jpg" class="img-fluid team-img br-15" alt="Andrea Frosinini" />
+                                <!--<img src="assets/images/team/core-team/andrea-frosinini.jpg" class="img-fluid team-img br-15" alt="Andrea Frosinini" />-->
+                                <picture>
+                                    <source srcset="assets/images/team/core-team/andrea-frosinini.avif" type="image/avif" class="img-fluid team-img br-15" alt="Andrea Frosinini">
+                                    <source srcset="assets/images/team/core-team/andrea-frosinini.webp" type="image/webp" class="img-fluid team-img br-15" alt="Andrea Frosinini">
+                                    <source srcset="assets/images/team/core-team/andrea-frosinini.jpg" type="image/jpg" class="img-fluid team-img br-15" alt="Andrea Frosinini">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/team/core-team/andrea-frosinini.jpg" class="img-fluid team-img br-15" alt="Andrea Frosinini">
+                                </picture>
                                 <h3 class="team-infoHead mt-3 mb-2">Andrea Frosinini</h3>
                                 <p class="text-muted lh-sm mb-0">Senior Enterprise Analyst</p>
                             </div>
@@ -184,7 +233,14 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#confidence-nyirenda" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/core-team/confidence-nyirenda.jpg" class="img-fluid team-img br-15" alt="Confidence Nyirenda" />
+                                <!--<img src="assets/images/team/core-team/confidence-nyirenda.jpg" class="img-fluid team-img br-15" alt="Confidence Nyirenda" />-->
+                                <picture>
+                                    <source srcset="assets/images/team/core-team/confidence-nyirenda.avif" type="image/avif" class="img-fluid team-img br-15" alt="Confidence Nyirenda">
+                                    <source srcset="assets/images/team/core-team/confidence-nyirenda.webp" type="image/webp" class="img-fluid team-img br-15" alt="Confidence Nyirenda">
+                                    <source srcset="assets/images/team/core-team/confidence-nyirenda.jpg" type="image/jpg" class="img-fluid team-img br-15" alt="Confidence Nyirenda">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/team/core-team/confidence-nyirenda.jpg" class="img-fluid team-img br-15" alt="Confidence Nyirenda">
+                                </picture>
                                 <h3 class="team-infoHead mt-3 mb-2">Confidence Nyirenda</h3>
                                 <p class="text-muted lh-sm mb-0">Ecosystem Development, Africa</p>
                             </div>
@@ -193,7 +249,14 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#rebecah-dausen" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/core-team/rebecah-dausen.jpg" class="img-fluid team-img br-15" alt="Rebecah Dausen" />
+                                <!--<img src="assets/images/team/core-team/rebecah-dausen.jpg" class="img-fluid team-img br-15" alt="Rebecah Dausen" />-->
+                                <picture>
+                                    <source srcset="assets/images/team/core-team/rebecah-dausen.avif" type="image/avif" class="img-fluid team-img br-15" alt="Rebecah Dausen">
+                                    <source srcset="assets/images/team/core-team/rebecah-dausen.webp" type="image/webp" class="img-fluid team-img br-15" alt="Rebecah Dausen">
+                                    <source srcset="assets/images/team/core-team/rebecah-dausen.jpg" type="image/jpg" class="img-fluid team-img br-15" alt="Rebecah Dausen">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/team/core-team/rebecah-dausen.jpg" class="img-fluid team-img br-15" alt="Rebecah Dausen">
+                                </picture>
                                 <h3 class="team-infoHead mt-3 mb-2">Rebecah Dausen</h3>
                                 <p class="text-muted lh-sm mb-0">Lead of Ecosystem Development, Philippines XDC Network</p>
                             </div>
@@ -202,7 +265,14 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#sean-white" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/core-team/sean-white.jpg" class="img-fluid team-img br-15" alt="Sean White" />
+                                <!--<img src="assets/images/team/core-team/sean-white.jpg" class="img-fluid team-img br-15" alt="Sean White" />-->
+                                <picture>
+                                    <source srcset="assets/images/team/core-team/sean-white.avif" type="image/avif" class="img-fluid team-img br-15" alt="Sean White">
+                                    <source srcset="assets/images/team/core-team/sean-white.webp" type="image/webp" class="img-fluid team-img br-15" alt="Sean White">
+                                    <source srcset="assets/images/team/core-team/sean-white.jpg" type="image/jpg" class="img-fluid team-img br-15" alt="Sean White">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/team/core-team/sean-white.jpg" class="img-fluid team-img br-15" alt="Sean White">
+                                </picture>
                                 <h3 class="team-infoHead mt-3 mb-2">Sean White</h3>
                                 <p class="text-muted lh-sm mb-0">Ecosystem Head, Australia</p>
                             </div>
@@ -211,7 +281,14 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#can-inac" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/core-team/can-inac.jpg" class="img-fluid team-img br-15" alt="Can Inac" />
+                                <!--<img src="assets/images/team/core-team/can-inac.jpg" class="img-fluid team-img br-15" alt="Can Inac" />-->
+                                <picture>
+                                    <source srcset="assets/images/team/core-team/can-inac.avif" type="image/avif" class="img-fluid team-img br-15" alt="Can Inac">
+                                    <source srcset="assets/images/team/core-team/can-inac.webp" type="image/webp" class="img-fluid team-img br-15" alt="Can Inac">
+                                    <source srcset="assets/images/team/core-team/can-inac.jpg" type="image/jpg" class="img-fluid team-img br-15" alt="Can Inac">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/team/core-team/can-inac.jpg" class="img-fluid team-img br-15" alt="Can Inac">
+                                </picture>
                                 <h3 class="team-infoHead mt-3 mb-2">Can Inac</h3>
                                 <p class="text-muted lh-sm mb-0">Ecosystem Head, Germany</p>
                             </div>
@@ -220,7 +297,14 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#chen-shanlong" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/core-team/chen-shanlong.jpg" class="img-fluid team-img br-15" alt="Chen Shanlong" />
+                                <!--<img src="assets/images/team/core-team/chen-shanlong.jpg" class="img-fluid team-img br-15" alt="Chen Shanlong" />-->
+                                <picture>
+                                    <source srcset="assets/images/team/core-team/chen-shanlong.avif" type="image/avif" class="img-fluid team-img br-15" alt="Chen Shanlong">
+                                    <source srcset="assets/images/team/core-team/chen-shanlong.webp" type="image/webp" class="img-fluid team-img br-15" alt="Chen Shanlong">
+                                    <source srcset="assets/images/team/core-team/chen-shanlong.jpg" type="image/jpg" class="img-fluid team-img br-15" alt="Chen Shanlong">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/team/core-team/chen-shanlong.jpg" class="img-fluid team-img br-15" alt="Chen Shanlong">
+                                </picture>
                                 <h3 class="team-infoHead mt-3 mb-2">Chen Shanlong</h3>
                                 <p class="text-muted lh-sm mb-0">Head of Asia Ex-Japan</p>
                             </div>
@@ -229,7 +313,14 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#arturo-cantera" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/core-team/arturo-cantera.jpg" class="img-fluid team-img br-15" alt="Arturo Cantera" />
+                                <!--<img src="assets/images/team/core-team/arturo-cantera.jpg" class="img-fluid team-img br-15" alt="Arturo Cantera" />-->
+                                <picture>
+                                    <source srcset="assets/images/team/core-team/arturo-cantera.avif" type="image/avif" class="img-fluid team-img br-15" alt="Arturo Cantera">
+                                    <source srcset="assets/images/team/core-team/arturo-cantera.webp" type="image/webp" class="img-fluid team-img br-15" alt="Arturo Cantera">
+                                    <source srcset="assets/images/team/core-team/arturo-cantera.jpg" type="image/jpg" class="img-fluid team-img br-15" alt="Arturo Cantera">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/team/core-team/arturo-cantera.jpg" class="img-fluid team-img br-15" alt="Arturo Cantera">
+                                </picture>
                                 <h3 class="team-infoHead mt-3 mb-2">Arturo Cantera</h3>
                                 <p class="text-muted lh-sm mb-0">Founder and CEO, Prime Numbers Labs, XDC Technology and Ecosystem Development</p>
                             </div>
@@ -238,7 +329,14 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#diego-consimo" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/core-team/diego-consimo.jpg" class="img-fluid team-img br-15" alt="Arturo Cantera" />
+                                <!--<img src="assets/images/team/core-team/diego-consimo.jpg" class="img-fluid team-img br-15" alt="Diego Consimo" />-->
+                                <picture>
+                                    <source srcset="assets/images/team/core-team/diego-consimo.avif" type="image/avif" class="img-fluid team-img br-15" alt="Diego Consimo">
+                                    <source srcset="assets/images/team/core-team/diego-consimo.webp" type="image/webp" class="img-fluid team-img br-15" alt="Diego Consimo">
+                                    <source srcset="assets/images/team/core-team/diego-consimo.jpg" type="image/jpg" class="img-fluid team-img br-15" alt="Diego Consimo">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/team/core-team/diego-consimo.jpg" class="img-fluid team-img br-15" alt="Diego Consimo">
+                                </picture>
                                 <h3 class="team-infoHead mt-3 mb-2">Diego Consimo</h3>
                                 <!--<p class="text-muted lh-sm mb-0">Ecosystem Head, LATAM</p>-->
                                 <p class="text-muted lh-sm mb-0">Head of Business Development, Latin America</p>
@@ -248,7 +346,14 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#roland-jones" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/core-team/roland-jones.jpg" class="img-fluid team-img br-15" alt="Roland Q. Jones" />
+                                <!--<img src="assets/images/team/core-team/roland-jones.jpg" class="img-fluid team-img br-15" alt="Roland Q. Jones" />-->
+                                <picture>
+                                    <source srcset="assets/images/team/core-team/roland-jones.avif" type="image/avif" class="img-fluid team-img br-15" alt="Roland Q. Jones">
+                                    <source srcset="assets/images/team/core-team/roland-jones.webp" type="image/webp" class="img-fluid team-img br-15" alt="Roland Q. Jones">
+                                    <source srcset="assets/images/team/core-team/roland-jones.jpg" type="image/jpg" class="img-fluid team-img br-15" alt="Roland Q. Jones">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/team/core-team/roland-jones.jpg" class="img-fluid team-img br-15" alt="Roland Q. Jones">
+                                </picture>
                                 <h3 class="team-infoHead mt-3 mb-2">Roland Q. Jones</h3>
                                 <p class="text-muted lh-sm mb-0">Software Developer</p>
                             </div>
@@ -336,7 +441,14 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <img src="assets/images/team/advisors/tadashi-yoshida.jpg" class="img-fluid br-15" />
+                        <!--<img src="assets/images/team/advisors/tadashi-yoshida.jpg" class="img-fluid br-15" />-->
+                        <picture>
+                            <source srcset="assets/images/team/advisors/tadashi-yoshida.avif" type="image/avif" class="img-fluid br-15" alt="Tadashi Yoshida">
+                            <source srcset="assets/images/team/advisors/tadashi-yoshida.webp" type="image/webp" class="img-fluid br-15" alt="Tadashi Yoshida">
+                            <source srcset="assets/images/team/advisors/tadashi-yoshida.png" type="image/png" class="img-fluid br-15" alt="Tadashi Yoshida">
+                            <!-- D: Fallback -->
+                            <img src="assets/images/team/advisors/tadashi-yoshida.png" class="img-fluid br-15" alt="Tadashi Yoshida">
+                        </picture>
                     </div>
                     <div class="team__content">
                         <div class="short-desc">
@@ -412,7 +524,14 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <img src="assets/images/team/core-team/atul-khekade.jpg" class="img-fluid team-img br-15">
+                        <!--<img src="assets/images/team/core-team/atul-khekade.jpg" class="img-fluid team-img br-15" alt="Atul Khekade">-->
+                        <picture>
+                            <source srcset="assets/images/team/core-team/atul-khekade.avif" type="image/avif" class="img-fluid team-img br-15" alt="Atul Khekade">
+                            <source srcset="assets/images/team/core-team/atul-khekade.webp" type="image/webp" class="img-fluid team-img br-15" alt="Atul Khekade">
+                            <source srcset="assets/images/team/core-team/atul-khekade.png" type="image/png" class="img-fluid team-img br-15" alt="Atul Khekade">
+                            <!-- D: Fallback -->
+                            <img src="assets/images/team/core-team/atul-khekade.png" class="img-fluid team-img br-15" alt="Atul Khekade">
+                        </picture>
                     </div>
                     <div class="team__content">
                         <div class="short-desc">
@@ -450,7 +569,14 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <img src="assets/images/team/core-team/ritesh-kakkad.jpg" class="img-fluid team-img br-15">
+                        <!--<img src="assets/images/team/core-team/ritesh-kakkad.jpg" class="img-fluid team-img br-15" alt="Ritesh Kakkad">-->
+                        <picture>
+                            <source srcset="assets/images/team/core-team/ritesh-kakkad.avif" type="image/avif" class="img-fluid team-img br-15" alt="Ritesh Kakkad">
+                            <source srcset="assets/images/team/core-team/ritesh-kakkad.webp" type="image/webp" class="img-fluid team-img br-15" alt="Ritesh Kakkad">
+                            <source srcset="assets/images/team/core-team/ritesh-kakkad.png" type="image/png" class="img-fluid team-img br-15" alt="Ritesh Kakkad">
+                            <!-- D: Fallback -->
+                            <img src="assets/images/team/core-team/ritesh-kakkad.png" class="img-fluid team-img br-15" alt="Ritesh Kakkad">
+                        </picture>
                     </div>
                     <div class="team__content">
                         <div class="short-desc">
@@ -488,7 +614,14 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <img src="assets/images/team/core-team/sunil-senapati.jpg" class="img-fluid team-img br-15">
+                        <!--<img src="assets/images/team/core-team/sunil-senapati.jpg" class="img-fluid team-img br-15" alt="Sunil Senapati">-->
+                        <picture>
+                            <source srcset="assets/images/team/core-team/sunil-senapati.avif" type="image/avif" class="img-fluid team-img br-15" alt="Sunil Senapati">
+                            <source srcset="assets/images/team/core-team/sunil-senapati.webp" type="image/webp" class="img-fluid team-img br-15" alt="Sunil Senapati">
+                            <source srcset="assets/images/team/core-team/sunil-senapati.png" type="image/png" class="img-fluid team-img br-15" alt="Sunil Senapati">
+                            <!-- D: Fallback -->
+                            <img src="assets/images/team/core-team/sunil-senapati.png" class="img-fluid team-img br-15" alt="Sunil Senapati">
+                        </picture>
                     </div>
                     <div class="team__content">
                         <div class="short-desc">
@@ -527,7 +660,14 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <img src="assets/images/team/core-team/bill-sebell.jpg" class="img-fluid team-img br-15">
+                        <!--<img src="assets/images/team/core-team/bill-sebell.jpg" class="img-fluid team-img br-15" alt="Bill Sebell">-->
+                        <picture>
+                            <source srcset="assets/images/team/core-team/bill-sebell.avif" type="image/avif" class="img-fluid team-img br-15" alt="Bill Sebell">
+                            <source srcset="assets/images/team/core-team/bill-sebell.webp" type="image/webp" class="img-fluid team-img br-15" alt="Bill Sebell">
+                            <source srcset="assets/images/team/core-team/bill-sebell.png" type="image/png" class="img-fluid team-img br-15" alt="Bill Sebell">
+                            <!-- D: Fallback -->
+                            <img src="assets/images/team/core-team/bill-sebell.png" class="img-fluid team-img br-15" alt="Bill Sebell">
+                        </picture>
                     </div>
                     <div class="team__content">
                         <div class="short-desc">
@@ -565,7 +705,14 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <img src="assets/images/team/core-team/andre-casterman.jpg" class="img-fluid team-img br-15">
+                        <!--<img src="assets/images/team/core-team/andre-casterman.jpg" class="img-fluid team-img br-15" alt="André Casterman">-->
+                        <picture>
+                            <source srcset="assets/images/team/core-team/andre-casterman.avif" type="image/avif" class="img-fluid team-img br-15" alt="André Casterman">
+                            <source srcset="assets/images/team/core-team/andre-casterman.webp" type="image/webp" class="img-fluid team-img br-15" alt="André Casterman">
+                            <source srcset="assets/images/team/core-team/andre-casterman.jpg" type="image/jpg" class="img-fluid team-img br-15" alt="André Casterman">
+                            <!-- D: Fallback -->
+                            <img src="assets/images/team/core-team/andre-casterman.jpg" class="img-fluid team-img br-15" alt="André Casterman">
+                        </picture>
                     </div>
                     <div class="team__content">
                         <div class="short-desc">
@@ -603,7 +750,14 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <img src="assets/images/team/core-team/andrea-frosinini.jpg" class="img-fluid team-img br-15">
+                        <!--<img src="assets/images/team/core-team/andrea-frosinini.jpg" class="img-fluid team-img br-15" alt="Andrea Frosinini">-->
+                        <picture>
+                            <source srcset="assets/images/team/core-team/andrea-frosinini.avif" type="image/avif" class="img-fluid team-img br-15" alt="Andrea Frosinini">
+                            <source srcset="assets/images/team/core-team/andrea-frosinini.webp" type="image/webp" class="img-fluid team-img br-15" alt="Andrea Frosinini">
+                            <source srcset="assets/images/team/core-team/andrea-frosinini.jpg" type="image/jpg" class="img-fluid team-img br-15" alt="Andrea Frosinini">
+                            <!-- D: Fallback -->
+                            <img src="assets/images/team/core-team/andrea-frosinini.jpg" class="img-fluid team-img br-15" alt="Andrea Frosinini">
+                        </picture>
                     </div>
                     <div class="team__content">
                         <div class="short-desc">
@@ -641,7 +795,14 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <img src="assets/images/team/core-team/confidence-nyirenda.jpg" class="img-fluid team-img br-15">
+                        <!--<img src="assets/images/team/core-team/confidence-nyirenda.jpg" class="img-fluid team-img br-15" alt="Confidence Nyirenda">-->
+                        <picture>
+                            <source srcset="assets/images/team/core-team/confidence-nyirenda.avif" type="image/avif" class="img-fluid team-img br-15" alt="Confidence Nyirenda">
+                            <source srcset="assets/images/team/core-team/confidence-nyirenda.webp" type="image/webp" class="img-fluid team-img br-15" alt="Confidence Nyirenda">
+                            <source srcset="assets/images/team/core-team/confidence-nyirenda.jpg" type="image/jpg" class="img-fluid team-img br-15" alt="Confidence Nyirenda">
+                            <!-- D: Fallback -->
+                            <img src="assets/images/team/core-team/confidence-nyirenda.jpg" class="img-fluid team-img br-15" alt="Confidence Nyirenda">
+                        </picture>
                     </div>
                     <div class="team__content">
                         <div class="short-desc">
@@ -679,7 +840,14 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <img src="assets/images/team/core-team/rebecah-dausen.jpg" class="img-fluid team-img br-15">
+                        <!--<img src="assets/images/team/core-team/rebecah-dausen.jpg" class="img-fluid team-img br-15" alt="Rebecah Dausen">-->
+                        <picture>
+                            <source srcset="assets/images/team/core-team/rebecah-dausen.avif" type="image/avif" class="img-fluid team-img br-15" alt="Rebecah Dausen">
+                            <source srcset="assets/images/team/core-team/rebecah-dausen.webp" type="image/webp" class="img-fluid team-img br-15" alt="Rebecah Dausen">
+                            <source srcset="assets/images/team/core-team/rebecah-dausen.jpg" type="image/jpg" class="img-fluid team-img br-15" alt="Rebecah Dausen">
+                            <!-- D: Fallback -->
+                            <img src="assets/images/team/core-team/rebecah-dausen.jpg" class="img-fluid team-img br-15" alt="Rebecah Dausen">
+                        </picture>
                     </div>
                     <div class="team__content">
                         <div class="short-desc">
@@ -717,7 +885,14 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <img src="assets/images/team/core-team/chen-shanlong.jpg" class="img-fluid team-img br-15">
+                        <!--<img src="assets/images/team/core-team/chen-shanlong.jpg" class="img-fluid team-img br-15" alt="Chen Shanlong">-->
+                        <picture>
+                            <source srcset="assets/images/team/core-team/chen-shanlong.avif" type="image/avif" class="img-fluid team-img br-15" alt="Chen Shanlong">
+                            <source srcset="assets/images/team/core-team/chen-shanlong.webp" type="image/webp" class="img-fluid team-img br-15" alt="Chen Shanlong">
+                            <source srcset="assets/images/team/core-team/chen-shanlong.jpg" type="image/jpg" class="img-fluid team-img br-15" alt="Chen Shanlong">
+                            <!-- D: Fallback -->
+                            <img src="assets/images/team/core-team/chen-shanlong.jpg" class="img-fluid team-img br-15" alt="Chen Shanlong">
+                        </picture>
                     </div>
                     <div class="team__content">
                         <div class="short-desc">
@@ -755,7 +930,14 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <img src="assets/images/team/core-team/sean-white.jpg" class="img-fluid team-img br-15">
+                        <!--<img src="assets/images/team/core-team/sean-white.jpg" class="img-fluid team-img br-15" alt="Sean White">-->
+                        <picture>
+                            <source srcset="assets/images/team/core-team/sean-white.avif" type="image/avif" class="img-fluid team-img br-15" alt="Sean White">
+                            <source srcset="assets/images/team/core-team/sean-white.webp" type="image/webp" class="img-fluid team-img br-15" alt="Sean White">
+                            <source srcset="assets/images/team/core-team/sean-white.jpg" type="image/jpg" class="img-fluid team-img br-15" alt="Sean White">
+                            <!-- D: Fallback -->
+                            <img src="assets/images/team/core-team/sean-white.jpg" class="img-fluid team-img br-15" alt="Sean White">
+                        </picture>
                     </div>
                     <div class="team__content">
                         <div class="short-desc">
@@ -793,7 +975,14 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <img src="assets/images/team/core-team/can-inac.jpg" class="img-fluid team-img br-15">
+                        <!--<img src="assets/images/team/core-team/can-inac.jpg" class="img-fluid team-img br-15" alt="Can Inac">-->
+                        <picture>
+                            <source srcset="assets/images/team/core-team/can-inac.avif" type="image/avif" class="img-fluid team-img br-15" alt="Can Inac">
+                            <source srcset="assets/images/team/core-team/can-inac.webp" type="image/webp" class="img-fluid team-img br-15" alt="Can Inac">
+                            <source srcset="assets/images/team/core-team/can-inac.jpg" type="image/jpg" class="img-fluid team-img br-15" alt="Can Inac">
+                            <!-- D: Fallback -->
+                            <img src="assets/images/team/core-team/can-inac.jpg" class="img-fluid team-img br-15" alt="Can Inac">
+                        </picture>
                     </div>
                     <div class="team__content">
                         <div class="short-desc">
@@ -831,7 +1020,14 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <img src="assets/images/team/core-team/arturo-cantera.jpg" class="img-fluid team-img br-15">
+                        <!--<img src="assets/images/team/core-team/arturo-cantera.jpg" class="img-fluid team-img br-15" alt="Arturo Cantera">-->
+                        <picture>
+                            <source srcset="assets/images/team/core-team/arturo-cantera.avif" type="image/avif" class="img-fluid team-img br-15" alt="Arturo Cantera">
+                            <source srcset="assets/images/team/core-team/arturo-cantera.webp" type="image/webp" class="img-fluid team-img br-15" alt="Arturo Cantera">
+                            <source srcset="assets/images/team/core-team/arturo-cantera.jpg" type="image/jpg" class="img-fluid team-img br-15" alt="Arturo Cantera">
+                            <!-- D: Fallback -->
+                            <img src="assets/images/team/core-team/arturo-cantera.jpg" class="img-fluid team-img br-15" alt="Arturo Cantera">
+                        </picture>
                     </div>
                     <div class="team__content">
                         <div class="short-desc">
@@ -869,7 +1065,14 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <img src="assets/images/team/core-team/diego-consimo.jpg" class="img-fluid team-img br-15">
+                        <!--<img src="assets/images/team/core-team/diego-consimo.jpg" class="img-fluid team-img br-15" alt="Diego Consimo">-->
+                        <picture>
+                            <source srcset="assets/images/team/core-team/diego-consimo.avif" type="image/avif" class="img-fluid team-img br-15" alt="Diego Consimo">
+                            <source srcset="assets/images/team/core-team/diego-consimo.webp" type="image/webp" class="img-fluid team-img br-15" alt="Diego Consimo">
+                            <source srcset="assets/images/team/core-team/diego-consimo.jpg" type="image/jpg" class="img-fluid team-img br-15" alt="Diego Consimo">
+                            <!-- D: Fallback -->
+                            <img src="assets/images/team/core-team/diego-consimo.jpg" class="img-fluid team-img br-15" alt="Diego Consimo">
+                        </picture>
                     </div>
                     <div class="team__content">
                         <div class="short-desc">
@@ -909,7 +1112,14 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-						<img src="assets/images/team/core-team/roland-jones.jpg" class="img-fluid team-img br-15">
+						<!--<img src="assets/images/team/core-team/roland-jones.jpg" class="img-fluid team-img br-15" alt="Roland Q. Jones">-->
+                        <picture>
+                            <source srcset="assets/images/team/core-team/roland-jones.avif" type="image/avif" class="img-fluid team-img br-15" alt="Roland Q. Jones">
+                            <source srcset="assets/images/team/core-team/roland-jones.webp" type="image/webp" class="img-fluid team-img br-15" alt="Roland Q. Jones">
+                            <source srcset="assets/images/team/core-team/roland-jones.jpg" type="image/jpg" class="img-fluid team-img br-15" alt="Roland Q. Jones">
+                            <!-- D: Fallback -->
+                            <img src="assets/images/team/core-team/roland-jones.jpg" class="img-fluid team-img br-15" alt="Roland Q. Jones">
+                        </picture>
                     </div>
                     <div class="team__content">
                         <div class="short-desc">
