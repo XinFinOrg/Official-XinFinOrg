@@ -515,23 +515,6 @@ include('inc/header.php') ?>
 
                         <div class="row">
                             <div class="col-lg-4 col-md-4 mt-2 mb-2">
-                                <picture>
-                                    <source srcset="assets/images/inside-page/events/money2020_asia.avif 1400w" media="(width >= 900px)" sizes="(width >= 900px) 1400px, 100vw" type="image/avif">
-                                    <source srcset="assets/images/inside-page/events/money2020_asia.webp 1400w" media="(width >= 900px)" sizes="(width >= 900px) 1400px, 100vw 1400w, 100vw" type="image/webp">
-                                    <source srcset="assets/images/inside-page/events/money2020_asia.jpg 1400w" media="(width >= 900px)" sizes="(width >= 900px) 1400px, 100vw" type="image/jpg">
-                                    <!-- D: Fallback -->
-                                    <img src="assets/images/inside-page/events/money2020_asia.jpg" width="430" height="600" alt="">
-                                </picture>
-                            </div>                            
-                            <div class="col-lg-4 col-md-4 mt-2 mb-2">
-                                <picture>
-                                    <source srcset="assets/images/inside-page/events/money2020_asia.avif" type="image/avif" class="img-fluid">
-                                    <source srcset="assets/images/inside-page/events/money2020_asia.webp" type="image/webp" class="img-fluid">
-                                    <source srcset="assets/images/inside-page/events/money2020_asia.jpeg" type="image/jpeg" class="img-fluid">
-                                    <!-- D: Fallback -->
-                                    <img src="assets/images/inside-page/events/money2020_asia.jpeg" class="img-fluid">
-                                </picture>
-                            </div>
                             <div class="col-lg-4 col-md-4 mt-2 mb-2">
                                 <picture>
                                     <source srcset="assets/images/inside-page/events/money2020_asia.avif" type="image/avif" class="img-fluid">
@@ -541,6 +524,7 @@ include('inc/header.php') ?>
                                     <img src="assets/images/inside-page/events/money2020_asia.jpg" class="img-fluid">
                                 </picture>
                             </div>
+
                         </div>
 
                     </div>
