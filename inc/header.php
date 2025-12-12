@@ -50,7 +50,369 @@
         <!-- Theme Switcher -->
 	    <script src="<?php echo base_url() ; ?>/assets/js/switcher/js.cookie.js"></script>
         <script src="<?php echo base_url() ; ?>/assets/js/switcher/jquery.style.switcher.js"></script>
-        
+
+
+        <script type="application/ld+json">
+            {
+            "@context": "https://schema.org",
+            "@graph": [
+                {
+                "@type": "Organization",
+                "@id": "https://xinfin.org/#organization",
+                "name": "XDC Network",
+                "url": "https://xinfin.org/",
+                "alternateName": [
+                    "XinFin Network",
+                    "XinFin"
+                ],
+                "description": "The Decentralized and Open Source Smart Contract Platform, Driven by Community for Seamless Execution of Enterprise-Friendly Use Cases such as Trade Finance and Payment.",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://xinfin.org//assets/images/xdc-network-logo.svg"
+                },
+                "sameAs": [
+                    "https://x.com/XDCNetwork",
+                    "https://www.linkedin.com/company/xdcnetwork",
+                    "https://www.youtube.com/@XDCNetwork_TV",
+                    "https://t.me/xinfintalk",
+                    "https://medium.com/@xdcnetwork_",
+                    "https://www.reddit.com/r/xinfin",
+                    "https://github.com/xinfinorg"
+                ]
+                },
+                {
+                "@type": "WebSite",
+                "@id": "https://xinfin.org/#website",
+                "url": "https://xinfin.org/",
+                "name": "XDC Network",
+                "publisher": {
+                    "@id": "https://xinfin.org/#organization"
+                },
+                "inLanguage": "en"
+                },
+
+                /* ---------- HOME PAGE ---------- */
+                {
+                "@type": "WebPage",
+                "@id": "https://xinfin.org/",
+                "url": "https://xinfin.org/",
+                "name": "XDC Network | Decentralized Smart Contracts Platform",
+                "isPartOf": {
+                    "@id": "https://xinfin.org/#website"
+                },
+                "about": {
+                    "@id": "https://xinfin.org/#organization"
+                },
+                "breadcrumb": {
+                    "@id": "https://xinfin.org/#breadcrumb-home"
+                },
+                "inLanguage": "en"
+                },
+                {
+                "@type": "BreadcrumbList",
+                "@id": "https://xinfin.org/#breadcrumb-home",
+                "itemListElement": [
+                    {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://xinfin.org/"
+                    }
+                ]
+                },
+
+                /* ---------- ABOUT ---------- */
+                {
+                "@type": "WebPage",
+                "@id": "https://xinfin.org/about",
+                "url": "https://xinfin.org/about",
+                "name": "About XDC Network",
+                "isPartOf": {
+                    "@id": "https://xinfin.org/#website"
+                },
+                "about": {
+                    "@id": "https://xinfin.org/#organization"
+                },
+                "breadcrumb": {
+                    "@id": "https://xinfin.org/#breadcrumb-about"
+                },
+                "inLanguage": "en"
+                },
+                {
+                "@type": "BreadcrumbList",
+                "@id": "https://xinfin.org/#breadcrumb-about",
+                "itemListElement": [
+                    {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://xinfin.org/"
+                    },
+                    {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "About",
+                    "item": "https://xinfin.org/about"
+                    }
+                ]
+                },
+
+                /* ---------- ECOSYSTEM dAPPS ---------- */
+                {
+                "@type": "WebPage",
+                "@id": "https://xinfin.org/ecosystem-dapps",
+                "url": "https://xinfin.org/ecosystem-dapps",
+                "name": "XDC Network Ecosystem dApps",
+                "isPartOf": {
+                    "@id": "https://xinfin.org/#website"
+                },
+                "about": {
+                    "@id": "https://xinfin.org/#organization"
+                },
+                "breadcrumb": {
+                    "@id": "https://xinfin.org/#breadcrumb-ecosystem-dapps"
+                },
+                "inLanguage": "en"
+                },
+                {
+                "@type": "BreadcrumbList",
+                "@id": "https://xinfin.org/#breadcrumb-ecosystem-dapps",
+                "itemListElement": [
+                    {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://xinfin.org/"
+                    },
+                    {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Ecosystem dApps",
+                    "item": "https://xinfin.org/ecosystem-dapps"
+                    }
+                ]
+                },
+
+                /* ---------- SETUP MASTERNODE ---------- */
+                {
+                "@type": "WebPage",
+                "@id": "https://xinfin.org/setup-masternode",
+                "url": "https://xinfin.org/setup-masternode",
+                "name": "XDC Network Masternodes | Setup Masternode",
+                "isPartOf": {
+                    "@id": "https://xinfin.org/#website"
+                },
+                "about": {
+                    "@id": "https://xinfin.org/#organization"
+                },
+                "breadcrumb": {
+                    "@id": "https://xinfin.org/#breadcrumb-setup-masternode"
+                },
+                "inLanguage": "en"
+                },
+                {
+                "@type": "BreadcrumbList",
+                "@id": "https://xinfin.org/#breadcrumb-setup-masternode",
+                "itemListElement": [
+                    {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://xinfin.org/"
+                    },
+                    {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Setup Masternode",
+                    "item": "https://xinfin.org/setup-masternode"
+                    }
+                ]
+                },
+
+                /* ---------- QUICK TOOLS GUIDE ---------- */
+                {
+                "@type": "WebPage",
+                "@id": "https://xinfin.org/quick-tools-guide",
+                "url": "https://xinfin.org/quick-tools-guide",
+                "name": "XDC Chain Network Tools and Documents",
+                "isPartOf": {
+                    "@id": "https://xinfin.org/#website"
+                },
+                "about": {
+                    "@id": "https://xinfin.org/#organization"
+                },
+                "breadcrumb": {
+                    "@id": "https://xinfin.org/#breadcrumb-quick-tools"
+                },
+                "inLanguage": "en"
+                },
+                {
+                "@type": "BreadcrumbList",
+                "@id": "https://xinfin.org/#breadcrumb-quick-tools",
+                "itemListElement": [
+                    {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://xinfin.org/"
+                    },
+                    {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Quick Tools Guide",
+                    "item": "https://xinfin.org/quick-tools-guide"
+                    }
+                ]
+                },
+
+                /* ---------- BRAND ASSETS ---------- */
+                {
+                "@type": "WebPage",
+                "@id": "https://xinfin.org/brand-assets",
+                "url": "https://xinfin.org/brand-assets",
+                "name": "XDC Network Brand Assets",
+                "isPartOf": {
+                    "@id": "https://xinfin.org/#website"
+                },
+                "about": {
+                    "@id": "https://xinfin.org/#organization"
+                },
+                "breadcrumb": {
+                    "@id": "https://xinfin.org/#breadcrumb-brand-assets"
+                },
+                "inLanguage": "en"
+                },
+                {
+                "@type": "BreadcrumbList",
+                "@id": "https://xinfin.org/#breadcrumb-brand-assets",
+                "itemListElement": [
+                    {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://xinfin.org/"
+                    },
+                    {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Brand Assets",
+                    "item": "https://xinfin.org/brand-assets"
+                    }
+                ]
+                },
+
+                /* ---------- XDC ACCELERATOR PROGRAM ---------- */
+                {
+                "@type": "WebPage",
+                "@id": "https://xinfin.org/xdc-accelerator-program",
+                "url": "https://xinfin.org/xdc-accelerator-program",
+                "name": "XDC Accelerator Program",
+                "isPartOf": {
+                    "@id": "https://xinfin.org/#website"
+                },
+                "about": {
+                    "@id": "https://xinfin.org/#organization"
+                },
+                "breadcrumb": {
+                    "@id": "https://xinfin.org/#breadcrumb-xdc-accelerator"
+                },
+                "inLanguage": "en"
+                },
+                {
+                "@type": "BreadcrumbList",
+                "@id": "https://xinfin.org/#breadcrumb-xdc-accelerator",
+                "itemListElement": [
+                    {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://xinfin.org/"
+                    },
+                    {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "XDC Accelerator Program",
+                    "item": "https://xinfin.org/xdc-accelerator-program"
+                    }
+                ]
+                },
+
+                /* ---------- COMMUNITY BOUNTY ---------- */
+                {
+                "@type": "WebPage",
+                "@id": "https://xinfin.org/community-bounty",
+                "url": "https://xinfin.org/community-bounty",
+                "name": "XDC Community Bounty Program",
+                "isPartOf": {
+                    "@id": "https://xinfin.org/#website"
+                },
+                "about": {
+                    "@id": "https://xinfin.org/#organization"
+                },
+                "breadcrumb": {
+                    "@id": "https://xinfin.org/#breadcrumb-community-bounty"
+                },
+                "inLanguage": "en"
+                },
+                {
+                "@type": "BreadcrumbList",
+                "@id": "https://xinfin.org/#breadcrumb-community-bounty",
+                "itemListElement": [
+                    {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://xinfin.org/"
+                    },
+                    {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Community Bounty",
+                    "item": "https://xinfin.org/community-bounty"
+                    }
+                ]
+                },
+
+                /* ---------- CUSTODY SERVICES INTEGRATION ---------- */
+                {
+                "@type": "WebPage",
+                "@id": "https://xinfin.org/custody-services-integration",
+                "url": "https://xinfin.org/custody-services-integration",
+                "name": "Custody Services Integration | XDC Network",
+                "isPartOf": {
+                    "@id": "https://xinfin.org/#website"
+                },
+                "about": {
+                    "@id": "https://xinfin.org/#organization"
+                },
+                "breadcrumb": {
+                    "@id": "https://xinfin.org/#breadcrumb-custody"
+                },
+                "inLanguage": "en"
+                },
+                {
+                "@type": "BreadcrumbList",
+                "@id": "https://xinfin.org/#breadcrumb-custody",
+                "itemListElement": [
+                    {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://xinfin.org/"
+                    },
+                    {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Custody Services Integration",
+                    "item": "https://xinfin.org/custody-services-integration"
+                    }
+                ]
+                }
+            ]
+            }
+        </script>
+
+
     </head>
     <body>
         
@@ -74,8 +436,8 @@
         <header class="autohide header-wrapper sticky-header">
             <div class="news-bar">
                 <p>
-                    Join XDC Network at <b>India Blockchain Week (IBW)</b> : 2-3 December, 2025.
-                    <a href="https://indiablockchainweek.com/" target="_blank" class="news-bar-button">
+                    Join XDC Network at <b>Money20/20 Asia</b> : 21-23 April, 2026.
+                    <a href="https://asia.money2020.com/" target="_blank" class="news-bar-button">
                         JOIN US
                         <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
