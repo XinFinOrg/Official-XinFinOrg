@@ -373,6 +373,114 @@
                 ]
                 },
 
+                /* ---------- EVENTS ---------- */
+                {
+                "@type": "WebPage",
+                "@id": "https://xinfin.org/events",
+                "url": "https://xinfin.org/events",
+                "name": "Upcoming XDC Network Events",
+                "isPartOf": {
+                    "@id": "https://xinfin.org/#website"
+                },
+                "about": {
+                    "@id": "https://xinfin.org/#organization"
+                },
+                "breadcrumb": {
+                    "@id": "https://xinfin.org/#breadcrumb-events"
+                },
+                "inLanguage": "en"
+                },
+                {
+                "@type": "BreadcrumbList",
+                "@id": "https://xinfin.org/#breadcrumb-events",
+                "itemListElement": [
+                    {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://xinfin.org/"
+                    },
+                    {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Events",
+                    "item": "https://xinfin.org/events"
+                    }
+                ]
+                },
+
+                /* ---------- DEVELOPERS ECOSYSTEM PARTNERS ---------- */
+                {
+                "@type": "WebPage",
+                "@id": "https://xinfin.org/developers-ecosystem-partners",
+                "url": "https://xinfin.org/developers-ecosystem-partners",
+                "name": "Developers Ecosystem Partners",
+                "isPartOf": {
+                    "@id": "https://xinfin.org/#website"
+                },
+                "about": {
+                    "@id": "https://xinfin.org/#organization"
+                },
+                "breadcrumb": {
+                    "@id": "https://xinfin.org/#breadcrumb-developers-ecosystem-partners"
+                },
+                "inLanguage": "en"
+                },
+                {
+                "@type": "BreadcrumbList",
+                "@id": "https://xinfin.org/#breadcrumb-developers-ecosystem-partners",
+                "itemListElement": [
+                    {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://xinfin.org/"
+                    },
+                    {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Developers Ecosystem Partners",
+                    "item": "https://xinfin.org/developers-ecosystem-partners"
+                    }
+                ]
+                },
+
+                /* ---------- GET XDC ---------- */
+                {
+                "@type": "WebPage",
+                "@id": "https://xinfin.org/get-xdc",
+                "url": "https://xinfin.org/get-xdc",
+                "name": "Where to buy XDC",
+                "isPartOf": {
+                    "@id": "https://xinfin.org/#website"
+                },
+                "about": {
+                    "@id": "https://xinfin.org/#organization"
+                },
+                "breadcrumb": {
+                    "@id": "https://xinfin.org/#breadcrumb-get-xdc"
+                },
+                "inLanguage": "en"
+                },
+                {
+                "@type": "BreadcrumbList",
+                "@id": "https://xinfin.org/#breadcrumb-get-xdc",
+                "itemListElement": [
+                    {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://xinfin.org/"
+                    },
+                    {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Where to buy XDC",
+                    "item": "https://xinfin.org/get-xdc"
+                    }
+                ]
+                },
+
                 /* ---------- CUSTODY SERVICES INTEGRATION ---------- */
                 {
                 "@type": "WebPage",

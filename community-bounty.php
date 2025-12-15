@@ -1,5 +1,5 @@
 <?php 
-   $title = "Community Bounty";
+   $title = "XDC Community Bounty";
    $desc = "Community Support Bounty Program: Enhancing XDC Network Together";
    
    include('inc/header.php') ?>
@@ -9,7 +9,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 offset-lg-1 hero-content">
-                <h1 class="title-m text-center mb-0">Community Bounty</h1>
+                <h1 class="title-m text-center mb-0">XDC Community Bounty</h1>
                 <h2 class="subtitle subtitle-s fw-500 text-center mb-0">Community Support Bounty Program: Enhancing XDC Network Together!</h2>
                 <h2 class="subtitle subtitle-s fw-500 text-center mb-0">
                     Welcome to the XDC Community Support Bounty Program, where innovation meets opportunity! We invite passionate individuals and teams to contribute to the growth of the XDC ecosystem. Here's your chance to make a

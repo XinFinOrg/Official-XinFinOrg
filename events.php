@@ -34,7 +34,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://asia.money2020.com/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/money2020_asia.jpg" class="img-fluid" alt="Money20/20 Asia" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/money2020_asia.avif" type="image/avif" class="img-fluid" alt="Money20/20 Asia">
+                                    <source srcset="assets/images/inside-page/events/money2020_asia.webp" type="image/webp" class="img-fluid" alt="Money20/20 Asia">
+                                    <source srcset="assets/images/inside-page/events/money2020_asia.jpg" type="image/jpg" class="img-fluid" alt="Money20/20 Asia">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/money2020_asia.jpg" class="img-fluid" alt="Money20/20 Asia">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -169,7 +175,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://indiablockchainweek.com/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/ibw2025.jpg" class="img-fluid" alt="India Blockchain Week (IBW) 2025" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/ibw2025.avif" type="image/avif" class="img-fluid" alt="India Blockchain Week (IBW) 2025">
+                                    <source srcset="assets/images/inside-page/events/ibw2025.webp" type="image/webp" class="img-fluid" alt="India Blockchain Week (IBW) 2025">
+                                    <source srcset="assets/images/inside-page/events/ibw2025.jpg" type="image/jpg" class="img-fluid" alt="India Blockchain Week (IBW) 2025">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/ibw2025.jpg" class="img-fluid" alt="India Blockchain Week (IBW) 2025">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -216,7 +228,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://finlantern.com/financeforum/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/lugano-finance-forum.jpg" class="img-fluid" alt="Lugano Finance Forum" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/lugano-finance-forum.avif" type="image/avif" class="img-fluid" alt="Lugano Finance Forum">
+                                    <source srcset="assets/images/inside-page/events/lugano-finance-forum.webp" type="image/webp" class="img-fluid" alt="Lugano Finance Forum">
+                                    <source srcset="assets/images/inside-page/events/lugano-finance-forum.jpg" type="image/jpg" class="img-fluid" alt="Lugano Finance Forum">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/lugano-finance-forum.jpg" class="img-fluid" alt="Lugano Finance Forum">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -257,7 +275,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://itfa.org/itfa-larc-commodity-trade-finance-and-digital-innovation-brazil/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/itfa-larc.jpg" class="img-fluid" alt="Commodity Trade Finance and Digital Innovation" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/itfa-larc.avif" type="image/avif" class="img-fluid" alt="Commodity Trade Finance and Digital Innovation">
+                                    <source srcset="assets/images/inside-page/events/itfa-larc.webp" type="image/webp" class="img-fluid" alt="Commodity Trade Finance and Digital Innovation">
+                                    <source srcset="assets/images/inside-page/events/itfa-larc.jpg" type="image/jpg" class="img-fluid" alt="Commodity Trade Finance and Digital Innovation">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/itfa-larc.jpg" class="img-fluid" alt="Commodity Trade Finance and Digital Innovation">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -298,7 +322,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.bitkubsummit.com/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/bitkub-summit-2025.jpg" class="img-fluid" alt="Sibos Frankfurt" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/bitkub-summit-2025.avif" type="image/avif" class="img-fluid" alt="BITKUB SUMMIT 2025">
+                                    <source srcset="assets/images/inside-page/events/bitkub-summit-2025.webp" type="image/webp" class="img-fluid" alt="BITKUB SUMMIT 2025">
+                                    <source srcset="assets/images/inside-page/events/bitkub-summit-2025.jpg" type="image/jpg" class="img-fluid" alt="BITKUB SUMMIT 2025">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/bitkub-summit-2025.jpg" class="img-fluid" alt="BITKUB SUMMIT 2025">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -345,7 +375,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.sibos.com/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/sibos-frankfurt-2025.jpg" class="img-fluid" alt="Sibos Frankfurt" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/sibos-frankfurt-2025.avif" type="image/avif" class="img-fluid" alt="Sibos Frankfurt">
+                                    <source srcset="assets/images/inside-page/events/sibos-frankfurt-2025.webp" type="image/webp" class="img-fluid" alt="Sibos Frankfurt">
+                                    <source srcset="assets/images/inside-page/events/sibos-frankfurt-2025.jpg" type="image/jpg" class="img-fluid" alt="Sibos Frankfurt">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/sibos-frankfurt-2025.jpg" class="img-fluid" alt="Sibos Frankfurt">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -393,7 +429,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.asia.token2049.com/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/token2049-singapore2025.jpg" class="img-fluid" alt="TOKEN2049 SINGAPORE" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/token2049-singapore2025.avif" type="image/avif" class="img-fluid" alt="TOKEN2049 SINGAPORE">
+                                    <source srcset="assets/images/inside-page/events/token2049-singapore2025.webp" type="image/webp" class="img-fluid" alt="TOKEN2049 SINGAPORE">
+                                    <source srcset="assets/images/inside-page/events/token2049-singapore2025.jpg" type="image/jpg" class="img-fluid" alt="TOKEN2049 SINGAPORE">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/token2049-singapore2025.jpg" class="img-fluid" alt="TOKEN2049 SINGAPORE">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -441,7 +483,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.aciti.org.au/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/aciti-2025.jpg" class="img-fluid" alt="ACITI" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/aciti-2025.avif" type="image/avif" class="img-fluid" alt="ACITI">
+                                    <source srcset="assets/images/inside-page/events/aciti-2025.webp" type="image/webp" class="img-fluid" alt="ACITI">
+                                    <source srcset="assets/images/inside-page/events/aciti-2025.jpg" type="image/jpg" class="img-fluid" alt="ACITI">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/aciti-2025.jpg" class="img-fluid" alt="ACITI">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -481,7 +529,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.gtreview.com/events/asia/gtr-asia-2025-singapore/" target="_blank" class="events-card h-100 card bg-darkray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/gtr-asia-2025.jpg" class="img-fluid" alt="GTR ASIA 2025" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/gtr-asia-2025.avif" type="image/avif" class="img-fluid" alt="GTR ASIA 2025">
+                                    <source srcset="assets/images/inside-page/events/gtr-asia-2025.webp" type="image/webp" class="img-fluid" alt="GTR ASIA 2025">
+                                    <source srcset="assets/images/inside-page/events/gtr-asia-2025.jpg" type="image/jpg" class="img-fluid" alt="GTR ASIA 2025">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/gtr-asia-2025.jpg" class="img-fluid" alt="GTR ASIA 2025">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -528,7 +582,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://webx-asia.com/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/webx2025.jpg" class="img-fluid" alt="WebX2025" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/webx2025.avif" type="image/avif" class="img-fluid" alt="WebX2025">
+                                    <source srcset="assets/images/inside-page/events/webx2025.webp" type="image/webp" class="img-fluid" alt="WebX2025">
+                                    <source srcset="assets/images/inside-page/events/webx2025.jpg" type="image/jpg" class="img-fluid" alt="WebX2025">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/webx2025.jpg" class="img-fluid" alt="WebX2025">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -575,7 +635,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.eth-vietnam.com/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/eth-vietnam-2025.jpg" class="img-fluid" alt="ETHVIETNAM 2025" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/eth-vietnam-2025.avif" type="image/avif" class="img-fluid" alt="ETHVIETNAM 2025">
+                                    <source srcset="assets/images/inside-page/events/eth-vietnam-2025.webp" type="image/webp" class="img-fluid" alt="ETHVIETNAM 2025">
+                                    <source srcset="assets/images/inside-page/events/eth-vietnam-2025.jpg" type="image/jpg" class="img-fluid" alt="ETHVIETNAM 2025">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/eth-vietnam-2025.jpg" class="img-fluid" alt="ETHVIETNAM 2025">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -622,7 +688,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://blockchainrio.com.br/en/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/blockchain-rio-2025.jpg" class="img-fluid" alt="Blockchain.RIO | 2025" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/blockchain-rio-2025.avif" type="image/avif" class="img-fluid" alt="Blockchain.RIO | 2025">
+                                    <source srcset="assets/images/inside-page/events/blockchain-rio-2025.webp" type="image/webp" class="img-fluid" alt="Blockchain.RIO | 2025">
+                                    <source srcset="assets/images/inside-page/events/blockchain-rio-2025.jpg" type="image/jpg" class="img-fluid" alt="Blockchain.RIO | 2025">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/blockchain-rio-2025.jpg" class="img-fluid" alt="Blockchain.RIO | 2025">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -669,7 +741,14 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://philblockchainweek.com/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/pbw2025.jpg" class="img-fluid" alt="Philippine Blockchain Week" />
+                            	<!--<img src="assets/images/inside-page/events/pbw2025.jpg" class="img-fluid" alt="Philippine Blockchain Week" />-->
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/pbw2025.avif" type="image/avif" class="img-fluid" alt="Philippine Blockchain Week">
+                                    <source srcset="assets/images/inside-page/events/pbw2025.webp" type="image/webp" class="img-fluid" alt="Philippine Blockchain Week">
+                                    <source srcset="assets/images/inside-page/events/pbw2025.jpg" type="image/jpg" class="img-fluid" alt="Philippine Blockchain Week">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/pbw2025.jpg" class="img-fluid" alt="Philippine Blockchain Week">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -717,7 +796,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.deconference.com.au/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/DECon2025.jpg" class="img-fluid" alt="Australian Digital Economy Conference" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/DECon2025.avif" type="image/avif" class="img-fluid" alt="Australian Digital Economy Conference">
+                                    <source srcset="assets/images/inside-page/events/DECon2025.webp" type="image/webp" class="img-fluid" alt="Australian Digital Economy Conference">
+                                    <source srcset="assets/images/inside-page/events/DECon2025.jpg" type="image/jpg" class="img-fluid" alt="Australian Digital Economy Conference">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/DECon2025.jpg" class="img-fluid" alt="Australian Digital Economy Conference">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -765,7 +850,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/v9dwkedp" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/telekom-friends.jpg" class="img-fluid" alt="Telekom & Friends Vol. 2" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/telekom-friends.avif" type="image/avif" class="img-fluid" alt="Telekom & Friends Vol. 2">
+                                    <source srcset="assets/images/inside-page/events/telekom-friends.webp" type="image/webp" class="img-fluid" alt="Telekom & Friends Vol. 2">
+                                    <source srcset="assets/images/inside-page/events/telekom-friends.jpg" type="image/jpg" class="img-fluid" alt="Telekom & Friends Vol. 2">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/telekom-friends.jpg" class="img-fluid" alt="Telekom & Friends Vol. 2">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -806,7 +897,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://daweek.org/usa-25/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/digital-assets-week.jpg" class="img-fluid" alt="Digital Assets Week" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/digital-assets-week.avif" type="image/avif" class="img-fluid" alt="Digital Assets Week">
+                                    <source srcset="assets/images/inside-page/events/digital-assets-week.webp" type="image/webp" class="img-fluid" alt="Digital Assets Week">
+                                    <source srcset="assets/images/inside-page/events/digital-assets-week.jpg" type="image/jpg" class="img-fluid" alt="Digital Assets Week">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/digital-assets-week.jpg" class="img-fluid" alt="Digital Assets Week">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -853,7 +950,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.dubai.token2049.com/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/token2049_dubai2025.jpg" class="img-fluid" alt="TOKEN2049" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/token2049_dubai2025.avif" type="image/avif" class="img-fluid" alt="TOKEN2049">
+                                    <source srcset="assets/images/inside-page/events/token2049_dubai2025.webp" type="image/webp" class="img-fluid" alt="TOKEN2049">
+                                    <source srcset="assets/images/inside-page/events/token2049_dubai2025.jpg" type="image/jpg" class="img-fluid" alt="TOKEN2049">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/token2049_dubai2025.jpg" class="img-fluid" alt="TOKEN2049">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -901,7 +1004,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.ethdubaiconf.org/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/ethdubai_2025.jpg" class="img-fluid" alt="ETHDubai" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/ethdubai_2025.avif" type="image/avif" class="img-fluid" alt="ETHDubai">
+                                    <source srcset="assets/images/inside-page/events/ethdubai_2025.webp" type="image/webp" class="img-fluid" alt="ETHDubai">
+                                    <source srcset="assets/images/inside-page/events/ethdubai_2025.jpg" type="image/jpg" class="img-fluid" alt="ETHDubai">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/ethdubai_2025.jpg" class="img-fluid" alt="ETHDubai">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -950,7 +1059,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://asia.money2020.com/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/money2020_bangkok2025.jpg" class="img-fluid" alt="MONEY 20/20 ASIA" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/money2020_bangkok2025.avif" type="image/avif" class="img-fluid" alt="MONEY 20/20 ASIA">
+                                    <source srcset="assets/images/inside-page/events/money2020_bangkok2025.webp" type="image/webp" class="img-fluid" alt="MONEY 20/20 ASIA">
+                                    <source srcset="assets/images/inside-page/events/money2020_bangkok2025.jpg" type="image/jpg" class="img-fluid" alt="MONEY 20/20 ASIA">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/money2020_bangkok2025.jpg" class="img-fluid" alt="MONEY 20/20 ASIA">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -999,7 +1114,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://deca.org.au/2025policyforum/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/deca-policy-forum.jpg" class="img-fluid" alt="DECA Policy Forum" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/deca-policy-forum.avif" type="image/avif" class="img-fluid" alt="DECA Policy Forum">
+                                    <source srcset="assets/images/inside-page/events/deca-policy-forum.webp" type="image/webp" class="img-fluid" alt="DECA Policy Forum">
+                                    <source srcset="assets/images/inside-page/events/deca-policy-forum.jpg" type="image/jpg" class="img-fluid" alt="DECA Policy Forum">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/deca-policy-forum.jpg" class="img-fluid" alt="DECA Policy Forum">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -1040,7 +1161,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://stg-3.com/event/rwa-london-summit/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/rwa-london-summit2025.jpg" class="img-fluid" alt="RWA London Summit" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/rwa-london-summit2025.avif" type="image/avif" class="img-fluid" alt="RWA London Summit">
+                                    <source srcset="assets/images/inside-page/events/rwa-london-summit2025.webp" type="image/webp" class="img-fluid" alt="RWA London Summit">
+                                    <source srcset="assets/images/inside-page/events/rwa-london-summit2025.jpg" type="image/jpg" class="img-fluid" alt="RWA London Summit">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/rwa-london-summit2025.jpg" class="img-fluid" alt="RWA London Summit">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -1081,7 +1208,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.fintechweek.hk/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/hongkongfintechweek24.jpg" class="img-fluid" alt="HONG KONG FINTECH WEEK'24" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/hongkongfintechweek24.avif" type="image/avif" class="img-fluid" alt="HONG KONG FINTECH WEEK 24">
+                                    <source srcset="assets/images/inside-page/events/hongkongfintechweek24.webp" type="image/webp" class="img-fluid" alt="HONG KONG FINTECH WEEK 24">
+                                    <source srcset="assets/images/inside-page/events/hongkongfintechweek24.jpg" type="image/jpg" class="img-fluid" alt="HONG KONG FINTECH WEEK 24">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/hongkongfintechweek24.jpg" class="img-fluid" alt="HONG KONG FINTECH WEEK 24">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -1128,7 +1261,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://conference.rakdao.com/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/rak-dao-conference.jpg" class="img-fluid" alt="RAK DAO Conference" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/rak-dao-conference.avif" type="image/avif" class="img-fluid" alt="RAK DAO Conference">
+                                    <source srcset="assets/images/inside-page/events/rak-dao-conference.webp" type="image/webp" class="img-fluid" alt="RAK DAO Conference">
+                                    <source srcset="assets/images/inside-page/events/rak-dao-conference.jpg" type="image/jpg" class="img-fluid" alt="RAK DAO Conference">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/rak-dao-conference.jpg" class="img-fluid" alt="RAK DAO Conference">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -1169,7 +1308,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.gitex.com/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/gitex-global.jpg" class="img-fluid" alt="GITEX GLOBAL 2024" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/gitex-global.avif" type="image/avif" class="img-fluid" alt="GITEX GLOBAL 2024">
+                                    <source srcset="assets/images/inside-page/events/gitex-global.webp" type="image/webp" class="img-fluid" alt="GITEX GLOBAL 2024">
+                                    <source srcset="assets/images/inside-page/events/gitex-global.jpg" type="image/jpg" class="img-fluid" alt="GITEX GLOBAL 2024">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/gitex-global.jpg" class="img-fluid" alt="GITEX GLOBAL 2024">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -1216,7 +1361,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.asia.token2049.com/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/token2049-singapore.jpg" class="img-fluid" alt="TOKEN2049 SINGAPORE" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/token2049-singapore.avif" type="image/avif" class="img-fluid" alt="TOKEN2049 SINGAPORE">
+                                    <source srcset="assets/images/inside-page/events/token2049-singapore.webp" type="image/webp" class="img-fluid" alt="TOKEN2049 SINGAPORE">
+                                    <source srcset="assets/images/inside-page/events/token2049-singapore.jpg" type="image/jpg" class="img-fluid" alt="TOKEN2049 SINGAPORE">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/token2049-singapore.jpg" class="img-fluid" alt="TOKEN2049 SINGAPORE">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -1263,7 +1414,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.aciti.org.au/international-trade-and-finance-in-the-digital-economy" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/aciti.jpg" class="img-fluid" alt="ACITI" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/aciti.avif" type="image/avif" class="img-fluid" alt="ACITI">
+                                    <source srcset="assets/images/inside-page/events/aciti.webp" type="image/webp" class="img-fluid" alt="ACITI">
+                                    <source srcset="assets/images/inside-page/events/aciti.jpg" type="image/jpg" class="img-fluid" alt="ACITI">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/aciti.jpg" class="img-fluid" alt="ACITI">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -1303,7 +1460,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://webx-asia.com/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/webx2024.jpg" class="img-fluid" alt="WEBX2024" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/webx2024.avif" type="image/avif" class="img-fluid" alt="WEBX2024">
+                                    <source srcset="assets/images/inside-page/events/webx2024.webp" type="image/webp" class="img-fluid" alt="WEBX2024">
+                                    <source srcset="assets/images/inside-page/events/webx2024.jpg" type="image/jpg" class="img-fluid" alt="WEBX2024">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/webx2024.jpg" class="img-fluid" alt="WEBX2024">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -1349,7 +1512,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://blockchainrio.com.br/en/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/blockchain-rio.jpg" class="img-fluid" alt="Blockchain Rio" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/blockchain-rio.avif" type="image/avif" class="img-fluid" alt="Blockchain Rio">
+                                    <source srcset="assets/images/inside-page/events/blockchain-rio.webp" type="image/webp" class="img-fluid" alt="Blockchain Rio">
+                                    <source srcset="assets/images/inside-page/events/blockchain-rio.jpg" type="image/jpg" class="img-fluid" alt="Blockchain Rio">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/blockchain-rio.jpg" class="img-fluid" alt="Blockchain Rio">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -1396,7 +1565,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://web3dubai.io/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/web3dubai.jpg" class="img-fluid" alt="WEB3 DUBAI" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/web3dubai.avif" type="image/avif" class="img-fluid" alt="WEB3 DUBAI">
+                                    <source srcset="assets/images/inside-page/events/web3dubai.webp" type="image/webp" class="img-fluid" alt="WEB3 DUBAI">
+                                    <source srcset="assets/images/inside-page/events/web3dubai.jpg" type="image/jpg" class="img-fluid" alt="WEB3 DUBAI">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/web3dubai.jpg" class="img-fluid" alt="WEB3 DUBAI">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -1443,7 +1618,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.dubai.token2049.com/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/token2049.jpg" class="img-fluid" alt="TOKEN2049" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/token2049.avif" type="image/avif" class="img-fluid" alt="TOKEN2049">
+                                    <source srcset="assets/images/inside-page/events/token2049.webp" type="image/webp" class="img-fluid" alt="TOKEN2049">
+                                    <source srcset="assets/images/inside-page/events/token2049.jpg" type="image/jpg" class="img-fluid" alt="TOKEN2049">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/token2049.jpg" class="img-fluid" alt="TOKEN2049">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -1490,7 +1671,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.ethdubaiconf.org/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/ethdubai.jpg" class="img-fluid" alt="ETH Dubai" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/ethdubai.avif" type="image/avif" class="img-fluid" alt="ETH Dubai">
+                                    <source srcset="assets/images/inside-page/events/ethdubai.webp" type="image/webp" class="img-fluid" alt="ETH Dubai">
+                                    <source srcset="assets/images/inside-page/events/ethdubai.jpg" type="image/jpg" class="img-fluid" alt="ETH Dubai">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/ethdubai.jpg" class="img-fluid" alt="ETH Dubai">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -1537,7 +1724,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://ethindia.co/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/eth-india.jpg" class="img-fluid" alt="ETH INDIA" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/eth-india.avif" type="image/avif" class="img-fluid" alt="ETH INDIA">
+                                    <source srcset="assets/images/inside-page/events/eth-india.webp" type="image/webp" class="img-fluid" alt="ETH INDIA">
+                                    <source srcset="assets/images/inside-page/events/eth-india.jpg" type="image/jpg" class="img-fluid" alt="ETH INDIA">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/eth-india.jpg" class="img-fluid" alt="ETH INDIA">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -1584,7 +1777,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.gtreview.com/events/americas/gtr-us-2023-new-york/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/gtr-us.jpg" class="img-fluid" alt="GTR US 2023" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/gtr-us.avif" type="image/avif" class="img-fluid" alt="GTR US 2023">
+                                    <source srcset="assets/images/inside-page/events/gtr-us.webp" type="image/webp" class="img-fluid" alt="GTR US 2023">
+                                    <source srcset="assets/images/inside-page/events/gtr-us.jpg" type="image/jpg" class="img-fluid" alt="GTR US 2023">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/gtr-us.jpg" class="img-fluid" alt="GTR US 2023">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -1625,7 +1824,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.ethabudhabi.org/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/ethabudhabi.jpg" class="img-fluid" alt="ETH AbuDhabi" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/ethabudhabi.avif" type="image/avif" class="img-fluid" alt="ETH AbuDhabi">
+                                    <source srcset="assets/images/inside-page/events/ethabudhabi.webp" type="image/webp" class="img-fluid" alt="ETH AbuDhabi">
+                                    <source srcset="assets/images/inside-page/events/ethabudhabi.jpg" type="image/jpg" class="img-fluid" alt="ETH AbuDhabi">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/ethabudhabi.jpg" class="img-fluid" alt="ETH AbuDhabi">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -1672,7 +1877,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.gtreview.com/events/europe/gtr-turkey-2023-istanbul/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/gtr.jpg" class="img-fluid" alt="GTR Turkey" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/gtr.avif" type="image/avif" class="img-fluid" alt="GTR Turkey">
+                                    <source srcset="assets/images/inside-page/events/gtr.webp" type="image/webp" class="img-fluid" alt="GTR Turkey">
+                                    <source srcset="assets/images/inside-page/events/gtr.jpg" type="image/jpg" class="img-fluid" alt="GTR Turkey">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/gtr.jpg" class="img-fluid" alt="GTR Turkey">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -1713,7 +1924,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.futureblockchainsummit.com/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/fbs.jpg" class="img-fluid" alt="Future Blockchain Summit" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/fbs.avif" type="image/avif" class="img-fluid" alt="Future Blockchain Summit">
+                                    <source srcset="assets/images/inside-page/events/fbs.webp" type="image/webp" class="img-fluid" alt="Future Blockchain Summit">
+                                    <source srcset="assets/images/inside-page/events/fbs.jpg" type="image/jpg" class="img-fluid" alt="Future Blockchain Summit">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/fbs.jpg" class="img-fluid" alt="Future Blockchain Summit">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -1761,7 +1978,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.tradefinancedistribution.com/events/trade-finance-investor-day-2023" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/tfid.jpg" class="img-fluid" alt="The Trade Finance Investor Day" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/tfid.avif" type="image/avif" class="img-fluid" alt="The Trade Finance Investor Day">
+                                    <source srcset="assets/images/inside-page/events/tfid.webp" type="image/webp" class="img-fluid" alt="The Trade Finance Investor Day">
+                                    <source srcset="assets/images/inside-page/events/tfid.jpg" type="image/jpg" class="img-fluid" alt="The Trade Finance Investor Day">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/tfid.jpg" class="img-fluid" alt="The Trade Finance Investor Day">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -1809,7 +2032,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://eblockchainconvention.com/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/ebc.jpg" class="img-fluid" alt="European Blockchain Convention 2023" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/ebc.avif" type="image/avif" class="img-fluid" alt="European Blockchain Convention 2023">
+                                    <source srcset="assets/images/inside-page/events/ebc.webp" type="image/webp" class="img-fluid" alt="European Blockchain Convention 2023">
+                                    <source srcset="assets/images/inside-page/events/ebc.jpg" type="image/jpg" class="img-fluid" alt="European Blockchain Convention 2023">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/ebc.jpg" class="img-fluid" alt="European Blockchain Convention 2023">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -1857,7 +2086,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://hackverse-tamil-nadu.devfolio.co/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/hackverse.jpg" class="img-fluid" alt="Hackverse Chennai India" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/hackverse.avif" type="image/avif" class="img-fluid" alt="Hackverse Chennai India">
+                                    <source srcset="assets/images/inside-page/events/hackverse.webp" type="image/webp" class="img-fluid" alt="Hackverse Chennai India">
+                                    <source srcset="assets/images/inside-page/events/hackverse.jpg" type="image/jpg" class="img-fluid" alt="Hackverse Chennai India">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/hackverse.jpg" class="img-fluid" alt="Hackverse Chennai India">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -1905,7 +2140,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.fintechweek.hk/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/hk-fintech-week.jpg" class="img-fluid" alt="Hong Kong Fintech Week" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/hk-fintech-week.avif" type="image/avif" class="img-fluid" alt="Hong Kong Fintech Week">
+                                    <source srcset="assets/images/inside-page/events/hk-fintech-week.webp" type="image/webp" class="img-fluid" alt="Hong Kong Fintech Week">
+                                    <source srcset="assets/images/inside-page/events/hk-fintech-week.jpg" type="image/jpg" class="img-fluid" alt="Hong Kong Fintech Week">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/hk-fintech-week.jpg" class="img-fluid" alt="Hong Kong Fintech Week">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -1953,7 +2194,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://ethglobal.com/events/istanbul" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/ethglobal-istanbul.jpg" class="img-fluid" alt="GTR US 2023" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/ethglobal-istanbul.avif" type="image/avif" class="img-fluid" alt="GTR US 2023">
+                                    <source srcset="assets/images/inside-page/events/ethglobal-istanbul.webp" type="image/webp" class="img-fluid" alt="GTR US 2023">
+                                    <source srcset="assets/images/inside-page/events/ethglobal-istanbul.jpg" type="image/jpg" class="img-fluid" alt="GTR US 2023">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/ethglobal-istanbul.jpg" class="img-fluid" alt="GTR US 2023">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -2002,7 +2249,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.gtreview.com/events/europe/gtr-nordics-2022-stockholm/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/gtr-nordics.jpg" class="img-fluid" alt="GTR Nordics" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/gtr-nordics.avif" type="image/avif" class="img-fluid" alt="GTR Nordics">
+                                    <source srcset="assets/images/inside-page/events/gtr-nordics.webp" type="image/webp" class="img-fluid" alt="GTR Nordics">
+                                    <source srcset="assets/images/inside-page/events/gtr-nordics.jpg" type="image/jpg" class="img-fluid" alt="GTR Nordics">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/gtr-nordics.jpg" class="img-fluid" alt="GTR Nordics">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -2044,7 +2297,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://fst.net.au/event/future-of-financial-services-sydney-2023/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/ffs.jpg" class="img-fluid" alt="Future of Financial Services, Sydney 2023" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/ffs.avif" type="image/avif" class="img-fluid" alt="Future of Financial Services, Sydney 2023">
+                                    <source srcset="assets/images/inside-page/events/ffs.webp" type="image/webp" class="img-fluid" alt="Future of Financial Services, Sydney 2023">
+                                    <source srcset="assets/images/inside-page/events/ffs.jpg" type="image/jpg" class="img-fluid" alt="Future of Financial Services, Sydney 2023">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/ffs.jpg" class="img-fluid" alt="Future of Financial Services, Sydney 2023">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -2092,7 +2351,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://blockchainweek.com.au/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/blockchainweek-2023.jpg" class="img-fluid" alt="BLOCKCHAIN WEEK 2023" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/blockchainweek-2023.avif" type="image/avif" class="img-fluid" alt="BLOCKCHAIN WEEK 2023">
+                                    <source srcset="assets/images/inside-page/events/blockchainweek-2023.webp" type="image/webp" class="img-fluid" alt="BLOCKCHAIN WEEK 2023">
+                                    <source srcset="assets/images/inside-page/events/blockchainweek-2023.jpg" type="image/jpg" class="img-fluid" alt="BLOCKCHAIN WEEK 2023">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/blockchainweek-2023.jpg" class="img-fluid" alt="BLOCKCHAIN WEEK 2023">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -2157,7 +2422,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://luma.com/tz7yn2ci" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/node-society.jpg" class="img-fluid" alt="Node Society" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/node-society.avif" type="image/avif" class="img-fluid" alt="Node Society">
+                                    <source srcset="assets/images/inside-page/events/node-society.webp" type="image/webp" class="img-fluid" alt="Node Society">
+                                    <source srcset="assets/images/inside-page/events/node-society.jpg" type="image/jpg" class="img-fluid" alt="Node Society">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/node-society.jpg" class="img-fluid" alt="Node Society">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -2203,7 +2474,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://luma.com/n2jbzdmd" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/brunch-and-connect-with-blockdaemon-ethgas-canton-network-and-xdc-network.jpg" class="img-fluid" alt="Brunch and Connect with Blockdaemon, ETHGas, Canton Network and XDC Network" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/brunch-and-connect-with-blockdaemon-ethgas-canton-network-and-xdc-network.avif" type="image/avif" class="img-fluid" alt="Brunch and Connect with Blockdaemon, ETHGas, Canton Network and XDC Network">
+                                    <source srcset="assets/images/inside-page/events/brunch-and-connect-with-blockdaemon-ethgas-canton-network-and-xdc-network.webp" type="image/webp" class="img-fluid" alt="Brunch and Connect with Blockdaemon, ETHGas, Canton Network and XDC Network">
+                                    <source srcset="assets/images/inside-page/events/brunch-and-connect-with-blockdaemon-ethgas-canton-network-and-xdc-network.jpg" type="image/jpg" class="img-fluid" alt="Brunch and Connect with Blockdaemon, ETHGas, Canton Network and XDC Network">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/brunch-and-connect-with-blockdaemon-ethgas-canton-network-and-xdc-network.jpg" class="img-fluid" alt="Brunch and Connect with Blockdaemon, ETHGas, Canton Network and XDC Network">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -2249,7 +2526,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://luma.com/1hrdtoos" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/xdc-t3-meetup.jpg" class="img-fluid" alt="XDC T³ Meetup: Tokenization, Trade & Treasury" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/xdc-t3-meetup.avif" type="image/avif" class="img-fluid" alt="XDC T³ Meetup: Tokenization, Trade & Treasury">
+                                    <source srcset="assets/images/inside-page/events/xdc-t3-meetup.webp" type="image/webp" class="img-fluid" alt="XDC T³ Meetup: Tokenization, Trade & Treasury">
+                                    <source srcset=assets/images/inside-page/events/xdc-t3-meetup.jpg" type="image/jpg" class="img-fluid" alt="XDC T³ Meetup: Tokenization, Trade & Treasury">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/xdc-t3-meetup.jpg" class="img-fluid" alt="XDC T³ Meetup: Tokenization, Trade & Treasury">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -2296,7 +2579,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://luma.com/p3elmayi" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/xdc-t3-mixer.jpg" class="img-fluid" alt="XDC T³ Mixer: Tokenization, Trade & Treasury" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/xdc-t3-mixer.avif" type="image/avif" class="img-fluid" alt="XDC T³ Mixer: Tokenization, Trade & Treasury">
+                                    <source srcset="assets/images/inside-page/events/xdc-t3-mixer.webp" type="image/webp" class="img-fluid" alt="XDC T³ Mixer: Tokenization, Trade & Treasury">
+                                    <source srcset="assets/images/inside-page/events/xdc-t3-mixer.jpg" type="image/jpg" class="img-fluid" alt="XDC T³ Mixer: Tokenization, Trade & Treasury">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/xdc-t3-mixer.jpg" class="img-fluid" alt="XDC T³ Mixer: Tokenization, Trade & Treasury">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -2342,7 +2631,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://luma.com/tidohcvx" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/depin-xdc.jpg" class="img-fluid" alt="DePIN x XDC: Tokenizing Infrastructure, Empowering People" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/depin-xdc.avif" type="image/avif" class="img-fluid" alt="DePIN x XDC: Tokenizing Infrastructure, Empowering People">
+                                    <source srcset="assets/images/inside-page/events/depin-xdc.webp" type="image/webp" class="img-fluid" alt="DePIN x XDC: Tokenizing Infrastructure, Empowering People">
+                                    <source srcset="assets/images/inside-page/events/depin-xdc.jpg" type="image/jpg" class="img-fluid" alt="DePIN x XDC: Tokenizing Infrastructure, Empowering People">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/depin-xdc.jpg" class="img-fluid" alt="DePIN x XDC: Tokenizing Infrastructure, Empowering People">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -2388,7 +2683,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://luma.com/7lkv4sp3" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/the-next-frontier-defi-on-xdc.jpg" class="img-fluid" alt="The Next Frontier: DeFi on XDC" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/the-next-frontier-defi-on-xdc.avif" type="image/avif" class="img-fluid" alt="The Next Frontier: DeFi on XDC">
+                                    <source srcset="assets/images/inside-page/events/the-next-frontier-defi-on-xdc.webp" type="image/webp" class="img-fluid" alt="The Next Frontier: DeFi on XDC">
+                                    <source srcset="assets/images/inside-page/events/the-next-frontier-defi-on-xdc.jpg" type="image/jpg" class="img-fluid" alt="The Next Frontier: DeFi on XDC">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/the-next-frontier-defi-on-xdc.jpg" class="img-fluid" alt="aa">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -2435,7 +2736,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://luma.com/9gn8zcnn" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/unlocking-real-world-assets-rwa-on-xdc.jpg" class="img-fluid" alt="Unlocking Real World Assets: RWA on XDC" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/unlocking-real-world-assets-rwa-on-xdc.avif" type="image/avif" class="img-fluid" alt="Unlocking Real World Assets: RWA on XDC">
+                                    <source srcset="assets/images/inside-page/events/unlocking-real-world-assets-rwa-on-xdc.webp" type="image/webp" class="img-fluid" alt="Unlocking Real World Assets: RWA on XDC">
+                                    <source srcset="assets/images/inside-page/events/unlocking-real-world-assets-rwa-on-xdc.jpg" type="image/jpg" class="img-fluid" alt="Unlocking Real World Assets: RWA on XDC">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/unlocking-real-world-assets-rwa-on-xdc.jpg" class="img-fluid" alt="Unlocking Real World Assets: RWA on XDC">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -2481,7 +2788,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://luma.com/xewf89r7" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/adr-meets-ai-&-blockchain.jpg" class="img-fluid" alt="From Disputes to Digital Trust: ADR Meets AI & Blockchain" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/adr-meets-ai-&-blockchain.avif" type="image/avif" class="img-fluid" alt="From Disputes to Digital Trust: ADR Meets AI & Blockchain">
+                                    <source srcset="assets/images/inside-page/events/adr-meets-ai-&-blockchain.webp" type="image/webp" class="img-fluid" alt="From Disputes to Digital Trust: ADR Meets AI & Blockchain">
+                                    <source srcset="assets/images/inside-page/events/adr-meets-ai-&-blockchain.jpg" type="image/jpg" class="img-fluid" alt="From Disputes to Digital Trust: ADR Meets AI & Blockchain">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/adr-meets-ai-&-blockchain.jpg" class="img-fluid" alt="From Disputes to Digital Trust: ADR Meets AI & Blockchain">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -2527,7 +2840,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://luma.com/zumf539p" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/powering-the-future-of-finance-xdc-payments.jpg" class="img-fluid" alt="Powering the Future of Finance: XDC Payments" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/powering-the-future-of-finance-xdc-payments.avif" type="image/avif" class="img-fluid" alt="Powering the Future of Finance: XDC Payments">
+                                    <source srcset="assets/images/inside-page/events/powering-the-future-of-finance-xdc-payments.webp" type="image/webp" class="img-fluid" alt="Powering the Future of Finance: XDC Payments">
+                                    <source srcset="assets/images/inside-page/events/powering-the-future-of-finance-xdc-payments.jpg" type="image/jpg" class="img-fluid" alt="Powering the Future of Finance: XDC Payments">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/powering-the-future-of-finance-xdc-payments.jpg" class="img-fluid" alt="Powering the Future of Finance: XDC Payments">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -2573,7 +2892,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://luma.com/eohf2qu2" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/xdc-investor-day-2025.jpg" class="img-fluid" alt="From Pitch to Portfolio: XDC Investor Day 2025" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/xdc-investor-day-2025.avif" type="image/avif" class="img-fluid" alt="From Pitch to Portfolio: XDC Investor Day 2025">
+                                    <source srcset="assets/images/inside-page/events/xdc-investor-day-2025.webp" type="image/webp" class="img-fluid" alt="From Pitch to Portfolio: XDC Investor Day 2025">
+                                    <source srcset="assets/images/inside-page/events/xdc-investor-day-2025.jpg" type="image/jpg" class="img-fluid" alt="From Pitch to Portfolio: XDC Investor Day 2025">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/xdc-investor-day-2025.jpg" class="img-fluid" alt="From Pitch to Portfolio: XDC Investor Day 2025">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -2619,7 +2944,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://luma.com/xgquzzbx" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/xdc-network-live-in-seoul-in-partnership-with-dcent-wallet.jpg" class="img-fluid" alt="XDC NETWORK: Live in Seoul in Partnership with D'CENT Wallet" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/xdc-network-live-in-seoul-in-partnership-with-dcent-wallet.avif" type="image/avif" class="img-fluid" alt="XDC NETWORK: Live in Seoul in Partnership with D'CENT Wallet">
+                                    <source srcset="assets/images/inside-page/events/xdc-network-live-in-seoul-in-partnership-with-dcent-wallet.webp" type="image/webp" class="img-fluid" alt="XDC NETWORK: Live in Seoul in Partnership with D'CENT Wallet">
+                                    <source srcset="assets/images/inside-page/events/xdc-network-live-in-seoul-in-partnership-with-dcent-wallet.jpg" type="image/jpg" class="img-fluid" alt="XDC NETWORK: Live in Seoul in Partnership with D'CENT Wallet">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/xdc-network-live-in-seoul-in-partnership-with-dcent-wallet.jpg" class="img-fluid" alt="XDC NETWORK: Live in Seoul in Partnership with D'CENT Wallet">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -2665,7 +2996,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/z1veu36c" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/cryptomondays-2025.jpg" class="img-fluid" alt="CryptoMondays RWA In NYC Featuring A Fireside Chat w/ XDC's Ritesh Kakkad" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/cryptomondays-2025.avif" type="image/avif" class="img-fluid" alt="CryptoMondays RWA In NYC Featuring A Fireside Chat w/ XDC's Ritesh Kakkad">
+                                    <source srcset="assets/images/inside-page/events/cryptomondays-2025.webp" type="image/webp" class="img-fluid" alt="CryptoMondays RWA In NYC Featuring A Fireside Chat w/ XDC's Ritesh Kakkad">
+                                    <source srcset="assets/images/inside-page/events/cryptomondays-2025.jpg" type="image/jpg" class="img-fluid" alt="CryptoMondays RWA In NYC Featuring A Fireside Chat w/ XDC's Ritesh Kakkad">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/cryptomondays-2025.jpg" class="img-fluid" alt="CryptoMondays RWA In NYC Featuring A Fireside Chat w/ XDC's Ritesh Kakkad">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -2711,7 +3048,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/t9jr4nfz" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/defi-unstoppable.jpg" class="img-fluid" alt="DeFi Unstoppable: Innovations, Liquidity, and the Road Ahead" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/defi-unstoppable.avif" type="image/avif" class="img-fluid" alt="DeFi Unstoppable: Innovations, Liquidity, and the Road Ahead">
+                                    <source srcset="assets/images/inside-page/events/defi-unstoppable.webp" type="image/webp" class="img-fluid" alt="DeFi Unstoppable: Innovations, Liquidity, and the Road Ahead">
+                                    <source srcset="assets/images/inside-page/events/defi-unstoppable.jpg" type="image/jpg" class="img-fluid" alt="DeFi Unstoppable: Innovations, Liquidity, and the Road Ahead">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/defi-unstoppable.jpg" class="img-fluid" alt="DeFi Unstoppable: Innovations, Liquidity, and the Road Ahead">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -2758,7 +3101,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/8dzh38wn" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/redefining-payments.jpg" class="img-fluid" alt="Redefining Payments: How Blockchain is Shaping the Future of Transactions" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/redefining-payments.avif" type="image/avif" class="img-fluid" alt="Redefining Payments: How Blockchain is Shaping the Future of Transactions">
+                                    <source srcset="assets/images/inside-page/events/redefining-payments.webp" type="image/webp" class="img-fluid" alt="Redefining Payments: How Blockchain is Shaping the Future of Transactions">
+                                    <source srcset="assets/images/inside-page/events/redefining-payments.jpg" type="image/jpg" class="img-fluid" alt="Redefining Payments: How Blockchain is Shaping the Future of Transactions">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/redefining-payments.jpg" class="img-fluid" alt="Redefining Payments: How Blockchain is Shaping the Future of Transactions">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -2805,7 +3154,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/7ebhc5a0" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/bridging-users-to-web3.jpg" class="img-fluid" alt="Bridging Users to Web3: The Future of Wallets & Exchanges" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/bridging-users-to-web3.avif" type="image/avif" class="img-fluid" alt="Bridging Users to Web3: The Future of Wallets & Exchanges">
+                                    <source srcset="assets/images/inside-page/events/bridging-users-to-web3.webp" type="image/webp" class="img-fluid" alt="Bridging Users to Web3: The Future of Wallets & Exchanges">
+                                    <source srcset="assets/images/inside-page/events/bridging-users-to-web3.jpg" type="image/jpg" class="img-fluid" alt="Bridging Users to Web3: The Future of Wallets & Exchanges">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/bridging-users-to-web3.jpg" class="img-fluid" alt="Bridging Users to Web3: The Future of Wallets & Exchanges">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -2852,7 +3207,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/67mi0cbx" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/xdc-demo-day-dubai.jpg" class="img-fluid" alt="XDC Demo Day Dubai powered by Plug and Play" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/xdc-demo-day-dubai.avif" type="image/avif" class="img-fluid" alt="XDC Demo Day Dubai powered by Plug and Play">
+                                    <source srcset="assets/images/inside-page/events/xdc-demo-day-dubai.webp" type="image/webp" class="img-fluid" alt="XDC Demo Day Dubai powered by Plug and Play">
+                                    <source srcset="assets/images/inside-page/events/xdc-demo-day-dubai.jpg" type="image/jpg" class="img-fluid" alt="XDC Demo Day Dubai powered by Plug and Play">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/xdc-demo-day-dubai.jpg" class="img-fluid" alt="XDC Demo Day Dubai powered by Plug and Play">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -2899,7 +3260,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/8tn82zt8" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/tch-xdc-ecosystem-meetup.jpg" class="img-fluid" alt="TCH x XDC Ecosystem Meetup @Token2049" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/tch-xdc-ecosystem-meetup.avif" type="image/avif" class="img-fluid" alt="TCH x XDC Ecosystem Meetup @Token2049">
+                                    <source srcset="assets/images/inside-page/events/tch-xdc-ecosystem-meetup.webp" type="image/webp" class="img-fluid" alt="TCH x XDC Ecosystem Meetup @Token2049">
+                                    <source srcset="assets/images/inside-page/events/tch-xdc-ecosystem-meetup.jpg" type="image/jpg" class="img-fluid" alt="TCH x XDC Ecosystem Meetup @Token2049">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/tch-xdc-ecosystem-meetup.jpg" class="img-fluid" alt="aa">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -2946,7 +3313,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/wddcvrb1" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/accInvest-elite-opp.jpg" class="img-fluid" alt="AccInvest Elite OPP: A Premier Founder-Investor Centric Event" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/accInvest-elite-opp.avif" type="image/avif" class="img-fluid" alt="AccInvest Elite OPP: A Premier Founder-Investor Centric Event">
+                                    <source srcset="assets/images/inside-page/events/accInvest-elite-opp.webp" type="image/webp" class="img-fluid" alt="AccInvest Elite OPP: A Premier Founder-Investor Centric Event">
+                                    <source srcset="assets/images/inside-page/events/accInvest-elite-opp.jpg" type="image/jpg" class="img-fluid" alt="AccInvest Elite OPP: A Premier Founder-Investor Centric Event">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/accInvest-elite-opp.jpg" class="img-fluid" alt="AccInvest Elite OPP: A Premier Founder-Investor Centric Event">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -2992,7 +3365,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/v02gpty6" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/rwa-revolution-on-blockchain.jpg" class="img-fluid" alt="RWA Revolution on Blockchain" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/rwa-revolution-on-blockchain.avif" type="image/avif" class="img-fluid" alt="RWA Revolution on Blockchain">
+                                    <source srcset="assets/images/inside-page/events/rwa-revolution-on-blockchain.webp" type="image/webp" class="img-fluid" alt="RWA Revolution on Blockchain">
+                                    <source srcset="assets/images/inside-page/events/rwa-revolution-on-blockchain.jpg" type="image/jpg" class="img-fluid" alt="RWA Revolution on Blockchain">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/rwa-revolution-on-blockchain.jpg" class="img-fluid" alt="RWA Revolution on Blockchain">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -3039,7 +3418,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/cj2bu1n4" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/bridging-innovation-and-legal-regulation.jpg" class="img-fluid" alt="Bridging Innovation & Legal Regulation in AI, Blockchain, and Crypto Governance" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/bridging-innovation-and-legal-regulation.avif" type="image/avif" class="img-fluid" alt="Bridging Innovation & Legal Regulation in AI, Blockchain, and Crypto Governance">
+                                    <source srcset="assets/images/inside-page/events/bridging-innovation-and-legal-regulation.webp" type="image/webp" class="img-fluid" alt="Bridging Innovation & Legal Regulation in AI, Blockchain, and Crypto Governance">
+                                    <source srcset="assets/images/inside-page/events/bridging-innovation-and-legal-regulation.jpg" type="image/jpg" class="img-fluid" alt="Bridging Innovation & Legal Regulation in AI, Blockchain, and Crypto Governance">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/bridging-innovation-and-legal-regulation.jpg" class="img-fluid" alt="Bridging Innovation & Legal Regulation in AI, Blockchain, and Crypto Governance">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -3086,7 +3471,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/ixm4f00k" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/terra-forum-powered-by-giakaa-capital.jpg" class="img-fluid" alt="Terra Forum Powered by Giakaa Capital - Dubai Edition" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/terra-forum-powered-by-giakaa-capital.avif" type="image/avif" class="img-fluid" alt="Terra Forum Powered by Giakaa Capital - Dubai Edition">
+                                    <source srcset="assets/images/inside-page/events/terra-forum-powered-by-giakaa-capital.webp" type="image/webp" class="img-fluid" alt="Terra Forum Powered by Giakaa Capital - Dubai Edition">
+                                    <source srcset="assets/images/inside-page/events/terra-forum-powered-by-giakaa-capital.jpg" type="image/jpg" class="img-fluid" alt="Terra Forum Powered by Giakaa Capital - Dubai Edition">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/terra-forum-powered-by-giakaa-capital.jpg" class="img-fluid" alt="Terra Forum Powered by Giakaa Capital - Dubai Edition">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -3132,7 +3523,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/tunnse22" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/powering-the-future.jpg" class="img-fluid" alt="Powering the Future: DePIN & Real-World Infrastructure on Blockchain" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/powering-the-future.avif" type="image/avif" class="img-fluid" alt="Powering the Future: DePIN & Real-World Infrastructure on Blockchain">
+                                    <source srcset="assets/images/inside-page/events/powering-the-future.webp" type="image/webp" class="img-fluid" alt="Powering the Future: DePIN & Real-World Infrastructure on Blockchain">
+                                    <source srcset="assets/images/inside-page/events/powering-the-future.jpg" type="image/jpg" class="img-fluid" alt="Powering the Future: DePIN & Real-World Infrastructure on Blockchain">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/powering-the-future.jpg" class="img-fluid" alt="Powering the Future: DePIN & Real-World Infrastructure on Blockchain">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -3179,7 +3576,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/7ids6eti" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/beyond-hype.jpg" class="img-fluid" alt="Beyond Hype: KOL-Driven Marketing Strategies in Web3" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/beyond-hype.avif" type="image/avif" class="img-fluid" alt="Beyond Hype: KOL-Driven Marketing Strategies in Web3">
+                                    <source srcset="assets/images/inside-page/events/beyond-hype.webp" type="image/webp" class="img-fluid" alt="Beyond Hype: KOL-Driven Marketing Strategies in Web3">
+                                    <source srcset="assets/images/inside-page/events/beyond-hype.jpg" type="image/jpg" class="img-fluid" alt="Beyond Hype: KOL-Driven Marketing Strategies in Web3">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/beyond-hype.jpg" class="img-fluid" alt="Beyond Hype: KOL-Driven Marketing Strategies in Web3">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -3225,7 +3628,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/896w66c5" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/nadmah-xdcnetwork-vc-pitch-fest.jpg" class="img-fluid" alt="Nadmah x XDC Network | VC Pitch Fest" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/nadmah-xdcnetwork-vc-pitch-fest.avif" type="image/avif" class="img-fluid" alt="Nadmah x XDC Network | VC Pitch Fest">
+                                    <source srcset="assets/images/inside-page/events/nadmah-xdcnetwork-vc-pitch-fest.webp" type="image/webp" class="img-fluid" alt="Nadmah x XDC Network | VC Pitch Fest">
+                                    <source srcset="assets/images/inside-page/events/nadmah-xdcnetwork-vc-pitch-fest.jpg" type="image/jpg" class="img-fluid" alt="Nadmah x XDC Network | VC Pitch Fest">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/nadmah-xdcnetwork-vc-pitch-fest.jpg" class="img-fluid" alt="Nadmah x XDC Network | VC Pitch Fest">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -3271,7 +3680,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/shoia4tm" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/securing-the-future-in-digital-assets.jpg" class="img-fluid" alt="Securing the Future in Digital Assets" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/securing-the-future-in-digital-assets.avif" type="image/avif" class="img-fluid" alt="Securing the Future in Digital Assets">
+                                    <source srcset="assets/images/inside-page/events/securing-the-future-in-digital-assets.webp" type="image/webp" class="img-fluid" alt="Securing the Future in Digital Assets">
+                                    <source srcset="assets/images/inside-page/events/securing-the-future-in-digital-assets.jpg" type="image/jpg" class="img-fluid" alt="Securing the Future in Digital Assets">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/securing-the-future-in-digital-assets.jpg" class="img-fluid" alt="Securing the Future in Digital Assets">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -3317,7 +3732,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/3mab1jvp" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/xdc-meme-season-meetup.jpg" class="img-fluid" alt="XDC Meme Season MeetUp" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/xdc-meme-season-meetup.avif" type="image/avif" class="img-fluid" alt="XDC Meme Season MeetUp">
+                                    <source srcset="assets/images/inside-page/events/xdc-meme-season-meetup.webp" type="image/webp" class="img-fluid" alt="XDC Meme Season MeetUp">
+                                    <source srcset="assets/images/inside-page/events/xdc-meme-season-meetup.jpg" type="image/jpg" class="img-fluid" alt="XDC Meme Season MeetUp">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/xdc-meme-season-meetup.jpg" class="img-fluid" alt="XDC Meme Season MeetUp">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -3363,7 +3784,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/ql00izru" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/founder-investor-mixer.jpg" class="img-fluid" alt="Founder-Investor Mixer" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/founder-investor-mixer.avif" type="image/avif" class="img-fluid" alt="Founder-Investor Mixer">
+                                    <source srcset="assets/images/inside-page/events/founder-investor-mixer.webp" type="image/webp" class="img-fluid" alt="Founder-Investor Mixer">
+                                    <source srcset="assets/images/inside-page/events/founder-investor-mixer.jpg" type="image/jpg" class="img-fluid" alt="Founder-Investor Mixer">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/founder-investor-mixer.jpg" class="img-fluid" alt="Founder-Investor Mixer">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -3409,7 +3836,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/iumqz5gm" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/xdc-depin-ecosystem.jpg" class="img-fluid" alt="XDC DePIN Ecosystem" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/xdc-depin-ecosystem.avif" type="image/avif" class="img-fluid" alt="XDC DePIN Ecosystem">
+                                    <source srcset="assets/images/inside-page/events/xdc-depin-ecosystem.webp" type="image/webp" class="img-fluid" alt="XDC DePIN Ecosystem">
+                                    <source srcset="assets/images/inside-page/events/xdc-depin-ecosystem.jpg" type="image/jpg" class="img-fluid" alt="XDC DePIN Ecosystem">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/xdc-depin-ecosystem.jpg" class="img-fluid" alt="XDC DePIN Ecosystem">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -3455,7 +3888,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/aqd39mx6" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/web3-and-ai.jpg" class="img-fluid" alt="WEB3 & AI: Gitex Global Side Event" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/web3-and-ai.avif" type="image/avif" class="img-fluid" alt="WEB3 & AI: Gitex Global Side Event">
+                                    <source srcset="assets/images/inside-page/events/web3-and-ai.webp" type="image/webp" class="img-fluid" alt="WEB3 & AI: Gitex Global Side Event">
+                                    <source srcset="assets/images/inside-page/events/web3-and-ai.jpg" type="image/jpg" class="img-fluid" alt="WEB3 & AI: Gitex Global Side Event">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/web3-and-ai.jpg" class="img-fluid" alt="WEB3 & AI: Gitex Global Side Event">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -3501,7 +3940,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/dcdhfn7c" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/rwa-ecosystem-onxdc.jpg" class="img-fluid" alt="RWA Ecosystem on XDC" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/rwa-ecosystem-onxdc.avif" type="image/avif" class="img-fluid" alt="RWA Ecosystem on XDC">
+                                    <source srcset="assets/images/inside-page/events/rwa-ecosystem-onxdc.webp" type="image/webp" class="img-fluid" alt="RWA Ecosystem on XDC">
+                                    <source srcset="assets/images/inside-page/events/rwa-ecosystem-onxdc.jpg" type="image/jpg" class="img-fluid" alt="RWA Ecosystem on XDC">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/rwa-ecosystem-onxdc.jpg" class="img-fluid" alt="RWA Ecosystem on XDC">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -3547,7 +3992,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/a838a7qr" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/xdc-for-payments.jpg" class="img-fluid" alt="XDC FOR PAYMENTS" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/xdc-for-payments.avif" type="image/avif" class="img-fluid" alt="XDC FOR PAYMENTS">
+                                    <source srcset="assets/images/inside-page/events/xdc-for-payments.webp" type="image/webp" class="img-fluid" alt="XDC FOR PAYMENTS">
+                                    <source srcset="assets/images/inside-page/events/xdc-for-payments.jpg" type="image/jpg" class="img-fluid" alt="XDC FOR PAYMENTS">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/xdc-for-payments.jpg" class="img-fluid" alt="XDC FOR PAYMENTS">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -3593,7 +4044,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/9rtgveeu?tk=2bS2je" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/xdc-demo-day.jpg" class="img-fluid" alt="XDC Demo Day" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/xdc-demo-day.avif" type="image/avif" class="img-fluid" alt="XDC Demo Day">
+                                    <source srcset="assets/images/inside-page/events/xdc-demo-day.webp" type="image/webp" class="img-fluid" alt="XDC Demo Day">
+                                    <source srcset="assets/images/inside-page/events/xdc-demo-day.jpg" type="image/jpg" class="img-fluid" alt="XDC Demo Day">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/xdc-demo-day.jpg" class="img-fluid" alt="XDC Demo Day">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -3639,7 +4096,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/tobiandbrenttoken2049sgVIP" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/web3-with-tobi-and-brent.jpg" class="img-fluid" alt="Token2049 SG with Tobi & Brent - VIP" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/web3-with-tobi-and-brent.avif" type="image/avif" class="img-fluid" alt="Token2049 SG with Tobi & Brent - VIP">
+                                    <source srcset="assets/images/inside-page/events/web3-with-tobi-and-brent.webp" type="image/webp" class="img-fluid" alt="Token2049 SG with Tobi & Brent - VIP">
+                                    <source srcset="assets/images/inside-page/events/web3-with-tobi-and-brent.jpg" type="image/jpg" class="img-fluid" alt="Token2049 SG with Tobi & Brent - VIP">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/web3-with-tobi-and-brent.jpg" class="img-fluid" alt="Token2049 SG with Tobi & Brent - VIP">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -3685,7 +4148,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/tobiandbrenttoken2049sgVIP" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/xdc-demo-day-by-foundership.jpg" class="img-fluid" alt="XDC Network Demo Day @ Token2049 by Foundership" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/xdc-demo-day-by-foundership.avif" type="image/avif" class="img-fluid" alt="XDC Network Demo Day @ Token2049 by Foundership">
+                                    <source srcset="assets/images/inside-page/events/xdc-demo-day-by-foundership.webp" type="image/webp" class="img-fluid" alt="XDC Network Demo Day @ Token2049 by Foundership">
+                                    <source srcset="assets/images/inside-page/events/xdc-demo-day-by-foundership.jpg" type="image/jpg" class="img-fluid" alt="XDC Network Demo Day @ Token2049 by Foundership">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/xdc-demo-day-by-foundership.jpg" class="img-fluid" alt="XDC Network Demo Day @ Token2049 by Foundership">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -3731,7 +4200,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/melx25hw" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/rwa-opportunities-in-xdc-ecosystem.jpg" class="img-fluid" alt="RWA Opportunities in XDC Ecosystem" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/rwa-opportunities-in-xdc-ecosystem.avif" type="image/avif" class="img-fluid" alt="RWA Opportunities in XDC Ecosystem">
+                                    <source srcset="assets/images/inside-page/events/rwa-opportunities-in-xdc-ecosystem.webp" type="image/webp" class="img-fluid" alt="RWA Opportunities in XDC Ecosystem">
+                                    <source srcset="assets/images/inside-page/events/rwa-opportunities-in-xdc-ecosystem.jpg" type="image/jpg" class="img-fluid" alt="RWA Opportunities in XDC Ecosystem">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/rwa-opportunities-in-xdc-ecosystem.jpg" class="img-fluid" alt="RWA Opportunities in XDC Ecosystem">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -3778,7 +4253,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/qlpdvef1" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/the-next-frontier-of-crypto-adoption.jpg" class="img-fluid" alt="The Next Frontier of Crypto Adoption" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/the-next-frontier-of-crypto-adoption.avif" type="image/avif" class="img-fluid" alt="The Next Frontier of Crypto Adoption">
+                                    <source srcset="assets/images/inside-page/events/the-next-frontier-of-crypto-adoption.webp" type="image/webp" class="img-fluid" alt="The Next Frontier of Crypto Adoption">
+                                    <source srcset="assets/images/inside-page/events/the-next-frontier-of-crypto-adoption.jpg" type="image/jpg" class="img-fluid" alt="The Next Frontier of Crypto Adoption">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/the-next-frontier-of-crypto-adoption.jpg" class="img-fluid" alt="The Next Frontier of Crypto Adoption">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -3825,7 +4306,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/usm167v2" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/empowering-institutional-blockchain-adoption-wallets.jpg" class="img-fluid" alt="Empowering Institutional Blockchain Adoption Wallets, Custody & Integrated Accounting" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/empowering-institutional-blockchain-adoption-wallets.avif" type="image/avif" class="img-fluid" alt="Empowering Institutional Blockchain Adoption Wallets, Custody & Integrated Accounting">
+                                    <source srcset="assets/images/inside-page/events/empowering-institutional-blockchain-adoption-wallets.webp" type="image/webp" class="img-fluid" alt="Empowering Institutional Blockchain Adoption Wallets, Custody & Integrated Accounting">
+                                    <source srcset="assets/images/inside-page/events/empowering-institutional-blockchain-adoption-wallets.jpg" type="image/jpg" class="img-fluid" alt="Empowering Institutional Blockchain Adoption Wallets, Custody & Integrated Accounting">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/empowering-institutional-blockchain-adoption-wallets.jpg" class="img-fluid" alt="Empowering Institutional Blockchain Adoption Wallets, Custody & Integrated Accounting">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -3871,7 +4358,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/6ncw135r" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/future-money.jpg" class="img-fluid" alt="Future Money: Fintech, AI and Web3 Book Launch" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/future-money.avif" type="image/avif" class="img-fluid" alt="Future Money: Fintech, AI and Web3 Book Launch">
+                                    <source srcset="assets/images/inside-page/events/future-money.webp" type="image/webp" class="img-fluid" alt="Future Money: Fintech, AI and Web3 Book Launch">
+                                    <source srcset="assets/images/inside-page/events/future-money.jpg" type="image/jpg" class="img-fluid" alt="Future Money: Fintech, AI and Web3 Book Launch">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/future-money.jpg" class="img-fluid" alt="Future Money: Fintech, AI and Web3 Book Launch">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -3917,7 +4410,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/usm167v2" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/women-in-crypto.jpg" class="img-fluid" alt="Women in Crypto" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/women-in-crypto.avif" type="image/avif" class="img-fluid" alt="Women in Crypto">
+                                    <source srcset="assets/images/inside-page/events/women-in-crypto.webp" type="image/webp" class="img-fluid" alt="Women in Crypto">
+                                    <source srcset="assets/images/inside-page/events/women-in-crypto.jpg" type="image/jpg" class="img-fluid" alt="Women in Crypto">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/women-in-crypto.jpg" class="img-fluid" alt="Women in Crypto">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -3963,7 +4462,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/MH-DAO-03-Lawblocks" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/legaltech-mirage.jpg" class="img-fluid" alt="LegalTech Mirage" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/legaltech-mirage.avif" type="image/avif" class="img-fluid" alt="LegalTech Mirage">
+                                    <source srcset="assets/images/inside-page/events/legaltech-mirage.webp" type="image/webp" class="img-fluid" alt="LegalTech Mirage">
+                                    <source srcset="assets/images/inside-page/events/legaltech-mirage.jpg" type="image/jpg" class="img-fluid" alt="LegalTech Mirage">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/legaltech-mirage.jpg" class="img-fluid" alt="LegalTech Mirage">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -4010,7 +4515,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/MH-DAO-05-WEB3AI" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/feasting-on-future-tech.jpg" class="img-fluid" alt="Feasting on Future Tech" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/feasting-on-future-tech.avif" type="image/avif" class="img-fluid" alt="Feasting on Future Tech">
+                                    <source srcset="assets/images/inside-page/events/feasting-on-future-tech.webp" type="image/webp" class="img-fluid" alt="Feasting on Future Tech">
+                                    <source srcset="assets/images/inside-page/events/feasting-on-future-tech.jpg" type="image/jpg" class="img-fluid" alt="Feasting on Future Tech">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/feasting-on-future-tech.jpg" class="img-fluid" alt="Feasting on Future Tech">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -4056,7 +4567,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/bd_xdc.class.dubai" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/unlocking-web3.jpg" class="img-fluid" alt="Unlocking Web3" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/unlocking-web3.avif" type="image/avif" class="img-fluid" alt="Unlocking Web3">
+                                    <source srcset="assets/images/inside-page/events/unlocking-web3.webp" type="image/webp" class="img-fluid" alt="Unlocking Web3">
+                                    <source srcset="assets/images/inside-page/events/unlocking-web3.jpg" type="image/jpg" class="img-fluid" alt="Unlocking Web3">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/unlocking-web3.jpg" class="img-fluid" alt="Unlocking Web3">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -4102,7 +4619,13 @@
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://lu.ma/MH-DAO-04-Web5Nexus" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
-                            	<img src="assets/images/inside-page/events/bridging-the-gap.jpg" class="img-fluid" alt="Bridging the Gap" />
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/bridging-the-gap.avif" type="image/avif" class="img-fluid" alt="Bridging the Gap">
+                                    <source srcset="assets/images/inside-page/events/bridging-the-gap.webp" type="image/webp" class="img-fluid" alt="Bridging the Gap">
+                                    <source srcset="assets/images/inside-page/events/bridging-the-gap.jpg" type="image/jpg" class="img-fluid" alt="Bridging the Gap">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/bridging-the-gap.jpg" class="img-fluid" alt="Bridging the Gap">
+                                </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
