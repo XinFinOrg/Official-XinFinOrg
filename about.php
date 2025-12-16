@@ -6,7 +6,6 @@
 
 <!-- Hero Home Starts -->
 <section class="px-200 px-t250-b100 hero-inside">
-    <!--<div class="container p-relative">-->
     <div class="container">
         <div class="row">
             <div class="col-lg-10 offset-lg-1 hero-content">
@@ -89,19 +88,9 @@
         <div class="row justify-content-center">
             <div class="col-xl-11 col-lg-11">
                 <div class="row justify-content-center">
-                    <!--<div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
-                        <a href="#" data-bs-toggle="modal" data-bs-target="#sydney-ifergan" class="team">
-                            <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/advisors/sydney-ifergan.jpg" class="img-fluid team-img br-15" alt="Sydney Ifergan" />
-                                <h3 class="team-infoHead mt-3 mb-2">Sydney Ifergan</h3>
-                                <p class="text-muted lh-sm mb-0">CMO, Crypto and ICO Expert</p>
-                            </div>
-                        </a>
-                    </div>-->
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#tadashi-yoshida" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <!--<img src="assets/images/team/advisors/tadashi-yoshida.jpg" class="img-fluid team-img br-15" alt="Tadashi Yoshida" />-->
                                 <picture>
                                     <source srcset="assets/images/team/advisors/tadashi-yoshida.avif" type="image/avif" class="img-fluid team-img br-15" alt="Tadashi Yoshida">
                                     <source srcset="assets/images/team/advisors/tadashi-yoshida.webp" type="image/webp" class="img-fluid team-img br-15" alt="Tadashi Yoshida">
@@ -114,15 +103,6 @@
                             </div>
                         </a>
                     </div>
-                    <!--<div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
-                        <a href="#" data-bs-toggle="modal" data-bs-target="#chihiro-kato" class="team">
-                            <div class="h-100 card bg-transparent br-20 border-0">
-                                <img src="assets/images/team/advisors/chihiro-kato.jpg" class="img-fluid team-img br-15" alt="Chihiro Kato" />
-                                <h3 class="team-infoHead mt-3 mb-2">Chihiro Kato</h3>
-                                <p class="text-muted lh-sm mb-0">Chief Strategy Officer, SBI XDC Network APAC Co. Ltd. Head of APAC, XDC Network</p>
-                            </div>
-                        </a>
-                    </div>-->
                 </div>
             </div>
         </div>
@@ -137,7 +117,6 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#atul-khekade" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <!--<img src="assets/images/team/core-team/atul-khekade.jpg" class="img-fluid team-img br-15" alt="Atul Khekade" />-->
                                 <picture>
                                     <source srcset="assets/images/team/core-team/atul-khekade.avif" type="image/avif" class="img-fluid team-img br-15" alt="Atul Khekade">
                                     <source srcset="assets/images/team/core-team/atul-khekade.webp" type="image/webp" class="img-fluid team-img br-15" alt="Atul Khekade">
@@ -153,7 +132,6 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#ritesh-kakkad" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <!--<img src="assets/images/team/core-team/ritesh-kakkad.jpg" class="img-fluid team-img br-15" alt="Ritesh Kakkad" />-->
                                 <picture>
                                     <source srcset="assets/images/team/core-team/ritesh-kakkad.avif" type="image/avif" class="img-fluid team-img br-15" alt="Ritesh Kakkad">
                                     <source srcset="assets/images/team/core-team/ritesh-kakkad.webp" type="image/webp" class="img-fluid team-img br-15" alt="Ritesh Kakkad">
@@ -169,7 +147,6 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#sunil-senapati" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <!--<img src="assets/images/team/core-team/sunil-senapati.jpg" class="img-fluid team-img br-15" alt="Sunil Senapati" />-->
                                 <picture>
                                     <source srcset="assets/images/team/core-team/sunil-senapati.avif" type="image/avif" class="img-fluid team-img br-15" alt="Sunil Senapati">
                                     <source srcset="assets/images/team/core-team/sunil-senapati.webp" type="image/webp" class="img-fluid team-img br-15" alt="Sunil Senapati">
@@ -185,7 +162,6 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#bill-sebell" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <!--<img src="assets/images/team/core-team/bill-sebell.jpg" class="img-fluid team-img br-15" alt="Bill Sebell" />-->
                                 <picture>
                                     <source srcset="assets/images/team/core-team/bill-sebell.avif" type="image/avif" class="img-fluid team-img br-15" alt="Bill Sebell">
                                     <source srcset="assets/images/team/core-team/bill-sebell.webp" type="image/webp" class="img-fluid team-img br-15" alt="Bill Sebell">
@@ -201,7 +177,6 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#andre-casterman" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <!--<img src="assets/images/team/core-team/andre-casterman.jpg" class="img-fluid team-img br-15" alt="André Casterman" />-->
                                 <picture>
                                     <source srcset="assets/images/team/core-team/andre-casterman.avif" type="image/avif" class="img-fluid team-img br-15" alt="André Casterman">
                                     <source srcset="assets/images/team/core-team/andre-casterman.webp" type="image/webp" class="img-fluid team-img br-15" alt="André Casterman">
@@ -217,7 +192,6 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#andrea-frosinini" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <!--<img src="assets/images/team/core-team/andrea-frosinini.jpg" class="img-fluid team-img br-15" alt="Andrea Frosinini" />-->
                                 <picture>
                                     <source srcset="assets/images/team/core-team/andrea-frosinini.avif" type="image/avif" class="img-fluid team-img br-15" alt="Andrea Frosinini">
                                     <source srcset="assets/images/team/core-team/andrea-frosinini.webp" type="image/webp" class="img-fluid team-img br-15" alt="Andrea Frosinini">
@@ -233,7 +207,6 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#confidence-nyirenda" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <!--<img src="assets/images/team/core-team/confidence-nyirenda.jpg" class="img-fluid team-img br-15" alt="Confidence Nyirenda" />-->
                                 <picture>
                                     <source srcset="assets/images/team/core-team/confidence-nyirenda.avif" type="image/avif" class="img-fluid team-img br-15" alt="Confidence Nyirenda">
                                     <source srcset="assets/images/team/core-team/confidence-nyirenda.webp" type="image/webp" class="img-fluid team-img br-15" alt="Confidence Nyirenda">
@@ -249,7 +222,6 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#rebecah-dausen" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <!--<img src="assets/images/team/core-team/rebecah-dausen.jpg" class="img-fluid team-img br-15" alt="Rebecah Dausen" />-->
                                 <picture>
                                     <source srcset="assets/images/team/core-team/rebecah-dausen.avif" type="image/avif" class="img-fluid team-img br-15" alt="Rebecah Dausen">
                                     <source srcset="assets/images/team/core-team/rebecah-dausen.webp" type="image/webp" class="img-fluid team-img br-15" alt="Rebecah Dausen">
@@ -265,7 +237,6 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#sean-white" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <!--<img src="assets/images/team/core-team/sean-white.jpg" class="img-fluid team-img br-15" alt="Sean White" />-->
                                 <picture>
                                     <source srcset="assets/images/team/core-team/sean-white.avif" type="image/avif" class="img-fluid team-img br-15" alt="Sean White">
                                     <source srcset="assets/images/team/core-team/sean-white.webp" type="image/webp" class="img-fluid team-img br-15" alt="Sean White">
@@ -281,7 +252,6 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#can-inac" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <!--<img src="assets/images/team/core-team/can-inac.jpg" class="img-fluid team-img br-15" alt="Can Inac" />-->
                                 <picture>
                                     <source srcset="assets/images/team/core-team/can-inac.avif" type="image/avif" class="img-fluid team-img br-15" alt="Can Inac">
                                     <source srcset="assets/images/team/core-team/can-inac.webp" type="image/webp" class="img-fluid team-img br-15" alt="Can Inac">
@@ -297,7 +267,6 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#chen-shanlong" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <!--<img src="assets/images/team/core-team/chen-shanlong.jpg" class="img-fluid team-img br-15" alt="Chen Shanlong" />-->
                                 <picture>
                                     <source srcset="assets/images/team/core-team/chen-shanlong.avif" type="image/avif" class="img-fluid team-img br-15" alt="Chen Shanlong">
                                     <source srcset="assets/images/team/core-team/chen-shanlong.webp" type="image/webp" class="img-fluid team-img br-15" alt="Chen Shanlong">
@@ -313,7 +282,6 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#arturo-cantera" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <!--<img src="assets/images/team/core-team/arturo-cantera.jpg" class="img-fluid team-img br-15" alt="Arturo Cantera" />-->
                                 <picture>
                                     <source srcset="assets/images/team/core-team/arturo-cantera.avif" type="image/avif" class="img-fluid team-img br-15" alt="Arturo Cantera">
                                     <source srcset="assets/images/team/core-team/arturo-cantera.webp" type="image/webp" class="img-fluid team-img br-15" alt="Arturo Cantera">
@@ -329,7 +297,6 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#diego-consimo" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <!--<img src="assets/images/team/core-team/diego-consimo.jpg" class="img-fluid team-img br-15" alt="Diego Consimo" />-->
                                 <picture>
                                     <source srcset="assets/images/team/core-team/diego-consimo.avif" type="image/avif" class="img-fluid team-img br-15" alt="Diego Consimo">
                                     <source srcset="assets/images/team/core-team/diego-consimo.webp" type="image/webp" class="img-fluid team-img br-15" alt="Diego Consimo">
@@ -338,7 +305,6 @@
                                     <img src="assets/images/team/core-team/diego-consimo.jpg" class="img-fluid team-img br-15" alt="Diego Consimo">
                                 </picture>
                                 <h3 class="team-infoHead mt-3 mb-2">Diego Consimo</h3>
-                                <!--<p class="text-muted lh-sm mb-0">Ecosystem Head, LATAM</p>-->
                                 <p class="text-muted lh-sm mb-0">Head of Business Development, Latin America</p>
                             </div>
                         </a>
@@ -346,7 +312,6 @@
                     <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 mt-2 mb-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#roland-jones" class="team">
                             <div class="h-100 card bg-transparent br-20 border-0">
-                                <!--<img src="assets/images/team/core-team/roland-jones.jpg" class="img-fluid team-img br-15" alt="Roland Q. Jones" />-->
                                 <picture>
                                     <source srcset="assets/images/team/core-team/roland-jones.avif" type="image/avif" class="img-fluid team-img br-15" alt="Roland Q. Jones">
                                     <source srcset="assets/images/team/core-team/roland-jones.webp" type="image/webp" class="img-fluid team-img br-15" alt="Roland Q. Jones">
@@ -441,7 +406,6 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <!--<img src="assets/images/team/advisors/tadashi-yoshida.jpg" class="img-fluid br-15" />-->
                         <picture>
                             <source srcset="assets/images/team/advisors/tadashi-yoshida.avif" type="image/avif" class="img-fluid br-15" alt="Tadashi Yoshida">
                             <source srcset="assets/images/team/advisors/tadashi-yoshida.webp" type="image/webp" class="img-fluid br-15" alt="Tadashi Yoshida">
@@ -524,7 +488,6 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <!--<img src="assets/images/team/core-team/atul-khekade.jpg" class="img-fluid team-img br-15" alt="Atul Khekade">-->
                         <picture>
                             <source srcset="assets/images/team/core-team/atul-khekade.avif" type="image/avif" class="img-fluid team-img br-15" alt="Atul Khekade">
                             <source srcset="assets/images/team/core-team/atul-khekade.webp" type="image/webp" class="img-fluid team-img br-15" alt="Atul Khekade">
@@ -569,7 +532,6 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <!--<img src="assets/images/team/core-team/ritesh-kakkad.jpg" class="img-fluid team-img br-15" alt="Ritesh Kakkad">-->
                         <picture>
                             <source srcset="assets/images/team/core-team/ritesh-kakkad.avif" type="image/avif" class="img-fluid team-img br-15" alt="Ritesh Kakkad">
                             <source srcset="assets/images/team/core-team/ritesh-kakkad.webp" type="image/webp" class="img-fluid team-img br-15" alt="Ritesh Kakkad">
@@ -614,7 +576,6 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <!--<img src="assets/images/team/core-team/sunil-senapati.jpg" class="img-fluid team-img br-15" alt="Sunil Senapati">-->
                         <picture>
                             <source srcset="assets/images/team/core-team/sunil-senapati.avif" type="image/avif" class="img-fluid team-img br-15" alt="Sunil Senapati">
                             <source srcset="assets/images/team/core-team/sunil-senapati.webp" type="image/webp" class="img-fluid team-img br-15" alt="Sunil Senapati">
@@ -660,7 +621,6 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <!--<img src="assets/images/team/core-team/bill-sebell.jpg" class="img-fluid team-img br-15" alt="Bill Sebell">-->
                         <picture>
                             <source srcset="assets/images/team/core-team/bill-sebell.avif" type="image/avif" class="img-fluid team-img br-15" alt="Bill Sebell">
                             <source srcset="assets/images/team/core-team/bill-sebell.webp" type="image/webp" class="img-fluid team-img br-15" alt="Bill Sebell">
@@ -705,7 +665,6 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <!--<img src="assets/images/team/core-team/andre-casterman.jpg" class="img-fluid team-img br-15" alt="André Casterman">-->
                         <picture>
                             <source srcset="assets/images/team/core-team/andre-casterman.avif" type="image/avif" class="img-fluid team-img br-15" alt="André Casterman">
                             <source srcset="assets/images/team/core-team/andre-casterman.webp" type="image/webp" class="img-fluid team-img br-15" alt="André Casterman">
@@ -750,7 +709,6 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <!--<img src="assets/images/team/core-team/andrea-frosinini.jpg" class="img-fluid team-img br-15" alt="Andrea Frosinini">-->
                         <picture>
                             <source srcset="assets/images/team/core-team/andrea-frosinini.avif" type="image/avif" class="img-fluid team-img br-15" alt="Andrea Frosinini">
                             <source srcset="assets/images/team/core-team/andrea-frosinini.webp" type="image/webp" class="img-fluid team-img br-15" alt="Andrea Frosinini">
@@ -795,7 +753,6 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <!--<img src="assets/images/team/core-team/confidence-nyirenda.jpg" class="img-fluid team-img br-15" alt="Confidence Nyirenda">-->
                         <picture>
                             <source srcset="assets/images/team/core-team/confidence-nyirenda.avif" type="image/avif" class="img-fluid team-img br-15" alt="Confidence Nyirenda">
                             <source srcset="assets/images/team/core-team/confidence-nyirenda.webp" type="image/webp" class="img-fluid team-img br-15" alt="Confidence Nyirenda">
@@ -840,7 +797,6 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <!--<img src="assets/images/team/core-team/rebecah-dausen.jpg" class="img-fluid team-img br-15" alt="Rebecah Dausen">-->
                         <picture>
                             <source srcset="assets/images/team/core-team/rebecah-dausen.avif" type="image/avif" class="img-fluid team-img br-15" alt="Rebecah Dausen">
                             <source srcset="assets/images/team/core-team/rebecah-dausen.webp" type="image/webp" class="img-fluid team-img br-15" alt="Rebecah Dausen">
@@ -885,7 +841,6 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <!--<img src="assets/images/team/core-team/chen-shanlong.jpg" class="img-fluid team-img br-15" alt="Chen Shanlong">-->
                         <picture>
                             <source srcset="assets/images/team/core-team/chen-shanlong.avif" type="image/avif" class="img-fluid team-img br-15" alt="Chen Shanlong">
                             <source srcset="assets/images/team/core-team/chen-shanlong.webp" type="image/webp" class="img-fluid team-img br-15" alt="Chen Shanlong">
@@ -930,7 +885,6 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <!--<img src="assets/images/team/core-team/sean-white.jpg" class="img-fluid team-img br-15" alt="Sean White">-->
                         <picture>
                             <source srcset="assets/images/team/core-team/sean-white.avif" type="image/avif" class="img-fluid team-img br-15" alt="Sean White">
                             <source srcset="assets/images/team/core-team/sean-white.webp" type="image/webp" class="img-fluid team-img br-15" alt="Sean White">
@@ -975,7 +929,6 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <!--<img src="assets/images/team/core-team/can-inac.jpg" class="img-fluid team-img br-15" alt="Can Inac">-->
                         <picture>
                             <source srcset="assets/images/team/core-team/can-inac.avif" type="image/avif" class="img-fluid team-img br-15" alt="Can Inac">
                             <source srcset="assets/images/team/core-team/can-inac.webp" type="image/webp" class="img-fluid team-img br-15" alt="Can Inac">
@@ -1020,7 +973,6 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <!--<img src="assets/images/team/core-team/arturo-cantera.jpg" class="img-fluid team-img br-15" alt="Arturo Cantera">-->
                         <picture>
                             <source srcset="assets/images/team/core-team/arturo-cantera.avif" type="image/avif" class="img-fluid team-img br-15" alt="Arturo Cantera">
                             <source srcset="assets/images/team/core-team/arturo-cantera.webp" type="image/webp" class="img-fluid team-img br-15" alt="Arturo Cantera">
@@ -1065,7 +1017,6 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-                        <!--<img src="assets/images/team/core-team/diego-consimo.jpg" class="img-fluid team-img br-15" alt="Diego Consimo">-->
                         <picture>
                             <source srcset="assets/images/team/core-team/diego-consimo.avif" type="image/avif" class="img-fluid team-img br-15" alt="Diego Consimo">
                             <source srcset="assets/images/team/core-team/diego-consimo.webp" type="image/webp" class="img-fluid team-img br-15" alt="Diego Consimo">
@@ -1083,7 +1034,6 @@
                             <div class="mt-0 my-4">
                                 <p class="fs-6">Diego Consimo is the Head of Business Development for Latin America at XDC Network and CEO of Crypto Investidor. With over 18 years of experience in the financial and technology sectors, he has worked at institutions such as Santander, Itaú Unibanco, Philip Morris, and Telefônica Vivo, specializing in strategic management, key account management, and business development. Today, he operates at the intersection of TradFi and DeFi, driving blockchain innovation in trade finance and real-world asset (RWA) tokenization.</p>
                                 <p class="fs-6">At XDC Network, Diego leads initiatives to expand blockchain adoption in global trade and commercial finance. As the founder of Crypto Investidor, he built one of Brazil's leading crypto education platforms, impacting thousands of investors through educational content and B2B/B2C solutions.</p>
-                                <!--<p class="fs-6">Ecosystem Head LATAM at XDC Network, Crypto Investidor Founder, certified Blockchain Expert, market analyst, content creator, with over 12 years of experience in business, strategic marketing, banking, a passionate entrepreneur in the financial market, Trade Finance, RWAs, and Tokenization.</p>-->
                             </div>
                         </div>
                         <div class="team__footer">
@@ -1112,7 +1062,6 @@
             <div class="modal-body">
                 <div class="team-details-flex-row">
                     <div class="team__img">
-						<!--<img src="assets/images/team/core-team/roland-jones.jpg" class="img-fluid team-img br-15" alt="Roland Q. Jones">-->
                         <picture>
                             <source srcset="assets/images/team/core-team/roland-jones.avif" type="image/avif" class="img-fluid team-img br-15" alt="Roland Q. Jones">
                             <source srcset="assets/images/team/core-team/roland-jones.webp" type="image/webp" class="img-fluid team-img br-15" alt="Roland Q. Jones">

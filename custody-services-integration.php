@@ -113,7 +113,6 @@
                     <button class="nav-link" id="nav-testnet-tab" data-bs-toggle="tab" data-bs-target="#nav-testnet" type="button" role="tab" aria-controls="nav-testnet" aria-selected="false">TestNet (Apothem Network)</button>
                 </div>
             </nav>
-
             <div class="tab-content mt-3" id="nav-tabContent">
                 <div class="tab-pane fade active show" id="nav-mainnet" role="tabpanel" aria-labelledby="nav-mainnet-tab">
                     <div class="col-lg-12">
@@ -326,20 +325,10 @@
     </div>
 </section>
 
-
-
 <!-- Seamless Integration Starts -->
 <section class="px-80 bg-lightgray">
     <div class="container">
         <div class="row">
-            <!--<div class="col-lg-4 col-md-6 mt-2 mb-2">
-            	<div class="h-100 card p-4 bg-light75 br-20 border-0">
-                	<div class="fs-6 card-infoHead mb-3">Integration Guide</div>
-                    <div class="card-info">
-                    	<p class="fs-6 mb-0"><a href="exchange-listing-resource" target="_blank">https://xinfin.org/exchange-listing-resource</a></p>
-                	</div>
-                </div>
-            </div>-->
             <div class="col-lg-4 col-md-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="fs-6 card-infoHead mb-3">XDC Network Tools</div>
@@ -475,7 +464,6 @@
     </div>
 </section>
 <!-- Seamless Integration Ends -->
-
 
 <!-- Need More Help Starts -->
 <section class="px-80">

@@ -1,12 +1,11 @@
 <?php 
-    $title = "XDC Card";
-    $desc = "XDC Card";
+    $title = "XDC Master Card";
+    $desc = "XDC Master Card";
     
     include('inc/header.php') ?>
 
 <!-- Hero Home Starts -->
 <section class="px-60 hero-inside">
-    <!--<div class="container p-relative">-->
     <div class="container">
         
     </div>

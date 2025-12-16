@@ -6,7 +6,6 @@
 
 <!-- Hero Home Starts -->
 <section class="px-200 px-t250-b100 hero-inside">
-    <!--<div class="container p-relative">-->
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-9 col-md-12 hero-content">
@@ -317,7 +316,6 @@
                         <div class="card-info">
                             <div class="card-infoHead mb-3">GitHub</div>
                             <p class="fs-6 mb-0">Access the source code of XDPoSChain on GitHub.</p>
-                            <!--<p class="fs-6 mb-0">Access the source code at XinFinOrg/XDPoSChain.</p>-->
                         </div>
                     </div>
                 </a>
@@ -452,7 +450,6 @@
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6">
-                                <!--<div><img src="assets/images/inside-page/quick-tools-guide/xdcScan.png" alt="XDCScan" class="img-fluid br-20" /></div>-->
                                 <picture>
                                     <source srcset="assets/images/inside-page/quick-tools-guide/xdcScan.avif" type="image/avif" class="img-fluid br-20" alt="XDCScan">
                                     <source srcset="assets/images/inside-page/quick-tools-guide/xdcScan.webp" type="image/webp" class="img-fluid br-20" alt="XDCScan">
@@ -471,8 +468,7 @@
                                 <h3 class="title-m">XDCPay</h3>
                                 <p class="subtitle subtitle-s fw-600">Experience the Future of Browsing.</p>
                                 <p class="subtitle subtitle-s">
-                                    XDCPay is your gateway to experiencing the distributed web of tomorrow in your browser today.
-                                    <!--Run XDC dApps directly in your browser without the need for a full XDC node. -->Securely store, send, and receive XDC and XRC20 tokens with XDCPay's self-hosted wallet.
+                                    XDCPay is your gateway to experiencing the distributed web of tomorrow in your browser today. Securely store, send, and receive XDC and XRC20 tokens with XDCPay's self-hosted wallet.
                                 </p>
                                 <div class="btn-block d-block mt-4">
                                     <a href="https://chrome.google.com/webstore/detail/xdcpay/bocpokimicclpaiekenaeelehdjllofo" target="_blank"><button class="btn-blue">Download XDCPay</button></a>
@@ -480,7 +476,6 @@
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6">
-                                <!--<div><img src="assets/images/inside-page/quick-tools-guide/xdcPay.png" alt="XDCPay" class="img-fluid br-20" /></div>-->
                                 <picture>
                                     <source srcset="assets/images/inside-page/quick-tools-guide/xdcPay.avif" type="image/avif" class="img-fluid br-20" alt="XDCPay">
                                     <source srcset="assets/images/inside-page/quick-tools-guide/xdcPay.webp" type="image/webp" class="img-fluid br-20" alt="XDCPay">
@@ -507,7 +502,6 @@
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6">
-                                <!--<div><img src="assets/images/inside-page/quick-tools-guide/xdcsRemix.png" alt="XDC Network Remix" class="img-fluid br-20" /></div>-->
                                 <picture>
                                     <source srcset="assets/images/inside-page/quick-tools-guide/xdcsRemix.avif" type="image/avif" class="img-fluid br-20" alt="XDC Network Remix">
                                     <source srcset="assets/images/inside-page/quick-tools-guide/xdcsRemix.webp" type="image/webp" class="img-fluid br-20" alt="XDC Network Remix">
@@ -535,7 +529,6 @@
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6">
-                                <!--<div><img src="assets/images/inside-page/quick-tools-guide/xdcFaucet.png" alt="XDC Faucet" class="img-fluid br-20" /></div>-->
                                 <picture>
                                     <source srcset="assets/images/inside-page/quick-tools-guide/xdcFaucet.avif" type="image/avif" class="img-fluid br-20" alt="XDC Faucet">
                                     <source srcset="assets/images/inside-page/quick-tools-guide/xdcFaucet.webp" type="image/webp" class="img-fluid br-20" alt="XDC Faucet">
@@ -548,13 +541,7 @@
                     </div>
                 </div>
             </div>
-        </div>  
-        
-        
-        
-        
-        
-        
+        </div>       
         
         <div class="row mt-1">
             <div class="col-lg-8 offset-lg-2 mb-4 mt-5">
@@ -639,7 +626,6 @@
                 </div>
 			</div>
 			<div class="col-xl-6 col-lg-6">
-            	<!--<div><img src="assets/images/inside-page/quick-tools-guide/xdcIndexVinter.png" alt="XDC Index — Vinter" class="img-fluid br-20" /></div>-->
                 <picture>
                     <source srcset="assets/images/inside-page/quick-tools-guide/xdcIndexVinter.avif" type="image/avif" class="img-fluid br-20" alt="XDC Index — Vinter">
                     <source srcset="assets/images/inside-page/quick-tools-guide/xdcIndexVinter.webp" type="image/webp" class="img-fluid br-20" alt="XDC Index — Vinter">
@@ -649,8 +635,6 @@
                 </picture>
         	</div>
         </div>
-                        
-                        
     </div>
 </section>
 

@@ -91,8 +91,6 @@
                             <p class="pDate fs-6 mb-0"><span class="fw-600">Program Starts:</span> 4th week of January 2025</p>
                             <p class="aDate fs-6 mb-0"><span class="fw-600">Application Deadline:</span> 15 December 2024</p>
                         </div>
-
-                        <!--<h2 class="closedTag">Coming Soon...</h2>-->
                         <a href="https://t-hub.co/programs/xdc-network-finternet-accelerator/" target="_blank" class="btn socialHead-button internalLink mt-auto">
                             Apply Now
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -129,7 +127,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="col-lg-6 col-md-6 mb-4">
                 <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                     <div class="card-info">
@@ -153,7 +150,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="col-lg-6 col-md-6 mb-4">
                 <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                     <div class="card-info">
@@ -170,11 +166,6 @@
                             <p class="aDate fs-6 mb-0"><span class="fw-600">Application Starts:</span> Stay Tuned!</p>
                         </div>
                         <h2 class="comingTag">Coming Soon!</h2>
-                        <!--<a href="https://0xpivot.com/Startup-Application" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
-                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                            	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                            </svg>
-                        </a>-->
                     </div>
                 </div>
             </div>
@@ -196,11 +187,6 @@
                             <p class="aDate fs-6 mb-0"><span class="fw-600">Application Starts:</span> Stay Tuned!</p>
                         </div>
                         <h2 class="comingTag">Coming Soon!</h2>
-                        <!--<a href="https://0xpivot.com/Startup-Application" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
-                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                            	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                            </svg>
-                        </a>-->
                     </div>
                 </div>
             </div>            
@@ -230,12 +216,6 @@
                         </div>
 
                         <h2 class="closedTag">Applications Closed!</h2>
-                        <!--<a href="https://www.plugandplayapac.com/xdc-payments-program" target="_blank" class="btn socialHead-button internalLink mt-auto">
-                            Apply Now
-                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                            </svg>
-                        </a>-->
                     </div>
                 </div>
             </div>
@@ -257,12 +237,6 @@
                         </div>
 
                         <h2 class="closedTag">Applications Closed!</h2>
-                        <!--<a href="https://launchpoollabs.xyz/#submit" target="_blank" class="btn socialHead-button internalLink mt-auto">
-                            Apply Now
-                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                            </svg>
-                        </a>-->
                     </div>
                 </div>
             </div>                
@@ -282,11 +256,6 @@
                         </div>
 
                         <h2 class="closedTag">Applications Closed!</h2>
-                        <!--<a href="https://www.brinc.io/xdc-launch/" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
-                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                            	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                            </svg>
-                        </a>-->
                     </div>
                 </div>
             </div>
@@ -306,11 +275,6 @@
                         </div>
 
                         <h2 class="closedTag">Applications Closed!</h2>
-                        <!--<a href="https://www.tenity.com/programs/xdc-accelerator-program" target="_blank" class="btn socialHead-button internalLink mt-auto">Apply Now
-                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                            	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                            </svg>
-                        </a>-->
                     </div>
                 </div>
             </div>
@@ -780,7 +744,6 @@
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6">
-                                <!--<div><img src="assets/images/inside-page/quick-tools-guide/xdcPay.png" alt="XDCPay" class="img-fluid br-20" /></div>-->
                                 <picture>
                                     <source srcset="assets/images/inside-page/quick-tools-guide/xdcPay.avif" type="image/avif" class="img-fluid br-20" alt="XDCPay">
                                     <source srcset="assets/images/inside-page/quick-tools-guide/xdcPay.webp" type="image/webp" class="img-fluid br-20" alt="XDCPay">
@@ -807,7 +770,6 @@
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6">
-                                <!--<div><img src="assets/images/inside-page/quick-tools-guide/xdcsRemix.png" alt="XDC Network Remix" class="img-fluid br-20" /></div>-->
                                 <picture>
                                     <source srcset="assets/images/inside-page/quick-tools-guide/xdcsRemix.avif" type="image/avif" class="img-fluid br-20" alt="XDC Network Remix">
                                     <source srcset="assets/images/inside-page/quick-tools-guide/xdcsRemix.webp" type="image/webp" class="img-fluid br-20" alt="XDC Network Remix">
@@ -835,7 +797,6 @@
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6">
-                                <!--<div><img src="assets/images/inside-page/quick-tools-guide/xdcFaucet.png" alt="XDC Faucet" class="img-fluid br-20" /></div>-->
                                 <picture>
                                     <source srcset="assets/images/inside-page/quick-tools-guide/xdcFaucet.avif" type="image/avif" class="img-fluid br-20" alt="XDC Faucet">
                                     <source srcset="assets/images/inside-page/quick-tools-guide/xdcFaucet.webp" type="image/webp" class="img-fluid br-20" alt="XDC Faucet">
@@ -941,7 +902,6 @@
                 </div>
             </div>
             <div class="col-xl-6 col-lg-6">
-            	<!--<div><img src="assets/images/inside-page/quick-tools-guide/xdcIndexVinter.png" alt="XDC Index — Vinter" class="img-fluid br-20" /></div>-->
                 <picture>
                     <source srcset="assets/images/inside-page/quick-tools-guide/xdcIndexVinter.avif" type="image/avif" class="img-fluid br-20" alt="XDC Index — Vinter">
                     <source srcset="assets/images/inside-page/quick-tools-guide/xdcIndexVinter.webp" type="image/webp" class="img-fluid br-20" alt="XDC Index — Vinter">

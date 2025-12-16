@@ -4,81 +4,6 @@
     
     include('inc/header.php') ?>
 
-<!--<section class="px-200 px-t250-b100 hero-inside">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-10 offset-lg-1 hero-content">
-                <h1 class="title-m text-center mb-0">Ecosystem dApps</h1>
-                <h2 class="subtitle subtitle-s fw-500 text-center mb-0">Powering the Future of Blockchain - Unleash the Potential of XDC Utility Token! As a versatile settlement mechanism, XDC fuels the entire ecosystem, enabling lightning-fast and cost-effective transactions while revolutionizing the way dApps function.</h2>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="px-40 mb-5 pt-0 hero-ftr">
-    <div class="container">
-        <div class="row row-flex">
-            <div class="col-lg-12">
-                <div class="row justify-content-center">
-                    <div class="col-lg-4 col-md-6 mt-2 mb-2">
-                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
-                            <div class="card-info">
-                                <img src="assets/images/inside-page/masternode/transaction-validation.svg" class="img-fluid" />
-                                <div class="card-infoHead mt-3 mb-3">Lightning Speed Transactions</div>
-                                <p class="fs-6 mb-0">Say goodbye to sluggish blockchain speeds! With XDC, experience blazing-fast transactions that will leave you amazed.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mt-2 mb-2">
-                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
-                            <div class="card-info">
-                                <img src="assets/images/inside-page/masternode/instant-transactions.svg" class="img-fluid" />
-                                <div class="card-infoHead mt-3 mb-3">Cost Efficiency Redefined</div>
-                                <p class="fs-6 mb-0">Tired of high transaction fees? XDC brings you a cost-effective solution, making blockchain accessible to all.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mt-2 mb-2">
-                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
-                            <div class="card-info">
-                                <img src="assets/images/inside-page/masternode/decentralized.svg" class="img-fluid" />
-                                <div class="card-infoHead mt-3 mb-3">Scalability and Flexibility</div>
-                                <p class="fs-6 mb-0">No more bottlenecks! XDC's robust infrastructure ensures seamless scalability and adaptability to your needs.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mt-2 mb-2">
-                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
-                            <div class="card-info">
-                                <img src="assets/images/inside-page/masternode/security.svg" class="img-fluid" />
-                                <div class="card-infoHead mt-3 mb-3">Enhanced Security</div>
-                                <p class="fs-6 mb-0">Trust is paramount in the digital world. XDC's robust security measures provide you with peace of mind and unparalleled protection.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mt-2 mb-2">
-                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
-                            <div class="card-info">
-                                <img src="assets/images/inside-page/masternode/developers.svg" class="img-fluid" />
-                                <div class="card-infoHead mt-3 mb-3">Empowering dApp Developers</div>
-                                <p class="fs-6 mb-0">XDC empowers developers to create innovative, next-gen DApps, unlocking new possibilities in various industries.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mt-2 mb-2">
-                        <div class="h-100 card p-4 bg-lightgray br-20 border-0">
-                            <div class="card-info">
-                                <img src="assets/images/inside-page/masternode/governance.svg" class="img-fluid" />
-                                <div class="card-infoHead mt-3 mb-3">Community-driven Governance</div>
-                                <p class="fs-6 mb-0">At XDC Network, the community's voice matters. XDC token holders play a vital role in shaping the platform's future through democratic governance.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>-->
-
 <!-- Hero Home Starts -->
 <section class="px-200 px-t250-b100 hero-inside">
     <div class="container">
@@ -95,14 +20,6 @@
 <!-- Explore dApps Starts -->
 <section class="px-80 pt-0">
     <div class="container">
-        <!--<div class="row">
-            <div class="col-lg-10 offset-lg-1 mb-5">
-                <h3 class="title-m text-center">Explore dApps</h3>
-                <div class="subtitle subtitle-s text-center">
-                    XDC token lies at the heart of XDC Network, and its transformative capabilities are truly awe-inspiring. As a versatile settlement mechanism, XDC fuels the entire ecosystem, enabling lightning-fast and cost-effective transactions while revolutionizing the way DApps function.
-                </div>
-            </div>
-        </div>-->
         <div class="row">
             <nav>
                 <div class="nav nav-pills justify-content-center mb-4" id="nav-pills" role="tablist">
@@ -240,26 +157,6 @@
                                     </div>
                                 </a>
                             </div>
-                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#caddyFinance">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/caddyFinance-icon.svg" alt="Caddy Finance"></div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">Caddy Finance</div>
-                                                <p class="lh-base mb-0">Caddy Finance is bridging traditional finance and decentralized finance (DeFi) through advanced hedging strategies.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>-->                            
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#wefi">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -283,8 +180,7 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
-                            
+                            </div>                            
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#fathom">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -308,7 +204,6 @@
                                     </div>
                                 </a>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#gama">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -329,7 +224,6 @@
                                     </div>
                                 </a>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#primePort">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -412,8 +306,7 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
-                            
+                            </div>                            
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#resmic">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -609,7 +502,6 @@
                                     </div>
                                 </a>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#dopu">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -630,7 +522,6 @@
                                     </div>
                                 </a>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#slowmist">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -654,7 +545,6 @@
                                     </div>
                                 </a>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#vitalveda">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -677,7 +567,6 @@
                                     </div>
                                 </a>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#securedapp">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -700,7 +589,6 @@
                                     </div>
                                 </a>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#eteu">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -722,7 +610,6 @@
                                     </div>
                                 </a>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#defimoon">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -746,7 +633,6 @@
                                     </div>
                                 </a>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#mintnite">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -770,7 +656,6 @@
                                     </div>
                                 </a>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#bbbPump">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -791,7 +676,6 @@
                                     </div>
                                 </a>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#oxorio">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -815,7 +699,6 @@
                                     </div>
                                 </a>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#chainTools">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -908,49 +791,6 @@
                                     </div>
                                 </a>
                             </div>
-                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#globianceDex">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/globiance-icon.svg" alt="GlobianceDEX"></div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DEX</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">GlobianceDEX</div>
-                                                <p class="lh-base mb-0">GlobianceDEX is the first decentralized exchange built on the leading XDC blockchain.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>                            
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#fluentFinance">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                	<div class="">
-                                                    	<img src="assets/images/ecosystem-dapps/fluentFinance-icon.svg" class="iconD" alt="Fluent Finance" />
-                                                        <img src="assets/images/ecosystem-dapps/fluentFinance-icon_light.svg" class="iconL" alt="Fluent Finance" />
-                                                    </div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">Fluent Finance</div>
-                                                <p class="lh-base mb-0">Fintech infrastructure company responsible for developing the connections from core banking to public layers, bridging Web2 to Web3 utilizing the Fluent Protocol.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#choise">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -1074,29 +914,6 @@
                                     </div>
                                 </a>
                             </div>
-                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#globiance">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/globiance-icon.svg" alt="Globiance" /></div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
-                                                        <div>DeFi</div>
-                                                        <div>Trade Finance</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">Globiance</div>
-                                                <p class="lh-base mb-0">Globiance is focusing on a long term strategy to create a seamless FIAT - CRYPTO integration into our daily life.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#blockdegree">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -1611,48 +1428,7 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
-                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#metabloqs">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                    <div class=""><img src="assets/images/ecosystem-dapps/metabloqs-icon.svg" alt="Metabloqs"></div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">Metabloqs</div>
-                                                <p class="lh-base mb-0">Metabloqs, a virtual world on the XDC Network, designed to cater to a wide range of user interests.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#guardaVisaCard">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/guarda-icon.svg" alt="Guarda Visa Card" /></div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Web3</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">Guarda Visa Card</div>
-                                                <p class="lh-base mb-0">Topup your Guarda Visa card with XDC and use anywhere in the world.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>-->
-                            
+                            </div>                            
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#stasisEurs">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -1777,7 +1553,6 @@
                                     </div>
                                 </a>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#scenium">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -1800,7 +1575,6 @@
                                     </div>
                                 </a>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#stargate">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -1827,7 +1601,6 @@
                                     </div>
                                 </a>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#traceyai">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -1852,7 +1625,6 @@
                                     </div>
                                 </a>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#lifi">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -1873,7 +1645,6 @@
                                     </div>
                                 </a>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#gaszip">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -1894,29 +1665,6 @@
                                     </div>
                                 </a>
                             </div>
-
-                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#xinfinNameService">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                    <div class=""><img src="assets/images/ecosystem-dapps/xinfin-name-service-icon.svg" alt="XinFin Name Service"></div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">XinFin Name Service</div>
-                                                <p class="lh-base mb-0">XinFin Name Services is a domain name service for the XDC Blockchain.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>-->
-
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#futr">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -2201,8 +1949,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                
+                </div>          
                 
                 <div class="tab-pane fade" id="nav-rwa" role="tabpanel" aria-labelledby="nav-rwa-tab">
                     <div class="col-lg-12">
@@ -2227,29 +1974,6 @@
                                     </div>
                                 </a>
                             </div>
-                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#fluentFinance">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                	<div class="">
-                                                    	<img src="assets/images/ecosystem-dapps/fluentFinance-icon.svg" class="iconD" alt="Fluent Finance" />
-                                                        <img src="assets/images/ecosystem-dapps/fluentFinance-icon_light.svg" class="iconL" alt="Fluent Finance" />
-                                                    </div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">RWA</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">Fluent Finance</div>
-                                                <p class="lh-base mb-0">Fintech infrastructure company responsible for developing the connections from core banking to public layers, bridging Web2 to Web3 utilizing the Fluent Protocol.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#yieldteq">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -2609,7 +2333,6 @@
                     </div>
                 </div>
 
-
                 <div class="tab-pane fade" id="nav-tradefinance" role="tabpanel" aria-labelledby="nav-tradefinance-tab">
                     <div class="col-lg-12">
                         <div class="row justify-content-center">
@@ -2730,29 +2453,6 @@
                                     </div>
                                 </a>
                             </div>
-                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#globiance">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/globiance-icon.svg" alt="Globiance" /></div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
-                                                        <div>DeFi</div>
-                                                        <div>Trade Finance</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">Globiance</div>
-                                                <p class="lh-base mb-0">Globiance is focusing on a long term strategy to create a seamless FIAT - CRYPTO integration into our daily life.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>-->
                         </div>
                     </div>
                 </div>
@@ -2934,26 +2634,6 @@
                                     </div>
                                 </a>
                             </div>
-                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#caddyFinance">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/caddyFinance-icon.svg" alt="Caddy Finance"></div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">Caddy Finance</div>
-                                                <p class="lh-base mb-0">Caddy Finance is bridging traditional finance and decentralized finance (DeFi) through advanced hedging strategies.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#fathom">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -3026,29 +2706,6 @@
                                     </div>
                                 </a>
                             </div>
-                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#globiance">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/globiance-icon.svg" alt="Globiance" /></div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">
-                                                        <div>DeFi</div>
-                                                        <div>Trade Finance</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">Globiance</div>
-                                                <p class="lh-base mb-0">Globiance is focusing on a long term strategy to create a seamless FIAT - CRYPTO integration into our daily life.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#xSwap">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -3112,66 +2769,6 @@
                                     </div>
                                 </a>
                             </div>
-                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#storx">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/storx-icon.svg" alt="StorX" /></div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DePin</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">StorX</div>
-                                                <p class="lh-base mb-0">StorX is a decentralized cloud storage network, Which empowers users to store their data securely on the cloud.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>-->
-                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#metabloqs">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                    <div class=""><img src="assets/images/ecosystem-dapps/metabloqs-icon.svg" alt="Metabloqs" /></div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">Metabloqs</div>
-                                                <p class="lh-base mb-0">Metabloqs, a virtual world on the XDC Network, designed to cater to a wide range of user interests.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>-->
-                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#plugin">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                    <div class=""><img src="assets/images/ecosystem-dapps/goplugin-icon.svg" alt="GoPlugin" /></div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">Plugin</div>
-                                                <p class="lh-base mb-0">Plugin, a decentralized oracle platform, provides cost-effective solutions for any smart contract on the XDC Network.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#choise">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -3372,26 +2969,6 @@
                                     </div>
                                 </a>
                             </div>
-                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#xinfinNameService">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                    <div class=""><img src="assets/images/ecosystem-dapps/xinfin-name-service-icon.svg" alt="XinFin Name Service" /></div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">XinFin Name Service</div>
-                                                <p class="lh-base mb-0">XinFin Name Services is a domain name service for the XDC Blockchain.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <a href="#" data-bs-toggle="modal" data-bs-target="#eternis">
                                     <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
@@ -3441,8 +3018,6 @@
                         </div>
                     </div>
                 </div>
-
-
 
                 <div class="tab-pane fade" id="nav-infrastructure" role="tabpanel" aria-labelledby="nav-infrastructure-tab">
                     <div class="col-lg-12">
@@ -3889,7 +3464,6 @@
                         </div>
                     </div>
                 </div>
-
                 
                 <div class="tab-pane fade" id="nav-gaming" role="tabpanel" aria-labelledby="nav-gaming-tab">
                     <div class="col-lg-12">
@@ -4333,26 +3907,6 @@
                                     </div>
                                 </a>
                             </div>
-                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#superBullsNft">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/superbullsnft-icon.svg" alt="SuperBullsNFT" /></div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">NFTs</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">SuperBullsNFT</div>
-                                                <p class="lh-base mb-0">SuperBullsNFT is a team of technology and creative folks who design and build some fantastic blockchain projects.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>-->
                         </div>
                     </div>
                 </div>
@@ -4570,94 +4124,6 @@
                         </div>
                     </div>
                 </div>
-                
-                
-                <!--<div class="tab-pane fade" id="nav-dex" role="tabpanel" aria-labelledby="nav-dex-tab">
-                    <div class="col-lg-12">
-                        <div class="row justify-content-center">
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#fathomDex">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/fathom-icon.svg" alt="Fathom" /></div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DEX</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">Fathom</div>
-                                                <p class="lh-base mb-0">Fathom a Smarter Decentralized Currency, Borderless access to digital money with no discrimination for individuals and institutions.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#xSwap">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/xswap-icon.svg" alt="XSwap" /></div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DEX</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">XSwap</div>
-                                                <p class="lh-base mb-0">XSwap protocol is an automated market maker for XRC20 tokens built on the XDC Network.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#globianceDex">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/globiance-icon.svg" alt="GlobianceDEX" /></div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DEX</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">GlobianceDEX</div>
-                                                <p class="lh-base mb-0">GlobianceDEX is the first decentralized exchange built on the leading XDC blockchain.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#iceCreamSwap">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header justify-content-between align-items-center">
-                                                <div class="icon">
-                                                	<div class=""><img src="assets/images/ecosystem-dapps/iceCreamSwap-icon.svg" alt="IceCream" /></div>
-                                                </div>
-                                                <div class="desc label">
-                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">DEX</div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <div class="card-infoHead mb-2">IceCreamSwap</div>
-                                                <p class="lh-base mb-0">IceCreamSwap allows direct bridging between many chains with its audited and battle tested smart contracts.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>-->
 
                 <div class="tab-pane fade" id="nav-security" role="tabpanel" aria-labelledby="nav-security-tab">
                     <div class="col-lg-12">
@@ -5118,55 +4584,6 @@
     </div>
 </div>
 
-<!--<div class="modal fade" id="xinfinNameService" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
-            </div>
-            <div class="modal-body">
-                <div class="project-details-flex-row">
-                    <div class="project__img text-center">
-                        <div class="usecase-box-1">
-                            <div class="image-container">
-                                <img class="img-responsive" src="assets/images/ecosystem-dapps/xinfin-name-service-icon.svg" alt="XinFin Name Service" />
-                            </div>
-                        </div>
-                    </div>
-                    <div class="project__content">
-                        <div class="short-desc">
-                            <h2 class="fw-6">XinFin Name Service</h2>
-                            <p>XinFin Name Services is a domain name service for the XDC Blockchain.</p>
-                        </div>
-                        <div class="long-desc">
-                            <div class="mt-0 my-4">
-                                <p>Mint your blockchain domains as NFT assets that will bind the domain to your wallet address. You can also set records for your website, email, twitter, description and even your own avatar.</p>
-                            </div>
-                        </div>
-                        <div class="project__footer">
-                            <div class="web-visit-btn">
-                                <a href="https://xdc.webthreenames.com/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                                	</svg>
-                            	</a>
-                            </div>
-                            <div class="social-media border-top mt-4">
-                                <div class="cat-head mb-2">Connect on Social Media</div>
-                                <div class="btn-block mb-3">
-                                    <a href="https://twitter.com/webthreenames" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
-                                    </a>
-                                </div>
-                            </div>
-                    	</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>-->
-
 <div class="modal fade" id="circularityFinance" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -5224,7 +4641,6 @@
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
             <div class="modal-header">
-                <!--<h5 class="modal-title" id="basicModalLabel">Heading</h5>-->
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
             </div>
             <div class="modal-body">
@@ -5283,7 +4699,6 @@
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
             <div class="modal-header">
-                <!--<h5 class="modal-title" id="basicModalLabel">Heading</h5>-->
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
             </div>
             <div class="modal-body">
@@ -6014,59 +5429,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
         </div>
     </div>
 </div>
-
-<!--<div class="modal fade" id="metabloqs" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
-            </div>
-            <div class="modal-body">
-                <div class="project-details-flex-row">
-                    <div class="project__img text-center">
-                        <div class="usecase-box-1">
-                            <div class="image-container">
-                                <img class="img-responsive" src="assets/images/ecosystem-dapps/metabloqs-icon.svg" alt="Metabloqs" />
-                            </div>
-                        </div>
-                    </div>
-                    <div class="project__content">
-                        <div class="short-desc">
-                            <h2 class="fw-6">Metabloqs</h2>
-                            <p>Metabloqs is a virtual world powered by XDC Network that fits in with users diverse needs whether you want to pick a skillset, engage into networking, or enjoy some time playing.</p>
-                        </div>
-                        <div class="long-desc">
-                            <div class="mt-0 my-4">
-                                <p>Creating a unique ecosystem in the process, Metabloqs rolls out a world where users can create, own, and monetize their experiences using their token, the native utility token.</p>
-                                <p>Citizens of Metabloqs are provided with a unique passport to enter the metaverse and can purchase land and rare goods as NFTs and create their dream projects.</p>
-                            </div>
-                        </div>
-                        <div class="project__footer">
-                            <div class="web-visit-btn">
-                                <a href="https://metabloqs.com/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                                	</svg>
-                            	</a>
-                            </div>
-                            <div class="social-media border-top mt-4">
-                                <div class="cat-head mb-2">Connect on Social Media</div>
-                                <div class="btn-block mb-3">
-                                    <a href="https://twitter.com/metabloqs" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
-                                    </a>
-                                    <a href="https://www.linkedin.com/company/metabloqs/" target="_blank">
-                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
-                                    </a>
-                                </div>
-                            </div>
-                    	</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>-->
 
 <div class="modal fade" id="stasisEurs" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
@@ -7186,68 +6548,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
     </div>
 </div>
 
-<!--<div class="modal fade" id="fluentFinance" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
-            </div>
-            <div class="modal-body">
-                <div class="project-details-flex-row">
-                    <div class="project__img text-center">
-                        <div class="usecase-box-1">
-                            <div class="image-container">
-                                <div class="">
-                                	<img src="assets/images/ecosystem-dapps/fluentFinance-icon.svg" class="iconD" alt="Fluent Finance">
-                                	<img src="assets/images/ecosystem-dapps/fluentFinance-icon_light.svg" class="iconL" alt="Fluent Finance">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="project__content">
-                        <div class="short-desc">
-                            <h2 class="fw-6">Fluent Finance</h2>
-                            <p>Fintech infrastructure company responsible for developing the connections from core banking to public layers, bridging Web2 to Web3 utilizing the Fluent Protocol.</p>
-                        </div>
-                        <div class="long-desc">
-                            <div class="mt-0 my-4">
-                                <p>Fluent Finance is a blockchain-based finance company that is building a bridge between the traditional financial system and the decentralized world. It offers a range of products and services that enable banks and other financial institutions to participate in the on-chain economy.</p>
-                                <p>Fluent Finance's flagship product is its Deposit Token Infrastructure (DTI). This infrastructure allows banks to tokenize their deposits, which can then be used to access decentralized financial applications and services. The DTI also provides banks with a way to collateralize their deposits and issue loans on-chain.</p>
-                            </div>
-                        </div>
-                        <div class="project__footer">
-                            <div class="web-visit-btn">
-                                <a href="https://www.fluent.finance/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                                	</svg>
-                            	</a>
-                            </div>
-                            <div class="social-media border-top mt-4">
-                                <div class="cat-head mb-2">Connect on Social Media</div>
-                                <div class="btn-block mb-3">
-                                    <a href="https://twitter.com/Fluentinfra" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
-                                    </a>
-                                    <a href="https://www.linkedin.com/company/fluent-finance/" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
-                                    </a>
-                                    <a href="https://github.com/Fluent-Finance" target="_blank">
-                                        <button class="btn btn-hover btn-github"><i class="fab fa-github"></i> GitHub</button>
-                                    </a>
-                                    <a href="https://discord.com/invite/22ywcEfU65" target="_blank">
-                                        <button class="btn btn-hover btn-discord"><i class="fab fa-discord"></i> Discord</button>
-                                    </a>
-                                </div>
-                            </div>
-                    	</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>-->
-
 <div class="modal fade" id="choise" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -7473,65 +6773,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
         </div>
     </div>
 </div>
-
-<!--<div class="modal fade" id="guardaVisaCard" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
-            </div>
-            <div class="modal-body">
-                <div class="project-details-flex-row">
-                    <div class="project__img text-center">
-                        <div class="usecase-box-1">
-                            <div class="image-container">
-                                <img class="img-responsive" src="assets/images/ecosystem-dapps/guarda-icon.svg" alt="Guarda Visa Card" />
-                            </div>
-                        </div>
-                    </div>
-                    <div class="project__content">
-                        <div class="short-desc">
-                            <h2 class="fw-6">Guarda Visa Card</h2>
-                            <p>Topup your Guarda Visa card with XDC and use anywhere in the world.</p>
-                        </div>
-                        <div class="long-desc">
-                            <div class="mt-0 my-4">
-                                <p>Get your own Prepaid Visa Card by Guarda. Top it up using your XDC crypto and use it as a regular bank card anywhere in the world and easily spend XDC. Guarda Visa card is available as a Virtual card or plastic card.</p>
-                                <p>Order your visa card on Guarda and start using the card in your daily activity.</p>
-                            </div>
-                        </div>
-                        <div class="project__footer">
-                            <div class="web-visit-btn">
-                                <a href="https://guarda.com/cards/xdc/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                                	</svg>
-                            	</a>
-                            </div>
-                            <div class="social-media border-top mt-4">
-                                <div class="cat-head mb-2">Connect on Social Media</div>
-                                <div class="btn-block mb-3">
-                                    <a href="https://twitter.com/GuardaWallet" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
-                                    </a>
-                                    <a href="https://www.linkedin.com/showcase/guarda-wallet/" target="_blank">
-                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
-                                    </a>
-                                    <a href="https://t.me/guardawallet" target="_blank">
-                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
-                                    </a>
-                                    <a href="https://github.com/guardaco" target="_blank">
-                                        <button class="btn btn-hover btn-github"><i class="fab fa-discord"></i> GitHub</button>
-                                    </a>
-                                </div>
-                            </div>
-                    	</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>-->
 
 <div class="modal fade" id="blockdegree" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
@@ -8114,14 +7355,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
         </div>
     </div>
 </div>
-
-
-
-
-
-
-
-
 <div class="modal fade" id="orochi-network" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -8233,14 +7466,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
         </div>
     </div>
 </div>
-
-
-
-
-
-
-
-
 <div class="modal fade" id="bigwater-protocol" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -8298,7 +7523,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
         </div>
     </div>
 </div>
-
 <div class="modal fade" id="eternis" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -8353,7 +7577,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
         </div>
     </div>
 </div>
-
 <div class="modal fade" id="skynet-certik" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -8408,7 +7631,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
         </div>
     </div>
 </div>
-
 <div class="modal fade" id="Oxfutbol" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -9320,7 +8542,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
         </div>
     </div>
 </div>
-
 <div class="modal fade" id="blocksScan" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -9376,7 +8597,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
         </div>
     </div>
 </div>
-
 <div class="modal fade" id="airnetz" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -9429,7 +8649,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
         </div>
     </div>
 </div>
-
 <div class="modal fade" id="primeNumbers" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -9488,7 +8707,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
         </div>
     </div>
 </div>
-
 <div class="modal fade" id="primePort" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -9544,7 +8762,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
         </div>
     </div>
 </div>
-
 <div class="modal fade" id="xdSea" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -9594,7 +8811,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
         </div>
     </div>
 </div>
-
 <div class="modal fade" id="xdcNft" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -9647,7 +8863,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
         </div>
     </div>
 </div>
-
 <div class="modal fade" id="kalpStudio" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -9705,7 +8920,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
         </div>
     </div>
 </div>
-
 <div class="modal fade" id="superBullsNft" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -9757,7 +8971,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
         </div>
     </div>
 </div>
-
 <div class="modal fade" id="validProtocol" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -9792,23 +9005,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                                 	</svg>
                             	</a>
                             </div>
-                            <!--<div class="social-media border-top mt-4">
-                                <div class="cat-head mb-2">Connect on Social Media</div>
-                                <div class="btn-block mb-3">
-                                    <a href="https://twitter.com/wefi_xyz" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
-                                    </a>
-                                    <a href="https://t.me/wefi_xyz" target="_blank">
-                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
-                                    </a>
-                                    <a href="https://github.com/wefi-xyz/" target="_blank">
-                                        <button class="btn btn-hover btn-github"><i class="fab fa-github"></i> GitHub</button>
-                                    </a>
-                                    <a href="https://discord.com/invite/B6U6kectbV" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-discord"></i> Discord</button>
-                                    </a>
-                                </div>
-                            </div>-->
                     	</div>
                     </div>
                 </div>
@@ -9816,7 +9012,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
         </div>
     </div>
 </div>
-
 <div class="modal fade" id="razor" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -9871,7 +9066,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
         </div>
     </div>
 </div>
-
 <div class="modal fade" id="swiftcourt" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -9932,65 +9126,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
         </div>
     </div>
 </div>
-
-<!--<div class="modal fade" id="caddyFinance" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
-            </div>
-            <div class="modal-body">
-                <div class="project-details-flex-row">
-                    <div class="project__img text-center">
-                        <div class="usecase-box-1">
-                            <div class="image-container">
-                                <img class="img-responsive" src="assets/images/ecosystem-dapps/caddyFinance-icon.svg" alt="Caddy Finance" />
-                            </div>
-                        </div>
-                    </div>
-                    <div class="project__content">
-                        <div class="short-desc">
-                            <h2 class="fw-6">Caddy Finance</h2>
-                            <p>Caddy Finance is bridging traditional finance and decentralized finance (DeFi) through advanced hedging strategies.</p>
-                        </div>
-                        <div class="long-desc">
-                            <div class="mt-0 my-4">
-                                <p>Caddy Finance platform develops cutting-edge risk mitigation techniques that enable stablecoin or RWA yields to be generate sustainable yields, transforming how investors approach digital asset management. Caddy Finance create a more secure and predictable environment for yield generation, making DeFi investments more accessible and attractive to traditional investors seeking predictability and consistent returns.</p>
-                            </div>
-                        </div>
-                        <div class="project__footer">
-                            <div class="web-visit-btn">
-                                <a href="https://caddy.finance/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                                	</svg>
-                            	</a>
-                            </div>
-                            <div class="social-media border-top mt-4">
-                                <div class="cat-head mb-2">Connect on Social Media</div>
-                                <div class="btn-block mb-3">
-                                    <a href="https://x.com/caddyfi" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
-                                    </a>
-                                    <a href="https://www.linkedin.com/company/caddy-finance" target="_blank">
-                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
-                                    </a>
-                                    <a href="https://t.me/caddyfi" target="_blank">
-                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
-                                    </a>
-                                    <a href="https://discord.com/invite/wX4P9va8Ry" target="_blank">
-                                        <button class="btn btn-hover btn-discord"><i class="fab fa-discord"></i> Discord</button>
-                                    </a>
-                                </div>
-                            </div>
-                    	</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>-->
-
 <div class="modal fade" id="wefi" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -10048,7 +9183,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
         </div>
     </div>
 </div>
-
 <div class="modal fade" id="coinsbee" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -10104,7 +9238,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
         </div>
     </div>
 </div>
-
 <div class="modal fade" id="gama" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -10153,7 +9286,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
         </div>
     </div>
 </div>
-
 <div class="modal fade" id="fathom" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -10212,7 +9344,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
         </div>
     </div>
 </div>
-
 <div class="modal fade" id="xSwap" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -10268,66 +9399,6 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
         </div>
     </div>
 </div>
-
-<!--<div class="modal fade" id="globianceDex" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
-            </div>
-            <div class="modal-body">
-                <div class="project-details-flex-row">
-                    <div class="project__img text-center">
-                        <div class="usecase-box-1">
-                            <div class="image-container">
-                                <img class="img-responsive" src="assets/images/ecosystem-dapps/globiance-icon.svg" alt="GlobianceDEX" />
-                            </div>
-                        </div>
-                    </div>
-                    <div class="project__content">
-                        <div class="short-desc">
-                            <h2 class="fw-6">GlobianceDEX</h2>
-                            <p>GlobianceDEX is the first decentralized exchange built on the leading XDC Network.</p>
-                        </div>
-                        <div class="long-desc">
-                            <div class="mt-0 my-4">
-                                <p>Developed as an Automated-market-maker ( AMM ) on XDC, where a collection of smart contracts are used to create liquidity pools, provide liquidity, and swap XRC-20 tokens. Globiance DEX offers incentives and rewards to all players as well as effective speediness, reduced costs, and enhanced performance.</p>
-                                <p>The goal of GlobianceDEX is to become a launchpad for all XRC20 tokens, offer cross-chain solutions, and provide a base for XDC based NFTs as an NFT marketplace.</p>
-                            </div>
-                        </div>
-                        <div class="project__footer">
-                            <div class="web-visit-btn">
-                                <a href="https://dex.globiance.com/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                                	</svg>
-                            	</a>
-                            </div>
-                            <div class="social-media border-top mt-4">
-                                <div class="cat-head mb-2">Connect on Social Media</div>
-                                <div class="btn-block mb-3">
-                                    <a href="https://twitter.com/globiance" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
-                                    </a>
-                                    <a href="https://www.linkedin.com/company/globiance/" target="_blank">
-                                        <button class="btn btn-hover btn-linkedin"><i class="fa fa-paper-plane"></i> LinkedIn</button>
-                                    </a>
-                                    <a href="https://t.me/globiancegroup" target="_blank">
-                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
-                                    </a>
-                                    <a href="https://github.com/Globiance/" target="_blank">
-                                        <button class="btn btn-hover btn-github"><i class="fab fa-github"></i> GitHub</button>
-                                    </a>
-                                </div>
-                            </div>
-                    	</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>-->
-
 <div class="modal fade" id="iceCreamSwap" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -10380,64 +9451,5 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
         </div>
     </div>
 </div>
-
-<!--<div class="modal fade" id="globiance" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
-            </div>
-            <div class="modal-body">
-                <div class="project-details-flex-row">
-                    <div class="project__img text-center">
-                        <div class="usecase-box-1">
-                            <div class="image-container">
-                                <img class="img-responsive" src="assets/images/ecosystem-dapps/globiance-icon.svg" alt="Globiance" />
-                            </div>
-                        </div>
-                    </div>
-                    <div class="project__content">
-                        <div class="short-desc">
-                            <h2 class="fw-6">Globiance</h2>
-                            <p>Globiance is focusing on a long term strategy to create a seamless FIAT - CRYPTO integration into our daily life.</p>
-                        </div>
-                        <div class="long-desc">
-                            <div class="mt-0 my-4">
-                                <p>Globiance provides a platform for trading various cryptocurrencies. Users can typically create accounts, deposit funds, and trade digital assets like XDC, Bitcoin, Ethereum, and other cryptocurrencies.</p>
-                            </div>
-                        </div>
-                        <div class="project__footer">
-                            <div class="web-visit-btn">
-                                <a href="https://globiance.com/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                                	</svg>
-                            	</a>
-                            </div>
-                            <div class="social-media border-top mt-4">
-                                <div class="cat-head mb-2">Connect on Social Media</div>
-                                <div class="btn-block mb-3">
-                                    <a href="https://twitter.com/globiance" target="_blank">
-                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
-                                    </a>
-                                    <a href="https://www.linkedin.com/company/globiance/" target="_blank">
-                                        <button class="btn btn-hover btn-linkedin"><i class="fa fa-paper-plane"></i> LinkedIn</button>
-                                    </a>
-                                    <a href="https://t.me/globiancegroup" target="_blank">
-                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
-                                    </a>
-                                    <a href="https://github.com/Globiance/" target="_blank">
-                                        <button class="btn btn-hover btn-github"><i class="fab fa-github"></i> GitHub</button>
-                                    </a>
-                                </div>
-                            </div>
-                    	</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>-->
-
 
 <?php include('inc/footer.php') ?>

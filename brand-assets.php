@@ -123,9 +123,7 @@
             </div>
         </div>
 
-
         <div class="astrodivider"><div class="astrodividermask"></div></div>
-
 
         <div class="row">
             <div class="col-lg-10 col-md-9 col-sm-12">
@@ -207,9 +205,7 @@
             </div>
         </div>
 
-
         <div class="astrodivider"><div class="astrodividermask"></div></div>
-
 
         <div class="row">
             <div class="col-lg-10 col-md-9 col-sm-12">
@@ -222,7 +218,6 @@
                     <div class="col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                         <div class="h-100 card bg-transparent border-0">
                             <div class="">
-                                <!--<img src="assets/images/brand-assets/booth-walldrop.jpg" class="img-fluid br-20" alt="XDC Network Booth Walldrop" />-->
                                 <picture>
                                     <source srcset="assets/images/brand-assets/booth-walldrop.avif" type="image/avif" class="img-fluid br-20" alt="XDC Network Booth Walldrop">
                                     <source srcset="assets/images/brand-assets/booth-walldrop.webp" type="image/webp" class="img-fluid br-20" alt="XDC Network Booth Walldrop">
@@ -248,7 +243,6 @@
                     <div class="col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                         <div class="h-100 card bg-transparent border-0">
                             <div class="">
-                                <!--<img src="assets/images/brand-assets/booth-walldrop_1.jpg" class="img-fluid br-20" alt="XDC Network Booth Walldrop" />-->
                                 <picture>
                                     <source srcset="assets/images/brand-assets/booth-walldrop_1.avif" type="image/avif" class="img-fluid br-20" alt="XDC Network Booth Walldrop">
                                     <source srcset="assets/images/brand-assets/booth-walldrop_1.webp" type="image/webp" class="img-fluid br-20" alt="XDC Network Booth Walldrop">
@@ -274,7 +268,6 @@
                     <div class="col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                         <div class="h-100 card bg-transparent border-0">
                             <div class="">
-                                <!--<img src="assets/images/brand-assets/booth-walldrop_2.jpg" class="img-fluid br-20" alt="XDC Network Booth Walldrop" />-->
                                 <picture>
                                     <source srcset="assets/images/brand-assets/booth-walldrop_2.avif" type="image/avif" class="img-fluid br-20" alt="XDC Network Booth Walldrop">
                                     <source srcset="assets/images/brand-assets/booth-walldrop_2.webp" type="image/webp" class="img-fluid br-20" alt="XDC Network Booth Walldrop">
@@ -300,7 +293,6 @@
                     <div class="col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                         <div class="h-100 card bg-transparent border-0">
                             <div class="">
-                                <!--<img src="assets/images/brand-assets/counter-table_1.jpg" class="img-fluid br-20" alt="XDC Network Booth Counter Table" />-->
                                 <picture>
                                     <source srcset="assets/images/brand-assets/counter-table_1.avif" type="image/avif" class="img-fluid br-20" alt="XDC Network Booth Counter Table">
                                     <source srcset="assets/images/brand-assets/counter-table_1.webp" type="image/webp" class="img-fluid br-20" alt="XDC Network Booth Counter Table">
@@ -326,7 +318,6 @@
                     <div class="col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                         <div class="h-100 card bg-transparent border-0">
                             <div class="">
-                                <!--<img src="assets/images/brand-assets/xdc-a4-flyer-fb.jpg" class="img-fluid br-20" alt="XDC Network A4 Flyer" />-->
                                 <picture>
                                     <source srcset="assets/images/brand-assets/xdc-a4-flyer-fb.avif" type="image/avif" class="img-fluid br-20" alt="XDC Network A4 Flyer">
                                     <source srcset="assets/images/brand-assets/xdc-a4-flyer-fb.webp" type="image/webp" class="img-fluid br-20" alt="XDC Network A4 Flyer">
@@ -352,7 +343,6 @@
                     <div class="col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                         <div class="h-100 card bg-transparent border-0">
                             <div class="">
-                                <!--<img src="assets/images/brand-assets/xdc-a4-flyer-f.jpg" class="img-fluid br-20" alt="XDC Network A4 Flyer" />-->
                                 <picture>
                                     <source srcset="assets/images/brand-assets/xdc-a4-flyer-f.avif" type="image/avif" class="img-fluid br-20" alt="XDC Network A4 Flyer">
                                     <source srcset="assets/images/brand-assets/xdc-a4-flyer-f.webp" type="image/webp" class="img-fluid br-20" alt="XDC Network A4 Flyer">
@@ -378,7 +368,6 @@
                     <div class="col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                         <div class="h-100 card bg-transparent border-0">
                             <div class="">
-                                <!--<img src="assets/images/brand-assets/xdc-stickers.jpg" class="img-fluid br-20" alt="XDC Stickers" />-->
                                 <picture>
                                     <source srcset="assets/images/brand-assets/xdc-stickers.avif" type="image/avif" class="img-fluid br-20" alt="XDC Stickers">
                                     <source srcset="assets/images/brand-assets/xdc-stickers.webp" type="image/webp" class="img-fluid br-20" alt="XDC Stickers">

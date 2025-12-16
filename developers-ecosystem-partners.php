@@ -5,7 +5,6 @@
    include('inc/header.php') ?>
 <!-- Hero Home Starts -->
 <section class="px-200 px-t250-b100 hero-inside">
-    <!--<div class="container p-relative">-->
     <div class="container">
         <div class="row">
             <div class="col-lg-10 offset-lg-1 hero-content">
@@ -19,6 +18,7 @@
 </section>
 <!-- Hero Home Ends -->
 
+<!-- Become a Partner Starts -->
 <section class="px-80 pt-0">
     <div class="container p-relative">
         <div class="row">
@@ -71,8 +71,9 @@
         </div>
     </div>
 </section>
+<!-- Become a Partner Ends -->
 
-<!-- Ecosystem Partners Starts -->
+<!-- Protocol Lab Partners Starts -->
 <section class="px-80 bg-lightgray">
     <div class="container p-relative">
         <div class="row align-items-center">
@@ -142,7 +143,9 @@
         </div>
     </div>
 </section>
+<!-- Protocol Lab Partners Ends -->
 
+<!-- Infrastructure Integration Level Developers Starts -->
 <section class="px-80">
     <div class="container p-relative">
         <div class="row align-items-center">
@@ -259,7 +262,9 @@
         </div>
     </div>
 </section>
+<!-- Infrastructure Integration Level Developers Ends -->
 
+<!-- Application Level Developers Starts -->
 <section class="px-80 bg-lightgray">
     <div class="container p-relative">
         <div class="row align-items-center">
@@ -334,14 +339,6 @@
                             </a>
                         </div>
                     </div>
-                    <!--<div class="col-lg-4 col-md-4 col-sm-6 col-6">
-                        <div>
-                            <a href="https://chain.link/" target="_blank">
-                                <img src="assets/images/ecosystem-partners/chainlink.svg" class="img-fluid iconD" />
-                                <img src="assets/images/ecosystem-partners/chainlink-light.svg" class="img-fluid iconL" />
-                            </a>
-                        </div>
-                    </div>-->
                     <div class="col-lg-4 col-md-4 col-sm-6 col-6">
                         <div>
                             <a href="https://razor.network/" target="_blank">
@@ -398,7 +395,7 @@
         </div>
     </div>
 </section>
-<!-- Ecosystem Partners Ends -->
+<!-- Application Level Developers Ends -->
 
 <!-- Need More Help Starts -->
 <section class="px-80">

@@ -1,11 +1,8 @@
 <?php
-$title =
-    "Risk Warning Disclaimer for XDC Network";
-$desc =
-    'Risk Warning Disclaimer for XDC Network.';
+    $title = "Risk Warning Disclaimer for XDC Network";
+    $desc = "Risk Warning Disclaimer for XDC Network.";
 
-include 'inc/header.php';
-?>
+    include 'inc/header.php'; ?>
 
 <!-- Hero Home Starts -->
 <section class="px-200 px-t250-b100 hero-inside">
@@ -20,8 +17,6 @@ include 'inc/header.php';
     </div>
 </section>
 <!-- Hero Home Ends -->
-
-
 
 <!-- Masternode Requirements Starts -->
 <section class="px-80 bg-lightgray">
@@ -60,8 +55,6 @@ include 'inc/header.php';
     </div>
 </section>
 <!-- Masternode Requirements Ends -->
-
-
 
 <!-- Need More Help Starts -->
 <section class="px-80">

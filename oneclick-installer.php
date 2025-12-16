@@ -6,7 +6,6 @@
 
 <!-- Hero Home Starts -->
 <section class="px-200 px-t250-b100 hero-inside">
-    <!--<div class="container p-relative">-->
     <div class="container">
         <div class="row">
             <div class="col-lg-8 offset-lg-2 hero-content">

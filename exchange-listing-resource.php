@@ -6,7 +6,6 @@
 
 <!-- Hero Home Starts -->
 <section class="px-200 px-t250-b100 hero-inside">
-    <!--<div class="container p-relative">-->
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-9 col-md-12 hero-content">
@@ -326,19 +325,10 @@
     </div>
 </section>
 
-
 <!-- Seamless Integration Starts -->
 <section class="px-80 bg-lightgray">
     <div class="container">
         <div class="row">
-            <!--<div class="col-lg-4 col-md-6 mt-2 mb-2">
-            	<div class="h-100 card p-4 bg-light75 br-20 border-0">
-                	<div class="fs-6 card-infoHead mb-3">Integration Guide</div>
-                    <div class="card-info">
-                    	<p class="fs-6 mb-0"><a href="exchange-listing-resource" target="_blank">https://xinfin.org/exchange-listing-resource</a></p>
-                	</div>
-                </div>
-            </div>-->
             <div class="col-lg-4 col-md-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="fs-6 card-infoHead mb-3">XDC Network Tools</div>
@@ -383,7 +373,6 @@
                 </div>
             </div>
         </div>
-
         <div class="row justify-content-center mt-5">
             <div class="col-lg-7 mb-4 mt-5">
                 <h3 class="title-m text-center">XDC Network Assessment and Chain Analysis</h3>

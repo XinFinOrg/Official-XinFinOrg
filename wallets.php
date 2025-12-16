@@ -3,9 +3,9 @@
    $desc = "To begin using XDC, you'll require a wallet—an app designed to hold your XDC and facilitate interactions with other apps on the network.";
    
    include('inc/header.php') ?>
+
 <!-- Hero Home Starts -->
 <section class="px-200 px-t250-b100 hero-inside">
-   <!--<div class="container p-relative">-->
    <div class="container">
       <div class="row">
          <div class="col-lg-10 offset-lg-1 hero-content">
@@ -395,8 +395,7 @@
                         </div>
                      </div>
                   </div>
-               </div>
-               
+               </div>               
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
                   <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                      <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -442,8 +441,7 @@
                         </div>
                      </div>
                   </div>
-               </div>
-               
+               </div>               
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
                   <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                      <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -484,26 +482,6 @@
                      </div>
                   </div>
                </div>
-               <!--<div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
-                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
-                        <div class="exchangeCard-header">
-                           <div class="icon">
-                              <div class=""><img src="assets/images/wallets/simplehold.svg" alt="SimpleHold" /></div>
-                           </div>
-                           <div class="desc">
-                              <div class="card-infoHead">SimpleHold</div>
-                              <p class="exchangeCard-type text-muted mb-0">SimpleHold is a non-custodial wallet that receive, store and swap your cryptocurrencies.</p>
-                           </div>
-                        </div>
-                        <div class="d-flex justify-content-between">
-                           <div class="pairs fw-500 ml-6">
-                              <a href="https://chrome.google.com/webstore/detail/simplehold/imeelmcnggkkokgfhinnjhjfilibhpaj" target="_blank" title="Chrome Extension" class="WalletPlatform__link"><img src="assets/images/wallets/chrome.svg"></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>-->
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
                   <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                      <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -721,7 +699,6 @@
             </div>
          </div>
       </div>
-
       <div class="row pt-5 mt-5">
          <div class="col-12">
             <div class="card p-5 bg-lightgray br-20 border-0">
@@ -764,7 +741,6 @@
             </div>
          </div>
       </div>
-
       <div class="row mt-5">
          <div class="col-12">
             <div class="disclaimer-box text-muted small fw-500 lh-sm">
@@ -782,101 +758,98 @@
 
 <!-- Community Starts -->
 <section class="px-80">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-10 mb-5">
-                    <h3 class="title-m text-center">Join the Global Community</h3>
-                    <div class="subtitle subtitle-s text-center">Join a fast-growing XDC Network Community and innovators, connected all over the world. The XDC Network community includes people of many different backgrounds and skill sets.</div>
-                </div>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10 mb-5">
+                <h3 class="title-m text-center">Join the Global Community</h3>
+                <div class="subtitle subtitle-s text-center">Join a fast-growing XDC Network Community and innovators, connected all over the world. The XDC Network community includes people of many different backgrounds and skill sets.</div>
             </div>
-            <div class="row justify-content-center">
-                <!--<div class="col-lg-8 offset-lg-2">
-                    <div class="row items-3 justify-content-center">
-               <div class="col mt-2 mb-2">-->
-               <div class="col-lg-10 col-md-12">
-               <div class="row justify-content-center">
-               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                  <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                     <div class="card-info">
-                        <div class="socialHead"><i class="fas fa-paper-plane"></i>Telegram</div>
-                        <a href="https://t.me/XDC_Network_Updates" target="_blank" class="btn socialHead-button">
-                           Join discussion
-                           <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                           </svg>
-                        </a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                  <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                     <div class="card-info">
-                        <div class="socialHead"><i class="fab fa-twitter"></i>Twitter</div>
-                        <a href="https://x.com/XDCNetwork" target="_blank" class="btn socialHead-button">
-                           Follow
-                           <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                           </svg>
-                        </a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                  <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                     <div class="card-info">
-                        <div class="socialHead"><i class="fab fa-reddit-alien"></i>Reddit</div>
-                        <a href="https://www.reddit.com/r/xinfin/" target="_blank" class="btn socialHead-button">
-                           Dive in
-                           <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                           </svg>
-                        </a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                  <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                     <div class="card-info">
-                        <div class="socialHead"><i class="fab fa-github"></i>GitHub</div>
-                        <a href="https://github.com/XinFinorg" target="_blank" class="btn socialHead-button">
-                           Build with us
-                           <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                           </svg>
-                        </a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                  <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                     <div class="card-info">
-                        <div class="socialHead"><i class="fab fa-medium"></i>Medium</div>
-                        <a href="https://medium.com/xdcnetwork" target="_blank" class="btn socialHead-button">
-                           Follow
-                           <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                           </svg>
-                        </a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                  <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                     <div class="card-info">
-                        <div class="socialHead"><i class="fab fa-discord"></i>Developers Forum</div>
-                        <a href="https://xdc.dev/" target="_blank" class="btn socialHead-button">
-                           Get involved
-                           <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                           </svg>
-                        </a>
-                     </div>
-                  </div>
-               </div>
-            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-10 col-md-12">
+                <div class="row justify-content-center">
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                        <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                            <div class="card-info">
+                                <div class="socialHead"><i class="fas fa-paper-plane"></i>Telegram</div>
+                                <a href="https://t.me/XDC_Network_Updates" target="_blank" class="btn socialHead-button">
+                                    Join discussion
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                        <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                            <div class="card-info">
+                                <div class="socialHead"><i class="fab fa-twitter"></i>Twitter</div>
+                                <a href="https://x.com/XDCNetwork" target="_blank" class="btn socialHead-button">
+                                    Follow
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                        <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                            <div class="card-info">
+                                <div class="socialHead"><i class="fab fa-reddit-alien"></i>Reddit</div>
+                                <a href="https://www.reddit.com/r/xinfin/" target="_blank" class="btn socialHead-button">
+                                    Dive in
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                        <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                            <div class="card-info">
+                                <div class="socialHead"><i class="fab fa-github"></i>GitHub</div>
+                                <a href="https://github.com/XinFinorg" target="_blank" class="btn socialHead-button">
+                                    Build with us
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                        <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                            <div class="card-info">
+                                <div class="socialHead"><i class="fab fa-medium"></i>Medium</div>
+                                <a href="https://medium.com/xdcnetwork" target="_blank" class="btn socialHead-button">
+                                    Follow
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                        <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                            <div class="card-info">
+                                <div class="socialHead"><i class="fab fa-discord"></i>Developers Forum</div>
+                                <a href="https://xdc.dev/" target="_blank" class="btn socialHead-button">
+                                    Get involved
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
 <!-- Community Ends -->
 <?php include('inc/footer.php') ?>

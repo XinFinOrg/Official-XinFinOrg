@@ -44,7 +44,6 @@
                             <a href="get-xdc" class="hero-ftr-card">
                                 <div class="card-info">
                                     <div class="card-infoHead mb-3">Get XDC</div>
-                                    <!--<p class="fs-6 mb-0">XDC is the currency of XinFin – you can use it in applications.</p>-->
                                     <p class="fs-6 mb-0">XDC, the currency of XinFin, is your gateway to a world of possibilities.</p>
                                 </div>
                                 <div class="hero-ftr-arrow">
@@ -60,7 +59,6 @@
                             <a href="https://docs.xdc.network" target="_blank" class="hero-ftr-card">
                                 <div class="card-info">
                                     <div class="card-infoHead mb-3">Start Building</div>
-                                    <!--<p class="fs-6 mb-0">Get access to our documents, and start building.</p>-->
                                     <p class="fs-6 mb-0">Comprehensive documents and resources to build on XDC Network.</p>
                                 </div>
                                 <div class="hero-ftr-arrow">
@@ -76,7 +74,6 @@
                             <a href="ecosystem-dapps" class="hero-ftr-card">
                                 <div class="card-info">
                                     <div class="card-infoHead mb-3">Use dApp</div>
-                                    <!--<p class="fs-6 mb-0">DApps are applications powered by XDC. See what you can do.</p>-->
                                     <p class="fs-6 mb-0">Experience the power of decentralized applications (dApps) fueled by XDC.</p>
                                 </div>
                                 <div class="hero-ftr-arrow">
@@ -218,7 +215,6 @@
                                 <img src="assets/images/icons/api.png" class="img-fluid iconD" alt="XDC API Documentation" />
                                 <div class="card-infoHead mt-3 mb-3">XDC API Documentation</div>
                                 <p class="fs-6 mb-0 me-3">
-                                    <!--<p class="fs-6 text-white-75">-->
                                     Building Decentralized Applications with Ease. Access the XDC API documentation to unleash the power of the blockchain. Deploy smart contracts, interact with the network, and build innovative dApps using
                                     our comprehensive tools and protocols.
                                 </p>
@@ -280,7 +276,6 @@
             </div>
         </div>
     </div>
-
     <div class="container-fluid">
         <div class="row mt-5">
             <div id="3partners" class="container flex-vertical">
@@ -472,7 +467,6 @@
                         <div class="col-lg-5 col-md-5">
                             <div class="mt-sm-5 mt-md-0 mt-lg-0">
                                 <div class="d-flex justify-content-center align-items-center">
-                                    <!--<img src="assets/images/networkImage.png" class="img-fluid" alt="XDC Network: Powered by XDC Protocol" />-->
                                     <picture>
                                         <source srcset="assets/images/networkImage.avif" type="image/avif" class="img-fluid" alt="XDC Network: Powered by XDC Protocol">
                                         <source srcset="assets/images/networkImage.webp" type="image/webp" class="img-fluid" alt="XDC Network: Powered by XDC Protocol">
@@ -581,7 +575,6 @@
                         <div class="col-lg-5 col-md-5">
                             <div class="mt-sm-5 mt-md-0 mt-lg-0">
                                 <div class="d-flex justify-content-center align-items-center">
-                                    <!--<img src="assets/images/walletsImage.png" class="img-fluid" alt="XDC Wallets" />-->
                                     <picture>
                                         <source srcset="assets/images/walletsImage.avif" type="image/avif" class="img-fluid" alt="XDC Wallets">
                                         <source srcset="assets/images/walletsImage.webp" type="image/webp" class="img-fluid" alt="XDC Wallets">
@@ -612,9 +605,6 @@
             </div>
         </div>
         <div class="row justify-content-center">
-            <!--<div class="col-lg-8 offset-lg-2">
-                    <div class="row items-3 justify-content-center">
-               <div class="col mt-2 mb-2">-->
             <div class="col-lg-10 col-md-12">
                 <div class="row justify-content-center">
                     <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">

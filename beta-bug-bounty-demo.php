@@ -274,12 +274,6 @@ include('inc/header.php') ?>
                     <div class="mt-auto">
                         <h5>EXAMPLE</h5>
                         <p>Attacker can sometimes put a node in a state that causes it to drop one out of every one hundred attestations made by a validator.</p>
-                        <!-- Price 
-                        <div class="price-tag">
-                        <span class="symbol">$</span>
-                        <span class="amount">000</span>
-                        <span class="after">/month</span>
-                        </div>-->
                         <!-- Button -->
                         <a class="price-button btn-blue" href="#">Submit Low Risk Bug</a>
                     </div>

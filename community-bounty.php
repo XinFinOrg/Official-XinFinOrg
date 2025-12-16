@@ -30,7 +30,6 @@
                     <div class="row align-items-center">
                         <div class="col-lg-9 col-md-9 col-sm-12 mb-4 mb-md-4 mb-lg-0">
                             <h3 class="title-xs mb-4">Pre-Approved Bounty</h3>
-                            <!--<div class="subtitle subtitle-s mb-3 highlight"><i>Up to 120% XDC of cost incurred</i></div>-->
                             <ul class="listStyle fs-6">
                                 <li>Get a quick pre-approval for the Bounty.</li>
                                 <li>Apply for any wallet, Custodian or Exchange integration or Building dapps on XDC Blockchain Network.</li>
@@ -57,6 +56,7 @@
 </section>
 <!-- Community Bounty Ends -->
 
+<!-- XDC DAO Starts -->
 <section class="px-80 bg-lightgray">
     <div class="container">
         <div class="row justify-content-center">
@@ -74,6 +74,7 @@
         </div>
     </div>
 </section>
+<!-- XDC DAO Ends -->
 
 <!-- Community Starts -->
 <section class="px-80">
@@ -87,9 +88,6 @@
             </div>
         </div>
         <div class="row justify-content-center">
-            <!--<div class="col-lg-8 offset-lg-2">
-                    <div class="row items-3 justify-content-center">
-               <div class="col mt-2 mb-2">-->
             <div class="col-lg-10 col-md-12">
                 <div class="row justify-content-center">
                     <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">

@@ -6,7 +6,6 @@
 
 <!-- Hero Home Starts -->
 <section class="px-200 px-t250-b100 hero-inside">
-    <!--<div class="container p-relative">-->
     <div class="container">
         <div class="row">
             <div class="col-lg-10 offset-lg-1 hero-content">
@@ -91,9 +90,6 @@
     </div>
 </section>
 
-
-
-
 <!--<section class="px-40 mb-5 pt-0">
     <div class="container">
     	<div class="row justify-content-center">
@@ -103,8 +99,7 @@
         </div>
         <div class="row row-flex mt-4">
             <div class="col-lg-12">
-                <div class="row justify-content-center">
-                    
+                <div class="row justify-content-center">                    
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://luma.com/tz7yn2ci" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
                             <div class="">
@@ -151,15 +146,11 @@
                             </div>
                         </a>
                     </div>
-
                 </div>
             </div>
         </div>
     </div>
 </section>-->
-
-
-
 
 <section class="px-80 bg-lightgray">
     <div class="container">
@@ -4671,14 +4662,8 @@
                 </div>
             </div>
         </div>
-        
-        
     </div>
 </section>
-
-
-<!--<div class="astrodivider"><div class="astrodividermask"></div></div>-->
-
 
 <!-- Need More Help Starts -->
 <section class="px-80">

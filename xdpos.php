@@ -3,9 +3,9 @@
    $desc = "Revolutionizing Trust in the Digital Era";
    
    include('inc/header.php') ?>
+
 <!-- Hero Home Starts -->
 <section class="px-200 px-t250-b100 hero-inside">
-    <!--<div class="container p-relative">-->
     <div class="container">
         <div class="row">
             <div class="col-lg-10 offset-lg-1 hero-content">
@@ -44,8 +44,7 @@
                     </p>
                 </div>
             </div>
-        </div>
-        
+        </div>        
         <div class="row justify-content-center pt-5">
             <div class="col-lg-12 mb-4">
                 <h3 class="title-m">Introducing Blockchain 4.0: XDPoS 2.0</h3>
@@ -128,16 +127,14 @@
                     </div>
                 </div>
             </div>
-        </div>
-        
+        </div>        
         <div class="row justify-content-center pt-5">
             <div class="col-lg-10">
                 <h3 class="title-m text-center">Join the Revolution</h3>
                 <div class="subtitle subtitle-s text-center mb-3">Embrace the future of decentralized trust. Join us as we redefine the standards of security, transparency, and accountability. XDPoS 2.0 isn't just a protocol; it's a promise – a promise of trust in every transaction, a promise of security in every block, and a promise of accountability in every action.</div>
                 <div class="subtitle-m text-center"><i>Experience the Future – Experience XDPoS 2.0.</i></div>
             </div>
-        </div>
-        
+        </div>        
         <div class="row mb-0">
             <div class="col-lg-12 text-center">
                 <div class="btn-block multi mt-5">
@@ -146,8 +143,7 @@
                 </a>
                 </div>
             </div>
-        </div>
-        
+        </div>        
     </div>
 </section>
 
@@ -163,9 +159,6 @@
             </div>
         </div>
         <div class="row justify-content-center">
-            <!--<div class="col-lg-8 offset-lg-2">
-                    <div class="row items-3 justify-content-center">
-               <div class="col mt-2 mb-2">-->
             <div class="col-lg-10 col-md-12">
                 <div class="row justify-content-center">
                     <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">

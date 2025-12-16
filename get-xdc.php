@@ -6,7 +6,6 @@
     
 <!-- Hero Home Starts -->
 <section class="px-200 px-t250-b100 hero-inside">
-    <!--<div class="container p-relative">-->
     <div class="container">
         <div class="row">
             <div class="col-lg-10 offset-lg-1 hero-content">
@@ -548,26 +547,6 @@
                                     </div>
                                 </div>
                             </div>
-                            
-                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
-                                        <div class="exchangeCard-header">
-                                            <div class="icon">
-                                                <div class=""><img src="assets/images/exchanges/bitmagno.svg" alt="BitMagno" /></div>
-                                            </div>
-                                            <div class="desc">
-                                                <div class="card-infoHead">BitMagno</div>
-                                                <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
-                                            </div>
-                                        </div>
-                                        <div class="d-flex gap-3">
-                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
-                                            <div class="pairs fw-500"><a href="https://bitmagno.com/exchange/dashboard?coin_pair=XDC_USDT" target="_blank">USDT</a></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -586,8 +565,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                            
+                            </div>                            
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -607,7 +585,6 @@
                                     </div>
                                 </div>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -627,7 +604,6 @@
                                     </div>
                                 </div>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -647,7 +623,6 @@
                                     </div>
                                 </div>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -667,7 +642,6 @@
                                     </div>
                                 </div>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -687,7 +661,6 @@
                                     </div>
                                 </div>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -707,7 +680,6 @@
                                     </div>
                                 </div>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -727,7 +699,6 @@
                                     </div>
                                 </div>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -747,7 +718,6 @@
                                     </div>
                                 </div>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -767,7 +737,6 @@
                                     </div>
                                 </div>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -787,7 +756,6 @@
                                     </div>
                                 </div>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -807,7 +775,6 @@
                                     </div>
                                 </div>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -827,7 +794,6 @@
                                     </div>
                                 </div>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -847,7 +813,6 @@
                                     </div>
                                 </div>
                             </div>
-
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -866,8 +831,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                            
+                            </div>                            
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -886,8 +850,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                            
+                            </div>                            
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -1020,8 +983,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                            
+                            </div>                            
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -1060,26 +1022,6 @@
                                     </div>
                                 </div>
                             </div>
-                            
-                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
-                                        <div class="exchangeCard-header">
-                                            <div class="icon">
-                                                <div class=""><img src="assets/images/exchanges/bittrex.svg" alt="Bittrex" /></div>
-                                            </div>
-                                            <div class="desc">
-                                                <div class="card-infoHead">Bittrex</div>
-                                                <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
-                                            </div>
-                                        </div>
-                                        <div class="d-flex gap-3">
-                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
-                                            <div class="pairs fw-500"><a href="https://global.bittrex.com/trade/xdc-btc" target="_blank">BTC</a>, <a href="https://global.bittrex.com/trade/xdc-eur" target="_blank">EUR</a>, <a href="https://global.bittrex.com/trade/xdc-usdt" target="_blank">USDT</a></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -1232,25 +1174,6 @@
                                     </div>
                                 </div>
                             </div>
-                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
-                                        <div class="exchangeCard-header">
-                                            <div class="icon">
-                                                <div class=""><img src="assets/images/exchanges/liquid.svg" alt="Liquid" /></div>
-                                            </div>
-                                            <div class="desc">
-                                                <div class="card-infoHead">Liquid</div>
-                                                <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
-                                            </div>
-                                        </div>
-                                        <div class="d-flex gap-3">
-                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
-                                            <div class="pairs fw-500"><a href="https://app.liquid.com/exchange/XDCBTC" target="_blank">BTC</a>, <a href="https://app.liquid.com/exchange/XDCSGD" target="_blank">SGD</a>, <a href="https://app.liquid.com/exchange/XDCUSDT" target="_blank">USDT</a></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -1288,8 +1211,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                            
+                            </div>                            
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -1309,44 +1231,6 @@
                                     </div>
                                 </div>
                             </div>
-                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
-                                        <div class="exchangeCard-header">
-                                            <div class="icon">
-                                                <div class=""><img src="assets/images/exchanges/protondex.svg" alt="Proton DEX" /></div>
-                                            </div>
-                                            <div class="desc">
-                                                <div class="card-infoHead">Proton DEX</div>
-                                                <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
-                                            </div>
-                                        </div>
-                                        <div class="d-flex gap-3">
-                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
-                                            <div class="pairs fw-500"><a href="https://protondex.com/dex/XDC_XMD" target="_blank">XMD</a></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
-                                        <div class="exchangeCard-header">
-                                            <div class="icon">
-                                                <div class=""><img src="assets/images/exchanges/globiance.svg" alt="Globiance" /></div>
-                                            </div>
-                                            <div class="desc">
-                                                <div class="card-infoHead">Globiance</div>
-                                                <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
-                                            </div>
-                                        </div>
-                                        <div class="d-flex gap-3">
-                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
-                                            <div class="pairs fw-500"><a href="https://v3.globiance.com/market/CiFi-XDC" target="_blank">CIFI</a>, <a href="https://v3.globiance.com/market/GBPAY-XDC" target="_blank">GBPAY</a>, <a href="https://v3.globiance.com/market/GBEX-XDC" target="_blank">GBEX</a>, <a href="https://v3.globiance.com/market/XDC-USDG" target="_blank">USDG</a></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -1666,24 +1550,6 @@
                                     </div>
                                 </div>
                             </div>
-                            <!--<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
-                                        <div class="exchangeCard-header">
-                                            <div class="icon">
-                                                <div class=""><img src="assets/images/exchanges/globiance.svg" alt="Globiance" /></div>
-                                            </div>
-                                            <div class="desc">
-                                                <div class="card-infoHead">Globiance</div>
-                                                <p class="exchangeCard-type text-muted mb-0">DEX</p>
-                                            </div>
-                                        </div>
-                                        <div class="d-flex justify-content-between">
-                                            <div class="pairs fw-500 ml-6"><a href="https://dex.globiance.com/" target="_blank">Swap Now</a></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>-->
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -1766,101 +1632,98 @@
 
 <!-- Community Starts -->
 <section class="px-80">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-10 mb-5">
-                    <h3 class="title-m text-center">Join the Global Community</h3>
-                    <div class="subtitle subtitle-s text-center">Join a fast-growing XDC Network Community and innovators, connected all over the world. The XDC Network community includes people of many different backgrounds and skill sets.</div>
-                </div>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10 mb-5">
+                <h3 class="title-m text-center">Join the Global Community</h3>
+                <div class="subtitle subtitle-s text-center">Join a fast-growing XDC Network Community and innovators, connected all over the world. The XDC Network community includes people of many different backgrounds and skill sets.</div>
             </div>
-            <div class="row justify-content-center">
-                <!--<div class="col-lg-8 offset-lg-2">
-                    <div class="row items-3 justify-content-center">
-               <div class="col mt-2 mb-2">-->
-               <div class="col-lg-10 col-md-12">
-               <div class="row justify-content-center">
-               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                  <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                     <div class="card-info">
-                        <div class="socialHead"><i class="fas fa-paper-plane"></i>Telegram</div>
-                        <a href="https://t.me/XDC_Network_Updates" target="_blank" class="btn socialHead-button">
-                           Join discussion
-                           <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                           </svg>
-                        </a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                  <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                     <div class="card-info">
-                        <div class="socialHead"><i class="fab fa-twitter"></i>Twitter</div>
-                        <a href="https://x.com/XDCNetwork" target="_blank" class="btn socialHead-button">
-                           Follow
-                           <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                           </svg>
-                        </a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                  <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                     <div class="card-info">
-                        <div class="socialHead"><i class="fab fa-reddit-alien"></i>Reddit</div>
-                        <a href="https://www.reddit.com/r/xinfin/" target="_blank" class="btn socialHead-button">
-                           Dive in
-                           <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                           </svg>
-                        </a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                  <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                     <div class="card-info">
-                        <div class="socialHead"><i class="fab fa-github"></i>GitHub</div>
-                        <a href="https://github.com/XinFinorg" target="_blank" class="btn socialHead-button">
-                           Build with us
-                           <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                           </svg>
-                        </a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                  <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                     <div class="card-info">
-                        <div class="socialHead"><i class="fab fa-medium"></i>Medium</div>
-                        <a href="https://medium.com/xdcnetwork" target="_blank" class="btn socialHead-button">
-                           Follow
-                           <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                           </svg>
-                        </a>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                  <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                     <div class="card-info">
-                        <div class="socialHead"><i class="fab fa-discord"></i>Developers Forum</div>
-                        <a href="https://xdc.dev/" target="_blank" class="btn socialHead-button">
-                           Get involved
-                           <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                           </svg>
-                        </a>
-                     </div>
-                  </div>
-               </div>
-            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-10 col-md-12">
+                <div class="row justify-content-center">
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                        <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                            <div class="card-info">
+                                <div class="socialHead"><i class="fas fa-paper-plane"></i>Telegram</div>
+                                <a href="https://t.me/XDC_Network_Updates" target="_blank" class="btn socialHead-button">
+                                    Join discussion
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                        <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                            <div class="card-info">
+                                <div class="socialHead"><i class="fab fa-twitter"></i>Twitter</div>
+                                <a href="https://x.com/XDCNetwork" target="_blank" class="btn socialHead-button">
+                                    Follow
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                        <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                            <div class="card-info">
+                                <div class="socialHead"><i class="fab fa-reddit-alien"></i>Reddit</div>
+                                <a href="https://www.reddit.com/r/xinfin/" target="_blank" class="btn socialHead-button">
+                                    Dive in
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                        <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                            <div class="card-info">
+                                <div class="socialHead"><i class="fab fa-github"></i>GitHub</div>
+                                <a href="https://github.com/XinFinorg" target="_blank" class="btn socialHead-button">
+                                    Build with us
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                        <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                            <div class="card-info">
+                                <div class="socialHead"><i class="fab fa-medium"></i>Medium</div>
+                                <a href="https://medium.com/xdcnetwork" target="_blank" class="btn socialHead-button">
+                                    Follow
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                        <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                            <div class="card-info">
+                                <div class="socialHead"><i class="fab fa-discord"></i>Developers Forum</div>
+                                <a href="https://xdc.dev/" target="_blank" class="btn socialHead-button">
+                                    Get involved
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
 <!-- Community Ends -->
 <?php include('inc/footer.php') ?>
