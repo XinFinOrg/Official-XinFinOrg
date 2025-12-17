@@ -611,10 +611,11 @@
                                                 Developers <span class="icon"><i class="fas fa-chevron-down"></i></span>
                                             </a>
                                             <ul class="sub-menu">
-                                                <li><a href="https://docs.xdc.network" target="_blank">Documentation</a></li>
+                                                <li><a href="https://docs.xdc.network" target="_blank">XDC Network Docs</a></li>
                                                 <li><a href="https://xdc.dev" target="_blank">XDC Developers Forum</a></li>
                                                 <li><a href="https://coderun.ai/" target="_blank">XDC AI Developer Tools</a></li>
                                                 <li><a href="https://github.com/XinFinorg" target="_blank">GitHub</a></li>
+                                                <!--<li><a href="https://docs.xdc.network" target="_blank">Documentation</a></li>-->
                                             </ul>
                                         </li>
                                         <li>
