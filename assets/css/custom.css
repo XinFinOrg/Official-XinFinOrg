@@ -2182,7 +2182,8 @@ body.darkTheme {
     border: 1px solid rgba(0, 0, 0, 0.125)
 }
 .accordion-button {
-	background-color: rgba(243,245,246, 1);
+	font-size: 1.1rem;
+    background-color: rgba(243,245,246, 1);
 	padding-left: 0px;
 }
 .accordion-button:not(.collapsed) {

@@ -481,6 +481,42 @@
                 ]
                 },
 
+                /* ---------- FAQs ---------- */
+                {
+                "@type": "WebPage",
+                "@id": "https://xinfin.org/faqs",
+                "url": "https://xinfin.org/faqs",
+                "name": "XDC Network FAQs",
+                "isPartOf": {
+                    "@id": "https://xinfin.org/#website"
+                },
+                "about": {
+                    "@id": "https://xinfin.org/#organization"
+                },
+                "breadcrumb": {
+                    "@id": "https://xinfin.org/#breadcrumb-faqs"
+                },
+                "inLanguage": "en"
+                },
+                {
+                "@type": "BreadcrumbList",
+                "@id": "https://xinfin.org/#breadcrumb-faqs",
+                "itemListElement": [
+                    {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://xinfin.org/"
+                    },
+                    {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "XDC Network FAQs",
+                    "item": "https://xinfin.org/faqs"
+                    }
+                ]
+                },
+
                 /* ---------- CUSTODY SERVICES INTEGRATION ---------- */
                 {
                 "@type": "WebPage",
