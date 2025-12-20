@@ -83,24 +83,32 @@
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-6 col-6 mb-4">
                     <div class="footer-widget">
-                        <div class="colHeader">Social Media</div>
-                        <div class="socialicons">
-                        <a href="https://x.com/XDCNetwork" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
-                        <a href="https://www.linkedin.com/company/xdcnetwork/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-                        <a href="https://www.facebook.com/XDCNetworkBlockchain" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                        <a href="https://t.me/XDC_Network_Updates" target="_blank"><i class="fas fa-paper-plane"></i></a><br/>
-                        <a href="https://github.com/XinFinorg" target="_blank"><i class="fab fa-github"></i></a>
-                        <a href="https://www.reddit.com/r/xinfin/" target="_blank"><i class="fab fa-reddit"></i></a>
-                        <a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><i class="fab fa-youtube"></i></a>
-                    	</div>
+                        <div class="colHeader">XDC Market Data</div>
+                        <a href="https://coinmarketcap.com/currencies/xdc-network/" target="_blank">CoinMarketCap</a><br/>
+                        <a href="https://www.coingecko.com/en/coins/xdc-network" target="_blank">CoinGecko</a><br/>
+                        <a href="https://defillama.com/chain/xdc" target="_blank">DefiLlama</a><br/>
+                        <a href="https://tokenterminal.com/explorer/projects/xdc/xdc" target="_blank">Token Terminal</a><br/>
                     </div>
                 </div>
             </div>
         </div>
         <div class="container">
             <div class="row footer-bottom align-items-center">
-                <div class="col-12 text-center">
+                <div class="col-md-7 col-sm-12">
                     <div class="copyright">&copy; <span id="year"></span> <span class="fw-600">XDC Network</span> (formerly XinFin Network).<br />Released under an open-source license. Community-driven and collectively maintained.</div>
+                </div>
+                <div class="col-md-5 col-sm-12">
+                    <div class="copyright pull-right">
+                    	<div class="socialicons">
+                        	<a href="https://x.com/XDCNetwork" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+                            <a href="https://www.linkedin.com/company/xdcnetwork/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                            <a href="https://www.facebook.com/XDCNetworkBlockchain" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://t.me/XDC_Network_Updates" target="_blank"><i class="fas fa-paper-plane"></i></a>
+                            <a href="https://github.com/XinFinorg" target="_blank"><i class="fab fa-github"></i></a>
+                            <a href="https://www.reddit.com/r/xinfin/" target="_blank"><i class="fab fa-reddit"></i></a>
+                            <a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank"><i class="fab fa-youtube"></i></a>
+                    	</div>
+                    </div>
                 </div>
             </div>
         </div>
