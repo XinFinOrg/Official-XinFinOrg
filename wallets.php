@@ -76,28 +76,6 @@
                      <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                         <div class="exchangeCard-header">
                            <div class="icon">
-                              <div class=""><img src="assets/images/wallets/crypterium.svg" alt="Crypterium" /></div>
-                           </div>
-                           <div class="desc">
-                              <div class="card-infoHead">Crypterium</div>
-                              <p class="exchangeCard-type text-muted mb-0">All-in-One Solution for Secure and Convenient Cryptocurrency Management.</p>
-                           </div>
-                        </div>
-                        <div class="d-flex justify-content-between">
-                           <div class="pairs fw-500 ml-6">
-                              <a href="https://app.crypterium.com/sign-up" target="_blank" title="Web Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/web.svg"></a>
-                              <a href="https://play.google.com/store/apps/details?id=com.crypterium" target="_blank" title="Android Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/android.svg"></a>
-                              <a href="https://apps.apple.com/app/crypterium-bitcoin-wallet/id1360632912" target="_blank" title="iOS Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/ios.svg"></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
-                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
-                        <div class="exchangeCard-header">
-                           <div class="icon">
                               <div class=""><img src="assets/images/wallets/dcent.svg" alt="D'CENT" /></div>
                            </div>
                            <div class="desc">
