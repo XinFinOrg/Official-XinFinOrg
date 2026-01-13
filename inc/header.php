@@ -580,8 +580,8 @@
         <header class="autohide header-wrapper sticky-header">
             <div class="news-bar">
                 <p>
-                    Join XDC Network at <b>Money20/20 Asia</b> : 21-23 April, 2026.
-                    <a href="https://asia.money2020.com/" target="_blank" class="news-bar-button">
+                    Join XDC Network at <b>RWA-Stablecoins London Summit 2026</b> : 24 February, 2026.
+                    <a href="https://stg-3.com/event/rwa-stablecoins-ldn-2026/" target="_blank" class="news-bar-button">
                         JOIN US
                         <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
