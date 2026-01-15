@@ -251,7 +251,7 @@
             </div>
         </div>
         <div class="row justify-content-center">
-            <div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
+            <!--<div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                     <div class="card-info text-center">
                         <img src="assets/images/inside-page/exchange-listing/xdcpay-light.svg" class="center img-fluid iconL" />
@@ -266,15 +266,15 @@
                         </a>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
+            </div>-->
+            <div class="col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                     <div class="card-info text-center">
                         <img src="assets/images/inside-page/exchange-listing/xdcpay-light.svg" class="center img-fluid iconL" />
                         <img src="assets/images/inside-page/exchange-listing/xdcpay.svg" class="center img-fluid iconD" />
                         <div class="card-infoHead mt-3 mb-3">XDCPay</div>
                         <p class="fs-6 mb-0">XDCPay Browser Extension</p>
-                        <a href="https://chrome.google.com/webstore/detail/xdcpay/bocpokimicclpaiekenaeelehdjllofo" target="_blank" class="btn socialHead-button mt-auto">
+                        <a href="https://chromewebstore.google.com/detail/xdcpay/dgimfmajflciajjbhbkibdbfmpncbnmj?hl=en" target="_blank" class="btn socialHead-button mt-auto">
                             Add Now
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -283,7 +283,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
+            <div class="col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                     <div class="card-info text-center">
                         <img src="assets/images/inside-page/exchange-listing/xdcpay-light.svg" class="center img-fluid iconL" />
@@ -296,16 +296,16 @@
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                             </svg>
                         </a>
-                        <a href="https://betawallet.xinfin.network" target="_blank" class="btn socialHead-button mt-auto">
+                        <!--<a href="https://betawallet.xinfin.network" target="_blank" class="btn socialHead-button mt-auto px-3">
                             Web Wallet - Beta
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                             </svg>
-                        </a>
+                        </a>-->
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
+            <div class="col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                     <div class="card-info text-center">
                         <img src="assets/images/inside-page/exchange-listing/blockspay-light.svg" class="center img-fluid iconL" />

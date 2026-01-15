@@ -503,7 +503,7 @@
                     <div class="card-info">
                         <p class="fw-500">Transactions</p>
                         <div class="cardHead fw-600 lh-1">
-                            <span class="counter-api counter" id="transactionCount">956.17 </span>
+                            <span class="counter-api counter" id="transactionCount">983.95 </span>
                             <span id="transactionText">M</span>
                         </div>
                         <div class="statsIcon">
@@ -517,7 +517,7 @@
                     <div class="card-info">
                         <p class="fw-500">Contracts</p>
                         <div class="cardHead fw-600 lh-1">
-                            <span class="counter-api counter" id="contractNumber">674,236</span>
+                            <span class="counter-api counter" id="contractNumber">676,370</span>
                             <span id="contractNumberText"></span>
                         </div>
                         <div class="statsIcon">
@@ -530,7 +530,7 @@
                 <div class="card overflow-hidden pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <p class="fw-500">Validators/Total Nodes</p>
-                        <div class="cardHead fw-600 lh-1"><span class="counter-api counter" id="masternodes">108</span>/<span class="counter-api counter" id="totalnodes">256</span></div>
+                        <div class="cardHead fw-600 lh-1"><span class="counter-api counter" id="masternodes">108</span>/<span class="counter-api counter" id="totalnodes">241</span></div>
                         <div class="statsIcon">
                             <img src="assets/images/icons/validators-nodes.png" class="img-fluid" alt="XDC Masternodes" />
                         </div>

@@ -215,7 +215,7 @@
                 <div class="card h-100 overflow-hidden pt-4 pb-4 px-3 bg-light75 br-20 border-0">
                     <div class="card-info text-center w-100">
                         <p class="fw-500 fs-6">Total XDC Locked</p>
-                        <div class="fw-600 lh-1 fs-2 mb-3"><span class="counter-api counter" id="tvl">2650.80</span> <span id="tvltext">M</span></div>
+                        <div class="fw-600 lh-1 fs-2 mb-3"><span class="counter-api counter" id="tvl">2620.82</span> <span id="tvltext">M</span></div>
                         <p class="fw-500 fs-7 mb-0">XDC</p>
                     </div>
                 </div>
@@ -440,7 +440,7 @@
             </div>
         </div>
         <div class="row justify-content-center pb-5">
-            <div class="col-lg-5 col-md-5 col-sm-6 mt-2 mb-2">
+            <!--<div class="col-lg-5 col-md-5 col-sm-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info">
                         <div class="card-infoHead mb-2">One Click Installer</div>
@@ -453,12 +453,12 @@
                         </a>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-5 col-md-5 col-sm-6 mt-2 mb-2">
+            </div>-->
+            <div class="col-lg-10 col-md-12 col-sm-12 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info">
                         <div class="card-infoHead mb-2">Docker Setup</div>
-                        <p class="fs-6 mt-3 mb-0">Setting up XDC Masternode using Docker is a convenient way to deploy and manage the node.</p>
+                        <p class="fs-6 mt-3 mb-0">A quick guide to running an XDC Network node using Docker, enabling fast deployment, simplified configuration, and easy maintenance. Ideal for developers and node operators looking to set up a secure, production-ready XDC environment.</p>
                         <a href="docker-setup" class="btn socialHead-button internalLink mt-auto">
                             Learn More
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
