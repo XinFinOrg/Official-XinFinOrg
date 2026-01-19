@@ -703,8 +703,8 @@
                      <div class="subtitle subtitle-s text-center text-md-start text-lg-start">Multisig wallets for the XDC Network offer an added layer of security by requiring multiple signatures for transactions to be executed.</div>
                   </div>
                   <div class="col-lg-7 col-md-12">
-                     <div class="row custodian-wallets justify-content-lg-start justify-content-md-start justify-content-sm-center">
-                        <div class="col-lg-5 col-md-5 col-sm-6 col-6">
+                     <div class="row custodian-wallets justify-content-lg-start justify-content-md-start justify-content-sm-center justify-content-center">
+                        <div class="col-lg-5 col-md-4 col-sm-6 col-6 offset-lg-7">
                            <div>
                               <a href="https://safe.global/" target="_blank">
                               		<img src="assets/images/wallets/multisig-wallets/safe-wallet.svg" class="img-fluid iconD" alt="safe.global" >
