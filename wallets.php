@@ -28,6 +28,176 @@
                      <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                         <div class="exchangeCard-header">
                            <div class="icon">
+                              <div class=""><img src="assets/images/wallets/ledger.svg" alt="Ledger" /></div>
+                           </div>
+                           <div class="desc">
+                              <div class="card-infoHead">Ledger</div>
+                              <p class="exchangeCard-type text-muted mb-0">Ledger is a Secure hardware wallet for crypto with securely keeping the private keys offline.</p>
+                           </div>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                           <div class="pairs fw-500 ml-6">
+                              <a href="https://shop.ledger.com/" target="_blank" title="Hardware Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/hardware.svg"></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                        <div class="exchangeCard-header">
+                           <div class="icon">
+                              <div class=""><img src="assets/images/wallets/trezor.svg" alt="Trezor" /></div>
+                           </div>
+                           <div class="desc">
+                              <div class="card-infoHead">Trezor</div>
+                              <p class="exchangeCard-type text-muted mb-0">Leading hardware cryptocurrency wallet designed to provide maximum security for your digital assets.</p>
+                           </div>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                           <div class="pairs fw-500 ml-6">
+                              <a href="https://trezor.io/" target="_blank" title="Hardware Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/hardware.svg"></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                        <div class="exchangeCard-header">
+                           <div class="icon">
+                              <div class=""><img src="assets/images/wallets/ellipal.svg" alt="Ellipal" /></div>
+                           </div>
+                           <div class="desc">
+                              <div class="card-infoHead">Ellipal</div>
+                              <p class="exchangeCard-type text-muted mb-0">Manage multiple cryptos effortlessly with Ultra-secure and user-friendly Hardware Wallet.</p>
+                           </div>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                           <div class="pairs fw-500 ml-6">
+                              <a href="https://www.ellipal.com/" target="_blank" title="Hardware Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/hardware.svg"></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                        <div class="exchangeCard-header">
+                           <div class="icon">
+                              <div class=""><img src="assets/images/wallets/tangem.svg" alt="Tangem" /></div>
+                           </div>
+                           <div class="desc">
+                              <div class="card-infoHead">Tangem</div>
+                              <p class="exchangeCard-type text-muted mb-0">Tangem Wallet is a reliable hardware wallet that allows you to store cryptocurrencies simply and safely.</p>
+                           </div>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                           <div class="pairs fw-500 ml-6">
+                              <a href="https://tangem.com/en/pricing/" target="_blank" title="Hardware Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/hardware.svg"></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                        <div class="exchangeCard-header">
+                           <div class="icon">
+                              <div class=""><img src="assets/images/wallets/metamask.svg" alt="Metamask" /></div>
+                           </div>
+                           <div class="desc">
+                              <div class="card-infoHead">Metamask</div>
+                              <p class="exchangeCard-type text-muted mb-0">Your gateway to the decentralized world with secure and convenient blockchain interactions.</p>
+                           </div>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                           <div class="pairs fw-500 ml-6">
+                              <a href="https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn" target="_blank" title="Chrome Extension" class="WalletPlatform__link"><img src="assets/images/wallets/chrome.svg"></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>             
+               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                        <div class="exchangeCard-header">
+                           <div class="icon">
+                              <div class="">
+                                 <img src="assets/images/wallets/zerion.svg" class="img-fluid iconD" alt="Zerion Wallet" >
+                                 <img src="assets/images/wallets/zerion-light.svg" class="img-fluid iconL" alt="Zerion Wallet" >
+                              </div>
+                           </div>
+                           <div class="desc">
+                              <div class="card-infoHead">Zerion Wallet</div>
+                              <p class="exchangeCard-type text-muted mb-0">Zerion is a non-custodial multichain wallet to manage crypto, NFTs, and DeFi across 50+ EVM chains—on web, mobile, and Chrome.</p>
+                           </div>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                           <div class="pairs fw-500 ml-6">
+                              <a href="https://app.zerion.io/connect-wallet" target="_blank" title="Web Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/web.svg"></a>
+                              <a href="https://play.google.com/store/apps/details?id=io.zerion.android" target="_blank" title="Android Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/android.svg"></a>
+                              <a href="https://apps.apple.com/us/app/zerion-wallet-crypto-web3/id1456732565" target="_blank" title="iOS Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/ios.svg"></a>
+                              <a href="https://link.zerion.io/e/RgLMtUY6JHb" target="_blank" title="Chrome Extension" class="WalletPlatform__link"><img src="assets/images/wallets/chrome.svg"></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                        <div class="exchangeCard-header">
+                           <div class="icon">
+                              <div class=""><img src="assets/images/wallets/dcent.svg" alt="D'CENT" /></div>
+                           </div>
+                           <div class="desc">
+                              <div class="card-infoHead">D'CENT</div>
+                              <p class="exchangeCard-type text-muted mb-0">Empowering You with Ultimate Security and Control over Your Cryptocurrencies.</p>
+                           </div>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                           <div class="pairs fw-500 ml-6">
+                              <a href="https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet&amp;utm_source=dcent_medium&amp;utm_campaign=xdc_support" target="_blank" title="Android Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/android.svg"></a>
+                              <a href="https://apps.apple.com/kr/app/dcent-hardware-wallet/id1447206611" target="_blank" title="iOS Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/ios.svg"></a>
+                              <a href="https://dcentwallet.com/products/BiometricWallet" target="_blank" title="Biometric Hardware Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/hardware.svg"></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                        <div class="exchangeCard-header">
+                           <div class="icon">
+                              <div class=""><img src="assets/images/wallets/safepal.svg" alt="Safepal" /></div>
+                           </div>
+                           <div class="desc">
+                              <div class="card-infoHead">Safepal</div>
+                              <p class="exchangeCard-type text-muted mb-0">SafePal securely stores your crypto assets in the most simple and easy way.</p>
+                           </div>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                           <div class="pairs fw-500 ml-6">
+                              <a href="https://play.google.com/store/apps/details?id=io.safepal.wallet" target="_blank" title="Android Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/android.svg"></a>
+                              <a href="https://apps.apple.com/app/safepal-wallet/id1548297139" target="_blank" title="iOS Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/ios.svg"></a>
+                              <a href="https://www.safepal.com/download" target="_blank" title="Biometric Hardware Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/hardware.svg"></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div> 
+               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                        <div class="exchangeCard-header">
+                           <div class="icon">
                               <div class=""><img src="assets/images/wallets/guarda.svg" alt="Guarda Wallet" /></div>
                            </div>
                            <div class="desc">
@@ -66,28 +236,6 @@
                               <a href="https://app.freewallet.org/auth/registration" target="_blank" title="Web Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/web.svg"></a>
                               <a href="https://bitcoin-and-crypto-blockchain-wallet-by-freewallet.en.uptodown.com/android" target="_blank" title="Android Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/android.svg"></a>
                               <a href="https://apps.apple.com/us/app/id1274003898?mt=8" target="_blank" title="iOS Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/ios.svg"></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
-                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
-                        <div class="exchangeCard-header">
-                           <div class="icon">
-                              <div class=""><img src="assets/images/wallets/dcent.svg" alt="D'CENT" /></div>
-                           </div>
-                           <div class="desc">
-                              <div class="card-infoHead">D'CENT</div>
-                              <p class="exchangeCard-type text-muted mb-0">Empowering You with Ultimate Security and Control over Your Cryptocurrencies.</p>
-                           </div>
-                        </div>
-                        <div class="d-flex justify-content-between">
-                           <div class="pairs fw-500 ml-6">
-                              <a href="https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet&amp;utm_source=dcent_medium&amp;utm_campaign=xdc_support" target="_blank" title="Android Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/android.svg"></a>
-                              <a href="https://apps.apple.com/kr/app/dcent-hardware-wallet/id1447206611" target="_blank" title="iOS Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/ios.svg"></a>
-                              <a href="https://dcentwallet.com/products/BiometricWallet" target="_blank" title="Biometric Hardware Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/hardware.svg"></a>
                            </div>
                         </div>
                      </div>
@@ -137,29 +285,6 @@
                      </div>
                   </div>
                </div>
-               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
-                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
-                        <div class="exchangeCard-header">
-                           <div class="icon">
-                              <div class=""><img src="assets/images/wallets/safepal.svg" alt="Safepal" /></div>
-                           </div>
-                           <div class="desc">
-                              <div class="card-infoHead">Safepal</div>
-                              <p class="exchangeCard-type text-muted mb-0">SafePal securely stores your crypto assets in the most simple and easy way.</p>
-                           </div>
-                        </div>
-                        <div class="d-flex justify-content-between">
-                           <div class="pairs fw-500 ml-6">
-                              <a href="https://play.google.com/store/apps/details?id=io.safepal.wallet" target="_blank" title="Android Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/android.svg"></a>
-                              <a href="https://apps.apple.com/app/safepal-wallet/id1548297139" target="_blank" title="iOS Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/ios.svg"></a>
-                              <a href="https://www.safepal.com/download" target="_blank" title="Biometric Hardware Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/hardware.svg"></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>              
-               
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
                   <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                      <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -373,33 +498,7 @@
                         </div>
                      </div>
                   </div>
-               </div>               
-               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
-                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
-                        <div class="exchangeCard-header">
-                           <div class="icon">
-                              <div class="">
-                                 <img src="assets/images/wallets/zerion.svg" class="img-fluid iconD" alt="Zerion Wallet" >
-                                 <img src="assets/images/wallets/zerion-light.svg" class="img-fluid iconL" alt="Zerion Wallet" >
-                              </div>
-                           </div>
-                           <div class="desc">
-                              <div class="card-infoHead">Zerion Wallet</div>
-                              <p class="exchangeCard-type text-muted mb-0">Zerion is a non-custodial multichain wallet to manage crypto, NFTs, and DeFi across 50+ EVM chains—on web, mobile, and Chrome.</p>
-                           </div>
-                        </div>
-                        <div class="d-flex justify-content-between">
-                           <div class="pairs fw-500 ml-6">
-                              <a href="https://app.zerion.io/connect-wallet" target="_blank" title="Web Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/web.svg"></a>
-                              <a href="https://play.google.com/store/apps/details?id=io.zerion.android" target="_blank" title="Android Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/android.svg"></a>
-                              <a href="https://apps.apple.com/us/app/zerion-wallet-crypto-web3/id1456732565" target="_blank" title="iOS Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/ios.svg"></a>
-                              <a href="https://link.zerion.io/e/RgLMtUY6JHb" target="_blank" title="Chrome Extension" class="WalletPlatform__link"><img src="assets/images/wallets/chrome.svg"></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
+               </div>  
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
                   <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                      <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -465,46 +564,6 @@
                      <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                         <div class="exchangeCard-header">
                            <div class="icon">
-                              <div class=""><img src="assets/images/wallets/metamask.svg" alt="Metamask" /></div>
-                           </div>
-                           <div class="desc">
-                              <div class="card-infoHead">Metamask</div>
-                              <p class="exchangeCard-type text-muted mb-0">Your gateway to the decentralized world with secure and convenient blockchain interactions.</p>
-                           </div>
-                        </div>
-                        <div class="d-flex justify-content-between">
-                           <div class="pairs fw-500 ml-6">
-                              <a href="https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn" target="_blank" title="Chrome Extension" class="WalletPlatform__link"><img src="assets/images/wallets/chrome.svg"></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>               
-               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
-                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
-                        <div class="exchangeCard-header">
-                           <div class="icon">
-                              <div class=""><img src="assets/images/wallets/ledger.svg" alt="Ledger" /></div>
-                           </div>
-                           <div class="desc">
-                              <div class="card-infoHead">Ledger</div>
-                              <p class="exchangeCard-type text-muted mb-0">Ledger is a Secure hardware wallet for crypto with securely keeping the private keys offline.</p>
-                           </div>
-                        </div>
-                        <div class="d-flex justify-content-between">
-                           <div class="pairs fw-500 ml-6">
-                              <a href="https://shop.ledger.com/" target="_blank" title="Hardware Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/hardware.svg"></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
-                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
-                        <div class="exchangeCard-header">
-                           <div class="icon">
                               <div class=""><img src="assets/images/wallets/bitfi.svg" alt="Bitfi" /></div>
                            </div>
                            <div class="desc">
@@ -520,66 +579,6 @@
                      </div>
                   </div>
                </div>
-               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
-                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
-                        <div class="exchangeCard-header">
-                           <div class="icon">
-                              <div class=""><img src="assets/images/wallets/trezor.svg" alt="Trezor" /></div>
-                           </div>
-                           <div class="desc">
-                              <div class="card-infoHead">Trezor</div>
-                              <p class="exchangeCard-type text-muted mb-0">Leading hardware cryptocurrency wallet designed to provide maximum security for your digital assets.</p>
-                           </div>
-                        </div>
-                        <div class="d-flex justify-content-between">
-                           <div class="pairs fw-500 ml-6">
-                              <a href="https://trezor.io/" target="_blank" title="Hardware Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/hardware.svg"></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
-                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
-                        <div class="exchangeCard-header">
-                           <div class="icon">
-                              <div class=""><img src="assets/images/wallets/ellipal.svg" alt="Ellipal" /></div>
-                           </div>
-                           <div class="desc">
-                              <div class="card-infoHead">Ellipal</div>
-                              <p class="exchangeCard-type text-muted mb-0">Manage multiple cryptos effortlessly with Ultra-secure and user-friendly Hardware Wallet.</p>
-                           </div>
-                        </div>
-                        <div class="d-flex justify-content-between">
-                           <div class="pairs fw-500 ml-6">
-                              <a href="https://www.ellipal.com/" target="_blank" title="Hardware Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/hardware.svg"></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
-                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
-                        <div class="exchangeCard-header">
-                           <div class="icon">
-                              <div class=""><img src="assets/images/wallets/tangem.svg" alt="Tangem" /></div>
-                           </div>
-                           <div class="desc">
-                              <div class="card-infoHead">Tangem</div>
-                              <p class="exchangeCard-type text-muted mb-0">Tangem Wallet is a reliable hardware wallet that allows you to store cryptocurrencies simply and safely.</p>
-                           </div>
-                        </div>
-                        <div class="d-flex justify-content-between">
-                           <div class="pairs fw-500 ml-6">
-                              <a href="https://tangem.com/en/pricing/" target="_blank" title="Hardware Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/hardware.svg"></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>   
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
                   <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                      <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -671,6 +670,22 @@
                               </a>
                            </div>
                         </div>
+                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 col-6">
+                           <div>
+                              <a href="https://www.cobo.com/" target="_blank">
+                              	<img src="assets/images/wallets/custodian/cobo.svg" class="img-fluid iconD" alt="cobo.com" >
+                                 <img src="assets/images/wallets/custodian/cobo-light.svg" class="img-fluid iconL" alt="cobo.com" >
+                              </a>
+                           </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 col-6">
+                           <div>
+                              <a href="https://www.anchorage.com/" target="_blank">
+                              	<img src="assets/images/wallets/custodian/anchorage.svg" class="img-fluid iconD" alt="anchorage.com" >
+                                 <img src="assets/images/wallets/custodian/anchorage-light.svg" class="img-fluid iconL" alt="anchorage.com" >
+                              </a>
+                           </div>
+                        </div>
                      </div>
                   </div>
                </div>
@@ -681,15 +696,23 @@
          <div class="col-12">
             <div class="card p-5 bg-lightgray br-20 border-0">
                <div class="row align-items-center">
-                  <div class="col-lg-4 col-md-12 mb-4 mb-md-4 mb-lg-0">
+                  <div class="col-lg-5 col-md-12 mb-4 mb-md-5 mb-lg-0">
                      <h3 class="title-m text-center text-md-start text-lg-start mb-3">
                         Multisig Wallets
                      </h3>
                      <div class="subtitle subtitle-s text-center text-md-start text-lg-start">Multisig wallets for the XDC Network offer an added layer of security by requiring multiple signatures for transactions to be executed.</div>
                   </div>
-                  <div class="col-lg-8 col-md-12">
+                  <div class="col-lg-7 col-md-12">
                      <div class="row custodian-wallets justify-content-lg-start justify-content-md-start justify-content-sm-center">
-                        <div class="col-lg-4 col-md-4 col-sm-6 col-6">
+                        <div class="col-lg-5 col-md-5 col-sm-6 col-6">
+                           <div>
+                              <a href="https://safe.global/" target="_blank">
+                              		<img src="assets/images/wallets/multisig-wallets/safe-wallet.svg" class="img-fluid iconD" alt="safe.global" >
+                                    <img src="assets/images/wallets/multisig-wallets/safe-wallet-light.svg" class="img-fluid iconL" alt="safe.global" >
+                              </a>
+                           </div>
+                        </div>
+                        <!--<div class="col-lg-4 col-md-4 col-sm-6 col-6">
                            <div>
                               <a href="https://app.oryy.io/" target="_blank">
                               		<img src="assets/images/wallets/multisig-wallets/oryy.svg" class="img-fluid iconD" alt="app.oryy.io" >
@@ -712,7 +735,7 @@
                                     <img src="assets/images/wallets/multisig-wallets/yodaplus-light.svg" class="img-fluid iconL" alt="yplusvault.com" >
                               </a>
                            </div>
-                        </div>
+                        </div>-->
                      </div>
                   </div>
                </div>
