@@ -192,7 +192,30 @@
                         </div>
                      </div>
                   </div>
-               </div> 
+               </div>
+               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                        <div class="exchangeCard-header">
+                           <div class="icon">
+                              <div class="">
+                                 <img src="assets/images/wallets/doru.svg" class="img-fluid iconD" alt="Doru">
+                                 <img src="assets/images/wallets/doru-light.svg" class="img-fluid iconL" alt="Doru">
+                              </div>
+                           </div>
+                           <div class="desc">
+                              <div class="card-infoHead">Doru</div>
+                              <p class="exchangeCard-type text-muted mb-0">Doru delivers true self-custody with fully air-gapped wallets, turning any phone into a cold wallet with zero connectivity.</p>
+                           </div>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                           <div class="pairs fw-500 ml-6">
+                              <a href="https://play.google.com/store/apps/details?id=com.rawgenerate" target="_blank" title="Android Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/android.svg"></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
                   <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                      <div class="exchangeCard-block card-info d-flex flex-column gap-4">
@@ -553,7 +576,7 @@
                         </div>
                         <div class="d-flex justify-content-between">
                            <div class="pairs fw-500 ml-6">
-                              <a href="https://chromewebstore.google.com/detail/xdcpay/bocpokimicclpaiekenaeelehdjllofo" target="_blank" title="Chrome Extension" class="WalletPlatform__link"><img src="assets/images/wallets/chrome.svg"></a>
+                              <a href="https://chromewebstore.google.com/detail/xdcpay/dgimfmajflciajjbhbkibdbfmpncbnmj?hl=en" target="_blank" title="Chrome Extension" class="WalletPlatform__link"><img src="assets/images/wallets/chrome.svg"></a>
                            </div>
                         </div>
                      </div>
