@@ -23,13 +23,13 @@
         <div class="row">
             <nav>
                 <div class="nav nav-pills justify-content-center mb-4" id="nav-pills" role="tablist">
-                    <button class="nav-link active" id="nav-all-tab" data-bs-toggle="tab" data-bs-target="#nav-all" type="button" role="tab" aria-controls="nav-all" aria-selected="false">All dApps <sup>(87)</sup></button>
+                    <button class="nav-link active" id="nav-all-tab" data-bs-toggle="tab" data-bs-target="#nav-all" type="button" role="tab" aria-controls="nav-all" aria-selected="false">All dApps <sup>(88)</sup></button>
                     <button class="nav-link" id="nav-ai-tab" data-bs-toggle="tab" data-bs-target="#nav-ai" type="button" role="tab" aria-controls="nav-ai" aria-selected="true">AI <sup>(2)</sup></button>
                     <button class="nav-link" id="nav-alliances-tab" data-bs-toggle="tab" data-bs-target="#nav-alliances" type="button" role="tab" aria-controls="nav-alliances" aria-selected="true">Alliances <sup>(2)</sup></button>
                     <button class="nav-link" id="nav-defi-tab" data-bs-toggle="tab" data-bs-target="#nav-defi" type="button" role="tab" aria-controls="nav-defi" aria-selected="true">DeFi <sup>(19)</sup></button>
                     <button class="nav-link" id="nav-gaming-tab" data-bs-toggle="tab" data-bs-target="#nav-gaming" type="button" role="tab" aria-controls="nav-gaming" aria-selected="false">Gaming <sup>(11)</sup></button>
                     <button class="nav-link" id="nav-infrastructure-tab" data-bs-toggle="tab" data-bs-target="#nav-infrastructure" type="button" role="tab" aria-controls="nav-infrastructure" aria-selected="false">Infrastructure <sup>(18)</sup></button>
-                    <button class="nav-link" id="nav-interoperability-tab" data-bs-toggle="tab" data-bs-target="#nav-interoperability" type="button" role="tab" aria-controls="nav-interoperability" aria-selected="false">Interoperability <sup>(2)</sup></button>
+                    <button class="nav-link" id="nav-interoperability-tab" data-bs-toggle="tab" data-bs-target="#nav-interoperability" type="button" role="tab" aria-controls="nav-interoperability" aria-selected="false">Interoperability <sup>(3)</sup></button>
                     <button class="nav-link" id="nav-nfts-tab" data-bs-toggle="tab" data-bs-target="#nav-nfts" type="button" role="tab" aria-controls="nav-nfts" aria-selected="false">NFTs <sup>(8)</sup></button>
                     <button class="nav-link" id="nav-protocol-tab" data-bs-toggle="tab" data-bs-target="#nav-protocol" type="button" role="tab" aria-controls="nav-protocol" aria-selected="false">Protocol <sup>(9)</sup></button>
                     <button class="nav-link" id="nav-rwa-tab" data-bs-toggle="tab" data-bs-target="#nav-rwa" type="button" role="tab" aria-controls="nav-rwa" aria-selected="false">RWA <sup>(17)</sup></button>
@@ -517,6 +517,26 @@
                                             <div class="">
                                                 <div class="card-infoHead mb-2">Dopu</div>
                                                 <p class="lh-base mb-0">DOPU, the 'Dog with a Purpose,' your friendly guide in the world of blockchain and peer-to-peer payments.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#asterizm">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<img src="assets/images/ecosystem-dapps/asterizm-icon.svg" alt="Asterizm">
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Interoperability</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Asterizm</div>
+                                                <p class="lh-base mb-0">Asterizm is an institutional-grade blockchain interoperability infrastructure for DeFi, RWAs, and enterprise blockchains.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -3401,6 +3421,26 @@
                                     </div>
                                 </a>
                             </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <a href="#" data-bs-toggle="modal" data-bs-target="#asterizm">
+                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
+                                            <div class="exchangeCard-header justify-content-between align-items-center">
+                                                <div class="icon">
+                                                	<img src="assets/images/ecosystem-dapps/asterizm-icon.svg" alt="Asterizm">
+                                                </div>
+                                                <div class="desc label">
+                                                    <div class="exchangeCard-type text-muted mt-0 mb-0">Interoperability</div>
+                                                </div>
+                                            </div>
+                                            <div class="">
+                                                <div class="card-infoHead mb-2">Asterizm</div>
+                                                <p class="lh-base mb-0">Asterizm is an institutional-grade blockchain interoperability infrastructure for DeFi, RWAs, and enterprise blockchains.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -5924,10 +5964,7 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                                         <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
                                     </a>
                                     <a href="https://www.linkedin.com/company/xdc-trade-network/" target="_blank">
-                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-github"></i> LinkedIn</button>
-                                    </a>
-                                    <a href="https://medium.com/@xdctradenetwork" target="_blank">
-                                        <button class="btn btn-hover btn-medium"><i class="fab fa-discord"></i> Medium</button>
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
                                     </a>
                                 </div>
                             </div>
@@ -5978,6 +6015,64 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                                 <div class="btn-block mb-3">
                                     <a href="https://x.com/Dopu_Official" target="_blank">
                                         <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="asterizm" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="project-details-flex-row">
+                    <div class="project__img text-center">
+                        <div class="usecase-box-1">
+                            <div class="image-container">
+                                <img src="assets/images/ecosystem-dapps/asterizm-icon.svg" alt="Asterizm">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Asterizm</h2>
+                            <p>Asterizm is an institutional-grade blockchain interoperability infrastructure for DeFi, RWAs, and enterprise blockchains. Asterizm eliminates third-party off-chain consensus through pure on-chain validation, enabling lower costs and faster execution.</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p>It is built not only for Web3 projects but also for banks, fintechs, and enterprises seeking to connect traditional finance with blockchain technology.</p>
+                            </div>
+                        </div>
+                        <div class="project__footer">
+                            <div class="web-visit-btn">
+                                <a href="https://asterizm.io/" target="_blank" class="btn socialHead-button btn-blue">Visit Website
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    	<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                	</svg>
+                            	</a>
+                            </div>
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div class="btn-block mb-3">
+                                    <a href="https://x.com/Asterizm_layer" target="_blank">
+                                        <button class="btn btn-hover btn-twitter"><i class="fab fa-twitter"></i> Twitter</button>
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/asterizm/" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</button>
+                                    </a>
+                                    <a href="https://t.me/asterizm_protocol" target="_blank">
+                                        <button class="btn btn-hover btn-telegram"><i class="fa fa-paper-plane"></i> Telegram</button>
+                                    </a>
+                                    <a href="https://discord.gg/KnknqG5BGS" target="_blank">
+                                        <button class="btn btn-hover btn-discord"><i class="fab fa-discord"></i> Discord</button>
                                     </a>
                                 </div>
                             </div>
