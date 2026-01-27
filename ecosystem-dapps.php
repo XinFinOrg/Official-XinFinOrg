@@ -6074,9 +6074,9 @@ After 5+ years of research, and thousands of hours of R&D and simulations, Supra
                                     <a href="https://t.me/asterizm_protocol" target="_blank">
                                         <button class="btn btn-hover btn-github"><i class="fab fa-github"></i> Github</button>
                                     </a>
-                                    <a href="https://discord.gg/KnknqG5BGS" target="_blank">
+                                    <!--<a href="https://discord.gg/KnknqG5BGS" target="_blank">
                                         <button class="btn btn-hover btn-discord"><i class="fab fa-discord"></i> Discord</button>
-                                    </a>
+                                    </a>-->
                                 </div>
                             </div>
                     	</div>
