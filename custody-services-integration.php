@@ -116,7 +116,7 @@
             <div class="tab-content mt-3" id="nav-tabContent">
                 <div class="tab-pane fade active show" id="nav-mainnet" role="tabpanel" aria-labelledby="nav-mainnet-tab">
                     <div class="col-lg-12">
-                        <div class="row">
+                        <div class="row justify-content-center">
                             <div class="col-lg-4 col-md-6 mt-2 mb-2">
                                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                                     <div class="fs-6 card-infoHead mb-3">RPC</div>
@@ -168,7 +168,7 @@
                 </div>
                 <div class="tab-pane fade" id="nav-testnet" role="tabpanel" aria-labelledby="nav-testnet-tab">
                     <div class="col-lg-12">
-                        <div class="row">
+                        <div class="row justify-content-center">
                             <div class="col-lg-4 col-md-6 mt-2 mb-2">
                                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                                     <div class="fs-6 card-infoHead mb-3">RPC</div>
@@ -328,7 +328,7 @@
 <!-- Seamless Integration Starts -->
 <section class="px-80 bg-lightgray">
     <div class="container">
-        <div class="row">
+        <div class="row justify-content-center">
             <div class="col-lg-4 col-md-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="fs-6 card-infoHead mb-3">XDC Network Tools</div>
@@ -435,7 +435,13 @@
                         <img src="assets/images/inside-page/exchange-listing/big.svg" class="center logoFs img-fluid iconD" />
                         <div class="card-infoHead mt-5 mb-1">XDC Network Chain Analysis</div>
                         <p class="fs-7 mb-0">By Blockchain Intelligence Group</p>
-                        <a href="https://blockchaingroup.io/defi-enabled-enterprise-grade-hybrid-blockchain-xdc-network-gains-compliance-edge/" target="_blank" class="btn socialHead-button mt-auto">
+                        <!--<a href="https://blockchaingroup.io/defi-enabled-enterprise-grade-hybrid-blockchain-xdc-network-gains-compliance-edge/" target="_blank" class="btn socialHead-button mt-auto">
+                            View Now
+                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                            </svg>
+                        </a>-->
+                        <a href="https://blockchaingroup.io/announcements/blockchain-intelligence-group-to-support-xinfin-xdc-on-its-crypto-investigation-platform/" target="_blank" class="btn socialHead-button mt-auto">
                             View Now
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -453,6 +459,22 @@
                         <p class="fs-7 mb-0">By Elliptic</p>
                         <a href="https://www.elliptic.co/" target="_blank" class="btn socialHead-button mt-auto">
                             Visit Now
+                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                    <div class="card-info text-center">
+                        <img src="assets/images/inside-page/blockchain-analytics-tools/miller-thomson-light.svg" class="center logoFs img-fluid iconL" />
+                        <img src="assets/images/inside-page/blockchain-analytics-tools/miller-thomson.svg" class="center logoFs img-fluid iconD" />
+                        <div class="card-infoHead mt-5 mb-1">XDC Network Legal Opinion</div>
+                        <p class="fs-7 mb-0">By MILLER THOMSON</p>
+                        <a href="docs/reports/xdc-network-opinion-letter.pdf" target="_blank" class="btn socialHead-button mt-auto">
+                            View Now
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                             </svg>
