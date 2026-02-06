@@ -1159,6 +1159,9 @@ a .card-infoHead {
     font-size: 22px;
     line-height: 26px;
 }
+.card-infoHead.smallheading {
+    font-size: 20px;
+}
 .card-info p {
     color: #626262
 }
@@ -1212,12 +1215,20 @@ a .card-infoHead {
     	font-size: 20px;
     	line-height: 26px;
 	}
+    .card-infoHead.smallheading {
+    font-size: 18px;
+    line-height: 24px;
+    }
 }
 @media screen and (max-width: 767px) {
 	.card-infoHead {
     	font-size: 18px;
     	line-height: 24px;
 	}
+    .card-infoHead.smallheading {
+        font-size: 17px;
+        line-height: 23px;
+    }
 }
 /*---------------------------------------------------------
 	PARTNERSHIPS STYLE
