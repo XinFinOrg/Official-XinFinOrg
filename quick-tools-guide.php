@@ -549,12 +549,12 @@
             </div>
         </div>
         <div class="row justify-content-center">
-            <div class="col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info text-center">
                         <img src="assets/images/inside-page/exchange-listing/slowmist-light.svg" class="center logoFs img-fluid iconL" />
                         <img src="assets/images/inside-page/exchange-listing/slowmist.svg" class="center logoFs img-fluid iconD" />
-                        <div class="card-infoHead smallheading mt-5 mb-1">XDC Network Audit Report</div>
+                        <div class="card-infoHead mt-5 mb-1">XDC Network Audit Report</div>
                         <p class="fs-7 mb-0">by SlowMist</p>
                         <a href="docs/reports/xdposchain-security-audit-report.pdf" target="_blank" class="btn socialHead-button mt-auto">
                             View Now
@@ -565,12 +565,12 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info text-center">
                         <img src="assets/images/inside-page/exchange-listing/certik-light.svg" class="center logoFs img-fluid iconL" />
                         <img src="assets/images/inside-page/exchange-listing/certik.svg" class="center logoFs img-fluid iconD" />
-                        <div class="card-infoHead smallheading mt-5 mb-1">XDC Network Audit Report</div>
+                        <div class="card-infoHead mt-5 mb-1">XDC Network Audit Report</div>
                         <p class="fs-7 mb-0">by Certik</p>
                         <a href="https://skynet.certik.com/projects/xdc-network?auditId=XDC%20Network%20-%20Audit%201#code-security" target="_blank" class="btn socialHead-button mt-auto">
                             View Now
@@ -581,12 +581,12 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info text-center">
                         <img src="assets/images/inside-page/exchange-listing/big-light.svg" class="center logoFs img-fluid iconL" />
                         <img src="assets/images/inside-page/exchange-listing/big.svg" class="center logoFs img-fluid iconD" />
-                        <div class="card-infoHead smallheading mt-5 mb-1">XDC Network Chain Analysis</div>
+                        <div class="card-infoHead mt-5 mb-1">XDC Network Chain Analysis</div>
                         <p class="fs-7 mb-0">By Blockchain Intelligence Group</p>
                         <!--<a href="https://blockchaingroup.io/defi-enabled-enterprise-grade-hybrid-blockchain-xdc-network-gains-compliance-edge/" target="_blank" class="btn socialHead-button mt-auto">
                             View Now
@@ -603,12 +603,12 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info text-center">
                         <img src="assets/images/inside-page/exchange-listing/elliptic-light.svg" class="center logoFs img-fluid iconL" />
                         <img src="assets/images/inside-page/exchange-listing/elliptic.svg" class="center logoFs img-fluid iconD" />
-                        <div class="card-infoHead smallheading mt-5 mb-1">XDC Network Chain Analysis</div>
+                        <div class="card-infoHead mt-5 mb-1">XDC Network Chain Analysis</div>
                         <p class="fs-7 mb-0">By Elliptic</p>
                         <a href="https://www.elliptic.co/" target="_blank" class="btn socialHead-button mt-auto">
                             Visit Now
@@ -619,12 +619,12 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info text-center">
                         <img src="assets/images/inside-page/exchange-listing/bcas-light.svg" class="center logoFs img-fluid iconL" />
                         <img src="assets/images/inside-page/exchange-listing/bcas.svg" class="center logoFs img-fluid iconD" />
-                        <div class="card-infoHead smallheading mt-5 mb-1">XDC Network Legal Opinion Korea</div>
+                        <div class="card-infoHead mt-5 mb-1">XDC Network Legal Opinion Korea</div>
                         <p class="fs-7 mb-0">By BCAS</p>
                         <a href="docs/reports/legal-opinion-liechtenstein-bcas-xdc-14jan2021.pdf" target="_blank" class="btn socialHead-button mt-auto">
                             View Now
@@ -635,12 +635,12 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info text-center">
                         <img src="assets/images/inside-page/blockchain-analytics-tools/miller-thomson-light.svg" class="center logoFs img-fluid iconL" />
                         <img src="assets/images/inside-page/blockchain-analytics-tools/miller-thomson.svg" class="center logoFs img-fluid iconD" />
-                        <div class="card-infoHead smallheading mt-5 mb-1">XDC Network Legal Opinion Canada</div>
+                        <div class="card-infoHead mt-5 mb-1">XDC Network Legal Opinion Canada</div>
                         <p class="fs-7 mb-0">By MILLER THOMSON</p>
                         <a href="docs/reports/xdc-network-opinion-letter.pdf" target="_blank" class="btn socialHead-button mt-auto">
                             View Now
@@ -651,11 +651,12 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2
+            ">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info text-center">
                         <img src="assets/images/inside-page/blockchain-analytics-tools/mcdermott-will-&-emery.svg" class="center logoFs img-fluid" />
-                        <div class="card-infoHead smallheading mt-5 mb-1">XDC Network Legal Opinion USA</div>
+                        <div class="card-infoHead mt-5 mb-1">XDC Network Legal Opinion USA</div>
                         <p class="fs-7 mb-0">By McDermott Will & Emery</p>
                         <a href="docs/reports/xdc-network-regulatory-risk-memo-mwe-2022-jul-15-usa.pdf" target="_blank" class="btn socialHead-button mt-auto">
                             View Now
