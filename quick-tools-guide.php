@@ -45,7 +45,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
+            <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
                 <a href="https://wallet.xinfin.network/" target="_blank" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="exchangeCard-header align-items-center">
@@ -65,12 +65,12 @@
                     </div>
                 </a>
             </div>
-            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
+            <!--<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
                 <a href="https://play.google.com/store/apps/details?id=com.xdcwallet&pli=1" target="_blank" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="exchangeCard-header align-items-center">
                             <div class="icon">
-                                <div class=""><img src="assets/images/inside-page/masternode/mobile-wallet.svg" alt="Web Wallet" /></div>
+                                <div class=""><img src="assets/images/inside-page/masternode/mobile-wallet.svg" alt="Mobile Wallet" /></div>
                             </div>
                             <div class="desc">
                                 <div class="card-infoHead">Mobile Wallet</div>
@@ -84,8 +84,8 @@
                         </svg>
                     </div>
                 </a>
-            </div>
-            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
+            </div>-->
+            <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
                 <a href="https://xdcscan.io/" target="_blank" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="exchangeCard-header align-items-center">
@@ -105,7 +105,7 @@
                     </div>
                 </a>
             </div>
-            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
+            <!--<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
                 <a href="oneclick-installer" class="hero-ftr-card tools-guide-block internalLink align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="exchangeCard-header align-items-center">
@@ -124,8 +124,8 @@
                         </svg>
                     </div>
                 </a>
-            </div>
-            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
+            </div>-->
+            <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
                 <a href="https://master.xinfin.network/" target="_blank" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="exchangeCard-header align-items-center">
@@ -173,7 +173,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
+            <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
                 <a href="https://apothem.network/#getTestXDC" target="_blank" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="exchangeCard-header align-items-center">
@@ -193,12 +193,12 @@
                     </div>
                 </a>
             </div>
-            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
+            <!--<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
                 <a href="https://play.google.com/store/apps/details?id=com.xdcwallet&pli=1" target="_blank" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="exchangeCard-header align-items-center">
                             <div class="icon">
-                                <div class=""><img src="assets/images/inside-page/masternode/mobile-wallet.svg" alt="Web Wallet" /></div>
+                                <div class=""><img src="assets/images/inside-page/masternode/mobile-wallet.svg" alt="Mobile Wallet" /></div>
                             </div>
                             <div class="desc">
                                 <div class="card-infoHead">Mobile Wallet</div>
@@ -212,8 +212,8 @@
                         </svg>
                     </div>
                 </a>
-            </div>
-            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
+            </div>-->
+            <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
                 <a href="https://apothem.xdcscan.io/" target="_blank" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="exchangeCard-header align-items-center">
@@ -233,7 +233,7 @@
                     </div>
                 </a>
             </div>
-            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
+            <!--<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
                 <a href="oneclick-installer" class="hero-ftr-card tools-guide-block internalLink align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="exchangeCard-header align-items-center">
@@ -252,8 +252,8 @@
                         </svg>
                     </div>
                 </a>
-            </div>
-            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
+            </div>-->
+            <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
                 <a href="https://master.xinfin.network/" target="_blank" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="exchangeCard-header align-items-center">
@@ -471,7 +471,7 @@
                                     XDCPay is your gateway to experiencing the distributed web of tomorrow in your browser today. Securely store, send, and receive XDC and XRC20 tokens with XDCPay's self-hosted wallet.
                                 </p>
                                 <div class="btn-block d-block mt-4">
-                                    <a href="https://chrome.google.com/webstore/detail/xdcpay/bocpokimicclpaiekenaeelehdjllofo" target="_blank"><button class="btn-blue">Download XDCPay</button></a>
+                                    <a href="https://chromewebstore.google.com/detail/xdcpay/dgimfmajflciajjbhbkibdbfmpncbnmj" target="_blank"><button class="btn-blue">Download XDCPay</button></a>
                                     <a href="https://docs.xdc.org/xdc-tools/xdc-pay" target="_blank"><button class="btn-transp-bordered">Get Started</button></a>
                                 </div>
                             </div>
@@ -651,14 +651,29 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2
-            ">
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info text-center">
                         <img src="assets/images/inside-page/blockchain-analytics-tools/mcdermott-will-&-emery.svg" class="center logoFs img-fluid" />
                         <div class="card-infoHead mt-5 mb-1">XDC Network Legal Opinion USA</div>
                         <p class="fs-7 mb-0">By McDermott Will & Emery</p>
                         <a href="docs/reports/xdc-network-regulatory-risk-memo-mwe-2022-jul-15-usa.pdf" target="_blank" class="btn socialHead-button mt-auto">
+                            View Now
+                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+                <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                    <div class="card-info text-center">
+                        <img src="assets/images/inside-page/blockchain-analytics-tools/law-firm-bergt-&-partners-ltd-light.svg" class="center logoFs img-fluid iconL" />
+                        <img src="assets/images/inside-page/blockchain-analytics-tools/law-firm-bergt-&-partners-ltd.svg" class="center logoFs img-fluid iconD" />
+                        <div class="card-infoHead mt-5 mb-1">XDC Network Legal Opinion Europe</div>
+                        <p class="fs-7 mb-0">By Law Firm Bergt & Partners Ltd.</p>
+                        <a href="docs/reports/xdc-token-2024-03-11-europe.pdf" target="_blank" class="btn socialHead-button mt-auto">
                             View Now
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
