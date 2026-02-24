@@ -296,6 +296,80 @@
 <!-- Third-Party Masternode Services Starts -->
 <section class="px-80">
     <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-7 mb-5">
+                <h3 class="title-m text-center">Leading Infrastructure Operators and Trusted Institutions</h3>
+                <div class="subtitle subtitle-s text-center">
+                    A Network Secured by Leading Infrastructure Operators and Trusted Institutions.
+                </div>
+            </div>
+        </div>
+        <div class="row row-flex">
+            <div class="col-lg-12">
+                <div class="row justify-content-center">
+                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                        <a href="https://www.sbivc.co.jp/" target="_blank">
+                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                                <div class="card-info text-center">
+                                    <img src="assets/images/inside-page/masternode/sbivcjapan-light.svg" class="center logoFs img-fluid iconL" alt="sbivc.co.jp" />
+                                    <img src="assets/images/inside-page/masternode/sbivcjapan.svg" class="center logoFs img-fluid iconD" alt="sbivc.co.jp" />
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                        <a href="https://www.cumberland.io/" target="_blank">
+                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                                <div class="card-info text-center">
+                                    <img src="assets/images/inside-page/masternode/cumberland-light.svg" class="center logoFs img-fluid iconL" alt="cumberland.io" />
+                                    <img src="assets/images/inside-page/masternode/cumberland.svg" class="center logoFs img-fluid iconD" alt="cumberland.io" />
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                        <a href="https://www.telekom.com/en" target="_blank">
+                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                                <div class="card-info text-center">
+                                    <img src="assets/images/inside-page/masternode/deutsche-telekom.svg" class="center logoFs img-fluid" alt="telekom.com" />
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                        <a href="https://www.gsr.io/" target="_blank">
+                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                                <div class="card-info text-center">
+                                    <img src="assets/images/inside-page/masternode/gsr-markets-light.svg" class="center logoFs img-fluid iconL" alt="gsr.io" />
+                                    <img src="assets/images/inside-page/masternode/gsr-markets.svg" class="center logoFs img-fluid iconD" alt="gsr.io" />
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                        <a href="https://www.bitrue.com/" target="_blank">
+                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                                <div class="card-info text-center">
+                                    <img src="assets/images/inside-page/masternode/bitrue-light.svg" class="center logoFs img-fluid iconL" alt="bitrue.com" />
+                                    <img src="assets/images/inside-page/masternode/bitrue.svg" class="center logoFs img-fluid iconD" alt="bitrue.com" />
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Third-Party Masternode Services Ends -->
+
+<!-- Third-Party Masternode Services Starts -->
+<section class="px-80">
+    <div class="container">
         <div class="row">
             <div class="col-lg-10 offset-lg-1 mb-5">
                 <h3 class="title-m text-center">Third-Party Masternode Services</h3>
@@ -429,6 +503,7 @@
     </div>
 </section>
 <!-- Third-Party Masternode Services Ends -->
+
 
 <!-- Guides and Documentation Starts -->
 <section class="px-80 bg-lightgray">
