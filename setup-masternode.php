@@ -313,6 +313,7 @@
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/sbivcjapan-light.svg" class="center logoFs img-fluid iconL" alt="sbivc.co.jp" />
                                     <img src="assets/images/inside-page/masternode/sbivcjapan.svg" class="center logoFs img-fluid iconD" alt="sbivc.co.jp" />
+                                    <p class="card-info-desc br-20 mb-0 ">SBI VC Japan</p>
                                 </div>
                             </div>
                         </a>
@@ -324,6 +325,7 @@
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/cumberland-light.svg" class="center logoFs img-fluid iconL" alt="cumberland.io" />
                                     <img src="assets/images/inside-page/masternode/cumberland.svg" class="center logoFs img-fluid iconD" alt="cumberland.io" />
+                                    <p class="card-info-desc br-20 mb-0 ">Cumberland</p>
                                 </div>
                             </div>
                         </a>
@@ -334,6 +336,7 @@
                             <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/deutsche-telekom.svg" class="center logoFs img-fluid" alt="telekom.com" />
+                                    <p class="card-info-desc br-20 mb-0 ">Deutsche Telekom</p>
                                 </div>
                             </div>
                         </a>
@@ -345,6 +348,7 @@
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/gsr-markets-light.svg" class="center logoFs img-fluid iconL" alt="gsr.io" />
                                     <img src="assets/images/inside-page/masternode/gsr-markets.svg" class="center logoFs img-fluid iconD" alt="gsr.io" />
+                                    <p class="card-info-desc br-20 mb-0 ">GSR Markets</p>
                                 </div>
                             </div>
                         </a>
@@ -356,6 +360,7 @@
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/bitrue-light.svg" class="center logoFs img-fluid iconL" alt="bitrue.com" />
                                     <img src="assets/images/inside-page/masternode/bitrue.svg" class="center logoFs img-fluid iconD" alt="bitrue.com" />
+                                    <p class="card-info-desc br-20 mb-0 ">Bitrue</p>
                                 </div>
                             </div>
                         </a>

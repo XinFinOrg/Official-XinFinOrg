@@ -1147,7 +1147,18 @@ a .card-infoHead {
 .darkTheme .dark-curved::after {
     background: url(../images/bg-curved-dark.png) no-repeat bottom;
 }
-.card-info {} 
+.card-info {
+
+}
+.card-info-desc {
+    background: #ffffff;
+    margin-top: 25px;
+    padding: 5px;
+    border-radius: 6px;
+}
+.darkTheme .card-info-desc {
+    background: #141c29;
+}
 .card-info p.text-muted {
     color: #a8a8a8!important;
 }
