@@ -2958,3 +2958,15 @@ table th {
     }
   }
 }
+
+.darkTheme table tr {
+    background-color: rgba(242,247,251,0.04);
+}
+.darkTheme table td {
+    color: var(--bs-white);
+    border-color: #415367;
+}
+.darkTheme table thead th {
+    background-color: #415367;
+    border-color: #242e39;
+}
