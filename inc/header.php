@@ -715,6 +715,11 @@
                 <div class="row">
                     <div class="mobile-nav-wrap">
                         <div class="mobile-nav">
+                            <div class="logo-wrapper">
+                                <a class="navbar-brand" href="https://xinfin.org/">
+                                    <img src="<?php echo base_url() ; ?>/assets/images/xdc-network-logo-white.svg" class="logo-dark img-responsive" width="150">                                    
+                                </a>
+                            </div>
                             <button type="button" class="close-nav">
                                 <i class="far fa-times-circle"></i>
                             </button>
