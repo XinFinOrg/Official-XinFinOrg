@@ -251,22 +251,6 @@
             </div>
         </div>
         <div class="row justify-content-center">
-            <!--<div class="col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
-                <div class="h-100 card p-4 bg-lightgray br-20 border-0">
-                    <div class="card-info text-center">
-                        <img src="assets/images/inside-page/exchange-listing/xdcpay-light.svg" class="center img-fluid iconL" />
-                        <img src="assets/images/inside-page/exchange-listing/xdcpay.svg" class="center img-fluid iconD" />
-                        <div class="card-infoHead mt-3 mb-3">XDCPay2.0</div>
-                        <p class="fs-6 mb-0">XDCPay 2.0 Browser Extension</p>
-                        <a href="https://chrome.google.com/webstore/detail/xdcpay-20/iidmfamdbddcbjmemafekkohbnfiblhp" target="_blank" class="btn socialHead-button mt-auto">
-                            Add Now
-                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                            </svg>
-                        </a>
-                    </div>
-                </div>
-            </div>-->
             <div class="col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                     <div class="card-info text-center">
@@ -296,12 +280,6 @@
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                             </svg>
                         </a>
-                        <!--<a href="https://betawallet.xinfin.network" target="_blank" class="btn socialHead-button mt-auto px-3">
-                            Web Wallet - Beta
-                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                            </svg>
-                        </a>-->
                     </div>
                 </div>
             </div>
@@ -419,12 +397,6 @@
                         <img src="assets/images/inside-page/exchange-listing/big.svg" class="center logoFs img-fluid iconD" />
                         <div class="card-infoHead mt-5 mb-1">XDC Network Chain Analysis</div>
                         <p class="fs-7 mb-0">By Blockchain Intelligence Group</p>
-                        <!--<a href="https://blockchaingroup.io/defi-enabled-enterprise-grade-hybrid-blockchain-xdc-network-gains-compliance-edge/" target="_blank" class="btn socialHead-button mt-auto">
-                            View Now
-                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                            </svg>
-                        </a>-->
                         <a href="https://blockchaingroup.io/announcements/blockchain-intelligence-group-to-support-xinfin-xdc-on-its-crypto-investigation-platform/" target="_blank" class="btn socialHead-button mt-auto">
                             View Now
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">

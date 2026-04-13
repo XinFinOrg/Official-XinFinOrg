@@ -65,26 +65,6 @@
                     </div>
                 </a>
             </div>
-            <!--<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
-                <a href="https://play.google.com/store/apps/details?id=com.xdcwallet&pli=1" target="_blank" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
-                    <div class="card-info">
-                        <div class="exchangeCard-header align-items-center">
-                            <div class="icon">
-                                <div class=""><img src="assets/images/inside-page/masternode/mobile-wallet.svg" alt="Mobile Wallet" /></div>
-                            </div>
-                            <div class="desc">
-                                <div class="card-infoHead">Mobile Wallet</div>
-                                <p class="exchangeCard-type fs-6 lh-base mb-0">Access your XDC anytime, anywhere, right from your mobile device.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="hero-ftr-arrow">
-                        <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                        </svg>
-                    </div>
-                </a>
-            </div>-->
             <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
                 <a href="https://xdcscan.io/" target="_blank" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
@@ -105,26 +85,6 @@
                     </div>
                 </a>
             </div>
-            <!--<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
-                <a href="oneclick-installer" class="hero-ftr-card tools-guide-block internalLink align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
-                    <div class="card-info">
-                        <div class="exchangeCard-header align-items-center">
-                            <div class="icon">
-                                <div class=""><img src="assets/images/inside-page/masternode/oneclick-installer.svg" alt="Web Wallet" /></div>
-                            </div>
-                            <div class="desc">
-                                <div class="card-infoHead">One-click Node Installer</div>
-                                <p class="exchangeCard-type fs-6 fw-400 lh-base mb-0">Simplify node deployment for seamless participation.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="hero-ftr-arrow">
-                        <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                        </svg>
-                    </div>
-                </a>
-            </div>-->
             <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
                 <a href="https://master.xinfin.network/" target="_blank" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
@@ -193,26 +153,6 @@
                     </div>
                 </a>
             </div>
-            <!--<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
-                <a href="https://play.google.com/store/apps/details?id=com.xdcwallet&pli=1" target="_blank" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
-                    <div class="card-info">
-                        <div class="exchangeCard-header align-items-center">
-                            <div class="icon">
-                                <div class=""><img src="assets/images/inside-page/masternode/mobile-wallet.svg" alt="Mobile Wallet" /></div>
-                            </div>
-                            <div class="desc">
-                                <div class="card-infoHead">Mobile Wallet</div>
-                                <p class="exchangeCard-type fs-6 lh-base mb-0">Access your XDC anytime, anywhere, right from your mobile device.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="hero-ftr-arrow">
-                        <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                        </svg>
-                    </div>
-                </a>
-            </div>-->
             <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
                 <a href="https://apothem.xdcscan.io/" target="_blank" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
@@ -233,26 +173,6 @@
                     </div>
                 </a>
             </div>
-            <!--<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
-                <a href="oneclick-installer" class="hero-ftr-card tools-guide-block internalLink align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
-                    <div class="card-info">
-                        <div class="exchangeCard-header align-items-center">
-                            <div class="icon">
-                                <div class=""><img src="assets/images/inside-page/masternode/oneclick-installer.svg" alt="Web Wallet" /></div>
-                            </div>
-                            <div class="desc">
-                                <div class="card-infoHead">One-click Node Installer</div>
-                                <p class="exchangeCard-type fs-6 fw-400 lh-base mb-0">Simplify node deployment for seamless participation.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="hero-ftr-arrow">
-                        <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                        </svg>
-                    </div>
-                </a>
-            </div>-->
             <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
                 <a href="https://master.xinfin.network/" target="_blank" class="hero-ftr-card tools-guide-block align-items-center h-100 card p-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
@@ -588,12 +508,6 @@
                         <img src="assets/images/inside-page/exchange-listing/big.svg" class="center logoFs img-fluid iconD" />
                         <div class="card-infoHead mt-5 mb-1">XDC Network Chain Analysis</div>
                         <p class="fs-7 mb-0">By Blockchain Intelligence Group</p>
-                        <!--<a href="https://blockchaingroup.io/defi-enabled-enterprise-grade-hybrid-blockchain-xdc-network-gains-compliance-edge/" target="_blank" class="btn socialHead-button mt-auto">
-                            View Now
-                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                            </svg>
-                        </a>-->
                         <a href="https://blockchaingroup.io/announcements/blockchain-intelligence-group-to-support-xinfin-xdc-on-its-crypto-investigation-platform/" target="_blank" class="btn socialHead-button mt-auto">
                             View Now
                             <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">

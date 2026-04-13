@@ -368,35 +368,6 @@
 </section>
 <!-- Need More Help Ends -->
 
-<!-- Modal -->
-<div class="modal fade" id="sydney-ifergan" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
-            </div>
-            <div class="modal-body">
-                <div class="team-details-flex-row">
-                    <div class="team__img">
-                        <img src="assets/images/team/advisors/sydney-ifergan.jpg" class="img-fluid br-15" />
-                    </div>
-                    <div class="team__content">
-                        <div class="short-desc">
-                            <h2 class="fw-6">Sydney Ifergan</h2>
-                            <p class="designation fs-6">CMO, Crypto & ICO Expert</p>
-                        </div>
-                        <div class="long-desc">
-                            <div class="mt-0 my-4">
-                                <p class="fs-6">Sydney holds a degree in computer science and has 20+ years commercial experience. He has spent the last 10 years working in the online marketing arena and was the CMO for a large FX brokerage.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
 <div class="modal fade" id="tadashi-yoshida" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -435,44 +406,6 @@
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="modal fade" id="chihiro-kato" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
-            </div>
-            <div class="modal-body">
-                <div class="team-details-flex-row">
-                    <div class="team__img">
-                        <img src="assets/images/team/advisors/chihiro-kato.jpg" class="img-fluid br-15" />
-                    </div>
-                    <div class="team__content">
-                        <div class="short-desc">
-                            <h2 class="fw-6">Chihiro Kato</h2>
-                            <p class="designation fs-6">Chief Strategy Officer, SBI XDC Network APAC Co. Ltd. Head of APAC, XDC Network</p>
-                        </div>
-                        <div class="long-desc">
-                            <div class="mt-0 my-4">
-                                <p class="fs-6"></p>
-                            </div>
-                        </div>
-                        <div class="team__footer">
-                            <div class="social-media border-top mt-4">
-                                <div class="cat-head mb-2">Connect on Social Media</div>
-                                <div>
-                                    <a href="https://jp.linkedin.com/in/chihiro-kato-890b93102" target="_blank">
-                                        <button class="btn btn-hover btn-linkedin"><i class="fa fa-paper-plane"></i> LinkedIn</button>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>                    
                 </div>
             </div>
         </div>
@@ -832,50 +765,6 @@
     </div>
 </div>
 
-<div class="modal fade" id="chen-shanlong" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-lg">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
-            </div>
-            <div class="modal-body">
-                <div class="team-details-flex-row">
-                    <div class="team__img">
-                        <picture>
-                            <source srcset="assets/images/team/core-team/chen-shanlong.avif" type="image/avif" class="img-fluid team-img br-15" alt="Chen Shanlong">
-                            <source srcset="assets/images/team/core-team/chen-shanlong.webp" type="image/webp" class="img-fluid team-img br-15" alt="Chen Shanlong">
-                            <source srcset="assets/images/team/core-team/chen-shanlong.jpg" type="image/jpg" class="img-fluid team-img br-15" alt="Chen Shanlong">
-                            <!-- D: Fallback -->
-                            <img src="assets/images/team/core-team/chen-shanlong.jpg" class="img-fluid team-img br-15" alt="Chen Shanlong">
-                        </picture>
-                    </div>
-                    <div class="team__content">
-                        <div class="short-desc">
-                            <h2 class="fw-6">Chen Shanlong</h2>
-                            <p class="designation fs-6">Head of Asia Ex-Japan</p>
-                        </div>
-                        <div class="long-desc">
-                            <div class="mt-0 my-4">
-                                <p class="fs-6">Formerly in TradFi (ex-Citi), Shanlong brings close to 10 years of Marketing experience in both Web2 & Web3.</p>
-                            </div>
-                        </div>
-                        <div class="team__footer">
-                            <div class="social-media border-top mt-4">
-                                <div class="cat-head mb-2">Connect on Social Media</div>
-                                <div>
-                                    <a href="https://www.linkedin.com/in/chenshanlong/" target="_blank">
-                                        <button class="btn btn-hover btn-linkedin"><i class="fa fa-paper-plane"></i> LinkedIn</button>
-                                    </a>
-                                </div>
-                            </div>
-                    	</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
 <div class="modal fade" id="sean-white" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg">
         <div class="modal-content">
@@ -952,6 +841,50 @@
                                 <div class="cat-head mb-2">Connect on Social Media</div>
                                 <div>
                                     <a href="https://www.linkedin.com/in/caninac/" target="_blank">
+                                        <button class="btn btn-hover btn-linkedin"><i class="fa fa-paper-plane"></i> LinkedIn</button>
+                                    </a>
+                                </div>
+                            </div>
+                    	</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="chen-shanlong" tabindex="-1" aria-labelledby="basicModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="team-details-flex-row">
+                    <div class="team__img">
+                        <picture>
+                            <source srcset="assets/images/team/core-team/chen-shanlong.avif" type="image/avif" class="img-fluid team-img br-15" alt="Chen Shanlong">
+                            <source srcset="assets/images/team/core-team/chen-shanlong.webp" type="image/webp" class="img-fluid team-img br-15" alt="Chen Shanlong">
+                            <source srcset="assets/images/team/core-team/chen-shanlong.jpg" type="image/jpg" class="img-fluid team-img br-15" alt="Chen Shanlong">
+                            <!-- D: Fallback -->
+                            <img src="assets/images/team/core-team/chen-shanlong.jpg" class="img-fluid team-img br-15" alt="Chen Shanlong">
+                        </picture>
+                    </div>
+                    <div class="team__content">
+                        <div class="short-desc">
+                            <h2 class="fw-6">Chen Shanlong</h2>
+                            <p class="designation fs-6">Head of Asia Ex-Japan</p>
+                        </div>
+                        <div class="long-desc">
+                            <div class="mt-0 my-4">
+                                <p class="fs-6">Formerly in TradFi (ex-Citi), Shanlong brings close to 10 years of Marketing experience in both Web2 & Web3.</p>
+                            </div>
+                        </div>
+                        <div class="team__footer">
+                            <div class="social-media border-top mt-4">
+                                <div class="cat-head mb-2">Connect on Social Media</div>
+                                <div>
+                                    <a href="https://www.linkedin.com/in/chenshanlong/" target="_blank">
                                         <button class="btn btn-hover btn-linkedin"><i class="fa fa-paper-plane"></i> LinkedIn</button>
                                     </a>
                                 </div>

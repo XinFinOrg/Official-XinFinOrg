@@ -14,7 +14,6 @@
                 <h2 class="subtitle subtitle-m fw-500 text-center mb-0">
                     The Decentralized and Open Source Secure Smart Contract Platform, Driven by Community for Seamless Execution of Enterprise-Friendly Use Cases such as Trade Finance and Payment.
                 </h2>
-                <!--<h1 class="title-m text-center mb-0">XDC, XDC Network, XinFin, XinFin Network, ISO20022, Secure smart contract, Interoperability, Corda bridge, Hybrid Blockchain, Blockchain, Layer1 blockchain, EVM, smartcontract</h1>-->
                 <div class="btn-block mt-4">
                     <a href="setup-masternode">
                         <button class="btn-blue">Become Masternode</button>
