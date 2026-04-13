@@ -33,8 +33,7 @@
                                 <img src="assets/images/inside-page/about/global-trade.svg" class="img-fluid" alt="Empowering Global Trade" />
                                 <div class="card-infoHead mt-3 mb-3">Empowering Global Trade</div>
                                 <p class="fs-6 mb-0">
-                                    With its smart contract capabilities, the XDC Network empowers businesses and individuals to engage in secure and transparent transactions across international borders, promoting and facilitating global
-                                    trade.
+                                    With its smart contract capabilities, the XDC Network empowers businesses and individuals to engage in secure and transparent transactions across international borders, promoting and facilitating global trade.
                                 </p>
                             </div>
                         </div>
