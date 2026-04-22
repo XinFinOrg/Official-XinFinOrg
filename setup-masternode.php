@@ -355,6 +355,30 @@
                     </div>
 
                     <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                        <a href="https://www.hashkey.cloud/" target="_blank">
+                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                                <div class="card-info text-center">
+                                    <img src="assets/images/inside-page/masternode/hashkey-cloud-light.svg" class="center logoFs img-fluid iconL" alt="hashkey.cloud" />
+                                    <img src="assets/images/inside-page/masternode/hashkey-cloud.svg" class="center logoFs img-fluid iconD" alt="hashkey.cloud" />
+                                    <p class="card-info-desc br-20 mb-0 ">HashKey Cloud</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                        <a href="https://www.uobvm.com.sg/en/index.page" target="_blank">
+                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                                <div class="card-info text-center">
+                                    <img src="assets/images/inside-page/masternode/uob-venture-management-light.svg" class="center logoFs img-fluid iconL" alt="uobvm.com.sg" />
+                                    <img src="assets/images/inside-page/masternode/uob-venture-management.svg" class="center logoFs img-fluid iconD" alt="uobvm.com.sg" />
+                                    <p class="card-info-desc br-20 mb-0 ">UOB Venture Management</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
                         <a href="https://www.bitrue.com/" target="_blank">
                             <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
