@@ -367,6 +367,18 @@
                     </div>
 
                     <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                        <a href="https://republic.com/" target="_blank">
+                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                                <div class="card-info text-center">
+                                    <img src="assets/images/inside-page/masternode/republic-light.svg" class="center logoFs img-fluid iconL" alt="republic.com" />
+                                    <img src="assets/images/inside-page/masternode/republic.svg" class="center logoFs img-fluid iconD" alt="republic.com" />
+                                    <p class="card-info-desc br-20 mb-0 ">Republic</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
                         <a href="https://www.uobvm.com.sg/en/index.page" target="_blank">
                             <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
