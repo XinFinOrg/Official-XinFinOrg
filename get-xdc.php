@@ -190,7 +190,7 @@
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
                                             <div class="icon">
-                                                <div class=""><img src="assets/images/exchanges/virgocs.svg" alt="VirgoCX" /></div>
+                                                <div class=""><img src="assets/images/exchanges/virgocx.svg" alt="VirgoCX" /></div>
                                             </div>
                                             <div class="desc">
                                                 <div class="card-infoHead">VirgoCX</div>
