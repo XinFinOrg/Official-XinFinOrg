@@ -43,7 +43,7 @@
         <div class="row">
             <nav>
                 <div class="nav nav-pills justify-content-center mb-3" id="nav-pills" role="tablist">
-                    <button class="nav-link active" id="nav-exchanges-tab" data-bs-toggle="tab" data-bs-target="#nav-exchanges" type="button" role="tab" aria-controls="nav-exchanges" aria-selected="true">Exchanges <sup>(60)</sup></button>
+                    <button class="nav-link active" id="nav-exchanges-tab" data-bs-toggle="tab" data-bs-target="#nav-exchanges" type="button" role="tab" aria-controls="nav-exchanges" aria-selected="true">Exchanges <sup>(61)</sup></button>
                     <button class="nav-link" id="nav-swap-tab" data-bs-toggle="tab" data-bs-target="#nav-swap" type="button" role="tab" aria-controls="nav-swap" aria-selected="false">Crosschain Swap <sup>(14)</sup></button>
                     <button class="nav-link" id="nav-dex-tab" data-bs-toggle="tab" data-bs-target="#nav-dex" type="button" role="tab" aria-controls="nav-dex" aria-selected="false">DEX <sup>(6)</sup></button>
                 </div>
