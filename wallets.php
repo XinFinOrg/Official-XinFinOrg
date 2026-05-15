@@ -233,7 +233,7 @@
                               <a href="https://guarda.co/app/" target="_blank" title="Web Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/web.svg"></a>
                               <a href="https://play.google.com/store/apps/details?id=com.crypto.multiwallet" target="_blank" title="Android Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/android.svg"></a>
                               <a href="https://apps.apple.com/app/guarda-wallet/id1442083982" target="_blank" title="iOS Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/ios.svg"></a>
-                              <a href="https://guarda.com/desktop/" target="_blank" title="MacOS" class="WalletPlatform__link"><img src="assets/images/wallets/macos.svg"></a>
+                              <!--<a href="https://guarda.com/desktop/" target="_blank" title="MacOS" class="WalletPlatform__link"><img src="assets/images/wallets/macos.svg"></a>-->
                               <a href="https://guarda.com/desktop/" target="_blank" title="Desktop Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/windows.svg"></a>
                               <a href="https://guarda.com/chrome-extension/" target="_blank" title="Chrome Extension" class="WalletPlatform__link"><img src="assets/images/wallets/chrome.svg"></a>
                            </div>
@@ -241,6 +241,60 @@
                      </div>
                   </div>
                </div>
+
+
+
+
+               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                        <div class="exchangeCard-header">
+                           <div class="icon">
+                              <div class=""><img src="assets/images/wallets/rabby.svg" alt="Rabby Wallet" /></div>
+                           </div>
+                           <div class="desc">
+                              <div class="card-infoHead">Rabby Wallet</div>
+                              <p class="exchangeCard-type text-muted mb-0">Rabby Wallet is a self-custodial crypto wallet for Ethereum and EVM-compatible chains.</p>
+                           </div>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                           <div class="pairs fw-500 ml-6">
+                              <a href="https://play.google.com/store/apps/details?id=com.debank.rabbymobile" target="_blank" title="Android Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/android.svg"></a>
+                              <a href="https://apps.apple.com/us/app/rabby-wallet-crypto-evm/id6474381673" target="_blank" title="iOS Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/ios.svg"></a>
+                              <a href="https://chromewebstore.google.com/detail/rabby-wallet/acmacodkjbdgmoleebolmdjonilkdbch" target="_blank" title="Chrome Extension" class="WalletPlatform__link"><img src="assets/images/wallets/chrome.svg"></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
+                  <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                        <div class="exchangeCard-header">
+                           <div class="icon">
+                              <div class=""><img src="assets/images/wallets/imtoken.svg" alt="imToken Wallet" /></div>
+                           </div>
+                           <div class="desc">
+                              <div class="card-infoHead">imToken Wallet</div>
+                              <p class="exchangeCard-type text-muted mb-0">imToken is a reliable and intuitive digital wallet trusted by millions.</p>
+                           </div>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                           <div class="pairs fw-500 ml-6">
+                              <a href="https://play.google.com/store/apps/details?id=im.token.app" target="_blank" title="Android Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/android.svg"></a>
+                              <a href="https://apps.apple.com/us/app/imtoken-btc-eth-wallet/id1384798940" target="_blank" title="iOS Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/ios.svg"></a>
+                              <a href="https://imkey.im/products/imkey-pro-crypto-hardware-wallet" target="_blank" title="Hardware Wallet" class="WalletPlatform__link"><img src="assets/images/wallets/hardware.svg"></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+
+
+
+
+
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mt-2 mb-2">
                   <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                      <div class="exchangeCard-block card-info d-flex flex-column gap-4">
