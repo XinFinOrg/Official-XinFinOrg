@@ -391,6 +391,18 @@
                     </div>
 
                     <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                        <a href="https://www.animocabrands.com/" target="_blank">
+                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                                <div class="card-info text-center">
+                                    <img src="assets/images/inside-page/masternode/animocabrands-light.svg" class="center logoFs img-fluid iconL" alt="animocabrands.com" />
+                                    <img src="assets/images/inside-page/masternode/animocabrands.svg" class="center logoFs img-fluid iconD" alt="animocabrands.com" />
+                                    <p class="card-info-desc br-20 mb-0 ">Animoca Brands</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
                         <a href="https://www.bitrue.com/" target="_blank">
                             <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
