@@ -23,10 +23,10 @@
         <div class="row">
             <nav>
                 <div class="nav nav-pills justify-content-center mb-4" id="nav-pills" role="tablist">
-                    <button class="nav-link active" id="nav-all-tab" data-bs-toggle="tab" data-bs-target="#nav-all" type="button" role="tab" aria-controls="nav-all" aria-selected="false">All dApps <sup>(88)</sup></button>
+                    <button class="nav-link active" id="nav-all-tab" data-bs-toggle="tab" data-bs-target="#nav-all" type="button" role="tab" aria-controls="nav-all" aria-selected="false">All dApps <sup>(86)</sup></button>
                     <button class="nav-link" id="nav-ai-tab" data-bs-toggle="tab" data-bs-target="#nav-ai" type="button" role="tab" aria-controls="nav-ai" aria-selected="true">AI <sup>(2)</sup></button>
                     <button class="nav-link" id="nav-alliances-tab" data-bs-toggle="tab" data-bs-target="#nav-alliances" type="button" role="tab" aria-controls="nav-alliances" aria-selected="true">Alliances <sup>(2)</sup></button>
-                    <button class="nav-link" id="nav-defi-tab" data-bs-toggle="tab" data-bs-target="#nav-defi" type="button" role="tab" aria-controls="nav-defi" aria-selected="true">DeFi <sup>(19)</sup></button>
+                    <button class="nav-link" id="nav-defi-tab" data-bs-toggle="tab" data-bs-target="#nav-defi" type="button" role="tab" aria-controls="nav-defi" aria-selected="true">DeFi <sup>(18)</sup></button>
                     <button class="nav-link" id="nav-gaming-tab" data-bs-toggle="tab" data-bs-target="#nav-gaming" type="button" role="tab" aria-controls="nav-gaming" aria-selected="false">Gaming <sup>(11)</sup></button>
                     <button class="nav-link" id="nav-infrastructure-tab" data-bs-toggle="tab" data-bs-target="#nav-infrastructure" type="button" role="tab" aria-controls="nav-infrastructure" aria-selected="false">Infrastructure <sup>(18)</sup></button>
                     <button class="nav-link" id="nav-interoperability-tab" data-bs-toggle="tab" data-bs-target="#nav-interoperability" type="button" role="tab" aria-controls="nav-interoperability" aria-selected="false">Interoperability <sup>(3)</sup></button>
@@ -3223,29 +3223,7 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
-                                <a href="#" data-bs-toggle="modal" data-bs-target="#yodaplusMultisigWallet">
-                                    <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                                        <div class="exchangeCard-block card-info d-flex flex-column gap-3">
-                                            <div class="exchangeCard-header align-items-center">
-                                                <div class="icon">
-                                                    <div class=""><img src="assets/images/ecosystem-dapps/yodaplus-icon.svg" alt="Yodaplus Multisig Wallet"></div>
-                                                </div>
-                                                <div class="desc">
-                                                    <div class="card-infoHead mb-1">Yodaplus Multisig Wallet</div>
-                                                    <div class="desc label">
-                                                        <div class="exchangeCard-type text-muted mt-0 mb-0">DeFi</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="">
-                                                <p class="lh-base mb-0">Yplusvault is one of the most secure wallets that can be trusted for all the new-age digital transactions.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
+                            </div>                            
                         </div>
                     </div>
                 </div>
