@@ -403,6 +403,18 @@
                     </div>
 
                     <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                        <a href="https://clearpool.finance/" target="_blank">
+                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                                <div class="card-info text-center">
+                                    <img src="assets/images/inside-page/masternode/clearpool-light.svg" class="center logoFs img-fluid iconL" alt="clearpool.finance" />
+                                    <img src="assets/images/inside-page/masternode/clearpool.svg" class="center logoFs img-fluid iconD" alt="clearpool.finance" />
+                                    <p class="card-info-desc br-20 mb-0 ">Clearpool</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
                         <a href="https://www.bitrue.com/" target="_blank">
                             <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
