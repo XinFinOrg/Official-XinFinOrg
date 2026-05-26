@@ -274,7 +274,7 @@
                                     <img src="assets/images/team/core-team/chen-shanlong.jpg" class="img-fluid team-img br-15" alt="Chen Shanlong">
                                 </picture>
                                 <h3 class="team-infoHead mt-3 mb-2">Chen Shanlong</h3>
-                                <p class="text-muted lh-sm mb-0">Head of Asia Ex-Japan</p>
+                                <p class="text-muted lh-sm mb-0">Chief Partnerships Officer</p>
                             </div>
                         </a>
                     </div>
@@ -519,7 +519,7 @@
                     <div class="team__content">
                         <div class="short-desc">
                             <h2 class="fw-6">Sunil Senapati</h2>
-                            <p class="designation fs-6">Chief Operating Officer – Trade & Payments</p>
+                            <p class="designation fs-6">Chief Executive Officer - XDC Trade Network</p>
                         </div>
                         <div class="long-desc">
                             <div class="mt-0 my-4">
@@ -872,7 +872,7 @@
                     <div class="team__content">
                         <div class="short-desc">
                             <h2 class="fw-6">Chen Shanlong</h2>
-                            <p class="designation fs-6">Head of Asia Ex-Japan</p>
+                            <p class="designation fs-6">Chief Partnerships Officer</p>
                         </div>
                         <div class="long-desc">
                             <div class="mt-0 my-4">
