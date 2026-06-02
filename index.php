@@ -300,8 +300,8 @@
                                     </div>
                                     <div class="spacer-30 _15-xsvp"></div>
                                     <div class="icon-container-alt partners-item">
-                                        <img src="assets/images/partnerships/adgm-logoL.png" class="logoL icon" />
-                                        <img src="assets/images/partnerships/adgm-logoD.png" class="logoD icon" />
+                                        <img src="assets/images/partnerships/sbivctrade-logoL.png" class="logoL icon" />
+                                        <img src="assets/images/partnerships/sbivctrade-logoD.png" class="logoD icon" />
                                     </div>
                                     <div class="spacer-30 _15-xsvp"></div>
                                     <div class="icon-container-alt partners-item">
@@ -330,8 +330,8 @@
                                     </div>
                                     <div class="spacer-30 _15-xsvp"></div>
                                     <div class="icon-container-alt partners-item">
-                                        <img src="assets/images/partnerships/adgm-logoL.png" class="logoL icon" />
-                                        <img src="assets/images/partnerships/adgm-logoD.png" class="logoD icon" />
+                                        <img src="assets/images/partnerships/sbivctrade-logoL.png" class="logoL icon" />
+                                        <img src="assets/images/partnerships/sbivctrade-logoD.png" class="logoD icon" />
                                     </div>
                                     <div class="spacer-30 _15-xsvp"></div>
                                     <div class="icon-container-alt partners-item">
@@ -362,8 +362,8 @@
                                     </div>
                                     <div class="spacer-30 _15-xsvp"></div>
                                     <div class="icon-container-alt partners-item">
-                                        <img src="assets/images/partnerships/assocham-logoL.png" class="logoL icon" />
-                                        <img src="assets/images/partnerships/assocham-logoD.png" class="logoD icon" />
+                                        <img src="assets/images/partnerships/bitgo-logoL.png" class="logoL icon" />
+                                        <img src="assets/images/partnerships/bitgo-logoD.png" class="logoD icon" />
                                     </div>
                                     <div class="spacer-30 _15-xsvp"></div>
                                     <div class="icon-container-alt partners-item">
@@ -372,8 +372,8 @@
                                     </div>
                                     <div class="spacer-30 _15-xsvp"></div>
                                     <div class="icon-container-alt partners-item">
-                                        <img src="assets/images/partnerships/aix-logoL.png" class="logoL icon" />
-                                        <img src="assets/images/partnerships/aix-logoD.png" class="logoD icon" />
+                                        <img src="assets/images/partnerships/tradetrust-logoL.png" class="logoL icon" />
+                                        <img src="assets/images/partnerships/tradetrust-logoD.png" class="logoD icon" />
                                     </div>
                                     <div class="spacer-30 _15-xsvp"></div>
                                     <div class="icon-container-alt partners-item">
@@ -387,8 +387,8 @@
                                     </div>
                                     <div class="spacer-30 _15-xsvp"></div>
                                     <div class="icon-container-alt partners-item">
-                                        <img src="assets/images/partnerships/assocham-logoL.png" class="logoL icon" />
-                                        <img src="assets/images/partnerships/assocham-logoD.png" class="logoD icon" />
+                                        <img src="assets/images/partnerships/fireblocks-logoL.png" class="logoL icon" />
+                                        <img src="assets/images/partnerships/fireblocks-logoD.png" class="logoD icon" />
                                     </div>
                                     <div class="spacer-30 _15-xsvp"></div>
                                     <div class="icon-container-alt partners-item">
@@ -397,8 +397,8 @@
                                     </div>
                                     <div class="spacer-30 _15-xsvp"></div>
                                     <div class="icon-container-alt partners-item">
-                                        <img src="assets/images/partnerships/aix-logoL.png" class="logoL icon" />
-                                        <img src="assets/images/partnerships/aix-logoD.png" class="logoD icon" />
+                                        <img src="assets/images/partnerships/anchoragedigital-logoL.png" class="logoL icon" />
+                                        <img src="assets/images/partnerships/anchoragedigital-logoD.png" class="logoD icon" />
                                     </div>
                                     <div class="spacer-30 _15-xsvp"></div>
                                 </div>

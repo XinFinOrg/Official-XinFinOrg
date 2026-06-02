@@ -427,6 +427,30 @@
                     </div>
 
                     <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                        <a href="https://stakefi.network/" target="_blank">
+                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                                <div class="card-info text-center">
+                                    <img src="assets/images/inside-page/masternode/stakefi-light.svg" class="center logoFs img-fluid iconL" alt="stakefi.network" />
+                                    <img src="assets/images/inside-page/masternode/stakefi.svg" class="center logoFs img-fluid iconD" alt="stakefi.network" />
+                                    <p class="card-info-desc br-20 mb-0 ">stakeFi</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                        <a href="https://www.bcw.group/" target="_blank">
+                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                                <div class="card-info text-center">
+                                    <img src="assets/images/inside-page/masternode/bcw-light.svg" class="center logoFs img-fluid iconL" alt="bcw.group" />
+                                    <img src="assets/images/inside-page/masternode/bcw.svg" class="center logoFs img-fluid iconD" alt="bcw.group" />
+                                    <p class="card-info-desc br-20 mb-0 ">BCW Group</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
                         <a href="https://www.bitrue.com/" target="_blank">
                             <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
