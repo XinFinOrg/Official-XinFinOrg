@@ -215,7 +215,7 @@
                 <div class="card h-100 overflow-hidden pt-4 pb-4 px-3 bg-light75 br-20 border-0">
                     <div class="card-info text-center w-100">
                         <p class="fw-500 fs-6">Total XDC Locked</p>
-                        <div class="fw-600 lh-1 fs-2 mb-3"><span class="counter-api counter" id="tvl">2620.82</span> <span id="tvltext">M</span></div>
+                        <div class="fw-600 lh-1 fs-2 mb-3"><span class="counter-api counter" id="tvl">2610.87</span> <span id="tvltext">M</span></div>
                         <p class="fw-500 fs-7 mb-0">XDC</p>
                     </div>
                 </div>
@@ -409,6 +409,18 @@
                                     <img src="assets/images/inside-page/masternode/clearpool-light.svg" class="center logoFs img-fluid iconL" alt="clearpool.finance" />
                                     <img src="assets/images/inside-page/masternode/clearpool.svg" class="center logoFs img-fluid iconD" alt="clearpool.finance" />
                                     <p class="card-info-desc br-20 mb-0 ">Clearpool</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                        <a href="https://www.redstone.finance/" target="_blank">
+                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                                <div class="card-info text-center">
+                                    <img src="assets/images/inside-page/masternode/redstone-light.svg" class="center logoFs img-fluid iconL" alt="redstone.finance" />
+                                    <img src="assets/images/inside-page/masternode/redstone.svg" class="center logoFs img-fluid iconD" alt="redstone.finance" />
+                                    <p class="card-info-desc br-20 mb-0 ">RedStone</p>
                                 </div>
                             </div>
                         </a>
