@@ -240,14 +240,14 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                    <!--<div class="col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                         <div class="h-100 card bg-transparent border-0">
                             <div class="">
                                 <picture>
                                     <source srcset="assets/images/brand-assets/booth-walldrop_1.avif" type="image/avif" class="img-fluid br-20" alt="XDC Network Booth Walldrop">
                                     <source srcset="assets/images/brand-assets/booth-walldrop_1.webp" type="image/webp" class="img-fluid br-20" alt="XDC Network Booth Walldrop">
                                     <source srcset="assets/images/brand-assets/booth-walldrop_1.jpg" type="image/jpg" class="img-fluid br-20" alt="XDC Network Booth Walldrop">
-                                    <!-- D: Fallback -->
+                                    <!-- D: Fallback 
                                     <img src="assets/images/brand-assets/booth-walldrop_1.jpg" class="img-fluid br-20" alt="XDC Network Booth Walldrop">
                                 </picture>
                             </div>
@@ -263,7 +263,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div>-->
 
                     <div class="col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                         <div class="h-100 card bg-transparent border-0">
@@ -280,7 +280,7 @@
                                 <div class="events-card_content">
                                     <h4 class="card-infoHead">Booth Walldrop - Additional Data</h4>
                                     <div class="events-card_details-wrapper card-info">
-                                        <p class="fs-6 mb-0">This is the main XDC Network Booth Walldrop with Ecosystem, Fintech, and Accelerator program.</p>
+                                        <p class="fs-6 mb-0">This is the main XDC Network Booth Walldrop with Ecosystem, Enterprise, and XDC Payments.</p>
                                     </div>
                                     <ul class="listStyle">
                                         <li><span class="fw-600">File Formats:</span> .ai Editable file</li>
