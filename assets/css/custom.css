@@ -2943,7 +2943,14 @@ td {
 
 .logo_items img{
   width: 200px;
-  padding: 0px 15px;
+  padding: 20px 15px;
+  border: 1px solid #cfd8dd;
+  margin: 0px 15px;
+  border-radius: 10px;
+}
+
+.darkTheme .logo_items img {
+  border-color: #2e3d4e;
 }
 
 
