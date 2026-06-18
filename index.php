@@ -35,7 +35,7 @@
 <!-- Hero Cards Starts -->
 <section class="px-80 pt-0 hero-ftr">
 
-    <div class="container-fluid mb-5">
+    <div class="container mb-5">
         <div class="row mt-5">
             <div class="logos iconL">
                 <div class="logo_items">
