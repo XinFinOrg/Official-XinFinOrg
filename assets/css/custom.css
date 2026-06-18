@@ -2907,7 +2907,7 @@ td {
   position: absolute;
   top: 0;
   content: '';
-  width: 250px;
+  width: 75px;
   height: 100%;
   z-index: 2;
 }
@@ -2943,7 +2943,7 @@ td {
 
 .logo_items img{
   width: 200px;
-  padding: 0px 25px;
+  padding: 0px 15px;
 }
 
 
