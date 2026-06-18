@@ -34,6 +34,82 @@
 
 <!-- Hero Cards Starts -->
 <section class="px-80 pt-0 hero-ftr">
+
+    <div class="container-fluid mb-5">
+        <div class="row mt-5">
+            <div class="logos iconL">
+                <div class="logo_items">
+                    <img src="assets/images/inside-page/masternode/sbivcjapan-light.svg" />
+                    <img src="assets/images/inside-page/masternode/cumberland-light.svg" />
+                    <img src="assets/images/inside-page/masternode/deutsche-telekom.svg" />
+                    <img src="assets/images/inside-page/masternode/gsr-markets-light.svg" />
+                    <img src="assets/images/inside-page/masternode/hashkey-cloud-light.svg" />
+                    <img src="assets/images/inside-page/masternode/republic-light.svg" />
+                    <img src="assets/images/inside-page/masternode/uob-venture-management-light.svg" />
+                    <img src="assets/images/inside-page/masternode/animocabrands-light.svg" />
+                    <img src="assets/images/inside-page/masternode/clearpool-light.svg" />
+                    <img src="assets/images/inside-page/masternode/redstone-light.svg" />
+                    <img src="assets/images/inside-page/masternode/stakefi-light.svg" />
+                    <img src="assets/images/inside-page/masternode/bcw-light.svg" />
+                    <img src="assets/images/inside-page/masternode/settlemint-light.svg" />
+                    <img src="assets/images/inside-page/masternode/bitrue-light.svg" />
+                </div>
+                <div class="logo_items">
+                    <img src="assets/images/inside-page/masternode/sbivcjapan-light.svg" />
+                    <img src="assets/images/inside-page/masternode/cumberland-light.svg" />
+                    <img src="assets/images/inside-page/masternode/deutsche-telekom.svg" />
+                    <img src="assets/images/inside-page/masternode/gsr-markets-light.svg" />
+                    <img src="assets/images/inside-page/masternode/hashkey-cloud-light.svg" />
+                    <img src="assets/images/inside-page/masternode/republic-light.svg" />
+                    <img src="assets/images/inside-page/masternode/uob-venture-management-light.svg" />
+                    <img src="assets/images/inside-page/masternode/animocabrands-light.svg" />
+                    <img src="assets/images/inside-page/masternode/clearpool-light.svg" />
+                    <img src="assets/images/inside-page/masternode/redstone-light.svg" />
+                    <img src="assets/images/inside-page/masternode/stakefi-light.svg" />
+                    <img src="assets/images/inside-page/masternode/bcw-light.svg" />
+                    <img src="assets/images/inside-page/masternode/settlemint-light.svg" />
+                    <img src="assets/images/inside-page/masternode/bitrue-light.svg" />
+                </div>
+            </div>
+
+            <div class="logos iconD">
+                <div class="logo_items">
+                    <img src="assets/images/inside-page/masternode/sbivcjapan.svg" />
+                    <img src="assets/images/inside-page/masternode/cumberland.svg" />
+                    <img src="assets/images/inside-page/masternode/deutsche-telekom.svg" />
+                    <img src="assets/images/inside-page/masternode/gsr-markets.svg" />
+                    <img src="assets/images/inside-page/masternode/hashkey-cloud.svg" />
+                    <img src="assets/images/inside-page/masternode/republic.svg" />
+                    <img src="assets/images/inside-page/masternode/uob-venture-management.svg" />
+                    <img src="assets/images/inside-page/masternode/animocabrands.svg" />
+                    <img src="assets/images/inside-page/masternode/clearpool.svg" />
+                    <img src="assets/images/inside-page/masternode/redstone.svg" />
+                    <img src="assets/images/inside-page/masternode/stakefi.svg" />
+                    <img src="assets/images/inside-page/masternode/bcw.svg" />
+                    <img src="assets/images/inside-page/masternode/settlemint.svg" />
+                    <img src="assets/images/inside-page/masternode/bitrue.svg" />
+                </div>
+                <div class="logo_items">
+                    <img src="assets/images/inside-page/masternode/sbivcjapan.svg" />
+                    <img src="assets/images/inside-page/masternode/cumberland.svg" />
+                    <img src="assets/images/inside-page/masternode/deutsche-telekom.svg" />
+                    <img src="assets/images/inside-page/masternode/gsr-markets.svg" />
+                    <img src="assets/images/inside-page/masternode/hashkey-cloud.svg" />
+                    <img src="assets/images/inside-page/masternode/republic.svg" />
+                    <img src="assets/images/inside-page/masternode/uob-venture-management.svg" />
+                    <img src="assets/images/inside-page/masternode/animocabrands.svg" />
+                    <img src="assets/images/inside-page/masternode/clearpool.svg" />
+                    <img src="assets/images/inside-page/masternode/redstone.svg" />
+                    <img src="assets/images/inside-page/masternode/stakefi.svg" />
+                    <img src="assets/images/inside-page/masternode/bcw.svg" />
+                    <img src="assets/images/inside-page/masternode/settlemint.svg" />
+                    <img src="assets/images/inside-page/masternode/bitrue.svg" />
+                </div>
+            </div>
+        </div>
+    </div>   
+
+
     <div class="container">
         <div class="row row-flex">
             <div class="col-lg-12">
