@@ -75,7 +75,7 @@
       </div>
       <div class="spec-card">
         <span class="spec-label">Project website</span>
-        <a class="spec-value spec-link" href="https://xinfin.org">xinfin.org ↗</a>
+        <a class="spec-value spec-link" href="https://xinfin.org">xinfin.org <svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></a>
       </div>
       <div class="spec-card">
         <span class="spec-label">Token name</span>
@@ -107,7 +107,7 @@
         <div class="logo-swatches">
           <span class="swatch swatch--dark"><img src="assets/images/xdc-inverted-primary-icon.png" style="width: 25px !important;" class="iconL m-auto"></span>
           <span class="swatch swatch--light"><img src="assets/images/xdc-primary-icon.png" style="width: 25px !important;" class="iconL m-auto"></span>
-          <a class="text-link" href="#">Download brand assets ↗</a>
+          <a class="text-link" href="#">Download brand assets <svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></a>
         </div>
       </div>
     </div>
@@ -273,9 +273,9 @@
     </div>
 
     <div class="rpc-links">
-      <a href="https://chainlist.org/chain/50" class="text-link">Find more endpoints on Chainlist (id 50) ↗</a>
-      <a href="https://apidocs.xinfin.network" class="text-link">XDC API documentation ↗</a>
-      <a href="https://github.com/XinFinOrg/XinFin-Node" class="text-link">Full node setup instructions ↗</a>
+      <a href="https://chainlist.org/chain/50" class="text-link">Find more endpoints on Chainlist (id 50) <svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></a>
+      <a href="https://apidocs.xinfin.network" class="text-link">XDC API documentation <svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></a>
+      <a href="https://github.com/XinFinOrg/XinFin-Node" class="text-link">Full node setup instructions <svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></a>
     </div>
   </div>
 </section>
@@ -289,7 +289,7 @@
       <p>The Apothem faucet hands out test XDC on request, so your team can exercise deposits, withdrawals, and confirmation handling exactly as they'll behave on MainNet — before a single live token moves.</p>
       <div class="hero-cta-row">
         <a class="btn btn-solid" href="https://www.apothem.network/#getTestXDC">Get test XDC</a>
-        <a class="btn btn-outline" href="https://www.apothem.network/">Apothem Network ↗</a>
+        <a class="btn btn-outline" href="https://www.apothem.network/">Apothem Network <svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></a>
       </div>
     </div>
     <div class="faucet-visual" aria-hidden="true">
@@ -317,19 +317,19 @@
         <div class="wallet-icon">XP</div>
         <h3>XDCPay</h3>
         <p>Browser extension wallet for signing and submitting transactions on XDC Network.</p>
-        <a class="text-link" href="#">Add to Chrome ↗</a>
+        <a class="text-link" href="#">Add to Chrome <svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></a>
       </div>
       <div class="wallet-card">
         <div class="wallet-icon">XW</div>
         <h3>XDC Web Wallet</h3>
         <p>Open-source, browser-based wallet — no install required for quick verification work.</p>
-        <a class="text-link" href="https://wallet.xinfin.network/">Open web wallet ↗</a>
+        <a class="text-link" href="https://wallet.xinfin.network/">Open web wallet <svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></a>
       </div>
       <div class="wallet-card">
         <div class="wallet-icon">BP</div>
         <h3>BlocksPay</h3>
         <p>Multi-chain wallet extension with native XDC Network support alongside other chains.</p>
-        <a class="text-link" href="#">Add to Chrome ↗</a>
+        <a class="text-link" href="#">Add to Chrome <svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></a>
       </div>
     </div>
   </div>
@@ -346,42 +346,42 @@
       <a class="audit-card" href="#">
         <span class="audit-tag">Security Audit</span>
         <h3>SlowMist</h3>
-        <span class="text-link">View report ↗</span>
+        <span class="text-link">View report <svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></span>
       </a>
       <a class="audit-card" href="#">
         <span class="audit-tag">Security Audit</span>
         <h3>Certik</h3>
-        <span class="text-link">View report ↗</span>
+        <span class="text-link">View report <svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></span>
       </a>
       <a class="audit-card" href="#">
         <span class="audit-tag">Chain Analysis</span>
         <h3>Blockchain Intelligence Group</h3>
-        <span class="text-link">View report ↗</span>
+        <span class="text-link">View report <svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></span>
       </a>
       <a class="audit-card" href="#">
         <span class="audit-tag">Chain Analysis</span>
         <h3>Elliptic</h3>
-        <span class="text-link">Visit ↗</span>
+        <span class="text-link">Visit <svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></span>
       </a>
       <a class="audit-card" href="#">
         <span class="audit-tag">Legal Opinion · Liechtenstein</span>
         <h3>BCAS</h3>
-        <span class="text-link">View opinion ↗</span>
+        <span class="text-link">View opinion <svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></span>
       </a>
       <a class="audit-card" href="#">
         <span class="audit-tag">Legal Opinion · Canada</span>
         <h3>Miller Thomson</h3>
-        <span class="text-link">View opinion ↗</span>
+        <span class="text-link">View opinion <svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></span>
       </a>
       <a class="audit-card" href="#">
         <span class="audit-tag">Legal Opinion · USA</span>
         <h3>McDermott Will &amp; Emery</h3>
-        <span class="text-link">View memo ↗</span>
+        <span class="text-link">View memo <svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></span>
       </a>
       <a class="audit-card" href="#">
         <span class="audit-tag">Legal Opinion · Europe</span>
         <h3>Bergt &amp; Partners</h3>
-        <span class="text-link">View opinion ↗</span>
+        <span class="text-link">View opinion <svg width="16" height="16" viewBox="1 -3 17 13" fill="none" xmlns="http://www.w3.org/2000/svg" class="block text-inherit !m-0 w-full h-full"><g clip-path="url(#clip0_394_7705)"><path d="M9.2999 1.97635L14.0139 1.97635M14.0139 1.97635L14.0139 6.6904M14.0139 1.97635L8.35709 7.63321" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></g><defs><clipPath id="clip0_394_7705"><rect width="16" height="16" fill="white"></rect></clipPath></defs></svg></span>
       </a>
     </div>
   </div>

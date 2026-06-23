@@ -375,12 +375,11 @@
 .term-row:nth-child(even){ background: var(--bg); }
 .term-row:last-child{ border-bottom:none; }
 .term-key{
-  width: 100px;
+  width: 80px;
   flex-shrink:0;
   font-family: var(--font-mono);
   font-size: 14px;
   text-transform:uppercase;
-  letter-spacing:.05em;
   color: var(--text-dim);
 }
 .term-code{
