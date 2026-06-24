@@ -305,7 +305,7 @@
   </div>
 </section>
 
-<!-- ======================= WALLETS ======================= -->
+<!-- ======================= WALLETS ======================= 
 <section class="section wallets-section">
   <div class="wrap">
     <p class="section-eyebrow">Custody Interfaces</p>
@@ -333,10 +333,11 @@
       </div>
     </div>
   </div>
-</section>
+</section>-->
 
 <!-- ======================= AUDIT & LEGAL ======================= -->
-<section class="section audit-section">
+<!--<section class="section wallets-section audit-section">-->
+<section class="section wallets-section">
   <div class="wrap">
     <p class="section-eyebrow">Diligence</p>
     <h2>Network assessment &amp; chain analysis</h2>
