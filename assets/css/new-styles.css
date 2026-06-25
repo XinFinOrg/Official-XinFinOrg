@@ -69,7 +69,7 @@
   color: #fff;
   box-shadow: 0 10px 24px -10px rgba(0,136,204,0.55);
 }
-.btn-solid:hover{ box-shadow: 0 12px 28px -8px rgba(0,136,204,0.65); }
+.btn-solid:hover{ box-shadow: 0 12px 28px -8px rgba(0,136,204,0.65); color:#FFFFFF; }
 
 .btn-outline{
   background: #fff;
@@ -96,6 +96,7 @@
   font-size: 14px;
   font-weight: 600;
   color: var(--blue-deep);
+  width: fit-content;
   border-bottom: 1px solid transparent;
   transition: border-color .2s ease, color .2s ease;
 }
@@ -307,13 +308,13 @@
 .checklist{
   display:flex;
   flex-direction:column;
-  border-top: 1px solid var(--line);
+  /*border-top: 1px solid var(--line);*/
 }
 .checklist-item{
   display:flex;
   gap: 28px;
   padding: 28px 0;
-  border-bottom: 1px solid var(--line);
+  border-top: 1px solid var(--line);
 }
 .checklist-index{
   font-family: var(--font-mono);
@@ -324,7 +325,7 @@
   padding-top: 3px;
 }
 .checklist-body h3{ font-size: 19px; margin-bottom:8px; }
-.checklist-body p{ color: var(--text-muted); max-width: 64ch; }
+.checklist-body p{ color: var(--text-muted); /*max-width: 64ch;*/ margin-bottom: 0px;}
 
 /* =========================================================
    RPC TERMINAL
@@ -504,7 +505,12 @@
   letter-spacing:.04em;
   color: var(--text-dim);
 }
-.audit-card h3{ font-size: 16px; }
+.audit-card h3{ font-size: 16px; color: #2c2c2c; }
+
+.audit-card:hover .text-link {
+  color: var(--blue);
+  border-color: currentColor;
+}
 
 /* =========================================================
    HELP CTA
