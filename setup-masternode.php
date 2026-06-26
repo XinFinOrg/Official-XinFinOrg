@@ -473,6 +473,67 @@
                             </div>
                         </a>
                     </div>
+
+                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                        <a href="https://investax.io/" target="_blank">
+                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                                <div class="card-info text-center">
+                                    <img src="assets/images/inside-page/masternode/investax-light.svg" class="center logoFs img-fluid iconL" alt="investax.io" />
+                                    <img src="assets/images/inside-page/masternode/investax.svg" class="center logoFs img-fluid iconD" alt="investax.io" />
+                                    <p class="card-info-desc br-20 mb-0 ">InvestaX</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                        <a href="https://www.ixs.finance/" target="_blank">
+                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                                <div class="card-info text-center">
+                                    <img src="assets/images/inside-page/masternode/ixs-light.svg" class="center logoFs img-fluid iconL" alt="ixs.finance" />
+                                    <img src="assets/images/inside-page/masternode/ixs.svg" class="center logoFs img-fluid iconD" alt="ixs.finance" />
+                                    <p class="card-info-desc br-20 mb-0 ">IXS</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                        <a href="https://www.hivemind.capital/" target="_blank">
+                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                                <div class="card-info text-center">
+                                    <img src="assets/images/inside-page/masternode/hivemind-light.svg" class="center logoFs img-fluid iconL" alt="hivemind.capital" />
+                                    <img src="assets/images/inside-page/masternode/hivemind.svg" class="center logoFs img-fluid iconD" alt="hivemind.capital" />
+                                    <p class="card-info-desc br-20 mb-0 ">Hivemind Capital</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                        <a href="https://theblueprint.xyz/" target="_blank">
+                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                                <div class="card-info text-center">
+                                    <img src="assets/images/inside-page/masternode/blueprint-light.svg" class="center logoFs img-fluid iconL" alt="theblueprint.xyz" />
+                                    <img src="assets/images/inside-page/masternode/blueprint.svg" class="center logoFs img-fluid iconD" alt="theblueprint.xyz" />
+                                    <p class="card-info-desc br-20 mb-0 ">Blueprint</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                        <a href="https://www.certik.com/" target="_blank">
+                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                                <div class="card-info text-center">
+                                    <img src="assets/images/inside-page/masternode/certik-light.svg" class="center logoFs img-fluid iconL" alt="certik.com" />
+                                    <img src="assets/images/inside-page/masternode/certik.svg" class="center logoFs img-fluid iconD" alt="certik.com" />
+                                    <p class="card-info-desc br-20 mb-0 ">Certik</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
                 </div>
             </div>
         </div>
