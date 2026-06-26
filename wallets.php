@@ -762,6 +762,14 @@
                               </a>
                            </div>
                         </div>
+                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 col-6">
+                           <div>
+                              <a href="https://dfns.co/" target="_blank">
+                              	<img src="assets/images/wallets/custodian/dfns.svg" class="img-fluid iconD" alt="dfns.co" >
+                                 <img src="assets/images/wallets/custodian/dfns-light.svg" class="img-fluid iconL" alt="dfns.co" >
+                              </a>
+                           </div>
+                        </div>
                      </div>
                   </div>
                </div>
