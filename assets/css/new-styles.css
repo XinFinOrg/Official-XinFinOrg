@@ -149,7 +149,12 @@
   max-width: 46ch;
   margin-bottom: 32px;
 }
-.hero-cta-row{ display:flex; gap:14px; flex-wrap:wrap; margin-bottom: 40px; }
+.hero-cta-row{
+  display:flex;
+  gap:14px;
+  flex-wrap:wrap;
+  margin-bottom: 10px;
+}
 
 .hero-stats{
   display:flex;
@@ -228,7 +233,11 @@
 /* =========================================================
    SECTION SHELL
    ========================================================= */
-.section{ padding: 96px 0; border-top: 1px solid var(--line); background: var(--void); }
+.section{
+  padding: 90px 0;
+  border-top: 1px solid var(--line);
+  background: var(--void);
+}
 .section-eyebrow{
   font-family: var(--font-mono);
   font-size: 12.5px;
@@ -245,7 +254,7 @@
   font-size: 16px;
   color: var(--text-muted);
   max-width: 62ch;
-  margin-bottom: 48px;
+  margin-bottom: 35px;
 }
 
 /* =========================================================
@@ -313,7 +322,7 @@
 .checklist-item{
   display:flex;
   gap: 28px;
-  padding: 28px 0;
+  padding: 24px 0;
   border-top: 1px solid var(--line);
 }
 .checklist-index{

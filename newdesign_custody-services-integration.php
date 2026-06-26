@@ -121,7 +121,7 @@
     <h2>The integration sequence</h2>
     <p class="section-lede">Follow this order — each step depends on the one before it, from first connection to going live on MainNet.</p>
 
-    <ol class="checklist">
+    <ol class="checklist mb-0">
       <li class="checklist-item">
         <span class="checklist-index">01</span>
         <div class="checklist-body">
@@ -150,7 +150,7 @@
           <p>Pull the SlowMist and Certik audits and the jurisdictional legal opinions into your compliance file.</p>
         </div>
       </li>
-      <li class="checklist-item">
+      <li class="checklist-item pb-0">
         <span class="checklist-index">05</span>
         <div class="checklist-body">
           <h3>Switch to MainNet and list pairs</h3>
