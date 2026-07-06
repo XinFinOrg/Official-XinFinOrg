@@ -187,15 +187,18 @@
         <div class="row">
             <div class="col-lg-10 offset-lg-1 mb-2">
                 <h3 class="title-m text-center">Blockchain Data</h3>
+                <!--<div class="subtitle subtitle-s text-center">
+                    The XDC Network is a secure, scalable third-generation blockchain network with a capacity of up to 2000 transactions per second. It offers high-throughput and low-latency transactions.
+                </div>-->
                 <div class="subtitle subtitle-s text-center">
-                The XDC Network is a secure, scalable third-generation blockchain network with a capacity of up to 2000 transactions per second. It offers high-throughput and low-latency transactions.
+                    The XDC Network is a secure Layer-1 blockchain built for AI agent commerce, programmable stablecoin settlement, and real-world asset tokenization. Explore live on-chain data, network health, and ecosystem activity.
                 </div>
                 <div class="btn-block mt-4">
                     <a href="setup-masternode">
                         <button class="btn-blue">Join As Network Node</button>
                     </a>
-                    <a href="about">
-                        <button class="btn-transp-bordered">About Us</button>
+                    <a href="xdc-ai">
+                        <button class="btn-transp-bordered">XDC AI</button>
                     </a>
                 </div>
             </div>
@@ -283,18 +286,17 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="dark-merg-gradient p-4 br-20">
-                    <div class="row justify-content-center">
+                    <div class="row justify-content-center">                        
                         <div class="col-lg-4 col-md-4 mt-5 mb-2 px-3">
                             <div class="card-info h-100 d-flex flex-column">
-                                <img src="assets/images/icons/api-light.png" class="img-fluid iconL" alt="XDC API Documentation" />
-                                <img src="assets/images/icons/api.png" class="img-fluid iconD" alt="XDC API Documentation" />
-                                <div class="card-infoHead mt-3 mb-3">XDC API Documentation</div>
+                                <img src="assets/images/icons/smc-light.png" class="img-fluid iconL" alt="Secure Smart Contract" />
+                                <img src="assets/images/icons/smc.png" class="img-fluid iconD" alt="Secure Smart Contract" />
+                                <div class="card-infoHead mt-3 mb-3">Create Smart Contract</div>
                                 <p class="fs-6 mb-0 me-3">
-                                    Building Decentralized Applications with Ease. Access the XDC API documentation to unleash the power of the blockchain. Deploy smart contracts, interact with the network, and build innovative dApps using
-                                    our comprehensive tools and protocols.
+                                    Easily integrate legacy systems and blockchain platforms with XDC Network. The purpose of XDC Origin is to simplify secure smart contract deployment and enable asset tokenization without custom programming expertise.
                                 </p>
-                                <a href="https://apidocs.xinfin.network/docs/#xinfin-apis" target="_blank" class="btn socialHead-button mt-auto">
-                                    Access the APIs
+                                <a href="https://remix.xinfin.network/" target="_blank" class="btn socialHead-button mt-auto">
+                                    Deploy Smart Contract
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                     </svg>
@@ -319,14 +321,18 @@
                         </div>
                         <div class="col-lg-4 col-md-4 mt-5 mb-2 px-3">
                             <div class="card-info h-100 d-flex flex-column">
-                                <img src="assets/images/icons/smc-light.png" class="img-fluid iconL" alt="Secure Smart Contract" />
-                                <img src="assets/images/icons/smc.png" class="img-fluid iconD" alt="Secure Smart Contract" />
-                                <div class="card-infoHead mt-3 mb-3">Create Smart Contract</div>
+                                <img src="assets/images/icons/api-light.png" class="img-fluid iconL" alt="XDC API Documentation" />
+                                <img src="assets/images/icons/api.png" class="img-fluid iconD" alt="XDC API Documentation" />
+                                <div class="card-infoHead mt-3 mb-3">XDC API/SDK Documentation</div>
+                                <!--<p class="fs-6 mb-0 me-3">
+                                    Building Decentralized Applications with Ease. Access the XDC API documentation to unleash the power of the blockchain. Deploy smart contracts, interact with the network, and build innovative dApps using
+                                    our comprehensive tools and protocols.
+                                </p>-->
                                 <p class="fs-6 mb-0 me-3">
-                                    Easily integrate legacy systems and blockchain platforms with XDC Network. The purpose of XDC Origin is to simplify secure smart contract deployment and enable asset tokenization without custom programming expertise.
+                                    Build decentralized applications with ease using XDC’s API and SDK documentation. Deploy smart contracts, interact with the network, and create scalable dApps with comprehensive tools and protocols.
                                 </p>
-                                <a href="https://remix.xinfin.network/" target="_blank" class="btn socialHead-button mt-auto">
-                                    Deploy Smart Contract
+                                <a href="https://apidocs.xinfin.network/docs/#xinfin-apis" target="_blank" class="btn socialHead-button mt-auto">
+                                    Access the Documentation
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                     </svg>
