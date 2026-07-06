@@ -234,14 +234,14 @@
    SECTION SHELL
    ========================================================= */
 .section{
-  padding: 90px 0;
+  padding: 80px 0;
   border-top: 1px solid var(--line);
   background: var(--void);
 }
 .section-eyebrow{
   font-family: var(--font-mono);
   font-size: 12.5px;
-  letter-spacing:0.08em;
+  letter-spacing:0.06em;
   text-transform: uppercase;
   color: var(--blue-deep);
   margin: 0 0 12px;

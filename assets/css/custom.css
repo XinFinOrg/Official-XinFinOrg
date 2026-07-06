@@ -266,7 +266,7 @@ section {
 	padding-bottom: 100px;
 }
 .px-t250-b100 {
-	padding-top: 250px;
+	padding-top: 250px!important;
 	padding-bottom: 75px;
 }
 @media (max-width: 767px) {
@@ -522,6 +522,7 @@ section {
     color: #FFFFFF;
     background-color: #0b5ed7;
     border-color: #0b5ed7;
+    box-shadow: 0 10px 24px -8px rgba(0,136,204,.6); transform: translateY(-1px);
 }
 
 .btn-transp-bordered { 
@@ -531,7 +532,7 @@ section {
 	color: #626262;
     padding: 13px 20px;
     border-radius: 40px;
-    background: transparent;
+    background: #FFFFFF;
 	border: 2px solid #cfd8dd;
     transition: all .2s ease-in-out,background-color .2s ease-in-out,opacity .2s ease-in-out;
     cursor: pointer;
@@ -550,8 +551,9 @@ section {
 }
 .btn-transp-bordered:hover {
     color: #626262;
-    background-color: #cfd8dd;
-    border-color: #cfd8dd;
+    border-color: #0088cc;
+    transform: translateY(-1px);
+    box-shadow: 0 8px 20px -8px rgba(0, 136, 204, .5);
 }
 
 

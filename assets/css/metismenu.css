@@ -393,6 +393,10 @@ li {
   padding: 7px 14px;
 }
 
+.header-wrapper .main-menu ul > li > a .btn-blue:hover {
+  transform: none;
+}
+
 .header-wrapper .main-menu ul > li > a.cta {
   margin: 4px 0px 4px 0px;
   padding: 0px;

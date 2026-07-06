@@ -293,7 +293,7 @@
                                     Building Decentralized Applications with Ease. Access the XDC API documentation to unleash the power of the blockchain. Deploy smart contracts, interact with the network, and build innovative dApps using
                                     our comprehensive tools and protocols.
                                 </p>
-                                <a href="https://apidocs.xinfin.network/docs/#xinfin-apis" target="_blank" class="btn socialHead-button internalLink mt-auto">
+                                <a href="https://apidocs.xinfin.network/docs/#xinfin-apis" target="_blank" class="btn socialHead-button mt-auto">
                                     Access the APIs
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -305,11 +305,11 @@
                             <div class="card-info h-100 d-flex flex-column">
                                 <img src="assets/images/icons/xdcpayments-light.png" class="img-fluid iconL" alt="ISO 20022 Compliant" />
                                 <img src="assets/images/icons/xdcpayments.png" class="img-fluid iconD" alt="ISO 20022 Compliant" />
-                                <div class="card-infoHead mt-3 mb-3">XDC Payments</div>
+                                <div class="card-infoHead mt-3 mb-3">Agentic AI Payments on XDC</div>
                                 <p class="fs-6 mb-0 me-3">
-                                    XDC Payments is a next-gen blockchain-powered payment solution for fast, cost-effective cross-border transactions, institutional settlements featuring ISO 20022 compliance, on/off-ramps, secure custody, and gold tokenization.
+                                    Enable AI agents to discover APIs, make autonomous payments, and collaborate securely using x402 and USDC on the XDC Network. Build the future of machine-to-machine commerce with fast, programmable blockchain payments.
                                 </p>
-                                <a href="https://xdcforpayments.org/" target="_blank" class="btn socialHead-button internalLink mt-auto">
+                                <a href="https://xdcforpayments.org/" target="_blank" class="btn socialHead-button mt-auto">
                                     Connect Now
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -325,7 +325,7 @@
                                 <p class="fs-6 mb-0 me-3">
                                     Easily integrate legacy systems and blockchain platforms with XDC Network. The purpose of XDC Origin is to simplify secure smart contract deployment and enable asset tokenization without custom programming expertise.
                                 </p>
-                                <a href="https://remix.xinfin.network/" target="_blank" class="btn socialHead-button internalLink mt-auto">
+                                <a href="https://remix.xinfin.network/" target="_blank" class="btn socialHead-button mt-auto">
                                     Deploy Smart Contract
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -578,7 +578,7 @@
                     <div class="card-info">
                         <p class="fw-500">Transactions</p>
                         <div class="cardHead fw-600 lh-1">
-                            <span class="counter-api counter" id="transactionCount">1,080.05 </span>
+                            <span class="counter-api counter" id="transactionCount">1,103.61 </span>
                             <span id="transactionText">M</span>
                         </div>
                         <div class="statsIcon">
@@ -592,7 +592,7 @@
                     <div class="card-info">
                         <p class="fw-500">Contracts</p>
                         <div class="cardHead fw-600 lh-1">
-                            <span class="counter-api counter" id="contractNumber">742,357</span>
+                            <span class="counter-api counter" id="contractNumber">756,421</span>
                             <span id="contractNumberText"></span>
                         </div>
                         <div class="statsIcon">
@@ -605,7 +605,7 @@
                 <div class="card overflow-hidden pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <p class="fw-500">Validators/Total Nodes</p>
-                        <div class="cardHead fw-600 lh-1"><span class="counter-api counter" id="masternodes">108</span>/<span class="counter-api counter" id="totalnodes">257</span></div>
+                        <div class="cardHead fw-600 lh-1"><span class="counter-api counter" id="masternodes">108</span>/<span class="counter-api counter" id="totalnodes">265</span></div>
                         <div class="statsIcon">
                             <img src="assets/images/icons/validators-nodes.png" class="img-fluid" alt="XDC Masternodes" />
                         </div>
