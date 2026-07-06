@@ -700,70 +700,6 @@ section .eyebrow{ margin-bottom: 16px; }
 .final-cta-actions{ display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
 
 /* ==========================================================================
-   Footer — mirrors xinfin.org's dark, multi-column, real link structure
-   ========================================================================== */
-.site-footer{
-  background: var(--navy-900);
-  color: var(--text-dark-muted);
-  padding: 60px 0 30px;
-}
-.footer-tagline{
-  font-family: var(--font-display);
-  font-size: 15px;
-  color: var(--text-dark);
-  font-style: italic;
-  margin-bottom: 26px;
-}
-.footer-top{
-  display: grid;
-  grid-template-columns: 1.5fr repeat(3, 1fr);
-  gap: 30px 26px;
-  padding-bottom: 20px;
-}
-.footer-top.row-two{
-  grid-template-columns: repeat(3, 1fr);
-  padding-top: 8px;
-  padding-bottom: 40px;
-  border-bottom: 1px solid var(--border-dark);
-}
-.footer-brand .brand-lockup{ margin-bottom: 14px; }
-.footer-brand .brand-lockup img{ height: 24px; }
-.footer-brand p{ font-size: 13.7px; max-width: 280px; color: var(--text-dark-muted); margin: 0 0 6px; }
-.footer-col h4{
-  font-family: var(--font-mono);
-  font-size: 12px;
-  text-transform: uppercase;
-  letter-spacing: .05em;
-  color: var(--text-dark);
-  margin-bottom: 16px;
-  font-weight: 600;
-}
-.footer-col ul li{ margin-bottom: 10px; }
-.footer-col ul li a{ font-size: 13.7px; color: var(--text-dark-muted); transition: color .15s; }
-.footer-col ul li a:hover{ color: var(--blue-light); }
-.footer-bottom{
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  gap: 14px;
-  padding-top: 26px;
-  font-size: 13px;
-}
-.footer-bottom p{ margin: 0; max-width: 640px; }
-.footer-socials{ display: flex; gap: 12px; }
-.footer-socials a{
-  width: 32px; height: 32px;
-  border-radius: 8px;
-  border: 1px solid var(--border-dark);
-  display: grid; place-items: center;
-  color: var(--text-dark-muted);
-  transition: color .15s, border-color .15s;
-}
-.footer-socials a:hover{ color: var(--blue-light); border-color: var(--blue-light); }
-.footer-socials svg{ width: 15px; height: 15px; }
-
-/* ==========================================================================
    Scroll reveal
    ========================================================================== */
 .reveal{ opacity: 0; transform: translateY(18px); transition: opacity .6s var(--ease), transform .6s var(--ease); }
@@ -780,8 +716,6 @@ section .eyebrow{ margin-bottom: 16px; }
   .why-grid{ grid-template-columns: 1fr; }
   .built-grid{ grid-template-columns: repeat(2, 1fr); }
   .funding-grid, .integrate-grid, .audience-grid{ grid-template-columns: 1fr; }
-  .footer-top{ grid-template-columns: 1fr 1fr; }
-  .footer-top.row-two{ grid-template-columns: 1fr 1fr; }
   .step-connector{ display: none; }
 }
 
@@ -811,6 +745,4 @@ section .eyebrow{ margin-bottom: 16px; }
   .stats-grid{ grid-template-columns: 1fr 1fr; }
   .usecases-grid{ grid-template-columns: 1fr; }
   .built-grid{ grid-template-columns: 1fr; }
-  .footer-top, .footer-top.row-two{ grid-template-columns: 1fr; gap: 30px; }
-  .footer-bottom{ flex-direction: column; align-items: flex-start; }
 }
