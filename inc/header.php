@@ -647,6 +647,7 @@
                                                 <li><a href="https://remix.xinfin.network" target="_blank">XDC Network Remix</a></li>
                                                 <li><a href="quick-tools-guide">Quick Tools Guide</a></li>
                                                 <li><a href="blockchain-analytics-tools">Blockchain Analytics Tools</a></li>
+                                                <li><a href="xdc-ai">XDC AI</a></li>
                                             </ul>
                                         </li>
                                         <li>
