@@ -111,69 +111,65 @@
 
 
     <div class="container">
-        <div class="row row-flex">
-            <div class="col-lg-12">
-                <div class="row justify-content-center">
-                    <div class="col-lg-3 col-md-3 mt-2 mb-2">
-                        <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                            <a href="get-xdc" class="hero-ftr-card">
-                                <div class="card-info">
-                                    <div class="card-infoHead mb-3">Get XDC</div>
-                                    <p class="fs-6 mb-0">XDC, the currency of XinFin, is your gateway to a world of possibilities.</p>
-                                </div>
-                                <div class="hero-ftr-arrow">
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                                    </svg>
-                                </div>
-                            </a>
+        <div class="row row-flex gx-3 justify-content-center">
+            <div class="col-lg-3 col-md-6 mt-2 mb-2">
+                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                    <a href="get-xdc" class="hero-ftr-card">
+                        <div class="card-info">
+                            <div class="card-infoHead mb-3">Get XDC</div>
+                            <p class="fs-6 mb-0">XDC, the currency of XinFin, is your gateway to a world of possibilities.</p>
                         </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-2 mb-2">
-                        <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                            <a href="https://docs.xdc.network" target="_blank" class="hero-ftr-card">
-                                <div class="card-info">
-                                    <div class="card-infoHead mb-3">Start Building</div>
-                                    <p class="fs-6 mb-0">Comprehensive documents and resources to build on XDC Network.</p>
-                                </div>
-                                <div class="hero-ftr-arrow">
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                                    </svg>
-                                </div>
-                            </a>
+                        <div class="hero-ftr-arrow">
+                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                            </svg>
                         </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-2 mb-2">
-                        <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                            <a href="ecosystem-dapps" class="hero-ftr-card">
-                                <div class="card-info">
-                                    <div class="card-infoHead mb-3">Use dApp</div>
-                                    <p class="fs-6 mb-0">Experience the power of decentralized applications (dApps) fueled by XDC.</p>
-                                </div>
-                                <div class="hero-ftr-arrow">
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                                    </svg>
-                                </div>
-                            </a>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 mt-2 mb-2">
+                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                    <a href="https://docs.xdc.network" target="_blank" class="hero-ftr-card">
+                        <div class="card-info">
+                            <div class="card-infoHead mb-3">Start Building</div>
+                            <p class="fs-6 mb-0">Comprehensive documents and resources to build on XDC Network.</p>
                         </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 mt-2 mb-2">
-                        <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
-                            <a href="https://xinfin.org/xdc-payments/r3-corda-bridge.html" target="_blank" class="hero-ftr-card">
-                                <div class="card-info">
-                                    <div class="card-infoHead mb-3">Interoperability By Bridges</div>
-                                    <p class="fs-6 mb-0">Interoperability by Corda Bridge/Wanchain Bridge.</p>
-                                </div>
-                                <div class="hero-ftr-arrow">
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="https://xinfin.org/xdc-payments/r3-corda-bridge.html" target="_blank">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                                    </svg>
-                                </div>
-                            </a>
+                        <div class="hero-ftr-arrow">
+                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                            </svg>
                         </div>
-                    </div>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 mt-2 mb-2">
+                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                    <a href="ecosystem-dapps" class="hero-ftr-card">
+                        <div class="card-info">
+                            <div class="card-infoHead mb-3">Use dApp</div>
+                            <p class="fs-6 mb-0">Experience the power of decentralized applications (dApps) fueled by XDC.</p>
+                        </div>
+                        <div class="hero-ftr-arrow">
+                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                            </svg>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 mt-2 mb-2">
+                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                    <a href="https://xinfin.org/xdc-payments/r3-corda-bridge.html" target="_blank" class="hero-ftr-card">
+                        <div class="card-info">
+                            <div class="card-infoHead mb-3">Interoperability By Bridges</div>
+                            <p class="fs-6 mb-0">Interoperability by Corda Bridge/Wanchain Bridge.</p>
+                        </div>
+                        <div class="hero-ftr-arrow">
+                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="https://xinfin.org/xdc-payments/r3-corda-bridge.html" target="_blank">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                            </svg>
+                        </div>
+                    </a>
                 </div>
             </div>
         </div>
@@ -197,13 +193,13 @@
                     <a href="setup-masternode">
                         <button class="btn-blue">Join As Network Node</button>
                     </a>
-                    <a href="xdc-ai">
-                        <button class="btn-transp-bordered">XDC AI</button>
+                    <a href="https://tradefi.network/" target="_blank">
+                        <button class="btn-transp-bordered">Explore on-chain Data</button>
                     </a>
                 </div>
             </div>
         </div>
-        <div class="row mt-5 mb-4">
+        <div class="row gx-3 mt-5 mb-4">
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="blockchainData-list">
                     <div class="subHeading">Transactions per second</div>
@@ -285,12 +281,12 @@
         </div>
         <div class="row">
             <div class="col-lg-12">
-                <div class="dark-merg-gradient p-4 br-20">
-                    <div class="row justify-content-center">                        
-                        <div class="col-lg-4 col-md-4 mt-5 mb-2 px-3">
+                <div class="dark-merg-gradient p-3 br-20">
+                    <div class="row gx-3 justify-content-center">                        
+                        <div class="col-lg-3 col-md-6 mt-5 mb-2 px-34">
                             <div class="card-info h-100 d-flex flex-column">
-                                <img src="assets/images/icons/smc-light.png" class="img-fluid iconL" alt="Secure Smart Contract" />
-                                <img src="assets/images/icons/smc.png" class="img-fluid iconD" alt="Secure Smart Contract" />
+                                <img src="assets/images/icons/icon-smart-contract.svg" class="img-fluid iconL" alt="Create Smart Contract" />
+                                <img src="assets/images/icons/icon-smart-contract.svg" class="img-fluid iconD" alt="Create Smart Contract" />
                                 <div class="card-infoHead mt-3 mb-3">Create Smart Contract</div>
                                 <p class="fs-6 mb-0 me-3">
                                     Easily integrate legacy systems and blockchain platforms with XDC Network. The purpose of XDC Origin is to simplify secure smart contract deployment and enable asset tokenization without custom programming expertise.
@@ -303,10 +299,10 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-4 mt-5 mb-2 px-3">
+                        <div class="col-lg-3 col-md-6 mt-5 mb-2 px-3">
                             <div class="card-info h-100 d-flex flex-column">
-                                <img src="assets/images/icons/xdcpayments-light.png" class="img-fluid iconL" alt="ISO 20022 Compliant" />
-                                <img src="assets/images/icons/xdcpayments.png" class="img-fluid iconD" alt="ISO 20022 Compliant" />
+                                <img src="assets/images/icons/icon-agentic-ai-payments.svg" class="img-fluid iconL" alt="Agentic AI Payments on XDC" />
+                                <img src="assets/images/icons/icon-agentic-ai-payments.svg" class="img-fluid iconD" alt="Agentic AI Payments on XDC" />
                                 <div class="card-infoHead mt-3 mb-3">Agentic AI Payments on XDC</div>
                                 <p class="fs-6 mb-0 me-3">
                                     Enable AI agents to discover APIs, make autonomous payments, and collaborate securely using x402 and USDC on the XDC Network. Build the future of machine-to-machine commerce with fast, programmable blockchain payments.
@@ -319,20 +315,36 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-4 mt-5 mb-2 px-3">
+                        <div class="col-lg-3 col-md-6 mt-5 mb-2 px-3">
                             <div class="card-info h-100 d-flex flex-column">
-                                <img src="assets/images/icons/api-light.png" class="img-fluid iconL" alt="XDC API Documentation" />
-                                <img src="assets/images/icons/api.png" class="img-fluid iconD" alt="XDC API Documentation" />
+                                <img src="assets/images/icons/icon-payment-rails.svg" class="img-fluid iconL" alt="Payment Rails for AI Agents" />
+                                <img src="assets/images/icons/icon-payment-rails.svg" class="img-fluid iconD" alt="Payment Rails for AI Agents" />
+                                <div class="card-infoHead mt-3 mb-3">Payment Rails for AI Agents</div>
+                                <p class="fs-6 mb-0 me-3">
+                                    XDC AI enables autonomous AI agents to access APIs and pay per request in USDC, with gasless settlement on XDC through the open x402 standard.
+                                </p>
+                                <a href="xdc-ai" target="_blank" class="btn socialHead-button mt-auto">
+                                    Explore Now
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 mt-5 mb-2 px-3">
+                            <div class="card-info h-100 d-flex flex-column">
+                                <img src="assets/images/icons/icon-api-sdk-docs.svg" class="img-fluid iconL" alt="XDC API/SDK Documentation" />
+                                <img src="assets/images/icons/icon-api-sdk-docs.svg" class="img-fluid iconD" alt="XDC API/SDK Documentation" />
                                 <div class="card-infoHead mt-3 mb-3">XDC API/SDK Documentation</div>
                                 <!--<p class="fs-6 mb-0 me-3">
                                     Building Decentralized Applications with Ease. Access the XDC API documentation to unleash the power of the blockchain. Deploy smart contracts, interact with the network, and build innovative dApps using
                                     our comprehensive tools and protocols.
                                 </p>-->
                                 <p class="fs-6 mb-0 me-3">
-                                    Build decentralized applications with ease using XDC’s API and SDK documentation. Deploy smart contracts, interact with the network, and create scalable dApps with comprehensive tools and protocols.
+                                    Access XDC API and SDK documentation to build decentralized applications (dApps) with ease.  Deploy smart contracts, interact with the network, and unlock the power of blockchain innovation.
                                 </p>
                                 <a href="https://apidocs.xinfin.network/docs/#xinfin-apis" target="_blank" class="btn socialHead-button mt-auto">
-                                    Access the Documentation
+                                    Access Documentation
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                     </svg>
@@ -346,6 +358,96 @@
     </div>
 </section>
 <!-- Decentralized Solutions Ends -->
+
+
+<!-- Decentralized Solutions Starts 
+<section class="px-80 pb-0 bg-lightgray">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 offset-lg-1 mb-0">
+                <h3 class="title-m text-center">Building Decentralized Solutions</h3>
+                <div class="subtitle subtitle-s text-center">A blockchain network for developers to create the next generation of applications.</div>
+                <div class="btn-block mt-4">
+                    <a href="https://xdc.dev/" target="_blank">
+                    <button class="btn-blue">Developer Portal</button>
+                    </a>
+                    <a href="https://github.com/XinFinorg" target="_blank">
+                    <button class="btn-transp-bordered">
+                    <i class="fab fa-github me-1"></i> GitHub </button>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="row gx-3 mt-5">
+            <div class="col-lg-3 col-md-6 mt-2 mb-2">
+                <div class="card card-info h-100 d-flex flex-column p-4 bg-light75 br-20 border-0">
+                    <div class="card-info h-100 d-flex flex-column">
+                        <img src="assets/images/icons/icon-smart-contract.svg" class="img-fluid iconL" alt="Create Smart Contract" />
+                        <img src="assets/images/icons/icon-smart-contract.svg" class="img-fluid iconD" alt="Create Smart Contract" />
+                        <div class="card-infoHead mt-3 mb-3">Create Smart Contract</div>
+                        <p class="fs-6 mb-0 me-3"> Easily integrate legacy systems and blockchain platforms with XDC Network. The purpose of XDC Origin is to simplify secure smart contract deployment and enable asset tokenization without custom programming expertise. </p>
+                        <a href="https://remix.xinfin.network/" target="_blank" class="btn socialHead-button mt-auto">
+                            Deploy Smart Contract 
+                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 mt-2 mb-2">
+                <div class="card card-info h-100 d-flex flex-column p-4 bg-light75 br-20 border-0">
+                    <div class="card-info h-100 d-flex flex-column">
+                        <img src="assets/images/icons/icon-agentic-ai-payments.svg" class="img-fluid iconL" alt="Agentic AI Payments on XDC" />
+                        <img src="assets/images/icons/icon-agentic-ai-payments.svg" class="img-fluid iconD" alt="Agentic AI Payments on XDC" />
+                        <div class="card-infoHead mt-3 mb-3">Agentic AI Payments on XDC</div>
+                        <p class="fs-6 mb-0 me-3"> Enable AI agents to discover APIs, make autonomous payments, and collaborate securely using x402 and USDC on the XDC Network. Build the future of machine-to-machine commerce with fast, programmable blockchain payments. </p>
+                        <a href="https://xdcforpayments.org/" target="_blank" class="btn socialHead-button mt-auto">
+                            Connect Now 
+                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 mt-2 mb-2">
+                <div class="card card-info h-100 d-flex flex-column p-4 bg-light75 br-20 border-0">
+                    <div class="card-info h-100 d-flex flex-column">
+                        <img src="assets/images/icons/icon-payment-rails.svg" class="img-fluid iconL" alt="Payment Rails for AI Agents" />
+                        <img src="assets/images/icons/icon-payment-rails.svg" class="img-fluid iconD" alt="Payment Rails for AI Agents" />
+                        <div class="card-infoHead mt-3 mb-3">Payment Rails for AI Agents</div>
+                        <p class="fs-6 mb-0 me-3"> XDC AI enables autonomous AI agents to access APIs and pay per request in USDC, with gasless settlement on XDC through the open x402 standard. </p>
+                        <a href="xdc-ai" target="_blank" class="btn socialHead-button mt-auto">
+                            Explore Now 
+                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 mt-2 mb-2">
+                <div class="card card-info h-100 d-flex flex-column p-4 bg-light75 br-20 border-0">
+                    <div class="card-info h-100 d-flex flex-column">
+                        <img src="assets/images/icons/icon-api-sdk-docs.svg" class="img-fluid iconL" alt="XDC API/SDK Documentation" />
+                        <img src="assets/images/icons/icon-api-sdk-docs.svg" class="img-fluid iconD" alt="XDC API/SDK Documentation" />
+                        <div class="card-infoHead mt-3 mb-3">XDC API/SDK Documentation</div>                        
+                        <p class="fs-6 mb-0 me-3"> Access XDC API and SDK documentation to build decentralized applications (dApps) with ease. Deploy smart contracts, interact with the network, and unlock the power of blockchain innovation. </p>
+                        <a href="https://apidocs.xinfin.network/docs/#xinfin-apis" target="_blank" class="btn socialHead-button mt-auto">
+                            Access Documentation 
+                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Decentralized Solutions Ends -->
+
 
 <!-- Partnerships Starts -->
 <section class="px-80 bg-lightgray">
