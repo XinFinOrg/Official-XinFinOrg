@@ -53,6 +53,12 @@
                     <img src="assets/images/inside-page/masternode/bcw-light.svg" />
                     <img src="assets/images/inside-page/masternode/settlemint-light.svg" />
                     <img src="assets/images/inside-page/masternode/bitrue-light.svg" />
+                    <img src="assets/images/inside-page/masternode/investax-light.svg" />
+                    <img src="assets/images/inside-page/masternode/ixs-light.svg" />
+                    <img src="assets/images/inside-page/masternode/hivemind-light.svg" />
+                    <img src="assets/images/inside-page/masternode/blueprint-light.svg" />
+                    <img src="assets/images/inside-page/masternode/certik-light.svg" />
+                    <img src="assets/images/inside-page/masternode/storx-light.svg" />
                 </div>
                 <div class="logo_items">
                     <img src="assets/images/inside-page/masternode/sbivcjapan-light.svg" />
@@ -69,6 +75,12 @@
                     <img src="assets/images/inside-page/masternode/bcw-light.svg" />
                     <img src="assets/images/inside-page/masternode/settlemint-light.svg" />
                     <img src="assets/images/inside-page/masternode/bitrue-light.svg" />
+                    <img src="assets/images/inside-page/masternode/investax-light.svg" />
+                    <img src="assets/images/inside-page/masternode/ixs-light.svg" />
+                    <img src="assets/images/inside-page/masternode/hivemind-light.svg" />
+                    <img src="assets/images/inside-page/masternode/blueprint-light.svg" />
+                    <img src="assets/images/inside-page/masternode/certik-light.svg" />
+                    <img src="assets/images/inside-page/masternode/storx-light.svg" />
                 </div>
             </div>
 
@@ -88,6 +100,12 @@
                     <img src="assets/images/inside-page/masternode/bcw.svg" />
                     <img src="assets/images/inside-page/masternode/settlemint.svg" />
                     <img src="assets/images/inside-page/masternode/bitrue.svg" />
+                    <img src="assets/images/inside-page/masternode/investax.svg" />
+                    <img src="assets/images/inside-page/masternode/ixs.svg" />
+                    <img src="assets/images/inside-page/masternode/hivemind.svg" />
+                    <img src="assets/images/inside-page/masternode/blueprint.svg" />
+                    <img src="assets/images/inside-page/masternode/certik.svg" />
+                    <img src="assets/images/inside-page/masternode/storx.svg" />
                 </div>
                 <div class="logo_items">
                     <img src="assets/images/inside-page/masternode/sbivcjapan.svg" />
@@ -104,6 +122,12 @@
                     <img src="assets/images/inside-page/masternode/bcw.svg" />
                     <img src="assets/images/inside-page/masternode/settlemint.svg" />
                     <img src="assets/images/inside-page/masternode/bitrue.svg" />
+                    <img src="assets/images/inside-page/masternode/investax.svg" />
+                    <img src="assets/images/inside-page/masternode/ixs.svg" />
+                    <img src="assets/images/inside-page/masternode/hivemind.svg" />
+                    <img src="assets/images/inside-page/masternode/blueprint.svg" />
+                    <img src="assets/images/inside-page/masternode/certik.svg" />
+                    <img src="assets/images/inside-page/masternode/storx.svg" />
                 </div>
             </div>
         </div>
