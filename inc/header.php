@@ -746,6 +746,7 @@
                                             <li><a href="developers-ecosystem-partners">Developers Ecosystem Partners</a></li>
                                             <li><a href="join-community">Join Community</a></li>
                                             <li><a href="community-bounty">Community Bounty</a></li>
+                                            <li><a href="https://forum.xinfin.org/" target="_blank">XDC Forum</a></li>
                                             <li><a href="https://howto.xinfin.org/media/articles/" target="_blank">Media</a></li>
                                             <li><a href="events">Events</a></li>
                                         </ul>
@@ -757,6 +758,9 @@
                                             <li><a href="https://stats1.xinfin.network" target="_blank">XDC Network Status</a></li>
                                             <li><a href="https://faucet.apothem.network" target="_blank">XDC Faucet</a></li>
                                             <li><a href="https://remix.xinfin.network" target="_blank">XDC Network Remix</a></li>
+                                            <li><a href="quick-tools-guide">Quick Tools Guide</a></li>
+                                            <li><a href="blockchain-analytics-tools">Blockchain Analytics Tools</a></li>
+                                            <li><a href="xdc-ai">XDC AI</a></li>
                                         </ul>
                                     </li>
                                     <li>
