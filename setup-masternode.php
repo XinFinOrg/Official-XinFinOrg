@@ -12,8 +12,7 @@
                 <h1 class="title-m text-center mb-0">XDC Network Masternodes</h1>
                 <h2 class="subtitle subtitle-s fw-500 text-center mb-0">The Backbone of a Fast, Secure, and Decentralized Network</h2>
                 <h2 class="subtitle subtitle-s fw-500 text-center mb-0">
-                    XDC Network Masternodes are the pillars of blockchain performance, ensuring high-speed transaction validation, network security, and decentralized governance. But they’re just one part of the broader node architecture on
-                    XDC.
+                    XDC Network Masternodes are the pillars of blockchain performance, ensuring high-speed transaction validation, network security, and decentralized governance. But they’re just one part of the broader node architecture on XDC.
                 </h2>
                 <div class="btn-block">
                     <a href="https://master.xinfin.network/" target="_blank">
@@ -307,240 +306,264 @@
         <div class="row row-flex">
             <div class="col-lg-12">
                 <div class="row justify-content-center">
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://www.sbivc.co.jp/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/sbivcjapan-light.svg" class="center logoFs img-fluid iconL" alt="sbivc.co.jp" />
                                     <img src="assets/images/inside-page/masternode/sbivcjapan.svg" class="center logoFs img-fluid iconD" alt="sbivc.co.jp" />
-                                    <p class="card-info-desc br-20 mb-0 ">SBI VC Japan</p>
+                                    <p class="card-info-desc fs-7 br-20 mb-0">SBI VC Japan</p>
                                 </div>
                             </div>
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://www.cumberland.io/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/cumberland-light.svg" class="center logoFs img-fluid iconL" alt="cumberland.io" />
                                     <img src="assets/images/inside-page/masternode/cumberland.svg" class="center logoFs img-fluid iconD" alt="cumberland.io" />
-                                    <p class="card-info-desc br-20 mb-0 ">Cumberland</p>
+                                    <p class="card-info-desc fs-7 br-20 mb-0">Cumberland</p>
                                 </div>
                             </div>
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://www.telekom.com/en" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/deutsche-telekom.svg" class="center logoFs img-fluid" alt="telekom.com" />
-                                    <p class="card-info-desc br-20 mb-0 ">Deutsche Telekom</p>
+                                    <p class="card-info-desc fs-7 br-20 mb-0">Deutsche Telekom</p>
                                 </div>
                             </div>
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://www.gsr.io/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/gsr-markets-light.svg" class="center logoFs img-fluid iconL" alt="gsr.io" />
                                     <img src="assets/images/inside-page/masternode/gsr-markets.svg" class="center logoFs img-fluid iconD" alt="gsr.io" />
-                                    <p class="card-info-desc br-20 mb-0 ">GSR Markets</p>
+                                    <p class="card-info-desc fs-7 br-20 mb-0">GSR Markets</p>
                                 </div>
                             </div>
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://www.hashkey.cloud/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/hashkey-cloud-light.svg" class="center logoFs img-fluid iconL" alt="hashkey.cloud" />
                                     <img src="assets/images/inside-page/masternode/hashkey-cloud.svg" class="center logoFs img-fluid iconD" alt="hashkey.cloud" />
-                                    <p class="card-info-desc br-20 mb-0 ">HashKey Cloud</p>
+                                    <p class="card-info-desc fs-7 br-20 mb-0">HashKey Cloud</p>
                                 </div>
                             </div>
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://republic.com/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/republic-light.svg" class="center logoFs img-fluid iconL" alt="republic.com" />
                                     <img src="assets/images/inside-page/masternode/republic.svg" class="center logoFs img-fluid iconD" alt="republic.com" />
-                                    <p class="card-info-desc br-20 mb-0 ">Republic</p>
+                                    <p class="card-info-desc fs-7 br-20 mb-0">Republic</p>
                                 </div>
                             </div>
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://www.uobvm.com.sg/en/index.page" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/uob-venture-management-light.svg" class="center logoFs img-fluid iconL" alt="uobvm.com.sg" />
                                     <img src="assets/images/inside-page/masternode/uob-venture-management.svg" class="center logoFs img-fluid iconD" alt="uobvm.com.sg" />
-                                    <p class="card-info-desc br-20 mb-0 ">UOB Venture Management</p>
+                                    <p class="card-info-desc fs-7 br-20 mb-0">UOB Venture Management</p>
                                 </div>
                             </div>
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://www.animocabrands.com/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/animocabrands-light.svg" class="center logoFs img-fluid iconL" alt="animocabrands.com" />
                                     <img src="assets/images/inside-page/masternode/animocabrands.svg" class="center logoFs img-fluid iconD" alt="animocabrands.com" />
-                                    <p class="card-info-desc br-20 mb-0 ">Animoca Brands</p>
+                                    <p class="card-info-desc fs-7 br-20 mb-0">Animoca Brands</p>
                                 </div>
                             </div>
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://clearpool.finance/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/clearpool-light.svg" class="center logoFs img-fluid iconL" alt="clearpool.finance" />
                                     <img src="assets/images/inside-page/masternode/clearpool.svg" class="center logoFs img-fluid iconD" alt="clearpool.finance" />
-                                    <p class="card-info-desc br-20 mb-0 ">Clearpool</p>
+                                    <p class="card-info-desc fs-7 br-20 mb-0">Clearpool</p>
                                 </div>
                             </div>
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://www.redstone.finance/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/redstone-light.svg" class="center logoFs img-fluid iconL" alt="redstone.finance" />
                                     <img src="assets/images/inside-page/masternode/redstone.svg" class="center logoFs img-fluid iconD" alt="redstone.finance" />
-                                    <p class="card-info-desc br-20 mb-0 ">RedStone</p>
+                                    <p class="card-info-desc fs-7 br-20 mb-0">RedStone</p>
                                 </div>
                             </div>
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://stakefi.network/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/stakefi-light.svg" class="center logoFs img-fluid iconL" alt="stakefi.network" />
                                     <img src="assets/images/inside-page/masternode/stakefi.svg" class="center logoFs img-fluid iconD" alt="stakefi.network" />
-                                    <p class="card-info-desc br-20 mb-0 ">stakeFi</p>
+                                    <p class="card-info-desc fs-7 br-20 mb-0">stakeFi</p>
                                 </div>
                             </div>
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://www.bcw.group/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/bcw-light.svg" class="center logoFs img-fluid iconL" alt="bcw.group" />
                                     <img src="assets/images/inside-page/masternode/bcw.svg" class="center logoFs img-fluid iconD" alt="bcw.group" />
-                                    <p class="card-info-desc br-20 mb-0 ">BCW Group</p>
+                                    <p class="card-info-desc fs-7 br-20 mb-0">BCW Group</p>
                                 </div>
                             </div>
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://www.settlemint.com/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/settlemint-light.svg" class="center logoFs img-fluid iconL" alt="settlemint.com" />
                                     <img src="assets/images/inside-page/masternode/settlemint.svg" class="center logoFs img-fluid iconD" alt="settlemint.com" />
-                                    <p class="card-info-desc br-20 mb-0 ">SettleMint</p>
+                                    <p class="card-info-desc fs-7 br-20 mb-0">SettleMint</p>
                                 </div>
                             </div>
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://www.bitrue.com/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/bitrue-light.svg" class="center logoFs img-fluid iconL" alt="bitrue.com" />
                                     <img src="assets/images/inside-page/masternode/bitrue.svg" class="center logoFs img-fluid iconD" alt="bitrue.com" />
-                                    <p class="card-info-desc br-20 mb-0 ">Bitrue</p>
+                                    <p class="card-info-desc fs-7 br-20 mb-0">Bitrue</p>
                                 </div>
                             </div>
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://investax.io/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/investax-light.svg" class="center logoFs img-fluid iconL" alt="investax.io" />
                                     <img src="assets/images/inside-page/masternode/investax.svg" class="center logoFs img-fluid iconD" alt="investax.io" />
-                                    <p class="card-info-desc br-20 mb-0 ">InvestaX</p>
+                                    <p class="card-info-desc fs-7 br-20 mb-0">InvestaX</p>
                                 </div>
                             </div>
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://www.ixs.finance/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/ixs-light.svg" class="center logoFs img-fluid iconL" alt="ixs.finance" />
                                     <img src="assets/images/inside-page/masternode/ixs.svg" class="center logoFs img-fluid iconD" alt="ixs.finance" />
-                                    <p class="card-info-desc br-20 mb-0 ">IXS</p>
+                                    <p class="card-info-desc fs-7 br-20 mb-0">IXS</p>
                                 </div>
                             </div>
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://www.hivemind.capital/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/hivemind-light.svg" class="center logoFs img-fluid iconL" alt="hivemind.capital" />
                                     <img src="assets/images/inside-page/masternode/hivemind.svg" class="center logoFs img-fluid iconD" alt="hivemind.capital" />
-                                    <p class="card-info-desc br-20 mb-0 ">Hivemind Capital</p>
+                                    <p class="card-info-desc fs-7 br-20 mb-0">Hivemind Capital</p>
                                 </div>
                             </div>
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://theblueprint.xyz/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/blueprint-light.svg" class="center logoFs img-fluid iconL" alt="theblueprint.xyz" />
                                     <img src="assets/images/inside-page/masternode/blueprint.svg" class="center logoFs img-fluid iconD" alt="theblueprint.xyz" />
-                                    <p class="card-info-desc br-20 mb-0 ">Blueprint</p>
+                                    <p class="card-info-desc fs-7 br-20 mb-0">Blueprint</p>
                                 </div>
                             </div>
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://www.certik.com/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/certik-light.svg" class="center logoFs img-fluid iconL" alt="certik.com" />
                                     <img src="assets/images/inside-page/masternode/certik.svg" class="center logoFs img-fluid iconD" alt="certik.com" />
-                                    <p class="card-info-desc br-20 mb-0 ">Certik</p>
+                                    <p class="card-info-desc fs-7 br-20 mb-0">Certik</p>
                                 </div>
                             </div>
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://storx.tech/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/storx-light.svg" class="center logoFs img-fluid iconL" alt="storx.tech" />
                                     <img src="assets/images/inside-page/masternode/storx.svg" class="center logoFs img-fluid iconD" alt="storx.tech" />
-                                    <p class="card-info-desc br-20 mb-0 ">StorX</p>
+                                    <p class="card-info-desc fs-7 br-20 mb-0">StorX</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
+                        <a href="https://www.docomoglobalgr.com/english/" target="_blank">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
+                                <div class="card-info text-center">
+                                    <img src="assets/images/inside-page/masternode/ntt-docomo-global-light.svg" class="center logoFs img-fluid iconL" alt="docomoglobalgr.com" />
+                                    <img src="assets/images/inside-page/masternode/ntt-docomo-global.svg" class="center logoFs img-fluid iconD" alt="docomoglobalgr.com" />
+                                    <p class="card-info-desc fs-7 br-20 mb-0">NTT DOCOMO GLOBAL</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
+                        <a href="https://www.dsrv.com/en" target="_blank">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
+                                <div class="card-info text-center">
+                                    <img src="assets/images/inside-page/masternode/dsrv-light.svg" class="center logoFs img-fluid iconL" alt="dsrv.com" />
+                                    <img src="assets/images/inside-page/masternode/dsrv.svg" class="center logoFs img-fluid iconD" alt="dsrv.com" />
+                                    <p class="card-info-desc fs-7 br-20 mb-0">DSRV</p>
                                 </div>
                             </div>
                         </a>
@@ -567,9 +590,9 @@
         <div class="row row-flex">
             <div class="col-lg-12">
                 <div class="row justify-content-center">
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://indsoft.net" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/indsoft-light.svg" class="center logoFs img-fluid iconL" alt="indsoft.net" />
                                     <img src="assets/images/inside-page/masternode/indsoft.svg" class="center logoFs img-fluid iconD" alt="indsoft.net" />
@@ -578,9 +601,9 @@
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://nodeforge.io/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/nodeforge-light.svg" class="center logoFs img-fluid iconL" alt="nodeforge.io" />
                                     <img src="assets/images/inside-page/masternode/nodeforge.svg" class="center logoFs img-fluid iconD" alt="nodeforge.io" />
@@ -589,9 +612,9 @@
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://www.zeeve.io/blockchain-protocols/deploy-xdc-node/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/zeeve-light.svg" class="center logoFs img-fluid iconL" alt="zeeve.io" />
                                     <img src="assets/images/inside-page/masternode/zeeve.svg" class="center logoFs img-fluid iconD" alt="zeeve.io" />
@@ -600,9 +623,9 @@
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://www.blockdaemon.com/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/blockdaemon-light.svg" class="center logoFs img-fluid iconL" alt="zeeve.io" />
                                     <img src="assets/images/inside-page/masternode/blockdaemon.svg" class="center logoFs img-fluid iconD" alt="zeeve.io" />
@@ -611,9 +634,9 @@
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://tatum.io/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/tatum-light.svg" class="center logoFs img-fluid iconL" alt="tatum.io" />
                                     <img src="assets/images/inside-page/masternode/tatum.svg" class="center logoFs img-fluid iconD" alt="tatum.io" />
@@ -622,9 +645,9 @@
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://nownodes.io/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/nownodes-light.svg" class="center logoFs img-fluid iconL" alt="nownodes.io" />
                                     <img src="assets/images/inside-page/masternode/nownodes.svg" class="center logoFs img-fluid iconD" alt="nownodes.io" />
@@ -633,9 +656,9 @@
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://www.asternodes.io/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/asternodes-light.svg" class="center logoFs img-fluid iconL" alt="asternodes.io" />
                                     <img src="assets/images/inside-page/masternode/asternodes.svg" class="center logoFs img-fluid iconD" alt="asternodes.io" />
@@ -644,9 +667,9 @@
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://www.ankr.com/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/ankr-light.svg" class="center logoFs img-fluid iconL" alt="ankr.com" />
                                     <img src="assets/images/inside-page/masternode/ankr.svg" class="center logoFs img-fluid iconD" alt="ankr.com" />
@@ -655,9 +678,9 @@
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://thirdweb.com/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/thirdweb-light.svg" class="center logoFs img-fluid iconL" alt="thirdweb.com" />
                                     <img src="assets/images/inside-page/masternode/thirdweb.svg" class="center logoFs img-fluid iconD" alt="thirdweb.com" />
@@ -666,9 +689,9 @@
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://goldsky.com/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/goldsky-light.svg" class="center logoFs img-fluid iconL" alt="goldsky.com" />
                                     <img src="assets/images/inside-page/masternode/goldsky.svg" class="center logoFs img-fluid iconD" alt="goldsky.com" />

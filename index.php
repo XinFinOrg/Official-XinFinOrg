@@ -59,6 +59,8 @@
                     <img src="assets/images/inside-page/masternode/blueprint-light.svg" />
                     <img src="assets/images/inside-page/masternode/certik-light.svg" />
                     <img src="assets/images/inside-page/masternode/storx-light.svg" />
+                    <img src="assets/images/inside-page/masternode/ntt-docomo-global-light.svg" />
+                    <img src="assets/images/inside-page/masternode/dsrv-light.svg" />
                 </div>
                 <div class="logo_items">
                     <img src="assets/images/inside-page/masternode/sbivcjapan-light.svg" />
@@ -81,6 +83,8 @@
                     <img src="assets/images/inside-page/masternode/blueprint-light.svg" />
                     <img src="assets/images/inside-page/masternode/certik-light.svg" />
                     <img src="assets/images/inside-page/masternode/storx-light.svg" />
+                    <img src="assets/images/inside-page/masternode/ntt-docomo-global-light.svg" />
+                    <img src="assets/images/inside-page/masternode/dsrv-light.svg" />
                 </div>
             </div>
 
@@ -106,6 +110,8 @@
                     <img src="assets/images/inside-page/masternode/blueprint.svg" />
                     <img src="assets/images/inside-page/masternode/certik.svg" />
                     <img src="assets/images/inside-page/masternode/storx.svg" />
+                    <img src="assets/images/inside-page/masternode/ntt-docomo-global.svg" />
+                    <img src="assets/images/inside-page/masternode/dsrv.svg" />
                 </div>
                 <div class="logo_items">
                     <img src="assets/images/inside-page/masternode/sbivcjapan.svg" />
@@ -128,6 +134,8 @@
                     <img src="assets/images/inside-page/masternode/blueprint.svg" />
                     <img src="assets/images/inside-page/masternode/certik.svg" />
                     <img src="assets/images/inside-page/masternode/storx.svg" />
+                    <img src="assets/images/inside-page/masternode/ntt-docomo-global.svg" />
+                    <img src="assets/images/inside-page/masternode/dsrv.svg" />
                 </div>
             </div>
         </div>
