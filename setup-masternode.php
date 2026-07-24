@@ -223,8 +223,16 @@
         <div class="row row-flex">
             <div class="col-lg-10 offset-lg-1 mt-4">
                 <p class="subtitle text-center mb-0">
+                    <span class="fw-600"><b>Masternode Reward Distribution:</b></span> Masternode rewards are currently distributed via the XDC Foundation reward wallet. Automated on-chain reward distribution is planned for a future network upgrade, currently targeted for October  2026, subject to successful development, testing, governance approval, and mainnet deployment. Until then, the existing reward distribution process will continue.
+                </p>
+            </div>
+        </div>
+        <div class="row row-flex">
+            <div class="col-lg-10 offset-lg-1 mt-4">
+                <p class="subtitle text-center mb-0">
                     <i>
-                        <span class="fw-600">DISCLAIMER:</span> All numbers provided are indicative and based on past performance; there is no guarantee of similar rewards in the future. Participation in setting up a masternode or standby
+                        <svg width="26px" height="26px" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12.5 10V14M12.5 17V15.5M14.2483 5.64697L20.8493 17.5287C21.5899 18.8618 20.6259 20.5 19.101 20.5H5.89903C4.37406 20.5 3.41013 18.8618 4.15072 17.5287L10.7517 5.64697C11.5137 4.27535 13.4863 4.27535 14.2483 5.64697Z" stroke="currentColor" stroke-width="1.2"/></svg>
+                        <span class="fw-600">Disclaimer:</span> All numbers provided are indicative and based on past performance; there is no guarantee of similar rewards in the future. Participation in setting up a masternode or standby
                         node is part of an ongoing innovation project and should be viewed as a contribution to the advancement of blockchain technology, with no assurance of future returns.
                     </i>
                 </p>
