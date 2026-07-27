@@ -217,6 +217,72 @@
 </section>
 <!-- Guides Ends -->
 
+<section class="px-80 pb-4">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-7 mb-5">
+                <h3 class="title-m text-center">Trusted and Used by</h3>
+                <div class="subtitle subtitle-s text-center">
+                    Subnets inherit trust from a Validator and Partner Network already run by leading Infrastructure Operators and Trusted Institutions.
+                </div>
+            </div>
+        </div>
+        <div class="row row-flex">
+            <div class="col-lg-12">
+                <div class="row justify-content-center">
+                    <div class="col-lg-3 col-md-3 col-sm-6 mt-2 mb-2">
+                        <a href="https://www.sbivc.co.jp/" target="_blank">
+                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                                <div class="card-info text-center">
+                                    <img src="assets/images/inside-page/masternode/sbivcjapan-light.svg" class="center logoFs img-fluid iconL" alt="sbivc.co.jp">
+                                    <img src="assets/images/inside-page/masternode/sbivcjapan.svg" class="center logoFs img-fluid iconD" alt="sbivc.co.jp">
+                                    <p class="card-info-desc fs-7 br-20 mb-0">SBI VC Japan</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-3 col-sm-6 mt-2 mb-2">
+                        <a href="https://www.telekom.com/en" target="_blank">
+                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                                <div class="card-info text-center">
+                                    <img src="assets/images/inside-page/masternode/deutsche-telekom.svg" class="center logoFs img-fluid" alt="telekom.com">
+                                    <p class="card-info-desc fs-7 br-20 mb-0">Deutsche Telekom</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-3 col-sm-6 mt-2 mb-2">
+                        <a href="https://www.contour.network/" target="_blank">
+                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                                <div class="card-info text-center">
+                                    <img src="assets/images/inside-page/masternode/contour-light.svg" class="center logoFs img-fluid iconL" alt="contour.network">
+                                    <img src="assets/images/inside-page/masternode/contour.svg" class="center logoFs img-fluid iconD" alt="contour.network">
+                                    <p class="card-info-desc fs-7 br-20 mb-0">Contour</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-3 col-sm-6 mt-2 mb-2">
+                        <a href="https://kenyanwallstreet.com/zanzibar-launches-national-blockchain-network-sandbox-for-global-innovators-corporates-and-governments" target="_blank">
+                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                                <div class="card-info text-center">
+                                    <img src="assets/images/inside-page/masternode/zanzibar-blockchain-network-light.svg" class="center logoFs img-fluid iconL" alt="Zanzibar National Blockchain Network">
+                                    <img src="assets/images/inside-page/masternode/zanzibar-blockchain-network.svg" class="center logoFs img-fluid iconD" alt="Zanzibar National Blockchain Network">
+                                    <p class="card-info-desc fs-7 br-20 mb-0">ZANZIBAR NBN</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <section class="px-80">
     <div class="container p-relative">
         <div class="row">
@@ -277,7 +343,7 @@
             </div>
         </div>
         <div class="row justify-content-center mt-5">
-            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
+            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info">
                         <div class="card-infoHead mb-3">Cost-Effectiveness</div>
@@ -285,7 +351,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
+            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info">
                         <div class="card-infoHead mb-3">Speed and Scalability</div>
@@ -293,7 +359,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
+            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info">
                         <div class="card-infoHead mb-3">Security Beyond Measure</div>
@@ -301,7 +367,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-2 mb-2">
+            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 mt-2 mb-2">
                 <div class="h-100 card p-4 bg-light75 br-20 border-0">
                     <div class="card-info">
                         <div class="card-infoHead mb-3">Guarded Privacy</div>
@@ -310,7 +376,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-12 mt-5">
+            <div class="col-lg-10 mt-5">
                 <p class="subtitle subtitle-s fw-500 text-center mb-0">
                     Don't miss the chance to unlock the limitless potential of XDC Subnet. Embrace the future of decentralized networking today! For any assistance or queries related to creating your Subnet using XDC Network,
                     <a href="https://forms.gle/KQxw5DVbrMYrHv5N9" target="_blank">Contact Us</a> now.

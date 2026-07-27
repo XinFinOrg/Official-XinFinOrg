@@ -175,7 +175,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 offset-lg-2 mb-5">
-                <h3 class="title-m text-center">XDC Validator Network Stats (Illustrative)</h3>
+                <h3 class="title-m text-center">XDC Validator Network Stats (illustrative)</h3>
             </div>
         </div>
 
@@ -194,7 +194,7 @@
                 <div class="card h-100 overflow-hidden pt-4 pb-4 px-3 bg-light75 br-20 border-0">
                     <div class="card-info text-center w-100">
                         <p class="fw-500 fs-6">Protector Nodes</p>
-                        <div class="fw-600 lh-1 fs-2 mb-3"><span class="counter-api counter" id="mn-protectornodes">195</span> <span class="fs-6">(4x Core Validators)</span></div>
+                        <div class="fw-600 lh-1 fs-2 mb-3"><span class="counter-api counter" id="mn-protectornodes">432</span> <span class="fs-6">(4x Core Validators)</span></div>
                         <p class="fw-500 fs-7 mb-0"><span class="stats-highlight-text fw-600">ROLE:</span> Redundancy, fault tolerance</p>
                         <p class="fw-500 fs-7 mb-0"><span class="stats-highlight-text fw-600">REWARDS:</span> Rv ÷ number of Protectors</p>
                     </div>
@@ -214,7 +214,7 @@
                 <div class="card h-100 overflow-hidden pt-4 pb-4 px-3 bg-light75 br-20 border-0">
                     <div class="card-info text-center w-100">
                         <p class="fw-500 fs-6">Total XDC Locked</p>
-                        <div class="fw-600 lh-1 fs-2 mb-3"><span class="counter-api counter" id="tvl">2730.88</span> <span id="tvltext">M</span></div>
+                        <div class="fw-600 lh-1 fs-2 mb-3"><span class="counter-api counter" id="tvl">3200.87</span> <span id="tvltext">M</span></div>
                         <p class="fw-500 fs-7 mb-0">XDC</p>
                     </div>
                 </div>
@@ -223,7 +223,7 @@
         <div class="row row-flex">
             <div class="col-lg-10 offset-lg-1 mt-4">
                 <p class="subtitle text-center mb-0">
-                    <span class="fw-600"><b>Masternode Reward Distribution:</b></span> Masternode rewards are currently distributed via the XDC Foundation reward wallet. Automated on-chain reward distribution is planned for a future network upgrade, currently targeted for October  2026, subject to successful development, testing, governance approval, and mainnet deployment. Until then, the existing reward distribution process will continue.
+                    <span class="fw-600"><b>Reward Distribution:</b></span> Masternode rewards are distributed automatically on-chain with every block. Rewards for Protector Nodes and Observer Nodes are currently distributed from the XDC Ecosystem Reward Wallet. Full on-chain automation for Protector and Observer Node rewards is planned for a future network upgrade, currently targeted for October 2026, subject to successful development, testing, governance approval, and mainnet deployment. Until then, the current distribution process will continue.
                 </p>
             </div>
         </div>
