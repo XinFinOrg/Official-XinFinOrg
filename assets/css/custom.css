@@ -1152,6 +1152,17 @@ a .card-infoHead {
 .card-info {
 
 }
+.card-info .panel-tag {
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;;
+    color: #61a1ff;
+    background: var(--color-linkedin-50);
+    padding: 4px 10px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
 .card-info-desc {
     background: #ffffff;
     margin-top: 25px;
@@ -2824,10 +2835,71 @@ a .team-infoHead {
 
 
 
+/*---------------------------------------------------------
+	CODE BLOCK STYLE
+---------------------------------------------------------*/
+  .xdc-code{
+    padding:20px 26px;
+    margin:20px 0;
+    overflow-x:auto;
+  }
+  .xdc-code-label{
+    display:block;
+    color:#6b7785;
+    font-size:13px;
+    font-family:'Inter',sans-serif;
+    font-weight:500;
+    margin-bottom:14px;
+  }
+  .xdc-code-list{
+    counter-reset:line;
+    font-size:14.5px;
+    line-height:2;
+    color: #626262;
+    min-width:max-content;
+  }
+  .darkTheme .xdc-code-list {
+    color: var(--dt-subText-color);
+  }
+  .xdc-code-list li{
+    counter-increment:line;
+    list-style:none;
+    position:relative;
+    padding-left:30px;
+    white-space:pre;
+  }
+  .xdc-code-list li::before{
+    content:counter(line) ".";
+    position:absolute;
+    left:0;
+    top:0;
+    color:#98a2ad;
+  }
+  .xdc-code-list li.i1 .xdc-code-content{margin-left:24px;}
+  .xdc-code-list li.i2 .xdc-code-content{margin-left:48px;}
+  .xdc-code-content{display:inline-block;}
+  .xdc-code-stmt{display:inline-block;min-width:200px;}
+  .xdc-code .str{color:#2b9348;}
+  .xdc-code .cm{color:#d6336c;}
+  .xdc-code .kw{color:#0088cc;}
 
 
-
-
+  .xdc-panel ol li{
+    counter-increment:step;
+    position:relative;
+    padding-left:24px;
+    margin-bottom:10px;
+    line-height: 22px;
+  }
+  .xdc-panel ol li::before{
+    content:counter(step)".";
+    position:absolute;
+    left:0;top:0;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+  .xdc-panel ol li:last-child{margin-bottom:0;}
 
 /*---------------------------------------------------------
 	MAsternode Requirements Table STYLE

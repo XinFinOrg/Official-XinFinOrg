@@ -156,7 +156,7 @@
                             <p class="fs-6 mb-0">XDC, the currency of XinFin, is your gateway to a world of possibilities.</p>
                         </div>
                         <div class="hero-ftr-arrow">
-                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <svg class="w-6 h-6 icon ml-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                             </svg>
                         </div>
@@ -171,7 +171,7 @@
                             <p class="fs-6 mb-0">Comprehensive documents and resources to build on XDC Network.</p>
                         </div>
                         <div class="hero-ftr-arrow">
-                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <svg class="w-6 h-6 icon ml-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                             </svg>
                         </div>
@@ -186,7 +186,7 @@
                             <p class="fs-6 mb-0">Experience the power of decentralized applications (dApps) fueled by XDC.</p>
                         </div>
                         <div class="hero-ftr-arrow">
-                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <svg class="w-6 h-6 icon ml-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                             </svg>
                         </div>
@@ -201,7 +201,7 @@
                             <p class="fs-6 mb-0">Interoperability by Corda Bridge/Wanchain Bridge.</p>
                         </div>
                         <div class="hero-ftr-arrow">
-                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="https://xinfin.org/xdc-payments/r3-corda-bridge.html" target="_blank">
+                            <svg class="w-6 h-6 icon ml-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="https://xinfin.org/xdc-payments/r3-corda-bridge.html" target="_blank">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                             </svg>
                         </div>
@@ -329,7 +329,7 @@
                                 </p>
                                 <a href="https://remix.xinfin.network/" target="_blank" class="btn socialHead-button mt-auto">
                                     Deploy Smart Contract
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    <svg class="w-6 h-6 icon ml-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                     </svg>
                                 </a>
@@ -345,7 +345,7 @@
                                 </p>
                                 <a href="https://xdcforpayments.org/" target="_blank" class="btn socialHead-button mt-auto">
                                     Connect Now
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    <svg class="w-6 h-6 icon ml-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                     </svg>
                                 </a>
@@ -357,11 +357,17 @@
                                 <img src="assets/images/icons/icon-payment-rails.svg" class="img-fluid iconD" alt="Payment Rails for AI Agents" />
                                 <div class="card-infoHead mt-3 mb-3">Payment Rails for AI Agents</div>
                                 <p class="fs-6 mb-0 me-3">
-                                    XDC AI enables autonomous AI agents to access APIs and pay per request in USDC, with gasless settlement on XDC through the open x402 standard.
+                                    XDC AI enables autonomous AI agents to access APIs and pay per request in USDC, with gasless settlement on XDC through the open x402 payment standard.
                                 </p>
-                                <a href="xdc-ai" class="btn socialHead-button mt-auto">
+                                <!--<a href="xdc-ai" class="btn socialHead-button mt-auto">
                                     Explore Now
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    <svg class="w-6 h-6 icon ml-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>-->
+                                <a href="what-is-x402" class="btn socialHead-button internalLink mt-auto">
+                                    Open x402 payment standard
+                                    <svg class="w-6 h-6 icon ml-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                     </svg>
                                 </a>
@@ -381,7 +387,7 @@
                                 </p>
                                 <a href="https://apidocs.xinfin.network/docs/#xinfin-apis" target="_blank" class="btn socialHead-button mt-auto">
                                     Access Documentation
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    <svg class="w-6 h-6 icon ml-5" aria-hidden="true" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                     </svg>
                                 </a>
@@ -424,7 +430,7 @@
                         <p class="fs-6 mb-0 me-3"> Easily integrate legacy systems and blockchain platforms with XDC Network. The purpose of XDC Origin is to simplify secure smart contract deployment and enable asset tokenization without custom programming expertise. </p>
                         <a href="https://remix.xinfin.network/" target="_blank" class="btn socialHead-button mt-auto">
                             Deploy Smart Contract 
-                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <svg class="w-6 h-6 icon ml-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                             </svg>
                         </a>
@@ -440,7 +446,7 @@
                         <p class="fs-6 mb-0 me-3"> Enable AI agents to discover APIs, make autonomous payments, and collaborate securely using x402 and USDC on the XDC Network. Build the future of machine-to-machine commerce with fast, programmable blockchain payments. </p>
                         <a href="https://xdcforpayments.org/" target="_blank" class="btn socialHead-button mt-auto">
                             Connect Now 
-                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <svg class="w-6 h-6 icon ml-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                             </svg>
                         </a>
@@ -456,7 +462,7 @@
                         <p class="fs-6 mb-0 me-3"> XDC AI enables autonomous AI agents to access APIs and pay per request in USDC, with gasless settlement on XDC through the open x402 standard. </p>
                         <a href="xdc-ai" target="_blank" class="btn socialHead-button mt-auto">
                             Explore Now 
-                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <svg class="w-6 h-6 icon ml-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                             </svg>
                         </a>
@@ -472,7 +478,7 @@
                         <p class="fs-6 mb-0 me-3"> Access XDC API and SDK documentation to build decentralized applications (dApps) with ease. Deploy smart contracts, interact with the network, and unlock the power of blockchain innovation. </p>
                         <a href="https://apidocs.xinfin.network/docs/#xinfin-apis" target="_blank" class="btn socialHead-button mt-auto">
                             Access Documentation 
-                            <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <svg class="w-6 h-6 icon ml-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                             </svg>
                         </a>
@@ -671,13 +677,13 @@
                             <div class="xdcFuture-links text-center text-md-start text-lg-start mt-2">
                                 <a href="https://xdcscan.io/" target="_blank" class="btn socialHead-button me-4">
                                     XDC Explorer
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    <svg class="w-6 h-6 icon ml-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                     </svg>
                                 </a>
                                 <a href="https://stats1.xinfin.network" target="_blank" class="btn socialHead-button pe-4">
                                     XDC Network Status
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    <svg class="w-6 h-6 icon ml-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                     </svg>
                                 </a>
@@ -779,13 +785,13 @@
                             <div class="xdcFuture-links text-center text-md-start text-lg-start mt-2">
                                 <a href="get-xdc" class="btn socialHead-button internalLink pe-4 me-4">
                                     Get XDC
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    <svg class="w-6 h-6 icon ml-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                     </svg>
                                 </a>
                                 <a href="wallets" class="btn socialHead-button internalLink pe-4">
                                     Wallets
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    <svg class="w-6 h-6 icon ml-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                     </svg>
                                 </a>
@@ -832,7 +838,7 @@
                                 <div class="socialHead"><i class="fas fa-paper-plane"></i>Telegram</div>
                                 <a href="https://t.me/XDC_Network_Updates" target="_blank" class="btn socialHead-button">
                                     Join discussion
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    <svg class="w-6 h-6 icon ml-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                     </svg>
                                 </a>
@@ -845,7 +851,7 @@
                                 <div class="socialHead"><i class="fab fa-twitter"></i>Twitter</div>
                                 <a href="https://x.com/XDCNetwork" target="_blank" class="btn socialHead-button">
                                     Follow
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    <svg class="w-6 h-6 icon ml-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                     </svg>
                                 </a>
@@ -858,7 +864,7 @@
                                 <div class="socialHead"><i class="fab fa-reddit-alien"></i>Reddit</div>
                                 <a href="https://www.reddit.com/r/xinfin/" target="_blank" class="btn socialHead-button">
                                     Dive in
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    <svg class="w-6 h-6 icon ml-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                     </svg>
                                 </a>
@@ -871,7 +877,7 @@
                                 <div class="socialHead"><i class="fab fa-github"></i>GitHub</div>
                                 <a href="https://github.com/XinFinorg" target="_blank" class="btn socialHead-button">
                                     Build with us
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    <svg class="w-6 h-6 icon ml-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                     </svg>
                                 </a>
@@ -884,7 +890,7 @@
                                 <div class="socialHead"><i class="fab fa-medium"></i>Medium</div>
                                 <a href="https://medium.com/xdcnetwork" target="_blank" class="btn socialHead-button">
                                     Follow
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    <svg class="w-6 h-6 icon ml-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                     </svg>
                                 </a>
@@ -897,7 +903,7 @@
                                 <div class="socialHead"><i class="fab fa-discord"></i>Developers Forum</div>
                                 <a href="https://xdc.dev/" target="_blank" class="btn socialHead-button">
                                     Get involved
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                    <svg class="w-6 h-6 icon ml-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                     </svg>
                                 </a>

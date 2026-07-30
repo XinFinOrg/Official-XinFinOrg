@@ -519,6 +519,42 @@
                 ]
                 },
 
+                /* ---------- WHAT IS X402 ---------- */
+                {
+                "@type": "WebPage",
+                "@id": "https://xinfin.org/what-is-x402",
+                "url": "https://xinfin.org/what-is-x402",
+                "name": "What is x402? | Payment Protocol for AI Agents on XDC",
+                "isPartOf": {
+                    "@id": "https://xinfin.org/#website"
+                },
+                "about": {
+                    "@id": "https://xinfin.org/#organization"
+                },
+                "breadcrumb": {
+                    "@id": "https://xinfin.org/#breadcrumb-what-is-x402"
+                },
+                "inLanguage": "en"
+                },
+                {
+                "@type": "BreadcrumbList",
+                "@id": "https://xinfin.org/#breadcrumb-what-is-x402",
+                "itemListElement": [
+                    {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://xinfin.org/"
+                    },
+                    {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "XDC Network FAQs",
+                    "item": "https://xinfin.org/what-is-x402"
+                    }
+                ]
+                },
+
                 /* ---------- CUSTODY SERVICES INTEGRATION ---------- */
                 {
                 "@type": "WebPage",
@@ -599,8 +635,8 @@
                     <div class="container d-flex align-items-center justify-content-between">
                         <div class="logo-wrapper">
                             <a class="navbar-brand" href="https://xinfin.org/">
-                                <img src="<?php echo base_url() ; ?>/assets/images/xdc-network-logo-white.svg" class="logo-white img-responsive" width="150" />
-                                <img src="<?php echo base_url() ; ?>/assets/images/xdc-network-logo.svg" class="logo-dark img-responsive" width="150" />
+                                <img src="<?php echo base_url() ; ?>/assets/images/xdc-network-logo-white.svg" class="logo-white img-responsive" width="150" alt="XDC Network logo" />
+                                <img src="<?php echo base_url() ; ?>/assets/images/xdc-network-logo.svg" class="logo-dark img-responsive" width="150" alt="XDC Network logo" />
                             </a>
                         </div>
                         <div class="menu-wrapper d-flex flex-column">
@@ -720,7 +756,8 @@
                         <div class="mobile-nav">
                             <div class="logo-wrapper">
                                 <a class="navbar-brand" href="https://xinfin.org/">
-                                    <img src="<?php echo base_url() ; ?>/assets/images/xdc-network-logo-white.svg" class="logo-dark img-responsive" width="150">                                    
+                                    <img src="<?php echo base_url() ; ?>/assets/images/xdc-network-logo-white.svg" class="logo-white img-responsive" width="150" alt="XDC Network logo" />
+                                    <img src="<?php echo base_url() ; ?>/assets/images/xdc-network-logo-white.svg" class="logo-dark img-responsive" width="150" alt="XDC Network logo" />
                                 </a>
                             </div>
                             <button type="button" class="close-nav">
