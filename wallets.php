@@ -770,6 +770,14 @@
                               </a>
                            </div>
                         </div>
+                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 col-6">
+                           <div>
+                              <a href="https://www.zand.ae/en" target="_blank">
+                              	<img src="assets/images/wallets/custodian/zand-bank.svg" class="img-fluid iconD" alt="zand.ae" >
+                                 <img src="assets/images/wallets/custodian/zand-bank-light.svg" class="img-fluid iconL" alt="zand.ae" >
+                              </a>
+                           </div>
+                        </div>
                      </div>
                   </div>
                </div>
