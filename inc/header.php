@@ -618,8 +618,8 @@
         <header class="autohide header-wrapper sticky-header">
             <div class="news-bar">
                 <p>
-                    Join XDC Network at <b>Agentic Payments & Treasury Summit Singapore</b> : August 7, 2026.
-                    <a href="https://key.ai/agentic-payments-treasury-summit-2026" target="_blank" class="news-bar-button">
+                    Join XDC Network at <b>Blockchain Leaders 2026 by Blockchain RIO</b> : August 11, 2026.
+                    <a href="https://blockchainrio.com.br/leaders" target="_blank" class="news-bar-button">
                         JOIN US
                         <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
