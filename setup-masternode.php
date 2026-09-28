@@ -214,7 +214,7 @@
                 <div class="card h-100 overflow-hidden pt-4 pb-4 px-3 bg-light75 br-20 border-0">
                     <div class="card-info text-center w-100">
                         <p class="fw-500 fs-6">Total XDC Locked</p>
-                        <div class="fw-600 lh-1 fs-2 mb-3"><span class="counter-api counter" id="tvl">3340.92</span> <span id="tvltext">M</span></div>
+                        <div class="fw-600 lh-1 fs-2 mb-3"><span class="counter-api counter" id="tvl">3491</span> <span id="tvltext">M</span></div>
                         <p class="fw-500 fs-7 mb-0">XDC</p>
                     </div>
                 </div>

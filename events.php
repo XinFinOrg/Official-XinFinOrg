@@ -102,6 +102,112 @@
             <div class="col-lg-12">
                 <div class="row justify-content-center">                    
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
+                        <a href="https://luma.com/Unlockingvelocity" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
+                            <div class="">
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/unlocking-velocity-in-trade-to-payments.avif" type="image/avif" class="img-fluid" alt="Unlocking Velocity in Trade to Payments - Sibos Miami 2026">
+                                    <source srcset="assets/images/inside-page/events/unlocking-velocity-in-trade-to-payments.webp" type="image/webp" class="img-fluid" alt="Unlocking Velocity in Trade to Payments - Sibos Miami 2026">
+                                    <source srcset="assets/images/inside-page/events/unlocking-velocity-in-trade-to-payments.jpg" type="image/jpg" class="img-fluid" alt="Unlocking Velocity in Trade to Payments - Sibos Miami 2026">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/unlocking-velocity-in-trade-to-payments.jpg" class="img-fluid" alt="Unlocking Velocity in Trade to Payments - Sibos Miami 2026">
+                                </picture>
+                                <div class="ftr-arrow">
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                            	</div>
+                            </div>
+                            <div class="events-card_content-wrapper">
+                                <div class="events-card_content">
+                                    <h4 class="card-infoHead">Unlocking Velocity in Trade to Payments - Sibos Miami 2026</h4>
+                                    <div class="events-card_details-wrapper card-info">
+                                        <div class="events-card_details">
+                                            <div class="icon-1x1-small">
+                                                <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M10.6667 1.83337V4.50004M5.33333 1.83337V4.50004M2 7.16671H14M3.33333 3.16671H12.6667C13.403 3.16671 14 3.76366 14 4.50004V13.8334C14 14.5698 13.403 15.1667 12.6667 15.1667H3.33333C2.59695 15.1667 2 14.5698 2 13.8334V4.50004C2 3.76366 2.59695 3.16671 3.33333 3.16671Z" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                </svg>
+                                            </div>
+                                            <div class="events-card_date-wrapper">
+                                                <p class="mb-0">Sept 29, 2026</p>
+                                            </div>
+                                        </div>
+                                        <div class="events-card_details-subwrapper">
+                                            <div class="events-card_details">
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 512 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                                    	<path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">7:30 AM - 9:30 AM EDT</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">Miami Beach, United States</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
+                        <a href="https://luma.com/tnotpk0e" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
+                            <div class="">
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/contour-showcase-a-convergent-future.avif" type="image/avif" class="img-fluid" alt="Contour Showcase | A convergent future: Digital Trade, Payments Optionality, Global Standards and AI">
+                                    <source srcset="assets/images/inside-page/events/contour-showcase-a-convergent-future.webp" type="image/webp" class="img-fluid" alt="Contour Showcase | A convergent future: Digital Trade, Payments Optionality, Global Standards and AI">
+                                    <source srcset="assets/images/inside-page/events/contour-showcase-a-convergent-future.jpg" type="image/jpg" class="img-fluid" alt="Contour Showcase | A convergent future: Digital Trade, Payments Optionality, Global Standards and AI">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/contour-showcase-a-convergent-future.jpg" class="img-fluid" alt="Contour Showcase | A convergent future: Digital Trade, Payments Optionality, Global Standards and AI">
+                                </picture>
+                                <div class="ftr-arrow">
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                            	</div>
+                            </div>
+                            <div class="events-card_content-wrapper">
+                                <div class="events-card_content">
+                                    <h4 class="card-infoHead">Contour Showcase | A convergent future: Digital Trade, Payments Optionality, Global Standards and AI</h4>
+                                    <div class="events-card_details-wrapper card-info">
+                                        <div class="events-card_details">
+                                            <div class="icon-1x1-small">
+                                                <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M10.6667 1.83337V4.50004M5.33333 1.83337V4.50004M2 7.16671H14M3.33333 3.16671H12.6667C13.403 3.16671 14 3.76366 14 4.50004V13.8334C14 14.5698 13.403 15.1667 12.6667 15.1667H3.33333C2.59695 15.1667 2 14.5698 2 13.8334V4.50004C2 3.76366 2.59695 3.16671 3.33333 3.16671Z" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                </svg>
+                                            </div>
+                                            <div class="events-card_date-wrapper">
+                                                <p class="mb-0">Oct 1, 2026</p>
+                                            </div>
+                                        </div>
+                                        <div class="events-card_details-subwrapper">
+                                            <div class="events-card_details">
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 512 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                                    	<path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">1:30 AM - 2:30 AM EDT</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">Miami Beach, United States</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://luma.com/1p7x46z1" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
                             <div class="">
                                 <picture>
@@ -153,15 +259,16 @@
                             </div>
                         </a>
                     </div>
+
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://luma.com/y3ws5eqw" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
                             <div class="">
                                 <picture>
-                                    <source srcset="assets/images/inside-page/events/institutional-investors-&-family-office.avif" type="image/avif" class="img-fluid" alt="Institutional Investors & Family Office C-Suite Panel Discussion & Luncheon">
-                                    <source srcset="assets/images/inside-page/events/institutional-investors-&-family-office.webp" type="image/webp" class="img-fluid" alt="Institutional Investors & Family Office C-Suite Panel Discussion & Luncheon">
-                                    <source srcset="assets/images/inside-page/events/institutional-investors-&-family-office.jpg" type="image/jpg" class="img-fluid" alt="Institutional Investors & Family Office C-Suite Panel Discussion & Luncheon">
+                                    <source srcset="assets/images/inside-page/events/institutional-investors-&-family-office-c-suite-panel-discussion-&-luncheon.avif" type="image/avif" class="img-fluid" alt="Institutional Investors & Family Office C-Suite Panel Discussion & Luncheon">
+                                    <source srcset="assets/images/inside-page/events/institutional-investors-&-family-office-c-suite-panel-discussion-&-luncheon.webp" type="image/webp" class="img-fluid" alt="Institutional Investors & Family Office C-Suite Panel Discussion & Luncheon">
+                                    <source srcset="assets/images/inside-page/events/institutional-investors-&-family-office-c-suite-panel-discussion-&-luncheon.jpg" type="image/jpg" class="img-fluid" alt="Institutional Investors & Family Office C-Suite Panel Discussion & Luncheon">
                                     <!-- D: Fallback -->
-                                    <img src="assets/images/inside-page/events/institutional-investors-&-family-office.jpg" class="img-fluid" alt="Institutional Investors & Family Office C-Suite Panel Discussion & Luncheon">
+                                    <img src="assets/images/inside-page/events/institutional-investors-&-family-office-c-suite-panel-discussion-&-luncheon.jpg" class="img-fluid" alt="Institutional Investors & Family Office C-Suite Panel Discussion & Luncheon">
                                 </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -205,6 +312,60 @@
                             </div>
                         </a>
                     </div>
+
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
+                        <a href="https://luma.com/dnonqx1u" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
+                            <div class="">
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/payments-treasury-and-tokenization-summit-2026-by-8-circle-xdc-pwc-and-microsoft.avif" type="image/avif" class="img-fluid" alt="Payments, Treasury and Tokenization Summit 2026 by 8 Circle, XDC, PWC and Microsoft">
+                                    <source srcset="assets/images/inside-page/events/payments-treasury-and-tokenization-summit-2026-by-8-circle-xdc-pwc-and-microsoft.webp" type="image/webp" class="img-fluid" alt="Payments, Treasury and Tokenization Summit 2026 by 8 Circle, XDC, PWC and Microsoft">
+                                    <source srcset="assets/images/inside-page/events/payments-treasury-and-tokenization-summit-2026-by-8-circle-xdc-pwc-and-microsoft.jpg" type="image/jpg" class="img-fluid" alt="Payments, Treasury and Tokenization Summit 2026 by 8 Circle, XDC, PWC and Microsoft">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/payments-treasury-and-tokenization-summit-2026-by-8-circle-xdc-pwc-and-microsoft.jpg" class="img-fluid" alt="Payments, Treasury and Tokenization Summit 2026 by 8 Circle, XDC, PWC and Microsoft">
+                                </picture>
+                                <div class="ftr-arrow">
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                            	</div>
+                            </div>
+                            <div class="events-card_content-wrapper">
+                                <div class="events-card_content">
+                                    <h4 class="card-infoHead">Payments, Treasury and Tokenization Summit 2026 by 8 Circle, XDC, PWC and Microsoft</h4>
+                                    <div class="events-card_details-wrapper card-info">
+                                        <div class="events-card_details">
+                                            <div class="icon-1x1-small">
+                                                <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M10.6667 1.83337V4.50004M5.33333 1.83337V4.50004M2 7.16671H14M3.33333 3.16671H12.6667C13.403 3.16671 14 3.76366 14 4.50004V13.8334C14 14.5698 13.403 15.1667 12.6667 15.1667H3.33333C2.59695 15.1667 2 14.5698 2 13.8334V4.50004C2 3.76366 2.59695 3.16671 3.33333 3.16671Z" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                </svg>
+                                            </div>
+                                            <div class="events-card_date-wrapper">
+                                                <p class="mb-0">Oct 8, 2026</p>
+                                            </div>
+                                        </div>
+                                        <div class="events-card_details-subwrapper">
+                                            <div class="events-card_details">
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 512 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                                    	<path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">8:30 AM - 12:00 PM GMT+8</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">Singapore</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
                 </div>
             </div>
         </div>
@@ -2924,7 +3085,111 @@
         
         <div class="row row-flex mt-4">
             <div class="col-lg-12">
-                <div class="row justify-content-center">
+                <div class="row justify-content-center">                    
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
+                        <a href="https://luma.com/1p7x46z1" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
+                            <div class="">
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/digital-assets-c-suite.avif" type="image/avif" class="img-fluid" alt="Digital Assets C-Suite Panel Discussion & Luncheon">
+                                    <source srcset="assets/images/inside-page/events/digital-assets-c-suite.webp" type="image/webp" class="img-fluid" alt="Digital Assets C-Suite Panel Discussion & Luncheon">
+                                    <source srcset="assets/images/inside-page/events/digital-assets-c-suite.jpg" type="image/jpg" class="img-fluid" alt="Digital Assets C-Suite Panel Discussion & Luncheon">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/digital-assets-c-suite.jpg" class="img-fluid" alt="Digital Assets C-Suite Panel Discussion & Luncheon">
+                                </picture>
+                                <div class="ftr-arrow">
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                            	</div>
+                            </div>
+                            <div class="events-card_content-wrapper">
+                                <div class="events-card_content">
+                                    <h4 class="card-infoHead">Digital Assets C-Suite Panel Discussion & Luncheon</h4>
+                                    <div class="events-card_details-wrapper card-info">
+                                        <div class="events-card_details">
+                                            <div class="icon-1x1-small">
+                                                <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M10.6667 1.83337V4.50004M5.33333 1.83337V4.50004M2 7.16671H14M3.33333 3.16671H12.6667C13.403 3.16671 14 3.76366 14 4.50004V13.8334C14 14.5698 13.403 15.1667 12.6667 15.1667H3.33333C2.59695 15.1667 2 14.5698 2 13.8334V4.50004C2 3.76366 2.59695 3.16671 3.33333 3.16671Z" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                </svg>
+                                            </div>
+                                            <div class="events-card_date-wrapper">
+                                                <p class="mb-0">Oct 6, 2026</p>
+                                            </div>
+                                        </div>
+                                        <div class="events-card_details-subwrapper">
+                                            <div class="events-card_details">
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 512 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                                    	<path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">12:00 PM - 2:00 PM GMT+8</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">Singapore</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
+                        <a href="https://luma.com/y3ws5eqw" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
+                            <div class="">
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/institutional-investors-&-family-office.avif" type="image/avif" class="img-fluid" alt="Institutional Investors & Family Office C-Suite Panel Discussion & Luncheon">
+                                    <source srcset="assets/images/inside-page/events/institutional-investors-&-family-office.webp" type="image/webp" class="img-fluid" alt="Institutional Investors & Family Office C-Suite Panel Discussion & Luncheon">
+                                    <source srcset="assets/images/inside-page/events/institutional-investors-&-family-office.jpg" type="image/jpg" class="img-fluid" alt="Institutional Investors & Family Office C-Suite Panel Discussion & Luncheon">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/institutional-investors-&-family-office.jpg" class="img-fluid" alt="Institutional Investors & Family Office C-Suite Panel Discussion & Luncheon">
+                                </picture>
+                                <div class="ftr-arrow">
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                            	</div>
+                            </div>
+                            <div class="events-card_content-wrapper">
+                                <div class="events-card_content">
+                                    <h4 class="card-infoHead">Institutional Investors & Family Office C-Suite Panel Discussion & Luncheon</h4>
+                                    <div class="events-card_details-wrapper card-info">
+                                        <div class="events-card_details">
+                                            <div class="icon-1x1-small">
+                                                <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M10.6667 1.83337V4.50004M5.33333 1.83337V4.50004M2 7.16671H14M3.33333 3.16671H12.6667C13.403 3.16671 14 3.76366 14 4.50004V13.8334C14 14.5698 13.403 15.1667 12.6667 15.1667H3.33333C2.59695 15.1667 2 14.5698 2 13.8334V4.50004C2 3.76366 2.59695 3.16671 3.33333 3.16671Z" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                </svg>
+                                            </div>
+                                            <div class="events-card_date-wrapper">
+                                                <p class="mb-0">Oct 7, 2026</p>
+                                            </div>
+                                        </div>
+                                        <div class="events-card_details-subwrapper">
+                                            <div class="events-card_details">
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 512 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                                    	<path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">12:00 PM - 2:00 PM GMT+8</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">Singapore</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>                    
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://luma.com/tz7yn2ci" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
