@@ -133,8 +133,55 @@
 </section>
 <!-- Architecture Ends -->
 
-<!-- Guides Starts -->
+<!-- Interoperability and Mainnet Checkpointing Starts -->
 <section class="px-80 bg-lightgray">
+    <div class="container p-relative">
+        <div class="row align-items-center">
+            <div class="col-lg-12">
+                <h3 class="title-m mb-3">Interoperability and Mainnet Checkpointing</h3>
+                <div class="subtitle subtitle-s mb-3">
+                    The relayer and Mainnet checkpoint contract shown above are what link a subnet's private activity to a public point of reference. Here is how that link works in practice, and how XDC Zero builds on it to move messages and assets between a subnet and XDC Mainnet.
+                </div>
+                <div class="subtitle subtitle-s mb-3">
+                    An XDC Subnet can operate with its own validators, governance, and access controls while keeping application transactions within its permissioned environment. A relayer can periodically submit subnet consensus data to a checkpoint contract on XDC Mainnet, creating a public record for integrity checks without publishing the underlying private transactions.
+                </div>
+                <div class="subtitle subtitle-s mb-3">
+                    <span class="fw-600">XDC Zero</span> supports communication between a subnet and XDC Mainnet. Endpoint contracts send and receive cross-chain messages; a relayer carries message payloads, while an oracle supplies block-header data used in validation. Applications can use this framework to coordinate data exchange or asset transfers. Checkpointing and cross-chain execution serve different purposes, and each deployment must define its own verification and operational policies.
+                </div>
+                <div class="subtitle subtitle-s mb-4">
+                    The proposed <span class="fw-600">XIM (XDC Interoperability Messaging)</span> research extends this approach to heterogeneous blockchains, institutional ledgers, and authenticated financial gateways. It specifies canonical messages and verification policies for each connection. Under this proposed model, XDC Mainnet could serve as a coordination, checkpointing, or settlement domain when a workflow requires it, without requiring every message to pass through XDC.
+                </div>
+                <div class="subtitle subtitle-s fw-600 mb-0">
+                    Technical references:
+                </div>
+                <div class="xdcFuture-links text-center text-md-start text-lg-start mt-2">
+                    <a href="https://docs.xdc.network/subnet/components/xdc_zero/" target="_blank" class="btn socialHead-button me-4">
+                        XDC Zero documentation
+                        <svg class="w-6 h-6 icon ml-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                        </svg>
+                    </a>
+                    <a href="https://docs.xdc.network/subnet/overview/" target="_blank" class="btn socialHead-button pe-4">
+                        XDC Subnet architecture
+                        <svg class="w-6 h-6 icon ml-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                        </svg>
+                    </a>
+                    <a href="https://arxiv.org/abs/2108.01420" target="_blank" class="btn socialHead-button pe-4">
+                        XDC 2.0 consensus paper
+                        <svg class="w-6 h-6 icon ml-5" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </div>        
+    </div>
+</section>
+<!-- Interoperability and Mainnet Checkpointing Ends -->
+
+<!-- Guides Starts -->
+<section class="px-80">
     <div class="container p-relative">
         <div class="row pb-5">
             <div class="col-lg-10 offset-lg-1 mb-0">
@@ -147,7 +194,7 @@
         <div class="row align-items-center pb-5">
             <div class="col-lg-6">
                 <div class="col-lg-12 mt-2 mb-2">
-                    <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                    <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                         <div class="card-info">
                             <div class="card-infoHead mb-2">Docker Setup</div>
                             <p class="fs-6 mt-3 mb-0">Setting up XDC subnet using Docker is a convenient way to deploy and manage your subnet.</p>
@@ -161,7 +208,7 @@
                     </div>
                 </div>
                 <div class="col-lg-12 mt-2 mb-2">
-                    <div class="h-100 card p-4 bg-light75 br-20 border-0">
+                    <div class="h-100 card p-4 bg-lightgray br-20 border-0">
                         <div class="card-info">
                             <div class="card-infoHead mb-2">Community Support</div>
                             <p class="fs-6 mt-3 mb-0">For any question on setting up your XDC Subnet, post on XDC developers forum.</p>
@@ -193,7 +240,7 @@
         </div>
         <div class="row justify-content-center">
             <div class="col-lg-6 col-md-6">
-                <div class="h-100 card p-3 bg-light75 br-20 border-0">
+                <div class="h-100 card p-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="card-infoHead mt-3 mb-4">Setting Up Your Own XDC-Subnet</div>
                         <div class="tutorial container text-center ratio ratio-16x9">
@@ -203,7 +250,7 @@
                 </div>
             </div>
             <div class="col-lg-6 col-md-6">
-                <div class="h-100 card p-3 bg-light75 br-20 border-0">
+                <div class="h-100 card p-3 bg-lightgray br-20 border-0">
                     <div class="card-info">
                         <div class="card-infoHead mt-3 mb-4">Introducing the XDC Subnet</div>
                         <div class="tutorial container text-center ratio ratio-16x9">
@@ -217,7 +264,7 @@
 </section>
 <!-- Guides Ends -->
 
-<section class="px-80 pb-4">
+<section class="bg-lightgray px-80">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-7 mb-5">
@@ -232,11 +279,11 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-3 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://www.sbivc.co.jp/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-4 p-5 bg-light75 br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/sbivcjapan-light.svg" class="center logoFs img-fluid iconL" alt="sbivc.co.jp">
                                     <img src="assets/images/inside-page/masternode/sbivcjapan.svg" class="center logoFs img-fluid iconD" alt="sbivc.co.jp">
-                                    <p class="card-info-desc fs-7 br-20 mb-0">SBI VC Japan</p>
+                                    <p class="card-info-desc bg-lightgray fs-7 br-20 mb-0">SBI VC Japan</p>
                                 </div>
                             </div>
                         </a>
@@ -244,10 +291,10 @@
 
                     <div class="col-lg-3 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://www.telekom.com/en" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-4 p-5 bg-light75 br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/deutsche-telekom.svg" class="center logoFs img-fluid" alt="telekom.com">
-                                    <p class="card-info-desc fs-7 br-20 mb-0">Deutsche Telekom</p>
+                                    <p class="card-info-desc bg-lightgray fs-7 br-20 mb-0">Deutsche Telekom</p>
                                 </div>
                             </div>
                         </a>
@@ -255,11 +302,11 @@
 
                     <div class="col-lg-3 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://www.contour.network/" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-4 p-5 bg-light75 br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/contour-light.svg" class="center logoFs img-fluid iconL" alt="contour.network">
                                     <img src="assets/images/inside-page/masternode/contour.svg" class="center logoFs img-fluid iconD" alt="contour.network">
-                                    <p class="card-info-desc fs-7 br-20 mb-0">Contour</p>
+                                    <p class="card-info-desc bg-lightgray fs-7 br-20 mb-0">Contour</p>
                                 </div>
                             </div>
                         </a>
@@ -267,11 +314,11 @@
 
                     <div class="col-lg-3 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://kenyanwallstreet.com/zanzibar-launches-national-blockchain-network-sandbox-for-global-innovators-corporates-and-governments" target="_blank">
-                            <div class="h-100 card px-4 p-5 bg-lightgray br-20 border-0">
+                            <div class="h-100 card px-4 p-5 bg-light75 br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/zanzibar-blockchain-network-light.svg" class="center logoFs img-fluid iconL" alt="Zanzibar National Blockchain Network">
                                     <img src="assets/images/inside-page/masternode/zanzibar-blockchain-network.svg" class="center logoFs img-fluid iconD" alt="Zanzibar National Blockchain Network">
-                                    <p class="card-info-desc fs-7 br-20 mb-0">ZANZIBAR NBN</p>
+                                    <p class="card-info-desc bg-lightgray fs-7 br-20 mb-0">ZANZIBAR NBN</p>
                                 </div>
                             </div>
                         </a>
