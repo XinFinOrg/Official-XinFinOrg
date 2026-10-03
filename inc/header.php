@@ -616,7 +616,7 @@
 
         <!-- ============= HEADER ============= -->
         <header class="autohide header-wrapper sticky-header">
-            <div class="news-bar">
+            <!--<div class="news-bar">
                 <p>
                     Join XDC Network at <b>Sibos Miami</b> : 28 September – 1 October 2026.
                     <a href="https://www.sibos.com/" target="_blank" class="news-bar-button">
@@ -627,7 +627,7 @@
                     </a>
                 </p>
                 <span class="closeNews"><i class="fas fa-close"></i></span>
-            </div>
+            </div>-->
 
             <nav class="navbar">
                 <!--<div class="navbar-content d-flex">-->

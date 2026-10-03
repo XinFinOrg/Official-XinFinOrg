@@ -17,28 +17,28 @@
 </section>
 <!-- Hero Home Ends -->
 
-<section class="px-40 mb-5 pt-0">
+<section class="px-40 mb-5 pt-0" style="border-bottom: 2px solid #f3f5f6;">
     <div class="container">
         <div class="row row-flex">
             <div class="col-lg-12">
                 <div class="row justify-content-center">                    
                     
-                    <!--<div class="col-lg-8 col-md-8 mt-2 mb-3">
+                    <div class="col-lg-8 col-md-8 mt-2 mb-3">
                         <div class="events-empty text-center">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="M4.129.5c.4 0 .726.325.726.726v.75c.618-.024 1.324-.024 2.124-.024h2.042c.8 0 1.506 0 2.124.024v-.75a.726.726 0 0 1 1.452 0v.894c.72.136 1.337.391 1.84.895.583.582.833 1.315.95 2.187.113.839.113 1.905.113 3.229V9.02c0 1.323 0 2.39-.113 3.229-.117.871-.367 1.605-.95 2.187-.582.583-1.316.833-2.187.95-.839.113-1.906.113-3.23.113H6.98c-1.323 0-2.39 0-3.23-.113-.87-.117-1.604-.367-2.186-.95-.583-.582-.833-1.316-.95-2.187C.5 11.411.5 10.344.5 9.02V8.432c0-1.324 0-2.39.113-3.23.117-.87.367-1.604.95-2.186.503-.504 1.12-.76 1.84-.895v-.894c0-.401.325-.726.726-.726Zm-1.54 3.541c.268-.268.644-.442 1.354-.538.731-.098 1.7-.1 3.09-.1h1.935c1.389 0 2.358.002 3.089.1.71.096 1.086.27 1.354.538s.442.644.538 1.354c.036.269.059.57.073.911H1.978c.014-.342.037-.642.073-.911.096-.71.27-1.086.538-1.354Zm-.637 3.717v1.21c0 1.389.001 2.358.1 3.089.095.71.27 1.086.537 1.354.268.267.644.442 1.354.538.731.098 1.7.1 3.09.1h1.935c1.389 0 2.358-.002 3.089-.1.71-.096 1.086-.27 1.354-.538s.442-.644.538-1.354c.098-.731.1-1.7.1-3.09v-.483l-.001-.726H1.952Z"></path></svg>
                             <h2 class="subtitle subtitle-s fw-500 text-center mt-3 mb-0">Stay tuned for upcoming events.</h2>
                         </div>
-                    </div>-->
+                    </div>
                     
 
-                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
+                    <!--<div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://www.sibos.com/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
                             <div class="">
                                 <picture>
                                     <source srcset="assets/images/inside-page/events/sibos-miami-2026.avif" type="image/avif" class="img-fluid" alt="Blockchain RIO 2026">
                                     <source srcset="assets/images/inside-page/events/sibos-miami-2026.webp" type="image/webp" class="img-fluid" alt="Blockchain RIO 2026">
                                     <source srcset="assets/images/inside-page/events/sibos-miami-2026.jpg" type="image/jpg" class="img-fluid" alt="Blockchain RIO 2026">
-                                    <!-- D: Fallback -->
+                                    <!-- D: Fallback 
                                     <img src="assets/images/inside-page/events/sibos-miami-2026.jpg" class="img-fluid" alt="Blockchain RIO 2026">
                                 </picture>
                                 <div class="ftr-arrow">
@@ -51,7 +51,6 @@
                                 <div class="events-card_content">
                                     <h4 class="card-infoHead">Sibos Miami</h4>
                                     <div class="events-card_details-wrapper card-info">
-                                        <!--<p class="events-boothNo mb-0">Booth No. G-18</p>-->
                                         <div class="events-card_details">
                                             <div class="icon-1x1-small">
                                                 <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -83,7 +82,7 @@
                                 </div>
                             </div>                            
                         </a>
-                    </div>
+                    </div>-->
                     
                 </div>
             </div>
@@ -100,113 +99,7 @@
         </div>
         <div class="row row-flex mt-4">
             <div class="col-lg-12">
-                <div class="row justify-content-center">                    
-                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://luma.com/Unlockingvelocity" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
-                            <div class="">
-                                <picture>
-                                    <source srcset="assets/images/inside-page/events/unlocking-velocity-in-trade-to-payments.avif" type="image/avif" class="img-fluid" alt="Unlocking Velocity in Trade to Payments - Sibos Miami 2026">
-                                    <source srcset="assets/images/inside-page/events/unlocking-velocity-in-trade-to-payments.webp" type="image/webp" class="img-fluid" alt="Unlocking Velocity in Trade to Payments - Sibos Miami 2026">
-                                    <source srcset="assets/images/inside-page/events/unlocking-velocity-in-trade-to-payments.jpg" type="image/jpg" class="img-fluid" alt="Unlocking Velocity in Trade to Payments - Sibos Miami 2026">
-                                    <!-- D: Fallback -->
-                                    <img src="assets/images/inside-page/events/unlocking-velocity-in-trade-to-payments.jpg" class="img-fluid" alt="Unlocking Velocity in Trade to Payments - Sibos Miami 2026">
-                                </picture>
-                                <div class="ftr-arrow">
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                                    </svg>
-                            	</div>
-                            </div>
-                            <div class="events-card_content-wrapper">
-                                <div class="events-card_content">
-                                    <h4 class="card-infoHead">Unlocking Velocity in Trade to Payments - Sibos Miami 2026</h4>
-                                    <div class="events-card_details-wrapper card-info">
-                                        <div class="events-card_details">
-                                            <div class="icon-1x1-small">
-                                                <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M10.6667 1.83337V4.50004M5.33333 1.83337V4.50004M2 7.16671H14M3.33333 3.16671H12.6667C13.403 3.16671 14 3.76366 14 4.50004V13.8334C14 14.5698 13.403 15.1667 12.6667 15.1667H3.33333C2.59695 15.1667 2 14.5698 2 13.8334V4.50004C2 3.76366 2.59695 3.16671 3.33333 3.16671Z" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                </svg>
-                                            </div>
-                                            <div class="events-card_date-wrapper">
-                                                <p class="mb-0">Sept 29, 2026</p>
-                                            </div>
-                                        </div>
-                                        <div class="events-card_details-subwrapper">
-                                            <div class="events-card_details">
-                                                <div class="icon-1x1-small w-embed">
-                                                    <svg width="16" height="16" viewBox="0 0 512 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                                                    	<path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                    </svg>
-                                                </div>
-                                                <p class="mb-0">7:30 AM - 9:30 AM EDT</p>
-                                                <div class="icon-1x1-small w-embed">
-                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                    </svg>
-                                                </div>
-                                                <p class="mb-0">Miami Beach, United States</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://luma.com/tnotpk0e" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
-                            <div class="">
-                                <picture>
-                                    <source srcset="assets/images/inside-page/events/contour-showcase-a-convergent-future.avif" type="image/avif" class="img-fluid" alt="Contour Showcase | A convergent future: Digital Trade, Payments Optionality, Global Standards and AI">
-                                    <source srcset="assets/images/inside-page/events/contour-showcase-a-convergent-future.webp" type="image/webp" class="img-fluid" alt="Contour Showcase | A convergent future: Digital Trade, Payments Optionality, Global Standards and AI">
-                                    <source srcset="assets/images/inside-page/events/contour-showcase-a-convergent-future.jpg" type="image/jpg" class="img-fluid" alt="Contour Showcase | A convergent future: Digital Trade, Payments Optionality, Global Standards and AI">
-                                    <!-- D: Fallback -->
-                                    <img src="assets/images/inside-page/events/contour-showcase-a-convergent-future.jpg" class="img-fluid" alt="Contour Showcase | A convergent future: Digital Trade, Payments Optionality, Global Standards and AI">
-                                </picture>
-                                <div class="ftr-arrow">
-                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                                    </svg>
-                            	</div>
-                            </div>
-                            <div class="events-card_content-wrapper">
-                                <div class="events-card_content">
-                                    <h4 class="card-infoHead">Contour Showcase | A convergent future: Digital Trade, Payments Optionality, Global Standards and AI</h4>
-                                    <div class="events-card_details-wrapper card-info">
-                                        <div class="events-card_details">
-                                            <div class="icon-1x1-small">
-                                                <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M10.6667 1.83337V4.50004M5.33333 1.83337V4.50004M2 7.16671H14M3.33333 3.16671H12.6667C13.403 3.16671 14 3.76366 14 4.50004V13.8334C14 14.5698 13.403 15.1667 12.6667 15.1667H3.33333C2.59695 15.1667 2 14.5698 2 13.8334V4.50004C2 3.76366 2.59695 3.16671 3.33333 3.16671Z" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                </svg>
-                                            </div>
-                                            <div class="events-card_date-wrapper">
-                                                <p class="mb-0">Oct 1, 2026</p>
-                                            </div>
-                                        </div>
-                                        <div class="events-card_details-subwrapper">
-                                            <div class="events-card_details">
-                                                <div class="icon-1x1-small w-embed">
-                                                    <svg width="16" height="16" viewBox="0 0 512 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                                                    	<path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                    </svg>
-                                                </div>
-                                                <p class="mb-0">1:30 AM - 2:30 AM EDT</p>
-                                                <div class="icon-1x1-small w-embed">
-                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                    </svg>
-                                                </div>
-                                                <p class="mb-0">Miami Beach, United States</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-
+                <div class="row justify-content-center">
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://luma.com/1p7x46z1" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
                             <div class="">
@@ -383,6 +276,59 @@
         <div class="row row-flex mt-4">
             <div class="col-lg-12">
                 <div class="row justify-content-center">                    
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
+                        <a href="https://www.sibos.com/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
+                            <div class="">
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/sibos-miami-2026.avif" type="image/avif" class="img-fluid" alt="Blockchain RIO 2026">
+                                    <source srcset="assets/images/inside-page/events/sibos-miami-2026.webp" type="image/webp" class="img-fluid" alt="Blockchain RIO 2026">
+                                    <source srcset="assets/images/inside-page/events/sibos-miami-2026.jpg" type="image/jpg" class="img-fluid" alt="Blockchain RIO 2026">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/sibos-miami-2026.jpg" class="img-fluid" alt="Blockchain RIO 2026">
+                                </picture>
+                                <div class="ftr-arrow">
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                            	</div>
+                            </div>
+                            <div class="events-card_content-wrapper">
+                                <div class="events-card_content">
+                                    <h4 class="card-infoHead">Sibos Miami</h4>
+                                    <div class="events-card_details-wrapper card-info">
+                                        <!--<p class="events-boothNo mb-0">Booth No. G-18</p>-->
+                                        <div class="events-card_details">
+                                            <div class="icon-1x1-small">
+                                                <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M10.6667 1.83337V4.50004M5.33333 1.83337V4.50004M2 7.16671H14M3.33333 3.16671H12.6667C13.403 3.16671 14 3.76366 14 4.50004V13.8334C14 14.5698 13.403 15.1667 12.6667 15.1667H3.33333C2.59695 15.1667 2 14.5698 2 13.8334V4.50004C2 3.76366 2.59695 3.16671 3.33333 3.16671Z" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                </svg>
+                                            </div>
+                                            <div class="events-card_date-wrapper">
+                                                <p class="mb-0">Sept 28, 2026</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="auto" height="auto" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M5 12.5H19M19 12.5L12 5.5M19 12.5L12 19.5" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">Oct 1, 2026</p>
+                                            </div>
+                                        </div>
+                                        <div class="events-card_details-subwrapper">
+                                            <div class="events-card_details">
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">Miami Beach Convention Center</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>                            
+                        </a>
+                    </div>
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://blockchainrio.com.br/" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
@@ -3086,6 +3032,111 @@
         <div class="row row-flex mt-4">
             <div class="col-lg-12">
                 <div class="row justify-content-center">                    
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
+                        <a href="https://luma.com/Unlockingvelocity" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
+                            <div class="">
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/unlocking-velocity-in-trade-to-payments.avif" type="image/avif" class="img-fluid" alt="Unlocking Velocity in Trade to Payments - Sibos Miami 2026">
+                                    <source srcset="assets/images/inside-page/events/unlocking-velocity-in-trade-to-payments.webp" type="image/webp" class="img-fluid" alt="Unlocking Velocity in Trade to Payments - Sibos Miami 2026">
+                                    <source srcset="assets/images/inside-page/events/unlocking-velocity-in-trade-to-payments.jpg" type="image/jpg" class="img-fluid" alt="Unlocking Velocity in Trade to Payments - Sibos Miami 2026">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/unlocking-velocity-in-trade-to-payments.jpg" class="img-fluid" alt="Unlocking Velocity in Trade to Payments - Sibos Miami 2026">
+                                </picture>
+                                <div class="ftr-arrow">
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                            	</div>
+                            </div>
+                            <div class="events-card_content-wrapper">
+                                <div class="events-card_content">
+                                    <h4 class="card-infoHead">Unlocking Velocity in Trade to Payments - Sibos Miami 2026</h4>
+                                    <div class="events-card_details-wrapper card-info">
+                                        <div class="events-card_details">
+                                            <div class="icon-1x1-small">
+                                                <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M10.6667 1.83337V4.50004M5.33333 1.83337V4.50004M2 7.16671H14M3.33333 3.16671H12.6667C13.403 3.16671 14 3.76366 14 4.50004V13.8334C14 14.5698 13.403 15.1667 12.6667 15.1667H3.33333C2.59695 15.1667 2 14.5698 2 13.8334V4.50004C2 3.76366 2.59695 3.16671 3.33333 3.16671Z" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                </svg>
+                                            </div>
+                                            <div class="events-card_date-wrapper">
+                                                <p class="mb-0">Sept 29, 2026</p>
+                                            </div>
+                                        </div>
+                                        <div class="events-card_details-subwrapper">
+                                            <div class="events-card_details">
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 512 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                                    	<path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">7:30 AM - 9:30 AM EDT</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">Miami Beach, United States</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
+                        <a href="https://luma.com/tnotpk0e" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
+                            <div class="">
+                                <picture>
+                                    <source srcset="assets/images/inside-page/events/contour-showcase-a-convergent-future.avif" type="image/avif" class="img-fluid" alt="Contour Showcase | A convergent future: Digital Trade, Payments Optionality, Global Standards and AI">
+                                    <source srcset="assets/images/inside-page/events/contour-showcase-a-convergent-future.webp" type="image/webp" class="img-fluid" alt="Contour Showcase | A convergent future: Digital Trade, Payments Optionality, Global Standards and AI">
+                                    <source srcset="assets/images/inside-page/events/contour-showcase-a-convergent-future.jpg" type="image/jpg" class="img-fluid" alt="Contour Showcase | A convergent future: Digital Trade, Payments Optionality, Global Standards and AI">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/contour-showcase-a-convergent-future.jpg" class="img-fluid" alt="Contour Showcase | A convergent future: Digital Trade, Payments Optionality, Global Standards and AI">
+                                </picture>
+                                <div class="ftr-arrow">
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                            	</div>
+                            </div>
+                            <div class="events-card_content-wrapper">
+                                <div class="events-card_content">
+                                    <h4 class="card-infoHead">Contour Showcase | A convergent future: Digital Trade, Payments Optionality, Global Standards and AI</h4>
+                                    <div class="events-card_details-wrapper card-info">
+                                        <div class="events-card_details">
+                                            <div class="icon-1x1-small">
+                                                <svg width="auto" height="auto" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M10.6667 1.83337V4.50004M5.33333 1.83337V4.50004M2 7.16671H14M3.33333 3.16671H12.6667C13.403 3.16671 14 3.76366 14 4.50004V13.8334C14 14.5698 13.403 15.1667 12.6667 15.1667H3.33333C2.59695 15.1667 2 14.5698 2 13.8334V4.50004C2 3.76366 2.59695 3.16671 3.33333 3.16671Z" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                </svg>
+                                            </div>
+                                            <div class="events-card_date-wrapper">
+                                                <p class="mb-0">Oct 1, 2026</p>
+                                            </div>
+                                        </div>
+                                        <div class="events-card_details-subwrapper">
+                                            <div class="events-card_details">
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 512 512" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                                    	<path d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">1:30 AM - 2:30 AM EDT</p>
+                                                <div class="icon-1x1-small w-embed">
+                                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path d="M13.727 6.72798C13.727 11.1823 7.99996 15.0003 7.99996 15.0003C7.99996 15.0003 2.27295 11.1823 2.27295 6.72798C2.27295 5.20909 2.87633 3.7524 3.95035 2.67838C5.02437 1.60436 6.48106 1.00098 7.99996 1.00098C9.51885 1.00098 10.9755 1.60436 12.0496 2.67838C13.1236 3.7524 13.727 5.20909 13.727 6.72798Z" stroke="currentColor" stroke-width="1.43175" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    </svg>
+                                                </div>
+                                                <p class="mb-0">Miami Beach, United States</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://luma.com/1p7x46z1" target="_blank" class="events-card h-100 card bg-darkgray br-20 border-0">
                             <div class="">
