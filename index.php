@@ -1,5 +1,5 @@
 <?php
-   $title = "XDC Network | Enterprise layer1 Blockchain for Tokenization, Payments & AI";
+   $title = "XDC Network | Enterprise layer 1 Blockchain for Tokenization, Payments & AI";
    $desc = "XDC Network is an enterprise-grade, EVM-compatible Layer 1 blockchain for real-world asset tokenization, stablecoin payments, trade finance and agentic AI commerce with fast, low-cost settlement.";
 
    include('inc/header.php') ?>
