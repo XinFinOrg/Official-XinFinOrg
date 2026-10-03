@@ -1,6 +1,6 @@
 <?php
-   $title = "Decentralized Smart Contracts Platform";
-   $desc = "The Decentralized and Open Source Smart Contract Platform, Driven by Community for Seamless Execution of Enterprise-Friendly Use Cases such as Trade Finance and Payment.";
+   $title = "XDC Network | Enterprise layer1 Blockchain for Tokenization, Payments & AI";
+   $desc = "XDC Network is an enterprise-grade, EVM-compatible Layer 1 blockchain for real-world asset tokenization, stablecoin payments, trade finance and agentic AI commerce with fast, low-cost settlement.";
 
    include('inc/header.php') ?>
 
@@ -315,8 +315,8 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-10 offset-lg-1 mb-0">
-                <h3 class="title-m text-center">Building Decentralized Solutions</h3>
-                <div class="subtitle subtitle-s text-center">A blockchain network for developers to create the next generation of applications.</div>
+                <h3 class="title-m text-center">Build on XDC</h3>
+                <div class="subtitle subtitle-s text-center">Create EVM-compatible applications for tokenization, stablecoin payments, real-world assets, DeFi, and agentic commerce on fast, low-cost blockchain infrastructure.</div>
                 <div class="btn-block mt-4">
                     <a href="https://xdc.dev/" target="_blank">
                         <button class="btn-blue">Developer Portal</button>
