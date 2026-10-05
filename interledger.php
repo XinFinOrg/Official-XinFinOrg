@@ -1,5 +1,5 @@
 <?php
-    $title = "Interledger (XIM) | XDC Network";
+    $title = "XDC Network | Interledger (XIM)";
     $desc = "XIM, the XDC Interledger Messaging Protocol, is a verification-agnostic messaging and settlement fabric for heterogeneous ledgers, institutional networks, and financial rails.";
 
     include('inc/header.php') ?>
@@ -42,7 +42,7 @@
                     <h1 class="xp-h1">The XDC Interledger Messaging Protocol</h1>
                     <p class="xp-lead">A verification-agnostic messaging and settlement fabric for heterogeneous ledgers, institutional networks, and financial rails.</p>
                     <div class="xp-ctas">
-                        <a href="https://xim-landing-page.vercel.app/paper.pdf" target="_blank"><button class="btn-blue">Read the XIM Paper <svg class="xp-ico" aria-hidden="true"><use href="#xp-ext"/></svg></button></a>
+                        <a href="https://arxiv.org/abs/2609.39310" target="_blank"><button class="btn-blue">Read the XIM Paper <svg class="xp-ico" aria-hidden="true"><use href="#xp-ext"/></svg></button></a>
                         <a href="#protocol"><button class="xp-btn-outline">Explore the Protocol</button></a>
                     </div>
                     <p class="xp-meta xp-mono">XDC Network Research &amp; Engineering · September 2026</p>
@@ -197,7 +197,15 @@
                     <p class="xp-eyebrow">Where it applies</p>
                     <h2 class="xp-h2">One fabric for many kinds of networks and assets</h2>
                 </div>
-                <ul class="xp-chips"><li>Public blockchains</li><li>Permissioned ledgers</li><li>Institutional networks</li><li>Stablecoins</li><li>Tokenized assets</li><li class="is-accent">Trade finance</li><li>ISO 20022-compatible payment workflows</li></ul>
+                <ul class="xp-chips">
+                    <li>Public blockchains</li>
+                    <li>Permissioned ledgers</li>
+                    <li>Institutional networks</li>
+                    <li>Stablecoins</li>
+                    <li>Tokenized assets</li>
+                    <li>Trade finance</li>
+                    <li>ISO 20022-compatible payment workflows</li>
+                </ul>
             </div>
         </div>
     </section>
@@ -242,7 +250,7 @@
                     </li>
                 </ol>
             </div>
-            <p class="xp-rm-foot mt-4"><a class="xp-link" href="https://xim-landing-page.vercel.app/paper.pdf" target="_blank">View the full roadmap in the paper <svg class="xp-ico" aria-hidden="true"><use href="#xp-ext"/></svg></a></p>
+            <p class="xp-rm-foot mt-4"><a class="xp-link" href="https://arxiv.org/abs/2609.39310" target="_blank">View the full roadmap in the paper <svg class="xp-ico" aria-hidden="true"><use href="#xp-ext"/></svg></a></p>
         </div>
     </section>
     <!-- Implementation Roadmap Ends -->
@@ -331,7 +339,7 @@
                     <p>By Atul Khekade, Ritesh Kakkad, Wanwiset Peerapatanapokin and Behnam Mohammadkhani, XDC Network Research &amp; Engineering.</p>
                 </div>
                 <div class="xp-ctas">
-                    <a href="https://xim-landing-page.vercel.app/paper.pdf" target="_blank"><button class="xp-btn-light">Open the Paper <svg class="xp-ico" aria-hidden="true"><use href="#xp-ext"/></svg></button></a>
+                    <a href="https://arxiv.org/abs/2609.39310" target="_blank"><button class="xp-btn-light">Open the Paper <svg class="xp-ico" aria-hidden="true"><use href="#xp-ext"/></svg></button></a>
                     <a href="https://www.xdc.dev/" target="_blank"><button class="xp-btn-outline">XDC Forum</button></a>
                 </div>
             </div>

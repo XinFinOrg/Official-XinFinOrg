@@ -161,7 +161,7 @@
 .xp-thesis { display: grid; grid-template-columns: 1fr 1fr; gap: 20px clamp(40px, 6vw, 88px); align-items: start; }
 .xp-thesis .xp-eyebrow { grid-column: 1 / -1; margin-bottom: 0; }
 .xp-quote { font-size: clamp(28px, 3.4vw, 44px); line-height: 1.14; }
-.xp-thesis-body { font-size: 17px; border-left: 3px solid var(--xp-green); padding-left: 24px; }
+.xp-thesis-body { font-size: 17px; border-left: 2px solid var(--xp-green); padding-left: 24px; }
 
 /* ---------- Concept / feature cards ---------- */
 .xp-cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }

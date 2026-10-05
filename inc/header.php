@@ -483,6 +483,78 @@
                 ]
                 },
 
+                /* ---------- INTERLEDGER ---------- */
+                {
+                "@type": "WebPage",
+                "@id": "https://xinfin.org/interledger",
+                "url": "https://xinfin.org/interledger",
+                "name": "Where to buy XDC",
+                "isPartOf": {
+                    "@id": "https://xinfin.org/#website"
+                },
+                "about": {
+                    "@id": "https://xinfin.org/#organization"
+                },
+                "breadcrumb": {
+                    "@id": "https://xinfin.org/#breadcrumb-interledger"
+                },
+                "inLanguage": "en"
+                },
+                {
+                "@type": "BreadcrumbList",
+                "@id": "https://xinfin.org/#breadcrumb-interledger",
+                "itemListElement": [
+                    {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://xinfin.org/"
+                    },
+                    {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Where to buy XDC",
+                    "item": "https://xinfin.org/interledger"
+                    }
+                ]
+                },
+
+                /* ---------- PRIVACY NETWORK ---------- */
+                {
+                "@type": "WebPage",
+                "@id": "https://xinfin.org/privacy-network",
+                "url": "https://xinfin.org/privacy-network",
+                "name": "Where to buy XDC",
+                "isPartOf": {
+                    "@id": "https://xinfin.org/#website"
+                },
+                "about": {
+                    "@id": "https://xinfin.org/#organization"
+                },
+                "breadcrumb": {
+                    "@id": "https://xinfin.org/#breadcrumb-privacy-network"
+                },
+                "inLanguage": "en"
+                },
+                {
+                "@type": "BreadcrumbList",
+                "@id": "https://xinfin.org/#breadcrumb-privacy-network",
+                "itemListElement": [
+                    {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://xinfin.org/"
+                    },
+                    {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Where to buy XDC",
+                    "item": "https://xinfin.org/privacy-network"
+                    }
+                ]
+                },
+
                 /* ---------- FAQs ---------- */
                 {
                 "@type": "WebPage",

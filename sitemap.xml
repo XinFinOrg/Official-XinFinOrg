@@ -1,212 +1,200 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-
-<url>
-  <loc>https://xinfin.org/</loc>
-  <lastmod>2026-01-15T13:57:21+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/ecosystem-dapps</loc>
-  <lastmod>2026-01-15T13:57:21+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/developers-ecosystem-partners</loc>
-  <lastmod>2026-01-15T13:57:21+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/join-community</loc>
-  <lastmod>2026-01-15T13:57:21+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/community-bounty</loc>
-  <lastmod>2026-01-15T13:57:21+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/events</loc>
-  <lastmod>2026-01-15T13:57:21+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/quick-tools-guide</loc>
-  <lastmod>2026-01-15T13:57:21+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/blockchain-analytics-tools</loc>
-  <lastmod>2026-01-15T13:57:21+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/xdc-accelerator-program</loc>
-  <lastmod>2026-01-15T13:57:21+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/setup-masternode</loc>
-  <lastmod>2026-01-15T13:57:21+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/get-xdc</loc>
-  <lastmod>2026-01-15T13:57:21+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/xdc-payments/r3-corda-bridge.html</loc>
-  <lastmod>2025-03-18T05:46:40+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/about</loc>
-  <lastmod>2026-01-15T13:57:21+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/xdc-payments/</loc>
-  <lastmod>2025-03-18T05:46:40+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/wallets</loc>
-  <lastmod>2026-01-15T13:57:21+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/xdc-subnet</loc>
-  <lastmod>2026-01-15T13:57:21+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/xdpos</loc>
-  <lastmod>2026-01-15T13:57:21+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/docs/whitepaper-tech.pdf</loc>
-  <lastmod>2024-11-22T11:15:56+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/docs/xdc-mica-whitepaper.pdf</loc>
-  <lastmod>2025-09-01T15:58:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/contact</loc>
-  <lastmod>2026-01-15T13:57:21+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/exchange-listing-resource</loc>
-  <lastmod>2026-01-15T13:57:21+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/custody-services-integration</loc>
-  <lastmod>2026-01-15T13:57:21+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/brand-assets</loc>
-  <lastmod>2026-01-15T13:57:21+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/risk-warning-disclaimer</loc>
-  <lastmod>2026-01-15T13:57:21+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/faqs</loc>
-  <lastmod>2026-01-15T13:57:21+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/docs/reports/xdposchain-security-audit-report.pdf</loc>
-  <lastmod>2024-11-22T11:15:56+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/docs/reports/legal-opinion-liechtenstein-bcas-xdc-14jan2021.pdf</loc>
-  <lastmod>2024-11-22T11:15:56+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/docker-setup</loc>
-  <lastmod>2026-01-15T13:57:21+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/xdc-payments/index.html</loc>
-  <lastmod>2025-03-18T05:46:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/xdc-payments/iso-20022-demo-access-new.html</loc>
-  <lastmod>2025-03-18T05:46:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/xdc-payments/bridge-demo-access-new.html</loc>
-  <lastmod>2025-03-18T05:46:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/xdc-payments/the-xdc-network.html?hsLang=en</loc>
-  <lastmod>2025-03-18T05:46:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/xdc-payments/blog/everything-you-need-to-know-about-the-xdc-network.html</loc>
-  <lastmod>2025-03-18T05:46:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/xdc-payments/the-xdc-network.html</loc>
-  <lastmod>2025-03-18T05:46:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/xdc-payments/privacy-policy.html</loc>
-  <lastmod>2025-03-18T05:46:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/xdc-payments/terms-conditions.html</loc>
-  <lastmod>2025-03-18T05:46:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/docs/whitepaper-xdc-gasless-subnet.pdf</loc>
-  <lastmod>2024-11-22T11:15:56+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/xdc-payments/r3-corda-bridge.html?hsLang=en</loc>
-  <lastmod>2025-03-18T05:46:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/xdc-payments/iso-20022-demo-access.html</loc>
-  <lastmod>2025-03-18T05:46:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://xinfin.org/xdc-payments/privacy-policy.html?hsLang=en</loc>
-  <lastmod>2025-03-18T05:46:40+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-
-
+  <url>
+       <loc>https://xinfin.org/</loc>
+       <lastmod>2026-10-05T10:51:19+00:00</lastmod>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/ecosystem-dapps</loc>
+       <lastmod>2026-10-05T10:51:19+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/developers-ecosystem-partners</loc>
+       <lastmod>2026-10-05T10:51:19+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/join-community</loc>
+       <lastmod>2026-10-05T10:51:19+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/community-bounty</loc>
+       <lastmod>2026-10-05T10:51:19+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/events</loc>
+       <lastmod>2026-10-05T10:51:19+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/quick-tools-guide</loc>
+       <lastmod>2026-10-05T10:51:19+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/blockchain-analytics-tools</loc>
+       <lastmod>2026-10-05T10:51:19+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/what-is-x402</loc>
+       <lastmod>2026-10-05T10:51:19+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/xdc-ai</loc>
+       <lastmod>2026-10-05T10:51:19+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/xdc-accelerator-program</loc>
+       <lastmod>2026-10-05T10:51:19+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/setup-masternode</loc>
+       <lastmod>2026-10-05T10:51:19+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/get-xdc</loc>
+       <lastmod>2026-10-05T10:51:19+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/xdc-payments/r3-corda-bridge.html</loc>
+       <lastmod>2025-03-18T05:46:40+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/wallets</loc>
+       <lastmod>2026-10-05T10:51:19+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/xdc-subnet</loc>
+       <lastmod>2026-10-05T10:51:19+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/about</loc>
+       <lastmod>2026-10-05T10:51:19+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/xdpos</loc>
+       <lastmod>2026-10-05T10:51:19+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/docs/whitepaper-tech.pdf</loc>
+       <lastmod>2024-11-22T11:15:56+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/docs/xdc-mica-whitepaper.pdf</loc>
+       <lastmod>2025-09-01T15:58:43+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/contact</loc>
+       <lastmod>2026-10-05T10:51:19+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/exchange-listing-resource</loc>
+       <lastmod>2026-10-05T10:51:19+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/custody-services-integration</loc>
+       <lastmod>2026-10-05T10:51:19+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/brand-assets</loc>
+       <lastmod>2026-10-05T10:51:19+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/risk-warning-disclaimer</loc>
+       <lastmod>2026-10-05T10:51:19+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/faqs</loc>
+       <lastmod>2026-10-05T10:51:19+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/docs/reports/xdposchain-security-audit-report.pdf</loc>
+       <lastmod>2024-11-22T11:15:56+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/docs/reports/legal-opinion-liechtenstein-bcas-xdc-14jan2021.pdf</loc>
+       <lastmod>2024-11-22T11:15:56+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/docs/reports/xdc-network-regulatory-risk-memo-mwe-2022-jul-15-usa.pdf</loc>
+       <lastmod>2026-02-06T12:30:16+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/docs/reports/xdc-token-2024-03-11-europe.pdf</loc>
+       <lastmod>2026-02-07T13:50:07+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/docker-setup</loc>
+       <lastmod>2026-10-05T10:51:19+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/xdc-payments/index.html</loc>
+       <lastmod>2025-03-18T05:46:40+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/xdc-payments/blog/everything-you-need-to-know-about-the-xdc-network.html</loc>
+       <lastmod>2026-09-30T14:20:45+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/xdc-payments/the-xdc-network.html</loc>
+       <lastmod>2025-03-18T05:46:40+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/xdc-payments/privacy-policy.html</loc>
+       <lastmod>2025-03-18T05:46:40+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/xdc-payments/terms-conditions.html</loc>
+       <lastmod>2025-03-18T05:46:40+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/docs/whitepaper-xdc-gasless-subnet.pdf</loc>
+       <lastmod>2024-11-22T11:15:56+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/xdc-payments/iso-20022-demo-access.html</loc>
+       <lastmod>2025-03-18T05:46:40+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://xinfin.org/xdc-payments/js/rss.xml</loc>
+       <lastmod>2025-03-18T05:46:40+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
 </urlset>
