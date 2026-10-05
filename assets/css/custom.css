@@ -296,6 +296,9 @@ section {
 .br-25 {	
 	border-radius: 25px;
 }
+.no-bg {
+    background-color: transparent!important;
+}
 .bg-lb {	
 	background-color: #f2f7fb;
 }

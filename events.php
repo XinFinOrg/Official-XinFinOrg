@@ -17,7 +17,7 @@
 </section>
 <!-- Hero Home Ends -->
 
-<section class="px-40 mb-5 pt-0" style="border-bottom: 2px solid #f3f5f6;">
+<section class="px-40 mb-5 pt-0">
     <div class="container">
         <div class="row row-flex">
             <div class="col-lg-12">
