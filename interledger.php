@@ -43,7 +43,7 @@
                     <p class="xp-lead">A verification-agnostic messaging and settlement fabric for heterogeneous ledgers, institutional networks, and financial rails.</p>
                     <div class="xp-ctas">
                         <a href="https://arxiv.org/abs/2609.39310" target="_blank"><button class="btn-blue">Read the XIM Paper <svg class="xp-ico" aria-hidden="true"><use href="#xp-ext"/></svg></button></a>
-                        <a href="#protocol"><button class="xp-btn-outline">Explore the Protocol</button></a>
+                        <a href="#protocol"><button class="btn-transp-bordered">Explore the Protocol</button></a>
                     </div>
                     <p class="xp-meta xp-mono">XDC Network Research &amp; Engineering · September 2026</p>
                 </div>

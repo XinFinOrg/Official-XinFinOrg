@@ -21,7 +21,9 @@
                         <a href="setup-masternode">Setup Masternode</a><br/>
                         <a href="get-xdc">Get XDC</a><br />
                         <a href="wallets">XDC Wallets</a><br />
-                        <a href="xdc-subnet">XDC Subnet</a>
+                        <a href="xdc-subnet">XDC Subnet</a><br />
+                        <a href="interledger">Interledger</a><br />
+                        <a href="privacy-network">Privacy network</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-6 col-6 mb-4">

@@ -1,9 +1,6 @@
 @charset "utf-8";
 /* ==========================================================================
-   Product pages (interledger, privacy-network)
-   Layout system for long-form product pages. Everything is scoped under .xp
-   and prefixed xp- so it cannot affect other pages. Colours follow the site
-   theme (light / .darkTheme) through the variables below.
+   pages (interledger, privacy-network)
    ========================================================================== */
 
 .xp {
@@ -111,7 +108,7 @@
 .xp p { margin: 0 0 1em; }
 .xp p:last-child { margin-bottom: 0; }
 .xp ul, .xp ol { margin: 0; padding: 0; list-style: none; }
-.xp svg { display: block; }
+/*.xp svg { display: block; }*/
 .xp-ico { width: 18px; height: 18px; flex: none; }
 
 /* ---------- Shared bits ---------- */

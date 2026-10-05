@@ -43,7 +43,7 @@
                     <p class="xp-lead">An XDC Mainnet-like network owned by you, further protected by the Mainnet with total privacy.</p>
                     <div class="xp-ctas">
                         <a href="https://forms.gle/KQxw5DVbrMYrHv5N9" target="_blank"><button class="btn-blue">Contact Us <svg class="xp-ico" aria-hidden="true"><use href="#xp-arrow"/></svg></button></a>
-                        <a href="docs/whitepaper-xdc-gasless-subnet.pdf" target="_blank"><button class="xp-btn-outline">XDC Gasless Subnet Whitepaper</button></a>
+                        <a href="docs/whitepaper-xdc-gasless-subnet.pdf" target="_blank"><button class="btn-transp-bordered">XDC Gasless Subnet Whitepaper</button></a>
                     </div>
                 </div>
                 <div class="xp-visual">
