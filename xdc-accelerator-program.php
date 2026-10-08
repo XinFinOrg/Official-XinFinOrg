@@ -1,5 +1,5 @@
 <?php 
-   $title = "XDC Accelerator Program";
+   $title = "XDC Network | XDC Accelerator Program";
    $desc = "XDC Acceleration Program.";
     
     include('inc/header.php') ?>

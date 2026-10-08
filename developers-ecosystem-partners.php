@@ -1,5 +1,5 @@
 <?php 
-   $title = "Developers Ecosystem Partners";
+   $title = "XDC Network | Developers Ecosystem Partners";
    $desc = "XDC Network Decentralised Developers Ecosystem Partners - Accelerate Your Digital Transformation!";
    
    include('inc/header.php') ?>

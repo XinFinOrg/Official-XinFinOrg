@@ -1,5 +1,5 @@
 <?php
-    $title = "What is x402? | Payment Protocol for AI Agents on XDC";
+    $title = "XDC Network | What is x402? - Payment Protocol for AI Agents on XDC";
 
     $desc = "Learn how x402 lets AI agents pay using the HTTP 402 status code — and why XDC Network's gasless USDC settlement and instant finality power the agent economy.";
 

@@ -1,5 +1,5 @@
 <?php 
-   $title = "Contact XDC Community";
+   $title = "XDC Network | Contact XDC Community";
    $desc = "Join XDC Ecosystem.";
     
     include('inc/header.php') ?>

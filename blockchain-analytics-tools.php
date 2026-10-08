@@ -1,5 +1,5 @@
 <?php 
-    $title = "Blockchain Analytics and Intelligence Tools Supporting XDC Network";
+    $title = "XDC Network | Blockchain Analytics and Intelligence Tools Supporting XDC Network";
     $desc = "Explore the suite of blockchain analytics and intelligence tools compatible with the XDC Network, including partnerships with industry leaders like Blockchain Intelligence Group and Elliptic.";
     
     include('inc/header.php') ?>

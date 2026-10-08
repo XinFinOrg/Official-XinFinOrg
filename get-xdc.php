@@ -1,5 +1,5 @@
 <?php 
-    $title = "Where to buy XDC";
+    $title = "XDC Network | Where to buy XDC";
     $desc = "You can buy XDC from exchanges or from wallets directly. Discover the best exchanges to buy XDC, the native token of the XDC Network.";
     
     include('inc/header.php') ?>

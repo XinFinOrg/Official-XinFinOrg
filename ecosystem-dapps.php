@@ -1,5 +1,5 @@
 <?php 
-    $title = "Ecosystem dApps";
+    $title = "XDC Network | Ecosystem dApps";
     $desc = "Powering the Future of Blockchain - Unleash the Potential of XDC Utility Token!";
     
     include('inc/header.php') ?>

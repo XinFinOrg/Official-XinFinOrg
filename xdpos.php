@@ -1,5 +1,5 @@
 <?php 
-   $title = "XDPoS 2.0";
+   $title = "XDC Network | XDPoS 2.0";
    $desc = "Revolutionizing Trust in the Digital Era";
    
    include('inc/header.php') ?>

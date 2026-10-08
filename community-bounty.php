@@ -1,5 +1,5 @@
 <?php 
-   $title = "XDC Community Bounty";
+   $title = "XDC Network | XDC Community Bounty";
    $desc = "Community Support Bounty Program: Enhancing XDC Network Together";
    
    include('inc/header.php') ?>

@@ -1,5 +1,5 @@
 <?php 
-    $title = "Exchange Listing Resource";
+    $title = "XDC Network | Exchange Listing Resource";
     $desc = "Details require to list XDC Network (MainNet Chain) with exchange.";
     
     include('inc/header.php') ?>

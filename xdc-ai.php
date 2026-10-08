@@ -1,5 +1,5 @@
 <?php 
-    $title = "XDC AI - Payment rails for AI agents";
+    $title = "XDC Network | XDC AI - Payment rails for AI agents";
     $desc = "Give any AI agent a wallet and let it pay for APIs per call in USDC on XDC. Gasless (EIP-3009), no seed phrase, no credit card. Built on the x402 standard.";
     
     include('inc/header.php') ?>

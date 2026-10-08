@@ -1,5 +1,5 @@
 <?php 
-    $title = "XDC Chain Network Tools and Documents";
+    $title = "XDC Network | XDC Chain Network Tools and Documents";
     $desc = "Access network tools and documents for XDC Chain Network";
     
     include('inc/header.php') ?>

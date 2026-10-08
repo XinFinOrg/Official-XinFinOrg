@@ -1,5 +1,5 @@
 <?php 
-    $title = "Custody Services Integration";
+    $title = "XDC Network | Custody Services Integration";
     $desc = "Details require to list XDC Network (MainNet Chain) with exchange.";
     
     include('inc/header.php') ?>

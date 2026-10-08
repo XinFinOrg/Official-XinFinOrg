@@ -1,5 +1,5 @@
 <?php
-    $title = "Risk Warning Disclaimer for XDC Network";
+    $title = "XDC Network | Risk Warning Disclaimer for XDC Network";
     $desc = "Risk Warning Disclaimer for XDC Network.";
 
     include 'inc/header.php'; ?>

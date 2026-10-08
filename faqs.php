@@ -1,5 +1,5 @@
 <?php
-    $title = "XDC Network FAQs";
+    $title = "XDC Network | XDC Network FAQs";
     $desc = "XDC Network Frequently Asked Questions.";
 
     include 'inc/header.php';

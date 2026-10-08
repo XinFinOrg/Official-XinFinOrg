@@ -1,6 +1,6 @@
 <?php 
-   $title = "XDC Community";
-   $desc = "Join XDC Ecosystem.";
+   $title = "XDC Network | Join the XDC Network Community";
+   $desc = "Connect with a global community of developers, businesses, innovators, and blockchain enthusiasts building the future with XDC Network.";
     
     include('inc/header.php') ?>
 

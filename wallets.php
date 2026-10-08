@@ -1,5 +1,5 @@
 <?php 
-   $title = "XDC Wallets";
+   $title = "XDC Network | XDC Wallets";
    $desc = "To begin using XDC, you'll require a wallet—an app designed to hold your XDC and facilitate interactions with other apps on the network.";
    
    include('inc/header.php') ?>

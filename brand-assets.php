@@ -1,5 +1,5 @@
 <?php 
-    $title = "XDC Network Brand Assets";
+    $title = "XDC Network | XDC Network Brand Assets";
     $desc = "We encourage you to use XDC Network brand assets for your project.";
     
     include('inc/header.php') ?>

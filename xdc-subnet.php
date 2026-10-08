@@ -1,5 +1,5 @@
 <?php 
-    $title = "XDC Subnet";
+    $title = "XDC Network | XDC Subnet";
     $desc = "An XDC Mainnet-like network owned by you, further protected by the Mainnet with total privacy.";
    
     include('inc/header.php') ?>

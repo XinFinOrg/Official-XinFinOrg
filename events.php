@@ -1,5 +1,5 @@
 <?php 
-    $title = "Upcoming XDC Network Events";
+    $title = "XDC Network | Upcoming XDC Network Events";
     $desc = "XDC Network has an exciting schedule of upcoming events, offering you the opportunity to meet the XDC community & XDC Ecosystem team in person.";
     
     include('inc/header.php') ?>

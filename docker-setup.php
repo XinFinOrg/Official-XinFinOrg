@@ -1,5 +1,5 @@
 <?php 
-    $title = "XDC Network Docker Setup - Simplifying Masternode Deployment for Everyone!";
+    $title = "XDC Network | XDC Network Docker Setup - Simplifying Masternode Deployment for Everyone!";
     $desc = "Effortless XDC Network Masternode Setup with Docker";
     
     include('inc/header.php') ?>

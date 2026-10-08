@@ -1,5 +1,5 @@
 <?php
-    $title = "XDC Network Masternodes - The Backbone of a Fast, Secure, and Decentralized Network";
+    $title = "XDC Network | XDC Network Masternodes - The Backbone of a Fast, Secure, and Decentralized Network";
     $desc = "XDC Network Masternodes are the pillars of blockchain performance, ensuring high-speed transaction validation, network security, and decentralized governance.";
 
     include 'inc/header.php'; ?>
@@ -214,7 +214,7 @@
                 <div class="card h-100 overflow-hidden pt-4 pb-4 px-3 bg-light75 br-20 border-0">
                     <div class="card-info text-center w-100">
                         <p class="fw-500 fs-6">Total XDC Locked</p>
-                        <div class="fw-600 lh-1 fs-2 mb-3"><span class="counter-api counter" id="tvl">3491</span> <span id="tvltext">M</span></div>
+                        <div class="fw-600 lh-1 fs-2 mb-3"><span class="counter-api counter" id="tvl">3,701</span> <span id="tvltext">M</span></div>
                         <p class="fw-500 fs-7 mb-0">XDC</p>
                     </div>
                 </div>
@@ -620,6 +620,18 @@
                                     <img src="assets/images/inside-page/masternode/clearstreet-light.svg" class="center logoFs img-fluid iconL" alt="clearstreet.io" />
                                     <img src="assets/images/inside-page/masternode/clearstreet.svg" class="center logoFs img-fluid iconD" alt="clearstreet.io" />
                                     <p class="card-info-desc fs-7 br-20 mb-0">Clear Street</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
+                        <a href="https://www.taurushq.com/" target="_blank">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
+                                <div class="card-info text-center">
+                                    <img src="assets/images/inside-page/masternode/taurus-light.svg" class="center logoFs img-fluid iconL" alt="taurushq.com" />
+                                    <img src="assets/images/inside-page/masternode/taurus.svg" class="center logoFs img-fluid iconD" alt="taurushq.com" />
+                                    <p class="card-info-desc fs-7 br-20 mb-0">Taurus</p>
                                 </div>
                             </div>
                         </a>

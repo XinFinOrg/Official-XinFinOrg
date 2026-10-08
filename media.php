@@ -1,5 +1,5 @@
 <?php 
-    $title = "XDC Network in the Media";
+    $title = "XDC Network | XDC Network in the Media";
     $desc = "Stay up to date with the latest news and media coverage featuring XDC Network.";
     
     include('inc/header.php') ?>
