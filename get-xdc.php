@@ -43,7 +43,7 @@
         <div class="row">
             <nav>
                 <div class="nav nav-pills justify-content-center mb-3" id="nav-pills" role="tablist">
-                    <button class="nav-link active" id="nav-exchanges-tab" data-bs-toggle="tab" data-bs-target="#nav-exchanges" type="button" role="tab" aria-controls="nav-exchanges" aria-selected="true">Exchanges <sup>(61)</sup></button>
+                    <button class="nav-link active" id="nav-exchanges-tab" data-bs-toggle="tab" data-bs-target="#nav-exchanges" type="button" role="tab" aria-controls="nav-exchanges" aria-selected="true">Exchanges <sup>(62)</sup></button>
                     <button class="nav-link" id="nav-swap-tab" data-bs-toggle="tab" data-bs-target="#nav-swap" type="button" role="tab" aria-controls="nav-swap" aria-selected="false">Crosschain Swap <sup>(14)</sup></button>
                     <button class="nav-link" id="nav-dex-tab" data-bs-toggle="tab" data-bs-target="#nav-dex" type="button" role="tab" aria-controls="nav-dex" aria-selected="false">DEX <sup>(6)</sup></button>
                 </div>
@@ -57,7 +57,26 @@
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
                                         <div class="exchangeCard-header">
                                             <div class="icon">
-                                                <div class=""><img src="assets/images/exchanges/binance.svg" alt="BiBinance UStrue" /></div>
+                                                <div class=""><img src="assets/images/exchanges/robinhood.svg" alt="Robinhood" /></div>
+                                            </div>
+                                            <div class="desc">
+                                                <div class="card-infoHead">Robinhood</div>
+                                                <p class="exchangeCard-type text-muted mb-0">Centralized Exchange</p>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex gap-3">
+                                            <div class="pairs-tag"><p class="text-muted mb-0">Pairs</p></div>
+                                            <div class="pairs fw-500"><a href="https://robinhood.com/us/en/crypto/XDC/" target="_blank">USD</a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                                <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                                    <div class="exchangeCard-block card-info d-flex flex-column gap-4">
+                                        <div class="exchangeCard-header">
+                                            <div class="icon">
+                                                <div class=""><img src="assets/images/exchanges/binance.svg" alt="Binance US" /></div>
                                             </div>
                                             <div class="desc">
                                                 <div class="card-infoHead">Binance US</div>
@@ -70,7 +89,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div>                            
                             <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
                                 <div class="h-100 card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                                     <div class="exchangeCard-block card-info d-flex flex-column gap-4">
