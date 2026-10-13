@@ -1,30 +1,39 @@
 
 :root{
-  /* --- color: core brand (matches xinfin.org meta-theme-color #0088cc) --- */
-  --blue:        #0088CC;
-  --blue-deep:  #006FA8;
+
+  /* --- brand (same in both themes) --- */
+  --blue:        #0088CC;   /* xinfin primary: buttons, links, icons */
+  --blue-deep:   #006FA8;   /* small blue labels (eyebrows, kickers) */
   --blue-light:  #4FB6EA;
+  --teal:        #16B88A;   /* "paid / settled" accent, used sparingly */
 
-  /* --- color: navy (footer + terminal chrome only) --- */
-  --navy-900:    #071A2E;
-  --navy-800:    #0D2A44;
-  --border-dark: #1B3A57;
-  --line-strong: rgba(10, 37, 64, 0.18);
+  /* --- surfaces --- */
+  --bg:            #f2f7fb;   /* alternating section bg   = custom.css .bg-lb / footer */
+  --surface:       #FFFFFF;   /* cards, chips, strips     = custom.css white cards */
+  --surface-solid: #FFFFFF;   /* opaque surface for controls that sit over content */
 
-  /* --- color: signal accent (settlement / "paid" state), used sparingly --- */
-  --teal:        #16B88A;
+  /* --- lines --- */
+  --border:        #dde6ea;   /* card borders             = custom.css .extStripLink-button */
+  --border-strong: #cfd8dd;   /* section dividers         = custom.css .btn-transp-bordered */
+  --line-strong:   #cfd8dd;   /* outline-button border    = custom.css .btn-transp-bordered */
+  --t-dot:         #dee5ec;   /* terminal window dots */
 
-  /* --- color: light surfaces (mirrors xinfin's white / pale-blue alternation) --- */
-  --bg:          #F5F9FC;
-  --white:       #FFFFFF;
-  --border:      #E1EAF1;
-  --t-dot:       #dee5ec;
+  /* --- text --- */
+  --text:        #2c2c2c;     /* headings + strong text   = custom.css body */
+  --text-muted:  #626262;     /* body copy                = custom.css .subtitle / .card-info p */
+  --text-dark-muted: #90ABC2; /* terminal label (reads on both themes) */
+  --logo-mono:   #000000;     /* single-colour logo badges (Cursor, OpenAI, terminal) */
 
-  /* --- color: text --- */
-  --text:        #16232F;
-  --text-muted:  #5B6B7C;
-  --text-dark:   #EAF4FB;
-  --text-dark-muted: #90ABC2;
+  /* --- blue tints for icon tiles, eyebrow pills, kickers --- */
+  --blue-tint:        rgba(0,136,204,.08);
+  --blue-tint-strong: rgba(0,136,204,.09);
+  --blue-tint-border: rgba(0,136,204,.18);
+  --why-num:          rgba(0,136,204,.22);
+
+  /* --- "coming soon" tag --- */
+  --soon-text:   #A9740F;
+  --soon-bg:     #FBF3DE;
+  --soon-border: rgba(201,143,15,.35);
 
   /* --- type --- */
   --font-display: 'Inter', sans-serif;
@@ -37,9 +46,37 @@
   --radius-m: 14px;
   --radius-l: 22px;
   --shadow-card: 0 2px 6px rgba(10, 37, 64, 0.05), 0 12px 28px -16px rgba(10, 37, 64, 0.12);
-  --shadow-card-dark: 0 1px 0 rgba(255,255,255,.03) inset, 0 20px 40px -20px rgba(0,0,0,.55);
 
   --ease: cubic-bezier(.22,.7,.24,1);
+}
+
+/* Dark theme: values taken from the .darkTheme rules in custom.css */
+.darkTheme{
+  --blue-deep:   #4FB6EA;   /* #006FA8 is too dark to read on navy (2.8:1); this is 6.8:1 */
+
+  --bg:            rgb(28 37 49);           /* = custom.css .darkTheme .bg-lightgray / modal / footer */
+  --surface:       rgba(242,247,251,0.04);  /* = custom.css .darkTheme .bg-light75 / .bg-darkgray */
+  --surface-solid: #252d39;                 /* the same card colour, opaque */
+
+  --border:        #2d3643;                 /* = custom.css .darkTheme .border-top */
+  --border-strong: #3c4552;                 /* = custom.css .darkTheme .card-info .step-num */
+  --line-strong:   #cfd8dd;                 /* site keeps this border on outline buttons in dark */
+  --t-dot:         #3c4552;
+
+  --text:        var(--dt-heading-color);   /* rgba(255,255,255,.95) */
+  --text-muted:  var(--dt-subText-color);   /* #b2b2b2 */
+  --logo-mono:   #FFFFFF;
+
+  --blue-tint:        rgba(0,136,204,.14);
+  --blue-tint-strong: rgba(0,136,204,.16);
+  --blue-tint-border: rgba(0,136,204,.32);
+  --why-num:          rgba(79,182,234,.45);
+
+  --soon-text:   #E8B547;
+  --soon-bg:     rgba(201,143,15,.12);
+  --soon-border: rgba(201,143,15,.4);
+
+  --shadow-card: 0 1px 0 rgba(255,255,255,.03) inset, 0 20px 40px -20px rgba(0,0,0,.55);
 }
 
 
@@ -68,7 +105,7 @@ h1,h2,h3,h4{
 }
 
 .border-t {
-    border-top: 1px solid #cedbe4;
+    border-top: 1px solid var(--border-strong);
 }
 
 .section{
@@ -93,8 +130,8 @@ h1,h2,h3,h4{
   letter-spacing: .06em;
   text-transform: uppercase;
   color: var(--blue-deep);
-  background: rgba(0,136,204,.08);
-  border: 1px solid rgba(0,136,204,.18);
+  background: var(--blue-tint);
+  border: 1px solid var(--blue-tint-border);
   padding: 6px 12px;
   border-radius: 999px;
 }
@@ -155,12 +192,15 @@ section .eyebrow{ margin-bottom: 16px; }
   border-color: var(--border);
 }
 .btn-ghost:hover{ border-color: var(--blue); color: var(--blue-deep); }
+/* matches custom.css .btn-transp-bordered in both themes */
 .btn-outline {
   background: #FFFFFF;
-  color: var(--text);
-  border-color: var(--line-strong);  
+  color: var(--text-muted);
+  border-color: var(--line-strong);
 }
-.btn-outline:hover{ border-color: var(--blue); color: var(--blue); transform: translateY(-1px); box-shadow: 0 8px 20px -8px rgba(0, 136, 204, .5); }
+.btn-outline:hover{ border-color: var(--blue); color: var(--text-muted); transform: translateY(-1px); box-shadow: 0 8px 20px -8px rgba(0, 136, 204, .5); }
+.darkTheme .btn-outline{ background: transparent; color: #cfd8dd; }
+.darkTheme .btn-outline:hover{ border-color: #FFFFFF; color: #FFFFFF; }
 .btn-sm{ padding: 9px 16px; font-size: 13.5px; }
 
 
@@ -169,7 +209,7 @@ section .eyebrow{ margin-bottom: 16px; }
    ========================================================================== */
 .hero{
   position: relative;
-  background: var(--white);
+  background: var(--surface);
   overflow: hidden;
   padding: 68px 0 0;
 }
@@ -231,7 +271,7 @@ section .eyebrow{ margin-bottom: 16px; }
 .hero-visual{ display: flex; flex-direction: column; gap: 20px; }
 .terminal-card{
   position: relative;
-  background: var(--white);
+  background: var(--bg);
   border: 1px solid var(--t-dot);
   border-radius: var(--radius-l);
   box-shadow: var(--shadow-card);
@@ -282,7 +322,7 @@ section .eyebrow{ margin-bottom: 16px; }
   padding: 7px 12px;
   border-radius: 999px;
   color: var(--text-muted);
-  background: var(--white);
+  background: var(--surface);
   border: 1px solid var(--border);
   box-shadow: var(--shadow-card);
 }
@@ -294,7 +334,7 @@ section .eyebrow{ margin-bottom: 16px; }
    Trust / logo strip — real partner marks, mirrors xinfin's marquee row
    ========================================================================== */
 .strip{
-  background: var(--white);
+  background: var(--surface);
   border-top: 1px solid var(--border);
   border-bottom: 1px solid var(--border);
   padding: 26px 0;
@@ -315,7 +355,7 @@ section .eyebrow{ margin-bottom: 16px; }
 }
 .step-card{
   position: relative;
-  background: var(--white);
+  background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius-m);
   padding: 26px 22px 24px;
@@ -350,7 +390,7 @@ section .eyebrow{ margin-bottom: 16px; }
 .funding-section{ background: var(--bg); padding: 90px 0; }
 .funding-grid{ display: grid; grid-template-columns: 1fr 1fr; gap: 22px; }
 .funding-card{
-  background: var(--white);
+  background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius-l);
   padding: 32px 30px;
@@ -363,7 +403,7 @@ section .eyebrow{ margin-bottom: 16px; }
 .funding-icon{
   width: 52px; height: 52px;
   border-radius: 14px;
-  background: rgba(0,136,204,.09);
+  background: var(--blue-tint-strong);
   color: var(--blue-deep);
   display: grid; place-items: center;
   margin-bottom: 22px;
@@ -384,9 +424,9 @@ section .eyebrow{ margin-bottom: 16px; }
 .tag-soon{
   position: absolute; top: 28px; right: 28px;
   font-size: 12px; font-weight: 600;
-  color: #A9740F;
-  border: 1px solid rgba(201,143,15,.35);
-  background: #FBF3DE;
+  color: var(--soon-text);
+  border: 1px solid var(--soon-border);
+  background: var(--soon-bg);
   padding: 5px 13px;
   border-radius: 999px;
 }
@@ -410,7 +450,7 @@ section .eyebrow{ margin-bottom: 16px; }
 .usecase-icon{
   width: 38px; height: 38px;
   border-radius: 10px;
-  background: rgba(0,136,204,.08);
+  background: var(--blue-tint);
   display: grid; place-items: center;
   color: var(--blue);
   margin-bottom: 16px;
@@ -435,7 +475,7 @@ section .eyebrow{ margin-bottom: 16px; }
 .integrate-section{ background: var(--bg); padding: 90px 0; }
 .integrate-grid{ display: grid; grid-template-columns: 1fr 1fr; gap: 22px; }
 .integrate-card{
-  background: var(--white);
+  background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius-l);
   padding: 32px 30px;
@@ -445,7 +485,7 @@ section .eyebrow{ margin-bottom: 16px; }
 .integrate-logos .logo-badge{
   width: 44px; height: 44px;
   border-radius: 12px;
-  background: var(--white);
+  background: var(--surface);
   border: 1px solid var(--border);
   display: grid; place-items: center;
 }
@@ -457,8 +497,8 @@ section .eyebrow{ margin-bottom: 16px; }
   font-size: 12px;
   font-weight: 400;
   color: var(--blue-deep);
-  background: rgba(0,136,204,.08);
-  border: 1px solid rgba(0,136,204,.18);
+  background: var(--blue-tint);
+  border: 1px solid var(--blue-tint-border);
   padding: 1px 12px;
   border-radius: 999px;
   white-space: nowrap;
@@ -477,7 +517,7 @@ section .eyebrow{ margin-bottom: 16px; }
   overflow-x: auto;
 }
 .code-block-white{
-  background: var(--white);
+  background: var(--surface);
 }
 .code-block pre{ margin: 0; white-space: pre; }
 .copy-btn{
@@ -486,7 +526,7 @@ section .eyebrow{ margin-bottom: 16px; }
   width: 28px; height: 28px;
   border-radius: 6px;
   border: 1px solid var(--border);
-  background: var(--white);
+  background: var(--surface-solid);
   color: var(--text-muted);
   display: grid; place-items: center;
   transition: color .15s, border-color .15s, background .15s;
@@ -517,7 +557,7 @@ section .eyebrow{ margin-bottom: 16px; }
   font-weight: 500;
 }
 .chat-bubble.is-agent{
-  background: var(--white);
+  background: var(--surface);
   border: 1px solid var(--border);
   align-self: flex-start;
   color: var(--text);
@@ -577,7 +617,7 @@ section .eyebrow{ margin-bottom: 16px; }
 
 
 .why-card-outer{
-  background: var(--white);
+  background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius-l);
   box-shadow: var(--shadow-card);
@@ -603,14 +643,14 @@ section .eyebrow{ margin-bottom: 16px; }
   font-family: var(--font-display);
   font-size: 22px;
   font-weight: 700;
-  color: rgba(0,136,204,.22);
+  color: var(--why-num);
   flex-shrink: 0;
   width: 44px;
 }
 .why-row-icon{
   width: 48px; height: 48px;
   border-radius: 12px;
-  background: rgba(0,136,204,.09);
+  background: var(--blue-tint-strong);
   color: var(--blue-deep);
   display: grid; place-items: center;
   flex-shrink: 0;
@@ -631,7 +671,7 @@ section .eyebrow{ margin-bottom: 16px; }
 .built-section{ background: var(--bg); padding: 90px 0; }
 .built-grid{ display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
 .built-card{
-  background: var(--white);
+  background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius-m);
   padding: 22px 20px;
@@ -645,7 +685,7 @@ section .eyebrow{ margin-bottom: 16px; }
 .audience-section{ padding: 90px 0; }
 .audience-grid{ display: grid; grid-template-columns: 1fr 1fr; gap: 22px; }
 .audience-card{
-  background: var(--white);
+  background: var(--surface);
   border-radius: var(--radius-l);
   padding: 34px 32px;
   border: 1px solid var(--border);
@@ -698,6 +738,20 @@ section .eyebrow{ margin-bottom: 16px; }
   text-align: left;
 }
 .final-cta-actions{ display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+
+/* ==========================================================================
+   Single-colour logo badges (OpenAI, Cursor, terminal): black in light,
+   white in dark. The badge markup uses class="logo-badge logo-badge-mono".
+   ========================================================================== */
+.logo-badge-mono{ color: var(--logo-mono); }
+
+/* ==========================================================================
+   Dark theme: things a colour token can't switch
+   ========================================================================== */
+/* Partner logos are dark artwork. Show them as white marks in dark mode.
+   If you have light versions of these files, swap the files instead
+   (the way custom.css swaps .logoL / .logoD on the partners strip). */
+.darkTheme .strip-logos img:hover{ opacity: 1; }
 
 /* ==========================================================================
    Scroll reveal
