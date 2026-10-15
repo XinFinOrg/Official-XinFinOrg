@@ -712,13 +712,14 @@
                         <div class="col-lg-5 col-md-5">
                             <div class="mt-sm-5 mt-md-0 mt-lg-0">
                                 <div class="d-flex justify-content-center align-items-center">
-                                    <picture>
+                                    <img src="assets/images/xdc-globe.svg" class="img-fluid xdc-network-globe" alt="XDC Network: Powered by XDC Protocol">
+                                    <!--<picture>
                                         <source srcset="assets/images/networkImage.avif" type="image/avif" class="img-fluid" alt="XDC Network: Powered by XDC Protocol">
                                         <source srcset="assets/images/networkImage.webp" type="image/webp" class="img-fluid" alt="XDC Network: Powered by XDC Protocol">
                                         <source srcset="assets/images/networkImage.png" type="image/png" class="img-fluid" alt="XDC Network: Powered by XDC Protocol">
-                                        <!-- D: Fallback -->
+                                        <!-- D: Fallback 
                                         <img src="assets/images/networkImage.png" class="img-fluid" alt="XDC Network: Powered by XDC Protocol">
-                                    </picture>
+                                    </picture>-->
                                 </div>
                             </div>
                         </div>
@@ -748,7 +749,7 @@
                     <div class="card-info">
                         <p class="fw-500">Transactions</p>
                         <div class="cardHead fw-600 lh-1">
-                            <span class="counter-api counter" id="transactionCount">1,216.42 </span>
+                            <span class="counter-api counter" id="transactionCount">1,226.14 </span>
                             <span id="transactionText">M</span>
                         </div>
                         <div class="statsIcon">
@@ -762,7 +763,7 @@
                     <div class="card-info">
                         <p class="fw-500">Contracts</p>
                         <div class="cardHead fw-600 lh-1">
-                            <span class="counter-api counter" id="contractNumber">799,949</span>
+                            <span class="counter-api counter" id="contractNumber">803,675</span>
                             <span id="contractNumberText"></span>
                         </div>
                         <div class="statsIcon">
