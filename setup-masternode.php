@@ -301,7 +301,7 @@
 <!-- Masternode Requirements Ends -->
 
 <!-- Third-Party Masternode Services Starts -->
-<section class="px-80">
+<section class="px-80 partners-section">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-7 mb-5">
@@ -313,7 +313,7 @@
         </div>
         <div class="row row-flex">
             <div class="col-lg-12">
-                <div class="row justify-content-center">
+                <div class="row justify-content-center partners-grid">
                     <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
                         <a href="https://www.sbivc.co.jp/" target="_blank">
                             <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
@@ -649,15 +649,29 @@
                         </a>
                     </div>
 
+                    <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
+                        <a href="https://www.moneygram.com/us/en" target="_blank">
+                            <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
+                                <div class="card-info text-center">
+                                    <img src="assets/images/inside-page/masternode/moneygram-light.svg" class="center logoFs img-fluid iconL" alt="moneygram.com/us/en" />
+                                    <img src="assets/images/inside-page/masternode/moneygram.svg" class="center logoFs img-fluid iconD" alt="moneygram.com/us/en" />
+                                    <p class="card-info-desc fs-7 br-20 mb-0">MoneyGram</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
                 </div>
             </div>
         </div>
+        <!-- Mobile auto-scroller (built from the grid above by partners-scroller.js) -->
+        <div class="partners-scroller" aria-label="Partners"></div>
     </div>
 </section>
 <!-- Third-Party Masternode Services Ends -->
 
 <!-- Third-Party Masternode Services Starts -->
-<section class="px-80">
+<section class="px-80 partners-section partners-section--logos">
     <div class="container">
         <div class="row">
             <div class="col-lg-10 offset-lg-1 mb-5">
@@ -669,9 +683,9 @@
         </div>
         <div class="row row-flex">
             <div class="col-lg-12">
-                <div class="row justify-content-center">
+                <div class="row justify-content-center partners-grid">
                     <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
-                        <a href="https://indsoft.net" target="_blank">
+                        <a href="https://indsoft.net" target="_blank" rel="noopener noreferrer">
                             <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/indsoft-light.svg" class="center logoFs img-fluid iconL" alt="indsoft.net" />
@@ -682,7 +696,7 @@
                     </div>
 
                     <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
-                        <a href="https://nodeforge.io/" target="_blank">
+                        <a href="https://nodeforge.io/" target="_blank" rel="noopener noreferrer">
                             <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/nodeforge-light.svg" class="center logoFs img-fluid iconL" alt="nodeforge.io" />
@@ -693,7 +707,7 @@
                     </div>
 
                     <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
-                        <a href="https://www.zeeve.io/blockchain-protocols/deploy-xdc-node/" target="_blank">
+                        <a href="https://www.zeeve.io/blockchain-protocols/deploy-xdc-node/" target="_blank" rel="noopener noreferrer">
                             <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/zeeve-light.svg" class="center logoFs img-fluid iconL" alt="zeeve.io" />
@@ -704,7 +718,7 @@
                     </div>
 
                     <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
-                        <a href="https://www.blockdaemon.com/" target="_blank">
+                        <a href="https://www.blockdaemon.com/" target="_blank" rel="noopener noreferrer">
                             <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/blockdaemon-light.svg" class="center logoFs img-fluid iconL" alt="zeeve.io" />
@@ -715,7 +729,7 @@
                     </div>
 
                     <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
-                        <a href="https://tatum.io/" target="_blank">
+                        <a href="https://tatum.io/" target="_blank" rel="noopener noreferrer">
                             <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/tatum-light.svg" class="center logoFs img-fluid iconL" alt="tatum.io" />
@@ -726,7 +740,7 @@
                     </div>
 
                     <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
-                        <a href="https://nownodes.io/" target="_blank">
+                        <a href="https://nownodes.io/" target="_blank" rel="noopener noreferrer">
                             <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/nownodes-light.svg" class="center logoFs img-fluid iconL" alt="nownodes.io" />
@@ -737,7 +751,7 @@
                     </div>
 
                     <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
-                        <a href="https://www.asternodes.io/" target="_blank">
+                        <a href="https://www.asternodes.io/" target="_blank" rel="noopener noreferrer">
                             <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/asternodes-light.svg" class="center logoFs img-fluid iconL" alt="asternodes.io" />
@@ -748,7 +762,7 @@
                     </div>
 
                     <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
-                        <a href="https://www.ankr.com/" target="_blank">
+                        <a href="https://www.ankr.com/" target="_blank" rel="noopener noreferrer">
                             <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/ankr-light.svg" class="center logoFs img-fluid iconL" alt="ankr.com" />
@@ -759,7 +773,7 @@
                     </div>
 
                     <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
-                        <a href="https://thirdweb.com/" target="_blank">
+                        <a href="https://thirdweb.com/" target="_blank" rel="noopener noreferrer">
                             <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/thirdweb-light.svg" class="center logoFs img-fluid iconL" alt="thirdweb.com" />
@@ -770,7 +784,7 @@
                     </div>
 
                     <div class="col-lg-2 col-md-3 col-sm-6 mt-2 mb-2">
-                        <a href="https://goldsky.com/" target="_blank">
+                        <a href="https://goldsky.com/" target="_blank" rel="noopener noreferrer">
                             <div class="h-100 card px-3 p-4 bg-lightgray br-20 border-0">
                                 <div class="card-info text-center">
                                     <img src="assets/images/inside-page/masternode/goldsky-light.svg" class="center logoFs img-fluid iconL" alt="goldsky.com" />
@@ -782,6 +796,8 @@
                 </div>
             </div>
         </div>
+        <!-- Mobile auto-scroller (built from the grid above by the partners script) -->
+        <div class="partners-scroller" data-rows="2" aria-label="Third-party masternode services"></div>
         <div class="row row-flex">
             <div class="col-lg-10 offset-lg-1 mt-4">
                 <p class="subtitle text-center mb-0">

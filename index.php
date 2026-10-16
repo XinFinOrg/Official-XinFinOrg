@@ -67,6 +67,7 @@
                     <img src="assets/images/inside-page/masternode/clearstreet-light.svg" />
                     <img src="assets/images/inside-page/masternode/taurus-light.svg" />
                     <img src="assets/images/inside-page/masternode/amber-premium-light.svg" />
+                    <img src="assets/images/inside-page/masternode/moneygram-light.svg" />
                 </div>
                 <div class="logo_items">
                     <img src="assets/images/inside-page/masternode/sbivcjapan-light.svg" />
@@ -97,6 +98,7 @@
                     <img src="assets/images/inside-page/masternode/clearstreet-light.svg" />
                     <img src="assets/images/inside-page/masternode/taurus-light.svg" />
                     <img src="assets/images/inside-page/masternode/amber-premium-light.svg" />
+                    <img src="assets/images/inside-page/masternode/moneygram-light.svg" />
                 </div>
             </div>
 
@@ -130,6 +132,7 @@
                     <img src="assets/images/inside-page/masternode/clearstreet.svg" />
                     <img src="assets/images/inside-page/masternode/taurus.svg" />
                     <img src="assets/images/inside-page/masternode/amber-premium.svg" />
+                    <img src="assets/images/inside-page/masternode/moneygram.svg" />
                 </div>
                 <div class="logo_items">
                     <img src="assets/images/inside-page/masternode/sbivcjapan.svg" />
@@ -160,6 +163,7 @@
                     <img src="assets/images/inside-page/masternode/clearstreet.svg" />
                     <img src="assets/images/inside-page/masternode/taurus.svg" />
                     <img src="assets/images/inside-page/masternode/amber-premium.svg" />
+                    <img src="assets/images/inside-page/masternode/moneygram.svg" />
                 </div>
             </div>
         </div>

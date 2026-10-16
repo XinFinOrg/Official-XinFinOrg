@@ -552,4 +552,96 @@ function canvasApp(canvas) {
     // COUNTER UP
   });
   // ...
-})(jQuery);
+})
+
+
+/* Partners section – builds the mobile auto-scroller from the existing grid.
+   The grid in the PHP stays the single source of truth: add or remove a
+   partner there and the scroller updates automatically. */
+(function () {
+  function setup(section) {
+    var grid = section.querySelector(".partners-grid");
+    var scroller = section.querySelector(".partners-scroller");
+    if (!grid || !scroller || scroller.dataset.ready) return;
+    scroller.dataset.ready = "1";
+
+    var links = Array.prototype.map.call(grid.children, function (col) {
+      return col.querySelector("a");
+    }).filter(Boolean);
+    if (!links.length) return;
+
+    var ROWS = parseInt(scroller.dataset.rows, 10) || 3;
+    var size = Math.ceil(links.length / ROWS);
+
+    function makeItem(link, hidden) {
+      var a = link.cloneNode(true);
+      a.classList.add("partners-scroller__item");
+      a.setAttribute("rel", "noopener noreferrer");
+      a.setAttribute("draggable", "false");
+      if (hidden) {
+        a.setAttribute("aria-hidden", "true");
+        a.setAttribute("tabindex", "-1");
+      }
+      // load logos up front so they never pop in at the edges
+      a.querySelectorAll("img").forEach(function (img) {
+        img.loading = "eager";
+        img.decoding = "sync";
+        img.setAttribute("draggable", "false");
+        if (hidden) img.alt = "";
+      });
+      return a;
+    }
+
+    for (var r = 0; r < ROWS; r++) {
+      var rowLinks = links.slice(r * size, (r + 1) * size);
+      if (!rowLinks.length) continue;
+
+      var row = document.createElement("div");
+      row.className = "partners-scroller__row" + (r % 2 ? " partners-scroller__row--reverse" : "");
+      row.style.setProperty("--duration", (34 + r * 4) + "s");
+
+      var track = document.createElement("div");
+      track.className = "partners-scroller__track";
+
+      // two copies of the row = seamless loop (animation moves -50%)
+      rowLinks.forEach(function (l) { track.appendChild(makeItem(l, false)); });
+      rowLinks.forEach(function (l) { track.appendChild(makeItem(l, true)); });
+
+      row.appendChild(track);
+      scroller.appendChild(row);
+    }
+
+    // after a tap/click, drop focus from the card so the row keeps scrolling
+    // (also when the visitor comes back from the partner's tab)
+    function releaseFocus() {
+      var el = document.activeElement;
+      if (el && scroller.contains(el)) el.blur();
+    }
+    scroller.addEventListener("click", function () { setTimeout(releaseFocus, 0); });
+    scroller.addEventListener("pointerup", function () { setTimeout(releaseFocus, 0); });
+    window.addEventListener("focus", releaseFocus);
+    window.addEventListener("pageshow", releaseFocus);
+    document.addEventListener("visibilitychange", function () {
+      if (!document.hidden) releaseFocus();
+    });
+
+    // pause while the section is off-screen (smooth when scrolling back, saves battery)
+    if ("IntersectionObserver" in window) {
+      new IntersectionObserver(function (entries) {
+        scroller.classList.toggle("is-offscreen", !entries[0].isIntersecting);
+      }).observe(scroller);
+    }
+  }
+
+  function init() {
+    document.querySelectorAll(".partners-section").forEach(setup);
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", init);
+  } else {
+    init();
+  }
+})();
+
+(jQuery);

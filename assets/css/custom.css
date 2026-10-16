@@ -1277,6 +1277,110 @@ a .card-infoHead {
 	display: block;
 }
 
+/*---------------------------------------------------------
+	Third-Party Masternode Services Starts
+---------------------------------------------------------*/
+.partners-scroller { display: none; }
+
+@media (max-width: 767.98px) {
+  /* hide the long stacked grid, show the scroller instead */
+  .partners-section .partners-grid { display: none; }
+
+  .partners-section .partners-scroller {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin: 0 -12px;               /* bleed to the container edges */
+    /* soft fade on both sides so logos dissolve in/out */
+    -webkit-mask-image: linear-gradient(90deg,
+      transparent 0, rgba(0,0,0,.35) 20px, #000 56px,
+      #000 calc(100% - 56px), rgba(0,0,0,.35) calc(100% - 20px), transparent 100%);
+            mask-image: linear-gradient(90deg,
+      transparent 0, rgba(0,0,0,.35) 20px, #000 56px,
+      #000 calc(100% - 56px), rgba(0,0,0,.35) calc(100% - 20px), transparent 100%);
+  }
+
+  .partners-scroller__row { overflow: hidden; contain: paint; }
+
+  .partners-scroller__track {
+    display: flex;
+    width: max-content;
+    animation: partners-scroll var(--duration, 40s) linear infinite;
+    will-change: transform;
+    backface-visibility: hidden;
+    transform: translate3d(0, 0, 0);
+  }
+  .partners-scroller__row--reverse .partners-scroller__track { animation-direction: reverse; }
+
+  /* pause only while a finger is pressing the row, or while a keyboard user
+     tabs through it (:focus-visible) – a tap no longer leaves it stopped */
+  .partners-scroller__row:active .partners-scroller__track,
+  .partners-scroller__row:has(:focus-visible) .partners-scroller__track { animation-play-state: paused; }
+  .partners-scroller.is-offscreen .partners-scroller__track { animation-play-state: paused; }
+
+  /* each card: fixed width, margin (not gap) keeps the loop seamless */
+  .partners-scroller__item {
+    flex: 0 0 148px;
+    margin-right: 12px;
+    display: block;
+    text-decoration: none;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .partners-scroller__item .card {
+    padding: 14px 10px 10px !important;
+    border-radius: 16px;
+  }
+  .partners-scroller__item .card-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+  .partners-scroller__item .logoFs {
+    height: 34px;
+    width: auto;
+    max-width: 100%;
+    object-fit: contain;
+    margin: 0 auto;
+  }
+  .partners-scroller__item .card-info-desc {
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}
+
+/* logo-only cards (Third-Party Masternode Services) */
+@media (max-width: 767.98px) {
+  .partners-section--logos .partners-scroller__item .card {
+    min-height: 72px;
+    justify-content: center;
+    padding: 16px 12px !important;
+  }
+  .partners-section--logos .partners-scroller__item .logoFs { height: 36px; }
+}
+
+@keyframes partners-scroll {
+  from { transform: translate3d(0, 0, 0); }
+  to   { transform: translate3d(-50%, 0, 0); }
+}
+
+/* Reduced motion: no auto-scroll – each row becomes a swipeable strip */
+@media (max-width: 767.98px) and (prefers-reduced-motion: reduce) {
+  .partners-section .partners-scroller { -webkit-mask-image: none; mask-image: none; }
+  .partners-scroller__row {
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+    padding: 0 12px;
+  }
+  .partners-scroller__row::-webkit-scrollbar { display: none; }
+  .partners-scroller__track { animation: none; will-change: auto; }
+  .partners-scroller__item { scroll-snap-align: start; }
+  .partners-scroller__item[aria-hidden="true"] { display: none; }
+}
+
 
 
 /*-----	CSS Logo Slider ------*/
@@ -3090,7 +3194,11 @@ table th {
     display: block;
     margin-bottom: .625em;
   }
-  
+
+  .darkTheme table tr {
+    border-bottom: 3px solid #415367;
+  }
+
   table td {
     border-bottom: 1px solid #ddd!important;
     display: block;
@@ -3128,12 +3236,15 @@ table th {
 }
 .darkTheme table td {
     color: var(--bs-white);
-    border-color: #415367;
+    border-color: #415367!important;
 }
 .darkTheme table thead th {
     background-color: #415367;
     border-color: #242e39;
 }
-
-
+@media screen and (max-width: 650px) {
+.darkTheme table td:nth-child(1) {
+    background: #415367;
+}
+}
 
