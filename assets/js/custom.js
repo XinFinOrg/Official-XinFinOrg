@@ -555,7 +555,7 @@ function canvasApp(canvas) {
 })
 
 
-/* Partners section – builds the mobile auto-scroller from the existing grid.
+/* Partners section – on setup masternode page, builds the mobile auto-scroller from the existing grid.
    The grid in the PHP stays the single source of truth: add or remove a
    partner there and the scroller updates automatically. */
 (function () {
