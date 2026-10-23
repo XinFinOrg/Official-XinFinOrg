@@ -4733,37 +4733,47 @@
 <!-- Join the XDC Revolution Ends -->
 
 <!-- Need More Help Starts -->
-<section class="px-80">
+<section class="px-80" id="help">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 offset-lg-2">
-                <h3 class="title-m text-center">Need More Help?</h3>
-                <div class="subtitle subtitle-s text-center">Seeking help with setting up an XDC masternode? Access XDC documents, ask in the XDC Forum, or join Telegram's Developers community for assistance.</div>
+            <div class="col-lg-8 offset-lg-2 text-center">
+                <h2 class="title-m mb-3">Need More Help?</h2>
+                <p class="subtitle subtitle-s text-center mb-0">Seeking help with setting up an XDC masternode? Access XDC documents, ask in the XDC Forum, or join Telegram's Developers community for assistance.</p>
             </div>
         </div>
-        <div class="row mb-2">
-            <div class="col-lg-12 text-center">
-                <div class="btn-block multi mt-5">
-                    <a href="https://www.xdc.dev/" target="_blank">
-                        <button class="btn-blue"><i class="fas fa-comments me-1"></i> XDC Forum</button>
-                    </a>
-                    <a href="https://t.me/xinfintech" target="_blank">
-                        <button class="btn-blue"><i class="fa fa-paper-plane me-1"></i> XDC Dev Community</button>
-                    </a>
-                    <a href="https://docs.xdc.network" target="_blank">
-                        <button class="btn-blue"><i class="fa fa-book me-1"></i> XDC Documents</button>
-                    </a>
-                    <a href="https://coderun.ai/" target="_blank">
-                        <button class="btn-blue">
-                            <i class="fa me-1">
-                                <svg class="svg-icn" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 39 39">
-                                <path fill="#FFFFFF" d="M32,0H7.1C3.2,0,0,3.2,0,7.1V32C0,35.9,3.2,39,7.1,39H32c3.9,0,7.1-3.2,7.1-7.1V7.1C39,3.2,35.9,0,32,0zM7.4,16.3l6.5-7.1h6.9l-6.6,7.1l6.6,7.1h-6.9L7.4,16.3z M26.3,30.2h-6.9l6.6-7.1l-6.6-7.1h6.9l6.5,7.1L26.3,30.2z"/>        
-                                </svg>
-                            </i> AI based Technical Support
-						</button>
-                    </a>
-                </div>
-            </div>
+        <div class="help-grid">
+            <a href="https://www.xdc.dev/" target="_blank" rel="noopener" class="help-card">
+                <span class="help-card__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12a8 8 0 0 1-11.6 7.1L4 20l1-4.6A8 8 0 1 1 21 12z"/></svg></span>
+                <span class="help-card__body">
+                    <span class="help-card__title">XDC Forum</span>
+                    <span class="help-card__meta">Ask the developers</span>
+                </span>
+                <svg class="help-card__arrow" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+            </a>
+            <a href="https://t.me/xinfintech" target="_blank" rel="noopener" class="help-card">
+                <span class="help-card__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m22 2-7 20-4-9-9-4 20-7z"/><path d="M22 2 11 13"/></svg></span>
+                <span class="help-card__body">
+                    <span class="help-card__title">XDC Dev Community</span>
+                    <span class="help-card__meta">t.me/xinfintech</span>
+                </span>
+                <svg class="help-card__arrow" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+            </a>
+            <a href="https://docs.xdc.network" target="_blank" rel="noopener" class="help-card">
+                <span class="help-card__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20V3H6.5A2.5 2.5 0 0 0 4 5.5v14z"/><path d="M4 19.5A2.5 2.5 0 0 0 6.5 22H20v-5"/></svg></span>
+                <span class="help-card__body">
+                    <span class="help-card__title">XDC Documents</span>
+                    <span class="help-card__meta">Guides &amp; reference</span>
+                </span>
+                <svg class="help-card__arrow" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+            </a>
+            <a href="https://coderun.ai/" target="_blank" rel="noopener" class="help-card">
+                <span class="help-card__icon"><svg viewBox="0 0 39 39" fill="currentColor" aria-hidden="true"><path d="M32,0H7.1C3.2,0,0,3.2,0,7.1V32C0,35.9,3.2,39,7.1,39H32c3.9,0,7.1-3.2,7.1-7.1V7.1C39,3.2,35.9,0,32,0zM7.4,16.3l6.5-7.1h6.9l-6.6,7.1l6.6,7.1h-6.9L7.4,16.3z M26.3,30.2h-6.9l6.6-7.1l-6.6-7.1h6.9l6.5,7.1L26.3,30.2z"/></svg></span>
+                <span class="help-card__body">
+                    <span class="help-card__title">AI Technical Support</span>
+                    <span class="help-card__meta">coderun.ai</span>
+                </span>
+                <svg class="help-card__arrow" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+            </a>
         </div>
     </div>
 </section>

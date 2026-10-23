@@ -2620,8 +2620,8 @@ body.modal-open {
 .qtg-arrow { width: 18px; height: 18px; flex-shrink: 0; transition: transform .2s ease; }
 
 /* small labels */
-.qtg-eyebrow { display: inline-block; font-size: 13px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--qtg-accent); margin-bottom: 10px; }
-.qtg-badge { display: inline-flex; align-items: center; gap: 8px; font-size: 13px; font-weight: 600; padding: 6px 12px; border-radius: 999px; background: var(--qtg-tint); }
+.qtg-eyebrow { display: inline-block; font-size: 113px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--qtg-accent); margin-bottom: 10px; }
+.qtg-badge { display: inline-flex; align-items: center; gap: 6px; font-size: 11px; font-weight: 400; padding: 6px 12px; border-radius: 999px; background: var(--qtg-tint); }
 .qtg-badge__dot { width: 8px; height: 8px; border-radius: 50%; background: #d97706; }
 .qtg-badge--live .qtg-badge__dot { background: #16a34a; animation: qtg-pulse 2s infinite; }
 @keyframes qtg-pulse { 0% { box-shadow: 0 0 0 0 rgba(22,163,74,.5); } 70%, 100% { box-shadow: 0 0 0 8px rgba(22,163,74,0); } }
@@ -2755,7 +2755,7 @@ body.modal-open {
 /* partner cards */
 .bat-partner { padding: 32px; }
 .bat-partner__body { display: flex; flex-direction: column; gap: 18px; height: 100%; }
-.bat-partner__head { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.bat-partner__head { display: flex; align-items: center; justify-content: space-between; gap: 8px; flex-wrap: wrap; }
 .bat-partner__head .incLogo { background: #fff; }
 .bat-partner .bat-audience { margin-top: auto; }
 .bat-partner .bat-audience + .bat-cta { margin-top: 0; }
@@ -3025,7 +3025,7 @@ a .team-infoHead {
 
 .pDate {border-top: 1px solid #ccddf5;border-bottom: 1px solid #ccddf5;padding: 10px 0px;}
 .aDate {border-bottom: 1px solid #ccddf5;padding: 10px 0px;}
-.card-info img.incLogo {height: 46px;width: auto;/*border-radius: 6px;padding: 8px 16px;border: 1px solid #f3f5f6;*/}
+.card-info img.incLogo {height: 40px;width: auto;/*border-radius: 6px;padding: 8px 16px;border: 1px solid #f3f5f6;*/}
 
 .darkTheme .pDate {border-top-color:rgb(42 56 75);border-bottom-color: rgb(42 56 75);}
 .darkTheme .aDate {border-color: rgb(42 56 75);}
