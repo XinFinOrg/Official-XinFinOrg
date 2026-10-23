@@ -159,9 +159,9 @@
             </div>
         </div>
         <div class="row justify-content-center">
-            <div class="col-lg-10 col-md-12">
+            <div class="col-12">
                 <div class="row justify-content-center">
-                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 mt-2 mb-2">
                         <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                             <div class="card-info">
                                 <div class="socialHead"><i class="fas fa-paper-plane"></i>Telegram</div>
@@ -174,7 +174,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 mt-2 mb-2">
                         <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                             <div class="card-info">
                                 <div class="socialHead"><i class="fab fa-twitter"></i>Twitter</div>
@@ -187,7 +187,20 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 mt-2 mb-2">
+                        <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                            <div class="card-info">
+                                <div class="socialHead"><i class="fab fa-linkedin"></i>LinkedIn</div>
+                                <a href="https://www.linkedin.com/company/xinfin/" target="_blank" class="btn socialHead-button">
+                                    Follow
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 mt-2 mb-2">
                         <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                             <div class="card-info">
                                 <div class="socialHead"><i class="fab fa-reddit-alien"></i>Reddit</div>
@@ -200,7 +213,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 mt-2 mb-2">
                         <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                             <div class="card-info">
                                 <div class="socialHead"><i class="fab fa-github"></i>GitHub</div>
@@ -213,7 +226,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 mt-2 mb-2">
                         <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                             <div class="card-info">
                                 <div class="socialHead"><i class="fab fa-medium"></i>Medium</div>
@@ -226,12 +239,25 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 mt-2 mb-2">
+                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 mt-2 mb-2">
                         <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
                             <div class="card-info">
                                 <div class="socialHead"><i class="fab fa-discord"></i>Developers Forum</div>
                                 <a href="https://xdc.dev/" target="_blank" class="btn socialHead-button">
                                     Get involved
+                                    <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 mt-2 mb-2">
+                        <div class="card pt-4 pb-4 px-3 bg-lightgray br-20 border-0">
+                            <div class="card-info">
+                                <div class="socialHead"><i class="fab fa-youtube"></i>YouTube</div>
+                                <a href="https://www.youtube.com/channel/UCQaL6FixEQ80RJC0B2egX6g" target="_blank" class="btn socialHead-button">
+                                    Subscribe
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
                                     </svg>
