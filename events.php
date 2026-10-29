@@ -250,14 +250,14 @@
                             </div>
                         </a>
                     </div>
-                    <!--<div class="col-lg-4 col-md-6 mt-2 mb-3">
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://luma.com/0qwpaxre" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
                             <div class="">
                                 <picture>
                                     <source srcset="assets/images/inside-page/events/future-of-ai-quantum-web3-with-xdc-network.avif" type="image/avif" class="img-fluid" alt="Future of AI, Quantum, Web3 with XDC Networks">
                                     <source srcset="assets/images/inside-page/events/future-of-ai-quantum-web3-with-xdc-network.webp" type="image/webp" class="img-fluid" alt="Future of AI, Quantum, Web3 with XDC Networks">
                                     <source srcset="assets/images/inside-page/events/future-of-ai-quantum-web3-with-xdc-network.jpg" type="image/jpg" class="img-fluid" alt="Future of AI, Quantum, Web3 with XDC Networks">
-                                    <!-- D: Fallback 
+                                    <!-- D: Fallback -->
                                     <img src="assets/images/inside-page/events/future-of-ai-quantum-web3-with-xdc-network.jpg" class="img-fluid" alt="Future of AI, Quantum, Web3 with XDC Networks">
                                 </picture>
                                 <div class="ftr-arrow">
@@ -301,7 +301,7 @@
                                 </div>
                             </div>
                         </a>
-                    </div>-->
+                    </div>
                     <div class="col-lg-4 col-md-6 mt-2 mb-3">
                         <a href="https://luma.com/4zb0rcfl" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
                             <div class="">
