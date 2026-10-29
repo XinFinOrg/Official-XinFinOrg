@@ -8,7 +8,7 @@
 <section class="px-200 px-t250-b100 hero-inside">
     <div class="container">
         <div class="row">
-            <div class="col-lg-10 offset-lg-1 hero-content">
+            <div class="col-lg-8 offset-lg-2 hero-content">
                 <h1 class="title-m text-center mb-0">Upcoming XDC Network Events</h1>
                 <h2 class="subtitle subtitle-s fw-500 text-center mb-0">XDC Network has an exciting schedule of upcoming events, offering you the opportunity to meet the XDC community & XDC Ecosystem team in person.</h2>
             </div>
@@ -23,23 +23,23 @@
             <div class="col-lg-12">
                 <div class="row justify-content-center">                    
                     
-                    <div class="col-lg-8 col-md-8 mt-2 mb-3">
+                    <!--<div class="col-lg-8 col-md-8 mt-2 mb-3">
                         <div class="events-empty text-center">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="currentColor" fill-rule="evenodd" d="M4.129.5c.4 0 .726.325.726.726v.75c.618-.024 1.324-.024 2.124-.024h2.042c.8 0 1.506 0 2.124.024v-.75a.726.726 0 0 1 1.452 0v.894c.72.136 1.337.391 1.84.895.583.582.833 1.315.95 2.187.113.839.113 1.905.113 3.229V9.02c0 1.323 0 2.39-.113 3.229-.117.871-.367 1.605-.95 2.187-.582.583-1.316.833-2.187.95-.839.113-1.906.113-3.23.113H6.98c-1.323 0-2.39 0-3.23-.113-.87-.117-1.604-.367-2.186-.95-.583-.582-.833-1.316-.95-2.187C.5 11.411.5 10.344.5 9.02V8.432c0-1.324 0-2.39.113-3.23.117-.87.367-1.604.95-2.186.503-.504 1.12-.76 1.84-.895v-.894c0-.401.325-.726.726-.726Zm-1.54 3.541c.268-.268.644-.442 1.354-.538.731-.098 1.7-.1 3.09-.1h1.935c1.389 0 2.358.002 3.089.1.71.096 1.086.27 1.354.538s.442.644.538 1.354c.036.269.059.57.073.911H1.978c.014-.342.037-.642.073-.911.096-.71.27-1.086.538-1.354Zm-.637 3.717v1.21c0 1.389.001 2.358.1 3.089.095.71.27 1.086.537 1.354.268.267.644.442 1.354.538.731.098 1.7.1 3.09.1h1.935c1.389 0 2.358-.002 3.089-.1.71-.096 1.086-.27 1.354-.538s.442-.644.538-1.354c.098-.731.1-1.7.1-3.09v-.483l-.001-.726H1.952Z"></path></svg>
                             <h2 class="subtitle subtitle-s fw-500 text-center mt-3 mb-0">Stay tuned for upcoming events.</h2>
                         </div>
-                    </div>
+                    </div>-->
                     
 
-                    <!--<div class="col-lg-4 col-md-6 mt-2 mb-3">
-                        <a href="https://www.sibos.com/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
+                    <div class="col-lg-4 col-md-6 mt-2 mb-3">
+                        <a href="https://rwahour.com/" target="_blank" class="events-card h-100 card bg-lightgray br-20 border-0">
                             <div class="">
                                 <picture>
-                                    <source srcset="assets/images/inside-page/events/sibos-miami-2026.avif" type="image/avif" class="img-fluid" alt="Blockchain RIO 2026">
-                                    <source srcset="assets/images/inside-page/events/sibos-miami-2026.webp" type="image/webp" class="img-fluid" alt="Blockchain RIO 2026">
-                                    <source srcset="assets/images/inside-page/events/sibos-miami-2026.jpg" type="image/jpg" class="img-fluid" alt="Blockchain RIO 2026">
-                                    <!-- D: Fallback 
-                                    <img src="assets/images/inside-page/events/sibos-miami-2026.jpg" class="img-fluid" alt="Blockchain RIO 2026">
+                                    <source srcset="assets/images/inside-page/events/rwa-hour-2026.avif" type="image/avif" class="img-fluid" alt="RWA Hour 2026">
+                                    <source srcset="assets/images/inside-page/events/rwa-hour-2026.webp" type="image/webp" class="img-fluid" alt="BRWA Hour 2026">
+                                    <source srcset="assets/images/inside-page/events/rwa-hour-2026.jpg" type="image/jpg" class="img-fluid" alt="RWA Hour 2026">
+                                    <!-- D: Fallback -->
+                                    <img src="assets/images/inside-page/events/rwa-hour-2026.jpg" class="img-fluid" alt="RWA Hour 2026">
                                 </picture>
                                 <div class="ftr-arrow">
                                     <svg class="w-6 h-6 icon ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -49,7 +49,7 @@
                             </div>
                             <div class="events-card_content-wrapper">
                                 <div class="events-card_content">
-                                    <h4 class="card-infoHead">Sibos Miami</h4>
+                                    <h4 class="card-infoHead">RWA Hour 2026</h4>
                                     <div class="events-card_details-wrapper card-info">
                                         <div class="events-card_details">
                                             <div class="icon-1x1-small">
@@ -58,13 +58,7 @@
                                                 </svg>
                                             </div>
                                             <div class="events-card_date-wrapper">
-                                                <p class="mb-0">Sept 28, 2026</p>
-                                                <div class="icon-1x1-small w-embed">
-                                                    <svg width="auto" height="auto" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                        <path d="M5 12.5H19M19 12.5L12 5.5M19 12.5L12 19.5" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                    </svg>
-                                                </div>
-                                                <p class="mb-0">Oct 1, 2026</p>
+                                                <p class="mb-0">Nov 12, 2026</p>
                                             </div>
                                         </div>
                                         <div class="events-card_details-subwrapper">
@@ -75,14 +69,14 @@
                                                         <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
                                                     </svg>
                                                 </div>
-                                                <p class="mb-0">Miami Beach Convention Center</p>
+                                                <p class="mb-0">Jardim América, São Paulo</p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>                            
                         </a>
-                    </div>-->
+                    </div>
                     
                 </div>
             </div>
