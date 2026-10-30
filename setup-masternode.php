@@ -84,7 +84,7 @@
                         <ul class="listStyle fs-6 mt-3">
                             <li>A new addition under the XDC 2.0 consensus architecture.</li>
                             <li>Requires a <span class="fw-600">minimum 10 million XDC</span> contribution (no upper limit).</li>
-                            <li><span class="fw-600">Acts as backup</span> for Core Validator Masternodes — 2x Protector Nodes for each Core Validator.</li>
+                            <li><span class="fw-600">Acts as backup</span> for Core Validator Masternodes — 4x Protector Nodes for each Core Validator.</li>
                             <li>Enhances network fault tolerance and supports seamless block production during disruptions.</li>
                             <li><span class="fw-600">Earns proportional rewards</span> from the Core Validator’s reward pool (based on the number of associated Protector Nodes).</li>
                             <li><span class="fw-600">Ensures network resilience</span> through redundancy, adding another layer of security.</li>
