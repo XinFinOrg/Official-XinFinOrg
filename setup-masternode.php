@@ -223,7 +223,7 @@
         <div class="row row-flex">
             <div class="col-lg-10 offset-lg-1 mt-4">
                 <p class="subtitle text-center mb-0">
-                    <span class="fw-600"><b>Reward Distribution:</b></span> Masternode rewards are distributed automatically on-chain with every block. Rewards for Protector Nodes and Observer Nodes are currently distributed from the XDC Ecosystem Reward Wallet. Full on-chain automation for Protector and Observer Node rewards is planned for a future network upgrade, currently targeted for October 2026, subject to successful development, testing, governance approval, and mainnet deployment. Until then, the current distribution process will continue.
+                    <span class="fw-600"><b>Reward Distribution:</b></span> Masternode rewards are distributed automatically on-chain with every block. Rewards for Protector Nodes and Observer Nodes are currently distributed from the XDC Ecosystem Reward Wallet. Full on-chain automation for Protector and Observer Node rewards is planned for a future network upgrade, currently targeted for January 2027, subject to successful development, testing, governance approval, and mainnet deployment. Until then, the current distribution process will continue.
                 </p>
             </div>
         </div>
