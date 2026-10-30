@@ -294,7 +294,7 @@
                                                         <path d="M8 8.66699C9.10457 8.66699 10 7.77156 10 6.66699C10 5.56242 9.10457 4.66699 8 4.66699C6.89543 4.66699 6 5.56242 6 6.66699C6 7.77156 6.89543 8.66699 8 8.66699Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
                                                     </svg>
                                                 </div>
-                                                <p class="mb-0">Hong Kong Island, Hong Kong</p>
+                                                <p class="mb-0">Mumbai, Maharashtra</p>
                                             </div>
                                         </div>
                                     </div>
