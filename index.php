@@ -753,7 +753,7 @@
                     <div class="card-info">
                         <p class="fw-500">Transactions</p>
                         <div class="cardHead fw-600 lh-1">
-                            <span class="counter-api counter" id="transactionCount">1,226.14 </span>
+                            <span class="counter-api counter" id="transactionCount">1,258.95 </span>
                             <span id="transactionText">M</span>
                         </div>
                         <div class="statsIcon">
@@ -767,7 +767,7 @@
                     <div class="card-info">
                         <p class="fw-500">Contracts</p>
                         <div class="cardHead fw-600 lh-1">
-                            <span class="counter-api counter" id="contractNumber">803,675</span>
+                            <span class="counter-api counter" id="contractNumber">816,994</span>
                             <span id="contractNumberText"></span>
                         </div>
                         <div class="statsIcon">
